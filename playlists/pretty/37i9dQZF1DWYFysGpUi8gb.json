@@ -1,13 +1,29 @@
 {
   "description": "welcome to the underground. greetings from sorry.",
-  "num_followers": 318204,
+  "num_followers": 318188,
   "original_name": "melomania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGgNQAAAAC/cn6jt+KAocLAdLg5lzMz",
+  "snapshot_id": "Zx+2vAAAAAC7p+YZA1NPokADkoCJMLfm",
   "tracks": [
+    {
+      "added_at": "2024-10-28 16:07:24",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA"
+    },
     {
       "added_at": "2024-10-17 23:39:33",
       "album": {

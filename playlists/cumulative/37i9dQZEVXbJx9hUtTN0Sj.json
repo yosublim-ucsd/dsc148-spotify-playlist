@@ -163,7 +163,7 @@
     },
     {
       "album": {
-        "name": "2 Times (feat. Ann Lee)",
+        "name": "2 Times",
         "url": "https://open.spotify.com/album/0IeNInzCvCQXfXxmcDWwu1"
       },
       "artists": [
@@ -176,19 +176,19 @@
           "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Sound Of Legend",
-          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
-        },
-        {
           "name": "Ann Lee",
           "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+        },
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
         }
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 131200,
-      "name": "2 Times (feat. Ann Lee)",
+      "name": "2 Times",
       "url": "https://open.spotify.com/track/7v4U1UWo5FHd70GRRgzz8c"
     },
     {
@@ -972,6 +972,24 @@
       "duration_ms": 408690,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6"
+    },
+    {
+      "album": {
+        "name": "Dagdromer",
+        "url": "https://open.spotify.com/album/4lpQSBiCrjSLQfxbKshgG7"
+      },
+      "artists": [
+        {
+          "name": "MAKSIM",
+          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134687,
+      "name": "Als Ik Voor Jou Kon Kiezen",
+      "url": "https://open.spotify.com/track/0XdjvyQF5h1MPQjsQ5YKw0"
     },
     {
       "album": {
@@ -3846,7 +3864,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 136459,
       "name": "delulu",
       "url": "https://open.spotify.com/track/1SE81pYo16nzr3vWfNzNlB"
@@ -9270,7 +9288,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 159577,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
@@ -15444,7 +15462,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"

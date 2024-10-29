@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Hubert.",
-  "num_followers": 18088,
+  "num_followers": 18086,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,54 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "ACID MORO",
+        "url": "https://open.spotify.com/album/4bSY6sTUN5OXyNEoxtdEnz"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142y ATZ",
+          "url": "https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        },
+        {
+          "name": "Misza",
+          "url": "https://open.spotify.com/artist/2SYfs5oBqJPZaNtSEhlt4h"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "TOP OF THE TOP",
+      "url": "https://open.spotify.com/track/39enuB5hG5KcQLOiHNb8Gn"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "Z\u0142ote \u0142ezki",
+        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Z\u0142ote \u0142ezki",
+      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "NONSTOP",
         "url": "https://open.spotify.com/album/469rGu6MSyXHKPsnAQFbLJ"
       },
@@ -343,54 +391,6 @@
       "duration_ms": 242608,
       "name": "NONSTOP",
       "url": "https://open.spotify.com/track/6ZYojLrnfvENyrsvP5Lru8"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "Z\u0142ote \u0142ezki",
-        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
-      },
-      "artists": [
-        {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Z\u0142ote \u0142ezki",
-      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "ACID MORO",
-        "url": "https://open.spotify.com/album/4bSY6sTUN5OXyNEoxtdEnz"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142y ATZ",
-          "url": "https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE"
-        },
-        {
-          "name": "Kukon",
-          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
-        },
-        {
-          "name": "Miroff",
-          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
-        },
-        {
-          "name": "Misza",
-          "url": "https://open.spotify.com/artist/2SYfs5oBqJPZaNtSEhlt4h"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "TOP OF THE TOP",
-      "url": "https://open.spotify.com/track/39enuB5hG5KcQLOiHNb8Gn"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -947,6 +947,30 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "Sex Alkohol i Dragi",
+        "url": "https://open.spotify.com/album/6qfpCqj3cqcu2hzGUBtHy8"
+      },
+      "artists": [
+        {
+          "name": "Mlody Leszcz",
+          "url": "https://open.spotify.com/artist/5jLZ7LjTo6P73d0mjYwgXv"
+        },
+        {
+          "name": "Molehead",
+          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
+        },
+        {
+          "name": "PAWLACZ",
+          "url": "https://open.spotify.com/artist/2Pv5biZURORlt2m5tuouqm"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Sex Alkohol i Dragi",
+      "url": "https://open.spotify.com/track/0gO8hkbHxnM0UkC87pn9wW"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "ZE MN\u0104 CHOD\u0179",
         "url": "https://open.spotify.com/album/6s0KQVDICBnyXigH6MHQdk"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 156923,
       "name": "ZE MN\u0104 CHOD\u0179",
       "url": "https://open.spotify.com/track/3HSp54q7oEq5ISaklaL3qQ"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "Sex Alkohol i Dragi",
-        "url": "https://open.spotify.com/album/6qfpCqj3cqcu2hzGUBtHy8"
-      },
-      "artists": [
-        {
-          "name": "Mlody Leszcz",
-          "url": "https://open.spotify.com/artist/5jLZ7LjTo6P73d0mjYwgXv"
-        },
-        {
-          "name": "Molehead",
-          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
-        },
-        {
-          "name": "PAWLACZ",
-          "url": "https://open.spotify.com/artist/2Pv5biZURORlt2m5tuouqm"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Sex Alkohol i Dragi",
-      "url": "https://open.spotify.com/track/0gO8hkbHxnM0UkC87pn9wW"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "3w1",
-        "url": "https://open.spotify.com/album/3H398ralQidCL7fWpv2Ojk"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "3w1",
-      "url": "https://open.spotify.com/track/3jv3p8GJm9JElvTVVejj2B"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "KOCYK",
         "url": "https://open.spotify.com/album/6otKunCaKoVcwp8kwzQD0t"
       },
@@ -1211,22 +1195,18 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "osiedle_sanpillon_mixtape_vol_I",
-        "url": "https://open.spotify.com/album/1dBxrpFXL1aoF0jQXnP5PM"
+        "name": "3w1",
+        "url": "https://open.spotify.com/album/3H398ralQidCL7fWpv2Ojk"
       },
       "artists": [
         {
-          "name": "Dawid Borysiewicz",
-          "url": "https://open.spotify.com/artist/1EgNpnW5JwC8roiAfUETVx"
-        },
-        {
-          "name": "Jazz Gang Beatz",
-          "url": "https://open.spotify.com/artist/1bK9uLuk23SZCZqZ3oJjti"
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
         }
       ],
-      "duration_ms": 345384,
-      "name": "skurwysyn_roku.mp3",
-      "url": "https://open.spotify.com/track/2PPeWfSxzcW7ZQc0V6neoE"
+      "duration_ms": 126315,
+      "name": "3w1",
+      "url": "https://open.spotify.com/track/3jv3p8GJm9JElvTVVejj2B"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1243,6 +1223,26 @@
       "duration_ms": 183455,
       "name": "JORDAN PEELE",
       "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "osiedle_sanpillon_mixtape_vol_I",
+        "url": "https://open.spotify.com/album/1dBxrpFXL1aoF0jQXnP5PM"
+      },
+      "artists": [
+        {
+          "name": "Dawid Borysiewicz",
+          "url": "https://open.spotify.com/artist/1EgNpnW5JwC8roiAfUETVx"
+        },
+        {
+          "name": "Jazz Gang Beatz",
+          "url": "https://open.spotify.com/artist/1bK9uLuk23SZCZqZ3oJjti"
+        }
+      ],
+      "duration_ms": 345384,
+      "name": "skurwysyn_roku.mp3",
+      "url": "https://open.spotify.com/track/2PPeWfSxzcW7ZQc0V6neoE"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "Alladyn",
+        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 164694,
+      "name": "Alladyn",
+      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "FALA MIXTAPE vol. 3",
         "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Alladyn",
-        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 164694,
-      "name": "Alladyn",
-      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "pe\u0142ne serca puste drogi",
         "url": "https://open.spotify.com/album/2lF0Mw7jmUKGVsvqnC9jup"
       },
@@ -1395,30 +1395,6 @@
       "duration_ms": 207575,
       "name": "U OLGI",
       "url": "https://open.spotify.com/track/5ejvXxFb6IYQz9heNRZq49"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "Z\u0142ota Rybka EP",
-        "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
-      },
-      "artists": [
-        {
-          "name": "3BRAT",
-          "url": "https://open.spotify.com/artist/6skCqmC5tK5nvmIc5ASGXi"
-        },
-        {
-          "name": "Bruno",
-          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
-        },
-        {
-          "name": "HAZE1",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Balaclava",
-      "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1511,6 +1487,30 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "Z\u0142ota Rybka EP",
+        "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
+      },
+      "artists": [
+        {
+          "name": "3BRAT",
+          "url": "https://open.spotify.com/artist/6skCqmC5tK5nvmIc5ASGXi"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        },
+        {
+          "name": "HAZE1",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Balaclava",
+      "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "Jasny Obraz Ciemnych Czas\u00f3w",
         "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
       },
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "\u015blepa kuchnia.",
+        "url": "https://open.spotify.com/album/2QNTmzl5fGcljZDfG8Dt7V"
+      },
+      "artists": [
+        {
+          "name": "\u2022 ukeboy \u2022",
+          "url": "https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR"
+        }
+      ],
+      "duration_ms": 271445,
+      "name": "KLARA",
+      "url": "https://open.spotify.com/track/7yO5F8PJ5DeBektF5ByLl1"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "Jak Wiatr",
         "url": "https://open.spotify.com/album/5cN3vJHGTPewbKmv528jR6"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 181160,
       "name": "Jak Wiatr",
       "url": "https://open.spotify.com/track/2OrxshZKgNCFlQkCP6sYth"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "\u015blepa kuchnia.",
-        "url": "https://open.spotify.com/album/2QNTmzl5fGcljZDfG8Dt7V"
-      },
-      "artists": [
-        {
-          "name": "\u2022 ukeboy \u2022",
-          "url": "https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR"
-        }
-      ],
-      "duration_ms": 271445,
-      "name": "KLARA",
-      "url": "https://open.spotify.com/track/7yO5F8PJ5DeBektF5ByLl1"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/2bcHJw3kLGmZRxllP47y5A"
-      },
-      "artists": [
-        {
-          "name": "PAL SECAM",
-          "url": "https://open.spotify.com/artist/5vvqUDRm52q6oGcYiCjlng"
-        }
-      ],
-      "duration_ms": 226451,
-      "name": "Above",
-      "url": "https://open.spotify.com/track/5drwzhz18fvBgQlWmK7ndw"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "Kolejno\u015b\u0107 wykonywania dzia\u0142a\u0144",
         "url": "https://open.spotify.com/album/61Wdrtn1VeFmayVxE0TfrP"
       },
@@ -2107,18 +2091,18 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "narkotyk",
-        "url": "https://open.spotify.com/album/15P2RlWopDH4vWdv7yPkis"
+        "name": "Above",
+        "url": "https://open.spotify.com/album/2bcHJw3kLGmZRxllP47y5A"
       },
       "artists": [
         {
-          "name": "Erwik",
-          "url": "https://open.spotify.com/artist/1IiRcsh4LaL0NVGv4eOV3r"
+          "name": "PAL SECAM",
+          "url": "https://open.spotify.com/artist/5vvqUDRm52q6oGcYiCjlng"
         }
       ],
-      "duration_ms": 110344,
-      "name": "narkotyk",
-      "url": "https://open.spotify.com/track/04RzWg0y8xj7PAfmRUUv3u"
+      "duration_ms": 226451,
+      "name": "Above",
+      "url": "https://open.spotify.com/track/5drwzhz18fvBgQlWmK7ndw"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -2147,6 +2131,22 @@
       "duration_ms": 188108,
       "name": "Deadpool",
       "url": "https://open.spotify.com/track/5Lj9prDmsVxOVMLoksEgNl"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "narkotyk",
+        "url": "https://open.spotify.com/album/15P2RlWopDH4vWdv7yPkis"
+      },
+      "artists": [
+        {
+          "name": "Erwik",
+          "url": "https://open.spotify.com/artist/1IiRcsh4LaL0NVGv4eOV3r"
+        }
+      ],
+      "duration_ms": 110344,
+      "name": "narkotyk",
+      "url": "https://open.spotify.com/track/04RzWg0y8xj7PAfmRUUv3u"
     },
     {
       "added_at": "2024-10-25 15:02:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 808 songs - 2 day 15 hr 23 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 809 songs - 2 day 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -816,5 +816,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 806 | [Gate Crash](https://open.spotify.com/track/2DJpule67eaYaBBMlRhkxP) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Gate Crashers](https://open.spotify.com/album/1XCOtw4cTIZuA4X1ZAwPhS) | 6:33 |
 | 807 | [Nuits brésiliennes](https://open.spotify.com/track/0wOWQjMGq6hYWqTbn8P2mi) | [Christophe Laurent](https://open.spotify.com/artist/6SnbxMuFL4DufaekMElUES) | [Vidal Benjamin présente Disco Sympathie](https://open.spotify.com/album/0DM8soBOZE46omYT1xPJDt) | 5:53 |
 | 808 | [Cccan't You See \- French Extended Mix](https://open.spotify.com/track/6SJI5QVIGt4wdxzH6KKABw) | [Vicious Pink](https://open.spotify.com/artist/5De1ZtOD9ZUyckEjIKFXAi) | [Vicious Pink \(Expanded Edition\)](https://open.spotify.com/album/0JkPB8WbjORO4cWnOkpOH0) | 7:19 |
+| 809 | [Len Mou Raid](https://open.spotify.com/track/02RpRGFZrEJsUWAqL8DD9o) | [Battery Cremil](https://open.spotify.com/artist/7j1Cq8wprHBrqsNmRqsoSL) | [Les Grands Succès De Battery Cremil](https://open.spotify.com/album/5wZfN9IhRcseIZ9RZBMobL) | 5:37 |
 
-Snapshot ID: `AAADjb1aIdhnRkd99kKcEv0KzP6qRk8e`
+Snapshot ID: `AAADjjWJDxVRW1qSweIDf5R6FKsf6oGg`

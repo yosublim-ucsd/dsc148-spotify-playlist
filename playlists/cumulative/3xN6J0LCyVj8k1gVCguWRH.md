@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,101 songs - 9 day 14 hr 18 min
+4,103 songs - 9 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2298,6 +2298,7 @@
 | [Metamorphosis](https://open.spotify.com/track/1uw7a3Mf9uM7JyCsJzJPSo) | [Ujwal.](https://open.spotify.com/artist/3gp5V3GGo7UuiuMLWP0AsB) | [Metamorphosis](https://open.spotify.com/album/6QNiROXzk864gRmHrWFmDV) | 3:13 | 2024-10-11 | 2024-10-23 |
 | [METAPHOR](https://open.spotify.com/track/7vzyUpvHpHcNjmO0ihe0dJ) | [CAPSULE](https://open.spotify.com/artist/4ILSGJ6h30d3KuJLnzk0EZ) | [METAPHOR](https://open.spotify.com/album/5xxo8K1ckY4juG2wCRdtjg) | 3:26 | 2023-02-16 | 2023-03-13 |
 | [Meteors](https://open.spotify.com/track/0CBaaXYtRTHpmzmg8DCiew) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [What I've Found](https://open.spotify.com/album/2QWfWlbGrrNtT3LR03hYys) | 2:38 | 2020-08-03 | 2020-08-20 |
+| [Meu amor](https://open.spotify.com/track/0LeceOiSrPgXbBnw3wei3q) | [Emig LV](https://open.spotify.com/artist/35fs2avyMB1m4SqrP26pWx) | [Meu amor](https://open.spotify.com/album/3fTRneYeq7p58FSEAZ4W12) | 2:57 | 2024-10-28 |  |
 | [Mhmm](https://open.spotify.com/track/6eoNgEqrrszt5ctKLU6Isc) | [Toak](https://open.spotify.com/artist/0wipVeeTuOwzVpl2RgSa2z) | [Tears of a Poet](https://open.spotify.com/album/6XmRyDUGMU3De1f6sJRkjb) | 2:47 | 2023-01-23 | 2023-02-24 |
 | [Mi Paso](https://open.spotify.com/track/5sxSgdwHBphYXpyRwkOhE8) | [Isa Navarro](https://open.spotify.com/artist/36UWMmw48VBENoexcFMlMO) | [Mi Paso](https://open.spotify.com/album/5cKzGrS16OSJD4zkfAJN0W) | 2:49 | 2024-09-30 | 2024-10-12 |
 | [Miami](https://open.spotify.com/track/4gilCVXzumEV2KupA2qb3b) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Miami](https://open.spotify.com/album/6evDUjijB4kgR6z5G8vb9C) | 2:51 | 2020-03-30 | 2020-04-09 |
@@ -2517,6 +2518,7 @@
 | [No Regrets](https://open.spotify.com/track/74yGylFcKKnVJVhbifhPLW) | [Becca Swan](https://open.spotify.com/artist/0Ys8Mr5x5RwYnw4DpmXXUC) | [No Regrets](https://open.spotify.com/album/5xwwYUoqtCHkOYGgZEykvx) | 3:17 | 2024-08-23 | 2024-09-03 |
 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2024-04-27 | 2024-05-14 |
 | [No Such Thing as Normal](https://open.spotify.com/track/0uHuwOM2Z8koeLddFtXr7o) | [The Landing](https://open.spotify.com/artist/0k8OKrLrQaizmJKKtMIs3z) | [No Such Thing as Normal](https://open.spotify.com/album/6HQ4zXHfFv0ViEHraVEwSv) | 3:50 | 2021-10-20 | 2021-11-06 |
+| [NO TE DESESPERES](https://open.spotify.com/track/2aJpaLsXhdHv6a8Pzw7vZG) | [Emig LV](https://open.spotify.com/artist/35fs2avyMB1m4SqrP26pWx) | [NO TE DESESPERES](https://open.spotify.com/album/3WGhwNBDtEGmxIhmKfQJd5) | 2:33 | 2024-10-28 |  |
 | [No Te Lo Mereces](https://open.spotify.com/track/3egtBfWrAU4tqbYk4LQ4ox) | [Victoria Yoi](https://open.spotify.com/artist/3qDaumbNDX2IrizHdita3T) | [No Te Lo Mereces](https://open.spotify.com/album/2vLoBN1rPBUhcWT8wkhiVd) | 3:15 | 2024-02-12 | 2024-02-20 |
 | [No Tengas Miedo \- Version Rock](https://open.spotify.com/track/3t4XGuKnvS4zVCfp3bxHsN) | [Senova](https://open.spotify.com/artist/47ziKUSrrbZzpxR8ULeWd9) | [No Tengas Miedo \(Version Rock\)](https://open.spotify.com/album/6qdnvfIsBW9HeUus5tcEtf) | 3:25 | 2024-01-17 | 2024-02-01 |
 | [No Vacancy](https://open.spotify.com/track/6kAZkZAS8wstH370bqw1An) | [Ruby Gilbert](https://open.spotify.com/artist/2Zr2NuboIV3VOb1ensdBBh) | [No Vacancy](https://open.spotify.com/album/5YqR7sRJFnRqS84gYuQtLS) | 3:11 | 2021-04-30 | 2021-05-16 |

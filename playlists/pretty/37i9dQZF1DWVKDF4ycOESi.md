@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Olly in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,769 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,819 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 81 | [Sanctum \(feat\. Marion Di Napoli\)](https://open.spotify.com/track/43smiSsmoONd2gAXBqJKVj) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Marion Di Napoli](https://open.spotify.com/artist/0EEWddjwQo2f8eL6wNSa9C) | [Sanctum EP](https://open.spotify.com/album/3QjGt7WzLDNg5siLv7RcM4) | 5:51 |
 | 82 | [Song of hope](https://open.spotify.com/track/7iXOrfBdLbdpbtmN1BMSAf) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 1](https://open.spotify.com/album/57qOz97NbtxqcIPD9yL3Br) | 4:29 |
 | 83 | [DENSO](https://open.spotify.com/track/0njz49mqw1tF0gPLnPSSxY) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [DENSO](https://open.spotify.com/album/1jhoDs2VlvQ03J8lCZRVdn) | 3:39 |
-| 84 | [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 |
+| 84 | [Immaculate \(feat\. Saweetie\)](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate \(feat\. Saweetie\)](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 |
 | 85 | [ECCO SÌ, QUELLA LÌ È STATA UNA COSA STUPIDA](https://open.spotify.com/track/0JKKBsTjS3Bj1JIRgXhwkg) | [GattoToro](https://open.spotify.com/artist/2dm7GeEdTeZkUX2Rsf3gbg) | [GattoToro X NOVE](https://open.spotify.com/album/2jCvm6zuSG9nxTh9PFYn2N) | 3:42 |
 | 86 | [fari spenti / denti stretti](https://open.spotify.com/track/2LAJrtnzr3bZl33M6tvjHq) | [Pandorea](https://open.spotify.com/artist/6tWC5Umk7qZ8gOXZLFALvk) | [fari spenti / denti stretti](https://open.spotify.com/album/18DZ9Knp6uYxdkX4vjbApZ) | 3:39 |
 | 87 | [MASchERE](https://open.spotify.com/track/1E2x2lw4TEhLX6S6C5jrfq) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [MASchERE](https://open.spotify.com/album/1ozgVo3PsXVUSWmKAdh9rc) | 2:32 |

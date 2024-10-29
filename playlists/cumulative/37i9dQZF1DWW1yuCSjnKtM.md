@@ -2,7 +2,7 @@
 
 ### [!!!](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
 
-> These ones are taking off 🚀🚀🚀 Cover: ROSÉ & Bruno Mars
+> These ones are taking off 🚀🚀🚀 Cover: Gracie Abrams
 
 273 songs - 14 hr 35 min
 

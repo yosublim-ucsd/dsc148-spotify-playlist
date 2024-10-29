@@ -4,7 +4,7 @@
 
 > Monsoon, Monsoon songs, Monsoon Hits, LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional Songs, Love songs, 2023, 2022, Top Hits, Bollywood hits, Arijit Singh Hits, Hindi Songs, Lofi, Soothing songs, Night songs, Broken, Romance, All Time best Bollywood son
 
-169 songs - 12 hr 48 min
+170 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Laal Ishq](https://open.spotify.com/track/4hXHlAc9ZOJY5pGbdfuWsa) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [Goliyon Ki Raasleela Ram\-Leela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76ok2HKEfqZ8FaAy6JpCNp) | 6:27 | 2023-07-25 |  |
 | [Lafzon Mein \- Reprise](https://open.spotify.com/track/3JQRUaygl3ApLh3hqKafIW) | [Mayur Jumani](https://open.spotify.com/artist/1UdoO4D61N7yBby4yUgNSE), [Abhijeet Sawant](https://open.spotify.com/artist/4Wil7eB65FIL818mwO5dIc), [Biddu](https://open.spotify.com/artist/2BzH5YmKSqiVskBsC6PUw2) | [Lafzon Mein \- Reprise](https://open.spotify.com/album/3afynEYx9QTvpYuhLQcaNz) | 2:31 | 2023-10-10 |  |
 | [Lahu Munh Lag Gaya](https://open.spotify.com/track/1YKF4Eutw7SXJooEz0UFA9) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [Goliyon Ki Raasleela Ram\-Leela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76ok2HKEfqZ8FaAy6JpCNp) | 5:00 | 2022-06-09 |  |
+| [Lehrein](https://open.spotify.com/track/2n6Y0uDH6hzDj9sWh34f68) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Aisha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc) | 4:50 | 2024-10-28 |  |
 | [Main Agar](https://open.spotify.com/track/45IVxWsY3y0wLLk77bZWlA) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tubelight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Y3f3J030knsEk3epIvO0R) | 4:39 | 2022-05-10 |  |
 | [Main Jahaan Rahoon](https://open.spotify.com/track/38WTxU8ZWOM7FXf7E07qcG) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Krishna Beuraa](https://open.spotify.com/artist/3cY5ariKFsYqoHm8n2ccvD) | [Namastey London \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZR77G3tBegpfEgGwuAGDX) | 6:22 | 2023-07-25 |  |
 | [Main Kya Karoon](https://open.spotify.com/track/4GagsETs7qfR3cwQkRcXgb) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Nikhil Paul George](https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 4:30 | 2022-05-10 |  |

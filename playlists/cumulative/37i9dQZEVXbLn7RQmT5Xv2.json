@@ -4267,6 +4267,28 @@
     },
     {
       "album": {
+        "name": "Fe Eineh",
+        "url": "https://open.spotify.com/album/5RottDCbiAScwKZaSAcbfb"
+      },
+      "artists": [
+        {
+          "name": "Disco Misr",
+          "url": "https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi"
+        },
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154561,
+      "name": "Fe Eineh",
+      "url": "https://open.spotify.com/track/1iXs29VLepoUwk7iCVJ8KG"
+    },
+    {
+      "album": {
         "name": "Fe Einy",
         "url": "https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt"
       },
@@ -10838,7 +10860,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 281756,
       "name": "Seket Leh",
       "url": "https://open.spotify.com/track/50a2GGMcmDCMKTo73OppNW"
@@ -12806,7 +12828,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 172427,
       "name": "Wein",
       "url": "https://open.spotify.com/track/1QSMPPfQD7uMBbT0KN1ey2"
@@ -15374,7 +15396,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 189818,
       "name": "\u0632\u0645\u0627\u0646\u064a \u0635\u0627\u0628\u0646\u064a \u0639\u064a\u0627\u0631",
       "url": "https://open.spotify.com/track/0zyAjQxKKcs5UAdctKc0xR"

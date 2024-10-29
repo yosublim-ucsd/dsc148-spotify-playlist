@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Powers Pleasant
 
-1,123 songs - 2 day 5 hr 13 min
+1,125 songs - 2 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [I Got Paid Today](https://open.spotify.com/track/0e956pEKFmTCHO5fSwFXP8) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I Got Paid Today](https://open.spotify.com/album/4DsaSDzXR06Zr1IBVFPa0i) | 3:32 | 2023-11-03 | 2023-12-16 |
 | [I Hate Everything](https://open.spotify.com/track/5Vt1BSaPCpgqeERjFSykmm) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [I Hate Everything](https://open.spotify.com/album/7AWk5kjw2sLUKuqrKsme7o) | 3:33 | 2024-07-12 | 2024-08-17 |
 | [I Hate When Girls Die](https://open.spotify.com/track/0zn4FzMODiFeyb974FfjGF) | [ITSOKTOCRY](https://open.spotify.com/artist/2BUUAEl4BwFRA9NBDgMWSf) | [I Hate When Girls Die](https://open.spotify.com/album/73iofO6Yc5Dv0mlbXJj32N) | 2:27 | 2023-11-03 | 2024-01-27 |
+| [I Killed You](https://open.spotify.com/track/3GdwjAsCsoE79ObhsJFyYb) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:48 | 2024-10-28 |  |
 | [I Like](https://open.spotify.com/track/4FV1qGukKvdaVtBcv853Bi) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [I Like](https://open.spotify.com/album/4vYP74UV7y5RWLhp3mGC38) | 2:06 | 2023-09-01 | 2023-09-30 |
 | [I Love It](https://open.spotify.com/track/13jvtLuv8vRg2fmvClhWP1) | [Jaah SLT](https://open.spotify.com/artist/6oUVQSkgFOPuv5g2hRCONc), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [I Love It](https://open.spotify.com/album/3h4aKAY35vJTr0GFpbB03r) | 2:51 | 2021-12-03 | 2022-02-05 |
 | [I Love You, I Hate You](https://open.spotify.com/track/7boAnwNPhMVap1oJiIsKCe) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [I Love You, I Hate You](https://open.spotify.com/album/75ncNW4YUYAZ1WsHLpR3sf) | 4:15 | 2022-03-25 | 2022-04-20 |
@@ -523,7 +524,7 @@
 | [INSANE](https://open.spotify.com/track/3zyPKGiLhdw9SpBTCuffNW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:13 | 2024-03-15 | 2024-05-04 |
 | [INSTANT TRANSFER \(feat\. billy woods\)](https://open.spotify.com/track/1duL1mw9wWk0Dj0WfvQQD2) | [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [INSTANT TRANSFER](https://open.spotify.com/album/32r3qSRm8OvUcT8UaUmb88) | 2:49 | 2024-08-09 | 2024-08-17 |
 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 | 2022-06-17 | 2022-11-18 |
-| [IT’S GIVING...LEO](https://open.spotify.com/track/2jitcPfnTwXrsPwdKGUKft) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 2:51 | 2024-05-31 |  |
+| [IT’S GIVING...LEO](https://open.spotify.com/track/2jitcPfnTwXrsPwdKGUKft) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 2:51 | 2024-05-31 | 2024-10-29 |
 | [Ivory Coast Cocktail](https://open.spotify.com/track/7rJ4JkJORGMTnGFE2hd7u3) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [KEVLAR MONEY BAGS](https://open.spotify.com/album/1zw6CTbNWXZNdHaQjRHsF2) | 2:02 | 2023-07-28 | 2023-08-19 |
 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 | 2024-09-27 | 2024-10-12 |
 | [JD's REVENGE](https://open.spotify.com/track/1cRK9E0MUzxjiVSWhgYCDC) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [JD's REVENGE](https://open.spotify.com/album/1wyTY0dWTlbntVOgdvXtyL) | 2:16 | 2023-02-10 | 2023-11-04 |
@@ -813,6 +814,7 @@
 | [R.I.P.](https://open.spotify.com/track/3CoHgbwTCOhigOIJP60uja) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [R.I.P.](https://open.spotify.com/album/1RUt29Os0Cu7xwz9HeZBE2) | 2:41 | 2023-11-17 | 2024-01-13 |
 | [Rabbit Stew](https://open.spotify.com/track/0fdedVLP9eXSYr6UtZ9al7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 3:35 | 2023-05-05 | 2024-02-24 |
 | [Radioactive](https://open.spotify.com/track/79vX1IZRXami6H0rIkED9T) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Radioactive](https://open.spotify.com/album/047ykT34pfdijw5HeU02cy) | 3:04 | 2023-02-17 | 2023-04-01 |
+| [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 | 2024-10-28 |  |
 | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/track/29M1mAkW4VlxJ4noKN0RxY) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/album/52IKnS2cBXHstdyJjQGVkv) | 2:35 | 2021-09-03 | 2022-07-27 |
 | [Rainforest](https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb) | 2:42 | 2022-10-07 | 2022-10-15 |
 | [Rainforest](https://open.spotify.com/track/7thhWP37F1tHFcrnwLNaao) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/00tnsObPbrXxDLTPBHhzbH) | 2:42 | 2021-09-03 | 2022-09-09 |

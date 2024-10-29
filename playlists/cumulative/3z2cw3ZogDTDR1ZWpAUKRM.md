@@ -4,7 +4,7 @@
 
 > 
 
-37 songs - 2 hr 45 min
+38 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,12 +13,13 @@
 | [Bread & Wine](https://open.spotify.com/track/6CgrS3cN3hBo4uCft5uFom) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Love & War & The Sea In Between](https://open.spotify.com/album/3jrVFS6lW7HvxOKN7QPQC8) | 3:54 | 2024-05-10 |  |
 | [Can't Win For Nothing](https://open.spotify.com/track/3wTOBV4b65YjvwOYs2yCuY) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Results Take Time](https://open.spotify.com/album/2ZNgCAl9uWdJiil7vb45LP) | 3:50 | 2024-04-15 |  |
 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 | 2024-04-08 | 2024-05-03 |
-| [Chasing Ghosts](https://open.spotify.com/track/5NsejBqTH83xlbKFdjScSw) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [We Go On](https://open.spotify.com/album/6R41RzrVQb0K3VCkz6JVWe) | 3:24 | 2024-04-08 |  |
+| [Chasing Ghosts](https://open.spotify.com/track/5NsejBqTH83xlbKFdjScSw) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [We Go On](https://open.spotify.com/album/6R41RzrVQb0K3VCkz6JVWe) | 3:24 | 2024-04-08 | 2024-10-29 |
 | [Crooked Ways \(feat\. Terence F\. Clark\)](https://open.spotify.com/track/3qmofcHM3aKP3OADKjAORj) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Terence F\. Clark](https://open.spotify.com/artist/1POjjGDdXoEeXv27GsMxp5) | [Crooked](https://open.spotify.com/album/3HmkL2AENDW4XO9Da0NGy9) | 6:22 | 2024-05-02 | 2024-05-17 |
 | [Darkness And Trees \- Reprise](https://open.spotify.com/track/45kgznK2dCoCfhIXhanR1y) | ['Come From Away' Company](https://open.spotify.com/artist/3yVB4N2PhQy60dAxzCoNdQ) | [Come From Away \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6SisHkIpxo4JN5kRcBEv9Z) | 1:44 | 2024-05-16 | 2024-06-03 |
 | [Dear Me](https://open.spotify.com/track/1mBqbGYfsVJH1z2DHPNSbT) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [Every Mile Mattered](https://open.spotify.com/album/51HWO4nZXpw3nRosU2Nwsz) | 5:27 | 2024-04-08 | 2024-05-11 |
 | [Deep Magic](https://open.spotify.com/track/3dNOUOwnIKlPnlDrQLX5Ut) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [DEEP MAGIC](https://open.spotify.com/album/6azWJbjlgtEJWpPgdi2H6g) | 3:51 | 2024-04-08 | 2024-04-26 |
 | [Dinner with Friends](https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-04-08 | 2024-04-24 |
+| [Don't Forget Me](https://open.spotify.com/track/5tlXwZ4m7dbRZyG4natJZ1) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:25 | 2024-10-28 |  |
 | [Enemy, love.](https://open.spotify.com/track/1FJuSxwLugTKphYmrLDuhn) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:18 | 2024-04-25 | 2024-05-11 |
 | [Go On](https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sleep Through The Static](https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz) | 4:34 | 2024-04-15 | 2024-07-18 |
 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2024-04-08 | 2024-04-16 |

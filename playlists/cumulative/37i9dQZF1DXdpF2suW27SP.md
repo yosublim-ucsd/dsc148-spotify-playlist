@@ -4,7 +4,7 @@
 
 > Waze entra na zona.
 
-642 songs - 1 day 10 hr 11 min
+643 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Impressionanti](https://open.spotify.com/track/0yiExFdxS1wafmmTcKdEHA) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Nu Ta Combina](https://open.spotify.com/album/0HrHUZGAPxXZtenHkbPczt) | 3:20 | 2023-05-11 | 2023-06-16 |
 | [INCOMODA](https://open.spotify.com/track/2muGXaGyDvLDSxDLQ8saH0) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [INCOMODA](https://open.spotify.com/album/6YvCWfI7d359D5k7DocfIC) | 3:16 | 2024-02-16 | 2024-03-08 |
 | [Incondicional](https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Incondicional](https://open.spotify.com/album/2P0qrKBUGVHvzvZLcParmC) | 3:25 | 2023-11-17 | 2024-03-08 |
+| [Interestelar](https://open.spotify.com/track/0itv2Wy3TruEEZy4dRsu32) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Interestelar](https://open.spotify.com/album/02PsewjrcAwfmprEsadxBa) | 3:08 | 2024-10-24 |  |
 | [International Bizz](https://open.spotify.com/track/1mmYrB8rIUWA73nsivDPu4) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [International Bizz](https://open.spotify.com/album/7g3nF0SFu2SNbMnVjyGX4K) | 3:14 | 2023-11-10 | 2023-12-15 |
 | [Inveja](https://open.spotify.com/track/0IQii4lHVHPkFwh9UbR6Jv) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Inveja](https://open.spotify.com/album/35eFQ1whgIJXC4NsBwYrem) | 2:32 | 2024-06-20 | 2024-07-19 |
 | [Inércia](https://open.spotify.com/track/3mXJ9Nkm6IrCXQcZbniVsA) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Hubris](https://open.spotify.com/album/4pr4vezbi9qKK6qPYTtMQY) | 2:33 | 2024-05-09 | 2024-06-01 |

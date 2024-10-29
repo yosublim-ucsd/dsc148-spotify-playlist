@@ -1,12 +1,12 @@
 {
   "description": "The best indie music of the moment. Declan McKenna is spoiling us this year \ud83e\udd42",
-  "num_followers": 728893,
+  "num_followers": 728871,
   "original_name": "The Indie List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsXwAAAAAAE1txuOprd04q0yjrRho+S",
+  "snapshot_id": "ZyAhowAAAABg8ETSH9lrF+5u4Ac6g0B/",
   "tracks": [
     {
       "added_at": "2024-10-25 04:00:00",
@@ -367,6 +367,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "The Beginning Of The End (feat. DMA'S)",
+        "url": "https://open.spotify.com/album/6Zx7KmsMOLDheCjXZAYaSE"
+      },
+      "artists": [
+        {
+          "name": "Courteeners",
+          "url": "https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2"
+        },
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 221565,
+      "name": "The Beginning Of The End (feat. DMA'S)",
+      "url": "https://open.spotify.com/track/2H39sC1tPnvxNCFamU3m2N"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/5EHtfFanIuTsXqKjvjgikB"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 194611,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "The Beginning Of The End (feat. DMA'S)",
-        "url": "https://open.spotify.com/album/6Zx7KmsMOLDheCjXZAYaSE"
-      },
-      "artists": [
-        {
-          "name": "Courteeners",
-          "url": "https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2"
-        },
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 221565,
-      "name": "The Beginning Of The End (feat. DMA'S)",
-      "url": "https://open.spotify.com/track/2H39sC1tPnvxNCFamU3m2N"
     },
     {
       "added_at": "2024-10-25 04:00:00",

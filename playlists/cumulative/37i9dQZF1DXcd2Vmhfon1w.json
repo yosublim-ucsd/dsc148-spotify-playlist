@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 171073,
       "name": "Dale la Vuelta",
       "url": "https://open.spotify.com/track/1mq5FpxYirqLJbVHmM4euY"
@@ -2586,6 +2586,24 @@
       "duration_ms": 115218,
       "name": "Despierta",
       "url": "https://open.spotify.com/track/67ZcggjJBQTxQwK5QNxb9p"
+    },
+    {
+      "album": {
+        "name": "Diabla",
+        "url": "https://open.spotify.com/album/4M3kwhaviuamydOcfq6B8C"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158285,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/52QRvnfB3dsZ8lAxA9LBMh"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 124709,
+  "num_followers": 124779,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -1339,30 +1339,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Promised Land (Innellea Remix)",
-        "url": "https://open.spotify.com/album/54wJZluSHOKa9X5JWTuB0m"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        },
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 275760,
-      "name": "Promised Land - Innellea Remix",
-      "url": "https://open.spotify.com/track/5Bm80brVErgdRSw5sEuyg4"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Simulation",
         "url": "https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V"
       },
@@ -1399,6 +1375,30 @@
       "duration_ms": 234795,
       "name": "Beyond Us - Hatshepsut Version",
       "url": "https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Promised Land (Innellea Remix)",
+        "url": "https://open.spotify.com/album/54wJZluSHOKa9X5JWTuB0m"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 275760,
+      "name": "Promised Land - Innellea Remix",
+      "url": "https://open.spotify.com/track/5Bm80brVErgdRSw5sEuyg4"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 234448,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Just Like Home (Kevin de Vries Remix)",
         "url": "https://open.spotify.com/album/13YJVBkMGH2lfiBvKJabWr"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 302981,
       "name": "Just Like Home - Kevin de Vries Remix",
       "url": "https://open.spotify.com/track/6UckF71HWN5rxwB3y7LHrd"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 234448,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Nothing Ever Changes (Camelphat Remix)",
         "url": "https://open.spotify.com/album/0SkcnpoGxDAbhHcj9LA0tk"
       },
@@ -1743,26 +1763,6 @@
       "duration_ms": 258236,
       "name": "Nothing Ever Changes - Camelphat Remix",
       "url": "https://open.spotify.com/track/2g0mTSsQCz7C36ee5Varka"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Uno Y Cuatro",
+        "url": "https://open.spotify.com/album/7MR72n7GG87mK19Xh2Rwiu"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Uno Y Cuatro",
+      "url": "https://open.spotify.com/track/1TLbo5g8bNTqKRjYjUqDSO"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Ghosts Again (Remixes)",
         "url": "https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12"
       },
@@ -1919,18 +1935,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Uno Y Cuatro",
-        "url": "https://open.spotify.com/album/7MR72n7GG87mK19Xh2Rwiu"
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Uno Y Cuatro",
-      "url": "https://open.spotify.com/track/1TLbo5g8bNTqKRjYjUqDSO"
+      "duration_ms": 159555,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1947,22 +1963,6 @@
       "duration_ms": 223137,
       "name": "Sun Will Rise",
       "url": "https://open.spotify.com/track/026NUefvu7f2tdEqTRXT8J"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        }
-      ],
-      "duration_ms": 159555,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -2011,30 +2011,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Morenita (Marco Generani Remix)",
-        "url": "https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Marco Generani",
-          "url": "https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 147844,
-      "name": "Morenita - Marco Generani Remix",
-      "url": "https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/61cJV13UL9K8JL5dOcqS9o"
       },
@@ -2059,6 +2035,30 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Morenita (Marco Generani Remix)",
+        "url": "https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Marco Generani",
+          "url": "https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 147844,
+      "name": "Morenita - Marco Generani Remix",
+      "url": "https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "See You In Dreams",
         "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
       },
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Stephan Bodzin",
-          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
-        }
-      ],
-      "duration_ms": 283246,
-      "name": "Falcon",
-      "url": "https://open.spotify.com/track/5gZSEoy3LStIBZdT46klLm"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Shapes in the Spray",
         "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 429055,
       "name": "Shapes in the Spray",
       "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Ana",
+        "url": "https://open.spotify.com/album/5gWO17CbmyvXOtiukxEcdr"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "duration_ms": 238093,
+      "name": "Ana",
+      "url": "https://open.spotify.com/track/5PpqIZqDaY0dtKSxjLNO64"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -2175,26 +2175,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Close Encounters",
-        "url": "https://open.spotify.com/album/5YxOhkGIWLYZRXWc5V173x"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        },
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Close Encounters",
-      "url": "https://open.spotify.com/track/0vYxkkJ5bGTs3OzP1E3Isl"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "A Lot Like Heaven (Space Motion Remix)",
         "url": "https://open.spotify.com/album/7rS4CkomP9uq8l9J2GTmc7"
       },
@@ -2219,26 +2199,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Ana",
-        "url": "https://open.spotify.com/album/5gWO17CbmyvXOtiukxEcdr"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Zafrir",
-          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
-        }
-      ],
-      "duration_ms": 238093,
-      "name": "Ana",
-      "url": "https://open.spotify.com/track/5PpqIZqDaY0dtKSxjLNO64"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "WHISPERS",
         "url": "https://open.spotify.com/album/66MXIQMytwsMQdYtXSlG1C"
       },
@@ -2259,6 +2219,26 @@
       "duration_ms": 211612,
       "name": "WHISPERS",
       "url": "https://open.spotify.com/track/0f6oK62DN8UqVHZzR2JKwr"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Close Encounters",
+        "url": "https://open.spotify.com/album/5YxOhkGIWLYZRXWc5V173x"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        },
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Close Encounters",
+      "url": "https://open.spotify.com/track/0vYxkkJ5bGTs3OzP1E3Isl"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -2303,6 +2283,42 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Stephan Bodzin",
+          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
+        }
+      ],
+      "duration_ms": 283246,
+      "name": "Falcon",
+      "url": "https://open.spotify.com/track/5gZSEoy3LStIBZdT46klLm"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0Ktu6EbRo5a0oJPUajXHfC"
       },
@@ -2323,18 +2339,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "David O'Dowda",
+          "url": "https://open.spotify.com/artist/0kgnPJElpccT4mc6IMZ653"
         }
       ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
+      "duration_ms": 197416,
+      "name": "Glowing",
+      "url": "https://open.spotify.com/track/2lL7pDoVpRcHSkAbpoe2Yi"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -2475,6 +2499,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
+      },
+      "artists": [
+        {
+          "name": "Dyzen",
+          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
+        },
+        {
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
+        }
+      ],
+      "duration_ms": 452682,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/5ABKjOsLVghJRSyB7jguFo"
       },
@@ -2495,26 +2539,6 @@
       "duration_ms": 197777,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/4ym9Ti3UWOduBs7eh2KaCG"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Radiant",
-        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
-      },
-      "artists": [
-        {
-          "name": "Dyzen",
-          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
-        },
-        {
-          "name": "Sideral",
-          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
-        }
-      ],
-      "duration_ms": 452682,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -2555,26 +2579,6 @@
       "duration_ms": 222594,
       "name": "Ringo - Miss Monique Remix",
       "url": "https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "RIDERS ON THE STORM",
-        "url": "https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS"
-      },
-      "artists": [
-        {
-          "name": "RUBACK",
-          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 310819,
-      "name": "RIDERS ON THE STORM",
-      "url": "https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2"
     }
   ],
   "unique_name": "Melodic Techno Elements",

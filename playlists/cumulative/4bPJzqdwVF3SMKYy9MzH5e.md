@@ -4,7 +4,7 @@
 
 > 
 
-2,001 songs - 4 day 11 hr 35 min
+2,002 songs - 4 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1520,6 +1520,7 @@
 | [Self Destruct \(feat\. Wuki\)](https://open.spotify.com/track/534u9PwMAEffT9oprFGIwC) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Troubled Paradise](https://open.spotify.com/album/7xCaejeRwZ0h10RSfXuBeK) | 2:15 | 2023-04-16 |  |
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2022-10-08 |  |
 | [Self Love \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Coi Leray\)](https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:09 | 2023-07-24 |  |
+| [Self\-Destruct](https://open.spotify.com/track/2eqjpko1AQuTdxkBFhAcRG) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Absolute](https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG) | 2:19 | 2024-10-29 |  |
 | [Separation Anxiety](https://open.spotify.com/track/2XycvTajCfgJFNYDY1JVTG) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Manila Ice](https://open.spotify.com/album/1KkpoRciTIH31x5ZiSb1UP) | 3:47 | 2022-07-10 |  |
 | [Serenade for Strings in E Major, Op\. 22, B\. 52: II\. Tempo di valse](https://open.spotify.com/track/3sAYxq1986j3ydqLv6jwUJ) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Prague Chamber Orchestra](https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL), [Petr Skvor](https://open.spotify.com/artist/3X4vtZfo29CzvenatIDhf1) | [Dvořák: Serenade for Strings, Czech Suite](https://open.spotify.com/album/41RV3g6Fjyzfe31bEXtMNT) | 7:12 | 2023-04-24 |  |
 | [Serial Killer](https://open.spotify.com/track/5u9rE1tUbut2sZqdwBTmp8) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Troubled Paradise](https://open.spotify.com/album/7xCaejeRwZ0h10RSfXuBeK) | 3:57 | 2022-11-07 |  |

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour\. Foto: Melanie Williams y el príncipe idiota.
 
-655 songs - 1 day 14 hr 35 min
+656 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Algo de Mí, Algo de Vos](https://open.spotify.com/track/5QLSpgVelBjHe6S7tMxzY7) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Algo de Mí, Algo de Vos](https://open.spotify.com/album/2OjRONkL7HZt4jhaXX0MDn) | 4:33 | 2022-06-03 | 2023-06-17 |
 | [Algo Especial](https://open.spotify.com/track/7CvOAdS95Jt41VPw7WyOER) | [Joint Ravolta](https://open.spotify.com/artist/6iOXlI4iuOoXZO1gzp99UW), [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01) | [Hartó](https://open.spotify.com/album/5UsHHKrC04Hq8tKe9UYJjF) | 5:23 | 2022-06-03 | 2022-07-02 |
 | [Algo Hay Que Hacer](https://open.spotify.com/track/6eo2fBWQrDJ05F02mEnxDi) | [Malditos Vecinos](https://open.spotify.com/artist/4DrNcaxBidf9OtpQr8oCB9) | [Algo Hay Que Hacer](https://open.spotify.com/album/0WjEtiNB42rPV0eJuVAaEt) | 2:36 | 2022-07-01 | 2022-07-10 |
-| [Allá de Vos](https://open.spotify.com/track/3DpOnMiVTnx9DLiyIdGPmt) | [Ramiro Sagasti](https://open.spotify.com/artist/1Sj0iRkHTI1Z1gNSM7l4Lz) | [Cinta Testigo, Vol\. 1](https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW) | 3:15 | 2024-10-25 |  |
+| [Allá de Vos](https://open.spotify.com/track/3DpOnMiVTnx9DLiyIdGPmt) | [Ramiro Sagasti](https://open.spotify.com/artist/1Sj0iRkHTI1Z1gNSM7l4Lz) | [Cinta Testigo, Vol\. 1](https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW) | 3:15 | 2024-10-25 | 2024-10-29 |
 | [Alright](https://open.spotify.com/track/4CPQQFfIbkeZCYBrayDe8U) | [El Perrodiablo](https://open.spotify.com/artist/76X8p2EEoEJmDhgzLExcbZ) | [Epílogo](https://open.spotify.com/album/7zEA6AWDyBwtAgFbVswjgt) | 4:09 | 2022-07-15 | 2022-07-21 |
 | [Amarras](https://open.spotify.com/track/4rwAzcLfS0Rze0QkJU9QgB) | [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Amarras](https://open.spotify.com/album/0ht5lOQi8PPTlwUeyl29el) | 4:37 | 2024-06-07 | 2024-09-20 |
 | [Amor Express](https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Amor Express](https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT) | 3:34 | 2023-06-16 |  |
@@ -515,6 +515,7 @@
 | [Puñal](https://open.spotify.com/track/2Qk4jBRm07hWUp2F0oF5N1) | [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Rampaluz](https://open.spotify.com/album/7y4wPtBbZlQfvAxsGfXwhH) | 2:48 | 2022-09-09 | 2023-03-03 |
 | [Que No](https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 3:50 | 2022-06-03 | 2023-10-27 |
 | [Que Todo Ocurra](https://open.spotify.com/track/0d5gK1GjaBD9OIzX6nGiAX) | [Surikata Ki](https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7) | [Sistema](https://open.spotify.com/album/56td7MvmbqeaXN3LXmtxhi) | 3:35 | 2022-07-15 | 2022-07-26 |
+| [Quiero Ser una Luciérnaga](https://open.spotify.com/track/0gdCMqI69uSqiUMJ6ymqIF) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd), [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Ramiro Garcia Morete](https://open.spotify.com/artist/5YB1X9Z6pRk36FRshYqGGE), [Tato Urbiztondo](https://open.spotify.com/artist/3EaKKv3hOH8Umk2ZN8nSW2), [Emiliano Santillan](https://open.spotify.com/artist/5L8XFW3sEM3771fgtGkUvG) | [Cinta Testigo, Vol\. 1](https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW) | 3:11 | 2024-10-25 |  |
 | [Qué Decir?](https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h) | [L E O](https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2) | [Soy un Extraño](https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi) | 2:34 | 2022-07-01 | 2023-08-03 |
 | [Qué me importa](https://open.spotify.com/track/24h868TwxJicgv2geeijAv) | [Pelopincho](https://open.spotify.com/artist/14V8tDnnDCXIVaJctOamBG) | [Loop Adolescente](https://open.spotify.com/album/1OGDMGGnVTOkj8NxpvMMMb) | 2:33 | 2022-07-01 | 2022-07-27 |
 | [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 | 2023-08-11 | 2023-10-06 |

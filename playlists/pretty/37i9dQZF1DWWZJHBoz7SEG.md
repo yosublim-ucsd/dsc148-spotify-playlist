@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Ponemos el altar, se viene el Clásico de Otoño, y saquen los ofnis para la F1\. Belinda y Kenia OS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,348 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,445 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

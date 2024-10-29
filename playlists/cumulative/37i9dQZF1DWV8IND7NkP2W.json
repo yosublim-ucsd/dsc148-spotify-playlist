@@ -667,6 +667,28 @@
     },
     {
       "album": {
+        "name": "and sleep.",
+        "url": "https://open.spotify.com/album/3rjnPBQyCgaRP8EKFP5j0T"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
+          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
+        },
+        {
+          "name": "\u4e00\u670dtrack",
+          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239178,
+      "name": "and sleep.",
+      "url": "https://open.spotify.com/track/0YRJFUpukTWMsUFBY2neaP"
+    },
+    {
+      "album": {
         "name": "Andromeda",
         "url": "https://open.spotify.com/album/0njXoQ7vLXMJIjx1b6Jlid"
       },
@@ -9560,7 +9582,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 212846,
       "name": "Ordinary days - Hajime ver.1",
       "url": "https://open.spotify.com/track/3TXwnZ3gcvwNKasLy0vRvQ"
@@ -13659,6 +13681,24 @@
     },
     {
       "album": {
+        "name": "Walk This Way",
+        "url": "https://open.spotify.com/album/11Kme6bKXzU6xuqGKdps25"
+      },
+      "artists": [
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92866,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/3lseD95TO3PlblobWtNGGn"
+    },
+    {
+      "album": {
         "name": "wandering",
         "url": "https://open.spotify.com/album/1k86vOeo1g770Hj8o4AIr5"
       },
@@ -13714,7 +13754,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 117142,
       "name": "Water Circles",
       "url": "https://open.spotify.com/track/0Nm5Bp7nRHP398BEnIOnhK"

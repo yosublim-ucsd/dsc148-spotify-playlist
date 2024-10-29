@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,427 likes - 69 songs - 3 hr 23 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,428 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 67 | [Give Me Tonight](https://open.spotify.com/track/6dt85xHUDKL9GnQLkpRZoh) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Cali Bee](https://open.spotify.com/artist/5TS9KmKGJiZsiw8LTexDI3) | [Give Me Tonight](https://open.spotify.com/album/5PdVLmTlcd65WUXPyu3eFs) | 3:34 |
 | 68 | [The 90s Range](https://open.spotify.com/track/0Pf7EY9ctw9cAY7RDZHtin) | [Bryson Hill](https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA) | [The 90s Range](https://open.spotify.com/album/3kCRVAENUECcZhvE3fBqq2) | 3:36 |
 | 69 | [Always Chase The Sun](https://open.spotify.com/track/0uXllbMGTvFVL1gP66q0Sr) | [Electric Cinema](https://open.spotify.com/artist/7HpqdvvEhsTi48z5DB6BOj) | [Always Chase The Sun](https://open.spotify.com/album/3rbz9OH2hUmkTChW5Kc5eL) | 4:48 |
+| 70 | [Bassline Odyssey](https://open.spotify.com/track/5vzs8QzeY9h2BTCdPefein) | [Nessø](https://open.spotify.com/artist/15zqFxyXkm096rs1qnVn7b), [Jauks](https://open.spotify.com/artist/5c2pc0IyfK0r5p9bLBIT5e) | [Bassline Odyssey](https://open.spotify.com/album/1khqP9oeCEyKcac7l9YJiR) | 2:51 |
 
-Snapshot ID: `AAAKDSscfFrO69U5wAEIoWEUTI/3tLqu`
+Snapshot ID: `AAAKDvaZoUulU9rJ9qidIv2z7rTtsTtV`

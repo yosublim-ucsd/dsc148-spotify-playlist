@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with Glimmer (pictured), Heart to Gold, Day Saints, Split Chain and more.",
+  "description": "The shape of noise to come with Day Saints (pictured), Demo Division, Movements, Navtec and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "After Forever",
+        "url": "https://open.spotify.com/album/6z34D1YRoL9iW8yUTjo3hx"
+      },
+      "artists": [
+        {
+          "name": "kairo.",
+          "url": "https://open.spotify.com/artist/7u4NmIWGOhBGRjbrXMBXoa"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238690,
+      "name": "Bliss Bliss",
+      "url": "https://open.spotify.com/track/48CG1IUOn64VHIkEKWo7Xa"
+    },
+    {
+      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH"
       },
@@ -1530,6 +1548,24 @@
       "duration_ms": 200473,
       "name": "Bring Me the Head of My Enemy",
       "url": "https://open.spotify.com/track/5sV8nDtUfBR58sOrSOqMRr"
+    },
+    {
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA"
+      },
+      "artists": [
+        {
+          "name": "Flycatcher",
+          "url": "https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176981,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
     },
     {
       "album": {
@@ -2902,7 +2938,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 149465,
       "name": "Crushing Me",
       "url": "https://open.spotify.com/track/5h8EGfF4j1az4GNCAgQBkF"
@@ -4090,6 +4126,24 @@
       "duration_ms": 165963,
       "name": "Fade",
       "url": "https://open.spotify.com/track/0Aqn5qAIAConeBMdzmWCwa"
+    },
+    {
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/3KKZevK5ptFVyA5xPF5Ul1"
+      },
+      "artists": [
+        {
+          "name": "Drift",
+          "url": "https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249879,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/1aAYShm16G1hLvlEArQjwx"
     },
     {
       "album": {
@@ -9914,7 +9968,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 206333,
       "name": "Sliding Doors",
       "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
@@ -10184,7 +10238,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 233328,
       "name": "Spectre",
       "url": "https://open.spotify.com/track/6GsXN6OCNWR3GaDoNQTmwW"

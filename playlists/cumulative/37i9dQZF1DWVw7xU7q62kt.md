@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-298 songs - 14 hr 57 min
+299 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Fork In The Rhodes](https://open.spotify.com/track/4bnlVHD6HzfiXsSfSR8uWO) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 3:58 | 2024-03-20 | 2024-06-05 |
 | [FRAGILE](https://open.spotify.com/track/1BY7dyFvIb0GilbJp7MZ82) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [OCEAN](https://open.spotify.com/album/4OhdSAUk38vuqxwdWEBLn4) | 4:47 | 2023-11-10 | 2024-08-05 |
 | [FRAGILE](https://open.spotify.com/track/6s5yV1VjNxtuMZZbxPIWDS) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [OCEAN](https://open.spotify.com/album/6xLTeSHt4h9gj0VDNXnoL4) | 4:47 | 2023-12-01 | 2024-04-19 |
+| [Fragments](https://open.spotify.com/track/3BvyotmsH79tsYMTi1866L) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Fragments](https://open.spotify.com/album/6Bqr1RCqqU6lagfTtBmBFG) | 2:10 | 2024-10-25 |  |
 | [Fresh Pots](https://open.spotify.com/track/3juEMd8URzkwbNFS3FiSG2) | [aronsmith](https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu) | [Fresh Pots](https://open.spotify.com/album/6RmP1A0GDtekJU1Kn6ohTS) | 2:32 | 2024-01-26 | 2024-10-21 |
 | [fugla](https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [fugla](https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO) | 2:10 | 2023-08-22 |  |
 | [Futuristic Earth](https://open.spotify.com/track/53crbk8yg8EblYm5WVtp9t) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Futuristic Earth](https://open.spotify.com/album/65B4vUhJSJ8ZqVpszxFJ2h) | 3:29 | 2023-10-13 | 2024-08-28 |
@@ -246,7 +247,7 @@
 | [stroll](https://open.spotify.com/track/48CXPSMqlczCjqHD3tWKRF) | [Cosmic Wildlife](https://open.spotify.com/artist/01yuxqHdzegJb5Aq4V8gsB) | [stroll](https://open.spotify.com/album/0az5tgCzDGhdWbhUmRTWyT) | 3:31 | 2023-10-13 | 2024-09-02 |
 | [Stuntin](https://open.spotify.com/track/6UK5UFLbPcuD5fR5coYJDc) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Stuntin](https://open.spotify.com/album/5CMN6lCBhH85DPqHtRPtUL) | 2:20 | 2024-09-06 |  |
 | [Subdivisão](https://open.spotify.com/track/3I5VB6Zfemby4tyyXIHpmP) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU) | [Subdivisão](https://open.spotify.com/album/2WaviSBDrps4BxMTdog2ql) | 2:44 | 2024-01-26 |  |
-| [Sultry](https://open.spotify.com/track/6ZUhnFzIxYcDX8wfJVLyn0) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP), [Imperial Sax](https://open.spotify.com/artist/3Br54UjOUik54bV82AUdLa) | [Sultry](https://open.spotify.com/album/05mvyTGHSOo7rleio6zJT6) | 2:09 | 2024-10-25 |  |
+| [Sultry](https://open.spotify.com/track/6ZUhnFzIxYcDX8wfJVLyn0) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP), [Imperial Sax](https://open.spotify.com/artist/3Br54UjOUik54bV82AUdLa) | [Sultry](https://open.spotify.com/album/05mvyTGHSOo7rleio6zJT6) | 2:09 | 2024-10-25 | 2024-10-29 |
 | [Sun Drops](https://open.spotify.com/track/329x1AzCPqgaeiYLayRKQt) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Sun Drops](https://open.spotify.com/album/6JhhmF9rjvZ7rIIMqsa91k) | 3:04 | 2023-08-22 |  |
 | [Sun Gazing](https://open.spotify.com/track/6xiI4Pkk5g3N2xCAsp1zBw) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Sun Gazing](https://open.spotify.com/album/2qGJaBsVHZtmJd5VcWky3u) | 2:06 | 2024-08-30 |  |
 | [Sun Go Down](https://open.spotify.com/track/1M9UnuKIPJd9kVdz45GIML) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Blowout](https://open.spotify.com/album/1PtMyRufUsbQ81yMxXjSym) | 3:12 | 2024-01-26 | 2024-04-19 |

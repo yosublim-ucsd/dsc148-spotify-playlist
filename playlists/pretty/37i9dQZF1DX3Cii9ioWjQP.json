@@ -1,6 +1,6 @@
 {
   "description": "All about Korean Jazz hits & new (Cover: John Park(\uc874\ubc15))",
-  "num_followers": 21041,
+  "num_followers": 21056,
   "original_name": "Jazzy Korea",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "Zx46iQAAAAD8JsWzSYRdGB3R/7WFeKOX",
   "tracks": [
+    {
+      "added_at": "2024-10-27 13:05:13",
+      "album": {
+        "name": "Soft Swing Jazz Piano",
+        "url": "https://open.spotify.com/album/3S4bCzZKDnDykoadEVoA7S"
+      },
+      "artists": [
+        {
+          "name": "LeoSky",
+          "url": "https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "SoftSwing",
+      "url": "https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO"
+    },
     {
       "added_at": "2024-10-27 13:05:13",
       "album": {

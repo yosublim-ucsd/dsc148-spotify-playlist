@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-558 songs - 1 day 9 hr 23 min
+559 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,9 +71,10 @@
 | [Birthday](https://open.spotify.com/track/1NOZvdCovG42qQV7ftVD5d) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:35 | 2024-01-29 |  |
 | [Bitte mehr Taschengeld](https://open.spotify.com/track/6o9hAUJuvFd9H3u8GYukKG) | [Dominik Schrittesser](https://open.spotify.com/artist/7xnQyD8dC0soUG1PiTx5DK) | [Kiddy Contest Vol\. 16](https://open.spotify.com/album/0TkWTxyMJZuLrtkjLKvtxw) | 3:44 | 2024-01-29 |  |
 | [Biutyful](https://open.spotify.com/track/2L2mM3rEO3arNIMQnb3dou) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:12 | 2024-01-29 |  |
+| [Blank Space](https://open.spotify.com/track/5mRAG78zUjsakidiVqYzqn) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Blank Space](https://open.spotify.com/album/5rJt6afdkioBpYOAB5PDR4) | 3:18 | 2024-10-28 |  |
 | [Blank Space](https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:51 | 2024-01-29 |  |
 | [Blank Space \- Voice Memo](https://open.spotify.com/track/0yisH8r0f3Mkq34kjzUlCV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe Edition\)](https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR) | 2:11 | 2024-01-29 | 2024-06-11 |
-| [Blank Space \- Voice Memo](https://open.spotify.com/track/4e6QU4gpfZj9xxcK856RgG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 2:11 | 2024-06-10 |  |
+| [Blank Space \- Voice Memo](https://open.spotify.com/track/4e6QU4gpfZj9xxcK856RgG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 2:11 | 2024-06-10 | 2024-10-29 |
 | [Blank Space/Style](https://open.spotify.com/track/2DO19aPAU1zPD4eWSpgXrz) | [Nothing But Treble](https://open.spotify.com/artist/5Sng1k7qku7n6WAJsL1euv) | [This Time](https://open.spotify.com/album/2E3MuSG1OlV9ub5Enkpdmg) | 2:55 | 2024-01-29 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2024-01-29 |  |
 | [Blinding Lights \(with ROSALÍA\) \- Remix](https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Blinding Lights \(Remix\)](https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410) | 3:36 | 2024-01-29 |  |

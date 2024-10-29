@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: SOS \(Philippines\)
 
-1,598 songs - 4 day 0 hr 23 min
+1,599 songs - 4 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Earth](https://open.spotify.com/track/5UqUMoymWBJD3bAKK7rGb2) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Earth](https://open.spotify.com/album/72W91ap1swKyQxPxhWIHgJ) | 4:35 | 2022-07-28 | 2022-09-23 |
 | [Easy Lighter](https://open.spotify.com/track/3ZPJCJMNaBQZG65nnlGgQ3) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY) | [Easy Lighter](https://open.spotify.com/album/0kAocczsJutXrc6QWMjYH6) | 6:21 | 2024-04-11 | 2024-04-19 |
 | [Easy Like 123](https://open.spotify.com/track/5WafeWUNLnf2BY9UJ3xgRP) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [FUNFAIR](https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i) | 2:28 | 2022-04-07 | 2022-04-22 |
+| [eko \- Edit](https://open.spotify.com/track/2LpAgQiBOnkhx2MS5Cpg9F) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [eko](https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB) | 2:01 | 2024-10-24 |  |
 | [Eksplisit](https://open.spotify.com/track/0VIvXVm6RN2Dm0cCZxKHTq) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Eksplisit](https://open.spotify.com/album/28x4n2ncfpIByC8Q76lxVU) | 3:32 | 2023-02-16 | 2023-03-18 |
 | [Elevator Music \(OMG\)](https://open.spotify.com/track/4mYTYavKZErjx5MjDuaNW2) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Blueboy Must Die](https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg) | 2:44 | 2023-09-07 | 2023-10-13 |
 | [Eleven \- Alternate Version](https://open.spotify.com/track/1pwhINWGuysBs8IsI2LtuO) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4), [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Eleven \(Alternate Version\)](https://open.spotify.com/album/7BcI6gwjYOy3yFVTfAndmS) | 3:27 | 2024-10-10 | 2024-10-25 |
@@ -1426,7 +1427,7 @@
 | [Yellow Light](https://open.spotify.com/track/2xTthDrC8bvxrZUKWWks1O) | [diondjokoadi](https://open.spotify.com/artist/3whzsIqAkpNv0rxyARK82D) | [Yellow Light](https://open.spotify.com/album/3DIl4oQDEz5X1s19h1vRHZ) | 3:05 | 2022-03-24 | 2022-05-13 |
 | [YES \- vanguard mix](https://open.spotify.com/track/0RNmlHZm28K6l9yKAqhGS3) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [YES \(vanguard mix\)](https://open.spotify.com/album/1ro49FQ5xgl9pIINxlRozK) | 4:29 | 2022-04-14 | 2022-05-27 |
 | [You and I \(feat\. Dandy Hendstyo\)](https://open.spotify.com/track/0WdVQ5vPvbXY10Joz6BJJ1) | [safiradinda](https://open.spotify.com/artist/2dptqJyVPAcFp771zi3IOP), [Dandy Hendstyo](https://open.spotify.com/artist/2szj8xBOp1sq9IJJWQTNhD) | [After Midnight](https://open.spotify.com/album/6KzcJFHZHqZ6D6CppQBQWY) | 4:08 | 2022-08-25 | 2022-09-09 |
-| [You know how](https://open.spotify.com/track/6KpedOLJFQcp2n9evsr6Q3) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [You know how](https://open.spotify.com/album/5FA5O1J70GbufGPfG9kwRa) | 3:32 | 2024-08-29 |  |
+| [You know how](https://open.spotify.com/track/6KpedOLJFQcp2n9evsr6Q3) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [You know how](https://open.spotify.com/album/5FA5O1J70GbufGPfG9kwRa) | 3:32 | 2024-08-29 | 2024-10-29 |
 | [You Warned Me](https://open.spotify.com/track/4snAXuSiQjsNYoF8j9M6ng) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [You Warned Me](https://open.spotify.com/album/4mOGui3wOoI1h6xEQtg5xg) | 3:45 | 2023-04-27 | 2023-05-19 |
 | [YOU YOU YOU](https://open.spotify.com/track/4hqrmn8XWXTj0vAdsnGz2k) | [tie a tie](https://open.spotify.com/artist/7v9fLn8ZcdEdqzF1vX80n5) | [YOU YOU YOU](https://open.spotify.com/album/5qSQfKRVm9VCM2GZfnNzOH) | 2:52 | 2024-08-29 | 2024-09-06 |
 | [You're So Cold \(Like My House\)](https://open.spotify.com/track/5lZ4w2PUb6K6JGQM4tIGzK) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [You're So Cold \(Like My House\)](https://open.spotify.com/album/5gSu5GEKdHMb8csHxbz6v8) | 2:56 | 2024-06-06 | 2024-06-14 |

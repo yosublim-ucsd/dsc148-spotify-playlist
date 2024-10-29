@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Albaizyn",
+        "url": "https://open.spotify.com/album/5mqUpWkMls5GqMn4dlN9Xw"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99113,
+      "name": "Albaizyn",
+      "url": "https://open.spotify.com/track/3Qj2ViqEZ2niYq4s8R4Xyw"
+    },
+    {
+      "album": {
         "name": "Alfredo",
         "url": "https://open.spotify.com/album/2BMBix54yodrJVQi5drYEr"
       },
@@ -3496,7 +3514,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 131293,
       "name": "Benidorm",
       "url": "https://open.spotify.com/track/667LRsRYxwLCOJB2DDoUOC"
@@ -5558,7 +5576,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 123000,
       "name": "Careless",
       "url": "https://open.spotify.com/track/69PYB04q2aTC3i9wFzRC3T"
@@ -11772,7 +11790,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 139503,
       "name": "fight the flab",
       "url": "https://open.spotify.com/track/5NkFP4QgCvAA050xLpTxBk"
@@ -14562,6 +14580,28 @@
       "duration_ms": 103384,
       "name": "Guess What...",
       "url": "https://open.spotify.com/track/2eZH0lbqNKshdIhyNVxhrE"
+    },
+    {
+      "album": {
+        "name": "Guidance",
+        "url": "https://open.spotify.com/album/05G1VArVvJLKx1G2ns5jvP"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Guidance",
+      "url": "https://open.spotify.com/track/1SRSlz0WFjWuKO7sxZgiO5"
     },
     {
       "album": {
@@ -17860,7 +17900,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 117750,
       "name": "Keeps Me Wondering Why",
       "url": "https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI"

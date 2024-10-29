@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 199249,
       "name": "Jumpin' Jack Flash",
       "url": "https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH"
@@ -1400,6 +1400,24 @@
       "duration_ms": 149093,
       "name": "Over the Top (Live at Download Festival, Donington, England, June 13, 2008)",
       "url": "https://open.spotify.com/track/1n1mXoqx7fzapLVRKq7ZBp"
+    },
+    {
+      "album": {
+        "name": "We Take No Prisoners (The Singles 1995 - 2006)",
+        "url": "https://open.spotify.com/album/6ZOKfW7b5wK3gXviW1s6l6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "Over Your Shoulder (Live)",
+      "url": "https://open.spotify.com/track/7GxFfjJNE3P1ZGJssYZozc"
     },
     {
       "album": {

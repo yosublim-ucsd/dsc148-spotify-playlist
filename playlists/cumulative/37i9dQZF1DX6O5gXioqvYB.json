@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 164444,
       "name": "Canterino",
       "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 161501,
       "name": "GARAGE MARE",
       "url": "https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N"
@@ -2161,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "Olio e sale",
+        "url": "https://open.spotify.com/album/58gLtG2Y46pi8iW7MQPRQp"
+      },
+      "artists": [
+        {
+          "name": "Nelea",
+          "url": "https://open.spotify.com/artist/1aTfJXQZb2gZf2FyooWust"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181738,
+      "name": "Olio e sale",
+      "url": "https://open.spotify.com/track/3q0mHQFdcJtx8eQYiYCUNz"
+    },
+    {
+      "album": {
         "name": "Ondeggiando",
         "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
       },
@@ -2432,6 +2450,24 @@
       "duration_ms": 211461,
       "name": "Polpastrelli",
       "url": "https://open.spotify.com/track/7ujJ9c0LozCmL0gEh5uFcK"
+    },
+    {
+      "album": {
+        "name": "Portami via",
+        "url": "https://open.spotify.com/album/3Izoj2GQMMxLcDUlLTpGNt"
+      },
+      "artists": [
+        {
+          "name": "Lucrezia",
+          "url": "https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175426,
+      "name": "Portami via",
+      "url": "https://open.spotify.com/track/0apbAqwbO4vs35a3tVBaCw"
     },
     {
       "album": {

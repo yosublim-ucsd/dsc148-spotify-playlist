@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Fievel Is Glauque
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,644 likes - 199 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279,767 likes - 199 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

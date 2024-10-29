@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-614 songs - 2 day 0 hr 54 min
+615 songs - 2 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Glow](https://open.spotify.com/track/23JSH0fUpozxb9CXdj7N0t) | [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq), [Key M](https://open.spotify.com/artist/07Qi2q13nYmKw8Od4b27yC), [Beat Inside](https://open.spotify.com/artist/07p35pRvdiok1g93a16n6n) | [Glow](https://open.spotify.com/album/7vrFJZ7jrKe9uKclV9gtQs) | 3:15 | 2022-12-16 | 2023-01-06 |
 | [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-04-09 | 2023-11-05 |
 | [Glow](https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1) | 3:13 | 2023-10-27 | 2024-04-19 |
+| [Glowing](https://open.spotify.com/track/2lL7pDoVpRcHSkAbpoe2Yi) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [David O'Dowda](https://open.spotify.com/artist/0kgnPJElpccT4mc6IMZ653) | [Oblivion](https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X) | 3:17 | 2024-10-24 |  |
 | [Glutes](https://open.spotify.com/track/6n85CqZrqbMjwQImS02tQx) | [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Glutes](https://open.spotify.com/album/5d62LwcW0OFVIHaE9IRlqM) | 7:29 | 2022-11-23 | 2022-12-17 |
 | [God Don't Leave Me Alone \(Adam Sellouk Remix\)](https://open.spotify.com/track/19VAPErGs8MwGm6Dxw0j1G) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [God Don't Leave Me Alone \(Adam Sellouk Remix\)](https://open.spotify.com/album/79rBQeuaASi0jgqLmijs2z) | 4:57 | 2024-06-06 | 2024-08-02 |
 | [Good Time](https://open.spotify.com/track/1jm4IAFkPTpenVwLSURpIG) | [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj) | [Good Time / So High \(You Get Me\)](https://open.spotify.com/album/0uhxOD0lit7bsUE1BQFwey) | 4:27 | 2024-03-07 | 2024-03-16 |
@@ -450,7 +451,7 @@
 | [Revival](https://open.spotify.com/track/2GR1NiNV20Io0Wkqr5tub3) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Hard Reset](https://open.spotify.com/artist/6liKh5rs35Y5VML94ZCswV) | [Revival](https://open.spotify.com/album/0Ktu6EbRo5a0oJPUajXHfC) | 4:03 | 2024-09-05 |  |
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-12-28 | 2023-01-06 |
 | [Rider](https://open.spotify.com/track/4r0HVrlaSAFx4usOEXEf2G) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Rider](https://open.spotify.com/album/49R5umJQYx9Gk02aamMFsv) | 3:49 | 2024-04-04 | 2024-06-07 |
-| [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-09-01 |  |
+| [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-09-01 | 2024-10-29 |
 | [Ringo \- Miss Monique Remix](https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Ringo \(Miss Monique Remix\)](https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC) | 3:42 | 2023-12-15 |  |
 | [Rise](https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Rise](https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4) | 3:23 | 2023-11-24 | 2024-05-29 |
 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-03-03 | 2024-07-22 |

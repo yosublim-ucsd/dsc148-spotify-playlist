@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,102 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,092 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 86 | [Tokyo](https://open.spotify.com/track/3lCIcU6bHi5Yya1Ey5npdJ) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN), [MIMI](https://open.spotify.com/artist/2CVsdM6ChnaL6fO64E3a5n) | [Tokyo](https://open.spotify.com/album/6P3ClrdsEcLsgkg7In975b) | 2:25 |
 | 87 | [All My Ladies](https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [All My Ladies](https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d) | 2:33 |
 | 88 | [The Miracle Makers \- Edit](https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [The Miracle Makers](https://open.spotify.com/album/7mxcvlWBDWs4FMegp1CP44) | 3:30 |
-| 89 | [System Overload](https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [System Overload](https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9) | 2:49 |
-| 90 | [Earth Move Edit](https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6) | [Daire](https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH) | [Earth Move Edit](https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O) | 2:42 |
+| 89 | [Earth Move Edit](https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6) | [Daire](https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH) | [Earth Move Edit](https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O) | 2:42 |
+| 90 | [System Overload](https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [System Overload](https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9) | 2:49 |
 | 91 | [Soul](https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx) | [Soul](https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c) | 2:37 |
 | 92 | [Promise](https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Promise](https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP) | 3:02 |
 | 93 | [Unconditional](https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu) | 3:04 |

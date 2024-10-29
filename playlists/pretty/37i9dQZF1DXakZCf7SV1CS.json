@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 84314,
+  "num_followers": 84335,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "go white boy go",
+        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
+      },
+      "artists": [
+        {
+          "name": "saturn",
+          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
+        }
+      ],
+      "duration_ms": 101487,
+      "name": "go white boy go",
+      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "venus fly trap",
         "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 147965,
       "name": "doing it wrong",
       "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "go white boy go",
-        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
-      },
-      "artists": [
-        {
-          "name": "saturn",
-          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
-        }
-      ],
-      "duration_ms": 101487,
-      "name": "go white boy go",
-      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1411,18 +1411,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx"
+        "name": "Here",
+        "url": "https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25"
       },
       "artists": [
         {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        },
+        {
+          "name": "BFOTY",
+          "url": "https://open.spotify.com/artist/4X11FRbQBCLdIhBEj4K9zM"
         }
       ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
+      "duration_ms": 196000,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1475,22 +1479,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25"
+        "name": "masquerade",
+        "url": "https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx"
       },
       "artists": [
         {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        },
-        {
-          "name": "BFOTY",
-          "url": "https://open.spotify.com/artist/4X11FRbQBCLdIhBEj4K9zM"
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3"
+      "duration_ms": 144535,
+      "name": "masquerade",
+      "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1543,8 +1543,8 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "i hate it here",
-        "url": "https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5"
+        "name": "i dont want that many friends in the first place",
+        "url": "https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv"
       },
       "artists": [
         {
@@ -1552,9 +1552,9 @@
           "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 157144,
-      "name": "i hate it here",
-      "url": "https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr"
+      "duration_ms": 109033,
+      "name": "i dont want that many friends in the first place",
+      "url": "https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1703,8 +1703,8 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "i dont want that many friends in the first place",
-        "url": "https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv"
+        "name": "i hate it here",
+        "url": "https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5"
       },
       "artists": [
         {
@@ -1712,9 +1712,9 @@
           "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 109033,
-      "name": "i dont want that many friends in the first place",
-      "url": "https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe"
+      "duration_ms": 157144,
+      "name": "i hate it here",
+      "url": "https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr"
     },
     {
       "added_at": "2024-10-09 21:55:22",

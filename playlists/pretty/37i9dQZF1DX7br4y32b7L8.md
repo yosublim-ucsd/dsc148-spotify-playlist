@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,219 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,247 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Her Eyes](https://open.spotify.com/track/2140Txb63i5WGqFZX52gag) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx) | 3:35 |
-| 2 | [Modeshow](https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Modeshow](https://open.spotify.com/album/2trIJlIWZRxD3jJsPiRBlE) | 2:27 |
-| 3 | [GRRRR… Ik Ben Een Boze Dino!](https://open.spotify.com/track/2VbOYU9Gz9i6eWeSVAxRm3) | [Lil Ones](https://open.spotify.com/artist/5HrLcOvg83LU2lQxweNBJE), [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Dino Dingen: Kinderliedjes Om Op Te Dansen \- EP 1](https://open.spotify.com/album/1rBdEnf79Pj4H2EbpIUu4A) | 0:58 |
-| 4 | [Doner Kebab Nacho Alejandro Garnacho](https://open.spotify.com/track/0M1zul8oY1bHAcKFs7HIeE) | [Y2K SPORTS](https://open.spotify.com/artist/71MdrPBfwf0b63NyZ634Iv) | [Doner Kebab Nacho Alejandro Garnacho \(Remixes\)](https://open.spotify.com/album/6qRq8ga460MnXLgGkDdbqt) | 2:15 |
-| 5 | [LET'S GO](https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [LET'S GO](https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe) | 3:13 |
+| 1 | [LET'S GO](https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [LET'S GO](https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe) | 3:13 |
+| 2 | [Her Eyes](https://open.spotify.com/track/2140Txb63i5WGqFZX52gag) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx) | 3:35 |
+| 3 | [Modeshow](https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Modeshow](https://open.spotify.com/album/2trIJlIWZRxD3jJsPiRBlE) | 2:27 |
+| 4 | [GRRRR… Ik Ben Een Boze Dino!](https://open.spotify.com/track/2VbOYU9Gz9i6eWeSVAxRm3) | [Lil Ones](https://open.spotify.com/artist/5HrLcOvg83LU2lQxweNBJE), [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Dino Dingen: Kinderliedjes Om Op Te Dansen \- EP 1](https://open.spotify.com/album/1rBdEnf79Pj4H2EbpIUu4A) | 0:58 |
+| 5 | [Doner Kebab Nacho Alejandro Garnacho](https://open.spotify.com/track/0M1zul8oY1bHAcKFs7HIeE) | [Y2K SPORTS](https://open.spotify.com/artist/71MdrPBfwf0b63NyZ634Iv) | [Doner Kebab Nacho Alejandro Garnacho \(Remixes\)](https://open.spotify.com/album/6qRq8ga460MnXLgGkDdbqt) | 2:15 |
 | 6 | [She Knows \(feat\. Amber Coffman & Cults\)](https://open.spotify.com/track/0ceuoClMDzpyl6I6OkGgtg) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Born Sinner](https://open.spotify.com/album/6FhFyGMPDbGjXXxXukKcnq) | 4:56 |
 | 7 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 |
 | 8 | [Da' Dip](https://open.spotify.com/track/76YDsWGWezclVy9Z6sDGhf) | [Freak Nasty](https://open.spotify.com/artist/0LthCv77K8NqLKr8B6266a) | [Controversee…That's Life…and That's the Way It Is](https://open.spotify.com/album/1tiBNNEW1WPa59sVZ71Ers) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 79 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 |
 | 80 | [You Will See](https://open.spotify.com/track/7l6AuWpDlecpVxI0Yq4zmI) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ) | [You Will See](https://open.spotify.com/album/3msZ8noFEpIw19fsd3fxay) | 2:23 |
 
-Snapshot ID: `ZxrDYAAAAAAIbnxwpxxeY8HZXFQfkF5B`
+Snapshot ID: `Zx/HwQAAAAA8VkrAYdEqQjy8BjQ8C9jc`

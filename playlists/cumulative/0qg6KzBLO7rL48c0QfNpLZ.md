@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-741 songs - 1 day 8 hr 58 min
+743 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [I Can't Be](https://open.spotify.com/track/5UkOSMN4mcGZ4Y1StTkoUw) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [I Can't Be](https://open.spotify.com/album/4kySdq1tnWOcPIJcqzLSgm) | 2:24 | 2024-01-18 | 2024-09-15 |
 | [I Can't Help Falling In Love With You](https://open.spotify.com/track/5ztn3j1aJYJaliNWPuY7zM) | [Vic Laos](https://open.spotify.com/artist/2AfOxybw9BWMYy0PqvQwYF) | [I Can’t Help Falling In Love With You](https://open.spotify.com/album/4bB4ioSf59EnH6DsaFxlzj) | 2:20 | 2024-07-19 | 2024-08-19 |
 | [I Can't Stop](https://open.spotify.com/track/2ApI2j6ZEEE1OhcfeA5v84) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch), [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [I Can't Stop](https://open.spotify.com/album/6EGTxH6LPCr9wxcX1z3J61) | 2:17 | 2024-04-13 | 2024-06-15 |
+| [i don't need another](https://open.spotify.com/track/7qPjV2SQVP0SsLGiImCAU9) | [Altero](https://open.spotify.com/artist/4Yc8Z66BiZxpRDFu2xcs5D), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [i don't need another](https://open.spotify.com/album/7nMc1h9JdoF7V2DuwRl3CA) | 2:36 | 2024-10-28 |  |
 | [I Don’t Wanna Wait](https://open.spotify.com/track/1rOFazrW0pro7IaAbwTH8n) | [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [PACANI](https://open.spotify.com/artist/2nxv5w3WmZvpfg3VAhAfxY), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [I Don’t Wanna Wait](https://open.spotify.com/album/5sMpuHeaJ2YX9Vct2UsZko) | 2:50 | 2024-07-19 | 2024-08-31 |
 | [I Gotta Know](https://open.spotify.com/track/1Nqu11rkbyktIQgYEwHKDW) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [I Gotta Know](https://open.spotify.com/album/65oJScjO9dW2qiAn4atJD0) | 2:24 | 2024-05-03 | 2024-06-15 |
 | [I Had Some Help](https://open.spotify.com/track/2vrcFG2iPEDCxUMKPk2flU) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7) | [I Had Some Help](https://open.spotify.com/album/4ECsEZITEJXoQHh7unBwZ9) | 2:19 | 2024-08-30 |  |
@@ -519,6 +520,7 @@
 | [Push Me Away](https://open.spotify.com/track/5ybfrJKD6Uw9R4BNm6cZxO) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK) | [Push Me Away](https://open.spotify.com/album/1HbONBdHOFSdtTWVEipWUS) | 2:56 | 2024-05-24 | 2024-06-24 |
 | [Push My Luck \(feat\. Eirik Næss\)](https://open.spotify.com/track/6GdhJDOw7CHlXfLn65J8js) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Push My Luck \(feat\. Eirik Næss\)](https://open.spotify.com/album/3Fjqh3G0q6jBmEI5XS0tm6) | 2:37 | 2024-03-15 | 2024-08-10 |
 | [Put Your Head On My Shoulder](https://open.spotify.com/track/5THWKv1XrzdyUXYOW9tIAa) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Put Your Head On My Shoulder](https://open.spotify.com/album/27X8uFZCb4hAf2dX59f4It) | 2:28 | 2024-05-31 |  |
+| [Raindrops](https://open.spotify.com/track/4sVyvOPDfyoQ71ggXpabkk) | [Drics](https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO) | [Raindrops](https://open.spotify.com/album/2lITj9XjehelRIAe3tDQOw) | 2:29 | 2024-10-28 |  |
 | [Rather Be](https://open.spotify.com/track/2MU8oxytitanfBLhZwfAFY) | [AKI](https://open.spotify.com/artist/4PZkiiOKrkpqOkhGSz2tel), [Løvento](https://open.spotify.com/artist/147Xjr0mly4tsEfY5yLPDC), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Sofia Rød](https://open.spotify.com/artist/1DKDOfgZ1sBbOQwXfPKOHN) | [Rather Be](https://open.spotify.com/album/76QAfOyylvn87hEKIcEJ43) | 2:37 | 2024-08-16 | 2024-09-15 |
 | [Raven](https://open.spotify.com/track/56D0jZ2r8ESxoMvqXodcbL) | [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Raven](https://open.spotify.com/album/32kGZgnbAVcsUSA61he3zT) | 2:42 | 2024-10-18 |  |
 | [Raymo](https://open.spotify.com/track/7zpxgaoaixzogb59CJy3EV) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG) | [Raymo](https://open.spotify.com/album/6FkoOVfW8ZlnQMbPfcS1qK) | 3:17 | 2024-09-06 |  |

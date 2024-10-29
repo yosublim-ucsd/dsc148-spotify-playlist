@@ -1,6 +1,6 @@
 {
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: FEROZI",
-  "num_followers": 40923,
+  "num_followers": 40956,
   "original_name": "Hip-Hop Haryanvi",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
+        "name": "Badmash",
+        "url": "https://open.spotify.com/album/1Aa0LC60RZzl1qGSjyTbvI"
+      },
+      "artists": [
+        {
+          "name": "KD",
+          "url": "https://open.spotify.com/artist/0RPNJNnaW9YEmWCHtL5Yo2"
+        }
+      ],
+      "duration_ms": 356111,
+      "name": "Badmash",
+      "url": "https://open.spotify.com/track/59NeNxSve36qM7JRHVdD6G"
+    },
+    {
+      "added_at": "2024-10-23 09:19:49",
+      "album": {
         "name": "Chore Haryane Aale",
         "url": "https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 207750,
       "name": "Chore Haryane Aale",
       "url": "https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS"
-    },
-    {
-      "added_at": "2024-10-23 09:19:49",
-      "album": {
-        "name": "Badmash",
-        "url": "https://open.spotify.com/album/1Aa0LC60RZzl1qGSjyTbvI"
-      },
-      "artists": [
-        {
-          "name": "KD",
-          "url": "https://open.spotify.com/artist/0RPNJNnaW9YEmWCHtL5Yo2"
-        }
-      ],
-      "duration_ms": 356111,
-      "name": "Badmash",
-      "url": "https://open.spotify.com/track/59NeNxSve36qM7JRHVdD6G"
     },
     {
       "added_at": "2024-10-23 09:19:49",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
+        "name": "Daur",
+        "url": "https://open.spotify.com/album/1jTz29GE5Wk7iyM0FhiPHQ"
+      },
+      "artists": [
+        {
+          "name": "Gulzaar Chhaniwala",
+          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Daur",
+      "url": "https://open.spotify.com/track/779wdTOm7bXq0EXencwPH5"
+    },
+    {
+      "added_at": "2024-10-23 09:19:49",
+      "album": {
         "name": "Gurjari",
         "url": "https://open.spotify.com/album/6zG42VggnsjGC7mJhiq7SZ"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "Daur",
-        "url": "https://open.spotify.com/album/1jTz29GE5Wk7iyM0FhiPHQ"
-      },
-      "artists": [
-        {
-          "name": "Gulzaar Chhaniwala",
-          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Daur",
-      "url": "https://open.spotify.com/track/779wdTOm7bXq0EXencwPH5"
-    },
-    {
-      "added_at": "2024-10-23 09:19:49",
-      "album": {
         "name": "Bagdadi",
         "url": "https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW"
       },
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "Bawli",
-        "url": "https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ"
-      },
-      "artists": [
-        {
-          "name": "DG IMMORTALS",
-          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
-        },
-        {
-          "name": "Elvish Yadav",
-          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
-        }
-      ],
-      "duration_ms": 118857,
-      "name": "Bawli",
-      "url": "https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT"
-    },
-    {
-      "added_at": "2024-10-23 09:19:49",
-      "album": {
         "name": "Punja Daab",
         "url": "https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 214540,
       "name": "Punja Daab",
       "url": "https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo"
+    },
+    {
+      "added_at": "2024-10-23 09:19:49",
+      "album": {
+        "name": "Bawli",
+        "url": "https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ"
+      },
+      "artists": [
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        },
+        {
+          "name": "Elvish Yadav",
+          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
+        }
+      ],
+      "duration_ms": 118857,
+      "name": "Bawli",
+      "url": "https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT"
     },
     {
       "added_at": "2024-10-23 09:19:49",
@@ -1183,8 +1183,8 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "Been",
-        "url": "https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg"
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/1SWdtg8I7j259MAjdSCHJt"
       },
       "artists": [
         {
@@ -1192,21 +1192,13 @@
           "url": "https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv"
         },
         {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        },
-        {
-          "name": "Renuka Panwar",
-          "url": "https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg"
-        },
-        {
-          "name": "Pranjal Dahiya",
-          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Been",
-      "url": "https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG"
+      "duration_ms": 202252,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/3jlIGg9joyDbyRqHFpkd1z"
     },
     {
       "added_at": "2024-10-23 09:19:49",
@@ -1247,6 +1239,22 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/2gc5vS9VYNutlB08ZcW9og"
+      },
+      "artists": [
+        {
+          "name": "Vikram Sarkar",
+          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/5zWAqSWDEEb7ylAgNF2n8m"
+    },
+    {
+      "added_at": "2024-10-23 09:19:49",
+      "album": {
         "name": "Gurjar Gang",
         "url": "https://open.spotify.com/album/0LcekT7wnn60wsizvduMhe"
       },
@@ -1271,38 +1279,22 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "No Time",
-        "url": "https://open.spotify.com/album/2gc5vS9VYNutlB08ZcW9og"
+        "name": "Albedi",
+        "url": "https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H"
       },
       "artists": [
         {
-          "name": "Vikram Sarkar",
-          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/5zWAqSWDEEb7ylAgNF2n8m"
-    },
-    {
-      "added_at": "2024-10-23 09:19:49",
-      "album": {
-        "name": "Lal Dabbi",
-        "url": "https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM"
-      },
-      "artists": [
-        {
-          "name": "Amanraj Gill",
-          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
         },
         {
-          "name": "Bulbul",
-          "url": "https://open.spotify.com/artist/6wmebcPt18hHbgbyniTBmo"
+          "name": "Elvish Yadav",
+          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
         }
       ],
-      "duration_ms": 184888,
-      "name": "Lal Dabbi",
-      "url": "https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8"
+      "duration_ms": 180000,
+      "name": "Albedi",
+      "url": "https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ"
     },
     {
       "added_at": "2024-10-23 09:19:49",
@@ -1327,8 +1319,8 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/1SWdtg8I7j259MAjdSCHJt"
+        "name": "Been",
+        "url": "https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg"
       },
       "artists": [
         {
@@ -1336,33 +1328,41 @@
           "url": "https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv"
         },
         {
-          "name": "Bintu Pabra",
-          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Renuka Panwar",
+          "url": "https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg"
+        },
+        {
+          "name": "Pranjal Dahiya",
+          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
         }
       ],
-      "duration_ms": 202252,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/3jlIGg9joyDbyRqHFpkd1z"
+      "duration_ms": 184000,
+      "name": "Been",
+      "url": "https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG"
     },
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "Albedi",
-        "url": "https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H"
+        "name": "Lal Dabbi",
+        "url": "https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM"
       },
       "artists": [
         {
-          "name": "Sangam Vigyaanik",
-          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+          "name": "Amanraj Gill",
+          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
         },
         {
-          "name": "Elvish Yadav",
-          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
+          "name": "Bulbul",
+          "url": "https://open.spotify.com/artist/6wmebcPt18hHbgbyniTBmo"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Albedi",
-      "url": "https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ"
+      "duration_ms": 184888,
+      "name": "Lal Dabbi",
+      "url": "https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8"
     },
     {
       "added_at": "2024-10-23 09:19:49",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF"
-      },
-      "artists": [
-        {
-          "name": "Kabira",
-          "url": "https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa"
-        },
-        {
-          "name": "RP Singh",
-          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/681FN54hdHlpYkXXgHoOlJ"
-    },
-    {
-      "added_at": "2024-10-23 09:19:49",
-      "album": {
         "name": "Oh My God (Ramphal)",
         "url": "https://open.spotify.com/album/7fdHASyhaKAcJ7VH3cnVHZ"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 182857,
       "name": "Oh My God (Ramphal)",
       "url": "https://open.spotify.com/track/3TRbJ2MoSOLsGN41qi56J0"
+    },
+    {
+      "added_at": "2024-10-23 09:19:49",
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF"
+      },
+      "artists": [
+        {
+          "name": "Kabira",
+          "url": "https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa"
+        },
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/681FN54hdHlpYkXXgHoOlJ"
     },
     {
       "added_at": "2024-10-23 09:19:49",
@@ -1639,22 +1639,22 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "Western Up",
-        "url": "https://open.spotify.com/album/59eweM489JYi1Lseo4Wx8k"
+        "name": "Bhaichara",
+        "url": "https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb"
       },
       "artists": [
         {
-          "name": "Eshan Bhati",
-          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
         },
         {
-          "name": "Ajitesh",
-          "url": "https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3"
+          "name": "Elvish Yadav",
+          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
         }
       ],
-      "duration_ms": 181995,
-      "name": "Western Up",
-      "url": "https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5"
+      "duration_ms": 206197,
+      "name": "Bhaichara",
+      "url": "https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz"
     },
     {
       "added_at": "2024-10-23 09:19:49",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "Bhaichara",
-        "url": "https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb"
-      },
-      "artists": [
-        {
-          "name": "Sangam Vigyaanik",
-          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
-        },
-        {
-          "name": "Elvish Yadav",
-          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
-        }
-      ],
-      "duration_ms": 206197,
-      "name": "Bhaichara",
-      "url": "https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz"
-    },
-    {
-      "added_at": "2024-10-23 09:19:49",
-      "album": {
         "name": "Chadh Chadh ke",
         "url": "https://open.spotify.com/album/5owDV9tN5oB4fge2YQTUsI"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 205961,
       "name": "Chadh Chadh ke",
       "url": "https://open.spotify.com/track/0ePcqkdh2G3L8SlpxiiRTy"
+    },
+    {
+      "added_at": "2024-10-23 09:19:49",
+      "album": {
+        "name": "Western Up",
+        "url": "https://open.spotify.com/album/59eweM489JYi1Lseo4Wx8k"
+      },
+      "artists": [
+        {
+          "name": "Eshan Bhati",
+          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
+        },
+        {
+          "name": "Ajitesh",
+          "url": "https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3"
+        }
+      ],
+      "duration_ms": 181995,
+      "name": "Western Up",
+      "url": "https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5"
     },
     {
       "added_at": "2024-10-23 09:19:49",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "Mtv Hustle 03 Represent Episode 5",
-        "url": "https://open.spotify.com/album/1ilZ2aAxhdtzQDqBvtm1FR"
-      },
-      "artists": [
-        {
-          "name": "Badal",
-          "url": "https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp"
-        },
-        {
-          "name": "Karan Kanchan",
-          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
-        }
-      ],
-      "duration_ms": 172549,
-      "name": "Haryane Aale",
-      "url": "https://open.spotify.com/track/5RQHt34f1wn4W8QMetB3Nf"
-    },
-    {
-      "added_at": "2024-10-23 09:19:49",
-      "album": {
         "name": "Expelled",
         "url": "https://open.spotify.com/album/5OKWtPFNxhuGaRjxZBeF3n"
       },
@@ -1823,18 +1803,22 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "Original Gangster",
-        "url": "https://open.spotify.com/album/0eBL64eE3sRzvRNDqOH8UE"
+        "name": "Mtv Hustle 03 Represent Episode 5",
+        "url": "https://open.spotify.com/album/1ilZ2aAxhdtzQDqBvtm1FR"
       },
       "artists": [
         {
-          "name": "Eshan Bhati",
-          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
+          "name": "Badal",
+          "url": "https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
         }
       ],
-      "duration_ms": 181907,
-      "name": "Original Gangster",
-      "url": "https://open.spotify.com/track/6yganQdeXdluMvUWwEKQLI"
+      "duration_ms": 172549,
+      "name": "Haryane Aale",
+      "url": "https://open.spotify.com/track/5RQHt34f1wn4W8QMetB3Nf"
     },
     {
       "added_at": "2024-10-23 09:19:49",
@@ -1855,18 +1839,18 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
-        "name": "Ajj Di Ghadi",
-        "url": "https://open.spotify.com/album/5N7uDc9T8hDZrtj2b19VU3"
+        "name": "Original Gangster",
+        "url": "https://open.spotify.com/album/0eBL64eE3sRzvRNDqOH8UE"
       },
       "artists": [
         {
-          "name": "Mandys",
-          "url": "https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu"
+          "name": "Eshan Bhati",
+          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
         }
       ],
-      "duration_ms": 124800,
-      "name": "Ajj Di Ghadi",
-      "url": "https://open.spotify.com/track/34Q0elUcdfYZb1YpGG2VXE"
+      "duration_ms": 181907,
+      "name": "Original Gangster",
+      "url": "https://open.spotify.com/track/6yganQdeXdluMvUWwEKQLI"
     },
     {
       "added_at": "2024-10-23 09:19:49",
@@ -1891,6 +1875,22 @@
       "duration_ms": 187285,
       "name": "Fortuner Drill",
       "url": "https://open.spotify.com/track/5QdyptjamyyuZJ4r39N95X"
+    },
+    {
+      "added_at": "2024-10-23 09:19:49",
+      "album": {
+        "name": "Ajj Di Ghadi",
+        "url": "https://open.spotify.com/album/5N7uDc9T8hDZrtj2b19VU3"
+      },
+      "artists": [
+        {
+          "name": "Mandys",
+          "url": "https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Ajj Di Ghadi",
+      "url": "https://open.spotify.com/track/34Q0elUcdfYZb1YpGG2VXE"
     },
     {
       "added_at": "2024-10-23 09:19:49",
@@ -1927,6 +1927,26 @@
     {
       "added_at": "2024-10-23 09:19:49",
       "album": {
+        "name": "Near By Me",
+        "url": "https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        },
+        {
+          "name": "Kp Kundu",
+          "url": "https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/3AAHmSw32Q8HJ9ySLDkA3e"
+    },
+    {
+      "added_at": "2024-10-23 09:19:49",
+      "album": {
         "name": "Papi Purane",
         "url": "https://open.spotify.com/album/4sxXvRDG24bb2CA5pEUOKc"
       },
@@ -1939,30 +1959,6 @@
       "duration_ms": 150688,
       "name": "Papi Purane",
       "url": "https://open.spotify.com/track/4RVpvENpsF5H5bJSruG0wC"
-    },
-    {
-      "added_at": "2024-10-23 09:19:49",
-      "album": {
-        "name": "140",
-        "url": "https://open.spotify.com/album/7Boz1nhfbNB8wrnrZqBcDQ"
-      },
-      "artists": [
-        {
-          "name": "Badal",
-          "url": "https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp"
-        },
-        {
-          "name": "GD 47",
-          "url": "https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG"
-        },
-        {
-          "name": "Yeah Proof",
-          "url": "https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2"
-        }
-      ],
-      "duration_ms": 173239,
-      "name": "140",
-      "url": "https://open.spotify.com/track/6YS34eGqpfABBaYIjnLFv5"
     }
   ],
   "unique_name": "Hip-Hop Haryanvi",

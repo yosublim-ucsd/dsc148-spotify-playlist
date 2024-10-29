@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14427,
+  "num_followers": 14428,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKDSscfFrO69U5wAEIoWEUTI/3tLqu",
+  "snapshot_id": "AAAKDvaZoUulU9rJ9qidIv2z7rTtsTtV",
   "tracks": [
     {
       "added_at": "2024-04-26 12:50:00",
@@ -1379,6 +1379,26 @@
       "duration_ms": 288503,
       "name": "Always Chase The Sun",
       "url": "https://open.spotify.com/track/0uXllbMGTvFVL1gP66q0Sr"
+    },
+    {
+      "added_at": "2024-10-28 19:26:52",
+      "album": {
+        "name": "Bassline Odyssey",
+        "url": "https://open.spotify.com/album/1khqP9oeCEyKcac7l9YJiR"
+      },
+      "artists": [
+        {
+          "name": "Ness\u00f8",
+          "url": "https://open.spotify.com/artist/15zqFxyXkm096rs1qnVn7b"
+        },
+        {
+          "name": "Jauks",
+          "url": "https://open.spotify.com/artist/5c2pc0IyfK0r5p9bLBIT5e"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Bassline Odyssey",
+      "url": "https://open.spotify.com/track/5vzs8QzeY9h2BTCdPefein"
     }
   ],
   "unique_name": "Ultra Club Hits",

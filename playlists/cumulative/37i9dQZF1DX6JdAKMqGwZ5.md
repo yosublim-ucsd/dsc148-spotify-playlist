@@ -4,13 +4,14 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Carlos Ares.
 
-228 songs - 11 hr 56 min
+229 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 LÍDER NECESITA 1 LÍDER](https://open.spotify.com/track/00JOjGtanKpK3VBpJ93WVU) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [1 LÍDER NECESITA 1 LÍDER](https://open.spotify.com/album/0a6ebzyc1r6adgJtaPrDje) | 3:22 | 2024-09-05 | 2024-09-27 |
 | [24 7](https://open.spotify.com/track/42edNeWrOtXk4G63dSfw4E) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [24 7](https://open.spotify.com/album/5NbqLYm2jinvXThQz4QQm8) | 2:52 | 2024-06-27 | 2024-08-30 |
 | [Abraxas!](https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Abraxas!](https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i) | 4:09 | 2024-08-29 |  |
+| [abrigo](https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [abrigo](https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa) | 2:49 | 2024-10-24 |  |
 | [ACLÁRATE](https://open.spotify.com/track/12EZnXoQuxMns3ANHhlMIZ) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ACLÁRATE](https://open.spotify.com/album/5kO97Ekq0JdOap2PzxIxCM) | 2:45 | 2024-10-17 |  |
 | [Acostumbrarme](https://open.spotify.com/track/38dLVGQiAwEXCHK69UVVbZ) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L), [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Acostumbrarme](https://open.spotify.com/album/5MyUQPlTNw14prHdnhRKaS) | 2:23 | 2024-06-27 |  |
 | [Adiós](https://open.spotify.com/track/2a5xxtnfyDsKBLosKJSaw2) | [Belize](https://open.spotify.com/artist/6Q4GR1xgJ5euecQK8cQPYm) | [Adiós](https://open.spotify.com/album/5NRpzktazsRUIOE67brguj) | 2:16 | 2024-10-17 |  |
@@ -159,7 +160,7 @@
 | [No Puedo Más](https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [No Puedo Más](https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj) | 3:04 | 2024-07-11 | 2024-08-09 |
 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 | 2024-06-27 |  |
 | [NO SÉ DE AMOR](https://open.spotify.com/track/5fMbT4ZC13siVSsXOgyB38) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [NO SÉ DE AMOR](https://open.spotify.com/album/0qcLd65UI39uiOcjvEbNlb) | 3:04 | 2024-10-24 |  |
-| [No Te Voy a Besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No Te Voy a Besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 |  |
+| [No Te Voy a Besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No Te Voy a Besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 | 2024-10-29 |
 | [Nosoutros](https://open.spotify.com/track/2Hvgqy9Bxpa35gbLTCQeO8) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [Nosoutros](https://open.spotify.com/album/5uoOT70tJxcnNEwPhSJfXc) | 1:21 | 2024-09-19 | 2024-10-18 |
 | [Nuevo Romántico](https://open.spotify.com/track/7sGY0iN0BGFsm9u9eq4l8t) | [Malva](https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN) | [Contenido Sensible](https://open.spotify.com/album/09buxH0N6CQsRZmB5asZhm) | 2:38 | 2024-10-17 |  |
 | [NUNCA ES TARDE](https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [NUNCA ES TARDE](https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I) | 3:08 | 2024-08-15 | 2024-09-29 |

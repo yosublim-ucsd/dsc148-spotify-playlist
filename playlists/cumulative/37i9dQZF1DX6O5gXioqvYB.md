@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Alek
 
-190 songs - 9 hr 21 min
+192 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [BRONCIO](https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [BRONCIO](https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5) | 2:19 | 2024-09-26 |  |
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
 | [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 | 2024-10-17 |  |
-| [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 |  |
+| [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 | 2024-10-29 |
 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 | 2024-07-18 | 2024-09-27 |
 | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp) | [Cartapesta](https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU) | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW) | 2:26 | 2024-08-22 | 2024-10-20 |
 | [Cartine](https://open.spotify.com/track/5mJTdLjHkmSKUpuVHu5bGQ) | [Rebecca](https://open.spotify.com/artist/4qglWCdo4uyHaBay75PWYM) | [Immobile](https://open.spotify.com/album/3a09IEJS59f4uNfCbVPwyc) | 2:54 | 2024-09-19 | 2024-09-27 |
@@ -70,7 +70,7 @@
 | [Follia](https://open.spotify.com/track/26zx0Jw1N3CdspZRhGwW8z) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [Follia](https://open.spotify.com/album/4lphwhXU0ZxnpAarXx4TBc) | 2:56 | 2024-06-27 | 2024-07-12 |
 | [Fratello](https://open.spotify.com/track/7HGdifYN6emWwGIC5QtHSr) | [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [LACRIME E CEMENTO](https://open.spotify.com/album/3Xf19WNtWHIGITHydF506S) | 2:47 | 2024-06-27 | 2024-10-25 |
 | [fuori posto](https://open.spotify.com/track/6Zv96JypFgMtT0b9ZovleH) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [fuori posto](https://open.spotify.com/album/2ALZ0XtzkNIopRyLR1Q4n4) | 2:51 | 2024-10-10 |  |
-| [GARAGE MARE](https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N) | [Oh Baro](https://open.spotify.com/artist/5DOIMn0GH5uVbYL1ssg8Q5) | [GARAGE MARE](https://open.spotify.com/album/6K21nKUpD6zH3ZWrNHaPrT) | 2:41 | 2024-07-25 |  |
+| [GARAGE MARE](https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N) | [Oh Baro](https://open.spotify.com/artist/5DOIMn0GH5uVbYL1ssg8Q5) | [GARAGE MARE](https://open.spotify.com/album/6K21nKUpD6zH3ZWrNHaPrT) | 2:41 | 2024-07-25 | 2024-10-29 |
 | [Garageband](https://open.spotify.com/track/76PmFAwIiElCH5iaMrczvg) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Garageband](https://open.spotify.com/album/6VKg3uA2hB6HS8aO3xIDyJ) | 3:17 | 2024-06-27 | 2024-07-19 |
 | [Giornata vuota](https://open.spotify.com/track/21mU3hgMOlsBY51Ns7tO19) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82) | [Giornata vuota](https://open.spotify.com/album/5O4q3gA9yOLHZbB2nINGz3) | 2:54 | 2024-06-27 | 2024-07-12 |
 | [GRANDINE](https://open.spotify.com/track/4lIE6Dy3VjYYQPZm2AOuAB) | [Solisumarte](https://open.spotify.com/artist/09dA9aVkD0LYj4B7PqVbkP) | [GRANDINE](https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ) | 2:42 | 2024-09-26 |  |
@@ -124,6 +124,7 @@
 | [odio l'estate.](https://open.spotify.com/track/2SX5vNtHYFuEs8P3rYUQHy) | [petra](https://open.spotify.com/artist/3yzgT3hMTtjPZ9GgmeFnCt) | [odio l'estate.](https://open.spotify.com/album/5xcCj6E31B8EL4028AshAl) | 2:36 | 2024-07-04 | 2024-08-23 |
 | [Ogni maledetta domenica](https://open.spotify.com/track/0HS43s0nNeGFsnn1ZKlrxa) | [Sir Giove](https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i) | [Ogni maledetta domenica](https://open.spotify.com/album/74CMUCMtcxy97UijT94WGP) | 2:34 | 2024-06-27 | 2024-07-27 |
 | [Ogni mezz'ora](https://open.spotify.com/track/0xgNfO7phNkoWxCg7QdsQO) | [Evan](https://open.spotify.com/artist/5hZo9rZE0Tn6j7NPqxAYoE) | [Ogni mezz'ora](https://open.spotify.com/album/1biKlqwOF57CzP15mwgrnz) | 2:47 | 2024-07-18 | 2024-09-27 |
+| [Olio e sale](https://open.spotify.com/track/3q0mHQFdcJtx8eQYiYCUNz) | [Nelea](https://open.spotify.com/artist/1aTfJXQZb2gZf2FyooWust) | [Olio e sale](https://open.spotify.com/album/58gLtG2Y46pi8iW7MQPRQp) | 3:01 | 2024-10-24 |  |
 | [Ondeggiando](https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Ondeggiando](https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y) | 2:34 | 2024-09-26 |  |
 | [ora che è tutto ok](https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7) | [ora che è tutto ok](https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn) | 2:45 | 2024-08-01 |  |
 | [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 | 2024-08-29 |  |
@@ -139,6 +140,7 @@
 | [PIENSE A T’ANNAMMURÁ](https://open.spotify.com/track/1pRctZZmX9tVE330JUDN9U) | [Gabriele Esposito](https://open.spotify.com/artist/6KBX0GZAeEOYSgONCtcwFL) | [accurdammece vol.1](https://open.spotify.com/album/0qO5npHZs0SCchqgpFLI43) | 3:03 | 2024-06-27 | 2024-07-05 |
 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 | 2024-08-29 |  |
 | [Polpastrelli](https://open.spotify.com/track/7ujJ9c0LozCmL0gEh5uFcK) | [GIROTTI](https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak) | [Polpastrelli](https://open.spotify.com/album/6q3emqCWz6naRFoKweiQJ7) | 3:31 | 2024-07-25 | 2024-09-27 |
+| [Portami via](https://open.spotify.com/track/0apbAqwbO4vs35a3tVBaCw) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Portami via](https://open.spotify.com/album/3Izoj2GQMMxLcDUlLTpGNt) | 2:55 | 2024-10-24 |  |
 | [Posto Nuovo](https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi) | [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Posto Nuovo](https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82) | 5:43 | 2024-08-29 |  |
 | [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 | 2024-09-05 |  |
 | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/track/5alocERr1H4Qy6mwidyBmV) | [Leonardo Zaccaria](https://open.spotify.com/artist/6TcPvpaSG1G3UjyhqxPY1f), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/album/7tsEBf66mZeBamRgN7CNLK) | 2:39 | 2024-06-27 | 2024-07-12 |

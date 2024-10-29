@@ -1,6 +1,6 @@
 {
   "description": "Popun sevilen isimleri. Kapak: \u0130kilem",
-  "num_followers": 135651,
+  "num_followers": 135694,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
+        "name": "Koca D\u00fcnya",
+        "url": "https://open.spotify.com/album/5LFciOK381uamGyiw52mgF"
+      },
+      "artists": [
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "duration_ms": 149987,
+      "name": "Koca D\u00fcnya",
+      "url": "https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
         "name": "Kara Konular",
         "url": "https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX"
       },
@@ -1039,38 +1055,6 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "NOLDUYSA OLDU",
-        "url": "https://open.spotify.com/album/2szyZK8995Knlb6krlCSw9"
-      },
-      "artists": [
-        {
-          "name": "Mela Bedel",
-          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
-        }
-      ],
-      "duration_ms": 151391,
-      "name": "NOLDUYSA OLDU",
-      "url": "https://open.spotify.com/track/4JygvKkVjhgA2v5MNFqeEP"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Koca D\u00fcnya",
-        "url": "https://open.spotify.com/album/5LFciOK381uamGyiw52mgF"
-      },
-      "artists": [
-        {
-          "name": "Reynmen",
-          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
-        }
-      ],
-      "duration_ms": 149987,
-      "name": "Koca D\u00fcnya",
-      "url": "https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
         "name": "Ac\u0131yla Kucakla\u015ft\u0131m",
         "url": "https://open.spotify.com/album/6VOx7oShyeQgY11InDvTZX"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 199289,
       "name": "Ac\u0131yla Kucakla\u015ft\u0131m",
       "url": "https://open.spotify.com/track/0OP73LxXno2zdkxETjg3KF"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
+        "name": "NOLDUYSA OLDU",
+        "url": "https://open.spotify.com/album/2szyZK8995Knlb6krlCSw9"
+      },
+      "artists": [
+        {
+          "name": "Mela Bedel",
+          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
+        }
+      ],
+      "duration_ms": 151391,
+      "name": "NOLDUYSA OLDU",
+      "url": "https://open.spotify.com/track/4JygvKkVjhgA2v5MNFqeEP"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "Bo\u015funa Nefes T\u00fcketme",
-        "url": "https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5"
-      },
-      "artists": [
-        {
-          "name": "Emir Can \u0130\u011frek",
-          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
-        }
-      ],
-      "duration_ms": 162808,
-      "name": "Bo\u015funa Nefes T\u00fcketme",
-      "url": "https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
         "name": "Herhalde",
         "url": "https://open.spotify.com/album/7DefHeFSXtlUoYYYNsHNWO"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 272049,
       "name": "Herhalde",
       "url": "https://open.spotify.com/track/6NoU0H7vKasJE29Z4jDmYA"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
+        "name": "Bo\u015funa Nefes T\u00fcketme",
+        "url": "https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "duration_ms": 162808,
+      "name": "Bo\u015funa Nefes T\u00fcketme",
+      "url": "https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
+        "name": "Defterli",
+        "url": "https://open.spotify.com/album/0ukCUTo9LZNu6avurHhlRz"
+      },
+      "artists": [
+        {
+          "name": "Beng\u00fc Beker",
+          "url": "https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Defterli",
+      "url": "https://open.spotify.com/track/0t7SfyrCjUzh8A7gRZ6gaK"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
         "name": "Nerdesin",
         "url": "https://open.spotify.com/album/7pxOEGLoCaNNbnaJjOEtWM"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 232965,
       "name": "Nerdesin",
       "url": "https://open.spotify.com/track/0oPMxe6anF4Kw2SYEUpKDl"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Defterli",
-        "url": "https://open.spotify.com/album/0ukCUTo9LZNu6avurHhlRz"
-      },
-      "artists": [
-        {
-          "name": "Beng\u00fc Beker",
-          "url": "https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Defterli",
-      "url": "https://open.spotify.com/track/0t7SfyrCjUzh8A7gRZ6gaK"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "Bal",
-        "url": "https://open.spotify.com/album/33CZvHcrejXTOA7lx1Nb7D"
+        "name": "Heba",
+        "url": "https://open.spotify.com/album/7FFIUBzawvny6iMmohY7Zo"
       },
       "artists": [
         {
-          "name": "G\u00f6khan T\u00fcrkmen",
-          "url": "https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm"
+          "name": "Emre \u015een",
+          "url": "https://open.spotify.com/artist/6iwyshiTx9dTCK2w6pBBqn"
+        },
+        {
+          "name": "Tan Ta\u015f\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Bal",
-      "url": "https://open.spotify.com/track/0Dj36bCRSouqzx8wHwB9dR"
+      "duration_ms": 167857,
+      "name": "Heba",
+      "url": "https://open.spotify.com/track/2h3bkUUJtSn1Q4yhNvfnbf"
     }
   ],
   "unique_name": "Pop Radyo",

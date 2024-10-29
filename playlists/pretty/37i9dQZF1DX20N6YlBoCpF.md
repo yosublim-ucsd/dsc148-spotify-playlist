@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=8cOY7K5OQL2E613YkHgCyA">Die Piesangskille</a>  & <a href="https://open.spotify.com/artist/5SoKicMU7Us6iFcqSQq7aG?si=yz4eTk7OQZG16l1C0dzKAg">Radioraps</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,071 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,089 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

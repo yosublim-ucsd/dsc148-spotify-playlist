@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,674 songs - 3 day 14 hr 55 min
+1,675 songs - 3 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Du får allt](https://open.spotify.com/track/3DXyXXXfq8fOr1hLVZ6jkk) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Du får allt](https://open.spotify.com/album/3rhGsvhnwnTUA4xOEiyETE) | 3:16 | 2022-02-20 | 2022-05-08 |
 | [du får vara min ikväll](https://open.spotify.com/track/4FjTt2t005M50VaS6PpGbD) | [ASTE](https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ) | [du får vara min ikväll](https://open.spotify.com/album/3r3kACBwzv1rf3a5PJj6Js) | 2:39 | 2024-01-25 | 2024-03-15 |
 | [Du förtjänar det](https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Du förtjänar det](https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn) | 3:19 | 2022-05-12 | 2023-10-06 |
-| [du går bland molnen](https://open.spotify.com/track/5S5wPoxJoOR5QLmCcOQG0f) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [du går bland molnen](https://open.spotify.com/album/57BPInDglQuie8TUEiG09e) | 3:00 | 2024-09-26 |  |
+| [du går bland molnen](https://open.spotify.com/track/5S5wPoxJoOR5QLmCcOQG0f) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [du går bland molnen](https://open.spotify.com/album/57BPInDglQuie8TUEiG09e) | 3:00 | 2024-09-26 | 2024-10-29 |
 | [Du har fel](https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Du har fel](https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH) | 2:44 | 2023-08-17 | 2024-01-10 |
 | [Du kommer dra](https://open.spotify.com/track/2B1lM51YSusA3I5OUpD8yN) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tills alla glömt oss](https://open.spotify.com/album/4d0B1xECMoQLXQwt10W2pa) | 2:59 | 2021-12-16 | 2022-01-14 |
 | [Du känner inte längre mig](https://open.spotify.com/track/6bTM9i2Vn8cUhAH7xjosvt) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Med sång / Utan sång](https://open.spotify.com/album/6x55E0WgcjaUdEfY9SKiRT) | 2:51 | 2024-04-26 | 2024-05-24 |
@@ -1494,6 +1494,7 @@
 | [Trouble](https://open.spotify.com/track/1xYsncDfMF6Yh5veUmHyY7) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Trouble](https://open.spotify.com/album/5bo2O7WisZEbB21O2pjx5W) | 2:53 | 2024-06-06 | 2024-08-09 |
 | [Trouble in Paradise](https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y) | [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Trouble in Paradise](https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY) | 3:24 | 2024-08-22 | 2024-09-20 |
 | [True Romantic](https://open.spotify.com/track/0L9q3REkq7p1UEONWON7Vn) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [True Romantic](https://open.spotify.com/album/3qK8CbdoXxqT1MJHvOGTIM) | 3:28 | 2024-05-23 | 2024-06-21 |
+| [Truls Möregårdh](https://open.spotify.com/track/5Qn15a2y5kiUMbybqJcoGB) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Truls Möregårdh](https://open.spotify.com/album/5e6k8Q3Inr5F0ZK3O7WwsM) | 2:27 | 2024-10-24 |  |
 | [Träffa andra](https://open.spotify.com/track/12xfklEh742AncfxxkSIzY) | [Sebbe Hauta](https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z) | [Träffa andra](https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I) | 2:43 | 2023-10-20 | 2024-01-26 |
 | [trött på det](https://open.spotify.com/track/4AyU1dA0MJN7nyWHgFwfak) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [trött på det](https://open.spotify.com/album/66IhgUUfX0mE9TmNnxRouz) | 2:24 | 2024-01-25 | 2024-03-15 |
 | [tsm <3 \(pantamera!!\)](https://open.spotify.com/track/2TfMaAeUJHRbkBlkWcXYzG) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [tsm <3 \(pantamera!!\)](https://open.spotify.com/album/5sWvww2pt3kTYU8d4HP6NV) | 2:21 | 2024-03-28 | 2024-05-03 |

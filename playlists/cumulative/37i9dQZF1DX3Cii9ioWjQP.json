@@ -2933,6 +2933,24 @@
     },
     {
       "album": {
+        "name": "Soft Swing Jazz Piano",
+        "url": "https://open.spotify.com/album/3S4bCzZKDnDykoadEVoA7S"
+      },
+      "artists": [
+        {
+          "name": "LeoSky",
+          "url": "https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154639,
+      "name": "SoftSwing",
+      "url": "https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO"
+    },
+    {
+      "album": {
         "name": "Sonny",
         "url": "https://open.spotify.com/album/6ZOZBe9jNHKFwe4XyU38uY"
       },

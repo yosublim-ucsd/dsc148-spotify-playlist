@@ -4,7 +4,7 @@
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: 쿤디판다\(Khundi Panda\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,214 songs - 2 day 19 hr 10 min
+1,215 songs - 2 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [H1GHR](https://open.spotify.com/track/2vhDVadZ3OfBiIEsDhSCvK) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H1GHR : RED TAPE](https://open.spotify.com/album/6EjlgbbBDKAqulx1GSz50o) | 3:17 | 2022-06-03 | 2022-07-27 |
 | [h1ghrATM Freestyle \- Bonus Track](https://open.spotify.com/track/0UGvHmuHNz9NQeAWmTYElI) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 2:42 | 2022-06-03 | 2022-07-23 |
 | [Hail](https://open.spotify.com/track/30KUBppub5Oni4WkIdy52D) | [Mac Kidd](https://open.spotify.com/artist/3uezMpoFc84nQ6qU2mliqr), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [Boy Wonder](https://open.spotify.com/artist/0yA21JJ5WuKqymKDGlhx4F) | [TrapBox 2 pt.1](https://open.spotify.com/album/0bbe4Jwlv2IaI8i25oVFKX) | 3:13 | 2022-07-25 | 2022-07-28 |
+| [HAKA \(Prod\. Wiz World\)](https://open.spotify.com/track/1PDjnLmB01bPGmavXyTATc) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Monthly AP \- October, 2024](https://open.spotify.com/album/4rf6pi0KQklUwlmybIt5FC) | 2:35 | 2024-10-27 |  |
 | [Hall Of Fame \(Feat\. Dbo, Basick\)](https://open.spotify.com/track/6vv3ZcI4oDbyWBLlnbDEl3) | [Yonge Jaundice](https://open.spotify.com/artist/0ESfTnqcM5os6xjx05jjYT), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) | [Yellow Fever](https://open.spotify.com/album/10gmo6qV4xcvToo4iOyVEv) | 3:05 | 2022-07-07 | 2022-07-15 |
 | [Hammer Dance](https://open.spotify.com/track/2tJBbXcICa71NUUbaDrPXS) | [Odee](https://open.spotify.com/artist/6cXolDFPOgf0wuRe5kMPxo) | [SCUMBAG](https://open.spotify.com/album/4NAZ5OQByXG2ZI1HnyPCh9) | 2:48 | 2023-02-16 | 2023-03-14 |
 | [HANDSOME \(Feat\. B.I, Nucksal, Kid Milli, Gaeko\)](https://open.spotify.com/track/7nOhwguQZznQfy562P5VlV) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [HANDSOME \(Feat\. B.I, Nucksal, Kid Milli, Gaeko\)](https://open.spotify.com/album/1zhTtEslHHfAJDqzuabcjM) | 3:44 | 2022-06-09 |  |

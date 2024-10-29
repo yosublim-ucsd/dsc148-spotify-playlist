@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Maiara & Maraísa, Vulgo FK, Maru2D e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,947,316 likes - 78 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,947,574 likes - 78 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 5 | [CALVIN KLEIN](https://open.spotify.com/track/2SxnF7ibCTxMihwyiW7znz) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [F\*\*K SONGS](https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi) | 2:55 |
 | 6 | [Dinero \- Spotify Singles](https://open.spotify.com/track/3f75BmT1ClAVyjjFEw6sws) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Dinero \- Spotify Singles](https://open.spotify.com/album/550HfEeA8nIJAquFVlejI8) | 3:03 |
 | 7 | [Errei Fui Moleque \- Ao Vivo](https://open.spotify.com/track/4wnIO8MVg4oH6eaVZd5VtY) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Encontrin 3 \- Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1bAnccp9Gwb8eyu989LVmS) | 2:41 |
-| 8 | [Pilantrou](https://open.spotify.com/track/5NZyzTtoid2vxIS49i79xk) | [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Pilantrou](https://open.spotify.com/album/2SzT5AGP5xojc4pTiJKOAB) | 2:33 |
+| 8 | [Pilantrou \- Ao Vivo](https://open.spotify.com/track/5NZyzTtoid2vxIS49i79xk) | [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Pilantrou \(Ao Vivo\)](https://open.spotify.com/album/2SzT5AGP5xojc4pTiJKOAB) | 2:33 |
 | 9 | [Universo](https://open.spotify.com/track/5WsJkrIBAn2aZFdp3CoVUo) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Universo](https://open.spotify.com/album/1pSHsgUPcu3Y7Spl5eYtpx) | 2:53 |
 | 10 | [ESPAÇONAVE](https://open.spotify.com/track/4pwKy99a1IhAwjekz8Zf0c) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [CEO](https://open.spotify.com/album/5AuY1calKQYOa9JBEicUoW) | 3:39 |
 | 11 | [Recomeço](https://open.spotify.com/track/7cOZisYC7MaDLfavfq86Ed) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [DUNDUM NTS](https://open.spotify.com/artist/0gGRfgyjJayTbNkikRPMYQ), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Recomeço](https://open.spotify.com/album/5MoBxDzlYReoWJMSRwxFDp) | 2:57 |

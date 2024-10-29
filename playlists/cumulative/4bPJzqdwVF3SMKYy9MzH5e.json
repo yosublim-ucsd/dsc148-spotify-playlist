@@ -28605,6 +28605,24 @@
     },
     {
       "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139202,
+      "name": "Self-Destruct",
+      "url": "https://open.spotify.com/track/2eqjpko1AQuTdxkBFhAcRG"
+    },
+    {
+      "album": {
         "name": "Manila Ice",
         "url": "https://open.spotify.com/album/1KkpoRciTIH31x5ZiSb1UP"
       },

@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 317759,
+  "num_followers": 317811,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "The Colour Purple (Live From Malibu)",
-        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "The Colour Purple - Live From Malibu",
-      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 175635,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "The Colour Purple (Live From Malibu)",
+        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "The Colour Purple - Live From Malibu",
+      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Connla's Well",
-        "url": "https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 358418,
-      "name": "Resisting Resistance",
-      "url": "https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "HIZUKI // PERFECT DIVIDE",
         "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 250480,
       "name": "Hizuki",
       "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Connla's Well",
+        "url": "https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 358418,
+      "name": "Resisting Resistance",
+      "url": "https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Darkest Nights",
-        "url": "https://open.spotify.com/album/7k7iBgsyVYInhQ3gjRelV6"
-      },
-      "artists": [
-        {
-          "name": "Christian Eberhard",
-          "url": "https://open.spotify.com/artist/3RZcXznC82doC9NPr4nBAx"
-        },
-        {
-          "name": "Alejandro Zandes",
-          "url": "https://open.spotify.com/artist/4CbBNE8jni9vyYaTVeBwUi"
-        }
-      ],
-      "duration_ms": 188230,
-      "name": "Darkest Nights",
-      "url": "https://open.spotify.com/track/3XlQoBHOf0QnUm0JrMuXyu"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 274539,
       "name": "Love Is Like A Movie",
       "url": "https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Darkest Nights",
+        "url": "https://open.spotify.com/album/7k7iBgsyVYInhQ3gjRelV6"
+      },
+      "artists": [
+        {
+          "name": "Christian Eberhard",
+          "url": "https://open.spotify.com/artist/3RZcXznC82doC9NPr4nBAx"
+        },
+        {
+          "name": "Alejandro Zandes",
+          "url": "https://open.spotify.com/artist/4CbBNE8jni9vyYaTVeBwUi"
+        }
+      ],
+      "duration_ms": 188230,
+      "name": "Darkest Nights",
+      "url": "https://open.spotify.com/track/3XlQoBHOf0QnUm0JrMuXyu"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Radio Masoda",
+        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
+      },
+      "artists": [
+        {
+          "name": "Franck Biyong",
+          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
+        }
+      ],
+      "duration_ms": 291279,
+      "name": "Jela Kubwa Na Viboko",
+      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Mardy",
         "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Radio Masoda",
-        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
+        "name": "Landlord blues",
+        "url": "https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH"
       },
       "artists": [
         {
-          "name": "Franck Biyong",
-          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
+          "name": "SELL EVERYTHING",
+          "url": "https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87"
         }
       ],
-      "duration_ms": 291279,
-      "name": "Jela Kubwa Na Viboko",
-      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
+      "duration_ms": 123599,
+      "name": "Landlord blues",
+      "url": "https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Landlord blues",
-        "url": "https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH"
-      },
-      "artists": [
-        {
-          "name": "SELL EVERYTHING",
-          "url": "https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87"
-        }
-      ],
-      "duration_ms": 123599,
-      "name": "Landlord blues",
-      "url": "https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/2NY2edrq5vozPIDkyn0zrs"
       },
@@ -1031,26 +1031,6 @@
       "duration_ms": 165333,
       "name": "Replay",
       "url": "https://open.spotify.com/track/082cdgTa4xK8dmgNKQ1evt"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/5CI5Ww2MciydIAesA5VmPR"
-      },
-      "artists": [
-        {
-          "name": "CHERISE",
-          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
-        },
-        {
-          "name": "Emile Londonien",
-          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
-        }
-      ],
-      "duration_ms": 208978,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1075,6 +1055,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/5CI5Ww2MciydIAesA5VmPR"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        },
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "duration_ms": 208978,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Let It Unfold",
         "url": "https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O"
       },
@@ -1087,26 +1087,6 @@
       "duration_ms": 253313,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "ON THE MOVE",
-        "url": "https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU"
-      },
-      "artists": [
-        {
-          "name": "Close Counters",
-          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
-        },
-        {
-          "name": "Tiana Khasi",
-          "url": "https://open.spotify.com/artist/6kM1b2Ze9w94VPfq4KhJF3"
-        }
-      ],
-      "duration_ms": 222931,
-      "name": "ON THE MOVE",
-      "url": "https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1135,22 +1115,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Reconsider Me",
-        "url": "https://open.spotify.com/album/4WcY5le43F5o60EypGVtBo"
+        "name": "ON THE MOVE",
+        "url": "https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU"
       },
       "artists": [
         {
-          "name": "Gan Gemi",
-          "url": "https://open.spotify.com/artist/7wkHx3fIGiREy0nBgXrZya"
+          "name": "Close Counters",
+          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
         },
         {
-          "name": "Underground Canopy",
-          "url": "https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo"
+          "name": "Tiana Khasi",
+          "url": "https://open.spotify.com/artist/6kM1b2Ze9w94VPfq4KhJF3"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Reconsider Me",
-      "url": "https://open.spotify.com/track/1HCRRVEhhyk0Kbk2jQQd0W"
+      "duration_ms": 222931,
+      "name": "ON THE MOVE",
+      "url": "https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1171,6 +1151,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Reconsider Me",
+        "url": "https://open.spotify.com/album/4WcY5le43F5o60EypGVtBo"
+      },
+      "artists": [
+        {
+          "name": "Gan Gemi",
+          "url": "https://open.spotify.com/artist/7wkHx3fIGiREy0nBgXrZya"
+        },
+        {
+          "name": "Underground Canopy",
+          "url": "https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Reconsider Me",
+      "url": "https://open.spotify.com/track/1HCRRVEhhyk0Kbk2jQQd0W"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Interdimensional",
         "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
       },
@@ -1187,26 +1187,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz"
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
       },
       "artists": [
         {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
         }
       ],
-      "duration_ms": 256374,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa"
+      "duration_ms": 232068,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1243,6 +1235,30 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 256374,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Not Real People",
         "url": "https://open.spotify.com/album/7hepxRy2Sm9yrGoM2aWakU"
       },
@@ -1259,50 +1275,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
+        "name": "The Liminality of Her",
+        "url": "https://open.spotify.com/album/3tNvEZnLV5OAnOmII0jTiU"
       },
       "artists": [
         {
-          "name": "Bea Maher",
-          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
-        }
-      ],
-      "duration_ms": 232068,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "In The Void of All Things",
-        "url": "https://open.spotify.com/album/5L7QNd8q9TTLqzjNMXBcVR"
-      },
-      "artists": [
+          "name": "Amanda Whiting",
+          "url": "https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5"
+        },
         {
-          "name": "Kinkajous",
-          "url": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
+          "name": "PEACH.",
+          "url": "https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6"
         }
       ],
-      "duration_ms": 200009,
-      "name": "In The Void of All Things",
-      "url": "https://open.spotify.com/track/0VfmoZjMGHS1OXeoCNyobC"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "SHINE IN",
-        "url": "https://open.spotify.com/album/4aOc1sIevjX4PBCv8p18kV"
-      },
-      "artists": [
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 170684,
-      "name": "SHINE IN",
-      "url": "https://open.spotify.com/track/6Fwf2T6bVCKNs9D7HnrQOQ"
+      "duration_ms": 176874,
+      "name": "Rite of Passage",
+      "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1339,22 +1327,34 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "The Liminality of Her",
-        "url": "https://open.spotify.com/album/3tNvEZnLV5OAnOmII0jTiU"
+        "name": "In The Void of All Things",
+        "url": "https://open.spotify.com/album/5L7QNd8q9TTLqzjNMXBcVR"
       },
       "artists": [
         {
-          "name": "Amanda Whiting",
-          "url": "https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5"
-        },
-        {
-          "name": "PEACH.",
-          "url": "https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6"
+          "name": "Kinkajous",
+          "url": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
         }
       ],
-      "duration_ms": 176874,
-      "name": "Rite of Passage",
-      "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
+      "duration_ms": 200009,
+      "name": "In The Void of All Things",
+      "url": "https://open.spotify.com/track/0VfmoZjMGHS1OXeoCNyobC"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "SHINE IN",
+        "url": "https://open.spotify.com/album/4aOc1sIevjX4PBCv8p18kV"
+      },
+      "artists": [
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 170684,
+      "name": "SHINE IN",
+      "url": "https://open.spotify.com/track/6Fwf2T6bVCKNs9D7HnrQOQ"
     }
   ],
   "unique_name": "Jazz UK",

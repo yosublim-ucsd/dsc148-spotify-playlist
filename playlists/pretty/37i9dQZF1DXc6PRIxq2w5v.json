@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Big Asher",
-  "num_followers": 174512,
+  "num_followers": 174552,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-10-25 15:01:20",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Novidade Urbana",
-          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
-    },
-    {
-      "added_at": "2024-10-25 15:01:20",
-      "album": {
         "name": "Escolhas",
         "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 200405,
       "name": "Escolhas",
       "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
+    },
+    {
+      "added_at": "2024-10-25 15:01:20",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Novidade Urbana",
+          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
     },
     {
       "added_at": "2024-10-25 15:01:20",
@@ -1259,30 +1259,6 @@
     {
       "added_at": "2024-10-25 15:01:20",
       "album": {
-        "name": "Me Deixou Forte",
-        "url": "https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 164102,
-      "name": "Me Deixou Forte",
-      "url": "https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70"
-    },
-    {
-      "added_at": "2024-10-25 15:01:20",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
       },
@@ -1303,6 +1279,30 @@
       "duration_ms": 158677,
       "name": "Wave",
       "url": "https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0"
+    },
+    {
+      "added_at": "2024-10-25 15:01:20",
+      "album": {
+        "name": "Me Deixou Forte",
+        "url": "https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 164102,
+      "name": "Me Deixou Forte",
+      "url": "https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70"
     },
     {
       "added_at": "2024-10-25 15:01:20",
@@ -1347,6 +1347,30 @@
       "duration_ms": 174375,
       "name": "Quero Voltar",
       "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
+    },
+    {
+      "added_at": "2024-10-25 15:01:20",
+      "album": {
+        "name": "Ora\u00e7\u00e3o Em Flow",
+        "url": "https://open.spotify.com/album/2IgYxhq0xVExzNg0x5N6Hs"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Mensageiros da Profecia",
+          "url": "https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI"
+        },
+        {
+          "name": "Mano Sass\u00e1",
+          "url": "https://open.spotify.com/artist/71K2lJx4XA6g8hkjGrS8l0"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Ora\u00e7\u00e3o Em Flow",
+      "url": "https://open.spotify.com/track/73VuYED2UOSdGN2qPzBXBq"
     },
     {
       "added_at": "2024-10-25 15:01:20",
@@ -1423,26 +1447,6 @@
     {
       "added_at": "2024-10-25 15:01:20",
       "album": {
-        "name": "Por Onde C Andar",
-        "url": "https://open.spotify.com/album/2KZ3jFFouJZmF7epiRk6Fd"
-      },
-      "artists": [
-        {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Por Onde C Andar",
-      "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
-    },
-    {
-      "added_at": "2024-10-25 15:01:20",
-      "album": {
         "name": "Tua Face",
         "url": "https://open.spotify.com/album/3sqmKDQb0yj4mtLTS11fyR"
       },
@@ -1463,26 +1467,22 @@
     {
       "added_at": "2024-10-25 15:01:20",
       "album": {
-        "name": "Ora\u00e7\u00e3o Em Flow",
-        "url": "https://open.spotify.com/album/2IgYxhq0xVExzNg0x5N6Hs"
+        "name": "Por Onde C Andar",
+        "url": "https://open.spotify.com/album/2KZ3jFFouJZmF7epiRk6Fd"
       },
       "artists": [
         {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
         },
         {
-          "name": "Mensageiros da Profecia",
-          "url": "https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI"
-        },
-        {
-          "name": "Mano Sass\u00e1",
-          "url": "https://open.spotify.com/artist/71K2lJx4XA6g8hkjGrS8l0"
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Ora\u00e7\u00e3o Em Flow",
-      "url": "https://open.spotify.com/track/73VuYED2UOSdGN2qPzBXBq"
+      "duration_ms": 169090,
+      "name": "Por Onde C Andar",
+      "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
     },
     {
       "added_at": "2024-10-25 15:01:20",

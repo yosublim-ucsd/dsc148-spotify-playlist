@@ -1,12 +1,12 @@
 {
   "description": "This is Gondwana. The essential tracks, all in one playlist.",
-  "num_followers": 84121,
+  "num_followers": 84131,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxwxAAAAAAC7vsN5ui2/txSpckiyVJoX",
+  "snapshot_id": "Zx2CgAAAAADbQ96vqBm2O5bzDIVpaFJu",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 188080,
-      "name": "Keep The Faith",
-      "url": "https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o"
+      "duration_ms": 221839,
+      "name": "Give Your Love",
+      "url": "https://open.spotify.com/track/6SCxbGzB7xJBPqkEvobpFf"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crece",
-        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 221839,
-      "name": "Give Your Love",
-      "url": "https://open.spotify.com/track/6SCxbGzB7xJBPqkEvobpFf"
+      "duration_ms": 188080,
+      "name": "Keep The Faith",
+      "url": "https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o"
     },
     {
       "added_at": null,
@@ -667,26 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terc3ra Llamada",
-        "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
+        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
+        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
       },
       "artists": [
         {
-          "name": "Triciclo Circus Band",
-          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
-        },
-        {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Los Rastrillos",
-          "url": "https://open.spotify.com/artist/1NEJuKkyrGHKALbX1AaIoy"
         }
       ],
-      "duration_ms": 155996,
-      "name": "Quiero acercarme a ti",
-      "url": "https://open.spotify.com/track/5Uyd0HavtHIMTPsDDN82yC"
+      "duration_ms": 236493,
+      "name": "Para Quien Avanza",
+      "url": "https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO"
     },
     {
       "added_at": null,
@@ -707,18 +699,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
-        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
+        "name": "Terc3ra Llamada",
+        "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
       },
       "artists": [
         {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+        },
+        {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Los Rastrillos",
+          "url": "https://open.spotify.com/artist/1NEJuKkyrGHKALbX1AaIoy"
         }
       ],
-      "duration_ms": 236493,
-      "name": "Para Quien Avanza",
-      "url": "https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO"
+      "duration_ms": 155996,
+      "name": "Quiero acercarme a ti",
+      "url": "https://open.spotify.com/track/5Uyd0HavtHIMTPsDDN82yC"
     },
     {
       "added_at": null,

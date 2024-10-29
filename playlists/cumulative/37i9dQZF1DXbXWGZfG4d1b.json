@@ -472,7 +472,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 195054,
       "name": "All\u00e1 de Vos",
       "url": "https://open.spotify.com/track/3DpOnMiVTnx9DLiyIdGPmt"
@@ -9600,6 +9600,40 @@
       "duration_ms": 215229,
       "name": "Que Todo Ocurra",
       "url": "https://open.spotify.com/track/0d5gK1GjaBD9OIzX6nGiAX"
+    },
+    {
+      "album": {
+        "name": "Cinta Testigo, Vol. 1",
+        "url": "https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Uzal",
+          "url": "https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd"
+        },
+        {
+          "name": "In\u00e9s Mauri",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Ramiro Garcia Morete",
+          "url": "https://open.spotify.com/artist/5YB1X9Z6pRk36FRshYqGGE"
+        },
+        {
+          "name": "Tato Urbiztondo",
+          "url": "https://open.spotify.com/artist/3EaKKv3hOH8Umk2ZN8nSW2"
+        },
+        {
+          "name": "Emiliano Santillan",
+          "url": "https://open.spotify.com/artist/5L8XFW3sEM3771fgtGkUvG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191115,
+      "name": "Quiero Ser una Luci\u00e9rnaga",
+      "url": "https://open.spotify.com/track/0gdCMqI69uSqiUMJ6ymqIF"
     },
     {
       "album": {

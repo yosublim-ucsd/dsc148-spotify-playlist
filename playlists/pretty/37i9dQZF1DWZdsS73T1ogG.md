@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: La Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,014 likes - 110 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,018 likes - 110 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

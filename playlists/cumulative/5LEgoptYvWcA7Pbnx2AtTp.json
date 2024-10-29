@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Giorno's Theme",
+        "url": "https://open.spotify.com/album/6UDDr9aZsmprJXfgU48Lqa"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Habetler",
+          "url": "https://open.spotify.com/artist/3VudC1DraV4LjIdLzpqQ80"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306321,
+      "name": "Giorno's Theme",
+      "url": "https://open.spotify.com/track/0oFPCGIO4t2cmOkksXknoD"
+    },
+    {
+      "album": {
         "name": "AniCast",
         "url": "https://open.spotify.com/album/59PNAB2nCZNVzvE793UE1I"
       },

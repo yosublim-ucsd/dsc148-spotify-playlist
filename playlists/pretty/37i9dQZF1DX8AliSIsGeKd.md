@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Konstantin Sibold
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,098 likes - 91 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,233 likes - 91 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 158724,
       "name": "After The Party",
       "url": "https://open.spotify.com/track/03H3PDFWVZYDWNzzOVYLp6"
@@ -2814,6 +2814,24 @@
       "duration_ms": 173152,
       "name": "Get Inspired",
       "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
+    },
+    {
+      "album": {
+        "name": "Get Me",
+        "url": "https://open.spotify.com/album/0uATdxFoiP0PRKVDqJ6O7F"
+      },
+      "artists": [
+        {
+          "name": "Nate Brazier",
+          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167684,
+      "name": "Get Me",
+      "url": "https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g"
     },
     {
       "album": {

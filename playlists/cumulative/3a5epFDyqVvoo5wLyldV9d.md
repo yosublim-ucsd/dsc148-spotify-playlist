@@ -4,7 +4,7 @@
 
 > 
 
-806 songs - 2 day 15 hr 24 min
+807 songs - 2 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Le procès](https://open.spotify.com/track/02Q9pn0Hr0MZ1JkjmTMnh8) | [Black So Man](https://open.spotify.com/artist/13rYUtADItYfQoy1XN63jB) | [Best of](https://open.spotify.com/album/6V2EVbCqjmLu1kGf93b1DB) | 5:06 | 2024-10-02 |  |
 | [Le soleil dans le monde](https://open.spotify.com/track/4Ve8G6KOhjDwi1fSOOdYds) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 4:02 | 2021-03-10 |  |
 | [Le troublant témoignage de Paul Martin](https://open.spotify.com/track/6CnsIuha7pEgfHThB89i0S) | [Paul Martin](https://open.spotify.com/artist/5xbMJDVjKr949s4UOH4RqF), [Jean\-Pierre Castaldi](https://open.spotify.com/artist/5uMGUHtct31OqLKl3s6B7z) | [Le troublant témoignage](https://open.spotify.com/album/3mIYhTmCeDptOCh0liwRhP) | 4:31 | 2022-03-07 |  |
+| [Len Mou Raid](https://open.spotify.com/track/02RpRGFZrEJsUWAqL8DD9o) | [Battery Cremil](https://open.spotify.com/artist/7j1Cq8wprHBrqsNmRqsoSL) | [Les Grands Succès De Battery Cremil](https://open.spotify.com/album/5wZfN9IhRcseIZ9RZBMobL) | 5:37 | 2024-10-28 |  |
 | [Let's Dance Raw](https://open.spotify.com/track/1uSO1bB5sJdu3x4eefKDpb) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Let's Dance Raw](https://open.spotify.com/album/7gcCu7XFJYx47Lpor9Lxzc) | 5:40 | 2019-11-23 |  |
 | [Leyla](https://open.spotify.com/track/5qDfBaLUXEMR2GwsLGQal9) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Gece](https://open.spotify.com/album/4IUeKh2mYOX2njthGA8STM) | 3:17 | 2019-09-23 |  |
 | [Lidojums Uz Sauli](https://open.spotify.com/track/0cb5k1gXlNjD6GhWlz1gUX) | [Ingus Baušķenieks](https://open.spotify.com/artist/7aItri3NLABDHtVkkTlRdF) | [Spoki](https://open.spotify.com/album/2MCoWM1uPpgbsuAowjJntM) | 5:51 | 2021-11-30 |  |

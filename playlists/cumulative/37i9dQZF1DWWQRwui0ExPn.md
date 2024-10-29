@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,038 songs - 11 day 2 hr 50 min
+7,039 songs - 11 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1364,7 +1364,7 @@
 | [Cozy](https://open.spotify.com/track/0gRZnSZ53Q3lMGAx5IMcXL) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Cozy](https://open.spotify.com/album/66MjnGl13VxwidORsKd6Vu) | 2:21 | 2022-05-27 | 2022-09-23 |
 | [cozy](https://open.spotify.com/track/2wU9QpFQgrXOJZUzS9lGNy) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [cozy](https://open.spotify.com/album/6tz2UDYCjmghAbJSlXmrwC) | 1:12 | 2024-01-19 | 2024-05-11 |
 | [Cozy Cabin](https://open.spotify.com/track/7nnnBJFl8r283qVvKsMk6z) | [Elon Husky](https://open.spotify.com/artist/4MSu62C3898KnZ5tNT3MKI) | [Cozy Cabin](https://open.spotify.com/album/77VvjjPPUHVzYz0Hvo5qPL) | 2:58 | 2023-11-24 | 2024-05-11 |
-| [cozy cabin](https://open.spotify.com/track/7F70IYruoqLK4kAQhE0tp8) | [ozai](https://open.spotify.com/artist/39rqcB615LQYvtRQwiE5I7) | [cozy cabin](https://open.spotify.com/album/3ctKqlalwXzWYrS3vji949) | 3:09 | 2024-02-09 |  |
+| [cozy cabin](https://open.spotify.com/track/7F70IYruoqLK4kAQhE0tp8) | [ozai](https://open.spotify.com/artist/39rqcB615LQYvtRQwiE5I7) | [cozy cabin](https://open.spotify.com/album/3ctKqlalwXzWYrS3vji949) | 3:09 | 2024-02-09 | 2024-10-29 |
 | [Cozy Jazz](https://open.spotify.com/track/03NvFoQqVypUOifssBl0JC) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [Cozy Jazz](https://open.spotify.com/album/3CF3bR4wY1w9tktFA2Fj73) | 1:36 | 2023-03-24 | 2023-04-13 |
 | [Cozy On The Sky](https://open.spotify.com/track/4gbRhISXzWAfgEaTDOtpDX) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [Cozy On The Sky](https://open.spotify.com/album/2cLV0jcukUGFSmhPQjwrnp) | 2:49 | 2022-04-08 | 2022-09-02 |
 | [Cozy Pillow Whispers](https://open.spotify.com/track/5e6u0cpQHk9JOGsolbcgpQ) | [Mr Sleep](https://open.spotify.com/artist/6VtqApngKv3UlCnSneWdyD) | [Cozy Pillow Whispers](https://open.spotify.com/album/1XcsHA50vlwJaKpSXLnOoz) | 2:04 | 2024-01-19 |  |
@@ -6192,6 +6192,7 @@
 | [The Stairs are Staring](https://open.spotify.com/track/12WqLCwkZWzfPMCiEKWpwD) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [The Stairs are Staring](https://open.spotify.com/album/4gc1EmgopZGI3yJwStqxBg) | 2:05 | 2022-10-14 | 2024-04-27 |
 | [The Summit Point \- Lofi Minecraft Music](https://open.spotify.com/track/4Z7AKTdfeqfzJQuVJsEL0U) | [LoCraft](https://open.spotify.com/artist/4RftachrjrKoRHUWPElfUJ) | [The Summit Point \(Lofi Minecraft Music\)](https://open.spotify.com/album/4148Pe35Y8ywo2HLcgvsM7) | 3:03 | 2022-06-03 | 2022-09-23 |
 | [The Sun's Out](https://open.spotify.com/track/6o9mwul55Hxm88JVGCNDCo) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [The Sun's Out](https://open.spotify.com/album/7BgKxVlKsMQYjy4yyiCsLq) | 2:11 | 2022-06-03 | 2022-10-21 |
+| [The Tallest Mountain](https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [The Tallest Mountain](https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy) | 2:16 | 2024-10-25 |  |
 | [The Thing Beneath](https://open.spotify.com/track/0yMu5FshHpipRAsUGRMgOV) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo) | [The Thing Beneath](https://open.spotify.com/album/2rfFp0gwJHdawnz44tJmFI) | 2:35 | 2022-07-22 | 2022-11-11 |
 | [The Things](https://open.spotify.com/track/3SvJX1EYzTdGzo2DawAtUp) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [The Things](https://open.spotify.com/album/4g1Rom2X5rXM6w0FhhXaLg) | 2:06 | 2022-11-18 | 2023-02-11 |
 | [The Tides](https://open.spotify.com/track/3d2PSKPmqMXGfhAfgp9T0q) | [eau n!ce](https://open.spotify.com/artist/6gEoWjjfipoKcIKmYv78E2) | [The Tides](https://open.spotify.com/album/1GugtDlvtVdpTGkc619grE) | 2:05 | 2022-08-05 | 2022-11-18 |

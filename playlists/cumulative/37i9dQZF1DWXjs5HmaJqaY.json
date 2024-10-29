@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Atmosfear",
+        "url": "https://open.spotify.com/album/0qh5oMCKAS9UxzBOe6oPJn"
+      },
+      "artists": [
+        {
+          "name": "DSTRTD SGNL",
+          "url": "https://open.spotify.com/artist/4ISX2aRyZ10uoLtypdPNai"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344888,
+      "name": "Atmosfear - V.2.0",
+      "url": "https://open.spotify.com/track/7DEs42L1TUyUn8RTlMT1WE"
+    },
+    {
+      "album": {
         "name": "Bass Care",
         "url": "https://open.spotify.com/album/7KEYcmsUwliPlLydKErg1Q"
       },
@@ -477,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Bring The Beat Back",
+        "url": "https://open.spotify.com/album/2IPRpfBhIj6AwKww7KSPJw"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234330,
+      "name": "Bring The Beat Back",
+      "url": "https://open.spotify.com/track/4hGgcWsBUsZfRg5KzxswME"
+    },
+    {
+      "album": {
         "name": "Brumcrysle EP",
         "url": "https://open.spotify.com/album/30R3q0gVguoIzMUResWBbn"
       },
@@ -589,6 +625,28 @@
     },
     {
       "album": {
+        "name": "Ce n'est pas la r\u00e9alit\u00e9 EP",
+        "url": "https://open.spotify.com/album/7HLoHa6qc7E47t9EwBxHKv"
+      },
+      "artists": [
+        {
+          "name": "Sikora",
+          "url": "https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj"
+        },
+        {
+          "name": "Drea Perlon",
+          "url": "https://open.spotify.com/artist/66z8ifbUF6uMEg6X44vXbw"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386529,
+      "name": "ce n'est pas la r\u00e9alit\u00e9 (perlonesque)",
+      "url": "https://open.spotify.com/track/3ZtfkDYaF4M61uNvjCbIni"
+    },
+    {
+      "album": {
         "name": "Cedes",
         "url": "https://open.spotify.com/album/7vqjuCQYlcv1LRMqNmXJxl"
       },
@@ -622,6 +680,24 @@
       "duration_ms": 311739,
       "name": "Cee",
       "url": "https://open.spotify.com/track/3uH4GSjsQRDnvdQQCHCXD3"
+    },
+    {
+      "album": {
+        "name": "Clearer Mind",
+        "url": "https://open.spotify.com/album/0wipOv3FjBQlbpXef5YQ4a"
+      },
+      "artists": [
+        {
+          "name": "Prevision",
+          "url": "https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449000,
+      "name": "Clearer Mind",
+      "url": "https://open.spotify.com/track/2ELTcPtYTXaQC5OruwrOSi"
     },
     {
       "album": {
@@ -1226,7 +1302,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 307103,
       "name": "Fade Away - shot by stanley Remix",
       "url": "https://open.spotify.com/track/4mqZspDnwNlEAlPkHmoP7a"
@@ -1582,6 +1658,28 @@
       "duration_ms": 255005,
       "name": "Generation",
       "url": "https://open.spotify.com/track/6IroDQQ1cXenz2vcw7pJGq"
+    },
+    {
+      "album": {
+        "name": "Genetic",
+        "url": "https://open.spotify.com/album/14bW5cKWzvTKJ7HPM2Lkd9"
+      },
+      "artists": [
+        {
+          "name": "DSTRTD SGNL",
+          "url": "https://open.spotify.com/artist/4ISX2aRyZ10uoLtypdPNai"
+        },
+        {
+          "name": "Mindscape",
+          "url": "https://open.spotify.com/artist/0ZOmdgRp1cjKbvfOEPJjD8"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294222,
+      "name": "Genetic",
+      "url": "https://open.spotify.com/track/3YZD9YXJbnJpTYm2ZPYRzT"
     },
     {
       "album": {
@@ -3028,7 +3126,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 347030,
       "name": "no one going home",
       "url": "https://open.spotify.com/track/4AYmfKH2kIfZQybd97Qyde"
@@ -4162,7 +4260,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 389090,
       "name": "Sounds Of The Riff",
       "url": "https://open.spotify.com/track/3vcgv2BSEg2OFAtwg0dZGf"
@@ -4224,7 +4322,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 331872,
       "name": "Space X - Moritz Hofbauer Remix",
       "url": "https://open.spotify.com/track/2sSmDApYtBmwz8DHQTPbJg"
@@ -4290,6 +4388,24 @@
       "duration_ms": 402280,
       "name": "Stardust and Glitter",
       "url": "https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn"
+    },
+    {
+      "album": {
+        "name": "still here?",
+        "url": "https://open.spotify.com/album/5NMZolavJ698C6ybVoVHtZ"
+      },
+      "artists": [
+        {
+          "name": "shot by stanley",
+          "url": "https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295255,
+      "name": "still here?",
+      "url": "https://open.spotify.com/track/2Qy9bdkv4Nj7TfTCLzv6il"
     },
     {
       "album": {

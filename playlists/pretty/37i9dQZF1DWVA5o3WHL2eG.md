@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,175 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,173 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,24 +17,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [Ich mag dich](https://open.spotify.com/track/0Kpcjq8gkMYQN4Unq434Zf) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Ich mag dich](https://open.spotify.com/album/6R1ioYYFaR5zo6jC3mXUku) | 2:09 |
 | 8 | [An alle da draußen](https://open.spotify.com/track/34DdFveJLvGljBwagZv3qd) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Wenn es sich gut anfühlt](https://open.spotify.com/album/3saWrjGMn6svJsgW4j4tXR) | 2:42 |
 | 9 | [sad girl summer](https://open.spotify.com/track/7pVdFkXNZRr4F12K0hiUPy) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [sad girl summer](https://open.spotify.com/album/2ZmXJSHjGlDKrQLoio24kk) | 3:27 |
-| 10 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 |
-| 11 | [Wetten dass](https://open.spotify.com/track/5zWX5GEoMCtuWG91I1yS4u) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Frag für ne Freundin EP](https://open.spotify.com/album/6Zz2ADWJZYAVNvnaiXliJM) | 2:33 |
+| 10 | [Wetten dass](https://open.spotify.com/track/5zWX5GEoMCtuWG91I1yS4u) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Frag für ne Freundin EP](https://open.spotify.com/album/6Zz2ADWJZYAVNvnaiXliJM) | 2:33 |
+| 11 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 |
 | 12 | [I think of you \(sometimes\)](https://open.spotify.com/track/7njRrjbf1wYVhlKZvdMARi) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:49 |
 | 13 | [Deine Schuld](https://open.spotify.com/track/3ByZX2TLmtfaV4gunqrOPN) | [Julia Meladin](https://open.spotify.com/artist/26N7IKzjFJ57y84GdXBd4A) | [Deine Schuld](https://open.spotify.com/album/09ljq9SAxAIH2ge3fnHzDR) | 3:05 |
 | 14 | [Berliner Luft](https://open.spotify.com/track/4K3lc5BK99UvnnLvk4aV6g) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Berliner Luft](https://open.spotify.com/album/36QABQcLmLfqqxmOBTGI5i) | 3:00 |
 | 15 | [fliegen](https://open.spotify.com/track/4Or1AiWX58dlO8mIfUTh2p) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [fliegen](https://open.spotify.com/album/4twWyL7n4WEoepG6OcJcUh) | 2:19 |
 | 16 | [Ich fühl alles](https://open.spotify.com/track/5XE72unEySdfH6DYPu3qOE) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ich fühl alles](https://open.spotify.com/album/0UVl5ZvXuisLNeyMKj2IwA) | 2:37 |
 | 17 | [Grüne Tränen](https://open.spotify.com/track/3UBE3W2wps1EvXKxvxebk9) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Grüne Tränen](https://open.spotify.com/album/0pUJR32kYyJlHkzwdR1fZ2) | 2:38 |
-| 18 | [masochist](https://open.spotify.com/track/3S5Nl9ySL7TWuOYrv25GL8) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [masochist](https://open.spotify.com/album/40NfsvkTXCWyGGRxfOUVsa) | 2:44 |
-| 19 | [Alles wieder gut](https://open.spotify.com/track/3Mcn1p3V3mn6ei20gqRYzy) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/4205ekpRnekrI9dgDS3n4I) | 3:39 |
+| 18 | [Alles wieder gut](https://open.spotify.com/track/3Mcn1p3V3mn6ei20gqRYzy) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/4205ekpRnekrI9dgDS3n4I) | 3:39 |
+| 19 | [masochist](https://open.spotify.com/track/3S5Nl9ySL7TWuOYrv25GL8) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [masochist](https://open.spotify.com/album/40NfsvkTXCWyGGRxfOUVsa) | 2:44 |
 | 20 | [Stummer Schrei](https://open.spotify.com/track/7tD1Z34AVipWVbGhLI4P2C) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Stummer Schrei](https://open.spotify.com/album/3ia7qboQ3t7NpUGsOn8RWJ) | 2:40 |
 | 21 | [Immer da](https://open.spotify.com/track/5zSMwadIN9PiorJvYNVWZN) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Immer da](https://open.spotify.com/album/0poF4PhP8Gzr6zEOJ071FM) | 2:30 |
 | 22 | [Das Beste](https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Das Beste](https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm) | 2:32 |
 | 23 | [HellSehen](https://open.spotify.com/track/6dxqzbgOQqBfbRNXW2S0Tk) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Eva Briegel](https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj), [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [HellSehen](https://open.spotify.com/album/5hQesg4QQ4rBLZMWoZiRJW) | 3:01 |
 | 24 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
 | 25 | [ich weiß, dass du das weißt](https://open.spotify.com/track/4Lz4wDl7cNPpoTexcV15tL) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [ich weiß, dass du das weißt](https://open.spotify.com/album/0YABVXhXX56gkRfYqxzmZp) | 2:35 |
-| 26 | [It Happens Either Way](https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [It Happens Either Way](https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3) | 3:32 |
-| 27 | [pokémon](https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen ep](https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK) | 2:52 |
+| 26 | [pokémon](https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen ep](https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK) | 2:52 |
+| 27 | [It Happens Either Way](https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [It Happens Either Way](https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3) | 3:32 |
 | 28 | [Der Moment archiviert](https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Der Moment archiviert](https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1) | 2:36 |
 | 29 | [Feel zu spät](https://open.spotify.com/track/1ZX6OhzVKjYe51XRnBe3yu) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Feel zu spät](https://open.spotify.com/album/7gnkgzRsyk0XaQGOcfmmn4) | 3:07 |
 | 30 | [l.o.v.e.](https://open.spotify.com/track/0gqjiN4uy0hjfZy4WvZNia) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [l.o.v.e.](https://open.spotify.com/album/6VguxmxAC2heOkIl9euhhp) | 3:05 |

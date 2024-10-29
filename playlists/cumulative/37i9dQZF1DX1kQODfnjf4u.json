@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Hard Rico",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Sofian Medjmedj",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "SWAG SIDE STORY",
+        "url": "https://open.spotify.com/album/5u0q9Bie9brMl3dCdehhnt"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Jazda",
+      "url": "https://open.spotify.com/track/6k0dWRI6L1sUxPwIcZH01F"
+    },
+    {
+      "album": {
         "name": "SPEKTRUM",
         "url": "https://open.spotify.com/album/7aCWUL2zlwAftKiOE93Khv"
       },
@@ -884,7 +906,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 156061,
       "name": "nehled\u00e1 l\u00e1sku",
       "url": "https://open.spotify.com/track/3SDPxc5VPZu05EtU2UhxEX"
@@ -1020,6 +1042,24 @@
       "duration_ms": 207752,
       "name": "Pond\u011bl\u00ed a\u017e ned\u011ble - Sped Up",
       "url": "https://open.spotify.com/track/3lcCxnxPqh0Rp7vsrD7KD6"
+    },
+    {
+      "album": {
+        "name": "posledn\u00ed song",
+        "url": "https://open.spotify.com/album/5HUS08gldCe19URgNHwlEF"
+      },
+      "artists": [
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204027,
+      "name": "posledn\u00ed song",
+      "url": "https://open.spotify.com/track/074oGai805UftJ82oxSycM"
     },
     {
       "album": {

@@ -1,13 +1,53 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20653,
+  "num_followers": 20651,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqN8ljMziucfEOM603bkIGFvDYq2xE",
+  "snapshot_id": "AAAqP788tzlGnTwrG4NqiZqbAbo2kYj2",
   "tracks": [
+    {
+      "added_at": "2024-10-28 23:42:32",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1TNaRChP0UiN1pszfgYwOt"
+      },
+      "artists": [
+        {
+          "name": "CHROMEBODIES",
+          "url": "https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI"
+        },
+        {
+          "name": "DJ Topgun",
+          "url": "https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/15eaBPOMmJfg1UNOF58hcW"
+    },
+    {
+      "added_at": "2024-10-02 22:30:04",
+      "album": {
+        "name": "Heaven Is Calling",
+        "url": "https://open.spotify.com/album/5h170L1E0KB6rL0zwnyJT4"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/2UWbje8GOCFC6eSPzUK0WU"
+    },
     {
       "added_at": "2024-10-02 22:29:46",
       "album": {
@@ -33,20 +73,20 @@
       "url": "https://open.spotify.com/track/0rN0ogLLaMz83dez9ZC9MS"
     },
     {
-      "added_at": "2024-10-02 22:30:04",
+      "added_at": "2024-10-28 23:43:30",
       "album": {
-        "name": "Heaven Is Calling",
-        "url": "https://open.spotify.com/album/5h170L1E0KB6rL0zwnyJT4"
+        "name": "Mine 4 All Time",
+        "url": "https://open.spotify.com/album/4bwpSdPkrRIUIcr2lpnlbv"
       },
       "artists": [
         {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Heaven Is Calling",
-      "url": "https://open.spotify.com/track/2UWbje8GOCFC6eSPzUK0WU"
+      "duration_ms": 180923,
+      "name": "Mine 4 All Time",
+      "url": "https://open.spotify.com/track/5NZRe5OEuXRxn9s5IfsIY2"
     },
     {
       "added_at": "2024-08-06 19:32:19",
@@ -2295,6 +2335,78 @@
       "duration_ms": 153600,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/15eaBPOMmJfg1UNOF58hcW"
+    },
+    {
+      "added_at": "2024-10-28 23:42:14",
+      "album": {
+        "name": "FIYA SELECTA (feat. Toya Delazy)",
+        "url": "https://open.spotify.com/album/14ptodXF2R41xxDgNvloV4"
+      },
+      "artists": [
+        {
+          "name": "Sam Binga",
+          "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "Toya Delazy",
+          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+        }
+      ],
+      "duration_ms": 156108,
+      "name": "FIYA SELECTA (feat. Toya Delazy)",
+      "url": "https://open.spotify.com/track/0CkYrIQRRCQKxV1EmN6JxK"
+    },
+    {
+      "added_at": "2024-10-28 23:43:15",
+      "album": {
+        "name": "Water Sign (feat. Aluna)",
+        "url": "https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Water Sign (feat. Aluna)",
+      "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
+    },
+    {
+      "added_at": "2024-10-28 23:44:28",
+      "album": {
+        "name": "what is life?",
+        "url": "https://open.spotify.com/album/3GaUmCnvDwAIhH8IvwH6J9"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "it's all happening (feat. Daniel Allan & Evalyn)",
+      "url": "https://open.spotify.com/track/5qKuzoHvzd4POlLCaPIdvb"
     }
   ],
   "unique_name": "Moving Castle Monthly",

@@ -1,6 +1,6 @@
 {
   "description": "Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.",
-  "num_followers": 9,
+  "num_followers": 17,
   "original_name": "Cozy Christmas Covers",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-10-17 09:32:00",
       "album": {
-        "name": "Come Thou Fount",
-        "url": "https://open.spotify.com/album/5xSJ1iI6wsN5fZvglyIYBT"
-      },
-      "artists": [
-        {
-          "name": "Chase & Co.",
-          "url": "https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n"
-        }
-      ],
-      "duration_ms": 176417,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/4FuMgG920Za5GiUklVbz5k"
-    },
-    {
-      "added_at": "2024-10-17 09:32:00",
-      "album": {
         "name": "Christmas For Cowboys",
         "url": "https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 186000,
       "name": "Christmas For Cowboys",
       "url": "https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb"
+    },
+    {
+      "added_at": "2024-10-17 09:32:00",
+      "album": {
+        "name": "Come Thou Fount",
+        "url": "https://open.spotify.com/album/5xSJ1iI6wsN5fZvglyIYBT"
+      },
+      "artists": [
+        {
+          "name": "Chase & Co.",
+          "url": "https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n"
+        }
+      ],
+      "duration_ms": 176417,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/4FuMgG920Za5GiUklVbz5k"
     },
     {
       "added_at": "2024-10-17 09:32:00",

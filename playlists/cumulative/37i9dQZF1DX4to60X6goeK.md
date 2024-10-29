@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: SOTA at Drumsheds
 
-262 songs - 17 hr 25 min
+263 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Don't Let Me Go](https://open.spotify.com/track/3UGNkp6UluxzrztoMu9q1C) | [Captain Bass](https://open.spotify.com/artist/1XS6lKOHQLnfn6HKRwU5VG), [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n) | [Don't Let Me Go](https://open.spotify.com/album/4whr45Olu7a2aO7GLEVWWP) | 3:05 | 2024-09-12 |  |
 | [Don't Stop](https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Don't Stop](https://open.spotify.com/album/0PPTQ6w442u34twxct76hc) | 2:56 | 2023-12-01 |  |
 | [Dopamine](https://open.spotify.com/track/1LIiaUqhedu2DyXHRFypCF) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [Dopamine / One Time](https://open.spotify.com/album/5EGr1peMZY9wFHaS4K2k09) | 4:27 | 2022-05-06 | 2022-07-20 |
+| [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 | 2024-10-24 |  |
 | [Dreaming](https://open.spotify.com/track/77clpxiqqJYBFfKNa7NJLO) | [ACP](https://open.spotify.com/artist/1qmlLdbLYrvNcB5nyN942Q) | [Dreaming](https://open.spotify.com/album/2u8hFIHE6i9T4c01c2wa1z) | 4:23 | 2023-12-27 | 2024-01-12 |
 | [Elemental](https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Elemental](https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb) | 3:17 | 2022-05-06 |  |
 | [Empire](https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Empire](https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn) | 6:07 | 2022-05-06 | 2023-12-27 |
@@ -209,7 +210,7 @@
 | [Sientelo \- Sota & Circadian Remix](https://open.spotify.com/track/25Ct5BPQbhZiNEBe8cmXcm) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Sientelo \(Sota & Circadian Remix\)](https://open.spotify.com/album/6ANG5taElvY28rBOx4GaQx) | 3:57 | 2024-08-30 |  |
 | [Sinking](https://open.spotify.com/track/0hfizldOxCUJadOOLDXNHm) | [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J) | [Sinking EP](https://open.spotify.com/album/79GOUhG7DWuEqvmZnyl5bI) | 5:41 | 2023-12-27 | 2024-01-12 |
 | [Sinking VIP](https://open.spotify.com/track/2kHzxgPwktkyKSk2xlGmNX) | [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J) | [Sinking VIP](https://open.spotify.com/album/1DPqM4UsdMwjykm3QWkryy) | 5:45 | 2023-12-27 | 2024-01-12 |
-| [Skillz](https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Skillz](https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf) | 3:24 | 2022-05-06 |  |
+| [Skillz](https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Skillz](https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf) | 3:24 | 2022-05-06 | 2024-10-29 |
 | [Snake](https://open.spotify.com/track/77LHQMJZ9q93DA81PuMg6S) | [Logan D](https://open.spotify.com/artist/1p2Bj8h0k83W4M7RY8rUvA) | [15 Years Of Low Down Deep](https://open.spotify.com/album/37OTn60AXNy6BuvxJik9hk) | 4:28 | 2022-05-06 | 2022-07-25 |
 | [Somebody Else Part 2](https://open.spotify.com/track/0D8LbRJfY6AtnmBsNAxW9R) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Lydia Plain](https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs) | [Overload / Somebody Else Part 2](https://open.spotify.com/album/6Preo4wcIUwWO8Pu6Mu6IL) | 3:17 | 2022-05-06 | 2023-09-08 |
 | [Somebody Else, Pt\. 2](https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Lydia Plain](https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs) | [Overload / Somebody Else, Pt\. 2](https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl) | 3:17 | 2022-08-12 | 2024-04-19 |

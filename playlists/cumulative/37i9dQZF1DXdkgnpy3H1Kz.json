@@ -3047,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "Antith\u00e8se",
+        "url": "https://open.spotify.com/album/0UWxlBw23F3rzxCiLf7XpM"
+      },
+      "artists": [
+        {
+          "name": "Crystal Geometry",
+          "url": "https://open.spotify.com/artist/5Jia5DC6RgQpM5pa1LY4dW"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367728,
+      "name": "D\u00e9sordres",
+      "url": "https://open.spotify.com/track/2YRny2W5fc3UYXyhcZvcBe"
+    },
+    {
+      "album": {
         "name": "Orchestra of Bubbles",
         "url": "https://open.spotify.com/album/6ZcgmpLCJlduucY4Vsd23F"
       },
@@ -3650,6 +3668,24 @@
       "duration_ms": 372619,
       "name": "FAZAANHIJIAN (\u00d6spiel Remix)",
       "url": "https://open.spotify.com/track/65iYHxGmhcN4UJE46mQHCL"
+    },
+    {
+      "album": {
+        "name": "Antith\u00e8se",
+        "url": "https://open.spotify.com/album/0UWxlBw23F3rzxCiLf7XpM"
+      },
+      "artists": [
+        {
+          "name": "Crystal Geometry",
+          "url": "https://open.spotify.com/artist/5Jia5DC6RgQpM5pa1LY4dW"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262638,
+      "name": "FCKTHNZS",
+      "url": "https://open.spotify.com/track/2W7ZV9EgBO2K8xknEaqt12"
     },
     {
       "album": {
@@ -9128,10 +9164,28 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 264672,
       "name": "Rock This Place",
       "url": "https://open.spotify.com/track/21RKj7BV5VrM53xnEQOwqG"
+    },
+    {
+      "album": {
+        "name": "Ellen Allien pres. We Are Not Alone, Pt. 8",
+        "url": "https://open.spotify.com/album/4BhzmMoGavHQj0C6skUR0W"
+      },
+      "artists": [
+        {
+          "name": "Sina XX",
+          "url": "https://open.spotify.com/artist/60perU8GxsiR4Rup8KT9XU"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264672,
+      "name": "Rock This Place",
+      "url": "https://open.spotify.com/track/2cKM4NeRj2Wg88b1MExw9e"
     },
     {
       "album": {
@@ -9356,7 +9410,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 350335,
       "name": "Scary Night",
       "url": "https://open.spotify.com/track/5Y7gj6bDdihGXdwzsNped5"
@@ -12838,7 +12892,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 253577,
       "name": "Youth",
       "url": "https://open.spotify.com/track/4OvsHGcCeiNKCVGnUXw6OT"

@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1136067,
+  "num_followers": 1136104,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Love Songs for Losers",
-        "url": "https://open.spotify.com/album/7n4sK9njoH3CxU6AwhQIvB"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Unicorn",
-      "url": "https://open.spotify.com/track/5biqRB1iyIH8TWuH2rEsq0"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
         "name": "Woodland - EP",
         "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
+        "name": "Love Songs for Losers",
+        "url": "https://open.spotify.com/album/7n4sK9njoH3CxU6AwhQIvB"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/5biqRB1iyIH8TWuH2rEsq0"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Love Gloom",
-        "url": "https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt"
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/76MThARuTPq59l5oseVCJT"
       },
       "artists": [
         {
-          "name": "Night Riots",
-          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "duration_ms": 235334,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh"
+      "duration_ms": 258186,
+      "name": "Don't Move",
+      "url": "https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh"
     }
   ],
   "unique_name": "You & Me",

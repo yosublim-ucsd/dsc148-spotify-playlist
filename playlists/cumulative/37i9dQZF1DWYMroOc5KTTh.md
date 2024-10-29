@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-542 songs - 1 day 12 hr 6 min
+543 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Cig Angel](https://open.spotify.com/track/4AMw3vWRQxJJSCv0WVvofD) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Cig Angel](https://open.spotify.com/album/2UaunxBp4RBJ8gojLPt80d) | 2:50 | 2022-04-06 | 2022-04-15 |
 | [Circle Back Around](https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Circle Back Around](https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33) | 3:15 | 2023-03-02 | 2023-05-23 |
 | [Clear](https://open.spotify.com/track/6Z4DYRLnmHQSEkn9RtMrmP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Clear](https://open.spotify.com/album/4yQbByaWW9O2VcQoxOsNlJ) | 5:30 | 2022-04-15 | 2022-04-21 |
+| [Close My Eyes](https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Close My Eyes](https://open.spotify.com/album/0IHC3YcUDA504Cy4s5KFLr) | 3:00 | 2024-10-25 |  |
 | [Close to You](https://open.spotify.com/track/1RzOA36CAV5XAkxNbl0lgu) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Close to You](https://open.spotify.com/album/19M2MZOe2cHpu3rVOZ7ADu) | 2:41 | 2022-03-07 | 2022-07-19 |
 | [Closer](https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Closer](https://open.spotify.com/album/4M1Ge6mFbDrV1LdQFiVtRE) | 4:10 | 2021-12-03 | 2022-07-26 |
 | [Coffee in the Morning \- Radio Edit](https://open.spotify.com/track/7Jg80rSKiEVhmGE8sVEYf2) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Coffee in the Morning EP](https://open.spotify.com/album/5THT3dLSH2Wb5o4bpJ1ZtS) | 3:45 | 2022-04-15 | 2022-04-18 |
@@ -384,7 +385,7 @@
 | [Paradise](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Paradise](https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF) | 3:11 | 2024-07-12 | 2024-10-26 |
 | [Paréo](https://open.spotify.com/track/0AbEPKqWLMEqxizkLZsiNq) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Paréo](https://open.spotify.com/album/4cOrkQ1SuL8wxcjXwqu34j) | 4:02 | 2022-04-15 | 2022-04-20 |
 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 | 2022-01-14 | 2022-08-02 |
-| [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 | 2024-01-05 |  |
+| [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 | 2024-01-05 | 2024-10-29 |
 | [Peace Of Mind \- Virgil Abloh Remix with Fela Kuti](https://open.spotify.com/track/3hGW03fS5b2hXZmJfzvrF7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm), [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790) | [Peace Of Mind \(Virgil Abloh Remix with Fela Kuti\)](https://open.spotify.com/album/0etqmlQMODyhKWtFYCC94p) | 4:51 | 2022-04-06 | 2022-04-21 |
 | [Pearls \- SILK Remix](https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Pearls \(SILK Remix\)](https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr) | 4:06 | 2023-04-11 | 2023-07-28 |
 | [Permission](https://open.spotify.com/track/1RzmaHAmMHlx8dOCboqRd6) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Build Back Bangers](https://open.spotify.com/album/6XdXBJ2036aEwEyLq2g3gL) | 4:01 | 2022-01-14 | 2022-07-18 |

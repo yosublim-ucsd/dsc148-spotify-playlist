@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9?si=sNzKEja4QUSyKbvVx\_7TLQ">25K</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,694 likes - 85 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,744 likes - 85 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

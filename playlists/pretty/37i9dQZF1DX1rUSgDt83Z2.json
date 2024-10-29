@@ -1,32 +1,84 @@
 {
   "description": "Mooi van eigen bodem, nationaal in elke taal \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 34221,
+  "num_followers": 34270,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrDYAAAAACxQ984Quv9o/N+rr0rsRF6",
+  "snapshot_id": "Zx/LZwAAAABp/b34Es+dIfCpu2Mi2JBw",
   "tracks": [
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Tikkie Voor De Tranen",
-        "url": "https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm"
+        "name": "Welkom In Mijn Hart",
+        "url": "https://open.spotify.com/album/0NqR8qCYxL7FelKt55NQ48"
       },
       "artists": [
         {
-          "name": "Ruben Annink",
-          "url": "https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ"
-        },
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+          "name": "Jeroen Van Der Boom",
+          "url": "https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua"
         }
       ],
-      "duration_ms": 155151,
-      "name": "Tikkie Voor De Tranen",
-      "url": "https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl"
+      "duration_ms": 209757,
+      "name": "Welkom In Mijn Hart",
+      "url": "https://open.spotify.com/track/4d2tygrOxWjYkAoEykuOfI"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Het Idee",
+        "url": "https://open.spotify.com/album/2ZMTizNKEhWBtoi9CIu1ZA"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        },
+        {
+          "name": "Inge van Calkar",
+          "url": "https://open.spotify.com/artist/58a6e3KpWCZoIkPvbBv5RP"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Het Idee",
+      "url": "https://open.spotify.com/track/0XnIwi98ZtAEHGkmz9rd9h"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Weg",
+        "url": "https://open.spotify.com/album/4P0dCRcQ0KvojIXord13sg"
+      },
+      "artists": [
+        {
+          "name": "Engel",
+          "url": "https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs"
+        },
+        {
+          "name": "Just",
+          "url": "https://open.spotify.com/artist/0yfvFgUAa58onHRP3a2gdp"
+        }
+      ],
+      "duration_ms": 171211,
+      "name": "Weg",
+      "url": "https://open.spotify.com/track/4TPdpRvrDAdJjJ72yThfn5"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Campari Soda",
+        "url": "https://open.spotify.com/album/4vXWhQGukziiGb92GnRgx7"
+      },
+      "artists": [
+        {
+          "name": "Thijs Boontjes",
+          "url": "https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Campari Soda",
+      "url": "https://open.spotify.com/track/1U8QcWfeEYPWNxUOL4ogmd"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -47,22 +99,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Welkom In Mijn Hart",
-        "url": "https://open.spotify.com/album/0NqR8qCYxL7FelKt55NQ48"
-      },
-      "artists": [
-        {
-          "name": "Jeroen Van Der Boom",
-          "url": "https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua"
-        }
-      ],
-      "duration_ms": 209757,
-      "name": "Welkom In Mijn Hart",
-      "url": "https://open.spotify.com/track/4d2tygrOxWjYkAoEykuOfI"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Tankstation",
         "url": "https://open.spotify.com/album/4eu8csS8j5wIwZuTVIRes3"
       },
@@ -75,22 +111,6 @@
       "duration_ms": 202200,
       "name": "Tankstation",
       "url": "https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Campari Soda",
-        "url": "https://open.spotify.com/album/4vXWhQGukziiGb92GnRgx7"
-      },
-      "artists": [
-        {
-          "name": "Thijs Boontjes",
-          "url": "https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Campari Soda",
-      "url": "https://open.spotify.com/track/1U8QcWfeEYPWNxUOL4ogmd"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -127,22 +147,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Het Idee (met Inge van Calkar)",
-        "url": "https://open.spotify.com/album/2ZMTizNKEhWBtoi9CIu1ZA"
+        "name": "Tikkie Voor De Tranen",
+        "url": "https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm"
       },
       "artists": [
         {
-          "name": "Diggy Dex",
-          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+          "name": "Ruben Annink",
+          "url": "https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ"
         },
         {
-          "name": "Inge van Calkar",
-          "url": "https://open.spotify.com/artist/58a6e3KpWCZoIkPvbBv5RP"
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
         }
       ],
-      "duration_ms": 174400,
-      "name": "Het Idee (met Inge van Calkar)",
-      "url": "https://open.spotify.com/track/0XnIwi98ZtAEHGkmz9rd9h"
+      "duration_ms": 155151,
+      "name": "Tikkie Voor De Tranen",
+      "url": "https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -207,26 +227,6 @@
       "duration_ms": 179740,
       "name": "Nooit Meer",
       "url": "https://open.spotify.com/track/4AkddDB8Eg2PWcWapZBT2P"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Weg",
-        "url": "https://open.spotify.com/album/4P0dCRcQ0KvojIXord13sg"
-      },
-      "artists": [
-        {
-          "name": "Engel",
-          "url": "https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs"
-        },
-        {
-          "name": "Just",
-          "url": "https://open.spotify.com/artist/0yfvFgUAa58onHRP3a2gdp"
-        }
-      ],
-      "duration_ms": 171211,
-      "name": "Weg",
-      "url": "https://open.spotify.com/track/4TPdpRvrDAdJjJ72yThfn5"
     },
     {
       "added_at": "2024-10-24 22:00:00",

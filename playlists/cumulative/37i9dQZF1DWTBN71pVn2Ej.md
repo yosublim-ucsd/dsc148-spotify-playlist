@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with Glimmer \(pictured\), Heart to Gold, Day Saints, Split Chain and more.
+> The shape of noise to come with Day Saints \(pictured\), Demo Division, Movements, Navtec and more.
 
-707 songs - 1 day 16 hr 18 min
+710 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Blank Stare](https://open.spotify.com/track/0ayRdvWxhKZ03sm4xDuGye) | [Tarnish](https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW) | [Blank Stare](https://open.spotify.com/album/0IxuqnoImXEUup7oal9fcN) | 3:41 | 2023-04-21 | 2023-07-04 |
 | [Bleeding](https://open.spotify.com/track/0pj4uSiZvfWSzXsG44sxrN) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [Bleeding](https://open.spotify.com/album/1haIHMphCyAK4P3YWOvNQF) | 4:49 | 2024-08-16 |  |
 | [blink](https://open.spotify.com/track/6cY3rrN8qX0RTLawwiHj6d) | [Sister Void](https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn) | [blink](https://open.spotify.com/album/0BJ2xtwZ34wq86GS52eYkD) | 3:47 | 2022-02-17 | 2022-06-10 |
+| [Bliss Bliss](https://open.spotify.com/track/48CG1IUOn64VHIkEKWo7Xa) | [kairo.](https://open.spotify.com/artist/7u4NmIWGOhBGRjbrXMBXoa) | [After Forever](https://open.spotify.com/album/6z34D1YRoL9iW8yUTjo3hx) | 3:58 | 2024-10-28 |  |
 | [Blue Eyes](https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Blue Eyes](https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH) | 3:31 | 2024-01-19 | 2024-03-02 |
 | [Blue Sky](https://open.spotify.com/track/1aQgDoin5W59DV8XayTlbK) | [Big World](https://open.spotify.com/artist/1iXlRbJ302iGzpBlPs773g) | [Blue Sky](https://open.spotify.com/album/4REq7tbkedlik4lirEXitL) | 2:26 | 2024-01-26 | 2024-05-03 |
 | [Blur](https://open.spotify.com/track/0EbMzjbBoeWsTcmPXtdV2Z) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Blur](https://open.spotify.com/album/3DZu3vIjxF9SOTaFzVDV9i) | 3:45 | 2024-09-30 |  |
@@ -92,6 +93,7 @@
 | [Boy Like A Bruise](https://open.spotify.com/track/37ivvSTZF3yTCyyyW5v08x) | [ASkySoBlack](https://open.spotify.com/artist/7e8EPuQ1r9dDRRdbauA0NJ) | [Boy Like A Bruise](https://open.spotify.com/album/3ZTupcS7LnL0carCQi2Izf) | 3:25 | 2024-04-26 | 2024-06-15 |
 | [BREAK ME](https://open.spotify.com/track/3PxCZcQggsO06Drkbq13N7) | [Cotton Eye](https://open.spotify.com/artist/1AdasO2tHMg7i0HYgAaOXq) | [BREAK ME](https://open.spotify.com/album/3NSICXoZWl7YJwzywIYQga) | 5:06 | 2022-10-28 | 2023-02-03 |
 | [Bring Me the Head of My Enemy](https://open.spotify.com/track/5sV8nDtUfBR58sOrSOqMRr) | [Better Off](https://open.spotify.com/artist/14LOHiPLjJKiOzjFilTkWh) | [Bring Me the Head of My Enemy](https://open.spotify.com/album/5F5PtHdCNnSCgMbpolueDl) | 3:20 | 2024-01-26 | 2024-06-08 |
+| [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 | 2024-10-28 |  |
 | [Brother](https://open.spotify.com/track/3lIC6gFTx2XwCIAdhs88qU) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Brother](https://open.spotify.com/album/5AwS7TwR4bOMzej8FqAniP) | 3:18 | 2021-12-16 | 2022-03-11 |
 | [Brother of Mine](https://open.spotify.com/track/03Idtt3AjQG0X7IyoXpuw6) | [Spielbergs](https://open.spotify.com/artist/1PTXobwsxwhjcIajCjV8u4) | [Brother of Mine](https://open.spotify.com/album/4b4WAaunBaI9dRwsTpnbMG) | 4:14 | 2022-03-24 | 2022-06-17 |
 | [Bruise The Sore](https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Feel It All Around](https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy) | 3:32 | 2023-04-14 | 2023-10-14 |
@@ -167,7 +169,7 @@
 | [Creature](https://open.spotify.com/track/4Jyiy6CRiKRQmlVt3JztNt) | [bloodmoon](https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB) | [Creature](https://open.spotify.com/album/2mQj1BmUj9HVQwDlEUTXWe) | 3:23 | 2023-05-12 | 2024-02-10 |
 | [Crosshairs](https://open.spotify.com/track/2qp36gR2mPAssQ2dKHdzO2) | [Parti!](https://open.spotify.com/artist/1b17pNackw7aDoGd6NIZzK) | [Crosshairs](https://open.spotify.com/album/6ODSZq6jJ3oNoTJfuiPFAi) | 2:58 | 2022-11-04 | 2023-04-01 |
 | [Crumbling](https://open.spotify.com/track/0LrNlyjutQwOTcxjNThoYW) | [Sign Language](https://open.spotify.com/artist/3KdIx1AzUI5DQCazdl4yKg) | [Madison & Floral](https://open.spotify.com/album/5VKs9SQxgi4fxI0tpulrAp) | 3:13 | 2024-01-19 | 2024-06-08 |
-| [Crushing Me](https://open.spotify.com/track/5h8EGfF4j1az4GNCAgQBkF) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 2:29 | 2024-08-02 |  |
+| [Crushing Me](https://open.spotify.com/track/5h8EGfF4j1az4GNCAgQBkF) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 2:29 | 2024-08-02 | 2024-10-29 |
 | [Csts](https://open.spotify.com/track/0fbQD0elsISeiHp5nvVyPo) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Into the Blue \(Deluxe\)](https://open.spotify.com/album/1EjDpSngm4sh4mn8Hta2pV) | 4:54 | 2022-09-22 | 2023-02-25 |
 | [D.I.A.D.](https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [D.I.A.D.](https://open.spotify.com/album/0jWYNExqrkXCTjSe3zfyFy) | 2:57 | 2024-02-09 | 2024-06-22 |
 | [D.I.A.D.](https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [The Need to Separate](https://open.spotify.com/album/0gA6P28dwwf52W8fXjZRtD) | 2:57 | 2024-04-02 | 2024-04-19 |
@@ -232,6 +234,7 @@
 | [Facade](https://open.spotify.com/track/0LOWGAqGt7dqnYOQzQqEJP) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [I Didn't Mean To Make It This Far](https://open.spotify.com/album/1zCG65ywBOBezPyY0epCQK) | 3:49 | 2023-12-29 | 2024-01-27 |
 | [Face Down](https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [I Want](https://open.spotify.com/album/66fM2xo6aWI1z0nsmTXeD0) | 3:23 | 2022-09-06 | 2023-04-15 |
 | [Fade](https://open.spotify.com/track/0Aqn5qAIAConeBMdzmWCwa) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Fade](https://open.spotify.com/album/6RnAyb6ePoloIgKQFtMVtW) | 2:45 | 2024-02-09 | 2024-05-25 |
+| [Fade Away](https://open.spotify.com/track/1aAYShm16G1hLvlEArQjwx) | [Drift](https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi) | [Fade Away](https://open.spotify.com/album/3KKZevK5ptFVyA5xPF5Ul1) | 4:09 | 2024-10-28 |  |
 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-05-26 | 2023-10-14 |
 | [Failing Grace](https://open.spotify.com/track/2VTmB41ZgW8Ecm8rZ7YBqc) | [Attendant](https://open.spotify.com/artist/2armY1pDin1spLqVtTGOVV) | [Failing Grace](https://open.spotify.com/album/37qxbuMJrd8bMDfCPuoUY0) | 3:03 | 2022-10-28 | 2023-03-03 |
 | [Fall Apart](https://open.spotify.com/track/16M7iRpS9k69TUc62Xtj5v) | [OVERSIZE](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T) | [Fall Apart](https://open.spotify.com/album/4VoflHg4snejNTLbFfW0Xi) | 2:40 | 2024-10-11 |  |
@@ -553,7 +556,7 @@
 | [Sixteen](https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Sixteen](https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY) | 3:44 | 2024-03-01 | 2024-04-19 |
 | [Sleepyhead](https://open.spotify.com/track/773VTGnDzSNTZaCGfZuX45) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sleepyhead](https://open.spotify.com/album/53eyTL44Mlwj27s8BZjbm0) | 2:15 | 2023-07-14 | 2023-10-14 |
 | [Slide 2 Me](https://open.spotify.com/track/0nB4xFTYsIMUon9vQdPnIG) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Slide 2 Me](https://open.spotify.com/album/1Sp5CW0MLLNr5jVqlEn6zi) | 2:37 | 2024-09-20 | 2024-10-05 |
-| [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 | 2024-04-12 |  |
+| [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 | 2024-04-12 | 2024-10-29 |
 | [Slow Death](https://open.spotify.com/track/45VA3UoPgC89TWIwOdwxav) | [Big Spring](https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma) | [Slow Death](https://open.spotify.com/album/79IZOdWrcaiUOQrpjwwKle) | 3:58 | 2023-09-29 | 2023-10-21 |
 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 | 2023-07-14 | 2023-10-09 |
 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 | 2023-04-14 | 2023-08-22 |
@@ -568,7 +571,7 @@
 | [Sow](https://open.spotify.com/track/7yL6dFWL7mIdyIVE2lZZwX) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [Sow](https://open.spotify.com/album/4ZQ3fVCBqwPtoFDsA3EAlu) | 2:52 | 2024-07-26 |  |
 | [Spaceboy](https://open.spotify.com/track/6ofeNhY1x3MEiXCI1gtFIq) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Spaceboy](https://open.spotify.com/album/4U0lowrw1imRhT1OoFIu7g) | 2:50 | 2024-08-30 | 2024-10-26 |
 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-14 |  |
-| [Spectre](https://open.spotify.com/track/6GsXN6OCNWR3GaDoNQTmwW) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Spectre](https://open.spotify.com/album/1jpug0ubgqgKiBhT2X5E2E) | 3:53 | 2024-09-30 |  |
+| [Spectre](https://open.spotify.com/track/6GsXN6OCNWR3GaDoNQTmwW) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Spectre](https://open.spotify.com/album/1jpug0ubgqgKiBhT2X5E2E) | 3:53 | 2024-09-30 | 2024-10-29 |
 | [Spell](https://open.spotify.com/track/4Un8vcXds1r5WuRknRlycI) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6FWVzZ70IkIbYjySKrThTI) | 3:37 | 2022-11-04 | 2022-11-26 |
 | [Spell](https://open.spotify.com/track/3M5a73GseVS617KuBHxj8t) | [Twin Mill](https://open.spotify.com/artist/4yObbeDn9QW3dGWIVdcalo) | [Different Skies](https://open.spotify.com/album/1R7btULxWxGIIfShLr4nua) | 3:28 | 2024-01-19 | 2024-08-17 |
 | [Spilling Ink](https://open.spotify.com/track/2IU1bpsBxeFFp5fFvY2CFA) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Spilling Ink](https://open.spotify.com/album/1AItTg8lRbbk54ReTDBqGR) | 2:21 | 2024-05-17 | 2024-07-09 |

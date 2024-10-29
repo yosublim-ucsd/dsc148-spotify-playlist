@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-239 songs - 13 hr 41 min
+240 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,11 +226,12 @@
 | [Vingar](https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Vingar](https://open.spotify.com/album/3IhYDgccVPQzJ8Y0x1O7au) | 2:53 | 2024-06-27 | 2024-08-16 |
 | [Vinna guldet](https://open.spotify.com/track/28mPNsXcbYfUqNWMIAcqMb) | [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Vinna guldet](https://open.spotify.com/album/5GjvBVTWyQMXI7TCMLMKgR) | 3:05 | 2024-06-27 | 2024-08-09 |
 | [Vår vänskap består](https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD) | [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx), [Anna Stadling](https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs) | [Vår vänskap består](https://open.spotify.com/album/54oMR3z8WrNjOGnijVXK8x) | 2:50 | 2024-09-19 | 2024-10-28 |
+| [Vårt år](https://open.spotify.com/track/50bJYeCkXBjyRoEKHcpcSg) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Vårt år](https://open.spotify.com/album/13l2mQURjHVXLWTAbyi7nn) | 3:02 | 2024-10-24 |  |
 | [Våt cigg](https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Våt cigg](https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip) | 2:57 | 2024-06-27 | 2024-08-30 |
 | [Waiting for the Storm to Pass](https://open.spotify.com/track/3MFAqUVRhIj3LBmoodruF8) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [Atlas \(Outtakes & Acoustics\)](https://open.spotify.com/album/6qWPpu964E3p2WcHg9q5lF) | 4:03 | 2024-09-19 | 2024-10-11 |
 | [Walk With Me \- Chodź ze mną](https://open.spotify.com/track/2WVD6L40UgAfoGqkLplnlr) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe), [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Walk With Me \- Chodź ze mną](https://open.spotify.com/album/1NQkvIurxrCar63mMVxX4z) | 2:48 | 2024-06-27 | 2024-08-30 |
 | [Walked on Water \(feat\. Kesha\)](https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Obsessed](https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib) | 3:20 | 2024-08-15 |  |
-| [Wasting Years](https://open.spotify.com/track/6XYZul9KUloOQHx2RWfbCj) | [Ulf Nilsson](https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV) | [Wasting Years](https://open.spotify.com/album/2CVriiX2NKbMnQE6a52FYw) | 3:45 | 2024-09-19 |  |
+| [Wasting Years](https://open.spotify.com/track/6XYZul9KUloOQHx2RWfbCj) | [Ulf Nilsson](https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV) | [Wasting Years](https://open.spotify.com/album/2CVriiX2NKbMnQE6a52FYw) | 3:45 | 2024-09-19 | 2024-10-29 |
 | [We're In This Together](https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [We're In This Together](https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs) | 2:20 | 2024-06-27 | 2024-08-30 |
 | [Weak Point](https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Weak Point](https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y) | 4:45 | 2024-08-29 |  |
 | [What Went Wrong \(Flat Tyre on a Muddy Road\)](https://open.spotify.com/track/6ITwbq9TQ9VorVosXIT4Ur) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [What Went Wrong \(Flat Tyre on a Muddy Road\)](https://open.spotify.com/album/79QzzKZajHVcQTnJDPhgXn) | 3:53 | 2024-10-10 |  |

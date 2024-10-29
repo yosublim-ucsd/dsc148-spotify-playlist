@@ -746,7 +746,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 223973,
       "name": "Can't Let You Go (feat. Mike Shorey & Lil' Mo)",
       "url": "https://open.spotify.com/track/6lrRIfQDcikJ5y5DtyZPuJ"
@@ -906,6 +906,24 @@
       "duration_ms": 233749,
       "name": "Dangerous (feat. Jeremih and PnB Rock)",
       "url": "https://open.spotify.com/track/3lb5fWSG2p7x8ik8HN9oFR"
+    },
+    {
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253834,
+      "name": "Darling, I",
+      "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
     },
     {
       "album": {

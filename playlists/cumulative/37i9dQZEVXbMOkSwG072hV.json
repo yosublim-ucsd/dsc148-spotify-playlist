@@ -6875,6 +6875,24 @@
     },
     {
       "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "album": {
         "name": "Beat da Felicidade",
         "url": "https://open.spotify.com/album/2CcIrl1RU5gRo8AZirQSs5"
       },
@@ -14004,6 +14022,24 @@
       "duration_ms": 190224,
       "name": "Deixa Eu Ser Seu Romeu",
       "url": "https://open.spotify.com/track/08FbjJaapnrQ0zk36j1R9p"
+    },
+    {
+      "album": {
+        "name": "Deixa nos fazer fuma\u00e7a, Ice com pre\u00e7o do ouro",
+        "url": "https://open.spotify.com/album/2MElVKOathhypm7JqsC3Ey"
+      },
+      "artists": [
+        {
+          "name": "Sagazz.",
+          "url": "https://open.spotify.com/artist/3roBeKsD1AZHBtXLhwdCJn"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Deixa nos fazer fuma\u00e7a, Ice com pre\u00e7o do ouro",
+      "url": "https://open.spotify.com/track/6su5ScKjzRvvJagpPBxMoh"
     },
     {
       "album": {
@@ -26298,7 +26334,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 186093,
       "name": "It's Going Down Now",
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
@@ -57514,7 +57550,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-29",
       "duration_ms": 67596,
       "name": "VAPO NO SETOR",
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"

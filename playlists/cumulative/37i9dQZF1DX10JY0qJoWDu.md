@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-131 songs - 6 hr 0 min
+132 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [When We're Together](https://open.spotify.com/track/6xsanHBuSwNCTESsldlB0o) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Olaf's Frozen Adventure \(Original Soundtrack\)](https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa) | 2:50 | 2021-12-03 |  |
 | [When You Wish Upon A Star](https://open.spotify.com/track/6JFyoWiWW69dTjPrJ0RxQ1) | [The Mamas](https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ) | [When You Wish Upon A Star](https://open.spotify.com/album/0RwaotyCpvAytYj5WaH96L) | 3:03 | 2021-12-03 |  |
 | [White Christmas](https://open.spotify.com/track/7yURtJ9ZInIE8nwVj8vJSM) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Disney's Merry Little Christmas](https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz) | 2:30 | 2021-12-03 |  |
+| [Winter Dream](https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Winter Dream](https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA) | 2:59 | 2024-10-28 |  |
 | [Winter Wonderland](https://open.spotify.com/track/0ptalwARekSbKYsrTExmwY) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:48 | 2021-12-03 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/2VmipRkRAi9F78zojC3CzN) | [Randy Crenshaw](https://open.spotify.com/artist/1uYWNGwHu2d2au8iOXZROv) | [Disney Jingle Bell Fun](https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8) | 2:36 | 2021-12-03 |  |
 | [Wrapped Up for Christmas](https://open.spotify.com/track/6q2CZUCGib5kTOldnKNDXI) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [Wrapped Up for Christmas](https://open.spotify.com/album/4qYm830ZeL7uNnxA9jC33C) | 3:42 | 2021-12-03 |  |

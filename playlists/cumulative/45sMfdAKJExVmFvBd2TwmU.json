@@ -1785,6 +1785,36 @@
     },
     {
       "album": {
+        "name": "Aisha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Anusha Mani",
+          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
+        },
+        {
+          "name": "Neuman Pinto",
+          "url": "https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6"
+        },
+        {
+          "name": "Nikhil D'Souza",
+          "url": "https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290453,
+      "name": "Lehrein",
+      "url": "https://open.spotify.com/track/2n6Y0uDH6hzDj9sWh34f68"
+    },
+    {
+      "album": {
         "name": "Tubelight (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4Y3f3J030knsEk3epIvO0R"
       },

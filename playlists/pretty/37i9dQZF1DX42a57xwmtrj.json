@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.",
-  "num_followers": 174416,
+  "num_followers": 174477,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "En Sentido Contrario",
-        "url": "https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx"
-      },
-      "artists": [
-        {
-          "name": "Troleb\u00fas",
-          "url": "https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3"
-        }
-      ],
-      "duration_ms": 157988,
-      "name": "Barata y Descont\u00f3",
-      "url": "https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
         "name": "La Nueva Sangre del Rock, Vol. 2",
         "url": "https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 368720,
       "name": "Que Nos Paso",
       "url": "https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
+        "name": "En Sentido Contrario",
+        "url": "https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx"
+      },
+      "artists": [
+        {
+          "name": "Troleb\u00fas",
+          "url": "https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3"
+        }
+      ],
+      "duration_ms": 157988,
+      "name": "Barata y Descont\u00f3",
+      "url": "https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Ella Ya Muri\u00f3",
-        "url": "https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV"
-      },
-      "artists": [
-        {
-          "name": "Sangre Avandaro",
-          "url": "https://open.spotify.com/artist/6JfNh1KwOmuN120aTVfUN8"
-        }
-      ],
-      "duration_ms": 301680,
-      "name": "D\u00e9jalo",
-      "url": "https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
         "name": "Los Versos de la Catrina",
         "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 247453,
       "name": "Los Versos de la Catrina",
       "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
+        "name": "Ella Ya Muri\u00f3",
+        "url": "https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV"
+      },
+      "artists": [
+        {
+          "name": "Sangre Avandaro",
+          "url": "https://open.spotify.com/artist/6JfNh1KwOmuN120aTVfUN8"
+        }
+      ],
+      "duration_ms": 301680,
+      "name": "D\u00e9jalo",
+      "url": "https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Botellita De Jerez",
-        "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Alarmala De Tos",
-      "url": "https://open.spotify.com/track/5w2jRK3JTtHT7IUxcZwn89"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
         "name": "15 Rolitas de Amor",
         "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 336200,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
+        "name": "Botellita De Jerez",
+        "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Alarmala De Tos",
+      "url": "https://open.spotify.com/track/5w2jRK3JTtHT7IUxcZwn89"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
       },
       "artists": [
         {
-          "name": "Brebaje Extra\u00f1o",
-          "url": "https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ"
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 280240,
-      "name": "Ha Vuelto Ya",
-      "url": "https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG"
+      "duration_ms": 288360,
+      "name": "Estacion Del Metro Balderas",
+      "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Hurbanistorias",
-        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
       "artists": [
         {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+          "name": "Brebaje Extra\u00f1o",
+          "url": "https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ"
         }
       ],
-      "duration_ms": 288360,
-      "name": "Estacion Del Metro Balderas",
-      "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
+      "duration_ms": 280240,
+      "name": "Ha Vuelto Ya",
+      "url": "https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG"
     },
     {
       "added_at": "2024-07-12 18:10:47",

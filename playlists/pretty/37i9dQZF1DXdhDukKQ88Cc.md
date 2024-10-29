@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap og den vibe...<a href="spotify:artist:4a88Q5HOh8FSXQ1gPcQu2U">Kimbo</a> med album ude 💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,370 likes - 74 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,371 likes - 74 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

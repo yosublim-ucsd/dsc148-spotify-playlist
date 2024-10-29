@@ -687,6 +687,26 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
+        "name": "Novinho Chora",
+        "url": "https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 187405,
+      "name": "Novinho Chora",
+      "url": "https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3"
+    },
+    {
+      "added_at": "2024-10-11 14:42:33",
+      "album": {
         "name": "TROPA",
         "url": "https://open.spotify.com/album/6FZ218TQm3MCkNPUy5HwaS"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 182400,
       "name": "Flores",
       "url": "https://open.spotify.com/track/35ZQhvGer4YLCx4ri4CzQ8"
-    },
-    {
-      "added_at": "2024-10-11 14:42:33",
-      "album": {
-        "name": "Novinho Chora",
-        "url": "https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 187405,
-      "name": "Novinho Chora",
-      "url": "https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3"
     },
     {
       "added_at": "2024-10-11 14:42:33",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/6FEdYAGN4R36ISclfCaXaZ"
-      },
-      "artists": [
-        {
-          "name": "LIL IVY",
-          "url": "https://open.spotify.com/artist/4g0UPdT1Woji9TXibQIwgj"
-        },
-        {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
-        },
-        {
-          "name": "Dubrayti",
-          "url": "https://open.spotify.com/artist/780sx1F5M381jXQa6gMqhu"
-        }
-      ],
-      "duration_ms": 144459,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/0wOaclTcCrJrwV5iHcpOyo"
-    },
-    {
-      "added_at": "2024-10-11 14:42:33",
-      "album": {
         "name": "Bolso Cheio",
         "url": "https://open.spotify.com/album/0x0fS6Y6jFD1YIGicSAO83"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 147580,
       "name": "Bolso Cheio",
       "url": "https://open.spotify.com/track/0GxgXhS6PEKC3qMrKN10Lm"
+    },
+    {
+      "added_at": "2024-10-11 14:42:33",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/6FEdYAGN4R36ISclfCaXaZ"
+      },
+      "artists": [
+        {
+          "name": "LIL IVY",
+          "url": "https://open.spotify.com/artist/4g0UPdT1Woji9TXibQIwgj"
+        },
+        {
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+        },
+        {
+          "name": "Dubrayti",
+          "url": "https://open.spotify.com/artist/780sx1F5M381jXQa6gMqhu"
+        }
+      ],
+      "duration_ms": 144459,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/0wOaclTcCrJrwV5iHcpOyo"
     },
     {
       "added_at": "2024-10-11 14:42:33",

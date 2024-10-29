@@ -6359,6 +6359,24 @@
     },
     {
       "album": {
+        "name": "Fountain Of You",
+        "url": "https://open.spotify.com/album/16ZxeA0JdIhrgeav9kiDcQ"
+      },
+      "artists": [
+        {
+          "name": "Peter Perrett",
+          "url": "https://open.spotify.com/artist/1AcMngBo2RJdnnciklA9Cx"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273372,
+      "name": "Fountain Of You",
+      "url": "https://open.spotify.com/track/0LAlvWPXtED1fMdqIzbYmj"
+    },
+    {
+      "album": {
         "name": "Fourth Street",
         "url": "https://open.spotify.com/album/1E7iI6I8FY6oAaHIMon95J"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:78DvQP3rczGqfgEiLfFnCD">Torey D'Shaun</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,716 likes - 89 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,766 likes - 89 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
