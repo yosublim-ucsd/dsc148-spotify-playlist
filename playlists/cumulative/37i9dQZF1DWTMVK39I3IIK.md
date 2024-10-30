@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸 <a href="spotify:artist:0dMc2FDDeU7OzAn5EsYKuU">Østen</a> har nyt album ude❤️‍🔥
 
-116 songs - 6 hr 13 min
+117 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [I Made It \(feat\. andreas odbjerg\)](https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [I Made It \(feat\. andreas odbjerg\)](https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD) | 3:29 | 2024-06-27 |  |
 | [I Wanna Dive in the Seven Seas](https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [I Wanna Dive in the Seven Seas](https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq) | 2:44 | 2024-10-18 |  |
 | [Ildfluer](https://open.spotify.com/track/44AFri447xop1t5EblgHbE) | [First Flush](https://open.spotify.com/artist/3rdxGMdJ33uN89az9Hm9cj) | [Ildfluer](https://open.spotify.com/album/7IqD3qu5GyL4r4diTeUTpj) | 3:32 | 2024-09-19 | 2024-10-11 |
-| [Jaloux](https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Jaloux](https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW) | 2:37 | 2024-06-27 |  |
+| [Jaloux](https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Jaloux](https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW) | 2:37 | 2024-06-27 | 2024-10-30 |
 | [JEG TOG FEJL](https://open.spotify.com/track/16HT5c4HSKErYQYPClyAUb) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [JEG TOG FEJL](https://open.spotify.com/album/2itUyX1wmrsc42VapC3MIo) | 2:57 | 2024-06-27 | 2024-07-15 |
 | [Jeg ved det godt](https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [En sød lille én](https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A) | 2:51 | 2024-06-27 | 2024-09-07 |
 | [Keep Forgetting](https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Keep Forgetting](https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj) | 2:53 | 2024-08-29 |  |
@@ -121,6 +121,7 @@
 | [Under Vand](https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [SAMBA](https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt) | 3:35 | 2024-06-27 |  |
 | [Undskyld](https://open.spotify.com/track/1ug3sLJmoOfkAePLrwLaTE) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Undskyld](https://open.spotify.com/album/4NXmhhae3kO8EJBrTVmmoQ) | 2:34 | 2024-10-18 |  |
 | [Ung & Smuk](https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Ung & Smuk](https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3) | 2:40 | 2024-06-27 | 2024-09-10 |
+| [Vågen igen](https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Vågen igen](https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb) | 4:10 | 2024-10-24 |  |
 | [været der for mig](https://open.spotify.com/track/12ad9oFsZSnVnOayNX044w) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [været der for mig](https://open.spotify.com/album/75xujGRiyUtiiw67mmJOnn) | 2:48 | 2024-08-29 | 2024-09-06 |
 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 | 2024-10-10 |  |
 | [Without You \(feat\. eee gee\)](https://open.spotify.com/track/0QhufSlyQVv6o9X4erX7WS) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc), [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Half truths from a broken heart](https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz) | 4:12 | 2024-09-12 | 2024-09-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189 likes - 318 songs - 17 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191 likes - 318 songs - 17 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 79 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 |
 | 80 | [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 |
 | 81 | [bet u wanna](https://open.spotify.com/track/1RAeuvRyRzCweAK3jUT0ZW) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:11 |
-| 82 | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/track/202BHy1VSuKCgz6whG3zhx) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [20 Number Ones](https://open.spotify.com/album/3t9LIGVnRb9bGaZMwlApFB) | 3:20 |
-| 83 | [Beautiful As You](https://open.spotify.com/track/1SBoKG4MjtH2vMUpftdQtc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 2:43 |
+| 82 | [Beautiful As You](https://open.spotify.com/track/1SBoKG4MjtH2vMUpftdQtc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 2:43 |
+| 83 | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/track/202BHy1VSuKCgz6whG3zhx) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [20 Number Ones](https://open.spotify.com/album/3t9LIGVnRb9bGaZMwlApFB) | 3:20 |
 | 84 | [Heartbreaker](https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker](https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM) | 3:42 |
 | 85 | [Finally Free \- From "Smallfoot"](https://open.spotify.com/track/7xQxjMokrYnY8n9w19FZqr) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Finally Free \(From "Smallfoot"\)](https://open.spotify.com/album/47oDAQvTvsYGXBlGJKe2O2) | 3:23 |
 | 86 | [Dear Patience](https://open.spotify.com/track/0gwfuYQz0TauOajxH2V2Cn) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:14 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 88 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
 | 89 | [Best 4 U](https://open.spotify.com/track/1aufVYjIKcrXfEv2rYlzrZ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe) | 3:59 |
 | 90 | [Fire Away](https://open.spotify.com/track/7JyZzz4rMPMWMsb27vArSN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:26 |
-| 91 | [Preacher Man](https://open.spotify.com/track/0t4eeCKgtrRe75g94vzQsl) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [X](https://open.spotify.com/album/7he37fPTLhn4YyQlXerHXV) | 3:39 |
-| 92 | [dose](https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:00 |
+| 91 | [dose](https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:00 |
+| 92 | [Preacher Man](https://open.spotify.com/track/0t4eeCKgtrRe75g94vzQsl) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [X](https://open.spotify.com/album/7he37fPTLhn4YyQlXerHXV) | 3:39 |
 | 93 | [Chapstick](https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:13 |
 | 94 | [Simple Things](https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things \(Piano Version\)](https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz) | 2:59 |
 | 95 | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/track/1etcoCl2mkHpMHkMVco8iz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS) | 2:40 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 126 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 |
 | 127 | [Killing Me](https://open.spotify.com/track/4gvBtmPJqTLW1s3RjI9K7Q) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:45 |
 | 128 | [I'd Rather Have Sex](https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:53 |
-| 129 | [Never Letting Go](https://open.spotify.com/track/0ioKRStsEBHQsHPb0N9kAE) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0), [Moon Willis](https://open.spotify.com/artist/4QsYLEjgSItbA6PI2i8xAU), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [Never Letting Go](https://open.spotify.com/album/2b5HwXYmdfZB6CkxteIM7J) | 3:55 |
-| 130 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 |
+| 129 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 |
+| 130 | [Never Letting Go](https://open.spotify.com/track/0ioKRStsEBHQsHPb0N9kAE) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0), [Moon Willis](https://open.spotify.com/artist/4QsYLEjgSItbA6PI2i8xAU), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [Never Letting Go](https://open.spotify.com/album/2b5HwXYmdfZB6CkxteIM7J) | 3:55 |
 | 131 | [Strangers](https://open.spotify.com/track/0X5QlzgZD3UanxR4MIXb4f) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:04 |
 | 132 | [Put You On](https://open.spotify.com/track/59nJ265OcQ7Rrms09xk8LO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Put You On](https://open.spotify.com/album/7xfpXfwN3bC3OgtU8dR2Xm) | 3:44 |
 | 133 | [Renegades](https://open.spotify.com/track/27rPYvYisboZwKnIiX2cug) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:42 |
@@ -192,8 +192,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 182 | [Running Out Of Time](https://open.spotify.com/track/4o8oO3wFV633UmrxQhjRTQ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Willson](https://open.spotify.com/album/7yi77MD43JR5KZAgrOFdrz) | 3:34 |
 | 183 | [Helium](https://open.spotify.com/track/7x5h2owM8KwbgRJXJsL6Hd) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Love Center](https://open.spotify.com/album/2y5JTyJ84CYPR2EbFuKDCv) | 2:43 |
 | 184 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 |
-| 185 | [What a Buzz](https://open.spotify.com/track/1UCru0Cwxt9m9Dgok2nC3b) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Right Place Right Time \(Expanded Edition\)](https://open.spotify.com/album/5kU9rWhYr4MmPmaGYP5z4v) | 3:06 |
-| 186 | [If You Leave Me / Everybody Wants To Rule The World \- Live From Electric Picnic](https://open.spotify.com/track/6PcZHrioMRip7pMJqPTDQM) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 5:17 |
+| 185 | [If You Leave Me / Everybody Wants To Rule The World \- Live From Electric Picnic](https://open.spotify.com/track/6PcZHrioMRip7pMJqPTDQM) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 5:17 |
+| 186 | [What a Buzz](https://open.spotify.com/track/1UCru0Cwxt9m9Dgok2nC3b) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Right Place Right Time \(Expanded Edition\)](https://open.spotify.com/album/5kU9rWhYr4MmPmaGYP5z4v) | 3:06 |
 | 187 | [Sign Language](https://open.spotify.com/track/0gSAbPlRBTOqK0cHFVZYNn) | [Dylan Gardner](https://open.spotify.com/artist/12Na60zr4c70kpEDMLICoh) | [Almost Real](https://open.spotify.com/album/2xroSp0sydZGhmc9UelPzc) | 3:10 |
 | 188 | [Cheating](https://open.spotify.com/track/54ishPSqGuH3DjmDOgZX38) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 2:27 |
 | 189 | [21 \(feat\. Laza Morgan\)](https://open.spotify.com/track/6E0ULwUN3Aj8sfB2e8QPvR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:52 |
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 317 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 318 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AbgBVAAAAAAU2FeIeDvb31k0e/ylNQCp`
+Snapshot ID: `AbgG9AAAAAAPesqD0TOe76mzZIAtjEvf`

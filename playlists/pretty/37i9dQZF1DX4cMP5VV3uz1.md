@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,839 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,881 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 45 | [A Little More \- Friendly Foe Remix](https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ) | [JUSTDEE](https://open.spotify.com/artist/0pTfWNL7Yap8OWlTlrtDcr), [Friendly Foe](https://open.spotify.com/artist/2l8vqVFmkHR0UBhLaObRk8) | [A Little More \(Friendly Foe Remix\)](https://open.spotify.com/album/7D2U6ueId2eLAYphbXEWuO) | 3:08 |
 | 46 | [Bass & Treble](https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0) | [Jappa](https://open.spotify.com/artist/1YjOQxSsA8Le5egt7q7RaI), [Wish Master](https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn) | [Bass & Treble](https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH) | 3:48 |
 | 47 | [RAW!](https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Scorpio MC](https://open.spotify.com/artist/5FPIKRbEw5qcI7KJaQv1c1) | [RAW!](https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj) | 3:07 |
-| 48 | [Fiesta](https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Fiesta](https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp) | 3:46 |
-| 49 | [Dubplate SZN](https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Diagnostix](https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5), [Jman](https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm) | [Dubplate SZN](https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2) | 3:10 |
+| 48 | [Dubplate SZN](https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Diagnostix](https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5), [Jman](https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm) | [Dubplate SZN](https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2) | 3:10 |
+| 49 | [Fiesta](https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Fiesta](https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp) | 3:46 |
 | 50 | [Rhythm & Gash VIP](https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Rhythm & Gash VIP](https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg) | 2:44 |
 | 51 | [Jordan 1s \- Effy Rework](https://open.spotify.com/track/1PsmJW9eYuXY7zRtYxRzMI) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Jordan 1s \(Effy Rework\)](https://open.spotify.com/album/6mv6SyHksCO4Pnq4IxXFps) | 3:39 |
 | 52 | [We No Care](https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF) | [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG), [Sola](https://open.spotify.com/artist/48Ndw6JlG5UMDTwuvCqr0u), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [We No Care](https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9) | 4:09 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 70 | [Don't Let Me Go](https://open.spotify.com/track/3UGNkp6UluxzrztoMu9q1C) | [Captain Bass](https://open.spotify.com/artist/1XS6lKOHQLnfn6HKRwU5VG), [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n) | [Don't Let Me Go](https://open.spotify.com/album/4whr45Olu7a2aO7GLEVWWP) | 3:05 |
 | 71 | [So Different](https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [So Different](https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ) | 3:00 |
 | 72 | [Perfect Harmony \- Phibes VIP](https://open.spotify.com/track/2x9vrwrJTW0IeBQJrq9Pnx) | [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Perfect Harmony \(Phibes VIP\)](https://open.spotify.com/album/6qcteM30PHXN8GWRywK1J6) | 2:43 |
-| 73 | [Bagleys VHS](https://open.spotify.com/track/28au5d2aeLYC0MTiDpyyP2) | [Spor](https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM) | [Bagleys VHS](https://open.spotify.com/album/7hx6dHXIO9omYFkEfBv2My) | 3:29 |
-| 74 | [Sinner](https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Tempza](https://open.spotify.com/artist/4L3I92jE3sohrZafi1UNdC), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Sinner](https://open.spotify.com/album/46pWepYfmFsjoZIOQMz1GD) | 2:47 |
+| 73 | [Sinner](https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Tempza](https://open.spotify.com/artist/4L3I92jE3sohrZafi1UNdC), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Sinner](https://open.spotify.com/album/46pWepYfmFsjoZIOQMz1GD) | 2:47 |
+| 74 | [Bagleys VHS](https://open.spotify.com/track/28au5d2aeLYC0MTiDpyyP2) | [Spor](https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM) | [Bagleys VHS](https://open.spotify.com/album/7hx6dHXIO9omYFkEfBv2My) | 3:29 |
 | 75 | [Sabertooth](https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Sabertooth](https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl) | 4:26 |
 
 Snapshot ID: `ZxrRcAAAAAAoagD3qyEsz4QPTwnnIA6I`

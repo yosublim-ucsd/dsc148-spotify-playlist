@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 564604,
+  "num_followers": 564678,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-10-25 15:47:08",
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 160127,
+      "name": "Good Lies",
+      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
+    },
+    {
+      "added_at": "2024-10-25 15:47:08",
+      "album": {
         "name": "Been A Minute...",
         "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 189947,
       "name": "Been A Minute...",
       "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
-    },
-    {
-      "added_at": "2024-10-25 15:47:08",
-      "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 160127,
-      "name": "Good Lies",
-      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
     },
     {
       "added_at": "2024-10-25 15:47:08",

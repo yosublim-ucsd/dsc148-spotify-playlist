@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 197565,
+  "num_followers": 197569,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAABxrl1/dBw0YO/4Bp8m+abQ",
+  "snapshot_id": "Zx7UAAAAAAARlMR01yRjLV5CJwnQ4f/g",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "California Sober (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 230033,
+      "name": "California Sober (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On The Road Again (Live)",
         "url": "https://open.spotify.com/album/6Cs43kWsaHLDRUcYMYqcc0"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 156173,
       "name": "On The Road Again - Live",
       "url": "https://open.spotify.com/track/0vcJzE2LuNY9aoq2hdMjHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "California Sober (feat. Willie Nelson)",
-        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 230033,
-      "name": "California Sober (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "And Then I Wrote",
         "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 287000,
       "name": "City of New Orleans",
       "url": "https://open.spotify.com/track/15qBdyeOsal1QJvB3ysW9g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
     },
     {
       "added_at": null,
@@ -1107,6 +1107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 148293,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 157053,
       "name": "Shotgun Willie",
       "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 148293,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
     },
     {
       "added_at": null,
@@ -1267,6 +1267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tuskegee (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 270573,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 205320,
       "name": "Roll Me Up",
       "url": "https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tuskegee (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 270573,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
     },
     {
       "added_at": null,

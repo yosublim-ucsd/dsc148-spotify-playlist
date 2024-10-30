@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Wild Rivers",
-  "num_followers": 80627,
+  "num_followers": 80638,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Fields",
-        "url": "https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU"
-      },
-      "artists": [
-        {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
-        }
-      ],
-      "duration_ms": 190195,
-      "name": "Fields",
-      "url": "https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Simple Like 17 (Deluxe)",
         "url": "https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 198287,
       "name": "Shut Up About It",
       "url": "https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU"
+      },
+      "artists": [
+        {
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        }
+      ],
+      "duration_ms": 190195,
+      "name": "Fields",
+      "url": "https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn"
     },
     {
       "added_at": "2024-10-18 04:00:00",

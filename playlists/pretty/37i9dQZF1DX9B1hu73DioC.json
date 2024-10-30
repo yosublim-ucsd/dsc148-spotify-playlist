@@ -1,6 +1,6 @@
 {
   "description": "Vibey indie tracks for park hangs, summer get togethers, or self care. ",
-  "num_followers": 839853,
+  "num_followers": 839880,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 219813,
-      "name": "Sunshine Baby",
-      "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
+      "duration_ms": 223413,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
     },
     {
       "added_at": "2024-10-04 02:11:21",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 223413,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+      "duration_ms": 219813,
+      "name": "Sunshine Baby",
+      "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
+        "name": "Forever Thing",
+        "url": "https://open.spotify.com/album/5dmpDT2OwpoR8h3VzUSO0o"
+      },
+      "artists": [
+        {
+          "name": "Frex",
+          "url": "https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr"
+        }
+      ],
+      "duration_ms": 138986,
+      "name": "Forever Thing",
+      "url": "https://open.spotify.com/track/5c3NEMjZKsohIiQCygJiKv"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
         "name": "Dope Sick",
         "url": "https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 195506,
       "name": "Dope Sick",
       "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
-        "name": "Forever Thing",
-        "url": "https://open.spotify.com/album/5dmpDT2OwpoR8h3VzUSO0o"
-      },
-      "artists": [
-        {
-          "name": "Frex",
-          "url": "https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr"
-        }
-      ],
-      "duration_ms": 138986,
-      "name": "Forever Thing",
-      "url": "https://open.spotify.com/track/5c3NEMjZKsohIiQCygJiKv"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
     },
     {
-      "added_at": "2024-10-04 02:11:21",
-      "album": {
-        "name": "Rosy",
-        "url": "https://open.spotify.com/album/7jnpHgUDNF63e6pazRhYXs"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 196944,
-      "name": "Rosy",
-      "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
-    },
-    {
       "added_at": "2024-08-16 16:49:36",
       "album": {
         "name": "NYE [Feat. Suki Waterhouse]",
@@ -1307,6 +1291,22 @@
       "duration_ms": 175020,
       "name": "NYE [Feat. Suki Waterhouse]",
       "url": "https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J"
+    },
+    {
+      "added_at": "2024-10-04 02:11:21",
+      "album": {
+        "name": "Rosy",
+        "url": "https://open.spotify.com/album/7jnpHgUDNF63e6pazRhYXs"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 196944,
+      "name": "Rosy",
+      "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1409,26 +1409,6 @@
       "url": "https://open.spotify.com/track/3ScfduFQvLS1zsqnxZkazU"
     },
     {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
-        "name": "Charmed",
-        "url": "https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
-        }
-      ],
-      "duration_ms": 158359,
-      "name": "Charmed",
-      "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
-    },
-    {
       "added_at": "2024-10-04 02:11:21",
       "album": {
         "name": "BUG",
@@ -1447,6 +1427,26 @@
       "duration_ms": 182426,
       "name": "My Day Off",
       "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
+        "name": "Charmed",
+        "url": "https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "duration_ms": 158359,
+      "name": "Charmed",
+      "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1517,22 +1517,6 @@
       "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
     },
     {
-      "added_at": "2024-10-04 02:11:21",
-      "album": {
-        "name": "Cherry Pie",
-        "url": "https://open.spotify.com/album/55fa2hEmRcQumd6tgB6s5Y"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 249186,
-      "name": "Cherry Pie",
-      "url": "https://open.spotify.com/track/2DF87oCynNUL2Sl83Jqckh"
-    },
-    {
       "added_at": "2024-08-16 16:49:36",
       "album": {
         "name": "Shelter",
@@ -1547,6 +1531,22 @@
       "duration_ms": 210329,
       "name": "Lately",
       "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
+    },
+    {
+      "added_at": "2024-10-04 02:11:21",
+      "album": {
+        "name": "Cherry Pie",
+        "url": "https://open.spotify.com/album/55fa2hEmRcQumd6tgB6s5Y"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 249186,
+      "name": "Cherry Pie",
+      "url": "https://open.spotify.com/track/2DF87oCynNUL2Sl83Jqckh"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Flames shards goo",
+      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
         "name": "LAUREN",
         "url": "https://open.spotify.com/album/7tYzmylSBKXvZUQlh7cZHB"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 173956,
       "name": "LAUREN",
       "url": "https://open.spotify.com/track/5sQSiJhUQcJDCW9S81bKIU"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
-        "name": "Suntub",
-        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
-      },
-      "artists": [
-        {
-          "name": "ML Buch",
-          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Flames shards goo",
-      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
-        "name": "on the pisces moon",
-        "url": "https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 166021,
-      "name": "on the pisces moon",
-      "url": "https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
         "name": "Mika's Laundry",
         "url": "https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 165360,
       "name": "Aphid (feat. Dijon)",
       "url": "https://open.spotify.com/track/6OS3VD7oJgqhEKTEkkRB94"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
+        "name": "on the pisces moon",
+        "url": "https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 166021,
+      "name": "on the pisces moon",
+      "url": "https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ"
     },
     {
       "added_at": "2024-08-16 16:49:36",

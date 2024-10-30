@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
-  "num_followers": 585303,
+  "num_followers": 585327,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Adi\u00f3s pap\u00e1",
+      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Saca La Lengua",
-        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Adi\u00f3s pap\u00e1",
-      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "El Bandido Medina (De la serie original de Prime Video, Medina: El Estafador de Famosos)",
+        "url": "https://open.spotify.com/album/2KWlO5OH2N5ImoY7XzX9SI"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 196917,
+      "name": "El Bandido Medina - De la serie original de Prime Video, Medina: El Estafador de Famosos",
+      "url": "https://open.spotify.com/track/4bVINAreycRGIVE6abq6Dj"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "El doble de tu mitad",
         "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 243040,
       "name": "Masculino singular",
       "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "El Bandido Medina (De la serie original de Prime Video, Medina: El Estafador de Famosos)",
-        "url": "https://open.spotify.com/album/2KWlO5OH2N5ImoY7XzX9SI"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 196917,
-      "name": "El Bandido Medina - De la serie original de Prime Video, Medina: El Estafador de Famosos",
-      "url": "https://open.spotify.com/track/4bVINAreycRGIVE6abq6Dj"
     },
     {
       "added_at": "2024-10-24 22:00:00",

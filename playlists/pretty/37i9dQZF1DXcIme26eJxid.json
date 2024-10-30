@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq_kGzYYw\">Onyeka Onwenu </a>",
-  "num_followers": 109870,
+  "num_followers": 109920,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,22 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Shinamania",
-        "url": "https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk"
+        "name": "Ivory Music Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
       "artists": [
         {
-          "name": "Sir Shina Peters",
-          "url": "https://open.spotify.com/artist/774XinAuSJ5UAid0N6BNrV"
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        },
+        {
+          "name": ")zzidi",
+          "url": "https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C"
         }
       ],
-      "duration_ms": 1002906,
-      "name": "Shinamania, Pt. 1",
-      "url": "https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub"
+      "duration_ms": 410600,
+      "name": "Mother & Child",
+      "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -207,22 +211,18 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Ivory Music Classics, Vol. 2",
-        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
+        "name": "Shinamania",
+        "url": "https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk"
       },
       "artists": [
         {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        },
-        {
-          "name": ")zzidi",
-          "url": "https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C"
+          "name": "Sir Shina Peters",
+          "url": "https://open.spotify.com/artist/774XinAuSJ5UAid0N6BNrV"
         }
       ],
-      "duration_ms": 410600,
-      "name": "Mother & Child",
-      "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
+      "duration_ms": 1002906,
+      "name": "Shinamania, Pt. 1",
+      "url": "https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub"
     },
     {
       "added_at": "2024-08-01 10:26:48",

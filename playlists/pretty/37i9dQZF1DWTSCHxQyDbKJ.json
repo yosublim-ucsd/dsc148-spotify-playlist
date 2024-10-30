@@ -383,18 +383,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Worms",
-        "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
+        "name": "WEEDKILLER",
+        "url": "https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0"
       },
       "artists": [
         {
           "name": "Ashnikko",
           "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 148690,
-      "name": "Worms",
-      "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
+      "duration_ms": 255875,
+      "name": "Dying Star (feat. Ethel Cain)",
+      "url": "https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -479,22 +483,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "WEEDKILLER",
-        "url": "https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0"
+        "name": "Worms",
+        "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
       },
       "artists": [
         {
           "name": "Ashnikko",
           "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        },
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 255875,
-      "name": "Dying Star (feat. Ethel Cain)",
-      "url": "https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9"
+      "duration_ms": 148690,
+      "name": "Worms",
+      "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "Then There Was You (From \"The Garfield Movie\")",
+        "url": "https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Then There Was You - From \"The Garfield Movie\"",
+      "url": "https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "Late To The Party (feat. Declan McKenna)",
         "url": "https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Then There Was You (From \"The Garfield Movie\")",
-        "url": "https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Then There Was You - From \"The Garfield Movie\"",
-      "url": "https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "#gigi",
         "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 142227,
       "name": "real feel",
       "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 172966,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "alone",
-        "url": "https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 172966,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 184281,
       "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "Hex So Heavy",
-        "url": "https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Hex So Heavy",
-      "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 151304,
       "name": "Disturbing U",
       "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Hex So Heavy",
+        "url": "https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Hex So Heavy",
+      "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "My Soft Machine",
+        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "Better ft. Cuco",
         "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "My Soft Machine",
-        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 165759,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "SAD B!TCH",
         "url": "https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 132794,
       "name": "SAD B!TCH",
       "url": "https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "Mountain out of a Molehill",
-        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 205330,
-      "name": "Mountain out of a Molehill",
-      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -863,6 +847,22 @@
       "duration_ms": 178604,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Mountain out of a Molehill",
+        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 205330,
+      "name": "Mountain out of a Molehill",
+      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Believe Me Now?",
-        "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 148135,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 124760,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Believe Me Now?",
+        "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 148135,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/2MLkPm2w8hHjJbg4jpb5e4"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "PROCESS",
-        "url": "https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5"
-      },
-      "artists": [
-        {
-          "name": "Cody Frost",
-          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
-        }
-      ],
-      "duration_ms": 158167,
-      "name": "PROCESS",
-      "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Crumbling",
         "url": "https://open.spotify.com/album/3PuO7se0rm53jYP88EQD5o"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "The Hit",
-        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
+        "name": "PROCESS",
+        "url": "https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Cody Frost",
+          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
         }
       ],
-      "duration_ms": 210826,
-      "name": "The Hit",
-      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
+      "duration_ms": 158167,
+      "name": "PROCESS",
+      "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 183826,
       "name": "Friends In Low Places",
       "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "This World Fucking Sucks",
-        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 65519,
-      "name": "Sex Metal",
-      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "breakdown. (Underworld Rework)",
         "url": "https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 163453,
       "name": "breakdown.",
       "url": "https://open.spotify.com/track/7JoooKqsYju9N1isa5FjFw"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 65519,
+      "name": "Sex Metal",
+      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "You Lucky One",
-        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
+        "name": "SEWERSTAR",
+        "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
       },
       "artists": [
         {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
         }
       ],
-      "duration_ms": 294851,
-      "name": "You Lucky One",
-      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
+      "duration_ms": 244000,
+      "name": "L.E.E.C.H.E.S",
+      "url": "https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "SEWERSTAR",
-        "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
+        "name": "You Lucky One",
+        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
       },
       "artists": [
         {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 244000,
-      "name": "L.E.E.C.H.E.S",
-      "url": "https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL"
+      "duration_ms": 294851,
+      "name": "You Lucky One",
+      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1551,26 +1551,6 @@
       "duration_ms": 150786,
       "name": "idc",
       "url": "https://open.spotify.com/track/3kx5C5gy96hofwSNdHttmu"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "One More Time (feat. Popstar)",
-        "url": "https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Popstar",
-          "url": "https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy"
-        }
-      ],
-      "duration_ms": 200843,
-      "name": "One More Time (feat. Popstar)",
-      "url": "https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1599,6 +1579,42 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "Bite The Hand / Kind of Love",
+        "url": "https://open.spotify.com/album/4Ehq3wUDJzv6pWVFWW8V6T"
+      },
+      "artists": [
+        {
+          "name": "Harry Strange",
+          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
+        }
+      ],
+      "duration_ms": 158969,
+      "name": "Bite The Hand",
+      "url": "https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "One More Time (feat. Popstar)",
+        "url": "https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Popstar",
+          "url": "https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy"
+        }
+      ],
+      "duration_ms": 200843,
+      "name": "One More Time (feat. Popstar)",
+      "url": "https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "Babette",
         "url": "https://open.spotify.com/album/7yk5DxilcuZft3NG3ZjzvY"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 240500,
       "name": "Babette",
       "url": "https://open.spotify.com/track/7dy1W1fBRAeQlcUdsL6ZeF"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "Bite The Hand / Kind of Love",
-        "url": "https://open.spotify.com/album/4Ehq3wUDJzv6pWVFWW8V6T"
-      },
-      "artists": [
-        {
-          "name": "Harry Strange",
-          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
-        }
-      ],
-      "duration_ms": 158969,
-      "name": "Bite The Hand",
-      "url": "https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Why Am I Like This? / Ipecac",
-        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "WOT?",
         "url": "https://open.spotify.com/album/1ZR2wheKOl3LfjIMeldl7E"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 176557,
       "name": "WOT?",
       "url": "https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Tucker Wetmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,374 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,359 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

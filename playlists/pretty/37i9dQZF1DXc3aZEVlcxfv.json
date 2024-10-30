@@ -1,6 +1,6 @@
 {
   "description": "I am blessed!",
-  "num_followers": 1707,
+  "num_followers": 1717,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,18 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Joy in Chaos (Extended)",
-        "url": "https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv"
+        "name": "Dependable God (Medley)",
+        "url": "https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj"
       },
       "artists": [
         {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
-        },
-        {
-          "name": "D6",
-          "url": "https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj"
-        },
-        {
-          "name": "Stanley Ifenna",
-          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 126923,
-      "name": "Joy in Chaos (Extended)",
-      "url": "https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5"
+      "duration_ms": 232071,
+      "name": "Dependable God (Medley)",
+      "url": "https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -515,18 +507,26 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Dependable God (Medley)",
-        "url": "https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj"
+        "name": "Joy in Chaos (Extended)",
+        "url": "https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "D6",
+          "url": "https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj"
+        },
+        {
+          "name": "Stanley Ifenna",
+          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
         }
       ],
-      "duration_ms": 232071,
-      "name": "Dependable God (Medley)",
-      "url": "https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN"
+      "duration_ms": 126923,
+      "name": "Joy in Chaos (Extended)",
+      "url": "https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -845,6 +845,26 @@
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
     },
     {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "Shekinah",
+        "url": "https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 420025,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
+    },
+    {
       "added_at": "2024-09-27 00:01:00",
       "album": {
         "name": "Lai Lai",
@@ -891,26 +911,6 @@
       "duration_ms": 225009,
       "name": "tethered",
       "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
-    },
-    {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "Shekinah",
-        "url": "https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj"
-      },
-      "artists": [
-        {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 420025,
-      "name": "Shekinah",
-      "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
     },
     {
       "added_at": "2024-10-18 00:01:00",

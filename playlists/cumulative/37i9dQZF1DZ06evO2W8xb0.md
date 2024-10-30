@@ -4,13 +4,14 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-104 songs - 18 hr 14 min
+105 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Africa Is My Home](https://open.spotify.com/track/2IIdifWhdDVTOlTGrXH1qS) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 14](https://open.spotify.com/album/3QxcVFoET51Kj4kjJRJdC1) | 6:18 | 2021-12-28 | 2022-05-27 |
 | [Aimasiko Lo N Damu Eda Medley \(Part 1\)](https://open.spotify.com/track/7sYKjNN1DAw38RNIH2shDl) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Aimasiko](https://open.spotify.com/album/3WzWQLb4XBRhgsHMSZBmYD) | 17:42 | 2021-12-28 |  |
-| [Aiye Wa a Toro](https://open.spotify.com/track/59vUl7VOXeKlNouCXruXFw) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: London La Wa Yi](https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8) | 20:18 | 2022-07-11 |  |
+| [Aiye Wa A Toro](https://open.spotify.com/track/3vLnoSKcUwAK7AAP43jzXh) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 2](https://open.spotify.com/album/6r0fOzKcnXh7efk26LAP95) | 20:18 | 2024-10-30 |  |
+| [Aiye Wa a Toro](https://open.spotify.com/track/59vUl7VOXeKlNouCXruXFw) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: London La Wa Yi](https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8) | 20:18 | 2022-07-11 | 2024-10-30 |
 | [Ajo Ni Mowa](https://open.spotify.com/track/2qXfBppgA4buq508Kdo7ZG) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Osika Gbagbe Ola](https://open.spotify.com/album/1FCXNNPwm8sdoodtHhDeH3) | 2:43 | 2023-01-20 | 2024-05-20 |
 | [Ajo Ni Mowa](https://open.spotify.com/track/4Eq2VdKph12OIZ92EgZMio) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 15](https://open.spotify.com/album/1dSXP0OB4XJywalCs07tHx) | 2:43 | 2021-12-29 | 2022-08-16 |
 | [Ajoyio](https://open.spotify.com/track/3tWmLZjzhvnQq7Xci21luT) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv), [His International Brothers](https://open.spotify.com/artist/17QTCTNCIuruw8FQlCHJvm) | [Nigeria 70 \- Sweet Times: Afro\-Funk, Highlife & Juju from 1970s Lagos](https://open.spotify.com/album/6Md7Px2lT7kYkKAUq6AMqW) | 6:39 | 2022-02-20 | 2024-03-03 |

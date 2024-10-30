@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 24925,
+  "num_followers": 24943,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -67,18 +67,22 @@
     {
       "added_at": "2024-10-28 09:04:00",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2024-10-28 09:04:00",
@@ -107,22 +111,18 @@
     {
       "added_at": "2024-10-28 09:04:00",
       "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2024-10-28 09:04:00",
@@ -819,26 +819,18 @@
     {
       "added_at": "2024-10-28 09:04:00",
       "album": {
-        "name": "Substitution (feat. Julian Perretta)",
-        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/110skZzsCFyckMdjupeIBX"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
         }
       ],
-      "duration_ms": 181477,
-      "name": "Substitution (feat. Julian Perretta)",
-      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+      "duration_ms": 174723,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
     },
     {
       "added_at": "2024-10-28 09:04:00",
@@ -859,18 +851,26 @@
     {
       "added_at": "2024-10-28 09:04:00",
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/110skZzsCFyckMdjupeIBX"
+        "name": "Substitution (feat. Julian Perretta)",
+        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
       "artists": [
         {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
         }
       ],
-      "duration_ms": 174723,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
+      "duration_ms": 181477,
+      "name": "Substitution (feat. Julian Perretta)",
+      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
     },
     {
       "added_at": "2024-10-28 09:04:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-10-28 09:04:00",
       "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "MEGGYF\u00c1N",
-      "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
-    },
-    {
-      "added_at": "2024-10-28 09:04:00",
-      "album": {
         "name": "Valencia",
         "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 175081,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
+    },
+    {
+      "added_at": "2024-10-28 09:04:00",
+      "album": {
+        "name": "0",
+        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "MEGGYF\u00c1N",
+      "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
     },
     {
       "added_at": "2024-10-28 09:04:00",

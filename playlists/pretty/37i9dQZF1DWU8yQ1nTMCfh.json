@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: RYAN",
-  "num_followers": 298288,
+  "num_followers": 298293,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Le Clique: Vida Rockstar (X)",
-        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Vida Rockstar",
-      "url": "https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Pasos Al Costado",
         "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 240703,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Vida Rockstar",
+      "url": "https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 vas a saber?",
-        "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
-      },
-      "artists": [
-        {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 251093,
-      "name": "\u00bfQu\u00e9 vas a saber?",
-      "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
         "url": "https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 215394,
       "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
       "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "\u00bfQu\u00e9 vas a saber?",
+        "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 251093,
+      "name": "\u00bfQu\u00e9 vas a saber?",
+      "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Hombre Roto",
-        "url": "https://open.spotify.com/album/3nPFVNL38CvmoGCWw5fi8x"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Hombre Roto",
-      "url": "https://open.spotify.com/track/11skx4w5NOnkrUk2CYTYiM"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
         "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 184771,
       "name": "Qu\u00e9 M\u00e1s Quieres",
       "url": "https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Hombre Roto",
+        "url": "https://open.spotify.com/album/3nPFVNL38CvmoGCWw5fi8x"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Hombre Roto",
+      "url": "https://open.spotify.com/track/11skx4w5NOnkrUk2CYTYiM"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 250696,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "santos inocentes",
         "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 172114,
       "name": "santos inocentes",
       "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 250696,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Astronom\u00eda Interior",
-        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
+        "name": "Generaci\u00f3n Inmediata",
+        "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
       },
       "artists": [
         {
-          "name": "Astronom\u00eda Interior",
-          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 203880,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
+      "duration_ms": 205400,
+      "name": "Tu Tiempo",
+      "url": "https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -995,18 +995,34 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Generaci\u00f3n Inmediata",
-        "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
+        "name": "Astronom\u00eda Interior",
+        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Tu Tiempo",
-      "url": "https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv"
+      "duration_ms": 203880,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 173499,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1027,22 +1043,6 @@
       "duration_ms": 215940,
       "name": "T\u00fa Ya No Dices Nada",
       "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Abismo",
-        "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 173499,
-      "name": "Abismo",
-      "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Un Minuto Con Vos",
-        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
+        "name": "Fake Glasses",
+        "url": "https://open.spotify.com/album/5XB41iVD4AhapPg77W0tQs"
       },
       "artists": [
         {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
         }
       ],
-      "duration_ms": 245467,
-      "name": "Un Minuto Con Vos",
-      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
+      "duration_ms": 163840,
+      "name": "Fake Glasses",
+      "url": "https://open.spotify.com/track/7IwbzcK6oZz2UGXE2TaP1s"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Fake Glasses",
-        "url": "https://open.spotify.com/album/5XB41iVD4AhapPg77W0tQs"
+        "name": "Un Minuto Con Vos",
+        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
       },
       "artists": [
         {
-          "name": "San Tosielo",
-          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 163840,
-      "name": "Fake Glasses",
-      "url": "https://open.spotify.com/track/7IwbzcK6oZz2UGXE2TaP1s"
+      "duration_ms": 245467,
+      "name": "Un Minuto Con Vos",
+      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
     },
     {
       "added_at": "2024-10-18 04:00:00",

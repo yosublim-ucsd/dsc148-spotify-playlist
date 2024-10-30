@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3110348,
+  "num_followers": 3110492,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAAxHkkK0T5lqitUlZdRxNui",
+  "snapshot_id": "Zx7UAAAAAAAxtD3J4m1WTi9oU1XOR+3g",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+        "name": "Shakira. (Expanded Edition) [Spanish Version]",
+        "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 256320,
-      "name": "Loveeeeeee Song",
-      "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB"
+      "duration_ms": 206866,
+      "name": "Can't Remember to Forget You (feat. Rihanna)",
+      "url": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq"
     },
     {
       "added_at": null,
@@ -467,22 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakira. (Expanded Edition) [Spanish Version]",
-        "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
           "name": "Rihanna",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 206866,
-      "name": "Can't Remember to Forget You (feat. Rihanna)",
-      "url": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq"
+      "duration_ms": 256320,
+      "name": "Loveeeeeee Song",
+      "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB"
     },
     {
       "added_at": null,

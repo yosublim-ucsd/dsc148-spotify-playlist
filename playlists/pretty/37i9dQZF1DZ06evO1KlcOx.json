@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAADYEE4z38mYboiVtzzkxgfQ",
+  "snapshot_id": "Zx7UAAAAAAD9wYHv+UeWQvym2H9k43eJ",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Water People 7\"",
-        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 247713,
-      "name": "Water People",
-      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
+      "duration_ms": 119733,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+        "name": "Water People 7\"",
+        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 119733,
-      "name": "Make Me Over",
-      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
+      "duration_ms": 247713,
+      "name": "Water People",
+      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 348226,
-      "name": "Difference (Voices)",
-      "url": "https://open.spotify.com/track/14FUKDzHnmJQc9leR0ripj"
+      "duration_ms": 245653,
+      "name": "Cover the Long Way",
+      "url": "https://open.spotify.com/track/5NxOjQYObGO5cISU5jd8uu"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 245653,
-      "name": "Cover the Long Way",
-      "url": "https://open.spotify.com/track/5NxOjQYObGO5cISU5jd8uu"
+      "duration_ms": 348226,
+      "name": "Difference (Voices)",
+      "url": "https://open.spotify.com/track/14FUKDzHnmJQc9leR0ripj"
     },
     {
       "added_at": null,

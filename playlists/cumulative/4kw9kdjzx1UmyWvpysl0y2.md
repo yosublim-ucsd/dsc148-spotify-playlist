@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-848 songs - 2 day 0 hr 19 min
+849 songs - 2 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [IT ISN'T ME](https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [VOLPETRON ASCENDS EP](https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03) | 3:07 | 2023-08-24 | 2023-12-14 |
 | [It's Not Love](https://open.spotify.com/track/7mv9t5XQUSHa4akJAwdmiZ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Roee Yeger](https://open.spotify.com/artist/532H5OS6W0NQak3xMOp7fz), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [It's Not Love](https://open.spotify.com/album/3jUr6DL5fNek9PGfdKwxiE) | 4:49 | 2023-01-09 | 2023-03-23 |
 | [it’s not easy when you’re alone](https://open.spotify.com/track/1T44fRUBJqwWjZDttsMbJv) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:09 | 2022-12-03 | 2023-02-25 |
+| [Jealousy](https://open.spotify.com/track/5E8fFXrnuvjqW7FuWK7b7Q) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO) | [Jealousy](https://open.spotify.com/album/4gLFhQ34tPaaJYcWVLuZEO) | 2:56 | 2024-10-29 |  |
 | [Johera](https://open.spotify.com/track/15fgmFhr5x3ZoPojV1IRuj) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Johera](https://open.spotify.com/album/6YRv6DbwXQfCQGsWHAnukJ) | 4:09 | 2024-03-04 | 2024-05-23 |
 | [Journey](https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Journey](https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD) | 3:06 | 2022-09-27 | 2022-11-30 |
 | [Journey To Ascendance](https://open.spotify.com/track/7vtQedqaDBjJqg2QA6aDfd) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 4:21 | 2022-11-19 | 2022-11-22 |

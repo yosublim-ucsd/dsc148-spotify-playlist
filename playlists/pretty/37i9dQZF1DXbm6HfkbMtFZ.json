@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 732893,
+  "num_followers": 733008,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Into The Blue",
-        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "Into The Blue",
+        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 221600,
       "name": "On + Off",
       "url": "https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "You're so Fine",
-        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
-      },
-      "artists": [
-        {
-          "name": "Papa Bear & His Cubs",
-          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "You're so Fine",
-      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "What Will We Be (Standard)",
-        "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
+        "name": "You're so Fine",
+        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
       },
       "artists": [
         {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+          "name": "Papa Bear & His Cubs",
+          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
+      "duration_ms": 173133,
+      "name": "You're so Fine",
+      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -819,6 +803,22 @@
       "duration_ms": 202253,
       "name": "Time Was",
       "url": "https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "What Will We Be (Standard)",
+        "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Sings Love",
-        "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
-      },
-      "artists": [
-        {
-          "name": "Sonya Spence",
-          "url": "https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ"
-        }
-      ],
-      "duration_ms": 222981,
-      "name": "Let Love Flow On",
-      "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 201133,
       "name": "Tonight I'll Be Staying Here with You",
       "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "Sings Love",
+        "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
+      },
+      "artists": [
+        {
+          "name": "Sonya Spence",
+          "url": "https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ"
+        }
+      ],
+      "duration_ms": 222981,
+      "name": "Let Love Flow On",
+      "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 213328,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Addicted To You",
         "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 250933,
       "name": "Two Trees",
       "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 189536,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Agony and Extasy",
         "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 278040,
       "name": "Intergalactic Love Song",
       "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 189536,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Stunning & Atrocious",
-        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
-      },
-      "artists": [
-        {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 217047,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Kathy and Paul",
         "url": "https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C"
       },
@@ -1927,18 +1911,18 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Rare Singles and Previously Unreleased Masters, Vol. 1",
-        "url": "https://open.spotify.com/album/1S438eS0BpzwR6HMQtO0e3"
+        "name": "Stunning & Atrocious",
+        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
       },
       "artists": [
         {
-          "name": "Jim Ford",
-          "url": "https://open.spotify.com/artist/24caHjJclAtCI8Ld7Az8l1"
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
         }
       ],
-      "duration_ms": 200226,
-      "name": "She Turns My Radio On",
-      "url": "https://open.spotify.com/track/60Lr94URXKMqK6KqEgyFH8"
+      "duration_ms": 217047,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -1955,6 +1939,22 @@
       "duration_ms": 276573,
       "name": "Sooth Lady Wine",
       "url": "https://open.spotify.com/track/035IK7Ba1IV61q9V6MD5FH"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "Rare Singles and Previously Unreleased Masters, Vol. 1",
+        "url": "https://open.spotify.com/album/1S438eS0BpzwR6HMQtO0e3"
+      },
+      "artists": [
+        {
+          "name": "Jim Ford",
+          "url": "https://open.spotify.com/artist/24caHjJclAtCI8Ld7Az8l1"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "She Turns My Radio On",
+      "url": "https://open.spotify.com/track/60Lr94URXKMqK6KqEgyFH8"
     }
   ],
   "unique_name": "Feel Good Dinner",

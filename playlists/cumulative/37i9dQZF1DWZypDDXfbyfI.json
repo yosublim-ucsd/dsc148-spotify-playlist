@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 258665,
       "name": "All Night Long (All Night) - Single Version",
       "url": "https://open.spotify.com/track/4czNORk5MjW5WOn98bki32"
@@ -1292,6 +1292,24 @@
       "duration_ms": 262240,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+    },
+    {
+      "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149786,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
     },
     {
       "album": {

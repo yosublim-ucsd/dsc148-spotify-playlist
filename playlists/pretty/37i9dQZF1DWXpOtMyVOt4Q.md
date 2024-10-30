@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,882 likes - 50 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,916 likes - 50 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 24 | [Far Away](https://open.spotify.com/track/2JkeLbjmFANt3dc8BkkdSU) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Far Away](https://open.spotify.com/album/3XZrGL2liR5HeZorqFolGy) | 1:52 |
 | 25 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 |
 | 26 | [Una Mattina](https://open.spotify.com/track/42MVaS7YXlnjRqZBdDcr4Q) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Una Mattina](https://open.spotify.com/album/4LYtNC6YWam4WW1KxATidg) | 3:23 |
-| 27 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 |
-| 28 | [forgotten thoughts \- nightcore](https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:17 |
+| 27 | [forgotten thoughts \- nightcore](https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:17 |
+| 28 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 |
 | 29 | [One](https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M) | [Sangam](https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR) | [You Forget This](https://open.spotify.com/album/2Ll8qxqQd6J2cIb0PgFHSC) | 1:44 |
 | 30 | [where the light is](https://open.spotify.com/track/5QpYrdghLwv6nXcakC4ZXI) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [where the light is](https://open.spotify.com/album/2HbCizSbNyoJ9pLJX9b0R1) | 2:06 |
 | 31 | [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 43 | [dark snowy night \- Slowed & Reverb Version](https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [dark snowy night](https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O) | 3:31 |
 | 44 | [Color of Autumn](https://open.spotify.com/track/2u93OtblDZphLnmRFjBeeg) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 1:43 |
 | 45 | [Der Dritte](https://open.spotify.com/track/4rCzoJztCW9Hr3M7UtM8aq) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Expedition, Vol\. 18 \(Girl\)](https://open.spotify.com/album/54IjRainY8NtZpZN2LYZBg) | 1:10 |
-| 46 | [in the bleak midwinter](https://open.spotify.com/track/5WEBVd7HoSDLMAaJnk6yTT) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [in the bleak midwinter](https://open.spotify.com/album/5Mp2pQSKz87APGM0FW1uL4) | 1:36 |
-| 47 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 |
-| 48 | [What If / Interlude](https://open.spotify.com/track/2eL3xPlleM9pLI7fWeihLD) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Nocturne](https://open.spotify.com/album/7KEhJz1ps7Ia0COtbMFoIC) | 1:24 |
-| 49 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
+| 46 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 |
+| 47 | [in the bleak midwinter](https://open.spotify.com/track/5WEBVd7HoSDLMAaJnk6yTT) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [in the bleak midwinter](https://open.spotify.com/album/5Mp2pQSKz87APGM0FW1uL4) | 1:36 |
+| 48 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
+| 49 | [What If / Interlude](https://open.spotify.com/track/2eL3xPlleM9pLI7fWeihLD) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Nocturne](https://open.spotify.com/album/7KEhJz1ps7Ia0COtbMFoIC) | 1:24 |
 | 50 | [A Time to Wait](https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X) | [Alicks](https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM) | [Help Me Out](https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi) | 3:27 |
 
 Snapshot ID: `Zk170AAAAACnBGhalzkfv8/ap19CRnfC`

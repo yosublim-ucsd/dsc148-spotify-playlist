@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,535 likes - 114 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,544 likes - 114 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,16 +104,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 94 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |
 | 95 | [Heartbeat](https://open.spotify.com/track/3SWcIEhnesr1UIPxfThFle) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Inner Critic's Choice Awards](https://open.spotify.com/album/1lJUU4cFN6ZcgCOLNYD1hr) | 3:55 |
 | 96 | [I Was Made For Loving You](https://open.spotify.com/track/4XbQLaWyFkXTwPK33kxWQJ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:08 |
-| 97 | [Wish I Was Right For You](https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg) | [Wish I Was Right For You](https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR) | 3:02 |
-| 98 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
+| 97 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
+| 98 | [Wish I Was Right For You](https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg) | [Wish I Was Right For You](https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR) | 3:02 |
 | 99 | [Reasons](https://open.spotify.com/track/6PspLxCglJJH7bu14CZf4T) | [NAKED KOALA](https://open.spotify.com/artist/5FUdTISe2JvTPPDaUwVqHe), [Olaf Blackwood](https://open.spotify.com/artist/7Fb4bPwUT0mrtDXt2qmJEp) | [Reasons](https://open.spotify.com/album/0W0vF3I0amUEMT05E83lmz) | 2:53 |
 | 100 | [When Will I See Your Face Again](https://open.spotify.com/track/2iNv8Iomdg4CyBfWk6kUXJ) | [Jamie Scott & The Town](https://open.spotify.com/artist/4BCijRD020JSmK7XNipkU1) | [Park Bench Theories](https://open.spotify.com/album/2at2uSg1A1jkeGjazPFDDq) | 4:22 |
 | 101 | [Cali](https://open.spotify.com/track/6LUdon4Z5YxNQDab66qepz) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Cali](https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm) | 3:56 |
 | 102 | [The First To Know](https://open.spotify.com/track/58YU87leZyFMLbqdhQyQva) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [The First To Know](https://open.spotify.com/album/63X0OJQvVHVKWfR52CEndw) | 3:03 |
 | 103 | [Blame](https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Blame](https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX) | 2:56 |
 | 104 | [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 |
-| 105 | [Helpless](https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Helpless](https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y) | 3:41 |
-| 106 | [You You You](https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Fall Away Into Place](https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S) | 3:42 |
+| 105 | [You You You](https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Fall Away Into Place](https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S) | 3:42 |
+| 106 | [Helpless](https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Helpless](https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y) | 3:41 |
 | 107 | [Too Much To H8](https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Too Much To H8](https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g) | 2:52 |
 | 108 | [They Told Me](https://open.spotify.com/track/1uHfCC9qFChGhiSarUWq1B) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392), [Sophia Ayana](https://open.spotify.com/artist/0Tags4oElQqYRXkUyzGPzg) | [They Told Me](https://open.spotify.com/album/0s8cuApDirOCHXdb5Atv2F) | 3:01 |
 | 109 | [Blind You](https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [Blind You](https://open.spotify.com/album/5O1yayKlHTvFlikkbGz7xt) | 2:54 |

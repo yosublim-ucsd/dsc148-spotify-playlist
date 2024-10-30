@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 34330,
+  "num_followers": 34336,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAADnyTPrDgGVOMQTRpu2RRK8",
+  "snapshot_id": "Zx7UAAAAAAC6yjvJgYencZfuRKjHh72a",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DJ Play My Blues",
+        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 282493,
+      "name": "Just Teasin'",
+      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -567,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DJ Play My Blues",
-        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 282493,
-      "name": "Just Teasin'",
-      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
+      "duration_ms": 224280,
+      "name": "One Day Away (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
     },
     {
       "added_at": null,
@@ -599,26 +619,6 @@
       "duration_ms": 220986,
       "name": "The Price You Gotta Pay",
       "url": "https://open.spotify.com/track/34JrJDLnQSCdcvX54bRYys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "One Day Away (feat. Keith Urban)",
-      "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
     },
     {
       "added_at": null,

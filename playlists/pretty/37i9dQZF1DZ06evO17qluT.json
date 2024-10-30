@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 59745,
+  "num_followers": 59790,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAADVpIHcCHDS9+hYl3xwKjE9",
+  "snapshot_id": "Zx7UAAAAAADPHcp6GTPhV2uuN1e7AWO8",
   "tracks": [
     {
       "added_at": null,
@@ -163,34 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VER\u00c3O CRIMINOSO",
-        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 197738,
-      "name": "BOM TE ENCONTRAR",
-      "url": "https://open.spotify.com/track/53CRI0JkpJywRu7tvNVWj5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F**K SONGS",
         "url": "https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi"
       },
@@ -215,6 +187,34 @@
       "duration_ms": 200586,
       "name": "T\u00c1 TARDE",
       "url": "https://open.spotify.com/track/0dyJ7rDk995cRo1ktfVmkP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VER\u00c3O CRIMINOSO",
+        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 197738,
+      "name": "BOM TE ENCONTRAR",
+      "url": "https://open.spotify.com/track/53CRI0JkpJywRu7tvNVWj5"
     },
     {
       "added_at": null,
@@ -1123,26 +1123,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cidade do Pecado",
-        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
       },
       "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 217647,
-      "name": "Para\u00edso Que Me Cerca",
-      "url": "https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2"
+      "duration_ms": 222858,
+      "name": "exalta",
+      "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
     },
     {
       "added_at": null,
@@ -1171,26 +1171,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dois",
-        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
+        "name": "Cidade do Pecado",
+        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
       },
       "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
         }
       ],
-      "duration_ms": 222858,
-      "name": "exalta",
-      "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
+      "duration_ms": 217647,
+      "name": "Para\u00edso Que Me Cerca",
+      "url": "https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2"
     },
     {
       "added_at": null,
@@ -1219,34 +1219,6 @@
       "duration_ms": 422857,
       "name": "Favela Vive 2",
       "url": "https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUNNING",
-        "url": "https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        },
-        {
-          "name": "Akira Presidente",
-          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 238247,
-      "name": "ESSE \u00c9 MEU ESTILO (feat. Akira Presidente & BK)",
-      "url": "https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d"
     },
     {
       "added_at": null,
@@ -1291,6 +1263,34 @@
       "duration_ms": 398478,
       "name": "Poetas No Topo 1",
       "url": "https://open.spotify.com/track/2fQkVgq60aTQbVU1alltey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUNNING",
+        "url": "https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Akira Presidente",
+          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 238247,
+      "name": "ESSE \u00c9 MEU ESTILO (feat. Akira Presidente & BK)",
+      "url": "https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d"
     },
     {
       "added_at": null,

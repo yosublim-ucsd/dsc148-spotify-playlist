@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 73417,
+  "num_followers": 73422,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAACwjaWyBdrzKigXh9M2GUl1",
+  "snapshot_id": "Zx7UAAAAAADkkWz3HEavW4QWrPRVN2uc",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Craving You",
+      "url": "https://open.spotify.com/track/2d48mamATjby7wgPjdrSOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -167,42 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
       },
       "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 223626,
-      "name": "Craving You",
-      "url": "https://open.spotify.com/track/2d48mamATjby7wgPjdrSOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highway Queen (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 211485,
-      "name": "Highway Queen (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
+      "duration_ms": 185222,
+      "name": "Even When I\u2019m Not",
+      "url": "https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba"
     },
     {
       "added_at": null,
@@ -227,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+        "name": "Highway Queen (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
       },
       "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 185222,
-      "name": "Even When I\u2019m Not",
-      "url": "https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba"
+      "duration_ms": 211485,
+      "name": "Highway Queen (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
     },
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Make You Say",
         "url": "https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 206000,
       "name": "Make You Say",
       "url": "https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
     },
     {
       "added_at": null,

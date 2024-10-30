@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: COBRAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,492 likes - 108 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,621 likes - 108 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 16 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 |
 | 17 | [B Somebody](https://open.spotify.com/track/3X74B55XKoP8mEPmyZlBvW) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [B Somebody](https://open.spotify.com/album/7xmebVjjWoxe8SydTu49PF) | 2:52 |
 | 18 | [HOMEWRECKED](https://open.spotify.com/track/7904wbV03rb4S0gGliqBk4) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [HOMEWRECKED](https://open.spotify.com/album/4kEDr96ERhbxbkJfDDzU92) | 2:54 |
-| 19 | [Hysteria](https://open.spotify.com/track/0nAbZLDPGYsw5wOFppq5nK) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [ALMA](https://open.spotify.com/artist/78V5Xh3taZwfgq2xVtZiki) | [SPIRAL](https://open.spotify.com/album/3PFEPWZU5zpMMLLmJ4tuQc) | 2:15 |
+| 19 | [Hysteria](https://open.spotify.com/track/0nAbZLDPGYsw5wOFppq5nK) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [SPIRAL](https://open.spotify.com/album/3PFEPWZU5zpMMLLmJ4tuQc) | 2:15 |
 | 20 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 |
 | 21 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 |
 | 22 | [Get Busy](https://open.spotify.com/track/1U3HdQECtAOhOzZ05flaY0) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Get Busy](https://open.spotify.com/album/4SHUE12jvWe2VroUpuhM6o) | 2:48 |

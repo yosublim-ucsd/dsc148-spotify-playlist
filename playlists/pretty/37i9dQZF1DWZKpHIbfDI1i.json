@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Mia Salinas, ganadora de nuestro concurso Mi Primer Escenario, en portada.",
-  "num_followers": 706968,
+  "num_followers": 707037,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Casi Completa",
+      "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
+    },
+    {
+      "added_at": "2024-10-10 00:14:35",
+      "album": {
         "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
         "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 155888,
       "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
       "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
-    },
-    {
-      "added_at": "2024-10-10 00:14:35",
-      "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Casi Completa",
-      "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
     },
     {
       "added_at": "2024-10-10 00:14:35",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 136182,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
-    },
-    {
-      "added_at": "2024-10-10 00:14:35",
-      "album": {
         "name": "Qu\u00e9 Fuimos (En Vivo)",
         "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 230034,
       "name": "Qu\u00e9 Fuimos (En Vivo)",
       "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
+    {
+      "added_at": "2024-10-10 00:14:35",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 136182,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
     },
     {
       "added_at": "2024-10-10 00:14:35",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
-        "name": "OOTD",
-        "url": "https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 169896,
-      "name": "OOTD",
-      "url": "https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW"
-    },
-    {
-      "added_at": "2024-10-10 00:14:35",
-      "album": {
         "name": "0 Sentimientos",
         "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 238240,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
+    },
+    {
+      "added_at": "2024-10-10 00:14:35",
+      "album": {
+        "name": "OOTD",
+        "url": "https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 169896,
+      "name": "OOTD",
+      "url": "https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW"
     },
     {
       "added_at": "2024-10-10 00:14:35",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
-        "name": "BUGATTI CHIRON",
-        "url": "https://open.spotify.com/album/69Gzsu5wyWB9uCmn3p0dYY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 206677,
-      "name": "BUGATTI CHIRON",
-      "url": "https://open.spotify.com/track/6R582RgN0hx6d4QDtrtcHU"
-    },
-    {
-      "added_at": "2024-10-10 00:14:35",
-      "album": {
         "name": "LA MALA",
         "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 144602,
       "name": "LA MALA",
       "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
+    },
+    {
+      "added_at": "2024-10-10 00:14:35",
+      "album": {
+        "name": "BUGATTI CHIRON",
+        "url": "https://open.spotify.com/album/69Gzsu5wyWB9uCmn3p0dYY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 206677,
+      "name": "BUGATTI CHIRON",
+      "url": "https://open.spotify.com/track/6R582RgN0hx6d4QDtrtcHU"
     },
     {
       "added_at": "2024-10-10 00:14:35",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
-        "name": "En El Audi",
-        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
+        "name": "La Brabus",
+        "url": "https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 198545,
-      "name": "En El Audi",
-      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
+      "duration_ms": 209018,
+      "name": "La Brabus",
+      "url": "https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC"
     },
     {
       "added_at": "2024-10-10 00:14:35",
@@ -1379,18 +1375,22 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
-        "name": "La Brabus",
-        "url": "https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72"
+        "name": "En El Audi",
+        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 209018,
-      "name": "La Brabus",
-      "url": "https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC"
+      "duration_ms": 198545,
+      "name": "En El Audi",
+      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
     }
   ],
   "unique_name": "Top M\u00e9xico",

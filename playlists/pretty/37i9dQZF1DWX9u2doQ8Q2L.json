@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 388671,
+  "num_followers": 388683,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
-        "url": "https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 201251,
-      "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
-      "url": "https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 235240,
       "name": "\u611b\u3092\u4f1d\u3048\u305f\u3044\u3060\u3068\u304b",
       "url": "https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
+        "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
+        "url": "https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 201251,
+      "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
+      "url": "https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
+        "name": "RED OUT",
+        "url": "https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "RED OUT",
+      "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
         "name": "\u71c8",
         "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 209799,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
-        "name": "RED OUT",
-        "url": "https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "RED OUT",
-      "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        }
+      ],
+      "duration_ms": 174095,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
         "name": "Love seeker",
         "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "\u5730\u7403\u5100 - Spinning Globe",
-        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 273437,
-      "name": "\u5730\u7403\u5100 - Spinning Globe",
-      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "Workin' Hard",
         "url": "https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 239070,
       "name": "Workin' Hard",
       "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e"
-      },
-      "artists": [
-        {
-          "name": "3House",
-          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
-        }
-      ],
-      "duration_ms": 174095,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -755,22 +739,18 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "Stay With Me (feat. Hikaru Utada)",
-        "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
+        "name": "\u5730\u7403\u5100 - Spinning Globe",
+        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 172085,
-      "name": "Stay With Me (feat. Hikaru Utada)",
-      "url": "https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9"
+      "duration_ms": 273437,
+      "name": "\u5730\u7403\u5100 - Spinning Globe",
+      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -791,6 +771,26 @@
       "duration_ms": 191132,
       "name": "Just Like Dat feat. JP THE WAVY",
       "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
+        "name": "Stay With Me (feat. Hikaru Utada)",
+        "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 172085,
+      "name": "Stay With Me (feat. Hikaru Utada)",
+      "url": "https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "\u6bce\u65e5 - Every Day",
-        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 182140,
-      "name": "\u6bce\u65e5 - Every Day",
-      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "Danger Danger",
         "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
       },
@@ -903,22 +887,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "SCIENCE FICTION",
-        "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 308695,
-      "name": "traveling - Re-Recording",
-      "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
         "url": "https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX"
       },
@@ -947,6 +915,38 @@
       "duration_ms": 173925,
       "name": "Don't Tell Nobody",
       "url": "https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
+        "name": "\u6bce\u65e5 - Every Day",
+        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 182140,
+      "name": "\u6bce\u65e5 - Every Day",
+      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
+        "name": "SCIENCE FICTION",
+        "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 308695,
+      "name": "traveling - Re-Recording",
+      "url": "https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 239625,
       "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
+        "name": "\u5305\u5e2f",
+        "url": "https://open.spotify.com/album/7FSz65qsiE1PoCfgl1HL1Y"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 215315,
+      "name": "\u5305\u5e2f",
+      "url": "https://open.spotify.com/track/17K79g6BKzDGRcqycIIXcQ"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
         "name": "\u30aa\u30c8\u30ca\u30d6\u30eb\u30fc",
         "url": "https://open.spotify.com/album/1zOsMN6Zyx1qMlpi29PMDF"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "\u5305\u5e2f",
-        "url": "https://open.spotify.com/album/7FSz65qsiE1PoCfgl1HL1Y"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 215315,
-      "name": "\u5305\u5e2f",
-      "url": "https://open.spotify.com/track/17K79g6BKzDGRcqycIIXcQ"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "JUNK TAPE",
         "url": "https://open.spotify.com/album/7nMD0ld7LG08JbYfUaZOqc"
       },
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl"
+        "name": "A24",
+        "url": "https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "BANNY BUGS",
+          "url": "https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq"
+        },
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
         }
       ],
-      "duration_ms": 191194,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c"
+      "duration_ms": 180461,
+      "name": "A24",
+      "url": "https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -1275,22 +1279,18 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "A24",
-        "url": "https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl"
       },
       "artists": [
         {
-          "name": "BANNY BUGS",
-          "url": "https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq"
-        },
-        {
-          "name": "3House",
-          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 180461,
-      "name": "A24",
-      "url": "https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC"
+      "duration_ms": 191194,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 235914,
-      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "\u521d\u604b",
         "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 195657,
       "name": "\u521d\u604b",
       "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
+        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 235914,
+      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
     },
     {
       "added_at": "2024-10-23 02:15:44",

@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-229 songs - 14 hr 56 min
+230 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 | 2022-06-27 | 2024-01-30 |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-12 |  |
 | [All the Way](https://open.spotify.com/track/5Zk4iUcotUIcyPeanblxS3) | [ÜNAM](https://open.spotify.com/artist/4BHKv1X2ldBdklzqRfLDFj) | [WAYU Various Artists, Vol\. 2](https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL) | 7:44 | 2022-04-24 | 2022-07-29 |
-| [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-07-19 |  |
+| [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-07-19 | 2024-10-30 |
 | [Amanecer](https://open.spotify.com/track/45wQICCratOjNmYPttJAHO) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Amanecer](https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva) | 3:11 | 2022-08-02 | 2022-08-17 |
 | [Amore](https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Amore](https://open.spotify.com/album/1RJyJUZKnRR5NUgMC8d6k6) | 6:23 | 2023-03-17 | 2023-07-22 |
 | [Andalucia](https://open.spotify.com/track/1FUUe1VbjWakX9nFfd0Qki) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt) | [Andalucia](https://open.spotify.com/album/3vgLVhmZFjiDpX52BxHFOl) | 3:49 | 2024-09-20 |  |
@@ -181,6 +181,7 @@
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2023-12-07 |  |
 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 | 2024-09-06 |  |
 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 | 2024-01-26 | 2024-08-10 |
+| [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-25 |  |
 | [Sci\-Fi](https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sci\-Fi](https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu) | 3:18 | 2022-07-26 | 2023-03-15 |
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2023-12-07 |  |
 | [Serotonina](https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Neneto](https://open.spotify.com/artist/4SRF0I10ZzUX6hFmV1RCXR) | [Serotonina](https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs) | 3:54 | 2022-07-26 | 2022-11-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,519 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,567 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 67 | [Blues / La Dolce Vita Dei Nobili](https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [La Dolce Vita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB) | 5:44 |
 | 68 | [Thinking Of Baby \- From "Johnny Staccato" Score / Remastered](https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG) | [Elmer Bernstein](https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c) | [Staccato \(Original Johnny Staccato Score\)](https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd) | 2:59 |
 | 69 | [From Russia with Love \- Single Version](https://open.spotify.com/track/0WBIlfElfs2GCpE4kxEZDt) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [The Best Of Matt Monro](https://open.spotify.com/album/41IR9ViLL2GlvI3uzfXo5F) | 2:35 |
-| 70 | [Theme From The Thomas Crown Affair \(The Windmills Of Your Mind\)](https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [The Thomas Crown Affair](https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv) | 2:21 |
-| 71 | [Kipling Theme](https://open.spotify.com/track/5tLqCq1AZB2U9LPVHwamp7) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 5:00 |
+| 70 | [Kipling Theme](https://open.spotify.com/track/5tLqCq1AZB2U9LPVHwamp7) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 5:00 |
+| 71 | [Theme From The Thomas Crown Affair \(The Windmills Of Your Mind\)](https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [The Thomas Crown Affair](https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv) | 2:21 |
 | 72 | [Lonely at the Top](https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 2:32 |
 | 73 | [Fair Weather](https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 6:04 |
 | 74 | [Eddie's Theme](https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Who Framed Roger Rabbit](https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD) | 5:22 |

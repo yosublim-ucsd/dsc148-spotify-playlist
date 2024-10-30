@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: <a href="spotify:artist:3tVQdUvClmAT7URs9V3rsp">Wizkid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,268 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,544 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

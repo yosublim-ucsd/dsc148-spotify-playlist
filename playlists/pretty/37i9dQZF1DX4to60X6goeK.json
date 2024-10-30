@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA at Drumsheds ",
-  "num_followers": 64236,
+  "num_followers": 64287,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Dopamine Hits",
+        "url": "https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST"
+      },
+      "artists": [
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "Dopamine Hits",
+      "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Bomb Squad (Bou Remix)",
         "url": "https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk"
       },
@@ -959,22 +979,6 @@
       "duration_ms": 288052,
       "name": "Bomb Squad - Bou Remix",
       "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "bailejungle",
-        "url": "https://open.spotify.com/album/3AHlB9soIbmWf533WDG1eW"
-      },
-      "artists": [
-        {
-          "name": "Urbandawn",
-          "url": "https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX"
-        }
-      ],
-      "duration_ms": 163449,
-      "name": "bailejungle",
-      "url": "https://open.spotify.com/track/4wkeHElj4wfEb8WSUah3xz"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1019,6 +1023,38 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "bailejungle",
+        "url": "https://open.spotify.com/album/3AHlB9soIbmWf533WDG1eW"
+      },
+      "artists": [
+        {
+          "name": "Urbandawn",
+          "url": "https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX"
+        }
+      ],
+      "duration_ms": 163449,
+      "name": "bailejungle",
+      "url": "https://open.spotify.com/track/4wkeHElj4wfEb8WSUah3xz"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Ghosting Your Love",
+        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 199728,
+      "name": "Ghosting Your Love",
+      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Rampage Anthem VIP",
         "url": "https://open.spotify.com/album/69szID4oSWL2iSddE56ryG"
       },
@@ -1055,42 +1091,6 @@
       "duration_ms": 226285,
       "name": "Rampage Anthem VIP",
       "url": "https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Ghosting Your Love",
-        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 199728,
-      "name": "Ghosting Your Love",
-      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Dopamine Hits",
-        "url": "https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST"
-      },
-      "artists": [
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Maksim MC",
-          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "Dopamine Hits",
-      "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
     },
     {
       "added_at": "2024-10-24 23:00:00",

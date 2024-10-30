@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 84335,
+  "num_followers": 84360,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "BFF",
+        "url": "https://open.spotify.com/album/4pzC10czTKZvSGLISiVOMD"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "duration_ms": 215729,
+      "name": "BFF",
+      "url": "https://open.spotify.com/track/2uvmVeBZ2YLk8jPVQnOFsI"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "scawy monstews and nice spwites :3",
         "url": "https://open.spotify.com/album/0v38eQrHnzNusRLakfZNkp"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 120754,
       "name": "Drama (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/3VzW3IXIwEvZ0HcKZEFZjJ"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "BFF",
-        "url": "https://open.spotify.com/album/4pzC10czTKZvSGLISiVOMD"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
-        }
-      ],
-      "duration_ms": 215729,
-      "name": "BFF",
-      "url": "https://open.spotify.com/track/2uvmVeBZ2YLk8jPVQnOFsI"
     },
     {
       "added_at": "2024-10-09 21:55:22",

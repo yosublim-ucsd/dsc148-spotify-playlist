@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 159839,
+  "num_followers": 159881,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 226086,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Dubplate SZN",
         "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 190344,
       "name": "Dubplate SZN",
       "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 226086,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Bagleys VHS",
-        "url": "https://open.spotify.com/album/7hx6dHXIO9omYFkEfBv2My"
-      },
-      "artists": [
-        {
-          "name": "Spor",
-          "url": "https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM"
-        }
-      ],
-      "duration_ms": 209845,
-      "name": "Bagleys VHS",
-      "url": "https://open.spotify.com/track/28au5d2aeLYC0MTiDpyyP2"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/46pWepYfmFsjoZIOQMz1GD"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 167068,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Bagleys VHS",
+        "url": "https://open.spotify.com/album/7hx6dHXIO9omYFkEfBv2My"
+      },
+      "artists": [
+        {
+          "name": "Spor",
+          "url": "https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM"
+        }
+      ],
+      "duration_ms": 209845,
+      "name": "Bagleys VHS",
+      "url": "https://open.spotify.com/track/28au5d2aeLYC0MTiDpyyP2"
     },
     {
       "added_at": "2024-10-24 23:00:00",

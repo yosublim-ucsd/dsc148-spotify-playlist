@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,135 likes - 125 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,377 likes - 125 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 | 77 | [When You Are Around \- Rain Version](https://open.spotify.com/track/0x2unn4VUE8F2lwPjejUpy) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around \(Rain Version\)](https://open.spotify.com/album/61kKdQ5qVAB9Uwkm3PBOcn) | 3:14 |
 | 78 | [In The Blue Of The Evening](https://open.spotify.com/track/2A6wgA8leuZORbnlvhMpfj) | [Ada Harley](https://open.spotify.com/artist/6XKPk2juB56BoKgZ3oUhh9) | [In The Blue Of The Evening](https://open.spotify.com/album/7wIBBKIHTByNurtRezdOlM) | 2:24 |
 | 79 | [Summertime](https://open.spotify.com/track/5NrwsKRkhQgczHWPL0BGIm) | [Greta Leja](https://open.spotify.com/artist/4q1DYHDlHRRxgL0B8wGGJt) | [Summertime](https://open.spotify.com/album/7vvyLIo6bR9Cfc3Qb6bbws) | 2:24 |
-| 80 | [Stillness \- Rainy Day Jazz](https://open.spotify.com/track/53AGT4gvkOHRhYiQP3RuOp) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness \(Rainy Day Jazz\)](https://open.spotify.com/album/38aRLLKUYTDNW4a7E2I7hM) | 2:50 |
+| 80 | [Stillness \- Rainy Day Jazz](https://open.spotify.com/track/53AGT4gvkOHRhYiQP3RuOp) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/38aRLLKUYTDNW4a7E2I7hM) | 2:50 |
 | 81 | [Rainy Days Ahead](https://open.spotify.com/track/4p0t3HDaFqA40Kkj7YZq8o) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Rainy Days Ahead](https://open.spotify.com/album/2tFuZPqd1oofSheumCpUTN) | 3:27 |
 | 82 | [Rainless](https://open.spotify.com/track/4LlVfy4JGDwzxFRE66SIkB) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Rainless](https://open.spotify.com/album/6QSeMLR0Mg9t0c44pite0q) | 4:07 |
 | 83 | [Loverman](https://open.spotify.com/track/4S1nLxqM7tWryABWdC7dmh) | [Gus Ayers](https://open.spotify.com/artist/3Ap9S9cThcOOH0vlzOV8ov) | [Loverman](https://open.spotify.com/album/5COVxRUZp3B1OvL9BtunBI) | 2:30 |

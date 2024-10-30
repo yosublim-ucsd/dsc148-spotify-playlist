@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,472 likes - 180 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,474 likes - 180 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 107 | [No Angel](https://open.spotify.com/track/4neipBD8hA1q2g1FS9hgAC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:06 |
 | 108 | [Dance For Me](https://open.spotify.com/track/6LLKwcUr9C16PiTPVT5QtB) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Heavy Rules Mixtape](https://open.spotify.com/album/7MNdScEmf2wgF9bVLOyXKs) | 3:35 |
 | 109 | [visions](https://open.spotify.com/track/5oZIhePTCzvWskktjYgdjr) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:49 |
-| 110 | [Girls Night Out](https://open.spotify.com/track/7jspeyAKVWaBYvPGPe6u46) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Girls Night Out](https://open.spotify.com/album/1JAutav4UH5YKUyuixDkRH) | 3:41 |
-| 111 | [Silver Cross](https://open.spotify.com/track/25x38hVatSDa5ptfbKwdn5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:28 |
+| 110 | [Silver Cross](https://open.spotify.com/track/25x38hVatSDa5ptfbKwdn5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:28 |
+| 111 | [Girls Night Out](https://open.spotify.com/track/7jspeyAKVWaBYvPGPe6u46) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Girls Night Out](https://open.spotify.com/album/1JAutav4UH5YKUyuixDkRH) | 3:41 |
 | 112 | [Every Rule](https://open.spotify.com/track/3qT67cZ6ZloAk6jDgG1Zc8) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:03 |
 | 113 | [What I Like](https://open.spotify.com/track/5ot3q8KR1vzq471WAtCNSU) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu) | 3:01 |
 | 114 | [Drugs \(feat\. ABRA\)](https://open.spotify.com/track/2JjQNEYozHM41eQPFgOV6j) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:49 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 179 | [Bullets](https://open.spotify.com/track/5k5PKZ18CNLgubRSa5aIQ9) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/1noBhgsjRFveHzVr4QFwxv) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:43 |
 | 180 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `AbgBNgAAAACCiDwfdFRc5BEWOvIwR61s`
+Snapshot ID: `AbgG9AAAAABbcTr3tuE6mhvJK5R/yQcN`

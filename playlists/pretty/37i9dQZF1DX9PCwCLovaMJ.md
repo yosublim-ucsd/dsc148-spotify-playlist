@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Våra spellisteredaktörers urval av otroliga låtar från 2023 som du kanske råkat missa? Enjoy! \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 891 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 890 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 23 | [all you'll get from me is my company](https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9) | [After Wes](https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy) | [all you'll get from me is my company](https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x) | 2:39 |
 | 24 | [ORANGES](https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [ORANGES](https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV) | 2:03 |
 | 25 | [Summer](https://open.spotify.com/track/7fBaNlnSHF2pBGC0fRiODc) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Summer](https://open.spotify.com/album/1w1P5YCsV41XnFSXdI3cR7) | 3:07 |
-| 26 | [Westside](https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Westside](https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo) | 2:35 |
-| 27 | [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 |
-| 28 | [perfume bottle](https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [MAGNANIMITY](https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL) | 3:14 |
+| 26 | [perfume bottle](https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [MAGNANIMITY](https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL) | 3:14 |
+| 27 | [Westside](https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Westside](https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo) | 2:35 |
+| 28 | [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 |
 | 29 | [Bam Bam](https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Bam Bam](https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq) | 3:30 |
 | 30 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 |
 | 31 | [BF](https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [BF](https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C) | 2:07 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 38 | [Down](https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Art By You](https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe) | 3:36 |
 | 39 | [San Pedro](https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:28 |
 | 40 | [Tänk om vi dör!](https://open.spotify.com/track/4e4Ai0V6ckatATwPETAYhw) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tänk om vi dör!](https://open.spotify.com/album/1ypXzb3f5Tcmpc2kXi1nup) | 2:57 |
-| 41 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
-| 42 | [DROPPING SEEDS](https://open.spotify.com/track/6tUO8COj2Q4vZpo4K9dMiL) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [DROPPING SEEDS](https://open.spotify.com/album/2gJXkxmM0PLh6lgHlMvFPU) | 2:34 |
-| 43 | [Spinning](https://open.spotify.com/track/336VLQGsf6tdMpTYW1z7Mb) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ) | 2:28 |
+| 41 | [Spinning](https://open.spotify.com/track/336VLQGsf6tdMpTYW1z7Mb) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Watching Strangers Smile](https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ) | 2:28 |
+| 42 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
+| 43 | [DROPPING SEEDS](https://open.spotify.com/track/6tUO8COj2Q4vZpo4K9dMiL) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [DROPPING SEEDS](https://open.spotify.com/album/2gJXkxmM0PLh6lgHlMvFPU) | 2:34 |
 | 44 | [bästis](https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD) | [IMAN](https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e) | [bästis](https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp) | 3:28 |
 | 45 | [Heaven](https://open.spotify.com/track/4wJ6GzWqWebaKHXrKot0ju) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Heaven EP](https://open.spotify.com/album/4qs2ZCcVu7eeKc82fqFsEr) | 3:20 |
 | 46 | [1x1](https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [1x1](https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv) | 3:24 |
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 63 | [October](https://open.spotify.com/track/6kMLYgSC8PW4B0pv9PpsQ1) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 3:00 |
 | 64 | [lonely](https://open.spotify.com/track/35H2s0aUWIb9pjsMJq5Xv8) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [lonely](https://open.spotify.com/album/11LcikjPNOCWmyqwUOXhsE) | 2:16 |
 | 65 | [You're Not Alone](https://open.spotify.com/track/4v7SAKFEqPyuYTy9gQRnHP) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [You're Not Alone](https://open.spotify.com/album/30TtNJxZgXt1DBb7GYlRkz) | 3:55 |
-| 66 | [Work For Free](https://open.spotify.com/track/1UHLpmEsT3YPNnS7HW5Uap) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [Work For Free](https://open.spotify.com/album/0UyHAJrwsR8Ywj2toxAG4w) | 2:42 |
-| 67 | [Gia](https://open.spotify.com/track/469s8Ekt5RF3IB3uKWSmGO) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Gia](https://open.spotify.com/album/0GAxKrrUvlzxKURCSF9Xfn) | 4:05 |
+| 66 | [Gia](https://open.spotify.com/track/469s8Ekt5RF3IB3uKWSmGO) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Gia](https://open.spotify.com/album/0GAxKrrUvlzxKURCSF9Xfn) | 4:05 |
+| 67 | [Work For Free](https://open.spotify.com/track/1UHLpmEsT3YPNnS7HW5Uap) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [Work For Free](https://open.spotify.com/album/0UyHAJrwsR8Ywj2toxAG4w) | 2:42 |
 | 68 | [Show You Off](https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Show You Off](https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg) | 2:54 |
-| 69 | [RATTLESNAKE](https://open.spotify.com/track/23iX8tmk5th6Ydrtz6BeCd) | [P!NCH](https://open.spotify.com/artist/1jPCm4Q8uClWX205mz4FKV), [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [RATTLESNAKE](https://open.spotify.com/album/4XpL8x2d5RiJbSwPs2pA0D) | 2:59 |
-| 70 | [Who](https://open.spotify.com/track/6TC6pNUHWaGYhliOtrRlzI) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Who](https://open.spotify.com/album/1MUUv8h8NmQlVlj7eZzsOd) | 3:27 |
+| 69 | [Who](https://open.spotify.com/track/6TC6pNUHWaGYhliOtrRlzI) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Who](https://open.spotify.com/album/1MUUv8h8NmQlVlj7eZzsOd) | 3:27 |
+| 70 | [RATTLESNAKE](https://open.spotify.com/track/23iX8tmk5th6Ydrtz6BeCd) | [P!NCH](https://open.spotify.com/artist/1jPCm4Q8uClWX205mz4FKV), [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [RATTLESNAKE](https://open.spotify.com/album/4XpL8x2d5RiJbSwPs2pA0D) | 2:59 |
 | 71 | [Chop It](https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw) | [Whammyboy](https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj) | [Chop It](https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0) | 2:58 |
 | 72 | [Fight Back Time](https://open.spotify.com/track/2pC6V7ZQyNMFGh8yfrKrgi) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh), [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Fight Back Time](https://open.spotify.com/album/5eXFIcEh62sNR9C3MyJYHY) | 3:17 |
 | 73 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 93 | [starfish in low tide](https://open.spotify.com/track/6bkSb870jIWyXt3tIKK5Ie) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frenemy \(with friends\)](https://open.spotify.com/album/1EzVzKIej6xbASVOvFsQFW) | 2:18 |
 | 94 | [Putting On Airs](https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Nothing Sacred](https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO) | 2:30 |
 | 95 | [Ring The Alarm](https://open.spotify.com/track/6EACtpp2xlqbs2rViFRXDO) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Ring The Alarm](https://open.spotify.com/album/7dLyeT8MWlaGoG0v1yxSLA) | 3:04 |
-| 96 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 |
-| 97 | [DREAMER](https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [TALK2MUCH](https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3) | 2:13 |
-| 98 | [MURDER MY FEELINGS](https://open.spotify.com/track/5zjOUGpiYeu1FgEDp0OPav) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [MURDER MY FEELINGS](https://open.spotify.com/album/5BmdCH0bW2traxlvxUhOib) | 2:44 |
+| 96 | [MURDER MY FEELINGS](https://open.spotify.com/track/5zjOUGpiYeu1FgEDp0OPav) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [MURDER MY FEELINGS](https://open.spotify.com/album/5BmdCH0bW2traxlvxUhOib) | 2:44 |
+| 97 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 |
+| 98 | [DREAMER](https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [TALK2MUCH](https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3) | 2:13 |
 | 99 | [All Night](https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All Night](https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry) | 3:34 |
 
 Snapshot ID: `ZWcrvAAAAAAg8eK9b+cLi8DThzO6Xkk8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,161,308 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,161,405 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 25 | [War Machine](https://open.spotify.com/track/5YnNWHKCJaJKwbagXDb5Uf) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Black Ice](https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN) | 3:09 |
 | 26 | [Are You Ready](https://open.spotify.com/track/7A1odihHBrI8n9k0Fefh2j) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:10 |
 | 27 | [Shot Down in Flames](https://open.spotify.com/track/6pivm7pNF4GyBkHNGseHCS) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:22 |
-| 28 | [Demon Fire](https://open.spotify.com/track/6jtUOVRO4p09Z7E35ERRL7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:30 |
-| 29 | [Hard as a Rock](https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Ballbreaker](https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX) | 4:31 |
+| 28 | [Hard as a Rock](https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Ballbreaker](https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX) | 4:31 |
+| 29 | [Demon Fire](https://open.spotify.com/track/6jtUOVRO4p09Z7E35ERRL7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:30 |
 | 30 | [Sin City](https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 4:45 |
 | 31 | [Big Gun](https://open.spotify.com/track/7zjzu90Q4mtNNaE9Ol9Zbv) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Backtracks](https://open.spotify.com/album/0I7FkYrckzJtK1ND8vzqoO) | 4:19 |
 | 32 | [Fire Your Guns](https://open.spotify.com/track/0cLvKgKkqlaJ9UajbitH4l) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 49 | [Rock the Blues Away](https://open.spotify.com/track/5xGHeN58fFOcORW0pRZznn) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 3:24 |
 | 50 | [Can I Sit Next to You Girl](https://open.spotify.com/track/75uv44LGpyL0DhyLli3aXh) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 4:11 |
 
-Snapshot ID: `Zx2CgAAAAACveoN5x9cjXQ2WeROPRpfQ`
+Snapshot ID: `Zx7UAAAAAABohep9ky64XI2V/lWws0q/`

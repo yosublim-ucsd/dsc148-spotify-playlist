@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Hollywood Undead",
-  "num_followers": 338016,
+  "num_followers": 338073,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Barely Breathing (feat. Against The Current)",
         "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 190200,
       "name": "Barely Breathing (feat. Against The Current)",
       "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Cancelled",
+        "url": "https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Cancelled",
+      "url": "https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Quit!!",
         "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 161352,
       "name": "HAPPY HOUR (feat. Knox)",
       "url": "https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Cancelled",
-        "url": "https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Cancelled",
-      "url": "https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Necessary Evil",
         "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 179225,
       "name": "IF IT DOESN'T HURT",
       "url": "https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Chaotic",
-        "url": "https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj"
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
       },
       "artists": [
         {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 171794,
-      "name": "Chaotic",
-      "url": "https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV"
+      "duration_ms": 245467,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
+        "name": "Chaotic",
+        "url": "https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
         }
       ],
-      "duration_ms": 245467,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
+      "duration_ms": 171794,
+      "name": "Chaotic",
+      "url": "https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Blind Side Sonny",
-        "url": "https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Blind Side Sonny",
-      "url": "https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 142533,
       "name": "Power",
       "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Blind Side Sonny",
+        "url": "https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Blind Side Sonny",
+      "url": "https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Dogs Of War",
-        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
+        "name": "SORRY I'M LATE",
+        "url": "https://open.spotify.com/album/4ZxHPDJDDns4uIcYx9Q5us"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
         }
       ],
-      "duration_ms": 244466,
-      "name": "Dogs Of War",
-      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
+      "duration_ms": 195401,
+      "name": "SORRY I'M LATE",
+      "url": "https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1483,34 +1483,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "SORRY I'M LATE",
-        "url": "https://open.spotify.com/album/4ZxHPDJDDns4uIcYx9Q5us"
+        "name": "Dogs Of War",
+        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
       },
       "artists": [
         {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 195401,
-      "name": "SORRY I'M LATE",
-      "url": "https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Showbiz",
-      "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
+      "duration_ms": 244466,
+      "name": "Dogs Of War",
+      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
       "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "Showbiz",
+      "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Spiral In A Straight Line",
-        "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
+        "name": "VERITAS",
+        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
       },
       "artists": [
         {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 260885,
-      "name": "Goodbye For Now (feat. Julien Baker)",
-      "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
+      "duration_ms": 199067,
+      "name": "I GOT THAT",
+      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1715,18 +1711,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "VERITAS",
-        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
+        "name": "Spiral In A Straight Line",
+        "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 199067,
-      "name": "I GOT THAT",
-      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
+      "duration_ms": 260885,
+      "name": "Goodbye For Now (feat. Julien Baker)",
+      "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
     }
   ],
   "unique_name": "Rock Rotation",

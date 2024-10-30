@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,114 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,116 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 | 42 | [Boy Meets Girl](https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 3:20 |
 | 43 | [Celtic Tune](https://open.spotify.com/track/7oR07ngXeGVfsQihGsaHd6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nashville Sessions](https://open.spotify.com/album/0BOfytlIqA5WlJNcNN5J5o) | 2:22 |
 | 44 | [NADA SOUSOU\(LIVE\)](https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:52 |
-| 45 | [麒麟紀行 III](https://open.spotify.com/track/0BwDNKlJrPwS3wWkwBIedz) | [John R Graham](https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NHK大河ドラマ「麒麟がくる」オリジナル・サウンドトラック Vol.3](https://open.spotify.com/album/2SSjwFDguSVmDcK6mG9ASL) | 1:33 |
-| 46 | [Oama](https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:59 |
-| 47 | [ホワイル・マイ・ギター・ジェントリー・ウィープス \- Solo](https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:06 |
-| 48 | [一期一会](https://open.spotify.com/track/4WAHtGtBYeHgo0pRkZBKvI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [YEAH.](https://open.spotify.com/album/4chfGXfXVl3RxJykwNNxIC) | 5:10 |
-| 49 | [Kula Blues](https://open.spotify.com/track/2FOCUiF0bSZdj1iH7GWqsx) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 4:35 |
-| 50 | [Train Ride](https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:44 |
-| 51 | [ウィッシュ・オン・マイ・スター \- Solo](https://open.spotify.com/track/0ALdiZoLjRAuLjvvIygb6k) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:49 |
+| 45 | [一期一会](https://open.spotify.com/track/4WAHtGtBYeHgo0pRkZBKvI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [YEAH.](https://open.spotify.com/album/4chfGXfXVl3RxJykwNNxIC) | 5:10 |
+| 46 | [ホワイル・マイ・ギター・ジェントリー・ウィープス \- Solo](https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:06 |
+| 47 | [Kula Blues](https://open.spotify.com/track/2FOCUiF0bSZdj1iH7GWqsx) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 4:35 |
+| 48 | [麒麟紀行 III](https://open.spotify.com/track/0BwDNKlJrPwS3wWkwBIedz) | [John R Graham](https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NHK大河ドラマ「麒麟がくる」オリジナル・サウンドトラック Vol.3](https://open.spotify.com/album/2SSjwFDguSVmDcK6mG9ASL) | 1:33 |
+| 49 | [Oama](https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:59 |
+| 50 | [ウィッシュ・オン・マイ・スター \- Solo](https://open.spotify.com/track/0ALdiZoLjRAuLjvvIygb6k) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:49 |
+| 51 | [アイス・クリーム](https://open.spotify.com/track/3gGxkaGQL44CQbqRqUe1cH) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 4:06 |
 
-Snapshot ID: `Zx2CgAAAAABYT2CMUFA2+Ev2m2yH1Z2d`
+Snapshot ID: `Zx7UAAAAAADZPMKEHFtS0OlFwCtt7e47`

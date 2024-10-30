@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37923,
+  "num_followers": 37924,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAACXvCX7RQWwkmvdMqz/yxK3",
+  "snapshot_id": "Zx7UAAAAAAA7PK2ZEtQrcAx4rQoHBY2t",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sonhadora",
+        "url": "https://open.spotify.com/album/7EqHSTvdqhKDK21jfofgE5"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 215992,
+      "name": "Sonhadora",
+      "url": "https://open.spotify.com/track/1ZHBGWxxwCMETGr2X6dNo2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cantar\u00e9",
         "url": "https://open.spotify.com/album/0Q5JewbvRvRZfkqtapoVgM"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 328135,
       "name": "Cantar\u00e9",
       "url": "https://open.spotify.com/track/4XXfX1L3uqlRxbHmsgTCvE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonhadora",
-        "url": "https://open.spotify.com/album/7EqHSTvdqhKDK21jfofgE5"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 215992,
-      "name": "Sonhadora",
-      "url": "https://open.spotify.com/track/1ZHBGWxxwCMETGr2X6dNo2"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Principio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conoc\u00ed una Oveja",
         "url": "https://open.spotify.com/album/6wr5MRM7pntlYmYNTSWW7a"
       },
@@ -507,54 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 195860,
-      "name": "Outubro",
-      "url": "https://open.spotify.com/track/4pepw9xWpAQeRPOJQUigkF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turma do Barulho, Vol. 4",
-        "url": "https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr"
-      },
-      "artists": [
-        {
-          "name": "Turma do Barulho",
-          "url": "https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/6JvCmY2aReO0jOHrTO0U92"
-        },
-        {
-          "name": "Elen Diana",
-          "url": "https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE"
-        },
-        {
-          "name": "Suelen Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/5pwRTK98q8ffGHJd5HBvc7"
-        }
-      ],
-      "duration_ms": 158706,
-      "name": "Salmo 100",
-      "url": "https://open.spotify.com/track/1X8R9oRMvFJXDQpEsdCiIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Principio (Ao Vivo)",
         "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
       },
@@ -568,9 +500,25 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 467853,
-      "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
+      "duration_ms": 254880,
+      "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 195860,
+      "name": "Outubro",
+      "url": "https://open.spotify.com/track/4pepw9xWpAQeRPOJQUigkF"
     },
     {
       "added_at": null,
@@ -615,6 +563,78 @@
     {
       "added_at": null,
       "album": {
+        "name": "Principio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 467853,
+      "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turma do Barulho, Vol. 4",
+        "url": "https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr"
+      },
+      "artists": [
+        {
+          "name": "Turma do Barulho",
+          "url": "https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/6JvCmY2aReO0jOHrTO0U92"
+        },
+        {
+          "name": "Elen Diana",
+          "url": "https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE"
+        },
+        {
+          "name": "Suelen Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/5pwRTK98q8ffGHJd5HBvc7"
+        }
+      ],
+      "duration_ms": 158706,
+      "name": "Salmo 100",
+      "url": "https://open.spotify.com/track/1X8R9oRMvFJXDQpEsdCiIG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 343320,
+      "name": "Entrega",
+      "url": "https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Criador do Mundo (Ao Vivo)",
         "url": "https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv"
       },
@@ -647,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ac\u00fastico, Vol. 2",
         "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
       },
@@ -679,6 +683,22 @@
       "duration_ms": 199600,
       "name": "Voc\u00ea Consegue Sim",
       "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
     },
     {
       "added_at": null,
@@ -719,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        }
-      ],
-      "duration_ms": 343320,
-      "name": "Entrega",
-      "url": "https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doze",
         "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 229111,
       "name": "Abril",
       "url": "https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Imensur\u00e1vel",
+      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 270480,
-      "name": "Liberdade",
-      "url": "https://open.spotify.com/track/1MksipefYCj3jjdupynfZi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ru\u00eddos",
         "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 320760,
       "name": "Ru\u00eddos",
       "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 270480,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/1MksipefYCj3jjdupynfZi"
     },
     {
       "added_at": null,
@@ -863,22 +879,6 @@
       "duration_ms": 209546,
       "name": "Seja o Centro",
       "url": "https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Imensur\u00e1vel",
-      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
     },
     {
       "added_at": null,

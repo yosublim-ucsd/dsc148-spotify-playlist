@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '00s. Cover: Usher",
-  "num_followers": 4718837,
+  "num_followers": 4719203,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 288533,
       "name": "Heaven Can Wait",
       "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -493,6 +493,38 @@
       "url": "https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3"
     },
     {
+      "added_at": "2022-08-22 09:03:37",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Rock Wit U (Awww Baby)",
+      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
+    },
+    {
       "added_at": "2023-09-14 14:32:45",
       "album": {
         "name": "Goodies",
@@ -511,22 +543,6 @@
       "duration_ms": 223000,
       "name": "Goodies (feat. Petey Pablo)",
       "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Rock Wit U (Awww Baby)",
-      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -559,22 +575,6 @@
       "duration_ms": 246333,
       "name": "Be Without You - Kendu Mix",
       "url": "https://open.spotify.com/track/6Y3WvyUG9iE5bQYg38SPtQ"
-    },
-    {
-      "added_at": "2022-08-22 09:03:37",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM"
     },
     {
-      "added_at": "2023-06-20 16:00:00",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Naughty Girl",
-      "url": "https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "The Evolution of Robin Thicke",
@@ -895,6 +879,22 @@
       "duration_ms": 254146,
       "name": "Lost Without U",
       "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
+    },
+    {
+      "added_at": "2023-06-20 16:00:00",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Naughty Girl",
+      "url": "https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg"
     },
     {
       "added_at": "2022-12-12 16:49:31",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "BLACKsummers'night (2009)",
-        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "Pretty Wings - uncut",
-      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 327693,
       "name": "I Should Have Cheated",
       "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "BLACKsummers'night (2009)",
+        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "Pretty Wings - uncut",
+      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Aaliyah",
-        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Rock The Boat",
-      "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Open Letter",
         "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 284666,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Aaliyah",
+        "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Rock The Boat",
+      "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
     },
     {
       "added_at": "2022-02-11 05:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia. Cover: SOS (Philippines)",
-  "num_followers": 102040,
+  "num_followers": 102068,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-10-24 16:11:30",
       "album": {
+        "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+        "url": "https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J"
+      },
+      "artists": [
+        {
+          "name": "Lomba Sihir",
+          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "duration_ms": 233630,
+      "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+      "url": "https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm"
+    },
+    {
+      "added_at": "2024-10-24 16:11:30",
+      "album": {
         "name": "\u74e6\u5408",
         "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 236524,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR"
-    },
-    {
-      "added_at": "2024-10-24 16:11:30",
-      "album": {
-        "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
-        "url": "https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J"
-      },
-      "artists": [
-        {
-          "name": "Lomba Sihir",
-          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
-        }
-      ],
-      "duration_ms": 233630,
-      "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
-      "url": "https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm"
     },
     {
       "added_at": "2024-10-24 16:11:30",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-10-24 16:11:30",
       "album": {
+        "name": "DISEASE",
+        "url": "https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp"
+      },
+      "artists": [
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "DISEASE",
+      "url": "https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY"
+    },
+    {
+      "added_at": "2024-10-24 16:11:30",
+      "album": {
         "name": "WDYS",
         "url": "https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 144835,
       "name": "WDYS",
       "url": "https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm"
-    },
-    {
-      "added_at": "2024-10-24 16:11:30",
-      "album": {
-        "name": "DISEASE",
-        "url": "https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp"
-      },
-      "artists": [
-        {
-          "name": "The Crane",
-          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
-        }
-      ],
-      "duration_ms": 263333,
-      "name": "DISEASE",
-      "url": "https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY"
     },
     {
       "added_at": "2024-10-24 16:11:30",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-10-24 16:11:30",
       "album": {
-        "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
-        "url": "https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp"
+        "name": "CALL ME DRAMATIC",
+        "url": "https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs"
       },
       "artists": [
         {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
         }
       ],
-      "duration_ms": 130666,
-      "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
-      "url": "https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw"
+      "duration_ms": 232702,
+      "name": "BACK TO REALITY",
+      "url": "https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv"
     },
     {
       "added_at": "2024-10-24 16:11:30",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-10-24 16:11:30",
       "album": {
-        "name": "CALL ME DRAMATIC",
-        "url": "https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs"
+        "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
+        "url": "https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp"
       },
       "artists": [
         {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 232702,
-      "name": "BACK TO REALITY",
-      "url": "https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv"
+      "duration_ms": 130666,
+      "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
+      "url": "https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw"
     },
     {
       "added_at": "2024-10-24 16:11:30",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-10-24 16:11:30",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
-        "url": "https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io"
+        "name": "love is growing",
+        "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
       },
       "artists": [
         {
-          "name": "Safeplanet",
-          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+          "name": "Plastic Plastic",
+          "url": "https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd"
         }
       ],
-      "duration_ms": 302903,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
-      "url": "https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6"
+      "duration_ms": 178422,
+      "name": "love is growing",
+      "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
     },
     {
       "added_at": "2024-10-24 16:11:30",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-10-24 16:11:30",
       "album": {
-        "name": "love is growing",
-        "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
+        "url": "https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io"
       },
       "artists": [
         {
-          "name": "Plastic Plastic",
-          "url": "https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd"
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
         }
       ],
-      "duration_ms": 178422,
-      "name": "love is growing",
-      "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
+      "duration_ms": 302903,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
+      "url": "https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6"
     },
     {
       "added_at": "2024-10-24 16:11:30",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-10-24 16:11:30",
       "album": {
-        "name": "Until The Sunrise",
-        "url": "https://open.spotify.com/album/3KqZhPw9FN7ss8Xyu6bbwH"
-      },
-      "artists": [
-        {
-          "name": "Patrickananda",
-          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Until The Sunrise",
-      "url": "https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE"
-    },
-    {
-      "added_at": "2024-10-24 16:11:30",
-      "album": {
         "name": "LOVERs ATLAS",
         "url": "https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 196977,
       "name": "WANDERLUST",
       "url": "https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2"
+    },
+    {
+      "added_at": "2024-10-24 16:11:30",
+      "album": {
+        "name": "Until The Sunrise",
+        "url": "https://open.spotify.com/album/3KqZhPw9FN7ss8Xyu6bbwH"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Until The Sunrise",
+      "url": "https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE"
     },
     {
       "added_at": "2024-10-24 16:11:30",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-10-24 16:11:30",
       "album": {
+        "name": "eko",
+        "url": "https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 121564,
+      "name": "eko - Edit",
+      "url": "https://open.spotify.com/track/2LpAgQiBOnkhx2MS5Cpg9F"
+    },
+    {
+      "added_at": "2024-10-24 16:11:30",
+      "album": {
         "name": "Now and Ever",
         "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 235026,
       "name": "Comets (with Petra Sihombing)",
       "url": "https://open.spotify.com/track/4DORdPh0YOYXrOlPi1qRG5"
-    },
-    {
-      "added_at": "2024-10-24 16:11:30",
-      "album": {
-        "name": "eko",
-        "url": "https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 121564,
-      "name": "eko - Edit",
-      "url": "https://open.spotify.com/track/2LpAgQiBOnkhx2MS5Cpg9F"
     },
     {
       "added_at": "2024-10-24 16:11:30",

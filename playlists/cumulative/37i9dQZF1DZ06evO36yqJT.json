@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "He's Working It Out for You",
+        "url": "https://open.spotify.com/album/6hEJsEKJDSL8Ma2dRS4pSG"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266026,
+      "name": "Healed",
+      "url": "https://open.spotify.com/track/2kblPUvb74gM6V2BWHkqml"
+    },
+    {
+      "album": {
         "name": "Shirley Caesar Live .... He Will Come",
         "url": "https://open.spotify.com/album/4gFxfVqXsSFolfA5MHosnL"
       },
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 373266,
       "name": "You Did It All",
       "url": "https://open.spotify.com/track/7EAKpTEvHLAGaUBjETGJdT"

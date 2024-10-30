@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks of today ft. The Weeknd, Gunna, Latto and more.",
-  "num_followers": 2299395,
+  "num_followers": 2299794,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
@@ -18,10 +18,14 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
         }
       ],
       "duration_ms": 253834,
-      "name": "Darling, I",
+      "name": "Darling, I (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
     },
     {
@@ -138,10 +142,22 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
       "duration_ms": 255915,
-      "name": "Sticky",
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1560041,
+  "num_followers": 1560502,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAC5ZN6cfkkPIPPTa/Z6B5q5",
+  "snapshot_id": "Zx7UAAAAAABdtnUbc1bCZREnqTr0rxlR",
   "tracks": [
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 198408,
-      "name": "CAN'T SAY",
-      "url": "https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL"
+      "duration_ms": 145588,
+      "name": "SKELETONS",
+      "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 145588,
-      "name": "SKELETONS",
-      "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl"
+      "duration_ms": 198408,
+      "name": "CAN'T SAY",
+      "url": "https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL"
     },
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
       },
       "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 173253,
-      "name": "SAY MY GRACE (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+      "duration_ms": 219360,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/6scpNkWEmUxmKY7nYjVLsX"
     },
     {
       "added_at": null,
@@ -735,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
       "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 219360,
-      "name": "Apple Pie",
-      "url": "https://open.spotify.com/track/6scpNkWEmUxmKY7nYjVLsX"
+      "duration_ms": 173253,
+      "name": "SAY MY GRACE (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "K-POP",
         "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
       },
@@ -799,42 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Sky Walker (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Sick (Deluxe)",
         "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 192693,
       "name": "Embarrassed (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Sky Walker (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     },
     {
       "added_at": null,

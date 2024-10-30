@@ -5096,7 +5096,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 196665,
       "name": "Goodbye Goodnight",
       "url": "https://open.spotify.com/track/6yJnL8VVwsDegWafvTKzFe"
@@ -8834,7 +8834,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 155358,
       "name": "mist",
       "url": "https://open.spotify.com/track/0jhRRMT7EhrMWZV3Qkisbs"
@@ -9634,10 +9634,28 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 182364,
       "name": "NEW ERROR!!",
       "url": "https://open.spotify.com/track/2BPJ1WlS8CUHWNCCzo8CL3"
+    },
+    {
+      "album": {
+        "name": "TOYS",
+        "url": "https://open.spotify.com/album/6zR2otv87uUj6ytbleJYa4"
+      },
+      "artists": [
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182364,
+      "name": "NEW ERROR!!",
+      "url": "https://open.spotify.com/track/4sENRzyva5u7VZOYxzmuEG"
     },
     {
       "album": {
@@ -13950,7 +13968,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 265629,
       "name": "Till We End The Day",
       "url": "https://open.spotify.com/track/7rTq86NSekRtejZb6XcbYA"
@@ -18104,7 +18122,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 237741,
       "name": "\u30a2\u30a4\u30e0",
       "url": "https://open.spotify.com/track/5AiUetAe3aXchfZYlTc0qC"
@@ -19674,6 +19692,24 @@
       "duration_ms": 225956,
       "name": "\u30b7\u30b0\u30ca\u30eb\u306f\u3044\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/2eGFrGOxmuFdfhqd0iTpUk"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30ca\u30e2\u30f3",
+        "url": "https://open.spotify.com/album/1elcAkVQ1N96cWUVhl4HOA"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233442,
+      "name": "\u30b7\u30ca\u30e2\u30f3",
+      "url": "https://open.spotify.com/track/5EykrIDBVN1JdcM6BwBFsg"
     },
     {
       "album": {
@@ -22030,6 +22066,24 @@
       "duration_ms": 214400,
       "name": "\u30d7\u30e9\u30ba\u30de\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
       "url": "https://open.spotify.com/track/48cFdkt692jgYl01sKFjDY"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30eb\u30df\u30a8\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/74LIwgJWaTQanWE7bKT4OD"
+      },
+      "artists": [
+        {
+          "name": "chef's",
+          "url": "https://open.spotify.com/artist/7I6vgeUew4Ew1pxztnFhMa"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206226,
+      "name": "\u30d7\u30eb\u30df\u30a8\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/2OnKy5qpFJiAVgFrwuDrUN"
     },
     {
       "album": {
@@ -30182,7 +30236,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 276713,
       "name": "\u82b1\u4e00\u5301",
       "url": "https://open.spotify.com/track/0Lq1SgPyadTMF3NwtHMjEY"
@@ -30673,6 +30727,24 @@
     },
     {
       "album": {
+        "name": "\u8d64\u3044\u8f4d",
+        "url": "https://open.spotify.com/album/3Jyg9NB0N8vDBSKSKIpfkz"
+      },
+      "artists": [
+        {
+          "name": "GLIM SPANKY",
+          "url": "https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "\u8d64\u3044\u8f4d",
+      "url": "https://open.spotify.com/track/5b6ynKSmNmJKCBPHFNGN1J"
+    },
+    {
+      "album": {
         "name": "\u8d64\u88f8\u88f8",
         "url": "https://open.spotify.com/album/0z33f6cNlOZvj8lGYIP3j4"
       },
@@ -31030,6 +31102,24 @@
       "duration_ms": 220500,
       "name": "\u904e\u53bb\u305f\u3089\u3057",
       "url": "https://open.spotify.com/track/6WEb2QTuXBzm6Qqe4m0dXG"
+    },
+    {
+      "album": {
+        "name": "\u9055\u548c\u611f\u3068\u7aae\u5c48",
+        "url": "https://open.spotify.com/album/1GYI8Td5iraWuSPTQvXI8o"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728\u5b9f\u8cb4\u5b50\u30ba",
+          "url": "https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234294,
+      "name": "\u9055\u548c\u611f\u3068\u7aae\u5c48",
+      "url": "https://open.spotify.com/track/5ijfNarOCdA9Nvd5dcC9Qa"
     },
     {
       "album": {
@@ -31614,7 +31704,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 225000,
       "name": "\u98a8\u306b\u30ad\u30b9\u3092\u3057\u3066",
       "url": "https://open.spotify.com/track/3os9D4Rz0hDgbyihgouL7D"

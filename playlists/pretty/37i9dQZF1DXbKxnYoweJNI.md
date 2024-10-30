@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: Andr
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,980 likes - 134 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,987 likes - 134 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 35 | [守護兵](https://open.spotify.com/track/3BGi1cSPOHkGHKfvpcRN9H) | [Whistle 夜萧](https://open.spotify.com/artist/7wKs35Zk43WEeSbxa5snCq) | [守護兵](https://open.spotify.com/album/6MH45ONwMSEhUXUVP919al) | 2:18 |
 | 36 | [昏沉下雨天 \(Dizzy Drizzle\)](https://open.spotify.com/track/4fuGw9or2VN06oRYvXv2Vj) | [Bad Sweetheart](https://open.spotify.com/artist/1y793kDfhxKcz1gX3E22bN) | [昏沉下雨天 \(Dizzy Drizzle\)](https://open.spotify.com/album/0397QMgg9TnjdhsRrBKbCv) | 4:55 |
 | 37 | [Little Piggy](https://open.spotify.com/track/0WGvYgXEeTLJuHwnmnwkZc) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Little Piggy](https://open.spotify.com/album/4NxsnE8xx4DaoBQKmo9aNK) | 2:20 |
-| 38 | [KL的雨一直下 \(ft\. Babygrape\)](https://open.spotify.com/track/4kXqWkl1ZoXaAuArKCjHSd) | [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P), [BabyGrape格蕾普](https://open.spotify.com/artist/3OAaEtoIFea0Ecmdczb9t3) | [電子少年](https://open.spotify.com/album/0sK0MUi05uLfyPcLQh2KDB) | 3:07 |
+| 38 | [KL的雨一直下 \(ft\. BabyGrape格蕾普\)](https://open.spotify.com/track/4kXqWkl1ZoXaAuArKCjHSd) | [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P), [BabyGrape格蕾普](https://open.spotify.com/artist/3OAaEtoIFea0Ecmdczb9t3) | [電子少年](https://open.spotify.com/album/0sK0MUi05uLfyPcLQh2KDB) | 3:07 |
 | 39 | [Match the Freak](https://open.spotify.com/track/1JekbMO1LjNQ6GXJq66hVe) | [周穆](https://open.spotify.com/artist/202yRHeornG5Evg1WxWCFd), [MC錦璋郎](https://open.spotify.com/artist/6pO5lrTDG0VYAlrPKBrFMz) | [Match the Freak](https://open.spotify.com/album/7FnRTvivurj7Zt9u9uAI2R) | 2:35 |
 | 40 | [ALL IN](https://open.spotify.com/track/6MyMCcUFQbjnTm12Y0pWan) | [DenNiz](https://open.spotify.com/artist/7noLHWUu2JfwuyO66SyaKS), [Zeon33](https://open.spotify.com/artist/2WgpuitP2obGirFs8imklo), [雞腿](https://open.spotify.com/artist/6MSjzj0Qm95rSe77zXt32G) | [ALL IN](https://open.spotify.com/album/4adm2UbACFMhPr4idpRd2Q) | 2:35 |
 | 41 | [享受曖昧](https://open.spotify.com/track/3erPJSvDrvXjrIkTgbkqYu) | [Damon孟緯](https://open.spotify.com/artist/5O0FEgp6EeIw3XteK0ipac), [TJing](https://open.spotify.com/artist/2LyF7PROoSh8dtcgNVF9gt) | [享受曖昧](https://open.spotify.com/album/36cO2xw0KBGvpmy3zKJ7OR) | 4:18 |

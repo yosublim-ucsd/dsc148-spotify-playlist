@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 69390,
+  "num_followers": 69398,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Sand Time",
-        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
-      },
-      "artists": [
-        {
-          "name": "Emil Negri",
-          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
-        }
-      ],
-      "duration_ms": 178585,
-      "name": "Sand Time",
-      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Oyasumi Nasai",
         "url": "https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 152746,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Sand Time",
+        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
+      },
+      "artists": [
+        {
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+        }
+      ],
+      "duration_ms": 178585,
+      "name": "Sand Time",
+      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Piano Songs",
-        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
-      },
-      "artists": [
-        {
-          "name": "Purple Tulips",
-          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
-        }
-      ],
-      "duration_ms": 225180,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "The Fountain OST",
         "url": "https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
+        "name": "Piano Songs",
+        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
+      },
+      "artists": [
+        {
+          "name": "Purple Tulips",
+          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
+        }
+      ],
+      "duration_ms": 225180,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
         "name": "L\u2019herbe verte",
         "url": "https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 141374,
       "name": "L\u2019herbe verte",
       "url": "https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
-        "name": "Isla De Flores",
-        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 159124,
-      "name": "Isla De Flores",
-      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -455,6 +439,22 @@
       "duration_ms": 138823,
       "name": "Never Blame The Young Ones",
       "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Isla De Flores",
+        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 159124,
+      "name": "Isla De Flores",
+      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
-      },
-      "artists": [
-        {
-          "name": "Colette Blanche",
-          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
-        }
-      ],
-      "duration_ms": 137645,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 157979,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
+      },
+      "artists": [
+        {
+          "name": "Colette Blanche",
+          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
+        }
+      ],
+      "duration_ms": 137645,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Water Lilly Pond",
-        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
-      },
-      "artists": [
-        {
-          "name": "Malouvia",
-          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
-        }
-      ],
-      "duration_ms": 188025,
-      "name": "Water Lilly Pond",
-      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "In The Stillness",
         "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 184389,
       "name": "Grounded Mind",
       "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Water Lilly Pond",
+        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
+      },
+      "artists": [
+        {
+          "name": "Malouvia",
+          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
+        }
+      ],
+      "duration_ms": 188025,
+      "name": "Water Lilly Pond",
+      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Stella's lullaby",
-        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
-      },
-      "artists": [
-        {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
-        }
-      ],
-      "duration_ms": 145874,
-      "name": "Stella's lullaby",
-      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Avenues",
         "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 123124,
       "name": "Up Above",
       "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Stella's lullaby",
+        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
+      },
+      "artists": [
+        {
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+        }
+      ],
+      "duration_ms": 145874,
+      "name": "Stella's lullaby",
+      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Lullaby Moods",
-        "url": "https://open.spotify.com/album/7kD4T5Fl7A9YaSeDqxRLh9"
+        "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
       },
       "artists": [
         {
-          "name": "Arlen Ness",
-          "url": "https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0"
+          "name": "Mildred Wolf",
+          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Rasung Consciousness",
-      "url": "https://open.spotify.com/track/1IfsSgpOy1pLK7NfxMkn0k"
+      "duration_ms": 121500,
+      "name": "A Place Like This",
+      "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
+        "name": "Lullaby Moods",
+        "url": "https://open.spotify.com/album/7kD4T5Fl7A9YaSeDqxRLh9"
+      },
+      "artists": [
+        {
+          "name": "Arlen Ness",
+          "url": "https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Rasung Consciousness",
+      "url": "https://open.spotify.com/track/1IfsSgpOy1pLK7NfxMkn0k"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
         "name": "Storytelling",
         "url": "https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 284000,
       "name": "Storytelling",
       "url": "https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
-        "name": "A Place Like This",
-        "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
-      },
-      "artists": [
-        {
-          "name": "Mildred Wolf",
-          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "A Place Like This",
-      "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

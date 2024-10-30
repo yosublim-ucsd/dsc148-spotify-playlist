@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom of pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,961 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,960 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 13 | [Come Back To Life](https://open.spotify.com/track/062C1QjfQc42gk1VjZyRtN) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 3:32 |
 | 14 | [Summer Rain](https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Summer Rain](https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B) | 2:42 |
 | 15 | [Wait A Little Longer](https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Wait A Little Longer](https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv) | 3:28 |
-| 16 | [Saturn](https://open.spotify.com/track/6u0uG9YwC68HNdQbdYX6mb) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Saturn](https://open.spotify.com/album/19tE6Ya7rfg5fNSuNYnAuP) | 3:25 |
-| 17 | [Everytime We Touch](https://open.spotify.com/track/69tyRQYLN4gy9sR2xr4FQA) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Everytime We Touch](https://open.spotify.com/album/5mPA3SoZTILtVck7uCX4wy) | 2:21 |
+| 16 | [Everytime We Touch](https://open.spotify.com/track/69tyRQYLN4gy9sR2xr4FQA) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Everytime We Touch](https://open.spotify.com/album/5mPA3SoZTILtVck7uCX4wy) | 2:21 |
+| 17 | [Saturn](https://open.spotify.com/track/6u0uG9YwC68HNdQbdYX6mb) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Saturn](https://open.spotify.com/album/19tE6Ya7rfg5fNSuNYnAuP) | 3:25 |
 | 18 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 |
 | 19 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
 | 20 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 27 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 |
 | 28 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 |
 | 29 | [No Room For Love](https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [No Room For Love](https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8) | 2:57 |
-| 30 | [Hungover \(Head In A Can\)](https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Hungover \(Head In A Can\)](https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB) | 3:44 |
+| 30 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 |
 | 31 | [Ghost](https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc) | 3:33 |
-| 32 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 |
+| 32 | [Hungover \(Head In A Can\)](https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Hungover \(Head In A Can\)](https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB) | 3:44 |
 | 33 | [Imagine](https://open.spotify.com/track/6cJ3VHRZqU71l4rA6K89gi) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/3UteN8apwzmsGK7rhHjTXY) | 3:12 |
 | 34 | [Bad Bitch](https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Bad Bitch](https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ) | 2:57 |
 | 35 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 38 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
 | 39 | [One Day](https://open.spotify.com/track/0MGC7gE67o7QluGjtMGLtA) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [One Day](https://open.spotify.com/album/7eB0QLTXvh52cnDFt0Ppry) | 2:55 |
 | 40 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
-| 41 | [That Guy](https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [That Guy](https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z) | 2:34 |
+| 41 | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK) | 2:42 |
 | 42 | [I Should’ve Danced More](https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [I Should’ve Danced More](https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o) | 3:21 |
 | 43 | [All My Life \(Where Have You Been\)](https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [All My Life \(Where Have You Been\)](https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU) | 2:52 |
 | 44 | [And Then Came You](https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [And Then Came You](https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS) | 3:15 |
 | 45 | [I Turn To You](https://open.spotify.com/track/3k4kK11yrqUpsHaVMzWFOI) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [I Turn To You](https://open.spotify.com/album/211hQhZlaZz0cE9pO7fSfg) | 2:56 |
-| 46 | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK) | 2:42 |
+| 46 | [That Guy](https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [That Guy](https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z) | 2:34 |
 | 47 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 |
 | 48 | [I Don’t Know Love](https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [I Don't Know Love](https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi) | 4:13 |
 | 49 | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q) | 3:44 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 57 | [SMOKE](https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SMOKE](https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6) | 3:24 |
 | 58 | [Side Effects](https://open.spotify.com/track/0gZDQIiAbdgrCmnzStPFZG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Side Effects](https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg) | 2:17 |
 | 59 | [COFFEE REMIX](https://open.spotify.com/track/4EJAZGvayQDbTkbcVDCs7m) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 2:27 |
-| 60 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 |
-| 61 | [Roses N Guns](https://open.spotify.com/track/3AKrDsF5ndU05s455qAs5Y) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Roses N Guns](https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx) | 4:41 |
+| 60 | [Roses N Guns](https://open.spotify.com/track/3AKrDsF5ndU05s455qAs5Y) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Roses N Guns](https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx) | 4:41 |
+| 61 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 |
 | 62 | [Partner In Crime](https://open.spotify.com/track/6iuni8ZCs2mPeUfmCsZqsg) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Partner In Crime](https://open.spotify.com/album/6bt48pYHOYZUDHQLYZx01F) | 2:35 |
 | 63 | [Lupins In Blue](https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Lupins In Blue](https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc) | 3:46 |
 | 64 | [Bloody Mind](https://open.spotify.com/track/2nJFBUSQgTeLekXCkBzmDn) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Bloody Mind](https://open.spotify.com/album/3Oo7uuwStA88miudT3MInp) | 4:19 |

@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. <br/>Cover: juan karlos
+> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Adie
 
-215 songs - 13 hr 15 min
+217 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bagong Tradisyon](https://open.spotify.com/track/5H7dSVRGiOP7eRUz7qXu6o) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Bagong Tradisyon](https://open.spotify.com/album/6BJHujHabp4qnJfwvAmfqp) | 3:32 | 2024-01-24 | 2024-03-07 |
 | [Bawat Taon](https://open.spotify.com/track/6kYyxKJDpeGFwQTIdhIlpp) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Bawat Taon](https://open.spotify.com/album/27Uo3d3sLqClyT7tX9ooHQ) | 3:54 | 2024-01-24 | 2024-02-15 |
 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 | 2024-04-10 | 2024-08-08 |
+| [better than he does](https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [better than he does](https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF) | 2:33 | 2024-10-30 |  |
 | [Biglaan](https://open.spotify.com/track/7ru7FxWX5ZJ4Mdp3XakKPr) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Believe](https://open.spotify.com/album/3nBITHBcLyFHmoqN5yCP5J) | 2:53 | 2024-07-11 | 2024-08-08 |
 | [Binibini](https://open.spotify.com/track/3xj36WMIDSWRxfbasS4Pi8) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Binibini](https://open.spotify.com/album/1VGIRVQeee7pUEoAVAmhUp) | 2:34 | 2024-06-12 | 2024-07-04 |
 | [BLING](https://open.spotify.com/track/1K3WDnJwzEQUwH0YbuVlNo) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [BLING](https://open.spotify.com/album/4BEXEaGEDL1nUQIR0a3tat) | 2:28 | 2024-01-24 | 2024-02-22 |
@@ -57,6 +58,7 @@
 | [Foolish](https://open.spotify.com/track/6CBECmTOulQcPCw3ufGtNk) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [II: The second](https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw) | 3:44 | 2024-10-03 |  |
 | [FOOLISHLY](https://open.spotify.com/track/7Ei0sWKIjUA1Q5DlWAlhab) | [Lucas Miguel](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA), [Athena Gail](https://open.spotify.com/artist/7B2olqCA3cYn1IrKE13V5F) | [FOOLISHLY](https://open.spotify.com/album/7IawnKqyCJY4JXRp7PcQ0E) | 3:12 | 2024-05-08 | 2024-06-20 |
 | [Fruitcake \- From "Fruitcake"](https://open.spotify.com/track/6RMAZ62wCGBCoY7q86SkrH) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Fruitcake \(From "Fruitcake"\)](https://open.spotify.com/album/2Eb8N686jvzJXWjtF4kOZY) | 4:41 | 2024-06-20 | 2024-07-12 |
+| [FYP LUV](https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [FYP LUV](https://open.spotify.com/album/1fcU63rLWeNkwA3XErDgKc) | 3:38 | 2024-10-30 |  |
 | [Ganon ka rin?](https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Ganon ka rin?](https://open.spotify.com/album/5wz40XGa9q0pksUOPS6you) | 2:28 | 2024-03-06 | 2024-04-24 |
 | [Get Low](https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [Get Low](https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn) | 2:33 | 2024-01-24 | 2024-06-27 |
 | [Gitna](https://open.spotify.com/track/673iq8PwHzUQCSlbCtzPcq) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Gitna](https://open.spotify.com/album/052lYoydf0M5IFm6I7dkn8) | 4:42 | 2024-08-07 |  |
@@ -122,7 +124,7 @@
 | [Medyo Ako \(feat\. Moira Dela Torre\)](https://open.spotify.com/track/2iVloJhXpLh5eMat9VDMLG) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Sad Songs and Bullshit Part 2](https://open.spotify.com/album/6KnDwm1lo2DMu8PkpvnvAp) | 4:13 | 2024-06-26 |  |
 | [Mikasa](https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mikasa](https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq) | 4:13 | 2024-02-07 | 2024-05-02 |
 | [MINAHALAGAD](https://open.spotify.com/track/0k9bmRFeWAKCJm0OtIrbd1) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [MINAHALAGAD](https://open.spotify.com/album/1N6eO3cWQ1LXAJux7E21fD) | 4:11 | 2024-05-01 | 2024-06-01 |
-| [minsan](https://open.spotify.com/track/7sdJVKQdidTOIXHxjY9KqK) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [minsan](https://open.spotify.com/album/0UEnA632PuAMWkvPkwYqrP) | 3:21 | 2024-08-29 |  |
+| [minsan](https://open.spotify.com/track/7sdJVKQdidTOIXHxjY9KqK) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [minsan](https://open.spotify.com/album/0UEnA632PuAMWkvPkwYqrP) | 3:21 | 2024-08-29 | 2024-10-30 |
 | [Mirasol](https://open.spotify.com/track/7zLBGK5lDf5cnAA3ea4xR9) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Mirasol](https://open.spotify.com/album/4K1X6LZLGRSOXBBaGAqvft) | 3:27 | 2024-10-23 |  |
 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2024-01-24 | 2024-10-10 |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-05-24 |  |
@@ -135,7 +137,7 @@
 | [Naliligaw](https://open.spotify.com/track/5NtXzPfin1HBrIp8gsCxnn) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Naliligaw](https://open.spotify.com/album/4UvTQn49HBc2Y2JWqRbhLn) | 2:58 | 2024-08-07 | 2024-10-03 |
 | [Namimiss Ko Na](https://open.spotify.com/track/18wFxL02Zh3pqf3kFa1Dov) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Namimiss Ko Na](https://open.spotify.com/album/2RAnZVfNBkdjyysTuTq6rL) | 4:10 | 2024-03-20 | 2024-08-08 |
 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2024-09-04 |  |
-| [Nandito Na Ako](https://open.spotify.com/track/6Af7cKFcnabaS0WAILVS5g) | [Benj Pangilinan](https://open.spotify.com/artist/6zJwFsIO19JxvxUAveVAFa), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Nandito Na Ako](https://open.spotify.com/album/70S1f3uJouuxCigEVwOfPP) | 3:20 | 2024-06-26 |  |
+| [Nandito Na Ako](https://open.spotify.com/track/6Af7cKFcnabaS0WAILVS5g) | [Benj Pangilinan](https://open.spotify.com/artist/6zJwFsIO19JxvxUAveVAFa), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Nandito Na Ako](https://open.spotify.com/album/70S1f3uJouuxCigEVwOfPP) | 3:20 | 2024-06-26 | 2024-10-30 |
 | [Nandiyan Pa Ba? \(feat\. Josh Villena of Autotelic, Bayang Barrios & 6cyclemind kids\)](https://open.spotify.com/track/38TWELRTS1gCaGY1FFmrWN) | [6cyclemind](https://open.spotify.com/artist/3nZa8vRD64ueq3d0JNYTsl), [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Josh Villena of Autotelic](https://open.spotify.com/artist/5kRyaBz2TvIqlr32fA0mV9), [Bayang Barrios](https://open.spotify.com/artist/301vkLsUJgZZ05hWnT14YO), [6cyclemind kids](https://open.spotify.com/artist/44D5K6Tw3FnnRHOtgBczWC) | [Nandiyan Pa Ba? \(feat\. Josh Villena of Autotelic, Bayang Barrios & 6cyclemind kids\)](https://open.spotify.com/album/4hLbshQ7nWrmE70fY1q7bp) | 3:56 | 2024-03-20 | 2024-04-24 |
 | [Napagod Na](https://open.spotify.com/track/4UZdLLW8Pn5xPrvNdnZJQ4) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Napagod Na](https://open.spotify.com/album/5JMLaYvckd8WSXZnC2uLeN) | 2:27 | 2024-04-10 | 2024-06-06 |
 | [Nene](https://open.spotify.com/track/5d7Ymd1AVlmflKF2Sp780l) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Nene](https://open.spotify.com/album/3fNsuXJpYe0wEXB0Ept0pV) | 3:18 | 2024-03-27 | 2024-05-15 |
@@ -161,7 +163,7 @@
 | [Pantropiko](https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pantropiko](https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8) | 3:45 | 2024-02-28 | 2024-07-25 |
 | [PAPALAYO](https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [PAPALAYO](https://open.spotify.com/album/4th74t7vSm28kVsqVwb9ii) | 4:00 | 2024-05-15 | 2024-08-29 |
 | [Para Sa Akin](https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Para Sa Akin](https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU) | 3:17 | 2024-01-24 | 2024-05-09 |
-| [Paraya](https://open.spotify.com/track/5DDS1hu1GcEZppuArUcfUA) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Paraya](https://open.spotify.com/album/6Rlp7gO2NJv8YEDuCkBRWX) | 4:12 | 2024-09-11 |  |
+| [Paraya](https://open.spotify.com/track/5DDS1hu1GcEZppuArUcfUA) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Paraya](https://open.spotify.com/album/6Rlp7gO2NJv8YEDuCkBRWX) | 4:12 | 2024-09-11 | 2024-10-30 |
 | [PAREHAS TAYO](https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [PAREHAS TAYO](https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk) | 4:16 | 2024-01-24 | 2024-04-04 |
 | [Patintero](https://open.spotify.com/track/3nupCyAjgcopsWicJpGk6D) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Patintero](https://open.spotify.com/album/0Ig0ZylVO9YCmgrYeYOLbk) | 2:53 | 2024-02-14 | 2024-02-29 |
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2024-01-24 | 2024-02-08 |

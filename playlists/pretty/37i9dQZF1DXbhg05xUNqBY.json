@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 349087,
+  "num_followers": 349075,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Ever Closer",
-        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 232687,
-      "name": "Ever Closer",
-      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Keep On Hoping",
         "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 207440,
       "name": "Keep On Hoping - Piano Choir Version",
       "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Ever Closer",
+        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 232687,
+      "name": "Ever Closer",
+      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Is He Worthy?",
-        "url": "https://open.spotify.com/album/2ZqlzWmGSSipvkGg1TtIKw"
+        "name": "Praise (Acoustic)",
+        "url": "https://open.spotify.com/album/4I9rsSnnGg4sD0XmgdQMn8"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Is He Worthy?",
-      "url": "https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp"
+      "duration_ms": 215000,
+      "name": "Praise - Acoustic",
+      "url": "https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Praise (Acoustic)",
-        "url": "https://open.spotify.com/album/4I9rsSnnGg4sD0XmgdQMn8"
+        "name": "Is He Worthy?",
+        "url": "https://open.spotify.com/album/2ZqlzWmGSSipvkGg1TtIKw"
       },
       "artists": [
         {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Praise - Acoustic",
-      "url": "https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW"
+      "duration_ms": 282000,
+      "name": "Is He Worthy?",
+      "url": "https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Simple as That",
-        "url": "https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV"
-      },
-      "artists": [
-        {
-          "name": "Kevin Jones",
-          "url": "https://open.spotify.com/artist/3nU78mclpmN6Yv3m5mvTUL"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "The Thank You Song",
-      "url": "https://open.spotify.com/track/5jmz156BNGH5pqNQU1bAGz"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Simple as That",
+        "url": "https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV"
+      },
+      "artists": [
+        {
+          "name": "Kevin Jones",
+          "url": "https://open.spotify.com/artist/3nU78mclpmN6Yv3m5mvTUL"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "The Thank You Song",
+      "url": "https://open.spotify.com/track/5jmz156BNGH5pqNQU1bAGz"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1295,30 +1295,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "renatus",
-        "url": "https://open.spotify.com/album/47oj3EQYnWoREX9XGk6VI5"
-      },
-      "artists": [
-        {
-          "name": "Pathway",
-          "url": "https://open.spotify.com/artist/55zCZ6YQsPwCo027k4NiEY"
-        },
-        {
-          "name": "Larine Torikian",
-          "url": "https://open.spotify.com/artist/3aEJLtXh1RwlJWEaPhxBcW"
-        },
-        {
-          "name": "KEO",
-          "url": "https://open.spotify.com/artist/5mYW2du3O2QDUeE8ozsmZ2"
-        }
-      ],
-      "duration_ms": 289230,
-      "name": "It Is I",
-      "url": "https://open.spotify.com/track/6P9UJWpRBxVMdf3MFnUCxy"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "The Lord's Prayer",
         "url": "https://open.spotify.com/album/0k4Mkgx0J2qp0d4rupd2MM"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 294106,
       "name": "Certainly (Live)",
       "url": "https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "renatus",
+        "url": "https://open.spotify.com/album/47oj3EQYnWoREX9XGk6VI5"
+      },
+      "artists": [
+        {
+          "name": "Pathway",
+          "url": "https://open.spotify.com/artist/55zCZ6YQsPwCo027k4NiEY"
+        },
+        {
+          "name": "Larine Torikian",
+          "url": "https://open.spotify.com/artist/3aEJLtXh1RwlJWEaPhxBcW"
+        },
+        {
+          "name": "KEO",
+          "url": "https://open.spotify.com/artist/5mYW2du3O2QDUeE8ozsmZ2"
+        }
+      ],
+      "duration_ms": 289230,
+      "name": "It Is I",
+      "url": "https://open.spotify.com/track/6P9UJWpRBxVMdf3MFnUCxy"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
-      },
-      "artists": [
-        {
-          "name": "Matthews Ntlele",
-          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Abide with Me",
         "url": "https://open.spotify.com/album/2r0AErpMk2EvvqbNCLYl7Q"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 260894,
       "name": "Be Still, My Soul",
       "url": "https://open.spotify.com/track/08qfhtBomaGcFN9KLnbOoW"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
+      },
+      "artists": [
+        {
+          "name": "Matthews Ntlele",
+          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
     },
     {
       "added_at": "2024-07-26 09:52:44",

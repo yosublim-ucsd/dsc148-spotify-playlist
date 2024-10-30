@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Epik High\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,616 likes - 105 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,573 likes - 105 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

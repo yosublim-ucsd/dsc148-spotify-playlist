@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-570 songs - 1 day 6 hr 2 min
+571 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Machala](https://open.spotify.com/track/0cukQLqNf7Ac4AGehrRUlj) | [Carterefe](https://open.spotify.com/artist/7cB5IJo0SflSjFEMUq6EOD), [Berri tiga](https://open.spotify.com/artist/5jW7tz7f3EPcJFtdqTsVCL) | [Machala](https://open.spotify.com/album/0DohYufzYWLr8QnL5BypdI) | 2:34 | 2022-08-08 | 2022-09-18 |
 | [Machala](https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr) | 2:34 | 2022-08-08 | 2023-02-24 |
 | [Machala](https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I) | 2:34 | 2022-08-08 | 2022-09-11 |
+| [Mad](https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Diamond & Roses](https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf) | 2:39 | 2024-10-25 |  |
 | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 | 2022-08-25 | 2023-02-24 |
 | [Makoma](https://open.spotify.com/track/2rnggPpQaIIfH2jlAjluqn) | [Becca](https://open.spotify.com/artist/6vMTJy1XlG5FzAuuSLLTAX) | [Makoma](https://open.spotify.com/album/27Nr3Bf2wlj1pyPLNodfA5) | 3:07 | 2024-03-22 | 2024-04-26 |
 | [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 | 2024-07-19 |  |
@@ -512,7 +513,7 @@
 | [Thy Grace](https://open.spotify.com/track/5mr9USRpDKJdryweH8mBFy) | [Kwesi Taadi](https://open.spotify.com/artist/5cwOSWuUV5wpdx7FmxRuVw), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Day & Night Nonstop](https://open.spotify.com/album/1kh4dliJ5soTkDpUN7kxup) | 2:35 | 2024-07-12 | 2024-08-30 |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-10-27 |  |
 | [Time To Love Again](https://open.spotify.com/track/0LaCgmzJqzWymrvuXrimkd) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Time To Love Again](https://open.spotify.com/album/4DkV7VjFbEg0n4AsHVLtz9) | 2:35 | 2024-02-09 | 2024-02-23 |
-| [Ting Ting](https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Ting Ting](https://open.spotify.com/album/5SovjJsCQZwm4zGoVCq2TK) | 3:02 | 2024-02-23 |  |
+| [Ting Ting](https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Ting Ting](https://open.spotify.com/album/5SovjJsCQZwm4zGoVCq2TK) | 3:02 | 2024-02-23 | 2024-10-30 |
 | [Tinkerbell \(feat\. Wizkid\)](https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:03 | 2022-06-09 | 2022-08-26 |
 | [Tonight](https://open.spotify.com/track/0jrrN6kKCysmUKzoZbQQHe) | [Chayuta](https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r) | [Tonight](https://open.spotify.com/album/4ZWp72PakTO0Dcx9q1o2kM) | 3:43 | 2023-09-09 | 2023-09-15 |
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 | 2023-10-20 | 2024-07-12 |

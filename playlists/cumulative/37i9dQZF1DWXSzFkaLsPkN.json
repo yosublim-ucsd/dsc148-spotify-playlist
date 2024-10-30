@@ -927,6 +927,36 @@
     },
     {
       "album": {
+        "name": "Falak",
+        "url": "https://open.spotify.com/album/4yf5coqfiRHGShTIhLbwwx"
+      },
+      "artists": [
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        },
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        },
+        {
+          "name": "Kutle Khan",
+          "url": "https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE"
+        },
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205263,
+      "name": "Falak",
+      "url": "https://open.spotify.com/track/2GkmxOZ0hrTk3ey6fqtgSS"
+    },
+    {
+      "album": {
         "name": "Feel You Now",
         "url": "https://open.spotify.com/album/1QjVRLJLQ3wM1RY9AznBlC"
       },
@@ -1528,7 +1558,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 131578,
       "name": "Jaane Hi Do",
       "url": "https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY"

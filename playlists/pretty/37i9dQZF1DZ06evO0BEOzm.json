@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 288493,
+  "num_followers": 288570,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAC19zkXZc7zUWsQT7EKhsmb",
+  "snapshot_id": "Zx7UAAAAAAC+yrta0eHIcwHtZZS//jtA",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HISS",
-        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+      "duration_ms": 191711,
+      "name": "Where Them Girls At",
+      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 191711,
-      "name": "Where Them Girls At",
-      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinite Icon",
-        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
+        "name": "Tina Snow",
+        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
       },
       "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 175666,
-      "name": "BBA (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf"
+      "duration_ms": 222752,
+      "name": "Cognac Queen",
+      "url": "https://open.spotify.com/track/2GbS8QZToLioxL8XMEwX3P"
     },
     {
       "added_at": null,
@@ -615,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tina Snow",
-        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
+        "name": "Infinite Icon",
+        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
       },
       "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 222752,
-      "name": "Cognac Queen",
-      "url": "https://open.spotify.com/track/2GbS8QZToLioxL8XMEwX3P"
+      "duration_ms": 175666,
+      "name": "BBA (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf"
     },
     {
       "added_at": null,

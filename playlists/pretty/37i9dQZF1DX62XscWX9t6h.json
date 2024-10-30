@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 190387,
+  "num_followers": 190458,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/5hHiaNGhCIBVXbtKh5qJKy"
     },
     {
-      "added_at": "2024-03-21 23:16:10",
-      "album": {
-        "name": "Sonido C\u00f3smico",
-        "url": "https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 223427,
-      "name": "Sonido C\u00f3smico",
-      "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
-    },
-    {
       "added_at": "2023-11-23 03:51:02",
       "album": {
         "name": "False Lankum",
@@ -463,6 +447,22 @@
       "duration_ms": 518745,
       "name": "Go Dig My Grave",
       "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
+    },
+    {
+      "added_at": "2024-03-21 23:16:10",
+      "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 223427,
+      "name": "Sonido C\u00f3smico",
+      "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -481,20 +481,20 @@
       "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
     },
     {
-      "added_at": "2022-09-15 12:52:37",
+      "added_at": "2022-12-29 18:51:03",
       "album": {
-        "name": "Yahudky",
-        "url": "https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm"
+        "name": "Tayyara Warak (Habibi Funk 023)",
+        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
       },
       "artists": [
         {
-          "name": "DakhaBrakha",
-          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
         }
       ],
-      "duration_ms": 228200,
-      "name": "\u0428\u043e \u0437-\u043f\u043e\u0434 \u0434\u0443\u0431\u0430",
-      "url": "https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD"
+      "duration_ms": 168097,
+      "name": "Tayyara Warak",
+      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
     },
     {
       "added_at": "2024-10-04 18:12:23",
@@ -513,20 +513,20 @@
       "url": "https://open.spotify.com/track/6YBVe0j9lzPnFWCIltIfV4"
     },
     {
-      "added_at": "2022-12-29 18:51:03",
+      "added_at": "2022-09-15 12:52:37",
       "album": {
-        "name": "Tayyara Warak (Habibi Funk 023)",
-        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
+        "name": "Yahudky",
+        "url": "https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm"
       },
       "artists": [
         {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+          "name": "DakhaBrakha",
+          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
         }
       ],
-      "duration_ms": 168097,
-      "name": "Tayyara Warak",
-      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
+      "duration_ms": 228200,
+      "name": "\u0428\u043e \u0437-\u043f\u043e\u0434 \u0434\u0443\u0431\u0430",
+      "url": "https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD"
     },
     {
       "added_at": "2022-08-31 03:53:27",
@@ -565,6 +565,22 @@
       "url": "https://open.spotify.com/track/3uKyFQLFROMWoaNAVQ7Mw4"
     },
     {
+      "added_at": "2023-11-23 03:51:02",
+      "album": {
+        "name": "The Livelong Day",
+        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 331500,
+      "name": "Bear Creek",
+      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "On te l'avait dit",
@@ -599,22 +615,6 @@
       "duration_ms": 273058,
       "name": "Parev' Ajere",
       "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
-    },
-    {
-      "added_at": "2023-11-23 03:51:02",
-      "album": {
-        "name": "The Livelong Day",
-        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 331500,
-      "name": "Bear Creek",
-      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
     },
     {
       "added_at": "2023-05-25 23:48:57",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
     },
     {
-      "added_at": "2024-07-05 04:27:37",
-      "album": {
-        "name": "Letter to the Martyrs",
-        "url": "https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5"
-      },
-      "artists": [
-        {
-          "name": "cacique'97",
-          "url": "https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc"
-        }
-      ],
-      "duration_ms": 254291,
-      "name": "Letter to the Martyrs",
-      "url": "https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Nomad",
@@ -719,6 +703,22 @@
       "duration_ms": 614363,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
+    },
+    {
+      "added_at": "2024-07-05 04:27:37",
+      "album": {
+        "name": "Letter to the Martyrs",
+        "url": "https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5"
+      },
+      "artists": [
+        {
+          "name": "cacique'97",
+          "url": "https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc"
+        }
+      ],
+      "duration_ms": 254291,
+      "name": "Letter to the Martyrs",
+      "url": "https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M"
     },
     {
       "added_at": "2023-11-23 03:51:02",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
     },
     {
-      "added_at": "2024-04-30 04:28:31",
-      "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 134720,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
-    },
-    {
       "added_at": "2023-12-12 21:18:55",
       "album": {
         "name": "False Lankum",
@@ -871,6 +855,22 @@
       "duration_ms": 343000,
       "name": "Newcastle",
       "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
+    },
+    {
+      "added_at": "2024-04-30 04:28:31",
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 134720,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
     },
     {
       "added_at": "2023-12-05 16:22:29",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/2tZdXtAjgCIzgGwSFafmc6"
     },
     {
-      "added_at": "2022-11-17 21:26:17",
-      "album": {
-        "name": "Whaya",
-        "url": "https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 226404,
-      "name": "Whaya",
-      "url": "https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s"
-    },
-    {
       "added_at": "2022-02-23 18:02:26",
       "album": {
         "name": "No. 1",
@@ -935,6 +919,22 @@
       "duration_ms": 351374,
       "name": "Agrim Agadez",
       "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
+    },
+    {
+      "added_at": "2022-11-17 21:26:17",
+      "album": {
+        "name": "Whaya",
+        "url": "https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 226404,
+      "name": "Whaya",
+      "url": "https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1217,6 +1217,22 @@
       "url": "https://open.spotify.com/track/7kSRBKkO3wgFGNsRqlDkNE"
     },
     {
+      "added_at": "2024-07-05 04:21:21",
+      "album": {
+        "name": "Flying Gambus",
+        "url": "https://open.spotify.com/album/46N31e5QdqUOePt8ZidxQm"
+      },
+      "artists": [
+        {
+          "name": "Suarasama",
+          "url": "https://open.spotify.com/artist/6AvehMD3el7PEcNRqJ7uV2"
+        }
+      ],
+      "duration_ms": 475000,
+      "name": "Flying Gambus",
+      "url": "https://open.spotify.com/track/60x7wPkVFWvzszwb8KGVMq"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Cera Perdida",
@@ -1231,22 +1247,6 @@
       "duration_ms": 189892,
       "name": "Jaley Jaley",
       "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
-      "added_at": "2024-05-02 19:57:04",
-      "album": {
-        "name": "Correspondances",
-        "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "\u30a2\u30c0\u30f3\u306e\u6d77\u8fba",
-      "url": "https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND"
     },
     {
       "added_at": "2024-08-21 02:36:12",
@@ -1269,6 +1269,22 @@
       "url": "https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z"
     },
     {
+      "added_at": "2024-05-02 19:57:04",
+      "album": {
+        "name": "Correspondances",
+        "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "\u30a2\u30c0\u30f3\u306e\u6d77\u8fba",
+      "url": "https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND"
+    },
+    {
       "added_at": "2022-02-12 05:45:19",
       "album": {
         "name": "Batuco",
@@ -1289,22 +1305,6 @@
       "url": "https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7"
     },
     {
-      "added_at": "2024-08-23 01:32:57",
-      "album": {
-        "name": "Mundos",
-        "url": "https://open.spotify.com/album/2E1q2kNAbytUBGX8BnhlVc"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 320867,
-      "name": "Colibr\u00ed",
-      "url": "https://open.spotify.com/track/6pf8ABR2faeam4mHimI0rV"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Unconscious Collective",
@@ -1319,6 +1319,22 @@
       "duration_ms": 353965,
       "name": "Makeda",
       "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
+    },
+    {
+      "added_at": "2024-08-23 01:32:57",
+      "album": {
+        "name": "Mundos",
+        "url": "https://open.spotify.com/album/2E1q2kNAbytUBGX8BnhlVc"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 320867,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/6pf8ABR2faeam4mHimI0rV"
     },
     {
       "added_at": "2024-08-21 02:38:50",
@@ -1337,38 +1353,6 @@
       "url": "https://open.spotify.com/track/7JroVEowA4Wpb1sfgPl4xa"
     },
     {
-      "added_at": "2024-08-16 20:12:56",
-      "album": {
-        "name": "Metropolis",
-        "url": "https://open.spotify.com/album/0qCFJreQmYWvUUJjWos6eP"
-      },
-      "artists": [
-        {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/5fXOgsysYHIOKh3lT7qQWG"
-    },
-    {
-      "added_at": "2024-07-05 04:21:21",
-      "album": {
-        "name": "Flying Gambus",
-        "url": "https://open.spotify.com/album/46N31e5QdqUOePt8ZidxQm"
-      },
-      "artists": [
-        {
-          "name": "Suarasama",
-          "url": "https://open.spotify.com/artist/6AvehMD3el7PEcNRqJ7uV2"
-        }
-      ],
-      "duration_ms": 475000,
-      "name": "Flying Gambus",
-      "url": "https://open.spotify.com/track/60x7wPkVFWvzszwb8KGVMq"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Zan",
@@ -1383,6 +1367,22 @@
       "duration_ms": 216640,
       "name": "Bia Bia",
       "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
+    },
+    {
+      "added_at": "2024-08-16 20:12:56",
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0qCFJreQmYWvUUJjWos6eP"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/5fXOgsysYHIOKh3lT7qQWG"
     },
     {
       "added_at": "2023-07-19 02:50:55",
@@ -1479,26 +1479,6 @@
       "duration_ms": 241157,
       "name": "Nautilus",
       "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
-    },
-    {
-      "added_at": "2024-04-23 00:54:49",
-      "album": {
-        "name": "OH WAH (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1"
-      },
-      "artists": [
-        {
-          "name": "Blinky Bill",
-          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 205485,
-      "name": "OH WAH (feat. NATURE)",
-      "url": "https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I"
     },
     {
       "added_at": "2022-11-25 01:28:32",
@@ -1601,6 +1581,26 @@
       "url": "https://open.spotify.com/track/10W29dzZ0hjJbf4SvCSQw2"
     },
     {
+      "added_at": "2024-04-23 00:54:49",
+      "album": {
+        "name": "OH WAH (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 205485,
+      "name": "OH WAH (feat. NATURE)",
+      "url": "https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I"
+    },
+    {
       "added_at": "2024-02-02 05:27:19",
       "album": {
         "name": "Nomad",
@@ -1653,6 +1653,22 @@
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
     },
     {
+      "added_at": "2023-07-24 17:57:15",
+      "album": {
+        "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
+        "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Chez Mounir",
+      "url": "https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod"
+    },
+    {
       "added_at": "2022-08-31 05:20:13",
       "album": {
         "name": "Ghibli",
@@ -1685,36 +1701,24 @@
       "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
-      "added_at": "2023-07-24 17:57:15",
+      "added_at": "2022-03-28 18:17:41",
       "album": {
-        "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
-        "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
+        "name": "Udhero Na",
+        "url": "https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe"
       },
       "artists": [
         {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Chez Mounir",
-      "url": "https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod"
-    },
-    {
-      "added_at": "2024-03-16 00:35:40",
-      "album": {
-        "name": "Prieta",
-        "url": "https://open.spotify.com/album/61E1gQjfzU3KQLiG9cwaN7"
-      },
-      "artists": [
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
         {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Prieta",
-      "url": "https://open.spotify.com/track/6kpideEiqhWKQ82AuaCpSZ"
+      "duration_ms": 303361,
+      "name": "Udhero Na feat. Anoushka Shankar",
+      "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
     }
   ],
   "unique_name": "Folk Fabrique",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,136,175 likes - 75 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,136,936 likes - 75 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 42 | [Jeová Jireh](https://open.spotify.com/track/0cEUrAqLYJafXksIpIBov4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jeová Jireh](https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse) | 6:30 |
 | 43 | [Jó](https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:11 |
 | 44 | [Tu és Poderoso \- Ao Vivo](https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tu és Poderoso \(Ao Vivo\)](https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP) | 10:29 |
-| 45 | [Vem Me Buscar \- Ao Vivo](https://open.spotify.com/track/0bMAWV9DDN2fllpvCtpzWl) | [Jeppa](https://open.spotify.com/artist/3Ls1UtrZPJYSzWe1mCgrG1), [Qua](https://open.spotify.com/artist/6uGa7tsSk4HB0S4Yl9sO1k) | [Vem Me Buscar \(Ao Vivo\)](https://open.spotify.com/album/1IKD5Kb7LNGNo4D14yjinQ) | 6:58 |
+| 45 | [Vem Me Buscar \- Ao Vivo](https://open.spotify.com/track/0bMAWV9DDN2fllpvCtpzWl) | [yeixs](https://open.spotify.com/artist/51hQ28H5BjnESK2nUoloVC), [Yaareza](https://open.spotify.com/artist/5DnzOTgxlT5HKaDjEFS5At), [Voania](https://open.spotify.com/artist/59h8YvmbeayGmsf3yXWC7c), [M4RLBORO](https://open.spotify.com/artist/7d4t6iQ96DSuN1JPhChNMd) | [Vem Me Buscar \(Ao Vivo\)](https://open.spotify.com/album/1IKD5Kb7LNGNo4D14yjinQ) | 6:58 |
 | 46 | [Era Deus](https://open.spotify.com/track/7FCZXSFH10ZcwgaGKXaDYj) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Era Deus](https://open.spotify.com/album/5qUCNqOs1lbiZmiizjYBwp) | 4:45 |
 | 47 | [Quem é Como Nosso Deus?](https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Quem é Como Nosso Deus?](https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni) | 8:09 |
 | 48 | [Restitui \- Ao Vivo](https://open.spotify.com/track/0NJuAF3mbH1EL3d8WAJ7Ra) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Restitui \(ao Vivo\)](https://open.spotify.com/album/3jKdDH1635WQtIUD52qCvp) | 4:17 |

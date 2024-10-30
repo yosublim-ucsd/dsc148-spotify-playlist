@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 
 > Najlepsze polskie przeboje 2023 roku\. Cover: Daria Zawiałow \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,160 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,152 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 | 15 | [Jesień – Tańcuj](https://open.spotify.com/track/4Pugt57DqpMR8A0Nstpd2z) | [L.U.C.](https://open.spotify.com/artist/1GRpnNhXWlNMgnFf3NqEjv), [Rebel Babel Film Orchestra](https://open.spotify.com/artist/15YEBTmw6GtgzijvG84ynv), [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Dagadana](https://open.spotify.com/artist/7JVB1NU2XgRA0lViT3HPrt), [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l), [Tęgie Chłopy](https://open.spotify.com/artist/5VqhAnuP1aw5jeRZV4Gi4U) | [Chłopi \(Original Soundtrack\)](https://open.spotify.com/album/4bNiBmPncdmzzWdeUSs7DF) | 4:40 |
 | 16 | [To Co Mam](https://open.spotify.com/track/72ifNpa6S8OAaJQVMbF8V5) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 3:13 |
 | 17 | [Krakowski Spleen](https://open.spotify.com/track/63NqA1azM8ogGsJa7tFCRg) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Robert Wiewióra](https://open.spotify.com/artist/2maqo0I7n0YWoX1332xVCN) | [Krakowski Spleen](https://open.spotify.com/album/719yxC0LprzFMZo8YARL1W) | 3:03 |
-| 18 | [Moment](https://open.spotify.com/track/5TpDEu4GCYzGeYIKh1dcPB) | [Anastazja Maciąg](https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3), [Questy](https://open.spotify.com/artist/1WKmwWWtp0Q0rXHKeAYTN2) | [Moment](https://open.spotify.com/album/78ZPtJ6ZYyXTPYrDWcsvJN) | 2:24 |
+| 18 | [Moment](https://open.spotify.com/track/5TpDEu4GCYzGeYIKh1dcPB) | [Anastazja Maciąg](https://open.spotify.com/artist/4e6qEkTfjFh2BCbCfEOmUg), [Questy](https://open.spotify.com/artist/1WKmwWWtp0Q0rXHKeAYTN2) | [Moment](https://open.spotify.com/album/78ZPtJ6ZYyXTPYrDWcsvJN) | 2:24 |
 | 19 | [Niech mówią](https://open.spotify.com/track/40qD9qMnp7tmYJeNfncjiv) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Niech mówią](https://open.spotify.com/album/0tYj94tcXmYtVwTE2IL0gY) | 2:40 |
 | 20 | [BANG BANG](https://open.spotify.com/track/7FGcZ3rvyUcqtz4dKpRvb0) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [BANG BANG](https://open.spotify.com/album/63RX5TKKeHHYXjxJ0xLmbd) | 3:31 |
 | 21 | [Stan](https://open.spotify.com/track/33FD8jBm5LZaQ2jJS3vXzm) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [SAFE](https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c) | 3:01 |

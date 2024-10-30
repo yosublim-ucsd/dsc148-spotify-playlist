@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 136652,
+  "num_followers": 136711,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Reimagined",
-        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
-      },
-      "artists": [
-        {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
-        }
-      ],
-      "duration_ms": 262173,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/1OlxI4JNTDvYQRiC9P2rHg"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 197146,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Reimagined",
+        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
+      },
+      "artists": [
+        {
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+        }
+      ],
+      "duration_ms": 262173,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/1OlxI4JNTDvYQRiC9P2rHg"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 285719,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "Don't Know Why",
         "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 232253,
       "name": "You've Got a Friend in Me",
       "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 285719,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Champagne & Declarations",
-        "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
+        "name": "Everybody Loves Angels",
+        "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
       "artists": [
         {
-          "name": "Nicole Zuraitis",
-          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
-        },
-        {
-          "name": "Thana Alexa",
-          "url": "https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV"
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
         }
       ],
-      "duration_ms": 277411,
-      "name": "Walk On The Wildside",
-      "url": "https://open.spotify.com/track/7FTnotwGzyx6fdVYfkxuTT"
+      "duration_ms": 320460,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1087,18 +1083,46 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Everybody Loves Angels",
-        "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
+        "name": "Champagne & Declarations",
+        "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
       },
       "artists": [
         {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+          "name": "Nicole Zuraitis",
+          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
+        },
+        {
+          "name": "Thana Alexa",
+          "url": "https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV"
         }
       ],
-      "duration_ms": 320460,
-      "name": "Morning Has Broken",
-      "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
+      "duration_ms": 277411,
+      "name": "Walk On The Wildside",
+      "url": "https://open.spotify.com/track/7FTnotwGzyx6fdVYfkxuTT"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "A Modern Songbook",
+        "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
+      },
+      "artists": [
+        {
+          "name": "William Withers",
+          "url": "https://open.spotify.com/artist/5pBACm8DbZ0ewugKBwgbrZ"
+        },
+        {
+          "name": "Thomas Enhco",
+          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
+        },
+        {
+          "name": "St\u00e9phane Kerecki",
+          "url": "https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "Lean on Me - Live",
+      "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1151,30 +1175,6 @@
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "A Modern Songbook",
-        "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
-      },
-      "artists": [
-        {
-          "name": "William Withers",
-          "url": "https://open.spotify.com/artist/5pBACm8DbZ0ewugKBwgbrZ"
-        },
-        {
-          "name": "Thomas Enhco",
-          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
-        },
-        {
-          "name": "St\u00e9phane Kerecki",
-          "url": "https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B"
-        }
-      ],
-      "duration_ms": 265546,
-      "name": "Lean on Me - Live",
-      "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8"
-      },
-      "artists": [
-        {
-          "name": "Meadowpoints",
-          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
-        }
-      ],
-      "duration_ms": 233625,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Technically Acceptable",
         "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 230389,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8"
+      },
+      "artists": [
+        {
+          "name": "Meadowpoints",
+          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
+        }
+      ],
+      "duration_ms": 233625,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf"
+      },
+      "artists": [
+        {
+          "name": "Max Haymer",
+          "url": "https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP"
+        }
+      ],
+      "duration_ms": 369876,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "With a Little Help from My Friends",
         "url": "https://open.spotify.com/album/2ZZYwV5bwFEPqKKg5MvHkG"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 273946,
       "name": "With a Little Help from My Friends",
       "url": "https://open.spotify.com/track/0ERlVIKsXiZvr3Ijj5IgEA"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Optimistic",
-        "url": "https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf"
-      },
-      "artists": [
-        {
-          "name": "Max Haymer",
-          "url": "https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP"
-        }
-      ],
-      "duration_ms": 369876,
-      "name": "Optimistic",
-      "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Ships With Tattooed Sails",
+        "url": "https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9"
+      },
+      "artists": [
+        {
+          "name": "Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat",
+          "url": "https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP"
+        }
+      ],
+      "duration_ms": 390613,
+      "name": "It's Alright Ma (I'm Only Bleeding)",
+      "url": "https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6MdJLoigLIOtMEHh3a4XcO"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 552186,
       "name": "Masters Of War",
       "url": "https://open.spotify.com/track/4cOFrivheYAhrEppNAWMW7"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Ships With Tattooed Sails",
-        "url": "https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9"
-      },
-      "artists": [
-        {
-          "name": "Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat",
-          "url": "https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP"
-        }
-      ],
-      "duration_ms": 390613,
-      "name": "It's Alright Ma (I'm Only Bleeding)",
-      "url": "https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu"
     },
     {
       "added_at": "2024-06-13 12:46:03",

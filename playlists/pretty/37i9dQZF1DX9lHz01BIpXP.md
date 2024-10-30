@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,014 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,016 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 30 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 |
 | 31 | [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 |
 | 32 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |
-| 33 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 |
-| 34 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
+| 33 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
+| 34 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 |
 | 35 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
-| 36 | [Is Dope](https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL) | [Hemelbesem](https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds), [Stuwi W](https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ) | [Evil Is Nogsteeds Maklik](https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX) | 5:09 |
-| 37 | [Dinge](https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Dinge](https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB) | 2:12 |
+| 36 | [Dinge](https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Dinge](https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB) | 2:12 |
+| 37 | [Is Dope](https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL) | [Hemelbesem](https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds), [Stuwi W](https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ) | [Evil Is Nogsteeds Maklik](https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX) | 5:09 |
 | 38 | [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 |
 | 39 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
 | 40 | [DIE LANIE](https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1) | [Madgas](https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH) | [DIE LANIE](https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe) | 2:43 |

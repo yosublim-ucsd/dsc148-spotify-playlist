@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 630953,
+  "num_followers": 631007,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAB66t6O81KIpYLeW4DiVOnS",
+  "snapshot_id": "Zx7UAAAAAABcPC9TCXyHnsvvG8Komh9Y",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only the Strong Survive",
-        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Do I Love You (Indeed I Do)",
-      "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 261826,
       "name": "One Step Up",
       "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "Do I Love You (Indeed I Do)",
+      "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrecking Ball",
-        "url": "https://open.spotify.com/album/75kN1qUWvE10QcnpE6nEsM"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 347600,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/4LKlmGTWGY8SHfIw0c9jQu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Letter To You",
         "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 245840,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/1LQDe2LxhReHitq7sdgLcN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/75kN1qUWvE10QcnpE6nEsM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 347600,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/4LKlmGTWGY8SHfIw0c9jQu"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "One Minute You're Here",
+      "url": "https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dustland (feat. Bruce Springsteen)",
         "url": "https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 264507,
       "name": "Dustland (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Letter To You",
-        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 177840,
-      "name": "One Minute You're Here",
-      "url": "https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf"
     }
   ],
   "unique_name": "This Is Bruce Springsteen",

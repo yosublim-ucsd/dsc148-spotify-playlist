@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Analog Balaton",
-  "num_followers": 13830,
+  "num_followers": 13837,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
+        "name": "Menj",
+        "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 227391,
+      "name": "Menj",
+      "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
         "name": "B\u00e1ty\u00e1m, Dod\u00f3 - A Film",
         "url": "https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 174957,
       "name": "T\u00e1rsas\u00e1gban",
       "url": "https://open.spotify.com/track/3vyz0Lh32tXc98nbzZgWat"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
-        "name": "Menj",
-        "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 227391,
-      "name": "Menj",
-      "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "Holnapt\u00f3l",
-        "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
-      },
-      "artists": [
-        {
-          "name": "Moln\u00e1r Tam\u00e1s",
-          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
-        },
-        {
-          "name": "Filo",
-          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Holnapt\u00f3l",
-      "url": "https://open.spotify.com/track/0e3U5Dd7IMcMAamZn4C9eK"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
         "name": "Hull\u00f3csillag",
         "url": "https://open.spotify.com/album/6PdCoLIgZmQCImlOuCsvfI"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 198947,
       "name": "Hull\u00f3csillag",
       "url": "https://open.spotify.com/track/4DGAgKKi6DBuztTTbnHE63"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "Holnapt\u00f3l",
+        "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
+      },
+      "artists": [
+        {
+          "name": "Moln\u00e1r Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
+        },
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Holnapt\u00f3l",
+      "url": "https://open.spotify.com/track/0e3U5Dd7IMcMAamZn4C9eK"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -787,38 +787,18 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "Sehovaval\u00f3",
-        "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
+        "name": "M\u00e9g Egyszer",
+        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
       },
       "artists": [
         {
-          "name": "Moln\u00e1r Tam\u00e1s",
-          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
-        },
-        {
-          "name": "L\u00e1bas Viki",
-          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
         }
       ],
-      "duration_ms": 174529,
-      "name": "Sehovaval\u00f3",
-      "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
-        "name": "Soha",
-        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
-      },
-      "artists": [
-        {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
-        }
-      ],
-      "duration_ms": 212432,
-      "name": "Soha",
-      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
+      "duration_ms": 198352,
+      "name": "M\u00e9g Egyszer",
+      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -839,18 +819,38 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "M\u00e9g Egyszer",
-        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
+        "name": "Soha",
+        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
       },
       "artists": [
         {
-          "name": "B. Nagy R\u00e9ka",
-          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
         }
       ],
-      "duration_ms": 198352,
-      "name": "M\u00e9g Egyszer",
-      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
+      "duration_ms": 212432,
+      "name": "Soha",
+      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "Sehovaval\u00f3",
+        "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
+      },
+      "artists": [
+        {
+          "name": "Moln\u00e1r Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
+        },
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "duration_ms": 174529,
+      "name": "Sehovaval\u00f3",
+      "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
+      },
+      "artists": [
+        {
+          "name": "Kov\u00e1cs Harmat",
+          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
         "name": "024",
         "url": "https://open.spotify.com/album/2SOLffWVX0HiKfHHWAIpAb"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 211636,
       "name": "024",
       "url": "https://open.spotify.com/track/4cUIRhXmcBsI3JdP18Ld8f"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
-      },
-      "artists": [
-        {
-          "name": "Kov\u00e1cs Harmat",
-          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "KEIKO",
-        "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
+        "name": "Ahogy szeretn\u00e9m",
+        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
       },
       "artists": [
         {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+          "name": "KACAJ",
+          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
         }
       ],
-      "duration_ms": 302538,
-      "name": "Bez\u00e1rul",
-      "url": "https://open.spotify.com/track/25DDjxsLkZzWvJkodzPF8s"
+      "duration_ms": 214857,
+      "name": "Ahogy szeretn\u00e9m",
+      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "Ahogy szeretn\u00e9m",
-        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
+        "name": "KEIKO",
+        "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
       },
       "artists": [
         {
-          "name": "KACAJ",
-          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
         }
       ],
-      "duration_ms": 214857,
-      "name": "Ahogy szeretn\u00e9m",
-      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
+      "duration_ms": 302538,
+      "name": "Bez\u00e1rul",
+      "url": "https://open.spotify.com/track/25DDjxsLkZzWvJkodzPF8s"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
+        "name": "kurvanagy ???",
+        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "kurvanagy ???",
+      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
         "name": "Egy popzen\u00e9sz nyara",
         "url": "https://open.spotify.com/album/4OXvRvtNI7iw9nj47ykx5R"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "kurvanagy ???",
-        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "kurvanagy ???",
-      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
         "name": "BOLDOGOK VAGYUNK-E",
         "url": "https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp"
       },
@@ -1303,38 +1303,6 @@
       "duration_ms": 181840,
       "name": "Boldogok vagyunk-e",
       "url": "https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
-        "name": "J\u00f6v\u0151tlen",
-        "url": "https://open.spotify.com/album/56lAb6CHWL3KYLQdf05pAT"
-      },
-      "artists": [
-        {
-          "name": "Hang\u00e1csi M\u00e1rton",
-          "url": "https://open.spotify.com/artist/4JyE85JOW4QRzvUaJqQciU"
-        }
-      ],
-      "duration_ms": 137261,
-      "name": "J\u00f6v\u0151tlen",
-      "url": "https://open.spotify.com/track/0P5tXx04B1cB02LDYOaLn3"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
-        "name": "Still Dreamin'",
-        "url": "https://open.spotify.com/album/68NLCJBXQCfpp3Y8TsRg8F"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6rk",
-          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
-        }
-      ],
-      "duration_ms": 193087,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/5xIGCCx2sut6CkZkqFTQ05"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1355,6 +1323,38 @@
       "duration_ms": 242803,
       "name": "Engem szeretni neh\u00e9z",
       "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "Still Dreamin'",
+        "url": "https://open.spotify.com/album/68NLCJBXQCfpp3Y8TsRg8F"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6rk",
+          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
+        }
+      ],
+      "duration_ms": 193087,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/5xIGCCx2sut6CkZkqFTQ05"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "J\u00f6v\u0151tlen",
+        "url": "https://open.spotify.com/album/56lAb6CHWL3KYLQdf05pAT"
+      },
+      "artists": [
+        {
+          "name": "Hang\u00e1csi M\u00e1rton",
+          "url": "https://open.spotify.com/artist/4JyE85JOW4QRzvUaJqQciU"
+        }
+      ],
+      "duration_ms": 137261,
+      "name": "J\u00f6v\u0151tlen",
+      "url": "https://open.spotify.com/track/0P5tXx04B1cB02LDYOaLn3"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "Nekedval\u00f3s\u00e1g",
-        "url": "https://open.spotify.com/album/6LnlDFhGowcmBR0t2xaPjS"
+        "name": "Megbolond\u00edtott\u00e1l",
+        "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
       },
       "artists": [
         {
-          "name": "New Level Empire",
-          "url": "https://open.spotify.com/artist/36qy5nRn7h7rrHuphonJ6y"
-        },
-        {
-          "name": "D\u00e9r Heni",
-          "url": "https://open.spotify.com/artist/295TDfZZwfEJHEjtKQpOhP"
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Nekedval\u00f3s\u00e1g",
-      "url": "https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi"
+      "duration_ms": 198665,
+      "name": "Megbolond\u00edtott\u00e1l",
+      "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
     }
   ],
   "unique_name": "Nemazapop",

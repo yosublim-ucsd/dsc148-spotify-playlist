@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 25882,
+  "num_followers": 25888,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAACAH4L6M61KMmDXfyADs39t",
+  "snapshot_id": "Zx7UAAAAAAAMmSEaYc+jnebGZWpu3PiS",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apartamento Tres",
-        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 179373,
-      "name": "El Caim\u00e1n",
-      "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
+      "duration_ms": 158573,
+      "name": "Trigue\u00f1ita De Ojos Negros",
+      "url": "https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 158573,
-      "name": "Trigue\u00f1ita De Ojos Negros",
-      "url": "https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng"
+      "duration_ms": 179373,
+      "name": "El Caim\u00e1n",
+      "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 125133,
-      "name": "El Conejito",
-      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
+      "duration_ms": 171080,
+      "name": "Aprend\u00ed Contigo",
+      "url": "https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 171080,
-      "name": "Aprend\u00ed Contigo",
-      "url": "https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932"
+      "duration_ms": 125133,
+      "name": "El Conejito",
+      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
     },
     {
       "added_at": null,

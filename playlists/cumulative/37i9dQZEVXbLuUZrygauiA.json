@@ -1265,6 +1265,28 @@
     },
     {
       "album": {
+        "name": "Abran Paso",
+        "url": "https://open.spotify.com/album/4pMFJL9AAor8UG0uAkIbl5"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236002,
+      "name": "Abran Paso",
+      "url": "https://open.spotify.com/track/5ryLHMXzsxUdtThQ9gyxXr"
+    },
+    {
+      "album": {
         "name": "ABRE LAS PATOTAS",
         "url": "https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI"
       },
@@ -5594,7 +5616,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 181200,
       "name": "BOBOMENSOTONTO",
       "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
@@ -5638,7 +5660,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 155343,
       "name": "Bomboro Qui\u00f1a Qui\u00f1a - Special Version",
       "url": "https://open.spotify.com/track/2sTzCjnRKyDCVel8VRqmpl"
@@ -9438,7 +9460,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww"
@@ -10512,7 +10534,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 257536,
       "name": "De Madrid a Par\u00eds",
       "url": "https://open.spotify.com/track/1v0a2XPbqk40rKlIiEFQCS"
@@ -14248,6 +14270,28 @@
       "duration_ms": 150000,
       "name": "EN MI MENTE SOLO T\u00da",
       "url": "https://open.spotify.com/track/6pvNL6bHQXHSXZvlzlxAma"
+    },
+    {
+      "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153609,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
     },
     {
       "album": {
@@ -18388,7 +18432,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 183170,
       "name": "Hola, qu\u00e9 tal?",
       "url": "https://open.spotify.com/track/5Z8nG5FVaBbASxtlVBu44v"
@@ -20279,6 +20323,24 @@
     },
     {
       "album": {
+        "name": "Kamikaze NATANAEL CANO VICTOR MENDIVIL URIEL GAXIOLA X GANGGY",
+        "url": "https://open.spotify.com/album/41mdaLj8BXkX73ILd37H5r"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Almendarez",
+          "url": "https://open.spotify.com/artist/2gq7BJwufdVaKuJIJ57ych"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242468,
+      "name": "Kamikaze NATANAEL CANO VICTOR MENDIVIL URIEL GAXIOLA X GANGGY",
+      "url": "https://open.spotify.com/track/4gfTlhVn6IzO7THPXHGBDl"
+    },
+    {
+      "album": {
         "name": "Kbron y Medio",
         "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
       },
@@ -20732,7 +20794,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 209018,
       "name": "La Brabus",
       "url": "https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC"
@@ -24641,6 +24703,24 @@
     },
     {
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "album": {
         "name": "Maquillaje",
         "url": "https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy"
       },
@@ -25348,7 +25428,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 172125,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
@@ -35952,7 +36032,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -36112,6 +36192,28 @@
       "duration_ms": 124689,
       "name": "SAN TURRONA",
       "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"
+    },
+    {
+      "album": {
+        "name": "SAN TURRONA REMIX",
+        "url": "https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182155,
+      "name": "SAN TURRONA REMIX",
+      "url": "https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32"
     },
     {
       "album": {
@@ -39466,6 +39568,24 @@
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
+        "name": "Super Tuna",
+        "url": "https://open.spotify.com/album/7urG1JarAksXgoLSp5OfnT"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114693,
+      "name": "Super Tuna",
+      "url": "https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf"
     },
     {
       "album": {
@@ -45799,6 +45919,28 @@
     },
     {
       "album": {
+        "name": "SAYONARA: FINALES ALTERNOS",
+        "url": "https://open.spotify.com/album/33vdYyXRkC7kkenWARFMHu"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "XQ ERES AS\u00cd",
+      "url": "https://open.spotify.com/track/5V3CFqzpQSp3frtlVp4T3D"
+    },
+    {
+      "album": {
         "name": "XT4S1S",
         "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
       },
@@ -46944,6 +47086,24 @@
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
+    },
+    {
+      "album": {
+        "name": "\u00a1Que Te Pasa!",
+        "url": "https://open.spotify.com/album/0foM1ZTpWCkcv8fkm52cUB"
+      },
+      "artists": [
+        {
+          "name": "grupo linea sierre\u00f1a",
+          "url": "https://open.spotify.com/artist/5Ar9OdmLFyuloqjh25NIri"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129127,
+      "name": "\u00a1Que Te Pasa!",
+      "url": "https://open.spotify.com/track/1mq4xn6qZbuIqJ1es363iH"
     },
     {
       "album": {

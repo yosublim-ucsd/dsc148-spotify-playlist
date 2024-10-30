@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,267 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,336 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 20 | [Still the River Flows](https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Still the River Flows](https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0) | 2:33 |
 | 21 | [Presence of Thor](https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:14 |
 | 22 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
-| 23 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |
+| 23 | [Close to the River, Birds Watching](https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of Birds & Water](https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu) | 3:12 |
 | 24 | [Suburban Forest Rain 1](https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:18 |
-| 25 | [Close to the River, Birds Watching](https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of Birds & Water](https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu) | 3:12 |
+| 25 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |
 | 26 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 |
 | 27 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 |
-| 28 | [Chill Waves & Wind in Leaves](https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Waves](https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz) | 4:01 |
-| 29 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
-| 30 | [Dripping Wet Leaves and Thunder](https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Thunderstorms vol II](https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg) | 3:48 |
-| 31 | [Bird Life](https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Bird Life](https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL) | 2:26 |
-| 32 | [Pretty Birds](https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Country Birds](https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA) | 2:22 |
+| 28 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
+| 29 | [Dripping Wet Leaves and Thunder](https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Thunderstorms vol II](https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg) | 3:48 |
+| 30 | [Bird Life](https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Bird Life](https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL) | 2:26 |
+| 31 | [Pretty Birds](https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Country Birds](https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA) | 2:22 |
+| 32 | [Chill Waves & Wind in Leaves](https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Waves](https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz) | 4:01 |
 | 33 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 |
 | 34 | [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 |
 | 35 | [Wave Foam](https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:09 |

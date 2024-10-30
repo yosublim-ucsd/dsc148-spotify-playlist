@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 188796,
       "name": "Aldri i livet",
       "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
@@ -626,6 +626,24 @@
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
+    },
+    {
+      "album": {
+        "name": "Den lange natta",
+        "url": "https://open.spotify.com/album/3RhCW6vpTXhpGB0WCc9znN"
+      },
+      "artists": [
+        {
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200655,
+      "name": "Den lange natta",
+      "url": "https://open.spotify.com/track/09sPlSIsRcm4hicuFermlS"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Benito Cerati.",
-  "num_followers": 19333,
+  "num_followers": 19336,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 274511,
-      "name": "Un Taxi al Infierno",
-      "url": "https://open.spotify.com/track/37luwEg6NhNo1PunTk7rBn"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Por Si Acaso Se Acaba El Mundo",
         "url": "https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 183663,
       "name": "Lunes Por La Madrugada",
       "url": "https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 274511,
+      "name": "Un Taxi al Infierno",
+      "url": "https://open.spotify.com/track/37luwEg6NhNo1PunTk7rBn"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "PURA",
-        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
+        "name": "Nuestros Besos",
+        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
       },
       "artists": [
         {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
         }
       ],
-      "duration_ms": 134425,
-      "name": "PURA",
-      "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
+      "duration_ms": 247500,
+      "name": "Nuestros Besos",
+      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Nuestros Besos",
-        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
-      },
-      "artists": [
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Nuestros Besos",
-      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Hay que venir al Sur",
         "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 228000,
       "name": "Hay que venir al Sur",
       "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "PURA",
+        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        }
+      ],
+      "duration_ms": 134425,
+      "name": "PURA",
+      "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Fuck el Police (Remix)",
-        "url": "https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 261532,
-      "name": "Fuck el Police - Remix",
-      "url": "https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "\u00a1Tierra a la Vista!",
         "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 169000,
       "name": "Mapa - TLSCPS2023",
       "url": "https://open.spotify.com/track/01cQ2zQ2wQ3gpanSWJST4x"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Fuck el Police (Remix)",
+        "url": "https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 261532,
+      "name": "Fuck el Police - Remix",
+      "url": "https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -907,22 +907,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "El Im\u00e1n (Remix)",
-        "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
+        "name": "como antes :(",
+        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
         },
         {
-          "name": "Santiago Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu"
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
         }
       ],
-      "duration_ms": 228000,
-      "name": "El Im\u00e1n - Remix",
-      "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
+      "duration_ms": 238120,
+      "name": "como antes :(",
+      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -947,22 +947,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "como antes :(",
-        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
+        "name": "El Im\u00e1n (Remix)",
+        "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
       },
       "artists": [
         {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
         },
         {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "Santiago Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu"
         }
       ],
-      "duration_ms": 238120,
-      "name": "como antes :(",
-      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
+      "duration_ms": 228000,
+      "name": "El Im\u00e1n - Remix",
+      "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Cuando Sea Grande",
-        "url": "https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 147316,
-      "name": "Cuando Sea Grande",
-      "url": "https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "anhelo",
         "url": "https://open.spotify.com/album/0ycnaEHl68CAPA2Y4OC6vZ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 238546,
       "name": "anhelo",
       "url": "https://open.spotify.com/track/2082tbABLulK203QC2AXhB"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "EL APAG\u00d3N",
+        "url": "https://open.spotify.com/album/5btAcC6nuoUTeBlkpLDFhn"
+      },
+      "artists": [
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "EL APAG\u00d3N",
+      "url": "https://open.spotify.com/track/1xLIUx6fhZxWllAnu6vYM1"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "EL APAG\u00d3N",
-        "url": "https://open.spotify.com/album/5btAcC6nuoUTeBlkpLDFhn"
+        "name": "Cuando Sea Grande",
+        "url": "https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL"
       },
       "artists": [
         {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
         }
       ],
-      "duration_ms": 228400,
-      "name": "EL APAG\u00d3N",
-      "url": "https://open.spotify.com/track/1xLIUx6fhZxWllAnu6vYM1"
+      "duration_ms": 147316,
+      "name": "Cuando Sea Grande",
+      "url": "https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "p\u00e9talos",
+        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
+      },
+      "artists": [
+        {
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+        },
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "p\u00e9talos",
+      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Voces",
         "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
       },
@@ -1223,22 +1243,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Encandilante divino",
-        "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
-      },
-      "artists": [
-        {
-          "name": "Abril Alconada",
-          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
-        }
-      ],
-      "duration_ms": 163676,
-      "name": "Azar",
-      "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Como Bailan los Dem\u00e1s (Lado B)",
         "url": "https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk"
       },
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "p\u00e9talos",
-        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
+        "name": "El \u00daltimo Romance",
+        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
       },
       "artists": [
         {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
-        },
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
         }
       ],
-      "duration_ms": 206586,
-      "name": "p\u00e9talos",
-      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
+      "duration_ms": 302750,
+      "name": "El \u00daltimo Romance",
+      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "El \u00daltimo Romance",
-        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
+        "name": "Encandilante divino",
+        "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
       },
       "artists": [
         {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+          "name": "Abril Alconada",
+          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
         }
       ],
-      "duration_ms": 302750,
-      "name": "El \u00daltimo Romance",
-      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
+      "duration_ms": 163676,
+      "name": "Azar",
+      "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Vitamina",
-        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Vitamina",
-      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "dionysian",
         "url": "https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 190742,
       "name": "dionysian",
       "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Vitamina",
+        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Vitamina",
+      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
     },
     {
       "added_at": "2024-10-25 03:00:00",

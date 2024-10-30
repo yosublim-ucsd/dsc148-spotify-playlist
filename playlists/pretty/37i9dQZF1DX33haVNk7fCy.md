@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,812 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,997 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 15 | [Chale Jaana Phir \(Humko Tere Bina\)](https://open.spotify.com/track/04ChFQZCKl2yRcvc0VR7qN) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Rahul Mishra](https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Chale Jaana Phir \(Humko Tere Bina\)](https://open.spotify.com/album/7Co0Nyse7oM3Us1KCulBpn) | 3:28 |
 | 16 | [Chidiya](https://open.spotify.com/track/0aoN9BQostK81IFddJn8Ej) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Chidiya](https://open.spotify.com/album/6xecxwI17jdNrGKvHPIqVc) | 4:13 |
 | 17 | [TERE HO KE](https://open.spotify.com/track/6MVCtoSNhJY9hTYfoF4Pst) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 3:43 |
-| 18 | [Tera Ghata](https://open.spotify.com/track/0JBhoxPKHJc1ZeJrjSt0VO) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Tera Ghata](https://open.spotify.com/album/7nRsCQuIFeFwO8fcQ5mRlH) | 4:14 |
-| 19 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 |
+| 18 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 |
+| 19 | [Tera Ghata](https://open.spotify.com/track/0JBhoxPKHJc1ZeJrjSt0VO) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Tera Ghata](https://open.spotify.com/album/7nRsCQuIFeFwO8fcQ5mRlH) | 4:14 |
 | 20 | [Zaroori Tha](https://open.spotify.com/track/0JChw6k59cZxegh0SGceE1) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Back 2 Love](https://open.spotify.com/album/2XpYarn4l8zxeCh5Zzj3Mv) | 5:42 |
 | 21 | [Aaya Na Tu](https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Aaya Na Tu](https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b) | 3:30 |
 | 22 | [Kaash Aisa Hota](https://open.spotify.com/track/32IjXlRFxNtJ4eMhKAUrSX) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Kaash Aisa Hota](https://open.spotify.com/album/6sp5v7jZvHZBZUqCasMTNj) | 3:32 |

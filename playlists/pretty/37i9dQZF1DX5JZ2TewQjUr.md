@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Chancharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,696 likes - 261 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,702 likes - 261 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

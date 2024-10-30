@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 5948,
+  "num_followers": 5950,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAABy9+z4YLVNdJRnLMoQ0jA4",
+  "snapshot_id": "Zx7UAAAAAADFpI673vNYoB0d47AHksdO",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cantando a Mexico",
-        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "La Tiznada",
-      "url": "https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
         "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "La Tiznada",
+      "url": "https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vamos a la Playa, Recordando los Exitos",
         "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo y Nada",
-        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 170973,
-      "name": "Dame un Beso y Dime Adios",
-      "url": "https://open.spotify.com/track/2110VkSKDKTlr6jdV1GVR2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
         "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 226746,
       "name": "No Voy a Llorar",
       "url": "https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polvo y Nada",
+        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 170973,
+      "name": "Dame un Beso y Dime Adios",
+      "url": "https://open.spotify.com/track/2110VkSKDKTlr6jdV1GVR2"
     },
     {
       "added_at": null,
@@ -523,6 +523,26 @@
       "duration_ms": 148093,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/3hjU0dV58noafui2zYVnts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Oh Que Gusto de Volverte a Ver",
+      "url": "https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE"
     },
     {
       "added_at": null,
@@ -579,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos de Rigo Tovar Con Banda",
-        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        },
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Oh Que Gusto de Volverte a Ver",
-      "url": "https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos y Canciones",
         "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
       },
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 140920,
-      "name": "El Remedio - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/6YyvKw9HikBVMcPhWLeQB7"
+      "duration_ms": 168733,
+      "name": "La Calandria - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 168733,
-      "name": "La Calandria - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I"
+      "duration_ms": 140920,
+      "name": "El Remedio - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/6YyvKw9HikBVMcPhWLeQB7"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo y Nada",
-        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 156080,
-      "name": "Cabaretera",
-      "url": "https://open.spotify.com/track/1R4lzOCmdGNt33prdKwZof"
+      "duration_ms": 217760,
+      "name": "Mares de Tristeza",
+      "url": "https://open.spotify.com/track/7N2maLTxo9d7XulVoZe0ok"
     }
   ],
   "unique_name": "This Is Banda Toro",

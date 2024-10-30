@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Dikastirio",
+        "url": "https://open.spotify.com/album/6sjhZiV67ayw1ZOBfq5uLs"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161661,
+      "name": "Dikastirio",
+      "url": "https://open.spotify.com/track/2jQmJz8aiGuytF7ul8Kn9c"
+    },
+    {
+      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/0LZpJ5aYy9WRFpK79m0T6u"
       },

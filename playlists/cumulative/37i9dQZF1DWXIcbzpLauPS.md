@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits Cover: Kublai Khan TX
 
-1,039 songs - 2 day 16 hr 16 min
+1,040 songs - 2 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 | 2023-07-14 | 2024-02-10 |
 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 | 2022-05-06 | 2022-12-17 |
 | [Coffin of Pain](https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Under the Weight of Things I Couldn't Change](https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU) | 3:36 | 2022-07-13 | 2022-07-15 |
+| [Cold](https://open.spotify.com/track/2XsztotxStcCiqwKEuOWyE) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Maybe Death Is All I Need](https://open.spotify.com/album/3ZgCBOcMZUn3oZV0pgt4sg) | 1:53 | 2024-10-18 |  |
 | [Cold Blooded](https://open.spotify.com/track/55qsUnoBhvLZ6ktj5v3lKp) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [Cold Blooded](https://open.spotify.com/album/5pSv7gNjAnaM169UjdNXY0) | 3:38 | 2021-12-17 | 2022-04-02 |
 | [Cold World](https://open.spotify.com/track/0OgCom0J2EH70YJJxcFlgr) | [Additional Time](https://open.spotify.com/artist/41OZ2IjrF9kjGWDYIGBYOz) | [Cold World](https://open.spotify.com/album/4yHK77sLinmbGY7Ebp1l3i) | 4:06 | 2021-12-17 | 2022-01-15 |
 | [Collapse](https://open.spotify.com/track/3LR5jyD6SzxndATDr83izY) | [Vigils](https://open.spotify.com/artist/3EzYyT79hzNl6mxm7v44h0) | [Collapse](https://open.spotify.com/album/2DVcJX849QCM4XMcZ92qaO) | 3:12 | 2022-01-07 | 2022-04-09 |
@@ -611,7 +612,7 @@
 | [Monster](https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY) | [Take The Name](https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf) | [Monster](https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX) | 3:37 | 2024-08-12 |  |
 | [MONSTER](https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [MONSTER](https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9) | 3:24 | 2022-02-11 | 2022-04-23 |
 | [Mother's Repine](https://open.spotify.com/track/1IbQy1zPX2AWcroG1mpTJD) | [Jackson Rose](https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Mother's Repine](https://open.spotify.com/album/3L1lsCwUm2rIXFhh36Tx5n) | 3:34 | 2022-07-13 | 2022-07-16 |
-| [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 | 2023-12-15 |  |
+| [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 | 2023-12-15 | 2024-10-30 |
 | [Mud](https://open.spotify.com/track/1jn8O6p81JAzyxycw1VMGu) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Exhibition Of Prowess](https://open.spotify.com/album/3UqEHbnms5ixC6YPuPZTfi) | 3:07 | 2024-09-20 |  |
 | [Murder8](https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm), [Jamey Jasta](https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL) | [Murder8](https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G) | 3:48 | 2024-03-27 |  |
 | [mutant.](https://open.spotify.com/track/5tekqsI1eoUxmiX5OCPQ8O) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [DIGITAL PARANOIA 2052](https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO) | 4:12 | 2024-02-09 | 2024-07-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,038 likes - 87 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,140 likes - 87 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 5 | [Après un rêve, Op\. 7, No\. 1 \(Arr\. Piano\)](https://open.spotify.com/track/0d71p8tQDxLgdTkEHcxQyl) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Alan Feinberg](https://open.spotify.com/artist/7cTvdUU1BZYBATq6QdfZO6) | [The American Virtuoso](https://open.spotify.com/album/0vdIwOj00vVbRNxi70rurD) | 3:18 |
 | 6 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3aflqY3isjShFUHoiS1QbR) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 5:30 |
 | 7 | [12 Songs, Op\. 21: V\. Lilacs \(Transcr\. Rachmaninoff for Solo Piano\)](https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Sergei Babayan](https://open.spotify.com/artist/79gBfLMlUJNdcXv1nc33oK) | [Rachmaninoff: Préludes; Études\-Tableaux; Moments musicaux](https://open.spotify.com/album/5952RUol8Nl7Ihk1zcaUb4) | 3:01 |
-| 8 | [Prelude in C Major, BWV 846](https://open.spotify.com/track/70sk23BoP9F6UeppZ2IiL5) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Labyrinth: Ephemera](https://open.spotify.com/album/1M1tsv2nCOuUkztiGG3tBh) | 2:25 |
+| 8 | [Bach: Prelude in C Major, BWV 846](https://open.spotify.com/track/70sk23BoP9F6UeppZ2IiL5) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Labyrinth: Ephemera](https://open.spotify.com/album/1M1tsv2nCOuUkztiGG3tBh) | 2:25 |
 | 9 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |
 | 10 | [I Giorni](https://open.spotify.com/track/0VLascXUZ2Ze2u5kUD5J1f) | [Ludovico Einaudi](https://open.spotify.com/artist/4eE1pndp9eq1epaeDM9ICV) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 6:51 |
 | 11 | [Orfeo ed Euridice, Wq\. 30 \(Arranged by Sgambati\): Melodie dell'Orfeo](https://open.spotify.com/track/24cgBBhZD1cWekUqaYuqTB) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Yuja Wang](https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w) | [Fantasia](https://open.spotify.com/album/4sN9hBE7dLOG6SgjqVPAa5) | 3:01 |

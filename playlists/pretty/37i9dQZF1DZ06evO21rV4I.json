@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 138166,
+  "num_followers": 138242,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAAqwdEMctite/klNzR6nkA1",
+  "snapshot_id": "Zx7UAAAAAABQbFahVi6dsvQOUa9APgsW",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 233012,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 233012,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
     },
     {
       "added_at": null,

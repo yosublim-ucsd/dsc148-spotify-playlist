@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 
 > Plug your brain into a modular synthesizer analog loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,644 likes - 144 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,704 likes - 144 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 60 | [Monsters](https://open.spotify.com/track/5W86tGQznqxaODJnZeIfnf) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Available Forms](https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko) | 7:45 |
 | 61 | [Unavailable Memory](https://open.spotify.com/track/2TYPY7sEP9cBAcqScBiNEQ) | [Meat Beat Manifesto](https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:54 |
 | 62 | [Pizzicato Samba](https://open.spotify.com/track/0hgCu26O2p3ndloW2aXHsS) | [Dana Countryman](https://open.spotify.com/artist/2TPk0Xw81wqOb8wHTSXkHO), [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [The Happy Electropop Music Machine](https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl) | 2:41 |
-| 63 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
-| 64 | [Android City](https://open.spotify.com/track/44AbbzjNP2JOSiJXky9I4A) | [Paolo Di Cioccio](https://open.spotify.com/artist/3GNXga9dtpSX9UiPG8MTfx) | [Romantische Technologie](https://open.spotify.com/album/4vuMcGpR8AlANyU7V2VIk2) | 2:48 |
-| 65 | [Prelude to the Afternoon of a Faun](https://open.spotify.com/track/49PTfrUJSYFFBIdaEXcwyJ) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Snowflakes Are Dancing](https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E) | 10:13 |
+| 63 | [Android City](https://open.spotify.com/track/44AbbzjNP2JOSiJXky9I4A) | [Paolo Di Cioccio](https://open.spotify.com/artist/3GNXga9dtpSX9UiPG8MTfx) | [Romantische Technologie](https://open.spotify.com/album/4vuMcGpR8AlANyU7V2VIk2) | 2:48 |
+| 64 | [Prelude to the Afternoon of a Faun](https://open.spotify.com/track/49PTfrUJSYFFBIdaEXcwyJ) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Snowflakes Are Dancing](https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E) | 10:13 |
+| 65 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
 | 66 | [Saturn Ski Jump](https://open.spotify.com/track/4Arau0rDs3eVb8hwAhWliz) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:04 |
 | 67 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
 | 68 | [Mainframe Blues](https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup) | [David Vorhaus](https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae) | [Mind Games](https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD) | 2:51 |

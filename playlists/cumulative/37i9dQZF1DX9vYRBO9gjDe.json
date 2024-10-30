@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u300210\u670826\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u300210\u670827\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
     {
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 184106,
       "name": "A Fact of Life",
       "url": "https://open.spotify.com/track/6F0jNtmMn7oBO6ulDWEKgT"
@@ -9298,7 +9298,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -9390,6 +9390,24 @@
       "duration_ms": 232733,
       "name": "DISCO PRANK feat. Leo Uchida",
       "url": "https://open.spotify.com/track/1NsYaNxkwwKC18anLoxVZk"
+    },
+    {
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
       "album": {
@@ -14634,7 +14652,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 187213,
       "name": "GOLD",
       "url": "https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb"
@@ -24188,6 +24206,28 @@
     {
       "album": {
         "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155767,
+      "name": "Mamushi (Remix) [feat. TWICE]",
+      "url": "https://open.spotify.com/track/0DanydI1wKqKkKjn0qKoVR"
+    },
+    {
+      "album": {
+        "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
       },
       "artists": [
@@ -24202,7 +24242,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 155767,
       "name": "Mamushi (Remix) [feat. TWICE]",
       "url": "https://open.spotify.com/track/3TNlo9OEKQxBA9Ctghiz4r"
@@ -28174,7 +28214,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -47800,7 +47840,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 185566,
       "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
       "url": "https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv"
@@ -48306,7 +48346,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 248000,
       "name": "\u304f\u305b\u3052",
       "url": "https://open.spotify.com/track/3glEZ2ZUzysDYCf7TOb7wQ"
@@ -50630,7 +50670,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 271173,
       "name": "\u30a2\u30a4\u30d3\u30fc",
       "url": "https://open.spotify.com/track/3y3gIFisu61Qc3NtRE7a2r"
@@ -52932,7 +52972,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 234323,
       "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
@@ -56874,7 +56914,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 258158,
       "name": "\u30e4\u30f3\u30b0\u30a2\u30c0\u30eb\u30c8",
       "url": "https://open.spotify.com/track/3IanNVIcOMlKFr329uhNcA"
@@ -60284,7 +60324,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 246306,
       "name": "\u541b\u306f\u30ed\u30c3\u30af\u3092\u8074\u304b\u306a\u3044",
       "url": "https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM"
@@ -61678,7 +61718,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 276918,
       "name": "\u5e7e\u5104\u5149\u5e74",
       "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
@@ -62626,7 +62666,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 232453,
       "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
       "url": "https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr"
@@ -62644,7 +62684,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 258543,
       "name": "\u611b\u306e\u30ec\u30f3\u30bf\u30eb",
       "url": "https://open.spotify.com/track/4GgI6ESeHw4SPqicVY3HPV"
@@ -62828,7 +62868,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 180633,
       "name": "\u611b\u697d",
       "url": "https://open.spotify.com/track/0hZJ3OSRzROihJiIT1Ag5g"
@@ -66678,7 +66718,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 211920,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA"

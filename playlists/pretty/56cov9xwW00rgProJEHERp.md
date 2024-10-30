@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,577 likes - 63 songs - 3 hr 32 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,576 likes - 63 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

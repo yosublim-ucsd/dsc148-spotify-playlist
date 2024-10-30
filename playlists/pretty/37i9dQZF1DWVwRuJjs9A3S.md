@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Say Lou Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,290 likes - 159 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,287 likes - 159 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

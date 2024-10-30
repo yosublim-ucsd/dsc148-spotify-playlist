@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,029 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,038 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 21 | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk) | [TIKTOK HITS](https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK), [LC DAS CASINHAS](https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C) | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ) | 2:46 |
 | 22 | [Se a Saudade Bater \(Workout Version\)](https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b) | [Se a Saudade Bater \(Workout Version\)](https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3) | 2:11 |
 | 23 | [Agora que eu estou sozinho nesse mal caminho speed up](https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj) | [Koke](https://open.spotify.com/artist/59qKvQjxbwovrGHZjO5hgN) | [Agora que eu estou sozinho nesse mal caminho speed up](https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3) | 1:36 |
-| 24 | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX) | 3:22 |
-| 25 | [Portugal \(Speed\)](https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Ananda \(Speed\)](https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e) | 2:43 |
+| 24 | [Portugal \(Speed\)](https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Ananda \(Speed\)](https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e) | 2:43 |
+| 25 | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX) | 3:22 |
 | 26 | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd) | [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ) | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp) | 2:10 |
 | 27 | [Semblante de Criminoso Speed](https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz) | [Semblante de Criminoso Speed](https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt) | 1:38 |
 | 28 | [Ele Te Bota Soca Soca \- Speed Up](https://open.spotify.com/track/548LVIsbvfP70STa240ZeI) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b) | [Ele Te Bota Soca Soca \(Speed Up\)](https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg) | 2:08 |

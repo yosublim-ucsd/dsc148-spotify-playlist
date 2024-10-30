@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring HARU NEMURI and Frost Children
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,622 likes - 152 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,663 likes - 152 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

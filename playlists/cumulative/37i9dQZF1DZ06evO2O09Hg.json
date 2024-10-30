@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228193,
+      "name": "Rich And Blind",
+      "url": "https://open.spotify.com/track/4UoDSs5VAw6xHdzbkjocTM"
+    },
+    {
+      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },

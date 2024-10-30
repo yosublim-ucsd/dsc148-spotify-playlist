@@ -1,6 +1,6 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Linkin Park",
-  "num_followers": 975342,
+  "num_followers": 975308,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "One Eyed Bastard",
-        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 172899,
-      "name": "One Eyed Bastard",
-      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Worst Is On Its Way (Requiem Mass)",
         "url": "https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 244089,
       "name": "Worst Is On It's Way - Requiem Mass / Live",
       "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "One Eyed Bastard",
+        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 172899,
+      "name": "One Eyed Bastard",
+      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "The Fear of Fear",
-        "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 281052,
-      "name": "Too Close / Too Late",
-      "url": "https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Lighting Up The Sky",
         "url": "https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX"
       },
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 281052,
+      "name": "Too Close / Too Late",
+      "url": "https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Hotel Kalifornia",
         "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 163752,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Crawl!",
-      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/3dvHcc24AqV8VPjQ4n7H4I"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 316979,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/6eRAg49UCwHqoRbUG9IYzr"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "City Of The Dead",
         "url": "https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "All Things Must Change",
-        "url": "https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm"
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/3dvHcc24AqV8VPjQ4n7H4I"
       },
       "artists": [
         {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 215318,
-      "name": "All Things Must Change",
-      "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
+      "duration_ms": 316979,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/6eRAg49UCwHqoRbUG9IYzr"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1227,6 +1211,22 @@
       "duration_ms": 228119,
       "name": "Slow Me",
       "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "All Things Must Change",
+        "url": "https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 215318,
+      "name": "All Things Must Change",
+      "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
     },
     {
       "added_at": "2024-10-25 03:00:00",

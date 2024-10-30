@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > pinoy alternative music \. Cover: Wiji Kun
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,719 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,713 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 | 24 | [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 |
 | 25 | [Night and Day](https://open.spotify.com/track/1eMn5wODtO4TFj5OfYoPPv) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [Night and Day](https://open.spotify.com/album/346R5cAIPZUJr7r4ZdHLaO) | 3:26 |
 | 26 | [sirens](https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [sirens](https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9) | 3:20 |
-| 27 | [Nandito](https://open.spotify.com/track/3yO2w4yahMDqQ8dI3MtnZF) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Nandito](https://open.spotify.com/album/3xlq1xz7FYfdFqzB6P4rE8) | 4:26 |
+| 27 | [Nandito](https://open.spotify.com/track/3yO2w4yahMDqQ8dI3MtnZF) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Nandito](https://open.spotify.com/album/3xlq1xz7FYfdFqzB6P4rE8) | 4:22 |
 | 28 | [Mahal Na Yata Kita](https://open.spotify.com/track/0lE7yCSaySzXOAYESodkJQ) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Mahal Na Yata Kita](https://open.spotify.com/album/33Y14HJbItjGY1UifH9dHj) | 3:07 |
 | 29 | [GO HOME](https://open.spotify.com/track/17UJwWMzDcgonu4TjtiBYl) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [GO HOME](https://open.spotify.com/album/4eTjIHMhdlGEFOef1cFOhs) | 3:59 |
 | 30 | [Teka Muna \(Sandali\)](https://open.spotify.com/track/3x92F7d3W7q0VEkMSNyMZC) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Teka Muna \(Sandali\)](https://open.spotify.com/album/7z1kAAlmgAzjaP8zVSHw65) | 3:32 |

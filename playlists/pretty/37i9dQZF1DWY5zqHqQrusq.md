@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,556 likes - 53 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,574 likes - 53 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

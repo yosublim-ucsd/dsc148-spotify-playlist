@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: M.G.L, BLANCO
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,189 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,195 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 16 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |
 | 17 | [CONTACT FATAL 3](https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [CONTACT FATAL 3](https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr) | 2:51 |
 | 18 | [Ofiter la pamant](https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Ofiter la pamant](https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl) | 2:12 |
-| 19 | [Tu, Mărie!](https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Tu, Mărie!](https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr) | 3:21 |
-| 20 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 |
+| 19 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 |
+| 20 | [Tu, Mărie!](https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Tu, Mărie!](https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr) | 3:21 |
 | 21 | [TELEKOM](https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [BEAST MODE +](https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg) | 2:29 |
 | 22 | [Shot](https://open.spotify.com/track/7oRs530KPTYBT8NdSIh6Kx) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [BAZOOKA](https://open.spotify.com/artist/5VF7pRN0tgUIRWjsVmnpY1), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [Shot](https://open.spotify.com/album/3Mmx6Jw7tay29R7KQzE8KE) | 3:48 |
 | 23 | [Fierbe](https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Bun Venit Acasa \(Deluxe\)](https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF) | 2:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,317 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,330 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 9 | [Estoy Enamorado \(with Pedro Capó\) \- Live Version](https://open.spotify.com/track/4N9gzwamSUhe9oRuWgnmfJ) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Thalia En Primera Fila](https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa) | 4:37 |
 | 10 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
 | 11 | [Ni Tan Novios, Ni Tan Amigos](https://open.spotify.com/track/2h5MjaqDZmazfJGyOe48Y0) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:21 |
-| 12 | [Sabe Bien](https://open.spotify.com/track/36LDPQfypNqhflhok841qb) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sabe Bien](https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq) | 2:40 |
-| 13 | [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 |
+| 12 | [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 |
+| 13 | [Sabe Bien](https://open.spotify.com/track/36LDPQfypNqhflhok841qb) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sabe Bien](https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq) | 2:40 |
 | 14 | [Si Tú Me Lo Pides \(feat\. Kany García\)](https://open.spotify.com/track/3es7XP3HS7TqZqC9Z6cdmd) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Pedro Capó](https://open.spotify.com/album/09WFxztbheRZxTiUZezCiz) | 4:12 |
 | 15 | [Adios](https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Adios](https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu) | 3:18 |
 | 16 | [5 y 3](https://open.spotify.com/track/1gZAKL2rlLa2UqEoebli86) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 2:34 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 51 | [Himalaya](https://open.spotify.com/track/1OUjgRKdidGYAQQUDATydm) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mr\. W](https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX) | 2:48 |
 | 52 | [Suspendidos en el Tiempo](https://open.spotify.com/track/7IW01SDxiAhmWo97uUL4dg) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Suspendidos en el Tiempo](https://open.spotify.com/album/6VxidvTiyw1RUxJFWq05Hx) | 3:33 |
 
-Snapshot ID: `Zx2CgAAAAABPve7x5qKtGDwvici2dJju`
+Snapshot ID: `Zx7UAAAAAABQRlpMyQdxJVn5aJ9VBF0l`

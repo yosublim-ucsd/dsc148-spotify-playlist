@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-128 songs - 6 hr 21 min
+129 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-09-20 |  |
 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 | 2024-06-28 |  |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-10-07 |  |
-| [Cyrk](https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Cyrk](https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf) | 3:06 | 2024-10-17 |  |
+| [Cyrk](https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Cyrk](https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf) | 3:06 | 2024-10-17 | 2024-10-30 |
 | [Daj żyć](https://open.spotify.com/track/0ulgIgptCrAx67A0tQppuW) | [Sonia Maselik](https://open.spotify.com/artist/0MA7GBODPbcTV0v3FZj2tl), [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO) | [Daj żyć](https://open.spotify.com/album/0pxxDxee1EiOyjJIB8RgpL) | 2:22 | 2024-07-19 | 2024-07-27 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-20 |  |
 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 | 2024-07-19 |  |
@@ -111,6 +111,7 @@
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-06-28 |  |
 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 | 2024-09-27 |  |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-28 | 2024-07-19 |
+| [Tam czeka mnie dom](https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Tam czeka mnie dom](https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH) | 2:17 | 2024-10-17 |  |
 | [Tam słońce, gdzie my](https://open.spotify.com/track/1Wh2SwNbe3OQCoskPc3fD8) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Tam słońce, gdzie my](https://open.spotify.com/album/73wEkOKWj6NZqOLRj0EhH0) | 3:15 | 2024-06-28 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-23 |  |
 | [Tease Me](https://open.spotify.com/track/2zd9veJ3ELc1OBTbscFx7b) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Tease Me](https://open.spotify.com/album/4czLQcxHpCy7NlD0YZabS5) | 2:42 | 2024-06-28 | 2024-07-19 |

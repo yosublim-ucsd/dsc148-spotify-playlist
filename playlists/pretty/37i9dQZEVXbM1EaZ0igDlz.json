@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Austria.",
-  "num_followers": 9893,
+  "num_followers": 9895,
   "original_name": "Top Songs - Austria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LrL7yAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LrRNSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-10-25 21:38:23",
@@ -510,6 +510,10 @@
         {
           "name": "Bausa",
           "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "CHEKAA",
+          "url": "https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP"
         }
       ],
       "duration_ms": 134528,

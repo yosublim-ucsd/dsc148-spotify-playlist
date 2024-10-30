@@ -4,7 +4,7 @@
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Panteón Rococó en portada.
 
-258 songs - 16 hr 27 min
+259 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Noticia Punk](https://open.spotify.com/track/5y5i9ysVFW0GmyTD6r0MGh) | [Rebel'd Punk](https://open.spotify.com/artist/0IdBNIZmMIhMIUk8lfIuY4) | [Delincuencia](https://open.spotify.com/album/1XdVn2Lq2ozGM2iuxBiJ7f) | 2:22 | 2023-02-24 | 2023-07-22 |
 | [Noticia Punk \- Remasterizada](https://open.spotify.com/track/1wb2YWZEB6OaB2n6b1w4IK) | [Rebel'd Punk](https://open.spotify.com/artist/0IdBNIZmMIhMIUk8lfIuY4) | [Noticia Punk \(Remasterizada\)](https://open.spotify.com/album/4yXuYGgh54H2R5EjELCRA5) | 2:19 | 2024-05-03 | 2024-05-15 |
 | [Nunca Te Voy a Olvidar](https://open.spotify.com/track/4iMdmv0p6M1H2OT8PiFZct) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Nunca Te Voy a Olvidar](https://open.spotify.com/album/0EMk9mGZdgAUenybhP0bc3) | 3:14 | 2023-06-09 | 2023-06-17 |
+| [Obsesión \- Alternate Version](https://open.spotify.com/track/7aPGHZSUf4QAg00Ybuh6Ju) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi \- Antología](https://open.spotify.com/album/6fkHr4XjKCGdG5Lphdbp0f) | 3:07 | 2024-10-25 |  |
 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 | 2022-01-14 |  |
 | [Oro](https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Oro](https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi) | 3:30 | 2022-03-11 | 2024-08-10 |
 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 | 2022-01-14 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 88438,
+  "num_followers": 88515,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Lennie Tristano / The New Tristano",
-        "url": "https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9"
-      },
-      "artists": [
-        {
-          "name": "Lennie Tristano",
-          "url": "https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e"
-        }
-      ],
-      "duration_ms": 365840,
-      "name": "Ghost of a Chance",
-      "url": "https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -563,18 +547,34 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+        "name": "Lennie Tristano / The New Tristano",
+        "url": "https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9"
       },
       "artists": [
         {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+          "name": "Lennie Tristano",
+          "url": "https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e"
         }
       ],
-      "duration_ms": 179240,
-      "name": "One Bass Hit",
-      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
+      "duration_ms": 365840,
+      "name": "Ghost of a Chance",
+      "url": "https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Jimmy Giuffre 3",
+        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Jimmy Giuffre 3",
-        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
       },
       "artists": [
         {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
         }
       ],
-      "duration_ms": 231466,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
+      "duration_ms": 179240,
+      "name": "One Bass Hit",
+      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 319240,
+      "name": "Thanks For The Memory",
+      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "The Poll Winners Ride Again!",
         "url": "https://open.spotify.com/album/5fpBssf4ZkNncA3zYpRrC6"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 264533,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/6QRA6ekJHWPYyxnqGpdlfY"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 319240,
-      "name": "Thanks For The Memory",
-      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
     },
     {
       "added_at": "2024-07-08 07:01:17",

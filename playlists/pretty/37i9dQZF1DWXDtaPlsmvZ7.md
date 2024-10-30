@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,952 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,969 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 57 | [Simplemente Amigos \- Electrocumbia Remix](https://open.spotify.com/track/2R7fljjzrK1HERQinrgYyU) | [BXS](https://open.spotify.com/artist/1YP7wQtwByB9lM5a5zoARO) | [Simplemente Amigos](https://open.spotify.com/album/70XaPL4zDedzkblk8I2iEM) | 3:44 |
 | 58 | [Con Calma](https://open.spotify.com/track/4rHCsdlraJ36u00sqeVlzT) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Con Calma](https://open.spotify.com/album/7xyMJM00ssoz6JTx21Ugre) | 3:05 |
 | 59 | [I Feel It Coming \- Version Cumbia](https://open.spotify.com/track/76zoc2IdQM1s4bH5juv5zC) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Rochi Degrossi](https://open.spotify.com/artist/2uqGbV16oT3LW9wDoT1iMh) | [I Feel It Coming \(Version Cumbia\)](https://open.spotify.com/album/6l2TFbfJURhQkuQoZeTZ86) | 2:46 |
-| 60 | [Tonta](https://open.spotify.com/track/1BkA16BeinW9nl5tY1QJnv) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Orgánico](https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7) | 3:25 |
-| 61 | [Baila Esta Cumbia](https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:55 |
+| 60 | [Baila Esta Cumbia](https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:55 |
+| 61 | [Tonta](https://open.spotify.com/track/1BkA16BeinW9nl5tY1QJnv) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Orgánico](https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7) | 3:25 |
 | 62 | [Me Rehúso](https://open.spotify.com/track/1w6dOqzuranu79QoUNMNpT) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [LemonChamp](https://open.spotify.com/album/1iJB7BkodWrNTwQDmmdsAm) | 2:07 |
 | 63 | [Amnesia](https://open.spotify.com/track/25gVvYDrc5EeoATfHIodrY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Amnesia](https://open.spotify.com/album/44rcBXiSxBO2tWd4iUi4B5) | 4:52 |
 | 64 | [Mil Horas](https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Greatest Cumbia Classics Of Colombia, Vol\. 2](https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj) | 3:45 |

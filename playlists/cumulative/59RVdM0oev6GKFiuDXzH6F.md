@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-744 songs - 1 day 13 hr 16 min
+745 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Get Shaky \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/42O31gY8N28p4DAk7YYkeM) | [Ian Carey Project](https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Get Shaky \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/5zy8MwNKpdh8E8nLnEQgHi) | 2:30 | 2023-04-14 | 2024-09-26 |
 | [Get Up](https://open.spotify.com/track/7E8IZjrD6QwTf1pS3KJCfG) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [Costel Van Dein](https://open.spotify.com/artist/2yA021LnprERtbeHcjAquF) | [Get Up](https://open.spotify.com/album/2Ha6jK2QJ99zqYp6AVRLo0) | 2:32 | 2023-06-30 | 2023-07-14 |
 | [Girl](https://open.spotify.com/track/1XJP2xGm47pxXygmKYwIWM) | [WhoKnows](https://open.spotify.com/artist/4VnoKxF1E3ytbkEzGrZR63), [Hot n Spicy](https://open.spotify.com/artist/46nCTKjkE9cpoVg8A3MgL0) | [Girl](https://open.spotify.com/album/5XRh2PC7CTy5ec2gTrdkN9) | 2:41 | 2024-02-05 |  |
+| [Girl In The Club](https://open.spotify.com/track/2X0I1Ky8BOxJ6a4ZC9x8QX) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup), [Robert Flott](https://open.spotify.com/artist/2YwN2tSu8mKglhQjmzmjQo) | [Girl In The Club](https://open.spotify.com/album/2KbLzrMKim1Gg3Kd4z2sHt) | 3:02 | 2024-10-29 |  |
 | [Give It to You](https://open.spotify.com/track/1ChmxHfW4rOM7B8RwEEU8y) | [Zenemy](https://open.spotify.com/artist/2cHw7LZDGn9mjTiFTSeEHt) | [Give It to You](https://open.spotify.com/album/5SpBVU8681KromUTz68ghZ) | 3:54 | 2024-09-20 | 2024-10-11 |
 | [GNOR](https://open.spotify.com/track/6qnNzvYAcdSrJ4YsloQWIq) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Provenzano](https://open.spotify.com/artist/0X31zioYkeZFA3GBQR937K) | [GNOR](https://open.spotify.com/album/0s1N8nHJoCwNCestcxsDMm) | 2:22 | 2023-11-22 | 2024-09-26 |
 | [Going down](https://open.spotify.com/track/0f9mRNkqNHlAGwM9rVy6Bs) | [Milyo](https://open.spotify.com/artist/581plaxcfSWYMovHiZzh3f) | [Going Down](https://open.spotify.com/album/08R4bfOyu9zFaDMQdh4mTo) | 3:37 | 2024-06-21 |  |

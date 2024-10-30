@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: AKRIILA, TAICHU
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,810 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,824 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 12 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 |
 | 13 | [Dale Bogueto](https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [DJ Antena](https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Reggaetoñerito](https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9) | 3:07 |
 | 14 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 |
-| 15 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
-| 16 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
+| 15 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
+| 16 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
 | 17 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
 | 18 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 |
 | 19 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 50 | [Enemigo](https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Enemigo](https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd) | 2:30 |
 | 51 | [Uy k raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy k raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
 | 52 | [Qué Rico Repetirlo](https://open.spotify.com/track/63tc67n05008BFsuVhGgNb) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Qué Rico Repetirlo](https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI) | 3:06 |
-| 53 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |
-| 54 | [Quiero Verte](https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Quiero Verte](https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn) | 2:54 |
+| 53 | [Quiero Verte](https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Quiero Verte](https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn) | 2:54 |
+| 54 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |
 | 55 | [Traje Tusi](https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Traje Tusi](https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7) | 3:02 |
 | 56 | [Imposible](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Imposible](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
 | 57 | [MAMi QUÉ FUE?](https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MAMi QUÉ FUE?](https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS) | 2:47 |
 | 58 | [Que Loco Mami](https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Que Loco Mami](https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s) | 2:56 |
-| 59 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
-| 60 | [Palmas](https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [Palmas](https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl) | 2:51 |
+| 59 | [Palmas](https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [Palmas](https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl) | 2:51 |
+| 60 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
 
 Snapshot ID: `Zwi+4AAAAABTgpqa6aNS7N4o+/oBchyd`

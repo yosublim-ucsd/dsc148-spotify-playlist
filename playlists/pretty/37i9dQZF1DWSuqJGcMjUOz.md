@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,504 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,505 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 73 | [Golden Hour](https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Osoyoos](https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj) | 3:55 |
 | 74 | [Comme Avant](https://open.spotify.com/track/2kGflndOtz5UCBflZIT4eQ) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/4GapYXkrjk7Zur6AX4Lr3w) | 2:26 |
 | 75 | [Celui qui attend](https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Baloney suicide](https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b) | 2:02 |
-| 76 | [Non merci](https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Emmanuelle](https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply) | 2:26 |
-| 77 | [Trait d'union](https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 4:05 |
+| 76 | [Trait d'union](https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 4:05 |
+| 77 | [Non merci](https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Emmanuelle](https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply) | 2:26 |
 | 78 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 |
 | 79 | [Polymorphe](https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 3:36 |
 | 80 | [Sac de sport](https://open.spotify.com/track/3H05HuJHXjXyaMa7WgnaAJ) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Surhomme](https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo) | 3:15 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 104 | [Bisous](https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF) | [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Monstre](https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0) | 3:04 |
 | 105 | [un grand plat de riz](https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg) | [Témé Tan](https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW) | [Quand il est seul](https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK) | 3:27 |
 | 106 | [Le bois](https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [La clairière](https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq) | 2:59 |
-| 107 | [Soso](https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll) | [Kizaba](https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X) | [Kizavibe](https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv) | 3:50 |
-| 108 | [J'en raffole](https://open.spotify.com/track/3Gs8MG6EVQTfqTs1fw4A8d) | [Kelzk](https://open.spotify.com/artist/5KwQXiLnoAoMPNKsVfOxLz), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [J'en raffole](https://open.spotify.com/album/0v7UTiuZ76VyAJaAuCiYJa) | 3:45 |
+| 107 | [J'en raffole](https://open.spotify.com/track/3Gs8MG6EVQTfqTs1fw4A8d) | [Kelzk](https://open.spotify.com/artist/5KwQXiLnoAoMPNKsVfOxLz), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [J'en raffole](https://open.spotify.com/album/0v7UTiuZ76VyAJaAuCiYJa) | 3:45 |
+| 108 | [Soso](https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll) | [Kizaba](https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X) | [Kizavibe](https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv) | 3:50 |
 | 109 | [Après la nuit](https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k) | [Marie\-Annick Lepine](https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3) | [J'ai brodé mon cœur](https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP) | 0:34 |
 | 110 | [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 |
 | 111 | [Holla](https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:52 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 118 | [Plage](https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Holistique](https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM) | 3:13 |
 | 119 | [OnO Song](https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t) | [Bobo Ono](https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC) | [Fluxus](https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu) | 2:36 |
 | 120 | [Du love à revendre](https://open.spotify.com/track/5eTbAP2VvIXo4atQgwSwSY) | [ALICE](https://open.spotify.com/artist/0GpP2UU9Uv9fulve6gp75x) | [Du love à revendre](https://open.spotify.com/album/1zGu1T6rv7Hp931DxGEtRy) | 4:04 |
-| 121 | [Il a plu il a neigé](https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0) | [Navet Confit](https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D), [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Désolé mouvement geste](https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7) | 4:10 |
-| 122 | [Où est passé mon contour](https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1) | [Sandra Contour](https://open.spotify.com/artist/2HqHdeGxArnQWvcEz57v4H) | [Où est passé mon contour](https://open.spotify.com/album/14179pvxliO47am5SkoCLw) | 3:01 |
+| 121 | [Où est passé mon contour](https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1) | [Sandra Contour](https://open.spotify.com/artist/2HqHdeGxArnQWvcEz57v4H) | [Où est passé mon contour](https://open.spotify.com/album/14179pvxliO47am5SkoCLw) | 3:01 |
+| 122 | [Il a plu il a neigé](https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0) | [Navet Confit](https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D), [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Désolé mouvement geste](https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7) | 4:10 |
 | 123 | [LA LA LA](https://open.spotify.com/track/3JIxKFRguGFlGAGwla497a) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [Chercheur de lumières](https://open.spotify.com/album/2STVRCEnziOB3BpCHqEtmZ) | 2:57 |
 | 124 | [Penelope](https://open.spotify.com/track/1mAZTJqs348uZYYfmAmbyv) | [Blondes Naturelles](https://open.spotify.com/artist/10yfd9E6pNEIpYouUSS0vD) | [Penelope](https://open.spotify.com/album/5JEWDUwn6YWx2F54qGgwt5) | 2:59 |
 | 125 | [Elle vit dans les bois](https://open.spotify.com/track/0VBzJIYJey6MvcNH8Set2U) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Feux de joie](https://open.spotify.com/album/69un5QeWz6xSBF7dc7cROC) | 3:29 |

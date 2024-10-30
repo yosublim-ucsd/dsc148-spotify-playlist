@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 209016,
+  "num_followers": 209044,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAACswqWxTbzd86bbmYkWPv+W",
+  "snapshot_id": "Zx7UAAAAAACLIKkDG536N4ChyisMsBsJ",
   "tracks": [
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 240274,
+      "name": "Purp",
+      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Better Me Than You",
         "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 240274,
-      "name": "Purp",
-      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Actual Life 2 (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Kahan (last year)",
+      "url": "https://open.spotify.com/track/3IGsYYUDb4PrfrsP5tmjHd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ONBOA47RD",
         "url": "https://open.spotify.com/album/2NibhROzVqZ3UmHx6JLygb"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 185652,
       "name": "ONBOA47RD",
       "url": "https://open.spotify.com/track/40DPDhROA6rUmfE1E9wGjz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Actual Life 2 (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Kahan (last year)",
-      "url": "https://open.spotify.com/track/3IGsYYUDb4PrfrsP5tmjHd"
     }
   ],
   "unique_name": "This Is Kodak Black",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 16721,
+  "num_followers": 16722,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAABFfH/2Th2bYFmzcevixh5/",
+  "snapshot_id": "Zx7UAAAAAABYnZgIy6xTGWyy/x6hcU17",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Australian Boy - Remastered 2017",
-      "url": "https://open.spotify.com/track/0mst1r5jDZ32vusCulvpBH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Chain Road",
         "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 254173,
       "name": "Three Chain Road - Remastered 2017",
       "url": "https://open.spotify.com/track/1G84cb9RM32J4EdOcS7w6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Australian Boy - Remastered 2017",
+      "url": "https://open.spotify.com/track/0mst1r5jDZ32vusCulvpBH"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 240834,
-      "name": "Outback Club Reunion",
-      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
+      "duration_ms": 178053,
+      "name": "I Milk Cows - Remastered 2017",
+      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 178053,
-      "name": "I Milk Cows - Remastered 2017",
-      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
+      "duration_ms": 240834,
+      "name": "Outback Club Reunion",
+      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
     },
     {
       "added_at": null,
@@ -683,18 +683,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+        "name": "We're Still Here",
+        "url": "https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU"
       },
       "artists": [
         {
+          "name": "Tom Curtain",
+          "url": "https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH"
+        },
+        {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Sara Storer",
+          "url": "https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL"
         }
       ],
-      "duration_ms": 171704,
-      "name": "Drive On",
-      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
+      "duration_ms": 200320,
+      "name": "She Gave Us the Song",
+      "url": "https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa"
     },
     {
       "added_at": null,
@@ -731,26 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're Still Here",
-        "url": "https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU"
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
       "artists": [
         {
-          "name": "Tom Curtain",
-          "url": "https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH"
-        },
-        {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "Sara Storer",
-          "url": "https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL"
         }
       ],
-      "duration_ms": 200320,
-      "name": "She Gave Us the Song",
-      "url": "https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa"
+      "duration_ms": 171704,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
     },
     {
       "added_at": null,

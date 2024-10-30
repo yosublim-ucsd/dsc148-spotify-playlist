@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 
 > ¡A levantar polvadera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,237 likes - 150 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,306 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 45 | [Ordeñando la Vaca](https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Zapateado Endemoniado](https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy) | 2:48 |
 | 46 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 |
 | 47 | [Que la Dejen Ir al Baile Sola](https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:35 |
-| 48 | [El Vaquero](https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Comenzando Nuestra Historia](https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E) | 2:33 |
-| 49 | [Provocame](https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [Provocame](https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ) | 3:09 |
+| 48 | [Provocame](https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [Provocame](https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ) | 3:09 |
+| 49 | [El Vaquero](https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Comenzando Nuestra Historia](https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E) | 2:33 |
 | 50 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 |
 | 51 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
 | 52 | [Con Zapatos de Tacón](https://open.spotify.com/track/59iHlvzeqxfElSdjEOy6VX) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:54 |

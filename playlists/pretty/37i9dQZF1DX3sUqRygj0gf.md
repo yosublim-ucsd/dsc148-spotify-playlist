@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 12 | [Silver Bells](https://open.spotify.com/track/1DGVKHvSovt0RxmUbM3FTL) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Silver Bells](https://open.spotify.com/album/78N8S8sfJLT4kMDkzftwTi) | 3:12 |
 | 13 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/0QSELmravjW44FAonYCWV5) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/0nkB7pN7Zw01xnzfx4u7oj) | 2:53 |
 | 14 | [Snowin' On Raton](https://open.spotify.com/track/25efC97jgYi1ms8Y9SxWak) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Snowin' On Raton](https://open.spotify.com/album/71wodb1V4YhM39VR82IT13) | 3:51 |
-| 15 | [driving home for christmas](https://open.spotify.com/track/4QQsFGPVZpzl6B9W0ghX99) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [driving home for christmas](https://open.spotify.com/album/1ZYbSe0svgGtxXY3qOynAj) | 3:57 |
-| 16 | [A Marshmallow World](https://open.spotify.com/track/6pB2kCDyRizqjFAtw4B8Bp) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol\. 3](https://open.spotify.com/album/2hdVR9dhg6UmbY5Dk6qzGT) | 2:25 |
-| 17 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |
-| 18 | [Frosty](https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Frosty](https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI) | 3:16 |
+| 15 | [Frosty](https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Frosty](https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI) | 3:16 |
+| 16 | [driving home for christmas](https://open.spotify.com/track/4QQsFGPVZpzl6B9W0ghX99) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [driving home for christmas](https://open.spotify.com/album/1ZYbSe0svgGtxXY3qOynAj) | 3:57 |
+| 17 | [A Marshmallow World](https://open.spotify.com/track/6pB2kCDyRizqjFAtw4B8Bp) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol\. 3](https://open.spotify.com/album/2hdVR9dhg6UmbY5Dk6qzGT) | 2:25 |
+| 18 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |
 | 19 | [Jingle Bells](https://open.spotify.com/track/2KRxlv5HnqTjgwdCPTvHMf) | [TWIN BEE](https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh) | [Jingle Bells](https://open.spotify.com/album/54ISUMSRupf0N5HNTrJDsk) | 3:10 |
 | 20 | [We Three Kings](https://open.spotify.com/track/5dT77tyFweHSHC8V0lrDFH) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [We Three Kings](https://open.spotify.com/album/1NZWpPv9ATEef2q7UaS5hc) | 2:41 |
 | 21 | [O Christmas Tree \- Acoustic](https://open.spotify.com/track/1KS9XTm3LUIBPHWMfwUdp5) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [O Christmas Tree \(Acoustic\)](https://open.spotify.com/album/6RoLTReIYJe8IS45SfCkt5) | 3:01 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 30 | [Old Time Christmas](https://open.spotify.com/track/5zIyymMc7mENbj2oRdJZsp) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Old Time Christmas](https://open.spotify.com/album/400GevcjYjBmtOzCn6orRT) | 3:21 |
 | 31 | [Blue Christmas \- Acoustic Version](https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe) | [Eliza May](https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm) | [Blue Christmas](https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh) | 3:10 |
 | 32 | [Once In Royal David's City](https://open.spotify.com/track/4o9strKpeTHvt2ojETGPZf) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Once in Royal David's City](https://open.spotify.com/album/45URvI9CPhDETWSaMgyBDt) | 2:45 |
-| 33 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 |
-| 34 | [Go Tell It On The Mountain](https://open.spotify.com/track/167NLVx6ZmZfIBe8GK3sSv) | [Praytell](https://open.spotify.com/artist/20QoRE4MEXGJpQwRktZ0LJ), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [It's Almost Christmas, Vol\. 3](https://open.spotify.com/album/48Ds43jzKqDa2IDAPPGBHN) | 3:11 |
+| 33 | [Go Tell It On The Mountain](https://open.spotify.com/track/167NLVx6ZmZfIBe8GK3sSv) | [Praytell](https://open.spotify.com/artist/20QoRE4MEXGJpQwRktZ0LJ), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [It's Almost Christmas, Vol\. 3](https://open.spotify.com/album/48Ds43jzKqDa2IDAPPGBHN) | 3:11 |
+| 34 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 |
 | 35 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/0LIkmGyT1ztCTyB8cjpSxp) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/16tTE4MqPmzFC9Xe7GxdTN) | 1:51 |
 | 36 | [Christmas For Cowboys](https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Christmas For Cowboys](https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7) | 3:06 |
 | 37 | [Come Thou Fount](https://open.spotify.com/track/4FuMgG920Za5GiUklVbz5k) | [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Come Thou Fount](https://open.spotify.com/album/5xSJ1iI6wsN5fZvglyIYBT) | 2:56 |

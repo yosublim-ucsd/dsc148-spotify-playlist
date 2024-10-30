@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: First Love is Never Returned",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: jo0ji",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 246253,
       "name": "BAE",
       "url": "https://open.spotify.com/track/7xi1q1cQkrsNDjYn4MLRBa"
@@ -3646,7 +3646,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 84906,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
@@ -4836,6 +4836,24 @@
       "duration_ms": 228031,
       "name": "eienno koibito",
       "url": "https://open.spotify.com/track/2x5ycWQvPTl4sOk5BSnGpS"
+    },
+    {
+      "album": {
+        "name": "Ebis",
+        "url": "https://open.spotify.com/album/0JqBQ0asKeraDuspa1liBX"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158773,
+      "name": "Electronica",
+      "url": "https://open.spotify.com/track/25dAjY6eOu4LTsBYfraOKA"
     },
     {
       "album": {
@@ -10503,6 +10521,24 @@
     },
     {
       "album": {
+        "name": "n+1",
+        "url": "https://open.spotify.com/album/7hw0G861cF3p6co2EZCW01"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216230,
+      "name": "n+1",
+      "url": "https://open.spotify.com/track/4cqhx5Uu8PiOrgbSesIdrs"
+    },
+    {
+      "album": {
         "name": "n.o.y.b (feat. Furui Riho)",
         "url": "https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf"
       },
@@ -16014,7 +16050,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 213143,
       "name": "This Reality",
       "url": "https://open.spotify.com/track/1qEP3jjJWba4Yv2LMHLEta"
@@ -22414,7 +22450,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 180233,
       "name": "\u30d0\u30d9\u30eb",
       "url": "https://open.spotify.com/track/3nZC3CWy9XLX7NclxSealw"
@@ -23947,6 +23983,24 @@
     },
     {
       "album": {
+        "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/3JEKdUwAJRzQ6nOmudnvnn"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226514,
+      "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/2XavMBKximjgAbatCeiJQW"
+    },
+    {
+      "album": {
         "name": "oidaki",
         "url": "https://open.spotify.com/album/5ruTjVEuHfYAsVcV53GIU9"
       },
@@ -24874,6 +24928,24 @@
       "duration_ms": 259560,
       "name": "\u53f3\u624b\u306e\u30cd\u30a4\u30eb",
       "url": "https://open.spotify.com/track/1Sl2DHDcnQlLPq8Ko68bHW"
+    },
+    {
+      "album": {
+        "name": "\u5408\u9375\u3068\u30a2\u30a4\u30ed\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/3ydU0e13X6At2DnAsNG1Qf"
+      },
+      "artists": [
+        {
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172305,
+      "name": "\u5408\u9375\u3068\u30a2\u30a4\u30ed\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/6Ne6n6vGbAy8yVULukUSZg"
     },
     {
       "album": {

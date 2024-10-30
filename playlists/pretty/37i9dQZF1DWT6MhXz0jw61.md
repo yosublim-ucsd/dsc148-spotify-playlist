@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332,177 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,332,440 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Passenger Princess \(feat\. Smino\)](https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Passenger Princess / Adam](https://open.spotify.com/album/6eszObM49D1h61rbPxS7po) | 2:27 |
-| 2 | [Take Your Mask Off](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 |
+| 2 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 |
 | 3 | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/album/4sAQkEB9HwmyKAd9JNZ7ee) | 3:27 |
 | 4 | [either on or off the drugs](https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:20 |
 | 5 | [Ecstasy \(Freestyle\)](https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik) | [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Ecstasy \(Freestyle\)](https://open.spotify.com/album/4l5ytI2ykKixML9AQwbL9X) | 1:57 |

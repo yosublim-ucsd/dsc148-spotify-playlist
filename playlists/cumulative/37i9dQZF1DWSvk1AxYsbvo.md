@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-185 songs - 10 hr 54 min
+186 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 | 2022-07-08 | 2024-04-19 |
 | [Falling In Love 너를 보네](https://open.spotify.com/track/61VCxojnsTkde1teMCMW0j) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP) | 3:28 | 2022-05-03 | 2022-07-29 |
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2022-08-29 | 2023-07-08 |
-| [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 | 2022-12-26 |  |
+| [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 | 2022-12-26 | 2024-10-30 |
 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2022-05-03 | 2023-07-08 |
 | [Gargen](https://open.spotify.com/track/24JTr3fAXP5aas1NX6Wla8) | [Kim Jiwoo](https://open.spotify.com/artist/5VCISWkGAsjEvjQpIXAfgD) | [Memories of Summer](https://open.spotify.com/album/2wIpyWKUKna6nnLTV3AXST) | 3:04 | 2022-07-08 | 2022-07-28 |
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/4Ov1By1bw2tZ0bWYn2mHlX) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2022-05-03 | 2022-12-03 |
@@ -147,6 +147,7 @@
 | [Sweet Kiss Like Coffee](https://open.spotify.com/track/2M0c6RddlHFOHPKwxfqMlW) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Sweet Kiss Like Coffee](https://open.spotify.com/album/2UShff7ibk9SW5BuaMsXE5) | 3:54 | 2022-05-03 | 2024-02-02 |
 | [Sweet Kiss Like Coffee \(Feat\. LEE SUNG KYOUNG\)](https://open.spotify.com/track/4Ute9sqbRdX61EkTKXAXl6) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Sweet Kiss Like Coffee \(Feat\. LEE SUNG KYOUNG\)](https://open.spotify.com/album/17WOhbcXnYRHLHUmWfLBG4) | 3:54 | 2023-11-04 | 2024-04-19 |
 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 | 2022-08-09 |  |
+| [swimming to you \(with Jaehyuk Shin\)](https://open.spotify.com/track/17i92672sFgl7QMGhIOeOM) | [Somseori](https://open.spotify.com/artist/3EPOdIgYA9mQ7pCuy5IkWq), [Shin Jaehyuk](https://open.spotify.com/artist/6TNvBd7R1YGiNqVZdJ1gNc) | [swimming to you \(with Jaehyuk Shin\)](https://open.spotify.com/album/3N3Zib5i9ZVUoOQc1fIFrR) | 3:23 | 2024-09-23 |  |
 | [Tahiti](https://open.spotify.com/track/2Y6wXSfzN1rWB4Xdr5juE2) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Dream](https://open.spotify.com/album/3hBlDkaiR7KU5bFaJaT0t2) | 4:21 | 2022-05-03 | 2022-07-08 |
 | [That day](https://open.spotify.com/track/3BVt9Ua8FkPEo1vBK6Adsp) | [YEAHSHINE](https://open.spotify.com/artist/5U7zy9djpWwawFg5B5RNbo) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.12](https://open.spotify.com/album/7wBRv1g1DLvzVtH536bC3t) | 2:56 | 2022-06-18 | 2022-07-06 |
 | [The Blue Night Of Jeju Island](https://open.spotify.com/track/5I6MDAsc3nv2BPiiGnLEDI) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [The Blue Night Of Jeju Island](https://open.spotify.com/album/5N0DCNi28CDILaQZ7tYNfU) | 4:05 | 2022-05-03 | 2022-07-27 |

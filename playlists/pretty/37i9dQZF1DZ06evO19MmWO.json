@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 6528,
+  "num_followers": 6531,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAB20SUvKxuOIiTGssjqAL9O",
+  "snapshot_id": "Zx7UAAAAAAB8yTWoepaYeM7ecd4NBzhC",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 158440,
-      "name": "Mellow Down Easy",
-      "url": "https://open.spotify.com/track/2ZEzJC5b9H6BrDfavP3Sr9"
+      "duration_ms": 173013,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
     },
     {
       "added_at": null,
@@ -275,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+        "name": "Anthology: His Early Years (Remastered)",
+        "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
       },
       "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        },
         {
           "name": "Little Walter",
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 179920,
-      "name": "Don't Have To Hunt No More",
-      "url": "https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S"
+      "duration_ms": 166453,
+      "name": "That's All Right - Remastered",
+      "url": "https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz"
     },
     {
       "added_at": null,
@@ -316,25 +320,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 173013,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 159333,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/5rhkyfhfDDioMMUcJRApcx"
+      "duration_ms": 158440,
+      "name": "Mellow Down Easy",
+      "url": "https://open.spotify.com/track/2ZEzJC5b9H6BrDfavP3Sr9"
     },
     {
       "added_at": null,
@@ -348,9 +336,25 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 168560,
-      "name": "Thunderbird",
-      "url": "https://open.spotify.com/track/1Wl2sGefc5A4r17FgrFxbA"
+      "duration_ms": 172466,
+      "name": "Ah'w Baby",
+      "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 179920,
+      "name": "Don't Have To Hunt No More",
+      "url": "https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S"
     },
     {
       "added_at": null,
@@ -387,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthology: His Early Years (Remastered)",
-        "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "That's All Right - Remastered",
-      "url": "https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
@@ -416,9 +400,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 172666,
-      "name": "One More Chance With You",
-      "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
+      "duration_ms": 159333,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/5rhkyfhfDDioMMUcJRApcx"
     },
     {
       "added_at": null,
@@ -432,9 +416,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Ah'w Baby",
-      "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
+      "duration_ms": 168560,
+      "name": "Thunderbird",
+      "url": "https://open.spotify.com/track/1Wl2sGefc5A4r17FgrFxbA"
     },
     {
       "added_at": null,
@@ -488,9 +472,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 185560,
-      "name": "Rocker",
-      "url": "https://open.spotify.com/track/7C8g8w2ZQIGXzxqB2urzX1"
+      "duration_ms": 172666,
+      "name": "One More Chance With You",
+      "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
     },
     {
       "added_at": null,
@@ -524,9 +508,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 181506,
-      "name": "Crazy For My Baby",
-      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
+      "duration_ms": 138360,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
     },
     {
       "added_at": null,
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 160773,
-      "name": "I Got To Go",
-      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
+      "duration_ms": 185560,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/7C8g8w2ZQIGXzxqB2urzX1"
     },
     {
       "added_at": null,
@@ -596,9 +580,45 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 138360,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
+      "duration_ms": 181506,
+      "name": "Crazy For My Baby",
+      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saga Blues: Blowing With a Feeling",
+        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/08jmyS0eeftXvPRV1QfWqO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 160773,
+      "name": "I Got To Go",
+      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
     },
     {
       "added_at": null,
@@ -627,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saga Blues: Blowing With a Feeling",
-        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/08jmyS0eeftXvPRV1QfWqO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Chess Masters (1950 - 1967)",
         "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
       },
@@ -659,6 +659,26 @@
       "duration_ms": 150666,
       "name": "Last Boogie",
       "url": "https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saga Blues: Blowing With a Feeling",
+        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        },
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/1J4C3L3ouWmzzUNXSQLzSm"
     },
     {
       "added_at": null,
@@ -699,26 +719,6 @@
       "duration_ms": 341560,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saga Blues: Blowing With a Feeling",
-        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        },
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/1J4C3L3ouWmzzUNXSQLzSm"
     },
     {
       "added_at": null,

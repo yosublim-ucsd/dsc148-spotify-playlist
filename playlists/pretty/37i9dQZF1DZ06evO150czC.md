@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,453 likes - 51 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,457 likes - 51 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 9 | [Que Tal](https://open.spotify.com/track/1cKmv6Ca3hqonAttrAOH6y) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Voar](https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7) | 5:09 |
 | 10 | [Soldado Ferido](https://open.spotify.com/track/476aDnrdzh6DQ2Xa4KSSwX) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:26 |
 | 11 | [Olharei Para o Alto](https://open.spotify.com/track/6ZUd69R92Ao3V9yNRwY52M) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:28 |
-| 12 | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Misael J](https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD) | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI) | 13:49 |
-| 13 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 |
+| 12 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 |
+| 13 | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Misael J](https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD) | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI) | 13:49 |
 | 14 | [Sou Teu Deus](https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sou Teu Deus](https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1) | 4:50 |
 | 15 | [Aguenta Coração](https://open.spotify.com/track/3O3QlOVC1iRmpx7NYg42zY) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguenta Coração](https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG) | 4:33 |
 | 16 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 30 | [Eu Vim Te Adorar](https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:37 |
 | 31 | [Deus Proverá](https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B) | [Casa do Oleiro Adoração](https://open.spotify.com/artist/6lGPisEkgq8UJDUPcKr0Fv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Deus Proverá](https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC) | 5:10 |
 | 32 | [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 |
-| 33 | [O Deus dos Pequeninos](https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Deus dos Pequeninos](https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h) | 4:41 |
-| 34 | [Não Haverá Vergonha](https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Haverá Vergonha](https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX) | 5:16 |
+| 33 | [Não Haverá Vergonha](https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Haverá Vergonha](https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX) | 5:16 |
+| 34 | [O Deus dos Pequeninos](https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Deus dos Pequeninos](https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h) | 4:41 |
 | 35 | [Shekinah](https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:46 |
 | 36 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
 | 37 | [Jesus não se esqueceu de você](https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 3:49 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 50 | [Atos 2 \(Ao Vivo\)](https://open.spotify.com/track/46gZR9rY1vrujQsOm6Iflo) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Atos 2 \(Ao Vivo\)](https://open.spotify.com/album/2e1gED5YRJBQ3Pguz5jEAu) | 5:19 |
 | 51 | [Desperta](https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Desperta](https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1) | 3:48 |
 
-Snapshot ID: `Zx2CgAAAAAA8EEE2OyeKkv463djEAITJ`
+Snapshot ID: `Zx7UAAAAAABIU16fWjzL4K32y0fAKa1e`

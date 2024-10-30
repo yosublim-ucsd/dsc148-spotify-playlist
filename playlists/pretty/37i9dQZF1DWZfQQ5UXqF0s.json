@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nuestros amados 90 los recordamos as\u00ed! Caf\u00e9 Tacvba en portada.",
-  "num_followers": 1067129,
+  "num_followers": 1067443,
   "original_name": "Los 90 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Mirala Miralo",
-      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "La Pachanga",
         "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 281933,
       "name": "La Pachanga",
       "url": "https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Mirala Miralo",
+      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Depende",
-        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "Depende",
-      "url": "https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+        "name": "Depende",
+        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
       },
       "artists": [
         {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 265466,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+      "duration_ms": 265160,
+      "name": "Depende",
+      "url": "https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -923,6 +907,22 @@
       "duration_ms": 241160,
       "name": "Est\u00e9s Donde Est\u00e9s",
       "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -991,38 +991,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Odio Amarte",
-      "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
-        "name": "Adicion",
-        "url": "https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Manto Estelar",
-      "url": "https://open.spotify.com/track/58HfaJinOwdtvIusPS04Im"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -1055,6 +1023,22 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
+        "name": "Adicion",
+        "url": "https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Manto Estelar",
+      "url": "https://open.spotify.com/track/58HfaJinOwdtvIusPS04Im"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 135133,
       "name": "Las flores",
       "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Odio Amarte",
+      "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Andy Y Lucas",
-        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
-      },
-      "artists": [
-        {
-          "name": "Andy & Lucas",
-          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Monica Naranjo",
         "url": "https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Laura Pausini - Spanish Version",
-        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
+        "name": "Andy Y Lucas",
+        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Andy & Lucas",
+          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
         }
       ],
-      "duration_ms": 255266,
-      "name": "Amores extra\u00f1os",
-      "url": "https://open.spotify.com/track/3HPF8PGYVMRczBwPufGaYb"
+      "duration_ms": 231813,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1307,6 +1291,22 @@
       "duration_ms": 279026,
       "name": "Detr\u00e1s de Mi Ventana",
       "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Laura Pausini - Spanish Version",
+        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Amores extra\u00f1os",
+      "url": "https://open.spotify.com/track/3HPF8PGYVMRczBwPufGaYb"
     },
     {
       "added_at": "2021-09-07 14:13:23",

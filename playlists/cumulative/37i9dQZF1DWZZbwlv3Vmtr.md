@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-979 songs - 1 day 13 hr 57 min
+980 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Happy Rhythm](https://open.spotify.com/track/3rqXQZIaS8MJxg3ZH4U7PS) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Happy Rhythm](https://open.spotify.com/album/6kUm2VBgPparejM4cqiMOj) | 1:46 | 2022-11-11 | 2024-01-17 |
 | [Happy Vibes](https://open.spotify.com/track/756qohm4sXMyfHT6t0pPOK) | [Banker](https://open.spotify.com/artist/2VTXmYvdlvwrIQ0p2j2XfI) | [Happy Vibes](https://open.spotify.com/album/6emgwxBXdHUBvWy4y0XJwH) | 2:40 | 2022-11-11 |  |
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 |  |
-| [have we met before?](https://open.spotify.com/track/096FqtiSIjZqAAZH6U6mW7) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [have we met before?](https://open.spotify.com/album/6MsQoiJdl6aC8QxybR4OF1) | 1:42 | 2022-06-24 |  |
+| [have we met before?](https://open.spotify.com/track/096FqtiSIjZqAAZH6U6mW7) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [have we met before?](https://open.spotify.com/album/6MsQoiJdl6aC8QxybR4OF1) | 1:42 | 2022-06-24 | 2024-10-30 |
 | [Haze](https://open.spotify.com/track/3XqZUhZcHpOtP9rhw6O43l) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Haze](https://open.spotify.com/album/3yvDt541gJut8flE9HmCAP) | 2:28 | 2024-07-26 |  |
 | [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 | 2023-11-24 |  |
 | [Head Down](https://open.spotify.com/track/6bK9DxZ3UOo1x6fpUTmhLr) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Head Down](https://open.spotify.com/album/00BtezqtTN1x9b252Lvc5P) | 2:29 | 2022-04-22 | 2022-12-10 |
@@ -412,6 +412,7 @@
 | [Kids](https://open.spotify.com/track/50b0kt9UF5zu9WDiaIjAxL) | [Quality Blues](https://open.spotify.com/artist/3kU1BwnXjcIGhJxeZfqPy9) | [Kids](https://open.spotify.com/album/640L11zarEqJbXHV0gVLbG) | 3:56 | 2022-04-15 | 2022-05-27 |
 | [Knox U](https://open.spotify.com/track/4STt3ABfGPhaT0OhKRKanc) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Knox U](https://open.spotify.com/album/2OIOLhlLiMhZM0YHnTfTpy) | 2:40 | 2022-04-15 |  |
 | [KOI FISH](https://open.spotify.com/track/5X4Wk6FiOu74JG3PNxX3LB) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [KOI FISH](https://open.spotify.com/album/3sgn6a1a43LZzkznOWo5Lt) | 2:08 | 2022-11-11 |  |
+| [koko](https://open.spotify.com/track/2M07oWoOgrpaojZ6dulp3Y) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [koko](https://open.spotify.com/album/1MQbP92gnFWG4CSgyEiZXZ) | 2:29 | 2024-10-25 |  |
 | [Kopo](https://open.spotify.com/track/5OleafVdjWJZXpgH0xogCQ) | [ShoPaRo](https://open.spotify.com/artist/2GkroNSOCAW3rYkMfZyfdn), [Karma Kush](https://open.spotify.com/artist/46c7S778Q0SzgxgdPQriL0), [Meraki99](https://open.spotify.com/artist/1Ahnk99UWwxfK79NVSjcnI) | [Kopo](https://open.spotify.com/album/6FL1U7mZv2170IdhZuXduy) | 1:53 | 2023-01-13 | 2024-10-04 |
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2022-04-15 | 2022-06-25 |
 | [Lakeview Hotel](https://open.spotify.com/track/64KLZ6ghwEzRH6yAoNfEj2) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Charlie Young](https://open.spotify.com/artist/5HPpufL8VIMnpG7423YMmH) | [Lakeview Hotel](https://open.spotify.com/album/0e5iO95x8kua0wwFU0H3qe) | 2:33 | 2022-04-15 | 2023-10-13 |
@@ -439,7 +440,7 @@
 | [Let It Love](https://open.spotify.com/track/4PThACYdVkpvTevBsLQh4X) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG), [Japanolofi Records](https://open.spotify.com/artist/3hpBOomrnPaXG3xfma7CUM) | [Let It Love](https://open.spotify.com/album/7uFQKLLBDOj3C4SzaDZJMt) | 2:24 | 2022-11-25 |  |
 | [Lets meet soon](https://open.spotify.com/track/29rrd6Sg1lAmLzflVCrejq) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Lets meet soon](https://open.spotify.com/album/0NTIuafaplcYS4BsuTXSFs) | 2:12 | 2022-05-13 | 2023-10-20 |
 | [Let’s Talk](https://open.spotify.com/track/3PDYzBV9MDoceVJT05doMe) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Jackson Heights](https://open.spotify.com/album/0jwgd46SErxE9SXsRWzpf6) | 3:25 | 2023-09-22 |  |
-| [Lights](https://open.spotify.com/track/2Ybz4zJuj5pBKmWeLjbGdE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Lights](https://open.spotify.com/album/7jVcGM3AMu2z9yRs6TEO0R) | 2:34 | 2023-07-19 | 2024-09-20 |
+| [Lights](https://open.spotify.com/track/2Ybz4zJuj5pBKmWeLjbGdE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Lights](https://open.spotify.com/album/7jVcGM3AMu2z9yRs6TEO0R) | 2:34 | 2023-07-19 |  |
 | [Lightzone](https://open.spotify.com/track/6RWd8uKY4Fp7IfVpJjjOgp) | [Ble0](https://open.spotify.com/artist/6WmPnJPGUdHOZAmDIY9GIo) | [Lightzone](https://open.spotify.com/album/4NKxtQjQiUir9MJMIkdPJi) | 2:21 | 2022-04-15 | 2022-05-20 |
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2022-04-15 | 2022-08-12 |
 | [Limitless 8](https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Limitless 8](https://open.spotify.com/album/38jOR4uZk78GnorFhtSBbH) | 2:37 | 2023-12-15 |  |
@@ -956,7 +957,7 @@
 | [Who's World Is This?](https://open.spotify.com/track/6dL7z10QINju4SHT3O3cxC) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Who's World Is This](https://open.spotify.com/album/19Hp7di22vmwP4DrX1y6ex) | 2:36 | 2022-05-13 | 2023-09-29 |
 | [whoops i'm napping](https://open.spotify.com/track/5Wxany1ffEA1DxkRBvnLJ0) | [Pistachio](https://open.spotify.com/artist/1zj6sjoit7AFmmBfozJX1H) | [whoops i'm napping](https://open.spotify.com/album/7rqTIV0hWHwjxCchxWWlg6) | 2:54 | 2023-07-19 | 2023-09-29 |
 | [wicked](https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [wicked](https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA) | 2:26 | 2024-02-02 |  |
-| [Wild poetry](https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Wild poetry](https://open.spotify.com/album/4TEKZ8XR8LUO3oXsbShFgx) | 3:48 | 2023-01-06 |  |
+| [Wild poetry](https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Wild poetry](https://open.spotify.com/album/4TEKZ8XR8LUO3oXsbShFgx) | 3:48 | 2023-01-06 | 2024-10-30 |
 | [Willow](https://open.spotify.com/track/0ungxzIT4zXR4YofdK04Xh) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Willow](https://open.spotify.com/album/6v7cDjYKyljCw8HWwZzhuF) | 2:29 | 2022-10-14 | 2023-10-20 |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-15 | 2022-09-24 |
 | [Wine To The Plants](https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Wine To The Plants](https://open.spotify.com/album/3V0GXWAPQnhMiYuWnr8jzi) | 2:27 | 2022-04-15 | 2022-07-08 |

@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14621,
+  "num_followers": 14628,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Frukstrakt",
+        "url": "https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Aftyka Quintet",
+          "url": "https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT"
+        }
+      ],
+      "duration_ms": 211047,
+      "name": "Serce Otwarte Na P\u00f3\u0142",
+      "url": "https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Flying Lion",
         "url": "https://open.spotify.com/album/0M7FwXBXw3WRrlwlzPTKLR"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 364149,
       "name": "Hi 5",
       "url": "https://open.spotify.com/track/7LSQ3LsrI4dQyHzRD38IDa"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Frukstrakt",
-        "url": "https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Aftyka Quintet",
-          "url": "https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT"
-        }
-      ],
-      "duration_ms": 211047,
-      "name": "Serce Otwarte Na P\u00f3\u0142",
-      "url": "https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Polish Pentagon",
+        "url": "https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv"
+      },
+      "artists": [
+        {
+          "name": "Piotr Szlempo",
+          "url": "https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6"
+        }
+      ],
+      "duration_ms": 286506,
+      "name": "After Shave",
+      "url": "https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Krzysztof Meyer: Sonata No.4, Op.22: IV. Interludio II",
         "url": "https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 238518,
       "name": "Krzysztof Meyer: Sonata No.4, Op.22: IV. Interludio II",
       "url": "https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Polish Pentagon",
-        "url": "https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv"
-      },
-      "artists": [
-        {
-          "name": "Piotr Szlempo",
-          "url": "https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6"
-        }
-      ],
-      "duration_ms": 286506,
-      "name": "After Shave",
-      "url": "https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL"
     }
   ],
   "unique_name": "Fryderyk 2024",

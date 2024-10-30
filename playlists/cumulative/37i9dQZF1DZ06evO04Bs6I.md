@@ -4,13 +4,13 @@
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-60 songs - 5 hr 1 min
+61 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Anos](https://open.spotify.com/track/6FN0YpMMkDM3ziaH14MC9m) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [10 Anos](https://open.spotify.com/album/5BqkDaAaj07vQuxqNgPx4z) | 3:19 | 2023-07-09 | 2024-08-24 |
 | [A Casa é Sua + Labareda](https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 8:07 | 2023-07-09 |  |
-| [Alegria \(Ao Vivo\)](https://open.spotify.com/track/4d3yPwUu4FvXnMEfVVt7sL) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 3:54 | 2024-09-20 |  |
+| [Alegria \(Ao Vivo\)](https://open.spotify.com/track/4d3yPwUu4FvXnMEfVVt7sL) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 3:54 | 2024-09-20 | 2024-10-30 |
 | [Aliança \(Ao Vivo\)](https://open.spotify.com/track/4cRSit9wzI1XfV0PB7GVSQ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 5:32 | 2024-09-20 |  |
 | [Aliança \(Ao Vivo\)](https://open.spotify.com/track/4vxgb344xS9W4X99Klkl9j) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 5:32 | 2024-06-10 | 2024-09-20 |
 | [Assume A Responsa](https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 4:19 | 2023-07-09 | 2024-09-20 |
@@ -39,6 +39,7 @@
 | [Guia\-me](https://open.spotify.com/track/2epjjOlDk4NrSMPtCvPkSc) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Guia\-me](https://open.spotify.com/album/2EEQMKmT4Ce4VCYWuWMSQS) | 4:08 | 2023-07-09 | 2024-06-26 |
 | [Hey, Pai \- Ao Vivo](https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:44 | 2023-07-09 |  |
 | [História](https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 3:46 | 2023-07-09 |  |
+| [Meu Filho \- Ao Vivo](https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN) | 6:42 | 2024-10-30 |  |
 | [Minha Alma Te Ama \(Ao Vivo\)](https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 5:54 | 2024-08-24 |  |
 | [Minha Morada \- Ao Vivo](https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 6:51 | 2023-07-09 |  |
 | [Máscaras](https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [João Figueiredo](https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 3:50 | 2023-07-09 |  |

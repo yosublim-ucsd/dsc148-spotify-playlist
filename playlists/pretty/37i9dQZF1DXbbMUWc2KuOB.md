@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,603 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,637 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 13 | [Love Me Like That \- Instrumental](https://open.spotify.com/track/2Bi7jDHh3IzLt3xJuyx4eU) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
 | 14 | [The way to lose you \(Inst.\)](https://open.spotify.com/track/3M67uOxfgPzOcpBVj92gSn) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 |
 | 15 | [Heavy Heart \- Instrumental](https://open.spotify.com/track/2QOC5grYqt8ZFEwzcg7RwU) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Nevertheless, \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/27KzACZPqQ9EcB3NPFDPNj) | 3:34 |
-| 16 | [I WANNA KNOW \- Instrumental](https://open.spotify.com/track/7FylkkBopzdD6eyK0NC0rF) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 |
-| 17 | [Give You My Heart \(Inst.\)](https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
+| 16 | [Give You My Heart \(Inst.\)](https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
+| 17 | [I WANNA KNOW \- Instrumental](https://open.spotify.com/track/7FylkkBopzdD6eyK0NC0rF) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 |
 | 18 | [Wishes \- Instrumental](https://open.spotify.com/track/4juTgLIgRUGofcqA5JgKJi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
 | 19 | [With You \(Inst.\)](https://open.spotify.com/track/2Q3KiqbzEeRRYks33iLNLs) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [WINTER of aespa X MY DEMON](https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y) | 4:14 |
 | 20 | [Butterfly \- Instrumental](https://open.spotify.com/track/3J4AXtGxqaVg9A9RihPdbd) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |

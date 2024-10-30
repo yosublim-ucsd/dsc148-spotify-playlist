@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 
 > When the music and the message is honest, songs can be both personal and universal\.   Here is a list that pushes and reflects the culture at large\. Cover: <a href="spotify:artist:7wGizTRCLYwsLnTuCBbJ6t">Propaganda</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,585 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,594 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

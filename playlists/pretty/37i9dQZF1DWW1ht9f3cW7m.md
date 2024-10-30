@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > the sweetest new indie pop, featuring Ziggy 2000 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,344 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,346 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 15 | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 |
 | 16 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
 | 17 | [I Like Your Look](https://open.spotify.com/track/6ZTmWZIjdDhZUNdq8uGCZ8) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t) | 2:56 |
-| 18 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 |
-| 19 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 |
+| 18 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 |
+| 19 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 |
 | 20 | [Weather's Better](https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Weather's Better](https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5) | 2:52 |
 | 21 | [Piano Hands](https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Piano Hands](https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk) | 3:38 |
 | 22 | [Spells](https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Spells](https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN) | 3:14 |
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 27 | [Beach House](https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Beach House](https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt) | 3:17 |
 | 28 | [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 |
 | 29 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 |
-| 30 | [Time Slipping Away](https://open.spotify.com/track/7wscYVNFUWr92JfFIYE2S0) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Time Slipping Away](https://open.spotify.com/album/2A2IZm6wrSsTUaxB2dLBWP) | 3:00 |
+| 30 | [Hello Lonely](https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Hello Lonely](https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr) | 3:31 |
 | 31 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 |
-| 32 | [Hello Lonely](https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Hello Lonely](https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr) | 3:31 |
+| 32 | [Time Slipping Away](https://open.spotify.com/track/7wscYVNFUWr92JfFIYE2S0) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Time Slipping Away](https://open.spotify.com/album/2A2IZm6wrSsTUaxB2dLBWP) | 3:00 |
 | 33 | [Crashmat](https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Crashmat](https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8) | 3:40 |
 | 34 | [Happy Customers](https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Happy Customers](https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ) | 2:50 |
 | 35 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
-| 36 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 |
-| 37 | [projections](https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [projections](https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt) | 4:20 |
+| 36 | [projections](https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [projections](https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt) | 4:20 |
+| 37 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 |
 | 38 | [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 |
 | 39 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
 | 40 | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn) | 3:21 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 42 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 |
 | 43 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 |
 | 44 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 |
-| 45 | [Girl](https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Girl](https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B) | 3:37 |
-| 46 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 |
+| 45 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 |
+| 46 | [Girl](https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Girl](https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B) | 3:37 |
 | 47 | [everything about her](https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [everything about her](https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk) | 2:51 |
 | 48 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 |
 | 49 | [Use Me](https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Use Me](https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V) | 3:39 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 63 | [Gramophone](https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF) | 3:22 |
 | 64 | [Basement](https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Basement](https://open.spotify.com/album/3IpJ8tdpNv7weGiLmyPdJU) | 2:40 |
 | 65 | [Chamomile](https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Chamomile](https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P) | 3:07 |
-| 66 | [Split Lip](https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Split Lip](https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9) | 3:09 |
-| 67 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 |
+| 66 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 |
+| 67 | [Split Lip](https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Split Lip](https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9) | 3:09 |
 | 68 | [How I Wish I Was Cool](https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D) | [Bayboards](https://open.spotify.com/artist/0FpxYe2b5uTpjYK8IwMgsM) | [How I Wish I Was Cool](https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL) | 3:06 |
 | 69 | [Everything Is Beautiful](https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Everything Is Beautiful](https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL) | 3:18 |
 | 70 | [Compliment Strike](https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Compliment Strike](https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC) | 3:24 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 75 | [it's all good, kid](https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [it's all good, kid](https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq) | 2:54 |
 | 76 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 |
 | 77 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
-| 78 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 |
-| 79 | [sprinkles](https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [sprinkles](https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs) | 4:33 |
-| 80 | [Spinnin'](https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Spinnin'](https://open.spotify.com/album/4CRfnrDgWkCNq4jO08YzQt) | 3:17 |
+| 78 | [sprinkles](https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [sprinkles](https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs) | 4:33 |
+| 79 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 |
+| 80 | [What Have I Become?](https://open.spotify.com/track/08MQRS8nISdiYeZq4Dq2I8) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Different This Time?](https://open.spotify.com/album/67DJaYzEwXwfJ4ofIF3QaC) | 3:09 |
 
 Snapshot ID: `Zu1fDwAAAABsLosfJgwK0SwBOBBXBt0C`

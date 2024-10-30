@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21731,
+  "num_followers": 21732,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAABt7Xkef/Ekj+4sUJde0qhM",
+  "snapshot_id": "Zx7UAAAAAAB0iqbm1JOMAJPXERtFJB1U",
   "tracks": [
     {
       "added_at": null,
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Seu Grande Amor",
+        "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 211896,
+      "name": "O Seu Grande Amor",
+      "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posturadin",
         "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
       },
@@ -987,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Seu Grande Amor",
-        "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "O Seu Grande Amor",
-      "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Origens 3 - O Show (Ao Vivo)",
         "url": "https://open.spotify.com/album/5mK9V3aziC4Kpn1yycrkiy"
       },
@@ -1035,30 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
-        "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
-      },
-      "artists": [
-        {
-          "name": "LOCOS",
-          "url": "https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 113442,
-      "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
-      "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nosso Relacionamento",
         "url": "https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF"
       },
@@ -1079,6 +1055,30 @@
       "duration_ms": 200769,
       "name": "Nosso Relacionamento",
       "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
+        "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
+      },
+      "artists": [
+        {
+          "name": "LOCOS",
+          "url": "https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 113442,
+      "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
+      "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
     },
     {
       "added_at": null,
@@ -1231,6 +1231,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "DJ Thi Marquez",
+          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "Ressentimento",
+      "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep"
       },
@@ -1275,30 +1299,6 @@
       "duration_ms": 173553,
       "name": "Tudo Vai Mudar",
       "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "DJ Thi Marquez",
-          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "Ressentimento",
-      "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
     },
     {
       "added_at": null,

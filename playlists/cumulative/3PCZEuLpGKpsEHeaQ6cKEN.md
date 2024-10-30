@@ -2,9 +2,9 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Deep Dish
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin van Buuren, Oliver Heldens
 
-1,199 songs - 2 day 16 hr 17 min
+1,200 songs - 2 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -932,6 +932,7 @@
 | [Sofrito \(Do It Like That\)](https://open.spotify.com/track/39mRogfOcY1NWb1diQrRJo) | [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Sofrito \(Do It Like That\)](https://open.spotify.com/album/19pyRIlQUCdj7vd6yM7Ya4) | 3:16 | 2023-04-13 | 2023-05-19 |
 | [Some Chants](https://open.spotify.com/track/1RHX7Wh9E1u0AzPRorMWoP) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Some Chants](https://open.spotify.com/album/6k9l4ZJDvHHkBzf0lJBHtE) | 3:05 | 2023-03-23 | 2023-06-09 |
 | [Somebody](https://open.spotify.com/track/571VdzPAVPYyH7TT06zmwE) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Somebody](https://open.spotify.com/album/6Oywxi0QgYkkekNhktFpls) | 3:11 | 2022-07-07 | 2023-02-10 |
+| [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 | 2024-10-29 |  |
 | [Something Beautiful](https://open.spotify.com/track/5fMy36xPHP4PEgsirxLmma) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Feel Again, Pt\. 2](https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q) | 2:34 | 2022-10-20 | 2022-10-28 |
 | [Something New](https://open.spotify.com/track/2ClJdYDfI8kjMadp5qTziB) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Something New](https://open.spotify.com/album/0LPCndTNe6UwfyMXp1sODb) | 3:28 | 2024-06-07 | 2024-10-19 |
 | [Somewhere In Between](https://open.spotify.com/track/4RgcHsBvmH8AJ3raGfaqvK) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere In Between](https://open.spotify.com/album/39KBFZHemCL8i2Smrkak4o) | 2:36 | 2023-01-06 | 2023-08-04 |

@@ -2,9 +2,9 @@
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Daichi Yamamoto
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: PAS TASTA
 
-1,943 songs - 5 day 0 hr 46 min
+1,945 songs - 5 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [Here I Am](https://open.spotify.com/track/0WOoHI5EBwXEIFZZrBZQpT) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Here I Am](https://open.spotify.com/album/3a3gMEtUzOHT3c0yzdX0z1) | 4:54 | 2024-08-06 | 2024-09-13 |
 | [Here I Stand](https://open.spotify.com/track/1xmcCam3mEi2Tmajwkdt6X) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/1RY9bS3e6w4akVpgedsXNH) | 6:50 | 2023-02-21 | 2023-03-08 |
 | [hey dad you sent me postcards](https://open.spotify.com/track/5ffw9FBlKKv6wqvKkV6SoR) | [Wang\-Wang\(旺旺\)](https://open.spotify.com/artist/3P5cZnDKVRP2tcYJ7GHDuD) | [Arrow](https://open.spotify.com/album/0Rv1EUFlf1xPlejjgOnYod) | 4:27 | 2023-01-12 | 2023-02-08 |
-| [High Hopes](https://open.spotify.com/track/20I4zWMOycRKhrhFtFnT06) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [High Hopes](https://open.spotify.com/album/7EfIYCSnURTRcPI7oUzDcf) | 3:44 | 2024-10-15 |  |
+| [High Hopes](https://open.spotify.com/track/20I4zWMOycRKhrhFtFnT06) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [High Hopes](https://open.spotify.com/album/7EfIYCSnURTRcPI7oUzDcf) | 3:44 | 2024-10-15 | 2024-10-30 |
 | [Higher](https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Higher](https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV) | 3:41 | 2024-08-27 | 2024-10-05 |
 | [Highway](https://open.spotify.com/track/0CKF5Il9laNqfSWNU36qgZ) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Highway](https://open.spotify.com/album/0LRbsy0bndIFllIVDosuQM) | 2:23 | 2023-02-23 | 2023-03-15 |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 | 2023-04-05 |
@@ -570,6 +570,7 @@
 | [Leila](https://open.spotify.com/track/4FeJt1fgcQSVLJkJz2IyvG) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Leila](https://open.spotify.com/album/4OAMD29bLZWsPiMAI5EVAV) | 3:15 | 2023-09-08 | 2023-09-20 |
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-07 | 2023-04-21 |
 | [Lemonade](https://open.spotify.com/track/3hIcBVAruVAo9XovuKOX0C) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [Lemonade](https://open.spotify.com/album/0K5aMNxJOzF7v06gpqJ6Mi) | 4:09 | 2024-02-27 | 2024-03-01 |
+| [LET GO](https://open.spotify.com/track/5GMK8sduhOa6g3mcW9gwi6) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR) | [LET GO](https://open.spotify.com/album/1Q9XRAfWT01mx7MFGxJOFF) | 2:10 | 2024-10-29 |  |
 | [LET IT GO](https://open.spotify.com/track/2oDxup8QDQZJ10LLdoq7qZ) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [LET IT GO](https://open.spotify.com/album/3e4VLtAPQ577TtOIk5S3YT) | 3:30 | 2024-07-30 | 2024-09-11 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-20 | 2023-11-22 |
 | [Let Me Feel It](https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 4:05 | 2023-01-12 | 2023-01-25 |
@@ -1074,6 +1075,7 @@
 | [Teenager](https://open.spotify.com/track/5HJmjrdCvcNg0VUzWy2DRT) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [Teenager](https://open.spotify.com/album/4hQM81eAKcx3fnvBqNt2DF) | 2:36 | 2023-09-19 | 2024-01-02 |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2023-03-30 | 2023-04-05 |
 | [Tefu Tefu](https://open.spotify.com/track/4SSWgLtGqYoDoa5zVlyW88) | [SARM](https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP) | [Tefu Tefu](https://open.spotify.com/album/1z9aZbZS6qfxf8DUd0G1y8) | 3:05 | 2024-04-30 | 2024-05-08 |
+| [Teinei Life](https://open.spotify.com/track/7KxMfTywMExXe1jfE2Bu33) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [GRAND POP](https://open.spotify.com/album/3TVnfBuCOqcu9P39zD8FYe) | 2:30 | 2024-10-29 |  |
 | [telepath](https://open.spotify.com/track/6o7EzzdgoRJgbb5yb30iFz) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [telepath](https://open.spotify.com/album/1wvdRCtiLW0FKViQNWE3rI) | 3:02 | 2023-12-19 | 2024-01-10 |
 | [telepath](https://open.spotify.com/track/6yyYv4y4Tor2cVOzP4gLRB) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [telepath](https://open.spotify.com/album/5htEeR66Nt43ETZx4XsIy5) | 3:02 | 2023-12-19 | 2023-12-21 |
 | [Tell Me](https://open.spotify.com/track/1795z9rReenfn77riAyw0y) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Tell Me](https://open.spotify.com/album/2cXIRNadXAL3oBzOANyAOR) | 3:43 | 2024-08-06 | 2024-09-04 |
@@ -1527,7 +1529,7 @@
 | [ポラロイド](https://open.spotify.com/track/1meYLsqbLSkjMpBS2DDx6T) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [ポラロイド](https://open.spotify.com/album/6Lg5PtOYz7cPcrzUcQge10) | 3:14 | 2023-02-07 | 2023-02-09 |
 | [マイディア](https://open.spotify.com/track/1oItY0AjKHFSWjQbtxvrks) | [ベアディーコリー](https://open.spotify.com/artist/0jCmoGW1ThlKBah1pC4efB) | [マイディア](https://open.spotify.com/album/722nCO8CY1QnvjOPmBETHD) | 3:31 | 2024-08-06 | 2024-09-02 |
 | [マイ・ガール](https://open.spotify.com/track/03U4Qix6CbNgj9Dhlmlh58) | [Osteoleuco](https://open.spotify.com/artist/42u1RJUE0BhUW7VkXntJ99), [The Flipside](https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1) | [マイ・ガール](https://open.spotify.com/album/6P9RcbmKzLOFzWDqGSprbO) | 3:47 | 2024-04-09 | 2024-04-17 |
-| [マイ・ロスト・シティー \- Recorded at LIQUIDROOM 2023.12.3](https://open.spotify.com/track/7td4nCFdsA3ylPAF0vMMPX) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Live O Rec](https://open.spotify.com/album/4bSPM5YprzQ2oEVwN3tGoL) | 4:56 | 2024-09-10 |  |
+| [マイ・ロスト・シティー \- Recorded at LIQUIDROOM 2023.12.3](https://open.spotify.com/track/7td4nCFdsA3ylPAF0vMMPX) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Live O Rec](https://open.spotify.com/album/4bSPM5YprzQ2oEVwN3tGoL) | 4:56 | 2024-09-10 | 2024-10-30 |
 | [マクドナルドのコーヒー](https://open.spotify.com/track/4lDhiYQwDNQgDQh1Ua0uG1) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [マクドナルドのコーヒー](https://open.spotify.com/album/1z4Ne7xYUj6dRjHyysBXNj) | 3:14 | 2023-09-21 | 2023-09-23 |
 | [マヨイガ \- PHIL REWORK](https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [マヨイガ \(PHIL REWORK\)](https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR) | 4:07 | 2023-02-23 | 2023-06-14 |
 | [メガフォン](https://open.spotify.com/track/0Q4sqHF7uMbOZjwkbrfrw4) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [4PIES](https://open.spotify.com/album/0Varj37mIYsQjzlphyyWRO) | 2:38 | 2023-03-14 | 2023-05-09 |

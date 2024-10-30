@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,904 likes - 102 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,959 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

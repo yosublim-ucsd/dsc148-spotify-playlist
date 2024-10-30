@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 30572,
+  "num_followers": 30596,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
+        "name": "Stan Getz With Cal Tjader",
+        "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan Quartet",
-          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 175080,
-      "name": "Nights At The Turntable",
-      "url": "https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA"
+      "duration_ms": 236960,
+      "name": "I've Grown Accustomed To Her Face",
+      "url": "https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -167,22 +171,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Stan Getz With Cal Tjader",
-        "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
+        "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Gerry Mulligan Quartet",
+          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
         }
       ],
-      "duration_ms": 236960,
-      "name": "I've Grown Accustomed To Her Face",
-      "url": "https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T"
+      "duration_ms": 175080,
+      "name": "Nights At The Turntable",
+      "url": "https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "The Latin Side Of Vince Guaraldi",
-        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Star Song",
-      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Chet is Back",
         "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 235133,
       "name": "Chetty's Lullaby",
       "url": "https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "The Latin Side Of Vince Guaraldi",
+        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "This Is How I Feel About Jazz",
-        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
+        "name": "In New York [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
       },
       "artists": [
         {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 340773,
-      "name": "Stockholm Sweetnin'",
-      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
+      "duration_ms": 453506,
+      "name": "Blue Thoughts",
+      "url": "https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "In New York [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
+        "name": "This Is How I Feel About Jazz",
+        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 453506,
-      "name": "Blue Thoughts",
-      "url": "https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm"
+      "duration_ms": 340773,
+      "name": "Stockholm Sweetnin'",
+      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -483,6 +483,26 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
+        "name": "Picture Of Heath",
+        "url": "https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 343133,
+      "name": "Resonant Emotions",
+      "url": "https://open.spotify.com/track/5jqlbjVMrHHSV9oFEinHKb"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 294600,
       "name": "Thou Swell",
       "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "Picture Of Heath",
-        "url": "https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 343133,
-      "name": "Resonant Emotions",
-      "url": "https://open.spotify.com/track/5jqlbjVMrHHSV9oFEinHKb"
     },
     {
       "added_at": "2024-09-03 09:42:20",

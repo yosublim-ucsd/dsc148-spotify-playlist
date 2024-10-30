@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,885 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,880 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 52 | [Cœur de parisienne](https://open.spotify.com/track/16bV2DdifOepotmlnEjNQZ) | [Arletty](https://open.spotify.com/artist/5ouVGmB18Ok71seyDU6g91) | [Mon homme](https://open.spotify.com/album/0wttZ0qGZeO95j5NOIDRF5) | 2:39 |
 | 53 | [Une belle histoire](https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:15 |
 | 54 | [Hier encore](https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 2:20 |
-| 55 | [Santiano](https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB) | 2:14 |
-| 56 | [Comment te dire adieu \- It Hurts to Say Goodbye](https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu ?](https://open.spotify.com/album/5lX198dectE8fpkow4UXrf) | 2:26 |
-| 57 | [Poupée de cire, poupée de son](https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [France Gall CD Story](https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb) | 2:33 |
+| 55 | [Poupée de cire, poupée de son](https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [France Gall CD Story](https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb) | 2:33 |
+| 56 | [Santiano](https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB) | 2:14 |
+| 57 | [Comment te dire adieu \- It Hurts to Say Goodbye](https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu ?](https://open.spotify.com/album/5lX198dectE8fpkow4UXrf) | 2:26 |
 | 58 | [Amoureux de ma femme](https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Les plus grandes chansons](https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh) | 2:43 |
 | 59 | [Laissons entrer le soleil](https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Inédits 68\-97](https://open.spotify.com/album/3NBgEG8mdN6GvIsrgC79si) | 3:44 |
 | 60 | [Lady Lay](https://open.spotify.com/track/1qB3PKYW5muVtgi5OEA68t) | [Pierre Groscolas](https://open.spotify.com/artist/3RAqlLiVsYkndio9mey84r) | [Les Plus Grands Tubes 70's](https://open.spotify.com/album/5p9k85pZ6CRxssmNuNZm6c) | 2:55 |

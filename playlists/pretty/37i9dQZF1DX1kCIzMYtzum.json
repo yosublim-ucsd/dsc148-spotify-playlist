@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
-  "num_followers": 265227,
+  "num_followers": 265406,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Chills (Feel My Love)",
-        "url": "https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 163399,
-      "name": "Chills (Feel My Love)",
-      "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Go Back (feat. Julia Church)",
         "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
       },
@@ -1387,6 +1363,30 @@
       "duration_ms": 220538,
       "name": "Go Back (feat. Julia Church)",
       "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Chills (Feel My Love)",
+        "url": "https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 163399,
+      "name": "Chills (Feel My Love)",
+      "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        }
-      ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Out My Head",
         "url": "https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln"
       },
@@ -1579,22 +1559,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Chasing Ghosts",
-        "url": "https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx"
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
         }
       ],
-      "duration_ms": 127714,
-      "name": "Chasing Ghosts",
-      "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1615,6 +1595,26 @@
       "duration_ms": 181874,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        }
+      ],
+      "duration_ms": 127714,
+      "name": "Chasing Ghosts",
+      "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1731,6 +1731,30 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "PERO NO TE ENAMORES",
         "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
       },
@@ -1775,30 +1799,6 @@
       "duration_ms": 215905,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1959,6 +1959,30 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+        }
+      ],
+      "duration_ms": 207992,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
       },
@@ -1999,26 +2023,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Wherever You Are",
-        "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/0MJZ4UzanaEtPdYBTeuA20"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
         },
         {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+          "name": "Alina Pozi",
+          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
         }
       ],
-      "duration_ms": 207992,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
+      "duration_ms": 138666,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/5nsGwIGBNcwYVAPNdZCYQV"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2043,26 +2063,6 @@
       "duration_ms": 148551,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/0MJZ4UzanaEtPdYBTeuA20"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Alina Pozi",
-          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/5nsGwIGBNcwYVAPNdZCYQV"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2135,6 +2135,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "hold my hand",
+        "url": "https://open.spotify.com/album/0CgtiMzPmtvTM115elKHao"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Sophia Gripari",
+          "url": "https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH"
+        }
+      ],
+      "duration_ms": 266246,
+      "name": "hold my hand",
+      "url": "https://open.spotify.com/track/3GPmn3HANnZTlEovc2J9nt"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Smalltown Boy",
         "url": "https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti"
       },
@@ -2147,6 +2167,30 @@
       "duration_ms": 214153,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2175,50 +2219,6 @@
       "duration_ms": 279692,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "hold my hand",
-        "url": "https://open.spotify.com/album/0CgtiMzPmtvTM115elKHao"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Sophia Gripari",
-          "url": "https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH"
-        }
-      ],
-      "duration_ms": 266246,
-      "name": "hold my hand",
-      "url": "https://open.spotify.com/track/3GPmn3HANnZTlEovc2J9nt"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
     }
   ],
   "unique_name": "EDM 2024",

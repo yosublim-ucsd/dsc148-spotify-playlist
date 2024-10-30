@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Alek
 
-192 songs - 9 hr 27 min
+193 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Come un cane](https://open.spotify.com/track/4JujqIRmOF4x0ajNH1sb6o) | [Möly](https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo) | [Come un cane](https://open.spotify.com/album/32VsW1b0TZEcDxAgPH2SLl) | 3:31 | 2024-07-25 | 2024-09-27 |
 | [Comfort zone](https://open.spotify.com/track/0F8WxJdboc9dINI2tPtSho) | [Riva](https://open.spotify.com/artist/3tPJLXaVURp1YXYpvmkSCe) | [Pensiero Stupendo Universale](https://open.spotify.com/album/0vxJ5R1vdbV0wHU8Q8E007) | 3:41 | 2024-06-27 | 2024-07-27 |
 | [compleanni degli altri](https://open.spotify.com/track/4ezzpiYowUR0KUgMTYB2By) | [miele](https://open.spotify.com/artist/1fV44jgoWdnw2eB2zYGIyw) | [ambiente protetto](https://open.spotify.com/album/4OsUEE4jaj1K3fQ53AgJzE) | 2:44 | 2024-06-27 | 2024-07-19 |
+| [Cosa Non Va?](https://open.spotify.com/track/6vxDGxG1lj0qJrL9ihBq8a) | [CORSO ITALIA](https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK) | [Cosa Non Va?](https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX) | 3:04 | 2024-10-24 |  |
 | [cose un po' scontate](https://open.spotify.com/track/0gp80mAq1VWGlUpFv9YbCP) | [otto x otto](https://open.spotify.com/artist/63pXwqJjzmf6ACEsu1RABb) | [cose un po' scontate](https://open.spotify.com/album/4tdx6A1dKAEkwbmDfmYIed) | 2:47 | 2024-09-26 | 2024-10-02 |
 | [Costellazione](https://open.spotify.com/track/5Jox5uSfaGkJ2Wm7zXEzTY) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Estate Lachea](https://open.spotify.com/album/3gUebY15KykhIStuskHmpM) | 3:15 | 2024-07-11 | 2024-08-23 |
 | [Cu'mme](https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Cu'mme](https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP) | 2:42 | 2024-07-25 |  |
@@ -127,7 +128,7 @@
 | [Olio e sale](https://open.spotify.com/track/3q0mHQFdcJtx8eQYiYCUNz) | [Nelea](https://open.spotify.com/artist/1aTfJXQZb2gZf2FyooWust) | [Olio e sale](https://open.spotify.com/album/58gLtG2Y46pi8iW7MQPRQp) | 3:01 | 2024-10-24 |  |
 | [Ondeggiando](https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Ondeggiando](https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y) | 2:34 | 2024-09-26 |  |
 | [ora che è tutto ok](https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7) | [ora che è tutto ok](https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn) | 2:45 | 2024-08-01 |  |
-| [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 | 2024-08-29 |  |
+| [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 | 2024-08-29 | 2024-10-30 |
 | [Papapa](https://open.spotify.com/track/6eVudiatEcu6VO2Yl15KCN) | [200x100furo](https://open.spotify.com/artist/60IyQ8YTpIuykM81hrkhsZ), [999folo](https://open.spotify.com/artist/5M9Qo3gcWQvQVOa4CgH2lS) | [Papapa](https://open.spotify.com/album/6tjYWAUPpI6CYTLzombQvv) | 2:42 | 2024-08-01 | 2024-09-27 |
 | [PARTITA A SCACCHI](https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [PARTITA A SCACCHI](https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49) | 3:08 | 2024-10-10 |  |
 | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj) | 2:34 | 2024-09-26 |  |

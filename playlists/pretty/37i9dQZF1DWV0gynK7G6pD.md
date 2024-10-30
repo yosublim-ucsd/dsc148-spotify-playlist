@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Maurizio Pollini & Daniele Pollini.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,478 likes - 65 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,543 likes - 65 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

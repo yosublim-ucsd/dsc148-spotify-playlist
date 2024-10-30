@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-240 songs - 14 hr 41 min
+241 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Hall of Shame](https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:33 | 2022-08-20 | 2022-11-01 |
 | [Hall of Shame](https://open.spotify.com/track/3jwnNTEjlyg6z1ctcxYWsV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 3:33 | 2022-10-31 | 2022-12-16 |
 | [Hallelujah](https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:10 | 2022-01-11 | 2022-08-08 |
+| [Halloweenhead](https://open.spotify.com/track/04N3X9vfSzIpkgnD15pCzz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 3:23 | 2024-10-30 |  |
 | [Harvest Moon \- Live from Calgary, AL\. 2023](https://open.spotify.com/track/3cTOXcZi3I61oAGqwAtc2y) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [After the Gold Rush \(Live from Calgary, AL\. 2023\)](https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k) | 3:58 | 2024-06-14 | 2024-07-15 |
 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 | 2022-01-11 | 2024-08-14 |
 | [Haunted House \(Live\)](https://open.spotify.com/track/5wm5pRktQR2Vlvxh8WzDma) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 2:28 | 2024-01-06 | 2024-08-15 |
@@ -231,7 +232,7 @@
 | [Used Cars](https://open.spotify.com/track/2jQYAjZ6BDCHgD2lX1nSGl) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Nebraska](https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh) | 3:59 | 2023-01-08 | 2023-03-23 |
 | [War Pigs \- Live from Birmingham, UK\. 2023](https://open.spotify.com/track/3xvxLbvFqzz1IwXVpZ9D2u) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [War Pigs \(Live from Birmingham, UK\. 2023\)](https://open.spotify.com/album/0jUXLpTMnc182KoOLQ42Mq) | 3:59 | 2024-08-18 | 2024-10-02 |
 | [Was I Wrong](https://open.spotify.com/track/1KhVi78g6RUIVYDPzEfWUw) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:17 | 2022-04-06 | 2022-06-06 |
-| [Wasted Years \- Live from Glasgow](https://open.spotify.com/track/1ETjsf2uAXbAApPQxhpJ5g) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wasted Years \(Live from Glasgow, UK\. 2023\)](https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs) | 3:39 | 2024-08-11 |  |
+| [Wasted Years \- Live from Glasgow](https://open.spotify.com/track/1ETjsf2uAXbAApPQxhpJ5g) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wasted Years \(Live from Glasgow, UK\. 2023\)](https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs) | 3:39 | 2024-08-11 | 2024-10-30 |
 | [We Built This City \- Live from Oakland, CA, 2022](https://open.spotify.com/track/3XJx0M1mC7ppnl2JULqT37) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [We Built This City \(Live from Oakland, CA, 2022\)](https://open.spotify.com/album/2gm2b6mIhwljA7WwdrDJTG) | 4:13 | 2024-05-20 | 2024-07-13 |
 | [Welcome to New York](https://open.spotify.com/track/3fxcUfVbzcKssPNrqsvspm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:18 | 2023-01-05 | 2024-06-16 |
 | [What Am I](https://open.spotify.com/track/0fjHr7PDwEa2h3qd6RtkHV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ) | 2:48 | 2022-04-08 | 2022-05-15 |

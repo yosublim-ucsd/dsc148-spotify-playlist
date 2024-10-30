@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,212 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,236 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 31 | [Cergy](https://open.spotify.com/track/1e83AhmZenZjuUGxpFtjcK) | [Anis](https://open.spotify.com/artist/3700G3mzTkuxc5U7hdE9CV) | [La Chance.](https://open.spotify.com/album/7hr4T8GgC9Pw7B9v9sDMju) | 4:18 |
 | 32 | [Emily](https://open.spotify.com/track/74C1HMWK9xA575Xr60Mt1k) | [Soan](https://open.spotify.com/artist/4Bxixr2SfkADo7S4aZXgCw) | [Tant pis](https://open.spotify.com/album/5W2UTG8meZ7cXm7hMCTM8q) | 2:51 |
 | 33 | [Sex accordéon et alcool](https://open.spotify.com/track/0Ad1QXmK8eWYh4917DMcCJ) | [Java](https://open.spotify.com/artist/2EaYvd5IQJYvfc7o44RKJi) | [Hawaï](https://open.spotify.com/album/3gA5SPdm6ImoZ1LvLwQLHn) | 4:25 |
-| 34 | [Leo](https://open.spotify.com/track/5A2eN7HBSi6EcJWFS32ORB) | [Les VRP](https://open.spotify.com/artist/1UlbIPR4gt1ZQcEiDzD5j9) | [Vacances Prolongees](https://open.spotify.com/album/1VJGfxvY2EtV8N9X86ZTEb) | 3:42 |
-| 35 | [Balle Populaire](https://open.spotify.com/track/4ngtifrUaclXkXVL2WzaBp) | [Ministère Des Affaires Populaires](https://open.spotify.com/artist/2uo5phtKRY3BzaiSY0N31I) | [Debout là d'dans](https://open.spotify.com/album/4taZ4mviPoIK3n0Bx16YSY) | 4:04 |
+| 34 | [Balle Populaire](https://open.spotify.com/track/4ngtifrUaclXkXVL2WzaBp) | [Ministère Des Affaires Populaires](https://open.spotify.com/artist/2uo5phtKRY3BzaiSY0N31I) | [Debout là d'dans](https://open.spotify.com/album/4taZ4mviPoIK3n0Bx16YSY) | 4:04 |
+| 35 | [Leo](https://open.spotify.com/track/5A2eN7HBSi6EcJWFS32ORB) | [Les VRP](https://open.spotify.com/artist/1UlbIPR4gt1ZQcEiDzD5j9) | [Vacances Prolongees](https://open.spotify.com/album/1VJGfxvY2EtV8N9X86ZTEb) | 3:42 |
 | 36 | [Don Diego 2000](https://open.spotify.com/track/5g9HzwqUa3kS1Vmi2kSpkD) | [Dionysos](https://open.spotify.com/artist/75nb7WjICnFHCXFdVX0PkO) | [Western Sous La Neige](https://open.spotify.com/album/7n3bwYHPBrnRBb7jWYdySY) | 3:32 |
 | 37 | [Les p'tits plaisirs](https://open.spotify.com/track/215xowAMaWJgaBLVWMFBUS) | [Les Blérots de R.A.V.E.L.](https://open.spotify.com/artist/03f8NxYYzXXegwRNjft7v7) | [Voleurs du dimanche](https://open.spotify.com/album/4yrLwpLLBQmOk5PraYT7pY) | 3:02 |
 | 38 | [Les gens raisonnables](https://open.spotify.com/track/14FWWR9YkXEv4PtL7N8yFH) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Tu Vas Pas Mourir De Rire](https://open.spotify.com/album/6A72tti9z0ejH8Y6DeVhCr) | 3:27 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 43 | [L'accordéoniste](https://open.spotify.com/track/5zdsWxGjYO8Su7lAKwzvR3) | [Les Hurlements D'leo](https://open.spotify.com/artist/5WclEPgvoYK28a034NNa8s) | [Le café des jours heureux](https://open.spotify.com/album/4f0WbqM9lzf3ygfNzVKnG8) | 3:02 |
 | 44 | [Emmène\-moi](https://open.spotify.com/track/4ulUmNlJ8LxT49lT5gXHkV) | [Les Tit' Nassels](https://open.spotify.com/artist/1cZthYGjUVOGcPbymiznkC) | [Deux, trois trucs](https://open.spotify.com/album/3koj7cBNbJ2cICgr4HNk6I) | 3:05 |
 | 45 | [Les embouteillages](https://open.spotify.com/track/0H1Ih7vJhcoU4yy6XPXvrF) | [Sanseverino](https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz) | [Le Tango Des Gens](https://open.spotify.com/album/14VGXNhq3B646I7GWaXo9D) | 3:08 |
-| 46 | [Vitrolles](https://open.spotify.com/track/6b3Hgev5YOJrqbF9IRaTka) | [Raspigaous](https://open.spotify.com/artist/6hOwWmb5Hl7HZ0J8tQLe4u) | [Chaud time](https://open.spotify.com/album/50sNVGEowGVYHhaxyazz8S) | 5:04 |
-| 47 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
+| 46 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
+| 47 | [Vitrolles](https://open.spotify.com/track/6b3Hgev5YOJrqbF9IRaTka) | [Raspigaous](https://open.spotify.com/artist/6hOwWmb5Hl7HZ0J8tQLe4u) | [Chaud time](https://open.spotify.com/album/50sNVGEowGVYHhaxyazz8S) | 5:04 |
 | 48 | [International Dub](https://open.spotify.com/track/6lEvKrzQ6gtm8uHj1NIJni) | [Percubaba](https://open.spotify.com/artist/2Byn2ekDC01oao1e88L7fJ) | [Percubaba](https://open.spotify.com/album/3j2qBxrpBrEOgnPdbe90Vl) | 4:47 |
 | 49 | [La gueule du patrimoine](https://open.spotify.com/track/1W1fQ84xvzfdMuFLBPy6Jh) | [Z.E.P](https://open.spotify.com/artist/4XAzJCyr0H69x6RkEnb2Go) | [Zone d'expression populaire](https://open.spotify.com/album/4RJzRt68IPvg9BZc53mpiN) | 4:45 |
 | 50 | [Vivant](https://open.spotify.com/track/0zPtUnDs7cHNjBgEm14mSd) | [Collectif 13](https://open.spotify.com/artist/3i55ORsQQWzrt0Z9jqXqOs) | [13](https://open.spotify.com/album/6eHq4R3wNjPZdlHjzYIvLl) | 2:57 |

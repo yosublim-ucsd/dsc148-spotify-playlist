@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Konstantin Sibold
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,233 likes - 91 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,355 likes - 91 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lost in Space \(with KAF3R\)](https://open.spotify.com/track/2Qn6K6ytz5O3ckq4pH6oV3) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [KAF3R](https://open.spotify.com/artist/0onxcomzS4gSqUyQsfImJf) | [Lost in Space](https://open.spotify.com/album/0xCajsCFn5NdldJpeamZAp) | 3:32 |
+| 1 | [Lost in Space](https://open.spotify.com/track/2Qn6K6ytz5O3ckq4pH6oV3) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [KAF3R](https://open.spotify.com/artist/0onxcomzS4gSqUyQsfImJf) | [Lost in Space](https://open.spotify.com/album/0xCajsCFn5NdldJpeamZAp) | 3:32 |
 | 2 | [Own Me \- Club Version](https://open.spotify.com/track/5EgtRg4btLHbFUXjPbCp4W) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Talmirage](https://open.spotify.com/artist/6gEIeLcp6HuMhrfq8ZZvbr) | [Own Me](https://open.spotify.com/album/4m1MrllPtOryAsnD2URGoC) | 5:40 |
 | 3 | [Watch This World Fall Down](https://open.spotify.com/track/0pM1OEIlf5705iP1V94JMN) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Watch This World Fall Down](https://open.spotify.com/album/0VLPy7CsP3DPZ8b6U4X6MO) | 4:44 |
 | 4 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 |

@@ -1,6 +1,6 @@
 {
   "description": "New music from Tyler, The Creator, Gucci Mane, Sexyy Red and Megan Thee Stallion.",
-  "num_followers": 16082415,
+  "num_followers": 16083733,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
@@ -18,10 +18,22 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
       "duration_ms": 255915,
-      "name": "Sticky",
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
@@ -102,10 +114,18 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
         }
       ],
       "duration_ms": 207272,
-      "name": "Thought I Was Dead",
+      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
       "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
     },
     {

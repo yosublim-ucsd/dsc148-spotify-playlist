@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,791 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,800 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 31 | [La Gran Alianza del Norte](https://open.spotify.com/track/3q8E4v1do4oENB7CYg9rkR) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Piloncillo y Bacanora](https://open.spotify.com/album/1uliriDJ6RM4F7xUq049Zd) | 2:47 |
 | 32 | [Baila Leila](https://open.spotify.com/track/10JeR9uqMHMDwfF2mtxgQb) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Three Letters From Sarajevo \(Opus 1\)](https://open.spotify.com/album/2kg4rl6ejCMSjrj1lfHnam) | 4:39 |
 | 33 | [When Life Was A Miracle \- 'Life Is A Miracle' Original Soundtrack](https://open.spotify.com/track/5J9r1cpWmKZOdysqJ5fKUn) | [Emir Kusturica & The No Smoking Orchestra](https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp) | [Life Is A Miracle](https://open.spotify.com/album/7qYvgzNzni0JD1qhomXsje) | 4:12 |
-| 34 | [A Tapdancer's Dilema](https://open.spotify.com/track/3RJtaxRtxOvvIj6DESm4gh) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Sing\-Along Songs for the Damned and Delirious](https://open.spotify.com/album/36j0yWKLk5a6rLgJEhUghU) | 5:12 |
-| 35 | [Misourlou](https://open.spotify.com/track/5oxVimkWhxcePBKHoLGGLz) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerson](https://open.spotify.com/album/3CnREo12brFqZFotExitha) | 6:57 |
+| 34 | [Misourlou](https://open.spotify.com/track/5oxVimkWhxcePBKHoLGGLz) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerson](https://open.spotify.com/album/3CnREo12brFqZFotExitha) | 6:57 |
+| 35 | [A Tapdancer's Dilema](https://open.spotify.com/track/3RJtaxRtxOvvIj6DESm4gh) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Sing\-Along Songs for the Damned and Delirious](https://open.spotify.com/album/36j0yWKLk5a6rLgJEhUghU) | 5:12 |
 | 36 | [Karnaval](https://open.spotify.com/track/0QoKi5HQm7srBiovlTpTws) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Volver al Futuro \(Otro Futuro\)](https://open.spotify.com/album/184ZgYcvVQWNyvoDHBYtuE) | 4:22 |
 | 37 | [Estos Celos](https://open.spotify.com/track/4d51QRhki1EM2qaNYYjfvK) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Estos Celos](https://open.spotify.com/album/2E1f852SuXQRCGGh9ml4Hf) | 3:29 |
 | 38 | [Opa Tsupa](https://open.spotify.com/track/0un7jg786f0J1cp9wpmfq6) | [Bratsch](https://open.spotify.com/artist/6FZfkhy0yUI4DAkrN8wZrd) | [Sans Domicile Fixe](https://open.spotify.com/album/5spBXqMdI07H9f2yAqXETb) | 2:44 |

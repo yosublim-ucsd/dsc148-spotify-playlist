@@ -1,6 +1,6 @@
 {
   "description": "Relax with this soothing soundtrack from the nineties...",
-  "num_followers": 963942,
+  "num_followers": 964000,
   "original_name": "Easy 90s",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "Boombastic",
-        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Boombastic",
-      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 222013,
       "name": "Hand in My Pocket - 2015 Remaster",
       "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "Boombastic",
+        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Boombastic",
+      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "All-4-One",
-        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
-      },
-      "artists": [
-        {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
         "name": "Pocket Full Of Kryptonite",
         "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 256733,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "All-4-One",
+        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
+      },
+      "artists": [
+        {
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "'N Sync UK Version",
-        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
+        "name": "You",
+        "url": "https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Ten Sharp",
+          "url": "https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF"
         }
       ],
-      "duration_ms": 200440,
-      "name": "I Want You Back - Radio Edit",
-      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+      "duration_ms": 272983,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW"
+        "name": "'N Sync UK Version",
+        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
       },
       "artists": [
         {
-          "name": "Ten Sharp",
-          "url": "https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 272983,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6"
+      "duration_ms": 200440,
+      "name": "I Want You Back - Radio Edit",
+      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
     },
     {
       "added_at": "2024-06-03 14:37:59",

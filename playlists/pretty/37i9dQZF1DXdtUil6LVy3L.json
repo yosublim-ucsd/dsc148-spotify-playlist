@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 19,
+  "num_followers": 18,
   "original_name": "Jazzy Christmas Chill",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-10-17 09:31:43",
       "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8"
-      },
-      "artists": [
-        {
-          "name": "Steve Luke & Holloway",
-          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
-        }
-      ],
-      "duration_ms": 238862,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu"
-    },
-    {
-      "added_at": "2024-10-17 09:31:43",
-      "album": {
         "name": "I Saw Mommy Kissing Santa Claus",
         "url": "https://open.spotify.com/album/5P0WsqOfG5viZpxVpqIuaI"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 166392,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/35OqFuNbclT3cFT92fYGTH"
+    },
+    {
+      "added_at": "2024-10-17 09:31:43",
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "duration_ms": 238862,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu"
     },
     {
       "added_at": "2024-10-17 09:31:43",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-10-17 09:31:43",
       "album": {
-        "name": "Once in Royal David's City",
-        "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
-      },
-      "artists": [
-        {
-          "name": "Red Brick Lane",
-          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
-        }
-      ],
-      "duration_ms": 165225,
-      "name": "Once in Royal David's City",
-      "url": "https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G"
-    },
-    {
-      "added_at": "2024-10-17 09:31:43",
-      "album": {
         "name": "That Christmas Feel",
         "url": "https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ"
       },
@@ -475,34 +459,18 @@
     {
       "added_at": "2024-10-17 09:31:43",
       "album": {
-        "name": "Happy Christmas, Little Friend",
-        "url": "https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF"
+        "name": "Once in Royal David's City",
+        "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
       },
       "artists": [
         {
-          "name": "Paul Moretti Trio",
-          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
+          "name": "Red Brick Lane",
+          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
         }
       ],
-      "duration_ms": 320071,
-      "name": "You're All I Want For Christmas",
-      "url": "https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx"
-    },
-    {
-      "added_at": "2024-10-17 09:31:43",
-      "album": {
-        "name": "I'll Be Home For Christmas",
-        "url": "https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS"
-      },
-      "artists": [
-        {
-          "name": "Kyle Mendes Jazz Trio",
-          "url": "https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2"
-        }
-      ],
-      "duration_ms": 141466,
-      "name": "Still, Still, Still",
-      "url": "https://open.spotify.com/track/1L0op2aXXuCnWsGT8ltTMW"
+      "duration_ms": 165225,
+      "name": "Once in Royal David's City",
+      "url": "https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G"
     },
     {
       "added_at": "2024-10-17 09:31:43",
@@ -523,6 +491,22 @@
     {
       "added_at": "2024-10-17 09:31:43",
       "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Mendes Jazz Trio",
+          "url": "https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2"
+        }
+      ],
+      "duration_ms": 141466,
+      "name": "Still, Still, Still",
+      "url": "https://open.spotify.com/track/1L0op2aXXuCnWsGT8ltTMW"
+    },
+    {
+      "added_at": "2024-10-17 09:31:43",
+      "album": {
         "name": "Happy Christmas",
         "url": "https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 233127,
       "name": "Toyland",
       "url": "https://open.spotify.com/track/3frljinYzzUNd5YRIF6xhj"
+    },
+    {
+      "added_at": "2024-10-17 09:31:43",
+      "album": {
+        "name": "Happy Christmas, Little Friend",
+        "url": "https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF"
+      },
+      "artists": [
+        {
+          "name": "Paul Moretti Trio",
+          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
+        }
+      ],
+      "duration_ms": 320071,
+      "name": "You're All I Want For Christmas",
+      "url": "https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx"
     },
     {
       "added_at": "2024-10-17 09:31:43",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-10-17 09:31:43",
       "album": {
-        "name": "Tis the season",
-        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
-      },
-      "artists": [
-        {
-          "name": "Wonder Eve",
-          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
-        }
-      ],
-      "duration_ms": 214596,
-      "name": "Tis the season",
-      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
-    },
-    {
-      "added_at": "2024-10-17 09:31:43",
-      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2024-10-17 09:31:43",
       "album": {
-        "name": "Feliz navidad",
-        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
+        "name": "Tis the season",
+        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
       },
       "artists": [
         {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
         }
       ],
-      "duration_ms": 123786,
-      "name": "Feliz navidad",
-      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
+      "duration_ms": 214596,
+      "name": "Tis the season",
+      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
     },
     {
       "added_at": "2024-10-17 09:31:43",
@@ -615,6 +599,22 @@
       "duration_ms": 100015,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw"
+    },
+    {
+      "added_at": "2024-10-17 09:31:43",
+      "album": {
+        "name": "Feliz navidad",
+        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "duration_ms": 123786,
+      "name": "Feliz navidad",
+      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
     },
     {
       "added_at": "2024-10-17 09:31:43",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-10-17 09:31:43",
       "album": {
-        "name": "When You Wish Upon a Star",
-        "url": "https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN"
-      },
-      "artists": [
-        {
-          "name": "Basinettes",
-          "url": "https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ"
-        }
-      ],
-      "duration_ms": 130263,
-      "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW"
-    },
-    {
-      "added_at": "2024-10-17 09:31:43",
-      "album": {
         "name": "I Saw Three Ships",
         "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2024-10-17 09:31:43",
       "album": {
-        "name": "Misteltoe",
-        "url": "https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K"
+        "name": "When You Wish Upon a Star",
+        "url": "https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN"
       },
       "artists": [
         {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+          "name": "Basinettes",
+          "url": "https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ"
         }
       ],
-      "duration_ms": 142029,
-      "name": "Misteltoe",
-      "url": "https://open.spotify.com/track/6SJKiadklwqj969ihsTL06"
+      "duration_ms": 130263,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW"
     },
     {
       "added_at": "2024-10-17 09:31:43",
@@ -791,6 +775,22 @@
       "duration_ms": 158066,
       "name": "A Christmas Love Song",
       "url": "https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55"
+    },
+    {
+      "added_at": "2024-10-17 09:31:43",
+      "album": {
+        "name": "Misteltoe",
+        "url": "https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "duration_ms": 142029,
+      "name": "Misteltoe",
+      "url": "https://open.spotify.com/track/6SJKiadklwqj969ihsTL06"
     },
     {
       "added_at": "2024-10-17 09:31:43",
@@ -823,22 +823,6 @@
       "duration_ms": 136800,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/3yUhFUj9GsId8yqwNIMndK"
-    },
-    {
-      "added_at": "2024-10-17 09:31:43",
-      "album": {
-        "name": "Frosty The Snowman",
-        "url": "https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 114393,
-      "name": "Dance of the Sugar Plum Fairy",
-      "url": "https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd"
     },
     {
       "added_at": "2024-10-17 09:31:43",
@@ -887,6 +871,22 @@
       "duration_ms": 206552,
       "name": "The Ultimate Gift",
       "url": "https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0"
+    },
+    {
+      "added_at": "2024-10-17 09:31:43",
+      "album": {
+        "name": "Frosty The Snowman",
+        "url": "https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 114393,
+      "name": "Dance of the Sugar Plum Fairy",
+      "url": "https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd"
     },
     {
       "added_at": "2024-10-17 09:31:43",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-10-17 09:31:43",
       "album": {
-        "name": "Come Thou Fount of Every Blessing",
-        "url": "https://open.spotify.com/album/4sBMrHHFC65NetHmShTGgO"
-      },
-      "artists": [
-        {
-          "name": "Upstage Trio",
-          "url": "https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L"
-        }
-      ],
-      "duration_ms": 168186,
-      "name": "Come Thou Fount of Every Blessing",
-      "url": "https://open.spotify.com/track/55tU7r4O96CUsaWZuMDaBo"
-    },
-    {
-      "added_at": "2024-10-17 09:31:43",
-      "album": {
         "name": "What Child Is This",
         "url": "https://open.spotify.com/album/72aJzZXCOORiyTslTk5Mh3"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 164411,
       "name": "What Child Is This",
       "url": "https://open.spotify.com/track/29fnDld1i5KhEF63a9QnmZ"
+    },
+    {
+      "added_at": "2024-10-17 09:31:43",
+      "album": {
+        "name": "Come Thou Fount of Every Blessing",
+        "url": "https://open.spotify.com/album/4sBMrHHFC65NetHmShTGgO"
+      },
+      "artists": [
+        {
+          "name": "Upstage Trio",
+          "url": "https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L"
+        }
+      ],
+      "duration_ms": 168186,
+      "name": "Come Thou Fount of Every Blessing",
+      "url": "https://open.spotify.com/track/55tU7r4O96CUsaWZuMDaBo"
     },
     {
       "added_at": "2024-10-17 09:31:43",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-17 09:31:43",
       "album": {
-        "name": "It was December the twenty forth..",
-        "url": "https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN"
-      },
-      "artists": [
-        {
-          "name": "Annie Berenson",
-          "url": "https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay"
-        }
-      ],
-      "duration_ms": 147635,
-      "name": "It was December the twenty forth..",
-      "url": "https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa"
-    },
-    {
-      "added_at": "2024-10-17 09:31:43",
-      "album": {
         "name": "O Tannenbaum",
         "url": "https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 123173,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7"
+    },
+    {
+      "added_at": "2024-10-17 09:31:43",
+      "album": {
+        "name": "It was December the twenty forth..",
+        "url": "https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN"
+      },
+      "artists": [
+        {
+          "name": "Annie Berenson",
+          "url": "https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay"
+        }
+      ],
+      "duration_ms": 147635,
+      "name": "It was December the twenty forth..",
+      "url": "https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa"
     },
     {
       "added_at": "2024-10-17 09:31:43",

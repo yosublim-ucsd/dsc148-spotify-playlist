@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,077 likes - 28 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,086 likes - 28 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 22 | [irango](https://open.spotify.com/track/4oXK3uJN2uEWy6E8IIX6vm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Dj Astilo](https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK), [El Bloonel](https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV) | [irango](https://open.spotify.com/album/2nLXzlMA1g8AOSPboDfbxJ) | 2:58 |
 | 23 | [Entrando en Calor](https://open.spotify.com/track/2XwNe2mzPdrSTROqeiCEfj) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Jinzus](https://open.spotify.com/artist/7IjLz8LTToOSNtI4cW5ZKg) | [Entrando en Calor](https://open.spotify.com/album/18zBSvPZKY9VQCmxQ6ODmV) | 3:12 |
 | 24 | [Olvidando el pasado](https://open.spotify.com/track/0cTbIsZvSVAvZ3Jv6xOAIN) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg) | [Olvidando el pasado](https://open.spotify.com/album/5swUIdqddJrIsrMALM6fmb) | 3:18 |
-| 25 | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e) | 3:32 |
-| 26 | [Mas Diablo Soy Yo](https://open.spotify.com/track/1gAP68jDm0oRmOCdMmMscl) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/5agqseEvTZEOwl4hyeIa6T) | 3:40 |
+| 25 | [Mas Diablo Soy Yo](https://open.spotify.com/track/1gAP68jDm0oRmOCdMmMscl) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/5agqseEvTZEOwl4hyeIa6T) | 3:40 |
+| 26 | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e) | 3:32 |
 | 27 | [Pilita \- Remix](https://open.spotify.com/track/6Hk3cm82arTFxwfooQU1c6) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Paola Houghton](https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Pilita \(feat\. Paola Houghton & DJ Nanow\) \[Remix\]](https://open.spotify.com/album/7JWwcgZWtVS3fdx1RiwTRg) | 3:06 |
 | 28 | [Actua](https://open.spotify.com/track/5Cj9ntxxzkR1ci1qcPe7Tw) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/4yroQYEsNxeBwERQ1KRqPt) | 3:58 |
 
-Snapshot ID: `Zx2CgAAAAACyhAEOHoaDuje92XEO9Fni`
+Snapshot ID: `Zx7UAAAAAACUpfiWTySfNh2+o8IuENOG`

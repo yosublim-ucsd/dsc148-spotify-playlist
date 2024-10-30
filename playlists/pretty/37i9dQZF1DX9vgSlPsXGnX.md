@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento antigüito de los boleros te envuelva con amor y nostalgia 💖🎵🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,267 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,286 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 51 | [Estúpido Cupido](https://open.spotify.com/track/5kx2Rl1UcO0jOMDOAOlXBL) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Bodas De Plata](https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27) | 2:36 |
 | 52 | [Mira Que Eres Linda](https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A) | [Roberto Ledesma](https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY) | [El Estilo de Roberto Ledesma](https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM) | 2:54 |
 | 53 | [Amor Mío / Sabrá Dios / Sabor a Mi](https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 4:40 |
-| 54 | [Ay Amor \(Bolero\)](https://open.spotify.com/track/2Ab3yxKUk8SCdIbb2jLh94) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [Perlas Cubanas: Bola de Nieve](https://open.spotify.com/album/4qxgH4FU5jSUgiUP2N2pPI) | 2:25 |
-| 55 | [Madrigal](https://open.spotify.com/track/5xAgpVsRFZUhbEvr4MTICS) | [Trio America](https://open.spotify.com/artist/2Q5bx4hlR7hB8GqKxsf3gE) | [Lo Mejor del Trio America](https://open.spotify.com/album/5hJW4frXZQ63ViZVLjgK9U) | 3:19 |
+| 54 | [Madrigal](https://open.spotify.com/track/5xAgpVsRFZUhbEvr4MTICS) | [Trio America](https://open.spotify.com/artist/2Q5bx4hlR7hB8GqKxsf3gE) | [Lo Mejor del Trio America](https://open.spotify.com/album/5hJW4frXZQ63ViZVLjgK9U) | 3:19 |
+| 55 | [Ay Amor \(Bolero\)](https://open.spotify.com/track/2Ab3yxKUk8SCdIbb2jLh94) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [Perlas Cubanas: Bola de Nieve](https://open.spotify.com/album/4qxgH4FU5jSUgiUP2N2pPI) | 2:25 |
 | 56 | [Quiereme Mucho](https://open.spotify.com/track/5k6dmbJSOvNR5yZLuCS6xe) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Historia De Un Amor](https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5) | 2:46 |
 | 57 | [En Mi Viejo San Juan](https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:08 |
 | 58 | [Somos Novios](https://open.spotify.com/track/0kUb3TKmQ6JZAXLpp8ICas) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Somos Novios](https://open.spotify.com/album/0FcE39oSWJqSQLXdbwmr46) | 2:34 |

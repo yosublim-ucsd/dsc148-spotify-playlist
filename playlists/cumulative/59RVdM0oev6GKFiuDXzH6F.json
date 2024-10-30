@@ -4653,6 +4653,28 @@
     },
     {
       "album": {
+        "name": "Girl In The Club",
+        "url": "https://open.spotify.com/album/2KbLzrMKim1Gg3Kd4z2sHt"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        },
+        {
+          "name": "Robert Flott",
+          "url": "https://open.spotify.com/artist/2YwN2tSu8mKglhQjmzmjQo"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182343,
+      "name": "Girl In The Club",
+      "url": "https://open.spotify.com/track/2X0I1Ky8BOxJ6a4ZC9x8QX"
+    },
+    {
+      "album": {
         "name": "Give It to You",
         "url": "https://open.spotify.com/album/5SpBVU8681KromUTz68ghZ"
       },

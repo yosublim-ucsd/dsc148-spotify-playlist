@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,074 likes - 225 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,071 likes - 225 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 120 | [Bad Thing](https://open.spotify.com/track/4iQz6o1dEA3dZY81d3DiJm) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Bad Thing](https://open.spotify.com/album/0QY0A6aKhw0f2D1RfpCYk7) | 3:33 |
 | 121 | [Nevermind](https://open.spotify.com/track/6zrSdA1OVeHo3Em3Ej5SSv) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Nevermind](https://open.spotify.com/album/1LZUQBxZaXlijfj0No8kaH) | 2:31 |
 | 122 | [Settle The Score \(with DUCKWRTH\)](https://open.spotify.com/track/5K7OgzqlXtwWb01MyrlqVO) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 2:29 |
-| 123 | [Rebound \(feat\. Joey Bada$$\)](https://open.spotify.com/track/32HMtqbJcmTFgkGW3MoyDL) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 4:01 |
-| 124 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |
+| 123 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |
+| 124 | [Rebound \(feat\. Joey Bada$$\)](https://open.spotify.com/track/32HMtqbJcmTFgkGW3MoyDL) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 4:01 |
 | 125 | [Tiptoe](https://open.spotify.com/track/7jFqorrnHGQq2Kra5E5DSp) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Tiptoe](https://open.spotify.com/album/2ggfC4PIKJhmqp2ByVcihN) | 2:58 |
 | 126 | [All In a Day's Work](https://open.spotify.com/track/4kHMoqKJf67w3EJT2dIhFx) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [DK3](https://open.spotify.com/album/5oKuY2PaV7VcvpolsDZ0eH) | 3:14 |
 | 127 | [Nothin' With You](https://open.spotify.com/track/4wa1M7imCi4RYuEQbAdube) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Left Me Hangin'](https://open.spotify.com/album/5u77sXkq7ruKbgUvDy3kdW) | 3:34 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 224 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 | 225 | [SummerTime](https://open.spotify.com/track/364fkWjCvOvHzCUBTHvU3I) | [KE](https://open.spotify.com/artist/1OQbZJyFhZMWGINxNBCUzB), [LAGITT](https://open.spotify.com/artist/1OhNC7ULDsgId5WEKsNsMY) | [SummerTime](https://open.spotify.com/album/0KgWqv4TZlwGCk3M7E6E7j) | 3:40 |
 
-Snapshot ID: `AbgBVAAAAABD6MmHADp1mae6jHTP1LIJ`
+Snapshot ID: `AbgG9AAAAACbToD8M1F9n8l9yw0ssZxW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,914 likes - 272 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,915 likes - 272 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 86 | [Yours Truly](https://open.spotify.com/track/2TFS8koduXCAmOwqdjjJ4A) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Simply Engelbert \- Classic Love Songs and Ballads](https://open.spotify.com/album/4BiyT51ZLVRucMx9fxJVxU) | 3:38 |
 | 87 | [You Light Up My Life](https://open.spotify.com/track/10qVTksSWVtwvJVUa0iD7e) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Release Me 2](https://open.spotify.com/album/5Ele2n7DDMGy8S4CSZCykm) | 3:38 |
 | 88 | [How Many Tears](https://open.spotify.com/track/5gd2WpEBaSaMAcvSPaIgBj) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [With Strings And Things](https://open.spotify.com/album/0MqJETsHm4n5RPkHwZnroy) | 2:06 |
-| 89 | [This Little Girl](https://open.spotify.com/track/6VGqU1LCPFjJ7ZwrV5dsHS) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Donna the Prima Donna](https://open.spotify.com/album/5ZQh54BjXCUK15ziGP1zuX) | 2:34 |
-| 90 | [Song of Long Ago](https://open.spotify.com/track/0exUcfluyGwOgsfYh9xYNf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:44 |
+| 89 | [Song of Long Ago](https://open.spotify.com/track/0exUcfluyGwOgsfYh9xYNf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:44 |
+| 90 | [This Little Girl](https://open.spotify.com/track/6VGqU1LCPFjJ7ZwrV5dsHS) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Donna the Prima Donna](https://open.spotify.com/album/5ZQh54BjXCUK15ziGP1zuX) | 2:34 |
 | 91 | [True Love](https://open.spotify.com/track/49K8v4qRymtDd15Uyg577I) | [Ben King](https://open.spotify.com/artist/3oyChKXh8fpsLj65HfXs8E) | [Save the Last Dance for Me](https://open.spotify.com/album/1aLCACK63j3wSqGr5FvfDu) | 2:15 |
 | 92 | [Really Rosie](https://open.spotify.com/track/5VY8GdeUT4ytQkqwD57kIh) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 1:50 |
 | 93 | [The Girl From Ipanema](https://open.spotify.com/track/4azEwlFfJ6rC1Zp88dRoJI) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Snuggles](https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [The Girl From Ipanema](https://open.spotify.com/album/5bDOastHuIYL0rHjZ3WMDf) | 1:23 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 133 | [Simple Things](https://open.spotify.com/track/7lIQgzo0Z0dFoPla143iCC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:41 |
 | 134 | [I Don't Think You Know Me \- Second Recorded Version; 2006 Remaster](https://open.spotify.com/track/7yUemsSDDVpsm1ismCVPTl) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:20 |
 | 135 | [Lady](https://open.spotify.com/track/7qdtc71bUp1oyxaO4IzQae) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1vUPHNLRsdPmhuyqHmmX1M) | 2:22 |
-| 136 | [I Won't Be](https://open.spotify.com/track/6PYPAsGS9m3G3VIj2Tq4hy) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/7cirEMVoNE7n6FOgqk9rzZ) | 2:07 |
-| 137 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
+| 136 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
+| 137 | [I Won't Be](https://open.spotify.com/track/6PYPAsGS9m3G3VIj2Tq4hy) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/7cirEMVoNE7n6FOgqk9rzZ) | 2:07 |
 | 138 | [Screaming and Yelling](https://open.spotify.com/track/6yb7kTRhtmdE5hQvA5VQRU) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 1:16 |
 | 139 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 |
 | 140 | [What Have You Got to Lose](https://open.spotify.com/track/75TZ0xBZiHI09OHm3fu9JR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:30 |
@@ -189,8 +189,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 179 | [Ties That Bind](https://open.spotify.com/track/20psXaj97NFE662mSeJUAg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:09 |
 | 180 | [A Night This Side of Dying](https://open.spotify.com/track/5iNuEBdMTstvevKBqCFUIf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking Up](https://open.spotify.com/album/5q2IiyDCqPptZrrw7EbtBa) | 3:01 |
 | 181 | [Poor Little Rich Girl \- 1990 Remix / Remaster](https://open.spotify.com/track/2apoUc9GqR0fymKxc8d5QD) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Tristan Powell](https://open.spotify.com/artist/2UOqj3OfNn5lE6npQ6eQql) | [Basie Swings, Bennett Sings](https://open.spotify.com/album/7JmMDmIkkiGpf2YFpYG1Jm) | 3:33 |
-| 182 | [A Road to Nowhere](https://open.spotify.com/track/1tfyZdl5w2gxywZKR4wWT0) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:14 |
-| 183 | [Still Here Thinking Of You](https://open.spotify.com/track/5jZuTd4qmaJVcTfSuCqBMT) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:11 |
+| 182 | [Still Here Thinking Of You](https://open.spotify.com/track/5jZuTd4qmaJVcTfSuCqBMT) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:11 |
+| 183 | [A Road to Nowhere](https://open.spotify.com/track/1tfyZdl5w2gxywZKR4wWT0) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:14 |
 | 184 | [We Are All In This Together](https://open.spotify.com/track/2Ju7lUr2tZ5HK6oxiQXwlU) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:02 |
 | 185 | [Time Gone By](https://open.spotify.com/track/5tDFZPFaTGbTZW0mW596k7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:15 |
 | 186 | [Welfare Symphony](https://open.spotify.com/track/0bGYVfwg5VmqXE2UIsXzpL) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 3:47 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 271 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 272 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbgBSgAAAABPpf9LtMHIWorWXWxSk4ly`
+Snapshot ID: `AbgHEgAAAABdFQL+jodjjRgk7TIXQvfR`

@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Robeldo Timido
 
-196 songs - 11 hr 13 min
+197 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Flyshit](https://open.spotify.com/track/3NQpu0tBPbIcmN3MlY2Dlx) | [LON Daniel](https://open.spotify.com/artist/2oBLRRTHdxf7AeYRlaogfx), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Flyshit](https://open.spotify.com/album/3NLlRiJZVzSS1read9nb7w) | 2:21 | 2023-10-18 | 2023-12-09 |
 | [fouronezerothree](https://open.spotify.com/track/3JdfX2AGZRuZvrDIaLCRyP) | [Calvin De Leon](https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK) | [fouronezerothree](https://open.spotify.com/album/7z5Din6w8cPFqHR4OwpOxz) | 2:45 | 2023-10-18 | 2023-11-11 |
 | [FREESTYLE](https://open.spotify.com/track/6a9c4NKoIdrugAs9fmWuSg) | [lmaobdy](https://open.spotify.com/artist/3CJhyHQgAStaSWNEVGgr8E), [Osidemafia, Xanny Warhol](https://open.spotify.com/artist/5i2iMEr9KYjnf6BxITukQq) | [FREESTYLE](https://open.spotify.com/album/0gb4iHpvS2Vc1HoCw0tt2m) | 3:50 | 2023-10-11 | 2023-12-09 |
+| [FYP LUV](https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [FYP LUV](https://open.spotify.com/album/1fcU63rLWeNkwA3XErDgKc) | 3:38 | 2024-10-30 |  |
 | [Ganun Talaga](https://open.spotify.com/track/7nwD00jIeBrnS0Ay9abC4T) | [1096 Gang](https://open.spotify.com/artist/1HkpK55jsORzgtOURbOeQH) | [Ganun Talaga](https://open.spotify.com/album/0egGF5IBQDYkzc74NLDqwf) | 3:49 | 2024-07-24 |  |
 | [Get Low](https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [Get Low](https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn) | 2:33 | 2023-12-27 |  |
 | [Girls Need Love \- Remix](https://open.spotify.com/track/4rWXfXphKXHxrB56npwV4k) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Girls Need Love \(Remix\)](https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL) | 2:43 | 2024-01-17 | 2024-04-11 |
@@ -155,7 +156,7 @@
 | [Rapstar](https://open.spotify.com/track/6Rv8Ltr2MuAIM3LHF4L8qs) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Rapstar](https://open.spotify.com/album/7IrCcwvtv03sTMD5PvHDkv) | 3:39 | 2023-09-20 | 2024-07-18 |
 | [RAW](https://open.spotify.com/track/6YK6D1wwSEK2DfAC6HXR2m) | [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [RAW](https://open.spotify.com/album/775RKE5HoZQlRqLlukngVI) | 2:03 | 2023-11-08 | 2023-12-21 |
 | [Real Love](https://open.spotify.com/track/2rHlkGQAXF0Z0mKWsC38d0) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Real Love](https://open.spotify.com/album/0WO2RnfXjz2WeYDsRhQP98) | 2:54 | 2024-07-31 |  |
-| [Real Talk](https://open.spotify.com/track/7pWNl0BdWqYvT9swgDqZAq) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Real Talk](https://open.spotify.com/album/1RuWV3kpG2gFEinRXB7ntu) | 3:12 | 2024-06-20 |  |
+| [Real Talk](https://open.spotify.com/track/7pWNl0BdWqYvT9swgDqZAq) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Real Talk](https://open.spotify.com/album/1RuWV3kpG2gFEinRXB7ntu) | 3:12 | 2024-06-20 | 2024-10-30 |
 | [Regrets](https://open.spotify.com/track/07TlwpmIzJE0nMffVhJDDx) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [BLUDEVL](https://open.spotify.com/album/2IjAbVlaGvgpWOUcVQjK8x) | 4:04 | 2024-08-16 |  |
 | [SA'YO LANG](https://open.spotify.com/track/1DQdAQW9QxjPqLm1cFC6EL) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [SA'YO LANG](https://open.spotify.com/album/5h87BNGNhIpVde4Ttnu5DQ) | 4:02 | 2024-08-14 |  |
 | [Sabak Daddy](https://open.spotify.com/track/6DkK11BIC836tTu3056Kxg) | [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Sabak Daddy](https://open.spotify.com/album/35yzIYk6qn8gUB7HLuPGvi) | 2:13 | 2023-09-20 | 2023-10-05 |

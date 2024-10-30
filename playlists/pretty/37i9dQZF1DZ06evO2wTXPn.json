@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31033,
+  "num_followers": 31041,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAABxqKI2pVbidVxFLrKc3nMY",
+  "snapshot_id": "Zx7UAAAAAADf9JHIR7CqUB9WIcmrVhxp",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Pedacito de Ti",
-        "url": "https://open.spotify.com/album/0CiSex1YY0FmwkzZBsrQNy"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Un Pedacito de Ti",
-      "url": "https://open.spotify.com/track/1j8JC06xzRbmlDsXXjKDLw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 189013,
       "name": "Encima De Mil",
       "url": "https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Pedacito de Ti",
+        "url": "https://open.spotify.com/album/0CiSex1YY0FmwkzZBsrQNy"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Un Pedacito de Ti",
+      "url": "https://open.spotify.com/track/1j8JC06xzRbmlDsXXjKDLw"
     },
     {
       "added_at": null,
@@ -803,22 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
-        "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
+        "name": "B\u00f3rrame",
+        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 173720,
-      "name": "S\u00f3lo Muere Si Se Olvida",
-      "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
+      "duration_ms": 173226,
+      "name": "B\u00f3rrame",
+      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
     },
     {
       "added_at": null,
@@ -839,22 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "B\u00f3rrame",
-        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
+        "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
+        "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         },
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 173226,
-      "name": "B\u00f3rrame",
-      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
+      "duration_ms": 173720,
+      "name": "S\u00f3lo Muere Si Se Olvida",
+      "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
     },
     {
       "added_at": null,

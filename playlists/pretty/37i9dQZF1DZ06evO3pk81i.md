@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,360 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,370 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 22 | [Una Noche Nomas](https://open.spotify.com/track/1qND5NqKyn93Y6rOxuDYzR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:20 |
 | 23 | [Nada Sigue Igual](https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Nada Sigue Igual](https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI) | 3:28 |
 | 24 | [Hoy](https://open.spotify.com/track/6aQgAhpCebGWOqrMdY2VhP) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:43 |
-| 25 | [Una Rosa Blanca](https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Una Rosa Blanca](https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o) | 3:20 |
-| 26 | [Soy Aquel](https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:47 |
+| 25 | [Soy Aquel](https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:47 |
+| 26 | [Una Rosa Blanca](https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Una Rosa Blanca](https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o) | 3:20 |
 | 27 | [Tesec](https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:12 |
 | 28 | [SATIRO](https://open.spotify.com/track/00e7R21236OX75ACaT8HH0) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:13 |
 | 29 | [Era Mia](https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Era Mia](https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI) | 3:46 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 50 | [Ferragamo](https://open.spotify.com/track/3IiUcK7YkrBIxAqzspIFUs) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ferragamo](https://open.spotify.com/album/43PMWOGzoTvgIMwpgObIbb) | 2:22 |
 | 51 | [El Momento](https://open.spotify.com/track/7JMpf7Q4ROsTPCzMjHFDia) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 2:32 |
 
-Snapshot ID: `Zx2CgAAAAADa67xBbzVQL0FbkUruezMI`
+Snapshot ID: `Zx7UAAAAAABZkjNphLdvRaU1Lkcm4ZpC`

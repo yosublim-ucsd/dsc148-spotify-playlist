@@ -1,6 +1,6 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Arsenal Efectivo en portada.",
-  "num_followers": 135157,
+  "num_followers": 135170,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Antonio Montana (Remix)",
-        "url": "https://open.spotify.com/album/6Ek28uJYTugproEPiwJRZx"
-      },
-      "artists": [
-        {
-          "name": "La Cuadrilla Oficial",
-          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 161640,
-      "name": "Antonio Montana - Remix",
-      "url": "https://open.spotify.com/track/7Gbt0nXReC7pb7Vf05hTJH"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Bien Tony Montana",
         "url": "https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 166127,
       "name": "Bien Tony Montana",
       "url": "https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Antonio Montana (Remix)",
+        "url": "https://open.spotify.com/album/6Ek28uJYTugproEPiwJRZx"
+      },
+      "artists": [
+        {
+          "name": "La Cuadrilla Oficial",
+          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 161640,
+      "name": "Antonio Montana - Remix",
+      "url": "https://open.spotify.com/track/7Gbt0nXReC7pb7Vf05hTJH"
     },
     {
       "added_at": "2024-10-25 06:00:00",

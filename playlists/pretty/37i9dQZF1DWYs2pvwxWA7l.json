@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Joshua Baraka",
-  "num_followers": 584348,
+  "num_followers": 584381,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,18 @@
     {
       "added_at": "2024-10-25 03:44:16",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+        "name": "Awolowo",
+        "url": "https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
         }
       ],
-      "duration_ms": 149677,
-      "name": "Last Heartbreak Song (feat. Giveon)",
-      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
+      "duration_ms": 135576,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
     },
     {
       "added_at": "2024-10-25 03:44:16",
@@ -135,18 +131,22 @@
     {
       "added_at": "2024-10-25 03:44:16",
       "album": {
-        "name": "Awolowo",
-        "url": "https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr"
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
       "artists": [
         {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 135576,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
+      "duration_ms": 149677,
+      "name": "Last Heartbreak Song (feat. Giveon)",
+      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
     },
     {
       "added_at": "2024-10-25 03:44:16",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-10-25 03:44:16",
       "album": {
-        "name": "WAHALA (FEAT. OLAMIDE)",
-        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "WAHALA (feat. Olamide)",
-      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
-    },
-    {
-      "added_at": "2024-10-25 03:44:16",
-      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+    },
+    {
+      "added_at": "2024-10-25 03:44:16",
+      "album": {
+        "name": "WAHALA (FEAT. OLAMIDE)",
+        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "WAHALA (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
       "added_at": "2024-10-25 03:44:16",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-10-25 03:44:16",
       "album": {
+        "name": "Ouu wee (brown)",
+        "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Ouu wee (brown)",
+      "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
+    },
+    {
+      "added_at": "2024-10-25 03:44:16",
+      "album": {
         "name": "MORE PRETTY GIRLS",
         "url": "https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 198323,
       "name": "MORE PRETTY GIRLS",
       "url": "https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i"
-    },
-    {
-      "added_at": "2024-10-25 03:44:16",
-      "album": {
-        "name": "Ouu wee (brown)",
-        "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Ouu wee (brown)",
-      "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
     },
     {
       "added_at": "2024-10-25 03:44:16",

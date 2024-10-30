@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,461 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,467 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 26 | [Ya No Quiero Verte](https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ya No Quiero Verte](https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8) | 3:25 |
 | 27 | [No Me Marques Pedo](https://open.spotify.com/track/4XhxL3yq18qWSLxqaYargW) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:31 |
 | 28 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 |
-| 29 | [LQRA Session \#3](https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [LQRA Session \#3](https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR) | 2:54 |
-| 30 | [Rosas y Serpientes](https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Rosas y Serpientes](https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39) | 4:30 |
+| 29 | [Rosas y Serpientes](https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Rosas y Serpientes](https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39) | 4:30 |
+| 30 | [LQRA Session \#3](https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [LQRA Session \#3](https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR) | 2:54 |
 | 31 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 | 32 | [Dámelo](https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Dámelo](https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC) | 3:03 |
 | 33 | [Frío](https://open.spotify.com/track/0QK3Yshn8c0plhuErNvmKz) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Frío](https://open.spotify.com/album/0bHlhoa28gqmsheSevIFZt) | 3:24 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 50 | [Calor y Frío](https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Calor y Frío](https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2) | 3:35 |
 | 51 | [LIKE A BULL](https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:02 |
 
-Snapshot ID: `Zx2CgAAAAAByARIrRhdCgylYQ2DkUHsF`
+Snapshot ID: `Zx7UAAAAAABradv8eUolQ0/15Vu7AEUO`

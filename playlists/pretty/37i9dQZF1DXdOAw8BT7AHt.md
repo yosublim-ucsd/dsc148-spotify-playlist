@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,754 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,755 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 31 | [NO LOVE BUT FOR OUR OWN](https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9) | 2:52 |
 | 32 | [Yankee Trails](https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [PRUDE](https://open.spotify.com/album/4SiGEjeock157xR33nCQdb) | 2:47 |
 | 33 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
-| 34 | [Nothing Would Change](https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nothing Would Change](https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH) | 3:23 |
-| 35 | [Hypocrite](https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hypocrite](https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N) | 1:48 |
+| 34 | [Hypocrite](https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hypocrite](https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N) | 1:48 |
+| 35 | [Nothing Would Change](https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nothing Would Change](https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH) | 3:23 |
 | 36 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 |
 | 37 | [The Sacrifice](https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Sacrifice / At Sickness](https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL) | 3:28 |
 | 38 | [People Watching](https://open.spotify.com/track/6WKc3CetpaIRyDmukASzYi) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [People Watching](https://open.spotify.com/album/3DS7XjGjZHW6aL8BSJogSE) | 3:01 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 55 | [Jinx](https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [The New Chaos](https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi) | 1:57 |
 | 56 | [Mob DLA](https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Mob DLA](https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw) | 2:29 |
 | 57 | [5168 Days](https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [5168 Days](https://open.spotify.com/album/54Hh6C6wWiLK9Rn4JKHLqg) | 3:15 |
-| 58 | [Wretched Trajectory](https://open.spotify.com/track/607oeYyNz1K55WF6foHzus) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Wretched Trajectory](https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y) | 2:46 |
-| 59 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 |
+| 58 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 |
+| 59 | [Johnny](https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Johnny](https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r) | 2:29 |
 | 60 | [If It Sucks, Turn It Up](https://open.spotify.com/track/7M1tf4JjJPmw1BlkMbT0Dm) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [If It Sucks, Turn It Up](https://open.spotify.com/album/3Cjqmxw1nQFHc0p4rXkUAm) | 2:59 |
-| 61 | [Johnny](https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Johnny](https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r) | 2:29 |
+| 61 | [Wretched Trajectory](https://open.spotify.com/track/607oeYyNz1K55WF6foHzus) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Wretched Trajectory](https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y) | 2:46 |
 | 62 | [Bite Me](https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Bite Me](https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j) | 2:07 |
 | 63 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 |
 | 64 | [No Backbone](https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [No Backbone](https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL) | 2:17 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 69 | [Ultimatum](https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Ultimatum](https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP) | 3:26 |
 | 70 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 |
 | 71 | [Johnny](https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Johnny](https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB) | 3:34 |
-| 72 | [bad habit](https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [bad habit](https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe) | 2:51 |
-| 73 | [Girls!](https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [ANTI\-FUN PROPAGANDA](https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW) | 3:04 |
+| 72 | [Girls!](https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [ANTI\-FUN PROPAGANDA](https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW) | 3:04 |
+| 73 | [bad habit](https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [bad habit](https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe) | 2:51 |
 | 74 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
 | 75 | [wallflower](https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [wallflower](https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt) | 3:10 |
 | 76 | [Final Words](https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [The Mosaic](https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW) | 3:33 |
 | 77 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 |
 | 78 | [Git Some Balls](https://open.spotify.com/track/2537WG5KdqGVGeDgU7aTvi) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Git Some Balls / Air Con](https://open.spotify.com/album/7EGNNZlyXVERZ3DG2dObR1) | 2:26 |
-| 79 | [It Burns](https://open.spotify.com/track/514cam2TdGuqXOu3oeGFAj) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [It Burns](https://open.spotify.com/album/77flV7s0GAsUvzd5vbCk9K) | 3:56 |
-| 80 | [Walk Alone](https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp), [Matty Mullins](https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot) | [Walk Alone](https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg) | 3:15 |
+| 79 | [Walk Alone](https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp), [Matty Mullins](https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot) | [Walk Alone](https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg) | 3:15 |
+| 80 | [Self\-determined](https://open.spotify.com/track/7c1bKD3B87FJZNUXGIDH8s) | [Face To Face](https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd) | [Self\-determined](https://open.spotify.com/album/6KGuKs29bBrtAipiL8uxXF) | 3:17 |
 
 Snapshot ID: `ZwgJngAAAACINTfsyTaysW09O2yZEnk/`

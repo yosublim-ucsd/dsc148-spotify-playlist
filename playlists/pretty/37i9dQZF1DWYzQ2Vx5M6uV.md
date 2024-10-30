@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,672 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,720 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 19 | [Mi Luz \(ft\. Rels B\)](https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 2:48 |
 | 20 | [Enséñame a Bailar](https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 |
 | 21 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
-| 22 | [CALOR](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [CALOR](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 |
-| 23 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 |
+| 22 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 |
+| 23 | [CALOR](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [CALOR](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 |
 | 24 | [Somos 3](https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Somos 3](https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX) | 2:45 |
 | 25 | [Pretty GIRL](https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:56 |
 | 26 | [Soso \- Remix](https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:22 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 43 | [Todita](https://open.spotify.com/track/4Y4OXbfuGrLkGyeqtou0jc) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [Todita](https://open.spotify.com/album/3quRxkjMD9fgBFYx6vUzmu) | 2:20 |
 | 44 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 |
 | 45 | [Tucu](https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:06 |
-| 46 | [LA BUENA VIDA](https://open.spotify.com/track/0qdgnVCqA0OVzvICPrD38E) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [LA BUENA VIDA](https://open.spotify.com/album/1LZfrEY6XrYpNDaM5hsEpG) | 2:20 |
-| 47 | [Uff](https://open.spotify.com/track/6pw7KggD2vbvxRTV2iASxK) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Los Reyes Del Mar](https://open.spotify.com/album/6gICJJez4pXMZVV0MvqLZb) | 2:32 |
+| 46 | [Uff](https://open.spotify.com/track/6pw7KggD2vbvxRTV2iASxK) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Los Reyes Del Mar](https://open.spotify.com/album/6gICJJez4pXMZVV0MvqLZb) | 2:32 |
+| 47 | [LA BUENA VIDA](https://open.spotify.com/track/0qdgnVCqA0OVzvICPrD38E) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [LA BUENA VIDA](https://open.spotify.com/album/1LZfrEY6XrYpNDaM5hsEpG) | 2:20 |
 | 48 | [SISI](https://open.spotify.com/track/0AjwTEzkMErfaWOzVPswQ1) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [SISI](https://open.spotify.com/album/3ud1UfUZ1QnnsXXRA4TD0A) | 2:15 |
 | 49 | [Cough](https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Cough](https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx) | 2:57 |
-| 50 | [Saltas Por Mi](https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [Saltas Por Mi](https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW) | 2:40 |
+| 50 | [Una Oportunidad](https://open.spotify.com/track/2FaS8IcO6JN9ITfYkri23O) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Una Oportunidad](https://open.spotify.com/album/6LXXWavOjtwpGicz0FWq3V) | 2:22 |
 
 Snapshot ID: `ZxsXwAAAAABBh35Us4N5dpUwDs1N3qur`

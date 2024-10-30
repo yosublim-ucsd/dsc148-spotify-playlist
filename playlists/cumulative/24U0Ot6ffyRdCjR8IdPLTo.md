@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-318 songs - 17 hr 32 min
+321 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Mentos and Coke](https://open.spotify.com/track/1vohIWnkOUnCv60Od198Ma) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Mentos and Coke](https://open.spotify.com/album/4Mk0oTQwMaQcQYSQHt08Gf) | 2:49 | 2024-08-02 |  |
 | [Midnight Freak\-Out](https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Midnight Freak\-Out](https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X) | 3:20 | 2023-08-15 |  |
 | [Miss Me Too \- Piano Version](https://open.spotify.com/track/77OA90fESjDqV9mJw5LbdG) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too \(Piano Version\)](https://open.spotify.com/album/0sVJcXlNpCjp8mednUl6dK) | 3:03 | 2024-06-07 | 2024-07-27 |
+| [Monte Carlo](https://open.spotify.com/track/3RMHQtjlUAi4SDtinzCuy4) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Monte Carlo](https://open.spotify.com/album/3w4lUHrKK2urnIgE4CLBak) | 3:47 | 2024-10-29 |  |
 | [Morning](https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Morning](https://open.spotify.com/album/0pro3pYtDog6bp669jZywP) | 3:01 | 2023-08-28 | 2024-06-15 |
 | [Morning Pages](https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:47 | 2023-08-28 |  |
 | [Movie Queen](https://open.spotify.com/track/43NhQ8fXYbpz3IWx0qnvwU) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Fair\-weather](https://open.spotify.com/album/5PMMoVoU9NFlXv129gaCTe) | 3:12 | 2023-09-29 | 2024-06-15 |
@@ -232,6 +233,7 @@
 | [Robbed](https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:44 | 2024-06-07 |  |
 | [Rockland](https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:37 | 2023-08-28 |  |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-08 |  |
+| [sad girl winter \(again\)](https://open.spotify.com/track/3eSSinLAz9cQxRiN6RqNLm) | [VICTORIA](https://open.spotify.com/artist/21rgoGGMOSvl9RD6zeuOnq) | [sad girl winter \(again\)](https://open.spotify.com/album/2M6qYIcV61zVitVyPfRvcW) | 3:04 | 2024-10-29 |  |
 | [Same Things](https://open.spotify.com/track/3x2yirfV6nasZqmQ67PD1y) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/6P5iR01v1KjmALN4bwkIKD) | 2:49 | 2024-04-26 |  |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2023-08-15 | 2023-08-29 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-08-15 | 2024-10-19 |
@@ -324,6 +326,7 @@
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2023-08-15 | 2023-08-29 |
 | [Yoko](https://open.spotify.com/track/2uOXn6ugllgy5hQMnpAWMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 4:14 | 2023-10-28 |  |
 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 | 2023-08-15 | 2023-08-29 |
+| [You Exist](https://open.spotify.com/track/0qIPRgahrVnfRiVTYkuPsW) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [born blue](https://open.spotify.com/album/2c93Zr8BmUSod1qp2sdGev) | 2:57 | 2024-10-29 |  |
 | [Your Arms](https://open.spotify.com/track/4SuziSr3et9LjC6Iyls63s) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Your Arms](https://open.spotify.com/album/4R3wx6MiEomTXdy6gkskQN) | 3:51 | 2023-08-15 | 2023-08-29 |
 | [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/album/0BiwIMzRsVUWQFl2taiScY) | 3:42 | 2023-09-22 |  |
 

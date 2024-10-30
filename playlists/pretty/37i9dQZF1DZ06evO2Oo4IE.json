@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 181786,
+  "num_followers": 181801,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAAlTtD/7W3t6j1Lt2Rsdsjm",
+  "snapshot_id": "Zx7UAAAAAAB8F/IOmsr2SeRxfxn5uhCH",
   "tracks": [
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 143173,
-      "name": "Blindman",
-      "url": "https://open.spotify.com/track/6aUAFC6ldgKCeSL3qcSVZQ"
+      "duration_ms": 116360,
+      "name": "Coo Coo",
+      "url": "https://open.spotify.com/track/5PEEbmeELam84bKuxZsoj2"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 116360,
-      "name": "Coo Coo",
-      "url": "https://open.spotify.com/track/5PEEbmeELam84bKuxZsoj2"
+      "duration_ms": 143173,
+      "name": "Blindman",
+      "url": "https://open.spotify.com/track/6aUAFC6ldgKCeSL3qcSVZQ"
     },
     {
       "added_at": null,

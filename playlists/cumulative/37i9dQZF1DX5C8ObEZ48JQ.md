@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6?si=wtpL4eDmQA\-TAJhFV366CA">Niambi</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ?si=5xnC\-w3DSlKCJhcKYyWFDw">Muthaka</a>\. Artwork: Isu Kim.
 
 1,092 songs - 2 day 6 hr 48 min
 
@@ -905,7 +905,7 @@
 | [Speed Dial](https://open.spotify.com/track/08G2dDNn1wSuN1O2bQ5XnE) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [Speed Dial](https://open.spotify.com/album/6f4MgX6oxBxiqW2cqVzMXE) | 2:52 | 2024-06-04 | 2024-07-03 |
 | [Sphila](https://open.spotify.com/track/0eRjEAAgM2ERSlIo98hviS) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Sphila](https://open.spotify.com/album/4b96sbHZRnkTRdUvlbiQga) | 5:49 | 2022-10-28 | 2023-01-26 |
 | [Spinning](https://open.spotify.com/track/4FWIITAWPbL9W28tXAf96x) | [Lak3side](https://open.spotify.com/artist/0ytn6ECGnWyNRCPmriBjgQ) | [Spinning](https://open.spotify.com/album/1msHJQyjb41fUgKLTtvy1V) | 2:47 | 2023-09-27 | 2023-10-26 |
-| [Spotlight](https://open.spotify.com/track/4GnCkUqZxnTmCAnO5X5cZU) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Spotlight](https://open.spotify.com/album/1eQpBjbHfLEX4gsLOsbd2R) | 3:28 | 2024-10-22 |  |
+| [Spotlight](https://open.spotify.com/track/4GnCkUqZxnTmCAnO5X5cZU) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Spotlight](https://open.spotify.com/album/1eQpBjbHfLEX4gsLOsbd2R) | 3:28 | 2024-10-22 | 2024-10-30 |
 | [Star](https://open.spotify.com/track/2uVKtDAIDewySPK16WqN5o) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [All Things Considered](https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP) | 2:49 | 2024-02-06 | 2024-03-06 |
 | [Star](https://open.spotify.com/track/0vzIrXgc2Z28t2JDddfOo1) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC) | [Star](https://open.spotify.com/album/611t57rkpgi1z9kF76QnW0) | 2:18 | 2024-05-01 | 2024-06-05 |
 | [Stay](https://open.spotify.com/track/1nvmbch5gbBGCcgyv1T7Yx) | [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Stay](https://open.spotify.com/album/37U6koHcGoQIQT64ykPt1u) | 3:22 | 2022-10-28 | 2023-01-26 |

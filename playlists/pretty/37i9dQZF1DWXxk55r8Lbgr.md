@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,061 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,070 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 32 | [造飛機](https://open.spotify.com/track/2aulcpPXf9TH90X8rO56Zu) | [銀河小歌星](https://open.spotify.com/artist/75IopNfhJarTwkkpN06iU4) | [100首可愛的童謠1 下集](https://open.spotify.com/album/2DSxrfd0h82uGL4qqGvpVY) | 2:12 |
 | 33 | [拜託拜託給我一口](https://open.spotify.com/track/4S9viB1FQTAhNKO9B3ZXVT) | [焦凡凡](https://open.spotify.com/artist/1vgep0h29N7GekPN4MTOW3) | [拜託拜託給我一口](https://open.spotify.com/album/3CFiQfrYmJ5Z8uy3j9ADXs) | 2:29 |
 | 34 | [大象你的鼻子怎麼那麼長](https://open.spotify.com/track/4yhadmYksSAZeEnsOdLpuy) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [小寶貝經典兒歌\|經典兒歌唱唱跳跳\|寶寶放電兒歌\|一起來跳舞吧!](https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA) | 1:40 |
-| 35 | [一百隻斑馬](https://open.spotify.com/track/2I3HHzCO87ixiD0sWuCJ0k) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [一百隻斑馬](https://open.spotify.com/album/01ZadUJvvzz5vm4emFqWk4) | 2:03 |
+| 35 | [快快呦 ! Pop !](https://open.spotify.com/track/3sWDdKM9G05a9QDDcvaNdj) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [快快呦 ! Pop !](https://open.spotify.com/album/2RimoQJBlgXn9T5PpXOYCt) | 1:21 |
 | 36 | [捏泥巴](https://open.spotify.com/track/6cs1kK33Fn6a9fBI2G6qVE) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名8 \- 動物音樂課](https://open.spotify.com/album/45Puppm2SF0vj3RKSkXQlx) | 2:36 |
 | 37 | [快樂上學去](https://open.spotify.com/track/7bHHp29aQveGQ0Tj8f205w) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's JOY](https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS) | 1:01 |
 | 38 | [拍拍手](https://open.spotify.com/track/38hqL719iAugPd7FRRCsLM) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [寶貝 我的家](https://open.spotify.com/album/0dvVDfgDRxhZESdpdqVAIR) | 2:50 |

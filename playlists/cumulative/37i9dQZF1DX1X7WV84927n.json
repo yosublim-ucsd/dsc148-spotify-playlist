@@ -10102,7 +10102,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 165868,
       "name": "MEDZ",
       "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
@@ -14580,7 +14580,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 178490,
       "name": "Soldier In The Army of Love",
       "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
@@ -14674,6 +14674,24 @@
       "duration_ms": 205837,
       "name": "Something I'm Not",
       "url": "https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB"
+    },
+    {
+      "album": {
+        "name": "REVIVED",
+        "url": "https://open.spotify.com/album/0DRBilZLlI0Hc2TKf3GG4h"
+      },
+      "artists": [
+        {
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187526,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/1xLPJ7vHjjiNuFay8fcyn2"
     },
     {
       "album": {
@@ -18441,6 +18459,24 @@
     },
     {
       "album": {
+        "name": "WASTED!",
+        "url": "https://open.spotify.com/album/4Ndm86rMWRfOPOz5bpVEWD"
+      },
+      "artists": [
+        {
+          "name": "Nerv",
+          "url": "https://open.spotify.com/artist/1SPkKp6zKlXjB6oiWZI04b"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195533,
+      "name": "WASTED!",
+      "url": "https://open.spotify.com/track/6sUmP0L4mbeCBikEzuC078"
+    },
+    {
+      "album": {
         "name": "The Moment You Find Your Flame",
         "url": "https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v"
       },
@@ -18681,7 +18717,7 @@
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 217081,
+      "duration_ms": 217040,
       "name": "What Remains",
       "url": "https://open.spotify.com/track/7rqfCQ0Uw6qyztM4rKjKs0"
     },

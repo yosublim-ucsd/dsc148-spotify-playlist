@@ -2783,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "Identity",
+        "url": "https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140466,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT"
+    },
+    {
+      "album": {
         "name": "If I were to fall in love again",
         "url": "https://open.spotify.com/album/4DhgV1EMe5RcZiJB6di91X"
       },
@@ -2794,7 +2812,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 235133,
       "name": "If I were to fall in love again",
       "url": "https://open.spotify.com/track/6zT6xEf2qpn9er9JhzfuvL"
@@ -4242,7 +4260,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 196680,
       "name": "NEW LOOK",
       "url": "https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0"
@@ -4362,7 +4380,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 198521,
       "name": "NOISE",
       "url": "https://open.spotify.com/track/50xBF1EsWrOpQsMV5F8NVJ"
@@ -4568,6 +4586,32 @@
       "duration_ms": 175826,
       "name": "Our Diary",
       "url": "https://open.spotify.com/track/6oGmBP13Gig2kIX2asUtwh"
+    },
+    {
+      "album": {
+        "name": "OVER RAP feat. Kizuna, eyha",
+        "url": "https://open.spotify.com/album/25JTooNRdgCzpZN0LInLuq"
+      },
+      "artists": [
+        {
+          "name": "A\u590f\u76ee",
+          "url": "https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH"
+        },
+        {
+          "name": "\u30ad\u30ba\u30ca",
+          "url": "https://open.spotify.com/artist/3ivoNDU9tOTa2R7XqiIFFk"
+        },
+        {
+          "name": "eyha",
+          "url": "https://open.spotify.com/artist/1TjWwxW2fsahg8m4lIMBxE"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "OVER RAP feat. Kizuna, eyha",
+      "url": "https://open.spotify.com/track/1tx5LtaEktvuNnA61LMLzU"
     },
     {
       "album": {
@@ -5830,7 +5874,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 176786,
       "name": "Summer Princess",
       "url": "https://open.spotify.com/track/2mxLMO0U94w8URMdQgsmtO"
@@ -8905,6 +8949,24 @@
     },
     {
       "album": {
+        "name": "\u30c0\u30a4\u30ad\u30e9\u30a4",
+        "url": "https://open.spotify.com/album/4ca0xYsnbmHXtmKPCTVtZV"
+      },
+      "artists": [
+        {
+          "name": "YOAKE",
+          "url": "https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197447,
+      "name": "\u30c0\u30a4\u30ad\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/1g5IzWqIXvYwrOgkQlDFXF"
+    },
+    {
+      "album": {
         "name": "\u30c0\u30d6\u30eb\u30fb\u30d7\u30c3\u30b7\u30e5\u30fb\u30aa\u30d5\u3002",
         "url": "https://open.spotify.com/album/5TrVfUhS0GLtkJ8uapOmGF"
       },
@@ -9867,6 +9929,24 @@
     },
     {
       "album": {
+        "name": "Soul Friendly",
+        "url": "https://open.spotify.com/album/2EzBie8FcSObhV3gEOXpHh"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225499,
+      "name": "\u30e1\u30ed\u30c7\u30a3\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/1gyaH4Dn7YpDHXjgZV9JDe"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30ed\u30c9\u30e9\u30de",
         "url": "https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3"
       },
@@ -9944,6 +10024,24 @@
       "duration_ms": 192222,
       "name": "\u30e6\u30ec\u5f27",
       "url": "https://open.spotify.com/track/2ylPO5n0vjSPp3CwC3kedb"
+    },
+    {
+      "album": {
+        "name": "\u5143\u6c17\u3067\u3044\u3066\u306d\u3002",
+        "url": "https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169773,
+      "name": "\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r"
     },
     {
       "album": {
@@ -11462,7 +11560,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 118695,
       "name": "\u60aa\u9b54\u3092\u98fc\u3063\u3066\u308b",
       "url": "https://open.spotify.com/track/5500y1N4gRYCcb3dKfuOxN"
@@ -11928,6 +12026,28 @@
       "duration_ms": 169620,
       "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
       "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
+    },
+    {
+      "album": {
+        "name": "\u685c\u65e5\u548c\u3068\u30bf\u30a4\u30e0\u30de\u30b7\u30f3 with \u521d\u97f3\u30df\u30af\uff0f\u521d\u590f",
+        "url": "https://open.spotify.com/album/2vxWLmD9gv9RDgL4SM71Wg"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        },
+        {
+          "name": "\u521d\u97f3\u30df\u30af",
+          "url": "https://open.spotify.com/artist/5yRZVGcu9VCt8L1Bjzhi5R"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331560,
+      "name": "\u685c\u65e5\u548c\u3068\u30bf\u30a4\u30e0\u30de\u30b7\u30f3 with \u521d\u97f3\u30df\u30af",
+      "url": "https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY"
     },
     {
       "album": {
@@ -12490,7 +12610,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 207958,
       "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
       "url": "https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L"

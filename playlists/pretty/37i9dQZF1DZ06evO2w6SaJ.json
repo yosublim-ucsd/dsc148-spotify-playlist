@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 5818,
+  "num_followers": 5820,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAACBF5d0K4XVK+5Dgio9jqJu",
+  "snapshot_id": "Zx7UAAAAAADk1P+KtsS5W/FRSAKOR2TT",
   "tracks": [
     {
       "added_at": null,
@@ -336,13 +336,17 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
+          "name": "Bishop Lamont",
+          "url": "https://open.spotify.com/artist/4RV0poOKGzij1Xe9dsO57h"
+        },
+        {
           "name": "Fann",
           "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
         }
       ],
-      "duration_ms": 189893,
-      "name": "Baby You Don't Know",
-      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
+      "duration_ms": 255386,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/3rP37J9X3qMHk99IGYiy0P"
     },
     {
       "added_at": null,
@@ -408,17 +412,13 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "Bishop Lamont",
-          "url": "https://open.spotify.com/artist/4RV0poOKGzij1Xe9dsO57h"
-        },
-        {
           "name": "Fann",
           "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
         }
       ],
-      "duration_ms": 255386,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/3rP37J9X3qMHk99IGYiy0P"
+      "duration_ms": 189893,
+      "name": "Baby You Don't Know",
+      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
+      "duration_ms": 196306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 61554,
+  "num_followers": 61555,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAADgRh+WIExSnGhs63+J5s2r",
+  "snapshot_id": "Zx7UAAAAAABF/mXmNvhV5FnsG0ITMKKm",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "duration_ms": 393163,
+      "name": "Amigo Incompar\u00e1vel - Ao vivo",
+      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medley Cora\u00e7\u00e3o Igual ao Teu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 437090,
       "name": "Medley Cora\u00e7\u00e3o Igual ao Teu - Ao Vivo",
       "url": "https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        }
-      ],
-      "duration_ms": 393163,
-      "name": "Amigo Incompar\u00e1vel - Ao vivo",
-      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 279826,
-      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
-      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vem (Ao Vivo)",
         "url": "https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 571013,
       "name": "Vem - Ao Vivo",
       "url": "https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 279826,
+      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
+      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 508432,
+      "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
+      "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Que Tua Gl\u00f3ria Fez Comigo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 538285,
       "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
       "url": "https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 508432,
-      "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
-      "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
     },
     {
       "added_at": null,

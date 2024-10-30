@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,318 likes - 80 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,365 likes - 80 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 26 | [Pela Fé](https://open.spotify.com/track/1ifIvrgG2yMsS1scACHuLu) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Laboratório Do Groove](https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem) | 4:11 |
 | 27 | [O Dom da Vida](https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG) | [Fabi Oliveira](https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp), [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [O Dom da Vida](https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG) | 3:48 |
 | 28 | [O Que Há Por Dentro](https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU) | [Sobre Deixar](https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt) | 3:40 |
-| 29 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
-| 30 | [Sossegai \- Ao Vivo](https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Piano e Voz, Amigos e Pertences 3a \(Ao Vivo\)](https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF) | 5:32 |
+| 29 | [Sossegai \- Ao Vivo](https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Piano e Voz, Amigos e Pertences 3a \(Ao Vivo\)](https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF) | 5:32 |
+| 30 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
 | 31 | [Pista do Céu \(Quase 30\)](https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9), [Oseas Silva](https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh) | [Pista do Céu \(Quase 30\)](https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT) | 7:12 |
 | 32 | [Porque Ele Vive](https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares](https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT) | 3:51 |
 | 33 | [Nada Se Compara](https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo) | [Coral Unasp](https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2), [Garnet Lima](https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S) | [Nada Se Compara](https://open.spotify.com/album/3UeS120DmaRg42viHosGU6) | 3:01 |

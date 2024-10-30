@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 361223,
+  "num_followers": 361442,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Mirazh",
+        "url": "https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Mirazh",
+      "url": "https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 163147,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Mirazh",
-        "url": "https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A"
-      },
-      "artists": [
-        {
-          "name": "Thomas Schumacher",
-          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
-        },
-        {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Mirazh",
-      "url": "https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -615,22 +615,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A"
+        "name": "Universal Nation (Charlotte de Witte Rework)",
+        "url": "https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq"
       },
       "artists": [
         {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
         },
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         }
       ],
-      "duration_ms": 201569,
-      "name": "ORION",
-      "url": "https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c"
+      "duration_ms": 452317,
+      "name": "Universal Nation - Charlotte de Witte Rework",
+      "url": "https://open.spotify.com/track/4OrY514bfwTTtykP7s049a"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -655,22 +655,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Universal Nation (Charlotte de Witte Rework)",
-        "url": "https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq"
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A"
       },
       "artists": [
         {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         },
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         }
       ],
-      "duration_ms": 452317,
-      "name": "Universal Nation - Charlotte de Witte Rework",
-      "url": "https://open.spotify.com/track/4OrY514bfwTTtykP7s049a"
+      "duration_ms": 201569,
+      "name": "ORION",
+      "url": "https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c"
     },
     {
       "added_at": "2024-10-04 04:00:00",

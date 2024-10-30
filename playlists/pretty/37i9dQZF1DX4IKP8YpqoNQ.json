@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 30152,
+  "num_followers": 30159,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Know You Better (Live from Brooklyn Paramount)",
         "url": "https://open.spotify.com/album/6PdDfyh0O1ezWd3DXRvnWN"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 475293,
       "name": "Know You Better - Live from Brooklyn Paramount",
       "url": "https://open.spotify.com/track/3FKJBHMtOs7Fp4dNWUBNHj"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Drown in My Own Tears (The Circle Session, 2023)",
-        "url": "https://open.spotify.com/album/55cxl6L7iAOxkxBsaL6Z2S"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 304033,
-      "name": "Drown in My Own Tears - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/3fWwmVNCqqckIU5lMEnfIz"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live At Montreux",
         "url": "https://open.spotify.com/album/1ZBGw6F1EdH5U6PfPpLaJj"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 244973,
       "name": "Appletree - Live",
       "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Drown in My Own Tears (The Circle Session, 2023)",
+        "url": "https://open.spotify.com/album/55cxl6L7iAOxkxBsaL6Z2S"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 304033,
+      "name": "Drown in My Own Tears - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/3fWwmVNCqqckIU5lMEnfIz"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "MTV Unplugged No. 2.0",
-        "url": "https://open.spotify.com/album/5sHByOqrDlhVXmMamZN49L"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 317333,
-      "name": "I Get Out - Live",
-      "url": "https://open.spotify.com/track/6klUdQXRj4RuNy1FPmysWa"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 452500,
       "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
       "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "MTV Unplugged No. 2.0",
+        "url": "https://open.spotify.com/album/5sHByOqrDlhVXmMamZN49L"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 317333,
+      "name": "I Get Out - Live",
+      "url": "https://open.spotify.com/track/6klUdQXRj4RuNy1FPmysWa"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Coming Home - Live at SXSW 2015",
-      "url": "https://open.spotify.com/track/6KgfC7SPNby1wdzkB6EgTJ"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Feng Suave (Live from Studio Helmbreker)",
         "url": "https://open.spotify.com/album/5lIGf0Fnor9WkgTRo0fIfn"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 261306,
       "name": "Tomb For Rockets - Live from Studio Helmbreker",
       "url": "https://open.spotify.com/track/2AH5B9nSUeUGqJGNqUFpvW"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Coming Home - Live at SXSW 2015",
+      "url": "https://open.spotify.com/track/6KgfC7SPNby1wdzkB6EgTJ"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Floacism \"Live\"",
+        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 356493,
+      "name": "Say Yes - Live At The House Of Blues, New Orleans / 2003",
+      "url": "https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Live in Montreux 1980",
         "url": "https://open.spotify.com/album/2VIAKJug1Jl9dxloAXWy3D"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 368400,
       "name": "I Heard It Through the Grapevine - Live",
       "url": "https://open.spotify.com/track/6WVtT1tNkIOCuDraIlmFYJ"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Floacism \"Live\"",
-        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 269040,
-      "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
-      "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 341551,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Floacism \"Live\"",
         "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
       },
@@ -1128,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
         }
       ],
-      "duration_ms": 356493,
-      "name": "Say Yes - Live At The House Of Blues, New Orleans / 2003",
-      "url": "https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44"
+      "duration_ms": 269040,
+      "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
+      "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1147,22 +1163,6 @@
       "duration_ms": 232706,
       "name": "Let's Stay Together - Live",
       "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live at Metropolis Studios",
-        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Family - Live at Metropolis Studios",
-      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/5RhTBSdOIOVHg18FCod3D4"
+        "name": "Live at Metropolis Studios",
+        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 192600,
-      "name": "At Last - Live",
-      "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
+      "duration_ms": 210413,
+      "name": "Family - Live at Metropolis Studios",
+      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/5RhTBSdOIOVHg18FCod3D4"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 158266,
-      "name": "Nobody Knows You When You're Down And Out - Live In New York",
-      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+      "duration_ms": 192600,
+      "name": "At Last - Live",
+      "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1315,6 +1299,22 @@
       "duration_ms": 331120,
       "name": "Good Morning Heartache (feat. Jill Scott) - Live Audio from The Wilshire Theatre",
       "url": "https://open.spotify.com/track/2TU7q95ZSarTw047rzV6A3"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Nobody Knows You When You're Down And Out - Live In New York",
+      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Alive (Live At the Jazz Cafe, London)",
-        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
-      },
-      "artists": [
-        {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
-        }
-      ],
-      "duration_ms": 413413,
-      "name": "You're Gonna Miss Your Candy Man - Live",
-      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "WAR Live",
         "url": "https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 165533,
       "name": "Baby, I Love You - Live at the Olympia Theatre, Paris, May 7, 1968",
       "url": "https://open.spotify.com/track/4rOJaClBVXUIEbOxKxSJ2y"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Alive (Live At the Jazz Cafe, London)",
+        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 413413,
+      "name": "You're Gonna Miss Your Candy Man - Live",
+      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Tokyo... Live",
-        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
+        "name": "Live: 1989 Memphis Music & Heritage Festival",
+        "url": "https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
         }
       ],
-      "duration_ms": 376040,
-      "name": "Love & Happiness - Live",
-      "url": "https://open.spotify.com/track/0MBkQKu5au3kGJ5LykLWok"
+      "duration_ms": 696666,
+      "name": "Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song - Live",
+      "url": "https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1591,34 +1591,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live: 1989 Memphis Music & Heritage Festival",
-        "url": "https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH"
+        "name": "Tokyo... Live",
+        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
       },
       "artists": [
         {
-          "name": "Carla Thomas",
-          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 696666,
-      "name": "Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song - Live",
-      "url": "https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Aretha In Paris (Live)",
-        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "Chain of Fools - Live at the Olympia Theatre, Paris, May 7, 1968",
-      "url": "https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt"
+      "duration_ms": 376040,
+      "name": "Love & Happiness - Live",
+      "url": "https://open.spotify.com/track/0MBkQKu5au3kGJ5LykLWok"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1651,6 +1635,22 @@
       "duration_ms": 235786,
       "name": "Hold On, I'm Comin' - Live in London",
       "url": "https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Aretha In Paris (Live)",
+        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "Chain of Fools - Live at the Olympia Theatre, Paris, May 7, 1968",
+      "url": "https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt"
     }
   ],
   "unique_name": "Soul Live",

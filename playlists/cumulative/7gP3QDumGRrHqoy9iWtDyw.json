@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "What Is Life",
+        "url": "https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        },
+        {
+          "name": "Kendo",
+          "url": "https://open.spotify.com/artist/2rTqhyJsi7l2q4c2HAs4VY"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267142,
+      "name": "9 of 10",
+      "url": "https://open.spotify.com/track/7jhmkPcFBDoC3svHnfTkEH"
+    },
+    {
+      "album": {
         "name": "A Prayer",
         "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
       },
@@ -1287,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Younger Days",
+        "url": "https://open.spotify.com/album/3BJtowVHOVE9lHRQDtS8h2"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Education",
+      "url": "https://open.spotify.com/track/4mE8Vo7F4ujeVnkh9956kS"
+    },
+    {
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV"
       },
@@ -2263,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/444mGXAE81bWGcAbw9kx4b"
+      },
+      "artists": [
+        {
+          "name": "Hotswing",
+          "url": "https://open.spotify.com/artist/4c1uPButBrvsYP2XDrY0fe"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190995,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/1ArlGg1xsJ0MKSndTh6TPa"
+    },
+    {
+      "album": {
         "name": "Les Gout",
         "url": "https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV"
       },
@@ -2680,6 +2738,24 @@
       "duration_ms": 189374,
       "name": "Music Control",
       "url": "https://open.spotify.com/track/69Txwro4ma2vMngqXratbH"
+    },
+    {
+      "album": {
+        "name": "Friday Night",
+        "url": "https://open.spotify.com/album/0TY7kMHjvLTHvxD7lhsTRH"
+      },
+      "artists": [
+        {
+          "name": "Matteo Dentone",
+          "url": "https://open.spotify.com/artist/6bnlOYU0ysNyxyeJiehWMJ"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357209,
+      "name": "My Beginnings",
+      "url": "https://open.spotify.com/track/0CB2JXQMHQ6tMSN5yBdRN6"
     },
     {
       "album": {
@@ -3670,6 +3746,24 @@
       "duration_ms": 204500,
       "name": "SOS (feat. Polina) - Skylark Remix - Nic Fanciulli Edit",
       "url": "https://open.spotify.com/track/2kX1q43CjN75TjgB5uKHkk"
+    },
+    {
+      "album": {
+        "name": "Stay Loose",
+        "url": "https://open.spotify.com/album/1TmndXEFCJW9JTt9bXCAn0"
+      },
+      "artists": [
+        {
+          "name": "Nestor Neven",
+          "url": "https://open.spotify.com/artist/04QHoBmUIROxR90nrEA18k"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318647,
+      "name": "Stay Loose",
+      "url": "https://open.spotify.com/track/3S40WtQFsa8Z69UiXnJvI4"
     },
     {
       "album": {

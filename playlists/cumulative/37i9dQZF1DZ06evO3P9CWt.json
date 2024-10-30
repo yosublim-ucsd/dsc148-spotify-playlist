@@ -518,7 +518,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 137422,
       "name": "Buzina",
       "url": "https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 240400,
       "name": "Me Usa",
       "url": "https://open.spotify.com/track/1a6QCz2SptwO4nfj0pHzN4"
@@ -1567,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/6azBEVsWyRCxu27zpPXFC0"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/34wZEQvIc4yfxDmCA0dCfe"
+    },
+    {
+      "album": {
         "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
         "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
       },
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 192421,
       "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
       "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"

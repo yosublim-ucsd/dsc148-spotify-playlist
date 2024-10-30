@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Fernandinho, Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,428 likes - 100 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,960 likes - 100 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 34 | [Eu Tenho uma Promessa](https://open.spotify.com/track/1QeiFzV3c26r6k9g6s5iFY) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Tenho uma Promessa](https://open.spotify.com/album/29IH8z7nCBUzWPsf2Z4iVc) | 4:31 |
 | 35 | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW) | 5:15 |
 | 36 | [Quem é Como Nosso Deus?](https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Quem é Como Nosso Deus?](https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni) | 8:09 |
-| 37 | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft) | 6:18 |
-| 38 | [Nada Pode Calar Um Adorador](https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT) | 4:52 |
+| 37 | [Nada Pode Calar Um Adorador](https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT) | 4:52 |
+| 38 | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft) | 6:18 |
 | 39 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Em Teus Braços \(Acústico\)](https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik) | 4:15 |
 | 40 | [O Nome \- Ao Vivo](https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [O Nome \(Ao Vivo\)](https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk) | 7:06 |
 | 41 | [És o Amor \- Ao Vivo](https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [És o Amor \(Ao Vivo\)](https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER) | 6:43 |

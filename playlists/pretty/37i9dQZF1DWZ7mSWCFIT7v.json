@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 232332,
+  "num_followers": 232367,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E"
     },
     {
-      "added_at": "2023-01-07 02:10:08",
-      "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
-    },
-    {
       "added_at": "2024-07-02 21:30:35",
       "album": {
         "name": "Hailu Remixes",
@@ -387,6 +371,22 @@
       "duration_ms": 334000,
       "name": "Riot on the Hush - K-LONE Remix",
       "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
+    },
+    {
+      "added_at": "2023-01-07 02:10:08",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
     },
     {
       "added_at": "2024-03-19 03:29:52",
@@ -505,26 +505,6 @@
       "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
     },
     {
-      "added_at": "2022-09-15 12:23:59",
-      "album": {
-        "name": "Nutrition",
-        "url": "https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi"
-      },
-      "artists": [
-        {
-          "name": "Tenka",
-          "url": "https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw"
-        },
-        {
-          "name": "MEITEI",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Nutrition - Single Edit",
-      "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
-    },
-    {
       "added_at": "2022-08-03 03:12:27",
       "album": {
         "name": "Sons Of",
@@ -543,6 +523,26 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
+    },
+    {
+      "added_at": "2022-09-15 12:23:59",
+      "album": {
+        "name": "Nutrition",
+        "url": "https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi"
+      },
+      "artists": [
+        {
+          "name": "Tenka",
+          "url": "https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw"
+        },
+        {
+          "name": "MEITEI",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Nutrition - Single Edit",
+      "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Milliseconds",
-        "url": "https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0"
-      },
-      "artists": [
-        {
-          "name": "Lonely Roads",
-          "url": "https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Milliseconds",
-      "url": "https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "These Days Don't Exist",
         "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 225136,
       "name": "Dream Walk",
       "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Milliseconds",
+        "url": "https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0"
+      },
+      "artists": [
+        {
+          "name": "Lonely Roads",
+          "url": "https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Milliseconds",
+      "url": "https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Translate",
-        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
-      },
-      "artists": [
-        {
-          "name": "Luke Abbott",
-          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
-        }
-      ],
-      "duration_ms": 108237,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Inkjet / Fluo",
         "url": "https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 502161,
       "name": "Fluo",
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Translate",
+        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
+      },
+      "artists": [
+        {
+          "name": "Luke Abbott",
+          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
+        }
+      ],
+      "duration_ms": 108237,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Dub Protection & The Sportswear Mystics",
-        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
-      },
-      "artists": [
-        {
-          "name": "The Diabolical Liberties",
-          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "Dub Protection",
-      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje"
       },
@@ -1147,18 +1127,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Ardour (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
+        "name": "Dub Protection & The Sportswear Mystics",
+        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
       },
       "artists": [
         {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+          "name": "The Diabolical Liberties",
+          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
         }
       ],
-      "duration_ms": 131709,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx"
+      "duration_ms": 311480,
+      "name": "Dub Protection",
+      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1183,6 +1167,22 @@
       "duration_ms": 350752,
       "name": "APOPHENIA",
       "url": "https://open.spotify.com/track/6xogUp1sNiUs2qQMTLrwjB"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Ardour (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 131709,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx"
     },
     {
       "added_at": "2022-02-25 05:11:21",
@@ -1237,6 +1237,22 @@
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
+      "added_at": "2022-02-25 03:59:46",
+      "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "L'\u00e9treinte Imaginaire",
@@ -1267,22 +1283,6 @@
       "duration_ms": 337194,
       "name": "Opak",
       "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
-    },
-    {
-      "added_at": "2022-02-25 03:59:46",
-      "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1349,22 +1349,6 @@
       "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
     },
     {
-      "added_at": "2023-03-03 04:07:38",
-      "album": {
-        "name": "Was Du Suchst",
-        "url": "https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc"
-      },
-      "artists": [
-        {
-          "name": "Tiefe Wasser Berlin",
-          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
-        }
-      ],
-      "duration_ms": 450120,
-      "name": "Was Du Suchst",
-      "url": "https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G"
-    },
-    {
       "added_at": "2022-08-24 01:27:39",
       "album": {
         "name": "Eve",
@@ -1379,6 +1363,22 @@
       "duration_ms": 180000,
       "name": "Eve",
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
+    },
+    {
+      "added_at": "2023-03-03 04:07:38",
+      "album": {
+        "name": "Was Du Suchst",
+        "url": "https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc"
+      },
+      "artists": [
+        {
+          "name": "Tiefe Wasser Berlin",
+          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
+        }
+      ],
+      "duration_ms": 450120,
+      "name": "Was Du Suchst",
+      "url": "https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G"
     },
     {
       "added_at": "2024-10-16 01:57:18",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Nightwidth",
         "url": "https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 439786,
       "name": "Riding Metal Mosquitos",
       "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/2NfGCYWB1LpLkWuYfDiT0J"
     },
     {
-      "added_at": "2024-05-08 03:01:37",
-      "album": {
-        "name": "Derrwut",
-        "url": "https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7"
-      },
-      "artists": [
-        {
-          "name": "Rogelio the IIIrd",
-          "url": "https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Derrwut",
-      "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Sakne Verda",
@@ -1669,20 +1653,36 @@
       "url": "https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2024-05-08 03:01:37",
       "album": {
-        "name": "Modern Species",
-        "url": "https://open.spotify.com/album/4sZvkjrogy7HbQ0M5CNCEL"
+        "name": "Derrwut",
+        "url": "https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7"
       },
       "artists": [
         {
-          "name": "DJ Sports",
-          "url": "https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb"
+          "name": "Rogelio the IIIrd",
+          "url": "https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve"
         }
       ],
-      "duration_ms": 358051,
-      "name": "Reluctant Memory",
-      "url": "https://open.spotify.com/track/168TsA6bdm7pt73KVyVyZM"
+      "duration_ms": 161052,
+      "name": "Derrwut",
+      "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
+    },
+    {
+      "added_at": "2023-10-28 00:12:45",
+      "album": {
+        "name": "Wiegenmusik / Constant Structure",
+        "url": "https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ"
+      },
+      "artists": [
+        {
+          "name": "Simon Lovermann",
+          "url": "https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr"
+        }
+      ],
+      "duration_ms": 152827,
+      "name": "Wiegenmusik",
+      "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"
     }
   ],
   "unique_name": "bleeps ^ glitches",

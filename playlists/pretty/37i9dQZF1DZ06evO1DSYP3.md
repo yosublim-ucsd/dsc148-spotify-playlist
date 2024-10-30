@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,456 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,458 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 41 | [Mad](https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:38 |
 | 42 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 |
 | 43 | [House](https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:24 |
-| 44 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 |
-| 45 | [U TELL ME \(Feat\. P\-Lo\)](https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [POP OFF](https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV) | 2:23 |
+| 44 | [U TELL ME \(Feat\. P\-Lo\)](https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [POP OFF](https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV) | 2:23 |
+| 45 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 |
 | 46 | [Level](https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Good Life](https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j) | 2:55 |
 | 47 | [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 |
-| 48 | [BACK LIT \(feat\. Kamaiyah\)](https://open.spotify.com/track/2XgediJBARSKBditYwqjP1) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Moovie! 2: The Yeequel](https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps) | 2:08 |
+| 48 | [MARDI GRAS](https://open.spotify.com/track/5W6NELOFUgcZYvsR1tKe9y) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO) | [Moovie! 2: The Yeequel](https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps) | 2:15 |
 | 49 | [Too Faded Remix](https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold: DELUXE EDITION](https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql) | 4:28 |
 | 50 | [Lightswitch](https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:38 |
 | 51 | [That’s Facts \(feat\. P\-Lo\)](https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [True Story](https://open.spotify.com/album/0dZTK3XkHIQgNjR5og8fNZ) | 2:22 |
 
-Snapshot ID: `Zx2CgAAAAACqXtu9pwYifwLVvY1EA/ve`
+Snapshot ID: `Zx7UAAAAAAAks9nKMMjfjzNLWRwIx9sj`

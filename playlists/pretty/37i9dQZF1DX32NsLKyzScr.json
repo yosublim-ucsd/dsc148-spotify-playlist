@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2591714,
+  "num_followers": 2591946,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -363,26 +363,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "These Words",
-        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 136580,
-      "name": "These Words",
-      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 136580,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1387,6 +1387,30 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Sem Vox",
+          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "duration_ms": 285472,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -1427,30 +1451,6 @@
       "duration_ms": 163399,
       "name": "Chills (Feel My Love)",
       "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Sem Vox",
-          "url": "https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
-        }
-      ],
-      "duration_ms": 285472,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Edge of Saturday Night",
-        "url": "https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 206796,
-      "name": "Edge of Saturday Night",
-      "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Edge of Saturday Night",
+        "url": "https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 206796,
+      "name": "Edge of Saturday Night",
+      "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2103,6 +2103,34 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "YES B!TCH (feat. Rome Fortune)",
+        "url": "https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Sam WOLFE",
+          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "duration_ms": 153569,
+      "name": "YES B!TCH (feat. Rome Fortune)",
+      "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Tears (with Paige Cavell) [Max Styler Remix]",
         "url": "https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr"
       },
@@ -2159,34 +2187,6 @@
       "duration_ms": 152222,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "YES B!TCH (feat. Rome Fortune)",
-        "url": "https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Sam WOLFE",
-          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
-        },
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        },
-        {
-          "name": "Rome Fortune",
-          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
-        }
-      ],
-      "duration_ms": 153569,
-      "name": "YES B!TCH (feat. Rome Fortune)",
-      "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "duration_ms": 272253,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 197322,
       "name": "THE REASON (feat. John Newman)",
       "url": "https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Flood",
-        "url": "https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        }
-      ],
-      "duration_ms": 272253,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH"
     },
     {
       "added_at": "2024-10-25 04:00:00",

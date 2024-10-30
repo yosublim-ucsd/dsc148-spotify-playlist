@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,794 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,795 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 22 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
 | 23 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
 | 24 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
-| 25 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
-| 26 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
+| 25 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
+| 26 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
 | 27 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 |
 | 28 | [Bonita](https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:22 |
 | 29 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 74 | [Cómo le Gusta](https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cómo le Gusta](https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd) | 3:10 |
 | 75 | [Como Olvidarme](https://open.spotify.com/track/1l44SjqWN8MpmaOHjAFUvj) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Como Olvidarme](https://open.spotify.com/album/2Q4QQNuTsCdwPnhiGbYdvf) | 3:37 |
 | 76 | [Despues de Ti / Pero Me Acuerdo de Ti/ a Puro Dolor](https://open.spotify.com/track/5GDNQTJxjaRWhXrEK26NeV) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Despues de Ti / Pero Me Acuerdo de Ti / a Puro Dolor](https://open.spotify.com/album/6k53cVKHS6nwAwzcqqGguZ) | 4:12 |
-| 77 | [Manos de Tijera / Si Decides Regresar](https://open.spotify.com/track/1lWow3lJ1a1IsYVxwrpgfB) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI) | [Manos de Tijera / Si Decides Regresar](https://open.spotify.com/album/2hnn4f8Y85b6dEJVSU681U) | 3:18 |
-| 78 | [No Puedo Olvidarla](https://open.spotify.com/track/6bNZuleg3RvzmXtVCbMTmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Tropicalisima 2015](https://open.spotify.com/album/1uu0RbV3je5BzBA3sp45Al) | 3:23 |
-| 79 | [Ya No Caigo Más](https://open.spotify.com/track/7dTz3Y350lyH2LT20MxrkV) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Ya No Caigo Más](https://open.spotify.com/album/1izsLMD0QzeIDzrIyKUUkT) | 4:12 |
+| 77 | [Ya No Caigo Más](https://open.spotify.com/track/7dTz3Y350lyH2LT20MxrkV) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Ya No Caigo Más](https://open.spotify.com/album/1izsLMD0QzeIDzrIyKUUkT) | 4:12 |
+| 78 | [Manos de Tijera / Si Decides Regresar](https://open.spotify.com/track/1lWow3lJ1a1IsYVxwrpgfB) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI) | [Manos de Tijera / Si Decides Regresar](https://open.spotify.com/album/2hnn4f8Y85b6dEJVSU681U) | 3:18 |
+| 79 | [No Puedo Olvidarla](https://open.spotify.com/track/6bNZuleg3RvzmXtVCbMTmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Tropicalisima 2015](https://open.spotify.com/album/1uu0RbV3je5BzBA3sp45Al) | 3:23 |
 | 80 | [Si Hay Alguien en Tu Vida](https://open.spotify.com/track/0wCJwNurZCTKJzwU9bJfjY) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:38 |
 
 Snapshot ID: `ZmxG7QAAAAD3Zdq01gqMSpasQt9N0hK6`

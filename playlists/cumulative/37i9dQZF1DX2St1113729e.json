@@ -6999,6 +6999,28 @@
     },
     {
       "album": {
+        "name": "RomanceRomantiKO",
+        "url": "https://open.spotify.com/album/2vPtUZFF9o9wahq3mvbJk1"
+      },
+      "artists": [
+        {
+          "name": "xDiegoJr",
+          "url": "https://open.spotify.com/artist/50pUUYi4NyBmdy3joHR4kD"
+        },
+        {
+          "name": "Dewuhu",
+          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145442,
+      "name": "RomanceRomantiKO",
+      "url": "https://open.spotify.com/track/3N4WZ5U4RcC4MeJnuyKVgO"
+    },
+    {
+      "album": {
         "name": "RUIDO",
         "url": "https://open.spotify.com/album/45z22BuxWT6IWGwvbBpd1M"
       },
@@ -7900,7 +7922,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 194560,
       "name": "TE MISSEO",
       "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"

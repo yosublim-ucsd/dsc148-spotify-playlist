@@ -2881,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "Monarch Season",
+        "url": "https://open.spotify.com/album/3xduOjWzIFvmMOnk0L4888"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Castle",
+          "url": "https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100593,
+      "name": "Justice",
+      "url": "https://open.spotify.com/track/0f64uzujl3Pn1Tcu5AlbAG"
+    },
+    {
+      "album": {
         "name": "Lost Marbles and Exploded Evidence",
         "url": "https://open.spotify.com/album/0urcGWOT3sDiyjhTup7ELw"
       },

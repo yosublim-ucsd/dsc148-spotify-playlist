@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125750,
+  "num_followers": 125747,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATOw/qxxti5u6ZMcWc2A/NBj634lp/",
+  "snapshot_id": "AAATPB+6Q4cii2iMUrvcbq/rLcsON+lr",
   "tracks": [
+    {
+      "added_at": "2024-10-29 14:50:30",
+      "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/4gLFhQ34tPaaJYcWVLuZEO"
+      },
+      "artists": [
+        {
+          "name": "bir\u00f8",
+          "url": "https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/5E8fFXrnuvjqW7FuWK7b7Q"
+    },
     {
       "added_at": "2024-10-28 14:55:34",
       "album": {

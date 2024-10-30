@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2089112,
+  "num_followers": 2089163,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "In Your Hands",
         "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 230164,
       "name": "In Your Hands - Single Version",
       "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 241120,
       "name": "Something Tells Me",
       "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 253613,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 198456,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "It Will Never Be The Same",
+        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 151560,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "It Will Never Be The Same",
-        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 250362,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Stubborn Love",
-      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Stay For Something",
-        "url": "https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS"
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 216946,
-      "name": "Stay For Something",
-      "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
+      "duration_ms": 279000,
+      "name": "Stubborn Love",
+      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1583,6 +1567,22 @@
       "duration_ms": 181706,
       "name": "Go In Light",
       "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Stay For Something",
+        "url": "https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 216946,
+      "name": "Stay For Something",
+      "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 248210,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Talk is Cheap",
-        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 270937,
-      "name": "Talk is Cheap",
-      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Love Is Love",
         "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
       },
@@ -2031,6 +2015,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Talk is Cheap",
+        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 270937,
+      "name": "Talk is Cheap",
+      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Wild World",
         "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
       },
@@ -2043,22 +2043,6 @@
       "duration_ms": 213169,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Soul Sweet Song",
-        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "Soul Sweet Song",
-      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -2083,6 +2067,22 @@
       "duration_ms": 206636,
       "name": "Dance Around It (feat. Brandi Carlile & Sheryl Crow)",
       "url": "https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Soul Sweet Song",
+        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "Soul Sweet Song",
+      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
       "added_at": "2024-07-05 22:00:55",

@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 121615,
+  "num_followers": 121613,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-10-22 15:47:24",
       "album": {
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209403,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v"
+    },
+    {
+      "added_at": "2024-10-22 15:47:24",
+      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
-    },
-    {
-      "added_at": "2024-10-22 15:47:24",
-      "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209403,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v"
     },
     {
       "added_at": "2024-10-22 15:47:24",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-10-22 15:47:24",
       "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 247455,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
+    },
+    {
+      "added_at": "2024-10-22 15:47:24",
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2024-10-22 15:47:24",
-      "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 247455,
-      "name": "Ruthless",
-      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
     },
     {
       "added_at": "2024-10-22 15:47:24",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-10-22 15:47:24",
       "album": {
-        "name": "Freetown Sound",
-        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 225747,
-      "name": "Best to You",
-      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
-    },
-    {
-      "added_at": "2024-10-22 15:47:24",
-      "album": {
         "name": "Late Nights & Heartbreak",
         "url": "https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 255066,
       "name": "Late Nights & Heartbreak",
       "url": "https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v"
+    },
+    {
+      "added_at": "2024-10-22 15:47:24",
+      "album": {
+        "name": "Freetown Sound",
+        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 225747,
+      "name": "Best to You",
+      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
     },
     {
       "added_at": "2024-10-22 15:47:24",

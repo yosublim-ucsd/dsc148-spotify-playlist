@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Halsey
 
-6,688 songs - 13 day 21 hr 8 min
+6,689 songs - 13 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1262,6 +1262,7 @@
 | [Crickets](https://open.spotify.com/track/4tFRoxaAM7OQd2uRFNQP9P) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 1](https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG) | 2:51 | 2023-05-05 | 2023-05-20 |
 | [Criminal](https://open.spotify.com/track/0eqYmHAtWbKPfoxeXw3SU8) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [It's Not That Deep: Chapter 2](https://open.spotify.com/album/4i06nqYSuYsLIqQiEssDSA) | 2:51 | 2022-12-02 | 2023-01-06 |
 | [Criminal](https://open.spotify.com/track/2uYhLPiKQo6NMtisvDiDpG) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Criminal](https://open.spotify.com/album/7rflzEdNH5uSR6GtcNlusz) | 2:11 | 2024-09-27 | 2024-10-12 |
+| [Crocodile Tears](https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Crocodile Tears](https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J) | 3:23 | 2024-10-25 |  |
 | [cross my heart \(hope to die\)](https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi) | [Mackenzie Arromba](https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq) | [cross my heart \(hope to die\)](https://open.spotify.com/album/2OPo2MAbCCUWp3TS4N7nld) | 2:40 | 2024-03-22 | 2024-04-13 |
 | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/album/7oXLJl1mwaPoewLLvE9emw) | 2:49 | 2023-10-06 | 2023-10-28 |
 | [Cross Your Mind](https://open.spotify.com/track/5sPaFuUttXaGeMhq1HKJG5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:32 | 2022-06-17 | 2022-07-16 |
@@ -2821,7 +2822,7 @@
 | [Hypocrite](https://open.spotify.com/track/4V1P86yQsSLuixD5K8wCbU) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hypocrite](https://open.spotify.com/album/2pkpcOD7miiipAVKr5OyqP) | 2:43 | 2024-08-23 | 2024-08-31 |
 | [hypothetical](https://open.spotify.com/track/52Wwz8lay1bFejGmix6sLk) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [hypothetical](https://open.spotify.com/album/2BKqB8HfrbaDlrRogTqNEI) | 2:32 | 2024-02-16 | 2024-03-02 |
 | [Hypothetically](https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Hypothetically](https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO) | 2:41 | 2024-06-07 | 2024-06-22 |
-| [Hysteria](https://open.spotify.com/track/0nAbZLDPGYsw5wOFppq5nK) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [ALMA](https://open.spotify.com/artist/78V5Xh3taZwfgq2xVtZiki) | [SPIRAL](https://open.spotify.com/album/3PFEPWZU5zpMMLLmJ4tuQc) | 2:15 | 2024-10-25 |  |
+| [Hysteria](https://open.spotify.com/track/0nAbZLDPGYsw5wOFppq5nK) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [SPIRAL](https://open.spotify.com/album/3PFEPWZU5zpMMLLmJ4tuQc) | 2:15 | 2024-10-25 |  |
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-07-19 | 2024-08-03 |
 | [i ain't rich, girl](https://open.spotify.com/track/5FjmQ13NVjaH2WvTXXTrii) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [BLOSSOM](https://open.spotify.com/album/19cwzfdUSjshrRghIuOqHd) | 2:08 | 2022-11-04 | 2022-11-19 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-13 | 2022-06-04 |

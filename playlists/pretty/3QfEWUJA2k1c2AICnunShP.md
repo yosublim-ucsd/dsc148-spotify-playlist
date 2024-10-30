@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 23,877 likes - 138 songs - 7 hr 36 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 23,903 likes - 138 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 | 133 | [5 Stücke im Volkston, Op\. 102: II\. Langsam](https://open.spotify.com/track/72M1QxJ62X7eCpt5v6uSZb) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Schumann](https://open.spotify.com/album/2RcexpTBL3UC95AwyTqZAp) | 3:21 |
 | 134 | [Adagio in E\-Flat Major, K\. 15kk](https://open.spotify.com/track/34AdPPizyBq6jTfKmmolvG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Baby Klassik, Vol\. 2: Musik, die beruhigt und Kindern guttut](https://open.spotify.com/album/375CCVxEAv3yUlO4SdQqNr) | 4:13 |
 | 135 | [Armellodie](https://open.spotify.com/track/3GfDVDXAs3sxsnfYJ2MG9z) | [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Melody](https://open.spotify.com/album/0CWT7zFSzfNHq6mkY9dZxq) | 4:40 |
-| 136 | [Song of the Birds](https://open.spotify.com/track/6tjMGof9L2z61y2MtTN8fS) | [Pablo Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN) | [Prayer](https://open.spotify.com/album/6BA0uvfekY4KsPqo0nZWjg) | 3:42 |
+| 136 | [Song of the Birds](https://open.spotify.com/track/6tjMGof9L2z61y2MtTN8fS) | [Pablo Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Prayer](https://open.spotify.com/album/6BA0uvfekY4KsPqo0nZWjg) | 3:42 |
 | 137 | [Nessun Dorma](https://open.spotify.com/track/6NsZucPvDbyARfXLgTpY9u) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 2:57 |
 | 138 | [Le clair de lune](https://open.spotify.com/track/4RPNnsMlvnXuh5oSMAvC1m) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Le clair de lune](https://open.spotify.com/album/71nv1eqwlnGmb5GIaNrfPD) | 4:08 |
 

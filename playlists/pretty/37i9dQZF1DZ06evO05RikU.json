@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 42458,
+  "num_followers": 42460,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAA18bIMM2lJYIj2RCV8MDJV",
+  "snapshot_id": "Zx7UAAAAAAC/f7cdV82wS0pXKEYeRiNg",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Wey",
-        "url": "https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 197836,
-      "name": "El Wey",
-      "url": "https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbia del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2vfaAgiqzNxbHP14nIe0Ht"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 215200,
       "name": "Esa Parte de M\u00ed",
       "url": "https://open.spotify.com/track/3dqMBQ70vjK7B0LWryJLzy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Wey",
+        "url": "https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 197836,
+      "name": "El Wey",
+      "url": "https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 219628,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "tqum (feat. Kim Petras) [Remix]",
         "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 149589,
       "name": "tqum (feat. Kim Petras) - Remix",
       "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 219628,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tu Manera [CORBATA]",
-        "url": "https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "A Tu Manera [CORBATA]",
-      "url": "https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuevos Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 194954,
       "name": "Duele Tanto",
       "url": "https://open.spotify.com/track/16lIZn8RqeQkM1NgICfq3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tu Manera [CORBATA]",
+        "url": "https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "A Tu Manera [CORBATA]",
+      "url": "https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 156831,
+      "name": "La Batidora",
+      "url": "https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TICK TOCK",
         "url": "https://open.spotify.com/album/61vhLJ6tGWrE9XlmIedFmb"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 171082,
       "name": "TICK TOCK",
       "url": "https://open.spotify.com/track/6v9dLKmPBQYOAeoHuwu8wa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 156831,
-      "name": "La Batidora",
-      "url": "https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA"
     },
     {
       "added_at": null,

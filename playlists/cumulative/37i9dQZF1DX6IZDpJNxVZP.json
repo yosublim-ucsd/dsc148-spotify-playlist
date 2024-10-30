@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 175080,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/3etvwGs35IThzIBQ64RHap"
@@ -1368,6 +1368,24 @@
       "duration_ms": 191699,
       "name": "Halloween Oh Halloween Song for Kids",
       "url": "https://open.spotify.com/track/5Y7G0aWQ1Um9VyMQFOty1I"
+    },
+    {
+      "album": {
+        "name": "Halloween Parade (Spooky Version)",
+        "url": "https://open.spotify.com/album/7yCAgqhdiajCiPqulbHWnm"
+      },
+      "artists": [
+        {
+          "name": "SteveSongs",
+          "url": "https://open.spotify.com/artist/1M85r8fn8TM2VSXv3YGJRJ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186486,
+      "name": "Halloween Parade (Spooky Version)",
+      "url": "https://open.spotify.com/track/18BPmfsyok7hkZNIjLYybt"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 292392,
+  "num_followers": 292505,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Higher Than the Sun - Higher Than the Orb Mix",
+      "url": "https://open.spotify.com/track/23UR03W03HWH1HFcF4rz9Z"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 416333,
       "name": "Destination Calabria - Extended Mix",
       "url": "https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Higher Than the Sun - Higher Than the Orb Mix",
-      "url": "https://open.spotify.com/track/23UR03W03HWH1HFcF4rz9Z"
     },
     {
       "added_at": "2024-03-22 15:59:52",

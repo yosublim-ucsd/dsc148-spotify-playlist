@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Sofie Royer
 
-619 songs - 1 day 10 hr 56 min
+620 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Condensation](https://open.spotify.com/track/6qxmMJHgNQIhkElzO7yiLq) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Condensation](https://open.spotify.com/album/64ITjSJIAQ4kdafLTOvzVc) | 3:30 | 2024-09-26 | 2024-10-11 |
 | [Control](https://open.spotify.com/track/0pdoZhLBiQccQ4Lbd8yGzO) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Control](https://open.spotify.com/album/55LPwJ8TYpTkKqFDgDRaOT) | 3:08 | 2024-08-22 | 2024-09-13 |
 | [Corners](https://open.spotify.com/track/0LfNGxDPKVQG5EY9Ulh55a) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Unreleased Pt\. 1](https://open.spotify.com/album/5sM5nF5lB1oJrXVgNGtMkd) | 3:09 | 2024-10-24 |  |
+| [Crocodile Tears](https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Crocodile Tears](https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J) | 3:23 | 2024-10-24 |  |
 | [Crush](https://open.spotify.com/track/1lFGCxQfyfgCRvdOZ0kyft) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [Blue Skies Motel](https://open.spotify.com/album/5iI2whl1ujFd9PoxRuH4qC) | 2:43 | 2024-07-04 | 2024-07-19 |
 | [Crush](https://open.spotify.com/track/07yguDmHARXPmbWpMOYEwu) | [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [Crush](https://open.spotify.com/album/2RIm6b1E69NSDN6f2MeSMa) | 3:55 | 2024-07-18 | 2024-08-02 |
 | [Crying At The End](https://open.spotify.com/track/0Bv8P8yN64KbbcZqj5uFTg) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Crying At The End](https://open.spotify.com/album/0HfjuMO9Uil1LZ664lb8D9) | 1:41 | 2024-08-08 | 2024-08-16 |

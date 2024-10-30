@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Piso 21 en portada.",
-  "num_followers": 87429,
+  "num_followers": 87446,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-10-25 22:07:38",
       "album": {
-        "name": "EVOLUTION",
-        "url": "https://open.spotify.com/album/0uqXfeEoEnK6tFevx5pRRe"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "TQ",
-      "url": "https://open.spotify.com/track/0ZNVJPAXyL6ubMiPS0NGPr"
-    },
-    {
-      "added_at": "2024-10-25 22:07:38",
-      "album": {
         "name": "Modo Melanc\u00f3lico",
         "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 166207,
       "name": "Modo Melanc\u00f3lico",
       "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
+    },
+    {
+      "added_at": "2024-10-25 22:07:38",
+      "album": {
+        "name": "EVOLUTION",
+        "url": "https://open.spotify.com/album/0uqXfeEoEnK6tFevx5pRRe"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "TQ",
+      "url": "https://open.spotify.com/track/0ZNVJPAXyL6ubMiPS0NGPr"
     },
     {
       "added_at": "2024-10-25 22:07:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-10-25 22:07:38",
       "album": {
-        "name": "14 de Febrero",
-        "url": "https://open.spotify.com/album/17RMp54nKpx4TN0PpLZm9d"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 173496,
-      "name": "14 de Febrero",
-      "url": "https://open.spotify.com/track/3763ZNXp62qZYTHhVWV9DU"
-    },
-    {
-      "added_at": "2024-10-25 22:07:38",
-      "album": {
         "name": "Dame Tu Amor",
         "url": "https://open.spotify.com/album/4XNMKxJJbBvcgg3ml5S5Ou"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 156800,
       "name": "Dame Tu Amor",
       "url": "https://open.spotify.com/track/2aMzvik8mqYmjD0CB6mAix"
+    },
+    {
+      "added_at": "2024-10-25 22:07:38",
+      "album": {
+        "name": "14 de Febrero",
+        "url": "https://open.spotify.com/album/17RMp54nKpx4TN0PpLZm9d"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 173496,
+      "name": "14 de Febrero",
+      "url": "https://open.spotify.com/track/3763ZNXp62qZYTHhVWV9DU"
     }
   ],
   "unique_name": "Oye Pop",

@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 144956,
       "name": "Confusional",
       "url": "https://open.spotify.com/track/1QXk8zas7jeb6WhD9sS4Sh"
@@ -2126,6 +2126,24 @@
       "duration_ms": 284945,
       "name": "controllin",
       "url": "https://open.spotify.com/track/1Tmbe21KTdlEZcTXYPU7M3"
+    },
+    {
+      "album": {
+        "name": "A Lover Was Born",
+        "url": "https://open.spotify.com/album/7jgxifgu2gP2BKSEKXkdjV"
+      },
+      "artists": [
+        {
+          "name": "Kelly Finnigan",
+          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn"
     },
     {
       "album": {
@@ -5814,7 +5832,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 226574,
       "name": "Little Things (feat. Yaya Bey)",
       "url": "https://open.spotify.com/track/7eUxbqEPlbf9rccIDDOy5D"
@@ -11764,7 +11782,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 156500,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,989 songs - 4 day 10 hr 51 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,993 songs - 4 day 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1994,8 +1994,12 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1984 | [Duality](https://open.spotify.com/track/5NoIDaacAEA4UEWn9qXIhA) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Duality](https://open.spotify.com/album/5t4AQmpVHpPk8vEoLRTlGJ) | 3:26 |
 | 1985 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 |
 | 1986 | [ESTE](https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [ESTE](https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU) | 2:42 |
-| 1987 | [La Mamá de la Mamá](https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [SAGITARIO](https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb) | 3:39 |
-| 1988 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 |
-| 1989 | [Self\-Destruct](https://open.spotify.com/track/2eqjpko1AQuTdxkBFhAcRG) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Absolute](https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG) | 2:19 |
+| 1987 | [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 |
+| 1988 | [La Mamá de la Mamá](https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [SAGITARIO](https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb) | 3:39 |
+| 1989 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 |
+| 1990 | [Self\-Destruct](https://open.spotify.com/track/2eqjpko1AQuTdxkBFhAcRG) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Absolute](https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG) | 2:19 |
+| 1991 | [WTF Is Hardcore?](https://open.spotify.com/track/2wPZiBX5T9JVE4zSkNTUlO) | [Victor Krum](https://open.spotify.com/artist/7h7GP0dYKyRojU1lIt16QV) | [WTF Is Hardcore?](https://open.spotify.com/album/0gMypa6ITkmgk1fK5RvjpQ) | 4:05 |
+| 1992 | [SPIJKERBOM](https://open.spotify.com/track/3vK4A2BPFWDe4FatXwQhdN) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [SPIJKERBOM](https://open.spotify.com/album/1Xrv1azKd3OXiUjgm7BP5W) | 2:48 |
+| 1993 | [3ISBÄR](https://open.spotify.com/track/3d9JNjZC5rIWLcd0knqvla) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [3ISBÄR](https://open.spotify.com/album/6K02nZ7YNOePwWQIBkFdhk) | 4:36 |
 
-Snapshot ID: `AAADdAVf/yTTqdGmTczSrb+Lz/YL4tQU`
+Snapshot ID: `AAADezGUHYGitgNBb77VnelVOP/eQOE0`

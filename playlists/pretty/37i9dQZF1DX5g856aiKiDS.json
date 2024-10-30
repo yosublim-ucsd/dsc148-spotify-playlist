@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 490567,
+  "num_followers": 490614,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-10-08 10:57:38",
       "album": {
-        "name": "WINE",
-        "url": "https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75"
-      },
-      "artists": [
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 232194,
-      "name": "WINE (Feat.Changmo) (Prod. SUGA)",
-      "url": "https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs"
-    },
-    {
-      "added_at": "2024-10-08 10:57:38",
-      "album": {
         "name": "SoulMate (feat. IU)",
         "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 219390,
       "name": "SoulMate (feat. IU)",
       "url": "https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0"
+    },
+    {
+      "added_at": "2024-10-08 10:57:38",
+      "album": {
+        "name": "WINE",
+        "url": "https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 232194,
+      "name": "WINE (Feat.Changmo) (Prod. SUGA)",
+      "url": "https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs"
     },
     {
       "added_at": "2024-10-08 10:57:38",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-10-08 10:57:38",
       "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 202773,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/6ktEI3U7Wnip2P5pEHchzq"
-    },
-    {
-      "added_at": "2024-10-08 10:57:38",
-      "album": {
         "name": "Beige coat",
         "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 179080,
       "name": "Beige coat",
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+    },
+    {
+      "added_at": "2024-10-08 10:57:38",
+      "album": {
+        "name": "Do monsters love too?",
+        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
+      },
+      "artists": [
+        {
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/6ktEI3U7Wnip2P5pEHchzq"
     },
     {
       "added_at": "2024-10-08 10:57:38",

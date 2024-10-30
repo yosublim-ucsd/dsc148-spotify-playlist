@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Joaquina.
 
-1,723 songs - 3 day 21 hr 48 min
+1,725 songs - 3 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,7 @@
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2022-02-03 | 2022-03-12 |
 | [Dumb](https://open.spotify.com/track/3XaRZNhz6eOU1Fjk2aYCsE) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Dumb](https://open.spotify.com/album/2LwVV5oGRP5viAyph9T22b) | 3:18 | 2022-04-12 | 2022-04-20 |
 | [DUST OFF / START AGAIN](https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DUST OFF / START AGAIN](https://open.spotify.com/album/4DX48GxWm0UadGrp1dDT3O) | 3:44 | 2024-02-09 | 2024-04-06 |
-| [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 | 2024-07-26 |  |
+| [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 | 2024-07-26 | 2024-10-30 |
 | [Décibels](https://open.spotify.com/track/5CuTvuJxQEIwI9JS8LiI3k) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Décibels](https://open.spotify.com/album/3gnD4Xi42JDhk4vk6A1VxD) | 3:06 | 2024-09-23 |  |
 | [Dépassé](https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Dépassé](https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS) | 2:52 | 2023-04-17 | 2023-09-09 |
 | [Días de mierda \(Arial 3\)](https://open.spotify.com/track/2SOn6LXgv9xybGMOEoYzwD) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Días de mierda \(Arial 3\)](https://open.spotify.com/album/3suowBgMkaBa4m1sp9Xg78) | 2:21 | 2024-05-24 | 2024-08-03 |
@@ -621,6 +621,7 @@
 | [Horizon](https://open.spotify.com/track/3wIql1xTfBwTeaRQfuK5cL) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Horizon](https://open.spotify.com/album/2HvwHLj6sjOuyrZE4vG0fe) | 3:13 | 2024-04-19 | 2024-08-17 |
 | [HOTnKOLD \(feat\. BXKS\)](https://open.spotify.com/track/02Vl9QdBH7GvFbaBzhXHMW) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [COBALT: SOMUCHMoRE](https://open.spotify.com/album/6Z0u6ZZA5DISPvzMXbfGx8) | 2:31 | 2024-04-26 | 2024-07-10 |
 | [Hottest Man Alive 1995](https://open.spotify.com/track/0LodhNOnEi9nnvYvWgq8M6) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Now Leaving West Feldwood](https://open.spotify.com/album/7m10seswHmxu6oSrXNvths) | 3:29 | 2024-03-29 | 2024-04-06 |
+| [HOUDINI](https://open.spotify.com/track/4Yx6A5PBSMzAt9yOb1B6lA) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb), [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [HOUDINI](https://open.spotify.com/album/6hNVT6jyFLeSUmSGLl6fDP) | 2:28 | 2024-10-25 |  |
 | [how bad could it be](https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [how bad could it be](https://open.spotify.com/album/5IerYtedPaWMjgMNb4qdpM) | 3:08 | 2023-09-01 | 2023-10-14 |
 | [How Many Nights](https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [How Many Nights](https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9) | 3:20 | 2024-03-08 | 2024-06-24 |
 | [Howl](https://open.spotify.com/track/5BH4G3jjDGZCNu4ZYUF8rL) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Howl](https://open.spotify.com/album/71NiZ2eoxbKbIrqQ4XCllV) | 3:01 | 2022-02-03 | 2022-08-02 |
@@ -739,6 +740,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/0FE88E5srw7mcCheEmMtBr) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII), [GIYA](https://open.spotify.com/artist/7pz3lHXjDHO7BuFQcKM8m8) | [Kaleidoscope](https://open.spotify.com/album/4tMflSstkseynCR2S55Ybg) | 4:20 | 2024-03-22 | 2024-04-06 |
 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 | 2022-12-02 | 2023-05-31 |
 | [Kalka](https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:14 | 2024-10-04 |  |
+| [Kapıl Peşime](https://open.spotify.com/track/2f1MbASESNvydeOfuVhNKc) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Kapıl Peşime](https://open.spotify.com/album/554EsqWUf1JqFfyQAGncud) | 2:43 | 2024-10-25 |  |
 | [Karaluchy](https://open.spotify.com/track/0B287gCJFWfvoCMs8ZIO1K) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE) | [Karaluchy](https://open.spotify.com/album/53H8xnW9CjDrAffFVQ6Npt) | 2:21 | 2022-04-07 | 2022-04-18 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-21 | 2024-07-27 |
 | [KARMA](https://open.spotify.com/track/7r0SUODm7Wq4yTpT2KKtg8) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Part II \. Chiwoo](https://open.spotify.com/album/3t29EYNXWXk1GQcNxKZATU) | 3:56 | 2022-03-24 | 2022-04-18 |
@@ -861,7 +863,7 @@
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2023-05-30 | 2023-10-28 |
 | [make it okay \(change is terrifying\)](https://open.spotify.com/track/0T1SgBVcEkmqYRxyr1s9vo) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [make it okay \(change is terrifying\)](https://open.spotify.com/album/08s5jfhQc3usYnlOXhnvCD) | 4:34 | 2023-05-30 | 2024-01-13 |
 | [MAKE MORE NOISE OF YOU](https://open.spotify.com/track/2luJ055CDIvQToqSJNSukm) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [harutosyura](https://open.spotify.com/album/6or18qH3INbHS0kyALV2HL) | 1:44 | 2023-01-20 | 2023-02-18 |
-| [Make Up Moves](https://open.spotify.com/track/2FHDnPBi1bSAI5gVMd8tL8) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [Make Up Moves](https://open.spotify.com/album/3GfloiOsCKtnIczfMUwBtY) | 3:14 | 2024-08-02 |  |
+| [Make Up Moves](https://open.spotify.com/track/2FHDnPBi1bSAI5gVMd8tL8) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [Make Up Moves](https://open.spotify.com/album/3GfloiOsCKtnIczfMUwBtY) | 3:14 | 2024-08-02 | 2024-10-30 |
 | [Makeweight](https://open.spotify.com/track/16AmxoT1jXMLhjTSLzTEus) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy) | [Serenity Now](https://open.spotify.com/album/1IT4QklvNNguITOJnmn0DF) | 3:38 | 2024-06-28 | 2024-08-10 |
 | [MALA](https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [MALA](https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ) | 2:58 | 2022-03-24 | 2022-12-15 |
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-07-13 | 2023-09-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Arsenal Efectivo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,157 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,170 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 58 | [LEYENDA](https://open.spotify.com/track/45LzMBMAtMP6IeWBqd8mUR) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [LEYENDA](https://open.spotify.com/album/69TuNGeXi7iah9B755lakY) | 4:48 |
 | 59 | [Cachín](https://open.spotify.com/track/4ACD3NpWOVetddcRoo4vHl) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Cachín](https://open.spotify.com/album/7jp45E7U0ulzdh3KGzH1dx) | 2:45 |
 | 60 | [TESLA](https://open.spotify.com/track/24ywDS7nerYsXy99wwbEDk) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [TESLA](https://open.spotify.com/album/4KAl3vaHCPQDvqHtPPwpeL) | 2:16 |
-| 61 | [Antonio Montana \- Remix](https://open.spotify.com/track/7Gbt0nXReC7pb7Vf05hTJH) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Antonio Montana \(Remix\)](https://open.spotify.com/album/6Ek28uJYTugproEPiwJRZx) | 2:41 |
-| 62 | [Bien Tony Montana](https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Bien Tony Montana](https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu) | 2:46 |
+| 61 | [Bien Tony Montana](https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Bien Tony Montana](https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu) | 2:46 |
+| 62 | [Antonio Montana \- Remix](https://open.spotify.com/track/7Gbt0nXReC7pb7Vf05hTJH) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Antonio Montana \(Remix\)](https://open.spotify.com/album/6Ek28uJYTugproEPiwJRZx) | 2:41 |
 | 63 | [Moreno 80](https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Moreno 80 \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO) | 3:02 |
 | 64 | [Oye Cantinero](https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Oye Cantinero](https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx) | 3:16 |
 | 65 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 |

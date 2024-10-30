@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4569,
+  "num_followers": 4570,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAADfd0aifM3iX7ggpont0gMM",
+  "snapshot_id": "Zx7UAAAAAAAlaEHI/ifPHrZg2QyHmpR1",
   "tracks": [
     {
       "added_at": null,
@@ -171,30 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arcane League of Legends (The Remixes)",
-        "url": "https://open.spotify.com/album/6LUMiog4suQdCv2F31U9pq"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        }
-      ],
-      "duration_ms": 151846,
-      "name": "Playground (from the series Arcane League of Legends) - Baby Tate Remix",
-      "url": "https://open.spotify.com/track/2TRtAPADsGBBXaEmXEh7dt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -227,6 +203,30 @@
       "duration_ms": 174360,
       "name": "Don't Hit Me Right Now (with Bas & Cozz feat. Yung Baby Tate, Guapdad 4000 & Buddy)",
       "url": "https://open.spotify.com/track/4ChD9wq9iakg5UdeSzmgPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arcane League of Legends (The Remixes)",
+        "url": "https://open.spotify.com/album/6LUMiog4suQdCv2F31U9pq"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "duration_ms": 151846,
+      "name": "Playground (from the series Arcane League of Legends) - Baby Tate Remix",
+      "url": "https://open.spotify.com/track/2TRtAPADsGBBXaEmXEh7dt"
     },
     {
       "added_at": null,
@@ -467,6 +467,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "While You Wait",
+        "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 208149,
+      "name": "Come First",
+      "url": "https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hello Stranger",
         "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
       },
@@ -511,30 +535,6 @@
       "duration_ms": 112931,
       "name": "Poof Be Gone (with Yung Baby Tate & Yvette and feat. Cheerlebridee)",
       "url": "https://open.spotify.com/track/7ddJSaMdfeSeCwJzOYcE2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "While You Wait",
-        "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 208149,
-      "name": "Come First",
-      "url": "https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN"
     },
     {
       "added_at": null,
@@ -815,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUPID (feat. Ashnikko & Yung Baby Tate) [Sped Up Nightcore]",
-        "url": "https://open.spotify.com/album/7I2HnKQFARWPLxSsUjIDIL"
-      },
-      "artists": [
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 144233,
-      "name": "STUPID (feat. Ashnikko & Yung Baby Tate) - Sped Up Nightcore",
-      "url": "https://open.spotify.com/track/6cxzd3vNyGtNOTnv34OCwO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baby Tate Presents - Sexploration: The Musical",
         "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
       },
@@ -903,22 +879,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ms. Out Tonight",
-        "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
+        "name": "STUPID (feat. Ashnikko & Yung Baby Tate) [Sped Up Nightcore]",
+        "url": "https://open.spotify.com/album/7I2HnKQFARWPLxSsUjIDIL"
       },
       "artists": [
         {
-          "name": "Siena Liggins",
-          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 209577,
-      "name": "Dirty Girl (with Baby Tate)",
-      "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
+      "duration_ms": 144233,
+      "name": "STUPID (feat. Ashnikko & Yung Baby Tate) - Sped Up Nightcore",
+      "url": "https://open.spotify.com/track/6cxzd3vNyGtNOTnv34OCwO"
     },
     {
       "added_at": null,
@@ -939,6 +919,26 @@
       "duration_ms": 197123,
       "name": "Sailor Moon - 2.0",
       "url": "https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ms. Out Tonight",
+        "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
+      },
+      "artists": [
+        {
+          "name": "Siena Liggins",
+          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "Dirty Girl (with Baby Tate)",
+      "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
     },
     {
       "added_at": null,

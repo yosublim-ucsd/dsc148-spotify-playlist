@@ -97,6 +97,36 @@
     },
     {
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/15Cr4FuxG6Urru9A0V7WVG"
+      },
+      "artists": [
+        {
+          "name": "\u3081\u308d\u304f\u308b",
+          "url": "https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "777 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/1JxzBR1zJ5ICHG9EkFvrLu"
+    },
+    {
+      "album": {
         "name": "A10\u795e\u7d4c\u306b\u544a\u3050",
         "url": "https://open.spotify.com/album/6rusQDVGXFDsHB5VDqpo2t"
       },
@@ -232,7 +262,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 285937,
       "name": "Awake (Decade Mix)",
       "url": "https://open.spotify.com/track/6ONkIwMcnp0kHQZqe8aWLe"
@@ -250,7 +280,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 265648,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/1y92j2UHo03rPmZFiif8mx"
@@ -558,7 +588,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 144827,
       "name": "Dream of you (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0rhAI7GANYjIZbKKLzFFDD"
@@ -1076,6 +1106,24 @@
       "duration_ms": 255189,
       "name": "lights and shadows",
       "url": "https://open.spotify.com/track/0bx4nPp3GtLgxcgJuFcy98"
+    },
+    {
+      "album": {
+        "name": "PoppinGROOVE",
+        "url": "https://open.spotify.com/album/6ctIizi987u2laaopG37qQ"
+      },
+      "artists": [
+        {
+          "name": "Alpaca",
+          "url": "https://open.spotify.com/artist/4qAKnharbd1nlHAR0xDHSU"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309090,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/7Ash1LDWApYL28oLledZoi"
     },
     {
       "album": {
@@ -2604,7 +2652,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 391500,
       "name": "\u30b5\u30a4\u30ec\u30f3\u30c8\u30ac\u30fc\u30eb\u306e\u8ff7\u8d70",
       "url": "https://open.spotify.com/track/3bdvkmUJrvDd8qsIBTmUA5"
@@ -2652,6 +2700,28 @@
       "duration_ms": 209343,
       "name": "\u30b7\u30fc\u30b0\u30e9\u30b9 (feat. KAITO)",
       "url": "https://open.spotify.com/track/77N92wUGqEk2XLo5GTTet5"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30b3\u30fc\u30d4\u30aa\u30f3\u30ac\u30fc\u30eb\u306e\u8cb4\u91cd\u306a\u6355\u98df\u30b7\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/4udRr7dFywD3efzTVY3J23"
+      },
+      "artists": [
+        {
+          "name": "STEAKA",
+          "url": "https://open.spotify.com/artist/5FJiFnQENgHOWUOYyqDol5"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148421,
+      "name": "\u30b9\u30b3\u30fc\u30d4\u30aa\u30f3\u30ac\u30fc\u30eb\u306e\u8cb4\u91cd\u306a\u6355\u98df\u30b7\u30fc\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5iRpKbGpOoLgNdSZREnBv0"
     },
     {
       "album": {
@@ -2878,7 +2948,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 167659,
       "name": "\u30c7\u30f3\u30b8\u30e3\u30e9\u30b9 \u30e9\u30f4\u30db\u30ea\u30c3\u30af",
       "url": "https://open.spotify.com/track/1rfpHlN5gACg9QgIfUsSCb"
@@ -3659,6 +3729,32 @@
     },
     {
       "album": {
+        "name": "\u5973\u795e\u306f\u4e16\u754c\u3092\u30c0\u30f3\u30b9\u30db\u30fc\u30eb\u306b\u5909\u3048\u3084\u304c\u308b",
+        "url": "https://open.spotify.com/album/26V76IyOmovi2ejPWrnOs8"
+      },
+      "artists": [
+        {
+          "name": "SLAVE.V-V-R",
+          "url": "https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR"
+        },
+        {
+          "name": "\u5922\u30ce\u7d50\u5531 POPY",
+          "url": "https://open.spotify.com/artist/2vjP6SAC2Urw3pl7s1aTOJ"
+        },
+        {
+          "name": "\u5922\u30ce\u7d50\u5531 ROSE",
+          "url": "https://open.spotify.com/artist/1fkyVWtgEKb9epNQUD6UQ9"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195784,
+      "name": "\u5973\u795e\u306f\u4e16\u754c\u3092\u30c0\u30f3\u30b9\u30db\u30fc\u30eb\u306b\u5909\u3048\u3084\u304c\u308b (feat. \u5922\u30ce\u7d50\u5531 POPY&\u5922\u30ce\u7d50\u5531 ROSE)",
+      "url": "https://open.spotify.com/track/0PupkIoXkoSLGBmKYf7H6c"
+    },
+    {
+      "album": {
         "name": "\u604b\u3059\u308b\u2606\u30d3\u30fc\u30e0",
         "url": "https://open.spotify.com/album/0rrn2S4QMRyWEEAGAQB6Tx"
       },
@@ -4026,6 +4122,24 @@
       "duration_ms": 225120,
       "name": "\u920d\u8272\u30a2\u30a4\u30c9\u30e9\u30c8\u30ea\u30a3",
       "url": "https://open.spotify.com/track/2Fhr0aNCTCI0H1sDy5fzqt"
+    },
+    {
+      "album": {
+        "name": "\u9752\u6625\u30d1\u30f3\u30af\u30ed\u30c3\u30af\u30c6\u30af\u30ce",
+        "url": "https://open.spotify.com/album/3nPVPY71KyzycBXsk5pjjs"
+      },
+      "artists": [
+        {
+          "name": "LovelyP",
+          "url": "https://open.spotify.com/artist/2CWJoeLp1dc6Si1XuBdNZS"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279782,
+      "name": "\u9752\u6625\u30d1\u30f3\u30af\u30ed\u30c3\u30af\u30c6\u30af\u30ce",
+      "url": "https://open.spotify.com/track/4wz8FDl4AFXjHfsJ8xmZ03"
     },
     {
       "album": {

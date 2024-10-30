@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,947 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,961 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 44 | [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
 | 45 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
 | 46 | [Step Into The Arena](https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Step Into The Arena](https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec) | 3:46 |
-| 47 | [Gotta go \(feat\. Jinmenusagi\)](https://open.spotify.com/track/4dvAGWWCRj44F1vk6ohEQt) | [RØØ](https://open.spotify.com/artist/1Z11WA68F90uo1fCYA16Yl), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gotta go \(feat\. Jinmenusagi\)](https://open.spotify.com/album/3kyZM8PgjFDdOADYeT1aGJ) | 2:37 |
-| 48 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 |
+| 47 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 |
+| 48 | [Best Way 2 Die \(feat\. Jin Dogg, LEX & YOUNGBONG\)](https://open.spotify.com/track/1ZLqz5HjWXvx5Tjq8z8DZB) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [YOUNGBONG](https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1) | [Best Way 2 Die \(feat\. Jin Dogg, LEX & YOUNGBONG\)](https://open.spotify.com/album/0IPHOMKradmfeCU67d5pSZ) | 3:34 |
 | 49 | [KASSARAINA](https://open.spotify.com/track/0qksS781ZwciYDbiCt0WjO) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [busy](https://open.spotify.com/album/2Ot6hGHgIvzuoKRE1CEp0I) | 2:25 |
-| 50 | [Best Way 2 Die \(feat\. Jin Dogg, LEX & YOUNGBONG\)](https://open.spotify.com/track/1ZLqz5HjWXvx5Tjq8z8DZB) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [YOUNGBONG](https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1) | [Best Way 2 Die \(feat\. Jin Dogg, LEX & YOUNGBONG\)](https://open.spotify.com/album/0IPHOMKradmfeCU67d5pSZ) | 3:34 |
+| 50 | [Gotta go \(feat\. Jinmenusagi\)](https://open.spotify.com/track/4dvAGWWCRj44F1vk6ohEQt) | [RØØ](https://open.spotify.com/artist/1Z11WA68F90uo1fCYA16Yl), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gotta go \(feat\. Jinmenusagi\)](https://open.spotify.com/album/3kyZM8PgjFDdOADYeT1aGJ) | 2:37 |
 
 Snapshot ID: `ZxhSJQAAAABP5NT3a7hvaQH6M/FlqbPC`

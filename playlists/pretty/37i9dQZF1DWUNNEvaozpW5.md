@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Estopa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,303 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,327 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 66 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
 | 67 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
 | 68 | [El Bien](https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [El Bien](https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4) | 3:26 |
-| 69 | [La Salvación](https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Salvación](https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC) | 4:45 |
-| 70 | [Adiós papá](https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:57 |
+| 69 | [Adiós papá](https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:57 |
+| 70 | [La Salvación](https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Salvación](https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC) | 4:45 |
 | 71 | [Maneras de Vivir \(Single Estudio\)](https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Maneras De Vivir](https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s) | 4:12 |
 | 72 | [Cadillac solitario](https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock & Roll Star \- 30 años](https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR) | 3:34 |
 | 73 | [Por verte sonreír](https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Mira](https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18) | 6:40 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 84 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 |
 | 85 | [Devuélveme a mi chica](https://open.spotify.com/track/6aPj6iq1cYfvTbvyYLyQGv) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Devuélveme a mi chica](https://open.spotify.com/album/3xNMZpxORpL6Hn1V7YNDKT) | 3:13 |
 | 86 | [Hablar, Hablar, Hablar...](https://open.spotify.com/track/4OP27AFFqUJ8de27sOIIku) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [Los Zigarros](https://open.spotify.com/album/2j5gSZN3pvMMBSLBJ6dhNP) | 3:17 |
-| 87 | [Noviembre](https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [El doble de tu mitad](https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u) | 4:00 |
-| 88 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
-| 89 | [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 |
-| 90 | [El Bandido Medina \- De la serie original de Prime Video, Medina: El Estafador de Famosos](https://open.spotify.com/track/4bVINAreycRGIVE6abq6Dj) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [El Bandido Medina \(De la serie original de Prime Video, Medina: El Estafador de Famosos\)](https://open.spotify.com/album/2KWlO5OH2N5ImoY7XzX9SI) | 3:16 |
+| 87 | [El Bandido Medina \- De la serie original de Prime Video, Medina: El Estafador de Famosos](https://open.spotify.com/track/4bVINAreycRGIVE6abq6Dj) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [El Bandido Medina \(De la serie original de Prime Video, Medina: El Estafador de Famosos\)](https://open.spotify.com/album/2KWlO5OH2N5ImoY7XzX9SI) | 3:16 |
+| 88 | [Noviembre](https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [El doble de tu mitad](https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u) | 4:00 |
+| 89 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
+| 90 | [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 |
 | 91 | [Tu frialdad](https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un Encuentro](https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL) | 4:23 |
 | 92 | [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 |
 | 93 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 |

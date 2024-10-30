@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,089 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,108 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 29 | [「Keeping the Peace」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/51evxX66nOSlnjlDjNJEm3) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:26 |
 | 30 | [FFVII REMAKE: ジェシーのテーマ \(Jessie's Theme\)](https://open.spotify.com/track/1tnENCXJOJHAJCbWoOqDT0) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:27 |
 | 31 | [APOCALYPSIS NOCTIS](https://open.spotify.com/track/21Bvy2KqGLO0f3QVgvruru) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 4:14 |
-| 32 | [Enemy Attack](https://open.spotify.com/track/7oQxntBpX9Fh6kO8njQpke) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:41 |
+| 32 | [Phantoms](https://open.spotify.com/track/58hNR7JaOUY5TihJpm5DUa) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:46 |
 | 33 | [Paradigm Shift](https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:49 |
 | 34 | [FFVII REMAKE: 真夜中のまちぶせ \(Midnight Rendezvous\)](https://open.spotify.com/track/01wQYKECKMcKkn0PfjWTlu) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 3:27 |
 | 35 | [SUTEKI DA NE \(Isn't It Wonderful?\) \- Orchestra Version](https://open.spotify.com/track/3Y9niDtvTxk0efj8IUQb9z) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 6:19 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 38 | [Safe Haven](https://open.spotify.com/track/5kgn3gekLoeUwsPUOmzC1T) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 2:21 |
 | 39 | [FINAL FANTASY XIII\-2 \- Wishes \-](https://open.spotify.com/track/50BlgWI61TOVUE1Pc37yKm) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:56 |
 | 40 | [Burden to Bear](https://open.spotify.com/track/1HA3UM6kFI21ZMifahs09f) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 1:35 |
-| 41 | [Phantoms](https://open.spotify.com/track/58hNR7JaOUY5TihJpm5DUa) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:46 |
+| 41 | [Enemy Attack](https://open.spotify.com/track/7oQxntBpX9Fh6kO8njQpke) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:41 |
 | 42 | [Noel's Theme \- Final Journey \-](https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:20 |
 | 43 | [Home Sweet Home \- Theme of EPISODE PROMPTO](https://open.spotify.com/track/7ko7gRGHntBuoK3kypwTnT) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 3:14 |
 | 44 | [Why \(CCFFVII Mix\)](https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 2:15 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 72 | [Melodies of Life \(The Layers of Harmony\)](https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 3:21 |
 | 73 | [Opening](https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:09 |
 | 74 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 |
-| 75 | [Shirma's Theme](https://open.spotify.com/track/4kqGwLAACGAWsQTzyStHLk) | [川上 泰広](https://open.spotify.com/artist/0i4WzcDJUxEP87qiDTKwj6) | [Chocobo's Dungeon 2\(Original Soundtrack\)](https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB) | 1:29 |
+| 75 | [Band:Locus](https://open.spotify.com/track/1VsFMjYvordUV0ZG0NVr3x) | [THE PRIMALS](https://open.spotify.com/artist/2dN1u3qRvK66p9M3MHwJsZ) | [FINAL FANTASY XIV Duality ～ Arrangement Album ～](https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm) | 4:47 |
 
 Snapshot ID: `ZuoxewAAAAB3ac5zyT0/RmrIbds/Y/hG`

@@ -4,7 +4,7 @@
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: VLOSPA
 
-191 songs - 8 hr 57 min
+192 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Den Koimamai](https://open.spotify.com/track/297UqXCEjXhd1ENfHww5oa) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [Den Koimamai](https://open.spotify.com/album/5TxVXH7UsMqj5QnyOcWksg) | 2:52 | 2024-06-27 | 2024-07-05 |
 | [DIAKOPES](https://open.spotify.com/track/4YsnE1OIAUsvMDALcCA0PW) | [Llenn](https://open.spotify.com/artist/3tpV3p3cGqRpi4FECzJTki) | [DIAKOPES](https://open.spotify.com/album/1JDIx1trtY7Bw1laLk1i9u) | 2:20 | 2024-08-01 | 2024-08-16 |
 | [DIDGERIDOO](https://open.spotify.com/track/0eKVBdxBNs9vgG3Yi4Ccqj) | [duKYS](https://open.spotify.com/artist/2sodpTtk7UOG4z5ZtIHg89), [Billy Sio](https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc), [Lil Riico](https://open.spotify.com/artist/7jJIWDEEEQvarOBiEd6WQq) | [DIDGERIDOO](https://open.spotify.com/album/4uig9vBX3NqSFTqZXC6JZd) | 3:21 | 2024-10-17 | 2024-10-25 |
+| [Dikastirio](https://open.spotify.com/track/2jQmJz8aiGuytF7ul8Kn9c) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Dikastirio](https://open.spotify.com/album/6sjhZiV67ayw1ZOBfq5uLs) | 2:41 | 2024-10-24 |  |
 | [Dinero](https://open.spotify.com/track/6eyAhSQLBbGHeh8E4ees5m) | [Lil Koni](https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV), [Aj Ness](https://open.spotify.com/artist/4UKbdCFXAar9HgTTBPyef5), [J2LASTEU](https://open.spotify.com/artist/3uTKNyY4f6vNaedgmLZcHc) | [Dinero](https://open.spotify.com/album/0LZpJ5aYy9WRFpK79m0T6u) | 3:18 | 2024-08-15 | 2024-09-06 |
 | [Do Money](https://open.spotify.com/track/1HgCFre9Kh8mrHPfOfu8hz) | [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj), [ASL Beats](https://open.spotify.com/artist/4ChQVaQSb8Vx6MCTqGf5Ds) | [Do Money](https://open.spotify.com/album/35bSvhfLbr16ZA6QUL5EsX) | 2:35 | 2024-08-15 | 2024-08-30 |
 | [Dokimasia](https://open.spotify.com/track/2wbBqDHV8Lv4XyBhBnakNx) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [Homesick](https://open.spotify.com/album/4WosJwHEcsbDlTj7a2fk5R) | 3:57 | 2024-06-27 | 2024-08-16 |

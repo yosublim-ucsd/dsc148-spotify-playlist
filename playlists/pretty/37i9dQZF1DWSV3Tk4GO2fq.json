@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1811734,
+  "num_followers": 1811875,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Shout!",
-        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "Shout, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 167493,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Shout!",
+        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "Shout, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Rock with Sedaka (Expanded Edition)",
         "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
       "artists": [
         {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1015,6 +999,22 @@
       "duration_ms": 153933,
       "name": "Poor Little Fool - Remastered",
       "url": "https://open.spotify.com/track/5ayybTSXNwcarDtxQKqvWX"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+        "name": "For Collectors Only",
+        "url": "https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "The Five Satins",
+          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
         }
       ],
-      "duration_ms": 150893,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
+      "duration_ms": 187666,
+      "name": "In The Still of the Night",
+      "url": "https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "For Collectors Only",
-        "url": "https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6"
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
       "artists": [
         {
-          "name": "The Five Satins",
-          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 187666,
-      "name": "In The Still of the Night",
-      "url": "https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk"
+      "duration_ms": 150893,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Essentials: Ruth Brown",
-        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Come Go With Me: The Best Of The Del-Vikings",
         "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Essentials: Ruth Brown",
+        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Little Bitty Pretty One",
-        "url": "https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG"
-      },
-      "artists": [
-        {
-          "name": "Thurston Harris",
-          "url": "https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT"
-        }
-      ],
-      "duration_ms": 143066,
-      "name": "Little Bitty Pretty One",
-      "url": "https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Magic Of Jo Stafford",
         "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 192560,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Little Bitty Pretty One",
+        "url": "https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG"
+      },
+      "artists": [
+        {
+          "name": "Thurston Harris",
+          "url": "https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "Little Bitty Pretty One",
+      "url": "https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG"
-      },
-      "artists": [
-        {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
-        }
-      ],
-      "duration_ms": 283200,
-      "name": "Just A Gigolo - Remastered",
-      "url": "https://open.spotify.com/track/6lYeYgSkWh6TZDQy6YZuvG"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Legendary Masters Series (Volume 1)",
         "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 135840,
       "name": "Lonesome Town - 1990 Digital Remaster",
       "url": "https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG"
+      },
+      "artists": [
+        {
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        }
+      ],
+      "duration_ms": 283200,
+      "name": "Just A Gigolo - Remastered",
+      "url": "https://open.spotify.com/track/6lYeYgSkWh6TZDQy6YZuvG"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Bill Haley's Greatest Hits",
-        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 150466,
-      "name": "Shake, Rattle And Roll - Single Version",
-      "url": "https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 140773,
       "name": "A Teenager's Romance",
       "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Bill Haley's Greatest Hits",
+        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 150466,
+      "name": "Shake, Rattle And Roll - Single Version",
+      "url": "https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Lloyd Price Greatest Hits: The Original ABC-Paramount Recordings",
-        "url": "https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Price",
-          "url": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Personality",
-      "url": "https://open.spotify.com/track/5vjigjfoXuJEttqLB3HTAg"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Teresa (Expanded Edition)",
         "url": "https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 155880,
       "name": "A Tear Fell",
       "url": "https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Lloyd Price Greatest Hits: The Original ABC-Paramount Recordings",
+        "url": "https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Price",
+          "url": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Personality",
+      "url": "https://open.spotify.com/track/5vjigjfoXuJEttqLB3HTAg"
     },
     {
       "added_at": "2024-09-06 14:23:51",

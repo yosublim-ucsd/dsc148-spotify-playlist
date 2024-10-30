@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19429,
+  "num_followers": 19436,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAABIOpc+AC/un1e0QRoFtbZd",
+  "snapshot_id": "Zx7UAAAAAADuB1iK5WWbXKqmwqWlkxJJ",
   "tracks": [
     {
       "added_at": null,
@@ -627,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Most - Single",
-        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
+        "name": "Touch Down 2 Cause Hell",
+        "url": "https://open.spotify.com/album/6Wa9UU70x85ldCo4aeYD2N"
       },
       "artists": [
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 207405,
-      "name": "The Most",
-      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
+      "duration_ms": 267586,
+      "name": "Like a Man (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/27PtszzqiR0o7rLyOOiVNZ"
     },
     {
       "added_at": null,
@@ -675,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touch Down 2 Cause Hell",
-        "url": "https://open.spotify.com/album/6Wa9UU70x85ldCo4aeYD2N"
+        "name": "The Most - Single",
+        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
       },
       "artists": [
-        {
-          "name": "Boosie Badazz",
-          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
-        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 267586,
-      "name": "Like a Man (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/27PtszzqiR0o7rLyOOiVNZ"
+      "duration_ms": 207405,
+      "name": "The Most",
+      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Sinning",
-        "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 176009,
-      "name": "Still Sinning",
-      "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Authentic (feat. Clever)",
         "url": "https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns"
       },
@@ -859,6 +843,38 @@
       "duration_ms": 192266,
       "name": "Authentic (feat. Clever)",
       "url": "https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Sinning",
+        "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 176009,
+      "name": "Still Sinning",
+      "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daily Bread",
+        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
     },
     {
       "added_at": null,
@@ -891,22 +907,6 @@
       "duration_ms": 220186,
       "name": "Investment",
       "url": "https://open.spotify.com/track/45qBK268Mjy6JnOE6mx179"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daily Bread",
-        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Daily Bread",
-      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
     },
     {
       "added_at": null,

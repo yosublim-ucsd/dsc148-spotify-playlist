@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 203355,
       "name": "And the Hound",
       "url": "https://open.spotify.com/track/4q5nIofqneeKnap0G39yvk"
@@ -6486,7 +6486,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 179773,
       "name": "Boy",
       "url": "https://open.spotify.com/track/4FQhTIpf3bnxGsCr0dHhtr"
@@ -17610,7 +17610,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 593346,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
@@ -24669,6 +24669,24 @@
     },
     {
       "album": {
+        "name": "I Want You Yesterday",
+        "url": "https://open.spotify.com/album/0AzuCbYoIxEBH9boTjbekq"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167671,
+      "name": "I Want You Yesterday",
+      "url": "https://open.spotify.com/track/0B7kvXtG2SnY0z8YQjhN0G"
+    },
+    {
+      "album": {
         "name": "i want, doesn't get",
         "url": "https://open.spotify.com/album/3uN3Syyka3yAaYdfzDPhoi"
       },
@@ -25422,7 +25440,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 212866,
       "name": "Image",
       "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
@@ -25444,6 +25462,28 @@
       "duration_ms": 212866,
       "name": "Image",
       "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
+    },
+    {
+      "album": {
+        "name": "Image (Grimes Special)",
+        "url": "https://open.spotify.com/album/5GrbD3XhTH6jyvLTwRJpji"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215454,
+      "name": "Image - Grimes Special",
+      "url": "https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT"
     },
     {
       "album": {
@@ -28820,7 +28860,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 224906,
       "name": "Lightleak",
       "url": "https://open.spotify.com/track/5JqDJQKBcPvFKyyhJKHiki"
@@ -35212,7 +35252,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 179617,
       "name": "Not Your Angel",
       "url": "https://open.spotify.com/track/3gjd5zvhEMUMhN7uffKLNB"
@@ -47332,7 +47372,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 146486,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/2kV2gzrfWhoxXBumKCeh01"

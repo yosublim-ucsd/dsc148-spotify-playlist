@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 333346,
+  "num_followers": 333457,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-10-17 14:31:46",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
-        }
-      ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
-    },
-    {
-      "added_at": "2024-10-17 14:31:46",
-      "album": {
         "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
         "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 244333,
       "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
       "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
+    },
+    {
+      "added_at": "2024-10-17 14:31:46",
+      "album": {
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+        }
+      ],
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2024-10-17 14:31:46",
@@ -847,34 +847,6 @@
     {
       "added_at": "2024-10-17 14:31:46",
       "album": {
-        "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
-        "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
-      },
-      "artists": [
-        {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
-        },
-        {
-          "name": "Ensemble Orchestral Harmonia Nova & Didier Bouture",
-          "url": "https://open.spotify.com/artist/0Ujx9OMRc595IoVDwlwiKF"
-        },
-        {
-          "name": "Didier Bouture",
-          "url": "https://open.spotify.com/artist/42Bd2IhLltsbqINlfZPpkL"
-        },
-        {
-          "name": "Ensemble Orchestral Harmonia Nova",
-          "url": "https://open.spotify.com/artist/564UyyHYTqGWAsAvDabSdt"
-        }
-      ],
-      "duration_ms": 85000,
-      "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
-      "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
-    },
-    {
-      "added_at": "2024-10-17 14:31:46",
-      "album": {
         "name": "Faur\u00e9: Music for Piano",
         "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
       },
@@ -911,6 +883,34 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+    },
+    {
+      "added_at": "2024-10-17 14:31:46",
+      "album": {
+        "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
+        "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Ensemble Orchestral Harmonia Nova & Didier Bouture",
+          "url": "https://open.spotify.com/artist/0Ujx9OMRc595IoVDwlwiKF"
+        },
+        {
+          "name": "Didier Bouture",
+          "url": "https://open.spotify.com/artist/42Bd2IhLltsbqINlfZPpkL"
+        },
+        {
+          "name": "Ensemble Orchestral Harmonia Nova",
+          "url": "https://open.spotify.com/artist/564UyyHYTqGWAsAvDabSdt"
+        }
+      ],
+      "duration_ms": 85000,
+      "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
+      "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
     },
     {
       "added_at": "2024-10-17 14:31:46",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2024-10-17 14:31:46",
       "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/0q6TkS6KL7l6gjeyoDHtQQ"
+      },
+      "artists": [
+        {
+          "name": "Karen LeFrak",
+          "url": "https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo"
+        },
+        {
+          "name": "Jacques van Tuinen",
+          "url": "https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz"
+        }
+      ],
+      "duration_ms": 69291,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/31vbhWL8EkGGQzqqpCJRJP"
+    },
+    {
+      "added_at": "2024-10-17 14:31:46",
+      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1271,30 +1291,6 @@
       "duration_ms": 139974,
       "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
-    },
-    {
-      "added_at": "2024-10-17 14:31:46",
-      "album": {
-        "name": "Four Hands",
-        "url": "https://open.spotify.com/album/2BA8KYF8Dm4TzpeV7B3iVa"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        },
-        {
-          "name": "David Fray",
-          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
-        }
-      ],
-      "duration_ms": 140626,
-      "name": "Bach, JS: Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus Tragicus\": No. 2, Ch\u00f6re, Arioso und Aria. \"Gottes Zeit ist die allerbeste Zeit\" (Arr. Kurt\u00e1g for Piano 4-Hands)",
-      "url": "https://open.spotify.com/track/4wPU1i9XmAFixhrLeO5AVw"
     },
     {
       "added_at": "2024-10-17 14:31:46",
@@ -1319,22 +1315,26 @@
     {
       "added_at": "2024-10-17 14:31:46",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/0q6TkS6KL7l6gjeyoDHtQQ"
+        "name": "Four Hands",
+        "url": "https://open.spotify.com/album/2BA8KYF8Dm4TzpeV7B3iVa"
       },
       "artists": [
         {
-          "name": "Karen LeFrak",
-          "url": "https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Jacques van Tuinen",
-          "url": "https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz"
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "David Fray",
+          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
         }
       ],
-      "duration_ms": 69291,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/31vbhWL8EkGGQzqqpCJRJP"
+      "duration_ms": 140626,
+      "name": "Bach, JS: Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus Tragicus\": No. 2, Ch\u00f6re, Arioso und Aria. \"Gottes Zeit ist die allerbeste Zeit\" (Arr. Kurt\u00e1g for Piano 4-Hands)",
+      "url": "https://open.spotify.com/track/4wPU1i9XmAFixhrLeO5AVw"
     },
     {
       "added_at": "2024-10-17 14:31:46",
@@ -1391,34 +1391,22 @@
     {
       "added_at": "2024-10-17 14:31:46",
       "album": {
-        "name": "Danzi: Music for Clarinet & Orchestra",
-        "url": "https://open.spotify.com/album/3QXzf4f90yiUoQAKeXk8Ob"
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
       "artists": [
         {
-          "name": "Franz Danzi",
-          "url": "https://open.spotify.com/artist/6k3Ws6wp7iOp7lN7pxsfjT"
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
         },
         {
-          "name": "Eduard Brunner",
-          "url": "https://open.spotify.com/artist/1YZbTL8pA4Xe9Ha7V4tLBu"
-        },
-        {
-          "name": "Klaus Thunemann",
-          "url": "https://open.spotify.com/artist/0HLqp813o9kv2t8JtVLH4a"
-        },
-        {
-          "name": "Munich Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/43CmLUkZNUzmvPNUhxeoSU"
-        },
-        {
-          "name": "Hans Stadlmair",
-          "url": "https://open.spotify.com/artist/2nSo5GklA6StFDLyVq0uEA"
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Concertino for Clarinet & Bassoon in B-Flat Major, Op. 47: II. Andante moderato",
-      "url": "https://open.spotify.com/track/0L7jG253pjmPHAo2AREzXE"
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2024-10-17 14:31:46",
@@ -1463,26 +1451,6 @@
     {
       "added_at": "2024-10-17 14:31:46",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
-    },
-    {
-      "added_at": "2024-10-17 14:31:46",
-      "album": {
         "name": "Debussy: Suite bergamasque: III. Clair de lune",
         "url": "https://open.spotify.com/album/3yGx9HJkwOT8ptSYmmmlld"
       },
@@ -1499,6 +1467,38 @@
       "duration_ms": 302986,
       "name": "Debussy: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
       "url": "https://open.spotify.com/track/4DhPRzkpdXYExzwUrV6t3i"
+    },
+    {
+      "added_at": "2024-10-17 14:31:46",
+      "album": {
+        "name": "Danzi: Music for Clarinet & Orchestra",
+        "url": "https://open.spotify.com/album/3QXzf4f90yiUoQAKeXk8Ob"
+      },
+      "artists": [
+        {
+          "name": "Franz Danzi",
+          "url": "https://open.spotify.com/artist/6k3Ws6wp7iOp7lN7pxsfjT"
+        },
+        {
+          "name": "Eduard Brunner",
+          "url": "https://open.spotify.com/artist/1YZbTL8pA4Xe9Ha7V4tLBu"
+        },
+        {
+          "name": "Klaus Thunemann",
+          "url": "https://open.spotify.com/artist/0HLqp813o9kv2t8JtVLH4a"
+        },
+        {
+          "name": "Munich Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/43CmLUkZNUzmvPNUhxeoSU"
+        },
+        {
+          "name": "Hans Stadlmair",
+          "url": "https://open.spotify.com/artist/2nSo5GklA6StFDLyVq0uEA"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Concertino for Clarinet & Bassoon in B-Flat Major, Op. 47: II. Andante moderato",
+      "url": "https://open.spotify.com/track/0L7jG253pjmPHAo2AREzXE"
     },
     {
       "added_at": "2024-10-17 14:31:46",
@@ -1571,22 +1571,22 @@
     {
       "added_at": "2024-10-17 14:31:46",
       "album": {
-        "name": "Beethoven: Piano Sonatas, Vol. 7",
-        "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
         },
         {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
         }
       ],
-      "duration_ms": 180200,
-      "name": "Piano Sonata No.20 in G Major, Op. 49 No.2: II. Tempo di Menuetto",
-      "url": "https://open.spotify.com/track/688T7aVGomCvoPqH4YL9yc"
+      "duration_ms": 156233,
+      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
     },
     {
       "added_at": "2024-10-17 14:31:46",
@@ -1615,22 +1615,22 @@
     {
       "added_at": "2024-10-17 14:31:46",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Beethoven: Piano Sonatas, Vol. 7",
+        "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
         }
       ],
-      "duration_ms": 156233,
-      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
+      "duration_ms": 180200,
+      "name": "Piano Sonata No.20 in G Major, Op. 49 No.2: II. Tempo di Menuetto",
+      "url": "https://open.spotify.com/track/688T7aVGomCvoPqH4YL9yc"
     },
     {
       "added_at": "2024-10-17 14:31:46",
@@ -1699,8 +1699,8 @@
     {
       "added_at": "2024-10-17 14:31:46",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
       },
       "artists": [
         {
@@ -1708,13 +1708,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+          "name": "Jo\u00e3o Carlos Victor",
+          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
         }
       ],
-      "duration_ms": 93400,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
+      "duration_ms": 354560,
+      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
     },
     {
       "added_at": "2024-10-17 14:31:46",
@@ -1831,8 +1831,8 @@
     {
       "added_at": "2024-10-17 14:31:46",
       "album": {
-        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
+        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
       },
       "artists": [
         {
@@ -1840,13 +1840,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Jo\u00e3o Carlos Victor",
-          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
         }
       ],
-      "duration_ms": 354560,
-      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
+      "duration_ms": 151923,
+      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
     },
     {
       "added_at": "2024-10-17 14:31:46",

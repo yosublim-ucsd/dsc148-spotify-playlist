@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2FFr0vdtqPBTK3RW0c7T5C"
@@ -3482,7 +3482,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 188411,
       "name": "DE LUNES A LUNES",
       "url": "https://open.spotify.com/track/49Zc3sEJHADPoVDM4jNKgs"
@@ -4831,6 +4831,28 @@
     },
     {
       "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153609,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
+    },
+    {
+      "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
       },
@@ -5030,7 +5052,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -5084,7 +5106,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -14336,7 +14358,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 137000,
       "name": "Sou Baiana",
       "url": "https://open.spotify.com/track/2jOOrtPppgKV7ELxy4KmpD"

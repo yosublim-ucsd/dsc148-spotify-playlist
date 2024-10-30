@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Shermanology 👽👽  50% techno, 50% house
 
-1,811 songs - 4 day 4 hr 56 min
+1,812 songs - 4 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2023-01-03 | 2023-01-06 |
 | [Dancing On My Own \- Matt Sassari Remix](https://open.spotify.com/track/1uffw4RWKTSJGic3KEADAz) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Dancing On My Own \(Matt Sassari Remix\)](https://open.spotify.com/album/0xg8AXR4ELaxzqRpJe08hk) | 5:11 | 2022-12-09 | 2023-03-25 |
 | [Dani Girl](https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Dani Girl](https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa) | 3:54 | 2022-02-04 | 2022-06-04 |
-| [Danny Phantom](https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Danny Phantom](https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU) | 3:20 | 2024-09-27 |  |
+| [Danny Phantom](https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Danny Phantom](https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU) | 3:20 | 2024-09-27 | 2024-10-30 |
 | [Dara Dum](https://open.spotify.com/track/5eFgVcOpAw08lvsM1GG8RK) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Dara Dum](https://open.spotify.com/album/6OhZImhLlsyq6H0TaMWHZd) | 3:03 | 2022-11-28 | 2023-02-04 |
 | [Dark Sun](https://open.spotify.com/track/14u3zFqqRmQhIvLogOilhn) | [DRECHSLER](https://open.spotify.com/artist/1D8FnfDviwgCeVuTeDj9hF) | [Dark Sun](https://open.spotify.com/album/3pFhGgvlipUBjQaf2TRUx5) | 2:36 | 2022-08-05 | 2022-09-24 |
 | [Darkness Into Light](https://open.spotify.com/track/0zVwagb9RAZel6qeZEX9lG) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Darkness Into Light](https://open.spotify.com/album/6lAKx5AdS6hrf9Ow1bRt96) | 3:08 | 2022-07-08 | 2022-09-10 |
@@ -569,6 +569,7 @@
 | [Formulate](https://open.spotify.com/track/5hIikVMKkHbcqWf5RssqfC) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Formulate](https://open.spotify.com/album/1gG1t6YSrSolqK0F6Dy03I) | 3:04 | 2024-01-26 | 2024-03-02 |
 | [Freak](https://open.spotify.com/track/6LDoJdEJW4NTOTOLTH71IL) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34) | [Freak](https://open.spotify.com/album/1LStsedQUVmTDXp9xGVMyp) | 3:07 | 2023-07-21 | 2024-01-13 |
 | [Freakiness](https://open.spotify.com/track/27teEuh9kHjCj4SOQWgkZy) | [Chelina Manuhutu](https://open.spotify.com/artist/4IoT1ZwtqNYn1u7q9r62Sy) | [Freakiness](https://open.spotify.com/album/1RR8ncQaNVcN3VzEad2hVk) | 3:40 | 2023-07-07 | 2023-09-23 |
+| [Freakquency](https://open.spotify.com/track/3Xu8Qppxx1UYyGxAmr14aG) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [Freakquency](https://open.spotify.com/album/0Ow8u9nyecPbgJZ5eXrnj3) | 2:59 | 2024-10-11 |  |
 | [Freaky](https://open.spotify.com/track/4kGKb76jdupromKClU6Udl) | [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Freaky](https://open.spotify.com/album/7fHMOHG8YAFLnGPvHPJTgZ) | 3:46 | 2022-12-16 | 2023-03-25 |
 | [Freaky Feed Me](https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Freaky Feed Me / Outlaws \(feat\. Audio Bullys & Olly Burden\)](https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW) | 3:35 | 2024-09-27 |  |
 | [Freddie's Warmup](https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [Freddie's Warmup](https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m) | 2:00 | 2023-07-21 |  |

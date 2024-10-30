@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️ \(Cover: Luby Sparks\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,048 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,063 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,995 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,004 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 34 | [How Great Is Your Love \- Live](https://open.spotify.com/track/4707B6flOJWZSBXqqVsvPI) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 6:06 |
 | 35 | [Greater Things](https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke) | 4:40 |
 | 36 | [The Wonderful Cross](https://open.spotify.com/track/784qUrovUUH4jYQ811D6hF) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 7:07 |
-| 37 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
-| 38 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
+| 37 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
+| 38 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
 | 39 | [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 |
 | 40 | [Alive In You \- Studio Version](https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Alive In You \(Studio Version\)](https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH) | 3:59 |
 | 41 | [Sunday Is Coming](https://open.spotify.com/track/4VC8MVxUm6Pb57MaJXz7iQ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming](https://open.spotify.com/album/408vh14ZAvgmakxejGEmka) | 4:52 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 52 | [Beautiful Scandalous Night](https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 3:20 |
 | 53 | [At The Cross](https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Amaze Us](https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4) | 4:02 |
 | 54 | [It Was Finished](https://open.spotify.com/track/0oGI2EFKcoW9ZSu9JNoZvj) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Kingdom Come](https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR) | 4:45 |
-| 55 | [Doxology](https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Stars Go Dim](https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr) | 4:38 |
-| 56 | [I Know That My Redeemer Lives](https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [I Know That My Redeemer Lives](https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i) | 4:49 |
+| 55 | [I Know That My Redeemer Lives](https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [I Know That My Redeemer Lives](https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i) | 4:49 |
+| 56 | [Doxology](https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Stars Go Dim](https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr) | 4:38 |
 | 57 | [Above All](https://open.spotify.com/track/4UKkXhpY3knx2S4KDrsRSP) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [The Writer's Collection](https://open.spotify.com/album/1ztavDrZMEGJubkYFKcmZv) | 5:23 |
 | 58 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 |
 | 59 | [Long Live The King \- Acoustic](https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Versions\) \- EP](https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH) | 5:53 |

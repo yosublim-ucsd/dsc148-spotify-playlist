@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,241 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,384 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 4 | [Candy Cane Lane](https://open.spotify.com/track/0TUVQt59Z1X4tWbdcQNTrO) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Candy Cane Lane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qkGM0bKCxCyX1u67xMBkm) | 3:53 |
 | 5 | [Better Than Snow](https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 2:46 |
 | 6 | [The Chipmunk Song \(Christmas Don't Be Late\)](https://open.spotify.com/track/7uQnkMWfJ3sp2zGkYmwLyW) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [The Chipmunk Song \(Christmas Don't Be Late\)](https://open.spotify.com/album/1kMuXts6Aq8leTHnnnduie) | 4:18 |
-| 7 | [That's What I Want for Christmas](https://open.spotify.com/track/1FrlqxhKnDs0zj8IIdWqmx) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Snow](https://open.spotify.com/album/0a805poEESIyC6G5KjrFDK) | 4:09 |
+| 7 | [That's What I Want for Christmas](https://open.spotify.com/track/1FrlqxhKnDs0zj8IIdWqmx) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Snow!](https://open.spotify.com/album/0a805poEESIyC6G5KjrFDK) | 4:09 |
 | 8 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/43hPyoE1vsz3VnvBDupq5B) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:20 |
 | 9 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
 | 10 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:26 |

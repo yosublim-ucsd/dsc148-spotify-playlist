@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 90596,
+  "num_followers": 90611,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Cashapp Cashapp Zelle",
+        "url": "https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo"
+      },
+      "artists": [
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 61368,
+      "name": "Cashapp Cashapp Zelle",
+      "url": "https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Leave the Bones",
         "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Cashapp Cashapp Zelle",
-        "url": "https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo"
-      },
-      "artists": [
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 61368,
-      "name": "Cashapp Cashapp Zelle",
-      "url": "https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Ti Kabrit",
-        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
+        "name": "Podyab Yo",
+        "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
       },
       "artists": [
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "Blondedy Ferdinand",
+          "url": "https://open.spotify.com/artist/0cg303cCZs8xyXQJQbOVqr"
+        },
+        {
+          "name": "D-Perfect",
+          "url": "https://open.spotify.com/artist/2bTguhttdiYEA47vewTehr"
         }
       ],
-      "duration_ms": 161717,
-      "name": "Ti Kabrit",
-      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
+      "duration_ms": 319974,
+      "name": "Podyab Yo",
+      "url": "https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1055,6 +1059,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Ti Kabrit",
+        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 161717,
+      "name": "Ti Kabrit",
+      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 291120,
       "name": "A.k.i.ko.",
       "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Podyab Yo",
-        "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
-      },
-      "artists": [
-        {
-          "name": "Blondedy Ferdinand",
-          "url": "https://open.spotify.com/artist/0cg303cCZs8xyXQJQbOVqr"
-        },
-        {
-          "name": "D-Perfect",
-          "url": "https://open.spotify.com/artist/2bTguhttdiYEA47vewTehr"
-        }
-      ],
-      "duration_ms": 319974,
-      "name": "Podyab Yo",
-      "url": "https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Trip Tropikal",
         "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 252000,
       "name": "Na Va W\u00e8 Yo",
       "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1919,22 +1919,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
       },
       "artists": [
         {
-          "name": "Chabin",
-          "url": "https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA"
+          "name": "Freedom",
+          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
         },
         {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
         }
       ],
-      "duration_ms": 173025,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
+      "duration_ms": 210857,
+      "name": "U.F.O.",
+      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
     }
   ],
   "unique_name": "Haitian Heat",

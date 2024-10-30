@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 36 | [Coming Back For More](https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PALPITATIONS](https://open.spotify.com/album/7fxhGVYVaAnGw6ZQ50DkJC) | 2:33 |
 | 37 | [Meherbaan](https://open.spotify.com/track/46hWgb9J4Lf5bAnEV4dY2T) | [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5) | [Meherbaan](https://open.spotify.com/album/1lI6lP0ODvHbBzSXuzqIWy) | 2:33 |
 | 38 | [Watching Her Heartbreak](https://open.spotify.com/track/0PUUGNXMaLZBH6t6yaXamS) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Watching Her Heartbreak](https://open.spotify.com/album/1WEBLiRsDq6bStgx7fxLG1) | 3:03 |
-| 39 | [Sleepy Head](https://open.spotify.com/track/2hhisc2iY0UPwps2DYxNou) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Sleepy Head](https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE) | 2:24 |
-| 40 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 |
-| 41 | [Another Night](https://open.spotify.com/track/2ollh0CfwAz4snWXe5Ii85) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Life Begins After Dark](https://open.spotify.com/album/1IA3CdlBxrnTdJUDoP1Sfb) | 2:32 |
-| 42 | [Wrong](https://open.spotify.com/track/4ScVwI4sJpP1TT7CAOBnvt) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 3:07 |
+| 39 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 |
+| 40 | [Sleepy Head](https://open.spotify.com/track/2hhisc2iY0UPwps2DYxNou) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Sleepy Head](https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE) | 2:24 |
+| 41 | [Wrong](https://open.spotify.com/track/4ScVwI4sJpP1TT7CAOBnvt) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 3:07 |
+| 42 | [Another Night](https://open.spotify.com/track/2ollh0CfwAz4snWXe5Ii85) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Life Begins After Dark](https://open.spotify.com/album/1IA3CdlBxrnTdJUDoP1Sfb) | 2:32 |
 | 43 | [Work Of Art](https://open.spotify.com/track/1EU6rKdmudLSZJl9zJ4geL) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [NEVER REALLY THE END](https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD) | 2:43 |
 | 44 | [Everything's Not Fine](https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Everything's Not Fine](https://open.spotify.com/album/5tCSaDGt7dqIMBTuWCCx5P) | 2:59 |
 | 45 | [Ego Rush](https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [Ego Rush](https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac) | 2:39 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 52 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 53 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `AbgBSgAAAADEKpvv9ZoWjmkNe66lFSAK`
+Snapshot ID: `AbgG/gAAAAAaPVDfEwCt/gqouPP9yCn7`

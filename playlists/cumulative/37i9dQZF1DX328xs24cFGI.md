@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-346 songs - 22 hr 26 min
+347 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [ダーリン](https://open.spotify.com/track/010Xsoma6PVCxHbCESayQX) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [ダーリン](https://open.spotify.com/album/6hgcwuQOeRXhEj52Zr1CUK) | 3:04 | 2023-07-02 | 2023-07-05 |
 | [チェリー](https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [インディゴ地平線](https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N) | 4:19 | 2023-02-09 |  |
 | [ツキミソウ](https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [開幕宣言](https://open.spotify.com/album/2l0vCKtHcqHyticG9vDDCg) | 5:12 | 2023-11-01 |  |
+| [ハーメルン](https://open.spotify.com/track/5cB9HOqYW1MlSCDY5XT4Vw) | [メルトタイマー](https://open.spotify.com/artist/3ipWDVcSIYrBC1vVJottkd) | [ハーメルン](https://open.spotify.com/album/1sR0etIGz5TXe7uJM2GG13) | 3:09 | 2024-10-29 |  |
 | [ヒカリ](https://open.spotify.com/track/0Xf7lckHz3jvpSurbgbrFf) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [ヒカリ](https://open.spotify.com/album/6ZkIrRQFB5BeXrDO8T52KC) | 4:10 | 2024-01-16 | 2024-01-31 |
 | [ピンクの髪](https://open.spotify.com/track/56V7casJFyKngwOksqwWD0) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [ピンクの髪](https://open.spotify.com/album/2aBOY6hwasvx0aUj1OI28b) | 2:57 | 2023-02-14 | 2023-02-16 |
 | [ファイナルボーイフレンド](https://open.spotify.com/track/0VNPAfMasBmlJjeOllhvxt) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [純異性交遊](https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3) | 5:04 | 2023-08-15 | 2023-12-27 |
@@ -327,7 +328,7 @@
 | [立春、坂道にて](https://open.spotify.com/track/1tTAF6VFTl5qXpNYdi62pm) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [立春、坂道にて](https://open.spotify.com/album/3DLPzsPL5P1HA3F1bSjg1k) | 3:31 | 2023-02-09 | 2023-03-01 |
 | [結](https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [テイクミー](https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh) | 4:24 | 2024-04-16 |  |
 | [絶対約束](https://open.spotify.com/track/49Q8rKDz5VcAyomvbubfKi) | [浜野はるき](https://open.spotify.com/artist/5sx4iy6FarYtWbiChpFOZp) | [絶対約束](https://open.spotify.com/album/6zJaVfdIRNrn3jfwMLhj5x) | 2:53 | 2024-02-20 | 2024-03-13 |
-| [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-04-11 |  |
+| [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-04-11 | 2024-10-30 |
 | [聖なるクリスマス](https://open.spotify.com/track/7i3YnL4zlmqGeQV9G1xLzr) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [聖なるクリスマス](https://open.spotify.com/album/2xC5tynQ7PhYwoOrooAlJ5) | 4:11 | 2023-11-28 | 2023-12-27 |
 | [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 | 2023-04-05 | 2023-04-19 |
 | [花束](https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [スーパースター](https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI) | 4:46 | 2023-02-23 |  |

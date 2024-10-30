@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 222061,
+  "num_followers": 222153,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,30 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 219768,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Cold Enough For Snow",
         "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
       },
@@ -967,6 +991,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Afters",
+        "url": "https://open.spotify.com/album/6TnuvOxefca6KEDgQimpki"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Afters",
+      "url": "https://open.spotify.com/track/0Mpwy30nhQyjHIBBWiRBvx"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Stay Still",
         "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
       },
@@ -987,46 +1027,6 @@
       "duration_ms": 273170,
       "name": "Stay Still",
       "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Afters",
-        "url": "https://open.spotify.com/album/6TnuvOxefca6KEDgQimpki"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Afters",
-      "url": "https://open.spotify.com/track/0Mpwy30nhQyjHIBBWiRBvx"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 219768,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1063,26 +1063,6 @@
       "duration_ms": 222857,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Strange Feelings (Solomun Remix)",
-        "url": "https://open.spotify.com/album/5Ltey6d0mxTU1gKfD8Js51"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 220404,
-      "name": "Strange Feelings - Solomun Remix",
-      "url": "https://open.spotify.com/track/0mouZlwz32yBlVbDHaH1QJ"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1151,22 +1131,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Love Come Through",
-        "url": "https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI"
+        "name": "Strange Feelings (Solomun Remix)",
+        "url": "https://open.spotify.com/album/5Ltey6d0mxTU1gKfD8Js51"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         }
       ],
-      "duration_ms": 199458,
-      "name": "Love Come Through",
-      "url": "https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz"
+      "duration_ms": 220404,
+      "name": "Strange Feelings - Solomun Remix",
+      "url": "https://open.spotify.com/track/0mouZlwz32yBlVbDHaH1QJ"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1183,6 +1163,26 @@
       "duration_ms": 298125,
       "name": "Voices",
       "url": "https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Love Come Through",
+        "url": "https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 199458,
+      "name": "Love Come Through",
+      "url": "https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz"
     },
     {
       "added_at": "2024-10-24 23:00:00",

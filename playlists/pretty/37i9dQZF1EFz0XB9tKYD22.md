@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350 likes - 321 songs - 19 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 352 likes - 321 songs - 19 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 110 | [Can't Be Replaced](https://open.spotify.com/track/6A3zkf3PbkhibQTWcb5RFu) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 5:40 |
 | 111 | [I Need A Ride Home](https://open.spotify.com/track/2cDwJOPWSBuFyqdmBRBbsS) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:30 |
 | 112 | [Don't Die Young, Don't Get Old](https://open.spotify.com/track/1bs6AEglHC8hQqBbsylTDy) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:13 |
-| 113 | [The Otherside](https://open.spotify.com/track/2UtfhpTxMrAfyCoiRyZIVi) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 |
-| 114 | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi) | 3:20 |
+| 113 | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi) | 3:20 |
+| 114 | [The Otherside](https://open.spotify.com/track/2UtfhpTxMrAfyCoiRyZIVi) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 |
 | 115 | [Road To Happiness](https://open.spotify.com/track/43leIkqjRU95aAi5Dokdge) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Road To Happiness](https://open.spotify.com/album/7zQr3UUmrNlX7xtirOJlij) | 3:18 |
 | 116 | [All the Love You Left Me](https://open.spotify.com/track/53oKQO2Ag8A4ylOQTkdXDf) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Words](https://open.spotify.com/album/4IzQueTW4TG1V6hxEAtvcr) | 4:17 |
 | 117 | [love me like a girl](https://open.spotify.com/track/2KlMMM75Mu4EccdPk3oujg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:57 |
@@ -320,8 +320,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 310 | [Relapse](https://open.spotify.com/track/5FNnv4NtUeXrCBChLiXJq8) | [1205](https://open.spotify.com/artist/5WF90LLIQ4UVFwqny0Rzug) | [Relapse](https://open.spotify.com/album/6ywkiV5lXefwdHRyykn5q8) | 2:49 |
 | 311 | [Web of Lies](https://open.spotify.com/track/2E6f2r945tYOVUYlPWgDCo) | [Pam Jackson](https://open.spotify.com/artist/6hF0EFyjOBs213RdDv8swc) | [Dream a Little Bigger](https://open.spotify.com/album/3LL6YCz4gsYAZiz5cAEksV) | 2:51 |
 | 312 | [Queen of Hearts](https://open.spotify.com/track/1h7MHoxIW1Md110MR6j1Iy) | [Rose Hips](https://open.spotify.com/artist/2L100CUtatmSVrJ9Vcj4eM) | [Witch Doctor](https://open.spotify.com/album/5246tB6NI5zSqor9lE1vo5) | 5:03 |
-| 313 | [Everything \(Karaoke Version With Lead Vocal\) \[Originally Performed By Jessica Andrews\]](https://open.spotify.com/track/7jLsz9fup5JHANKCaw3XLd) | [Country Karaoke Cow Boys](https://open.spotify.com/artist/1T9rOYmodcUr7fU94l3EB1) | [Everything](https://open.spotify.com/album/21tLYuZvwdw1OynFGigcDf) | 4:08 |
-| 314 | [Where She Ain't](https://open.spotify.com/track/4RBZJXeHXbDv3FuHJUaJyA) | [Jay Eric](https://open.spotify.com/artist/20TDsK5kszoMspfUAnHkDP) | [Where She Ain't](https://open.spotify.com/album/30SDw7sehRjooABsVHNlMW) | 3:39 |
+| 313 | [Where She Ain't](https://open.spotify.com/track/4RBZJXeHXbDv3FuHJUaJyA) | [Jay Eric](https://open.spotify.com/artist/20TDsK5kszoMspfUAnHkDP) | [Where She Ain't](https://open.spotify.com/album/30SDw7sehRjooABsVHNlMW) | 3:39 |
+| 314 | [Everything \(Karaoke Version With Lead Vocal\) \[Originally Performed By Jessica Andrews\]](https://open.spotify.com/track/7jLsz9fup5JHANKCaw3XLd) | [Country Karaoke Cow Boys](https://open.spotify.com/artist/1T9rOYmodcUr7fU94l3EB1) | [Everything](https://open.spotify.com/album/21tLYuZvwdw1OynFGigcDf) | 4:08 |
 | 315 | [This Time Of Year](https://open.spotify.com/track/5I4vX0BnOj8Hkb2pyln7s3) | [Melanie Morgan](https://open.spotify.com/artist/5SW32PeH4qJv83WrsbKaXL) | [Goodbye Birmingham](https://open.spotify.com/album/43WOGGhIFomvkV9tunjaA6) | 5:14 |
 | 316 | [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 |
 | 317 | [You Ain't Know](https://open.spotify.com/track/270EaQRmJklbHSrcPKQbGt) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [You Ain't Know](https://open.spotify.com/album/4ivpwP0SYc2dvvRgduvLjg) | 3:34 |
@@ -330,4 +330,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 320 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 321 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `AbgBNgAAAACZnVUTj15ARCv5xIXHnJ22`
+Snapshot ID: `AbgG9AAAAAA7f+gqGBeNw+bnsxc/Zd/P`

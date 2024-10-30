@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,506 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,620 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sticky](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 |
+| 1 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 |
 | 2 | [KNOCKA](https://open.spotify.com/track/4ULnpJdMqKvD2B60PO6fz9) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:30 |
 | 3 | [pink whitney](https://open.spotify.com/track/5QVD21jVsQd2gbZCSlJxJO) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:02 |
 | 4 | [Pose For Me](https://open.spotify.com/track/3YOrk2YHbXRdKtmurcdq2T) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU) | [Pose For Me](https://open.spotify.com/album/6d8UKmxIuws3fTX6ITvNh0) | 2:26 |
-| 5 | [Thought I Was Dead](https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:27 |
+| 5 | [Thought I Was Dead \(feat\. ScHoolboy Q & Santigold\)](https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:27 |
 | 6 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 |
 | 7 | [Doin Yo Stuff](https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:36 |
 | 8 | [She Said \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/1zxkYiyGSn3t9NuK6IBJOR) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Chilli Season](https://open.spotify.com/album/5H4WujKtDwCEdP1dsvxpwh) | 1:50 |

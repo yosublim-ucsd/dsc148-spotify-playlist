@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 67271,
+  "num_followers": 67270,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -661,26 +661,6 @@
       "url": "https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa"
     },
     {
-      "added_at": "2024-10-10 13:00:00",
-      "album": {
-        "name": "falling or flying (Deluxe)",
-        "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 126009,
-      "name": "Lately Remix (feat. Craig David)",
-      "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
-    },
-    {
       "added_at": "2024-09-02 06:16:10",
       "album": {
         "name": "Endless Night",
@@ -731,6 +711,26 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "added_at": "2024-10-10 13:00:00",
+      "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 126009,
+      "name": "Lately Remix (feat. Craig David)",
+      "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
     },
     {
       "added_at": "2024-09-02 06:16:10",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-09-02 06:16:10",
       "album": {
-        "name": "Oh Why",
-        "url": "https://open.spotify.com/album/5voNr92YRmiItz5FnU3fAW"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        },
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "Oh Why",
-      "url": "https://open.spotify.com/track/6CeG3pbRAjcv78ca1ONW7K"
-    },
-    {
-      "added_at": "2024-09-02 06:16:10",
-      "album": {
         "name": "VOYCONTODO",
         "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 211200,
       "name": "YOU",
       "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
+    },
+    {
+      "added_at": "2024-09-02 06:16:10",
+      "album": {
+        "name": "Oh Why",
+        "url": "https://open.spotify.com/album/5voNr92YRmiItz5FnU3fAW"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        },
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 186160,
+      "name": "Oh Why",
+      "url": "https://open.spotify.com/track/6CeG3pbRAjcv78ca1ONW7K"
     },
     {
       "added_at": "2024-09-02 06:16:10",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-09-02 06:16:10",
       "album": {
+        "name": "For You / Si Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Si Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC"
+    },
+    {
+      "added_at": "2024-09-02 06:16:10",
+      "album": {
         "name": "Double Standards (feat. Sampha)",
         "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 301800,
       "name": "Double Standards (feat. Sampha)",
       "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
-    },
-    {
-      "added_at": "2024-09-02 06:16:10",
-      "album": {
-        "name": "For You / Si Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Si Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC"
     },
     {
       "added_at": "2024-09-02 06:16:10",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-09-02 06:16:10",
       "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 220311,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
+    },
+    {
+      "added_at": "2024-09-02 06:16:10",
+      "album": {
         "name": "Irrational",
         "url": "https://open.spotify.com/album/2V8e3GhVApzKrBgVTYgnCo"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 194000,
       "name": "Irrational",
       "url": "https://open.spotify.com/track/1AAk3NJuimLgWIFjiOgtig"
-    },
-    {
-      "added_at": "2024-09-02 06:16:10",
-      "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 220311,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
     },
     {
       "added_at": "2024-09-02 06:16:10",

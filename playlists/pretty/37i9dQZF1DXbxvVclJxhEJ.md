@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,964 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,005 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 36 | [Billie's Blues \- Take 1](https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:37 |
 | 37 | [Jelly Roll Blues](https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Sweet Emma Barrett And Her New Orleans Music](https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg) | 3:40 |
 | 38 | [A Little Bird Told Me](https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j) | [Blue Lu Barker](https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ) | [Capitol Records From The Vaults: "Vine Street Divas"](https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw) | 2:14 |
-| 39 | [Back Water Blues](https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:45 |
-| 40 | [As Long as I´m Moving](https://open.spotify.com/track/40x5fk9CvdmZKeABp3hKfN) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Hot Boppin Girls Vol\. 1](https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx) | 2:41 |
+| 39 | [As Long as I´m Moving](https://open.spotify.com/track/40x5fk9CvdmZKeABp3hKfN) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Hot Boppin Girls Vol\. 1](https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx) | 2:41 |
+| 40 | [Back Water Blues](https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:45 |
 | 41 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
 | 42 | [\(You Can Have My Husband But\) Don´t Mess with My Man](https://open.spotify.com/track/78EABXHJPg76VVrxRENUn1) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Hot Boppin Girls Vol\. 1](https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx) | 2:16 |
 | 43 | [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/320ZZJr1jagnULcoB1dTx5) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [The Magic of Big Maybelle](https://open.spotify.com/album/5Hqv6mLzLW9DckvKdW41YS) | 2:40 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 57 | [Honey Dripper Blues](https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1) | [Hattie North & Roosevelt Sykes](https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx) | [Those Dirty Blues, Vol\. 2](https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl) | 3:25 |
 | 58 | [Rock Me \- Remastered](https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:36 |
 | 59 | [Butcher Shop Blues](https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr) | [Bernice Edwards](https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA) | [Raunchy Business: Hot Nuts & Lollypops](https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx) | 3:06 |
-| 60 | [Romance in the Dark](https://open.spotify.com/track/0o99WPCOktWokBuqRDjf0p) | [Lil Green](https://open.spotify.com/artist/54n9JL6NVGHuhXqU2DSbMS) | [The Blues Mama](https://open.spotify.com/album/6XBPbT1jHLKJpvkfAW4cuZ) | 3:24 |
-| 61 | [Any Woman's Blues](https://open.spotify.com/track/178Sq9Ao4vivMJ6vfALqHB) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [Milestones of Legends \- Female Blues, Vol\. 1](https://open.spotify.com/album/1tooc4z8lEcb5g3bXqwlwJ) | 3:28 |
+| 60 | [Any Woman's Blues](https://open.spotify.com/track/178Sq9Ao4vivMJ6vfALqHB) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [Milestones of Legends \- Female Blues, Vol\. 1](https://open.spotify.com/album/1tooc4z8lEcb5g3bXqwlwJ) | 3:28 |
+| 61 | [Romance in the Dark](https://open.spotify.com/track/0o99WPCOktWokBuqRDjf0p) | [Lil Green](https://open.spotify.com/artist/54n9JL6NVGHuhXqU2DSbMS) | [The Blues Mama](https://open.spotify.com/album/6XBPbT1jHLKJpvkfAW4cuZ) | 3:24 |
 | 62 | [Crazy Blues](https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Female Crazy Blues \(Classic Mood Experience\)](https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL) | 3:24 |
 | 63 | [I Crave Your Lovin' Every Day](https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U) | [Ora Alexander](https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl) | [Female Blues Singers Vol\. 1 A/B \(1924\-1932\)](https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB) | 3:03 |
 | 64 | [My Castle's Rocking](https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF) | [Alberta Hunter](https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA) | [Downhearted Blues](https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep) | 2:31 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAAhkMcRj3tENlYxrE0KsPYR",
+  "snapshot_id": "Zx7UAAAAAAA3WR7o4v73ZpxrPoiThXec",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) [REMIX]",
+        "url": "https://open.spotify.com/album/5F9n9FZTxY7mnQKzIX4qgF"
+      },
+      "artists": [
+        {
+          "name": "\u534a\u719f\u5375\u3063\u3061",
+          "url": "https://open.spotify.com/artist/41X6FS6g9dLuOGghju7Qb1"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Yayoi Daimon",
+          "url": "https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb"
+        }
+      ],
+      "duration_ms": 141833,
+      "name": "GAL is MIND - REMIX",
+      "url": "https://open.spotify.com/track/1uZ8vgCwplmJ18HIDcirB1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bassgod",
         "url": "https://open.spotify.com/album/4Yi5FlWp2CuxQsP0ORMlRg"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 187503,
       "name": "Bassgod",
       "url": "https://open.spotify.com/track/1NmLOlgJamGPEaPmX2sjuV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) [REMIX]",
-        "url": "https://open.spotify.com/album/5F9n9FZTxY7mnQKzIX4qgF"
-      },
-      "artists": [
-        {
-          "name": "\u534a\u719f\u5375\u3063\u3061",
-          "url": "https://open.spotify.com/artist/41X6FS6g9dLuOGghju7Qb1"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Yayoi Daimon",
-          "url": "https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb"
-        }
-      ],
-      "duration_ms": 141833,
-      "name": "GAL is MIND - REMIX",
-      "url": "https://open.spotify.com/track/1uZ8vgCwplmJ18HIDcirB1"
     },
     {
       "added_at": null,

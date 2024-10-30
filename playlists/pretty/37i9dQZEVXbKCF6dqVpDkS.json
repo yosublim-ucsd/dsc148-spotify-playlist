@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 916787,
+  "num_followers": 916800,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LrL7yAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LrRNSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -49,23 +49,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Terug In De Tijd",
-        "url": "https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 187357,
-      "name": "Terug In De Tijd",
-      "url": "https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "Vaag (REMIX)",
         "url": "https://open.spotify.com/album/70Z3IiTGPIXykQLl93dyJl"
@@ -97,7 +81,23 @@
       "url": "https://open.spotify.com/track/6eldmQ56gAtXN55c7MuH8N"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Terug In De Tijd",
+        "url": "https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 187357,
+      "name": "Terug In De Tijd",
+      "url": "https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -113,7 +113,27 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 197019,
+      "name": "St. Chroma (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -145,23 +165,7 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Industry Plant",
-        "url": "https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 140643,
-      "name": "Industry Plant",
-      "url": "https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -193,27 +197,39 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+        "name": "Noid",
+        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
       },
       "artists": [
         {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "Black Friday (pretty like the sun)",
         "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
@@ -233,131 +249,43 @@
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Bro Code",
-        "url": "https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 131279,
-      "name": "Bro Code",
-      "url": "https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Ushuaia",
-        "url": "https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6"
-      },
-      "artists": [
-        {
-          "name": "Turfy Gang",
-          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
         },
         {
-          "name": "Russo",
-          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 157261,
-      "name": "Ushuaia",
-      "url": "https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP"
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Dat Is Het Leven",
-        "url": "https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
-        }
-      ],
-      "duration_ms": 179100,
-      "name": "Dat Is Het Leven",
-      "url": "https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Gaan We Weg?",
-        "url": "https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas"
+        "name": "Industry Plant",
+        "url": "https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh"
       },
       "artists": [
         {
           "name": "Roxy Dekker",
           "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 141775,
-      "name": "Gaan We Weg?",
-      "url": "https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC"
+      "duration_ms": 140643,
+      "name": "Industry Plant",
+      "url": "https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "The Sound of Silence (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "The Sound of Silence - CYRIL Remix",
-      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "Ik Wil Dat Je Liegt",
         "url": "https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV"
@@ -377,23 +305,79 @@
       "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+      "duration_ms": 165412,
+      "name": "Rah Tah Tah",
+      "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Dat Is Het Leven",
+        "url": "https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
+        }
+      ],
+      "duration_ms": 179100,
+      "name": "Dat Is Het Leven",
+      "url": "https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Ushuaia",
+        "url": "https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6"
+      },
+      "artists": [
+        {
+          "name": "Turfy Gang",
+          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "duration_ms": 157261,
+      "name": "Ushuaia",
+      "url": "https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Gaan We Weg?",
+        "url": "https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 141775,
+      "name": "Gaan We Weg?",
+      "url": "https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
@@ -409,7 +393,183 @@
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 253834,
+      "name": "Darling, I (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Lodewijk",
+        "url": "https://open.spotify.com/album/4hcMI3CC2BYniavlmQZ4aa"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "Lodewijk",
+      "url": "https://open.spotify.com/track/6VkzZ0I0w2CE3EIGbyMeeu"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Modeshow",
+        "url": "https://open.spotify.com/album/2trIJlIWZRxD3jJsPiRBlE"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Modeshow",
+      "url": "https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Kisses (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 138246,
+      "name": "Kisses (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Bro Code",
+        "url": "https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 131279,
+      "name": "Bro Code",
+      "url": "https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
@@ -437,95 +597,23 @@
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
-        "name": "Modeshow",
-        "url": "https://open.spotify.com/album/2trIJlIWZRxD3jJsPiRBlE"
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
       "artists": [
         {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        },
-        {
-          "name": "Milolaathetlukken",
-          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Modeshow",
-      "url": "https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc"
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Kisses (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 138246,
-      "name": "Kisses (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Lodewijk",
-        "url": "https://open.spotify.com/album/4hcMI3CC2BYniavlmQZ4aa"
-      },
-      "artists": [
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "Lodewijk",
-      "url": "https://open.spotify.com/track/6VkzZ0I0w2CE3EIGbyMeeu"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "Ik Haat Hem Voor Jou",
         "url": "https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz"
@@ -545,7 +633,7 @@
       "url": "https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -561,23 +649,7 @@
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -597,39 +669,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Zoet, Zout, Zuur",
-        "url": "https://open.spotify.com/album/6FrJb3MtWlu4EQNbXZsN1P"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 180778,
-      "name": "Zoet, Zout, Zuur",
-      "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "PINK SUMMER",
         "url": "https://open.spotify.com/album/12MvsNfFvDBDEZTbCfpPpJ"
@@ -645,7 +685,23 @@
       "url": "https://open.spotify.com/track/4jNM7Zdqo6qsotBbUBlKHT"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 240742,
+      "name": "Hey Jane",
+      "url": "https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M"
@@ -661,59 +717,7 @@
       "url": "https://open.spotify.com/track/5o0osRx8kYJTOqlOSggr9Z"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/1CpitDOBAGiMnc1tmxlsGY"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 164757,
-      "name": "Oceaan",
-      "url": "https://open.spotify.com/track/7GWU6dQFjYF5YpsAUwZfGq"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Hier Mag Alles",
-        "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        }
-      ],
-      "duration_ms": 195859,
-      "name": "Hier Mag Alles",
-      "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "I Need Your Love",
         "url": "https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0"
@@ -733,43 +737,7 @@
       "url": "https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Rockwood",
-        "url": "https://open.spotify.com/album/3Kb9vAa1RBNXEQltJpPxwE"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Huisfeestje",
-        "url": "https://open.spotify.com/album/7Ida3KTJ3zMQ9lchjH3BnF"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        },
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 149732,
-      "name": "Huisfeestje",
-      "url": "https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "Chin Chin",
         "url": "https://open.spotify.com/album/0yRFDaWNxewWlMdelzLOqZ"
@@ -801,71 +769,119 @@
       "url": "https://open.spotify.com/track/7sEe6B2uzEziUaMAszvnF7"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
-        "name": "45 - Lekker eigenwijs",
-        "url": "https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr"
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
       "artists": [
         {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 175762,
-      "name": "Lekker eigenwijs",
-      "url": "https://open.spotify.com/track/6Ywtn5b16tAlqwQJrzEXm8"
+      "duration_ms": 255915,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
-        "name": "Moon Music (Full Moon Edition)",
-        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 233406,
-      "name": "WE PRAY",
-      "url": "https://open.spotify.com/track/6xX6zmaXeKzB4u9TiM1XgU"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Oceaan",
+        "url": "https://open.spotify.com/album/53KUevA3UOEWaUts8cew8C"
+      },
+      "artists": [
+        {
+          "name": "M4RLBORO",
+          "url": "https://open.spotify.com/artist/7d4t6iQ96DSuN1JPhChNMd"
+        },
+        {
+          "name": "yeixs",
+          "url": "https://open.spotify.com/artist/51hQ28H5BjnESK2nUoloVC"
+        }
+      ],
+      "duration_ms": 164095,
+      "name": "Oceaan",
+      "url": "https://open.spotify.com/track/6LIuqYkTDH1x1NXnGVrG5g"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "Rockwood",
+        "url": "https://open.spotify.com/album/3Kb9vAa1RBNXEQltJpPxwE"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 168420,
+      "name": "I Killed You",
+      "url": "https://open.spotify.com/track/3GdwjAsCsoE79ObhsJFyYb"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
@@ -885,7 +901,23 @@
       "url": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 269622,
+      "name": "Judge Judy",
+      "url": "https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl"
+    },
+    {
+      "added_at": "2024-10-29 12:41:48",
       "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
@@ -901,72 +933,40 @@
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
-        "name": "Embrace It",
-        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+        "name": "Zoet, Zout, Zuur",
+        "url": "https://open.spotify.com/album/6FrJb3MtWlu4EQNbXZsN1P"
       },
       "artists": [
         {
-          "name": "Ndotz",
-          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
         }
       ],
-      "duration_ms": 104418,
-      "name": "Embrace It",
-      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
+      "duration_ms": 180778,
+      "name": "Zoet, Zout, Zuur",
+      "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
     },
     {
-      "added_at": "2024-10-28 13:52:26",
+      "added_at": "2024-10-29 12:41:48",
       "album": {
-        "name": "Miles On It",
-        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+        "name": "Hier Mag Alles",
+        "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
         },
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
         }
       ],
-      "duration_ms": 168355,
-      "name": "Miles On It",
-      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Waterdicht",
-        "url": "https://open.spotify.com/album/59aEWelmxUt15uWrUCiULm"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        }
-      ],
-      "duration_ms": 171932,
-      "name": "Waterdicht",
-      "url": "https://open.spotify.com/track/7flLhzZtbPYAKRSbBrn69x"
-    },
-    {
-      "added_at": "2024-10-28 13:52:26",
-      "album": {
-        "name": "Sugardaddy",
-        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 131796,
-      "name": "Sugardaddy",
-      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+      "duration_ms": 195859,
+      "name": "Hier Mag Alles",
+      "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

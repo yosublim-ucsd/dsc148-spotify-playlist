@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,992 likes - 128 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,990 likes - 128 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 105 | [Ama Dablam](https://open.spotify.com/track/0LgWCujOkkoXyFH7yYc8lZ) | [Anna Sise](https://open.spotify.com/artist/1oCu9UayqsgcJqOCA4CfGU) | [Ama Dablam](https://open.spotify.com/album/1q9IwStKSq6xIQK0PowPKb) | 2:59 |
 | 106 | [Du & jag](https://open.spotify.com/track/4snUmcNizFcM54dush1B8v) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Du & jag](https://open.spotify.com/album/6OfTq1YUvs2tpSRWI2DU6U) | 3:27 |
 | 107 | [Kärleken & saknaden](https://open.spotify.com/track/6Rvo0yIM8xgxVbCLQXkU4E) | [Lotta Engberg](https://open.spotify.com/artist/26deOFc7Oj2gu2pqzPo9O8), [Elisabeth Andreassen](https://open.spotify.com/artist/6Fn3e6ZtmKtAl9wQ6Y9Fbc) | [Kärleken & saknaden](https://open.spotify.com/album/59veyjK2dDH6WDpjq93iY2) | 3:31 |
-| 108 | [The Meadows](https://open.spotify.com/track/1Yhb8nhoZxwf9MnM22XE51) | [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94), [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [Best Of Both Worlds](https://open.spotify.com/album/4T51tw25x1ULojaTjFrLWc) | 5:36 |
+| 108 | [In The Meadows](https://open.spotify.com/track/1Yhb8nhoZxwf9MnM22XE51) | [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94), [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [Best Of Both Worlds](https://open.spotify.com/album/4T51tw25x1ULojaTjFrLWc) | 5:36 |
 | 109 | [What You See Is What You Get](https://open.spotify.com/track/4x0Mhzkh3MsdtKKN2MlLjB) | [Nicolai Dunger](https://open.spotify.com/artist/1XUJ4bS7sEaPb29R4LzY18) | [Melody Rules](https://open.spotify.com/album/1EqGFkm8kmN0saVfv2Xsjk) | 4:06 |
 | 110 | [Heart of a Rabbit](https://open.spotify.com/track/4wv2t0EfUkJXVUqxDAQwGH) | [Selma & Gustaf](https://open.spotify.com/artist/0tUfqypVbl1m19xo9T9yUL) | [Heart of a Rabbit](https://open.spotify.com/album/6nmZQriao9UTGgbMCTDxRL) | 3:36 |
 | 111 | [Grass that's greener](https://open.spotify.com/track/0apXZO0vMNwro15QA3Yg2V) | [Loulou LaMotte](https://open.spotify.com/artist/6xEkTJqTsYdjbnj0MJeu3j) | [Grass that's greener](https://open.spotify.com/album/2fliDjOZFOou3EBxnxD0Na) | 3:36 |

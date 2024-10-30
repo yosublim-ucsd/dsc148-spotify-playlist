@@ -1,6 +1,6 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 2301478,
+  "num_followers": 2301515,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 126120,
       "name": "Ghostride",
       "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
-      },
-      "artists": [
-        {
-          "name": "The American Dawn",
-          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
-        }
-      ],
-      "duration_ms": 214086,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "1901",
-      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Lost In Yesterday",
-      "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 198295,
       "name": "Alesis",
       "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Lost In Yesterday",
+      "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Mama's Boy",
-        "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 155721,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
-    },
-    {
       "added_at": "2024-10-24 19:55:15",
       "album": {
         "name": "She Wants To Go Dancing",
@@ -563,6 +547,22 @@
       "duration_ms": 188442,
       "name": "She Wants To Go Dancing",
       "url": "https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Mama's Boy",
+        "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 155721,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Spring EP",
-        "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "Pictures of Girls",
-      "url": "https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Good Kid 3",
         "url": "https://open.spotify.com/album/1sfZzqkDMiJiYXfO0hQPKh"
       },
@@ -887,18 +871,34 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "My Fun",
-        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+        "name": "Spring EP",
+        "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 162291,
-      "name": "My Fun",
-      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+      "duration_ms": 204666,
+      "name": "Pictures of Girls",
+      "url": "https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Banquet",
+      "url": "https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
       },
       "artists": [
         {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 196613,
-      "name": "Banquet",
-      "url": "https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t"
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "No Place Like Home",
         "url": "https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 181390,
       "name": "Meticulous",
       "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1921,6 +1921,22 @@
       "url": "https://open.spotify.com/track/16oMvdrGRE4vSLx42eM0M0"
     },
     {
+      "added_at": "2024-10-24 19:55:15",
+      "album": {
+        "name": "For Cryin' Out Loud! (Spotify OUTSIDE Version) [Live from Los Angeles, CA]",
+        "url": "https://open.spotify.com/album/3V9duXb3ewSmDoh3qm16XO"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 238186,
+      "name": "For Cryin' Out Loud! (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
+      "url": "https://open.spotify.com/track/7AeSEZgpU02dXrVSM32QFc"
+    },
+    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "I Don't Want to Talk",
@@ -1971,22 +1987,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Summer Break Mixtape",
-        "url": "https://open.spotify.com/album/3Ahz3KpKarLfZAb2bYEe65"
-      },
-      "artists": [
-        {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
-        }
-      ],
-      "duration_ms": 234606,
-      "name": "Dr\u00e6m Girl",
-      "url": "https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "I'm in Love",
         "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
       },
@@ -1999,38 +1999,6 @@
       "duration_ms": 196724,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Midwest",
-        "url": "https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 248135,
-      "name": "Midwest",
-      "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
-    },
-    {
-      "added_at": "2024-10-24 19:55:15",
-      "album": {
-        "name": "For Cryin' Out Loud! (Spotify OUTSIDE Version) [Live from Los Angeles, CA]",
-        "url": "https://open.spotify.com/album/3V9duXb3ewSmDoh3qm16XO"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 238186,
-      "name": "For Cryin' Out Loud! (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
-      "url": "https://open.spotify.com/track/7AeSEZgpU02dXrVSM32QFc"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2051,18 +2019,34 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Every Little Thing I Say I Do",
-        "url": "https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8"
+        "name": "Midwest",
+        "url": "https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         }
       ],
-      "duration_ms": 180209,
-      "name": "Every Little Thing I Say I Do",
-      "url": "https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w"
+      "duration_ms": 248135,
+      "name": "Midwest",
+      "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Summer Break Mixtape",
+        "url": "https://open.spotify.com/album/3Ahz3KpKarLfZAb2bYEe65"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "duration_ms": 234606,
+      "name": "Dr\u00e6m Girl",
+      "url": "https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2083,6 +2067,22 @@
       "duration_ms": 204469,
       "name": "Boom Boom Back",
       "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Every Little Thing I Say I Do",
+        "url": "https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 180209,
+      "name": "Every Little Thing I Say I Do",
+      "url": "https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w"
     },
     {
       "added_at": "2024-10-24 19:55:15",
@@ -2135,18 +2135,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Vickie",
-        "url": "https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml"
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 223944,
-      "name": "Vickie",
-      "url": "https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ"
+      "duration_ms": 246426,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Vickie",
+        "url": "https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 223944,
+      "name": "Vickie",
+      "url": "https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Cold Reactor",
         "url": "https://open.spotify.com/album/12GsikxFayV36XYx0JuMqj"
       },
@@ -2183,22 +2199,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "MUD",
-      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Sure Enough",
         "url": "https://open.spotify.com/album/6KE6jdNEjsGzjkQEp2GX3n"
       },
@@ -2211,6 +2211,22 @@
       "duration_ms": 171272,
       "name": "Sure Enough",
       "url": "https://open.spotify.com/track/2ioGdTGwGqyeIJwwADffh0"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 216234,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2247,22 +2263,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "palmtreedays_1644.wav",
         "url": "https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T"
       },
@@ -2291,22 +2291,6 @@
       "duration_ms": 277175,
       "name": "Superbloomer",
       "url": "https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "California Rain",
-        "url": "https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 203494,
-      "name": "California Rain",
-      "url": "https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2391,6 +2375,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "California Rain",
+        "url": "https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 203494,
+      "name": "California Rain",
+      "url": "https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Dr. Dog",
         "url": "https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl"
       },
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
-      },
-      "artists": [
-        {
-          "name": "chokecherry",
-          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Time Will Wait For No One",
         "url": "https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 214493,
       "name": "Just Before The Morning",
       "url": "https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
     }
   ],
   "unique_name": "Feel-Good Indie Rock",

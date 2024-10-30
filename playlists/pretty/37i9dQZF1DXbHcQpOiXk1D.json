@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 317811,
+  "num_followers": 317829,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 241560,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Undone",
-        "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -399,42 +399,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Recurring (Live At King's Place)",
-        "url": "https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Amika Quartet",
-          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
-        }
-      ],
-      "duration_ms": 320826,
-      "name": "Decay",
-      "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Dance, No One's Watching",
-        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "N29",
-      "url": "https://open.spotify.com/track/4MJjEf9wD9V0TwxKDYxLhP"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
         "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
@@ -467,6 +431,42 @@
       "duration_ms": 324529,
       "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
       "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "N29",
+      "url": "https://open.spotify.com/track/4MJjEf9wD9V0TwxKDYxLhP"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Recurring (Live At King's Place)",
+        "url": "https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+        }
+      ],
+      "duration_ms": 320826,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -843,38 +843,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Find Your Flame",
-        "url": "https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL"
+        "name": "Landlord blues",
+        "url": "https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "SELL EVERYTHING",
+          "url": "https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87"
         }
       ],
-      "duration_ms": 290213,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Volte-Face",
-        "url": "https://open.spotify.com/album/42Zh1ftsN4bR2zwJXEtCoE"
-      },
-      "artists": [
-        {
-          "name": "Leif Maine",
-          "url": "https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        }
-      ],
-      "duration_ms": 162022,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/7mqfcqAl6KdHv3Hk6iVILJ"
+      "duration_ms": 123599,
+      "name": "Landlord blues",
+      "url": "https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -915,6 +895,42 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Volte-Face",
+        "url": "https://open.spotify.com/album/42Zh1ftsN4bR2zwJXEtCoE"
+      },
+      "artists": [
+        {
+          "name": "Leif Maine",
+          "url": "https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        }
+      ],
+      "duration_ms": 162022,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7mqfcqAl6KdHv3Hk6iVILJ"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Find Your Flame",
+        "url": "https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 290213,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Radio Masoda",
         "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Landlord blues",
-        "url": "https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH"
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
       },
       "artists": [
         {
-          "name": "SELL EVERYTHING",
-          "url": "https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87"
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
         }
       ],
-      "duration_ms": 123599,
-      "name": "Landlord blues",
-      "url": "https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6"
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -979,22 +995,6 @@
       "duration_ms": 236186,
       "name": "Checkpoint (Violence)",
       "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
-        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
-      },
-      "artists": [
-        {
-          "name": "Zara McFarlane",
-          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
-        }
-      ],
-      "duration_ms": 279749,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Interdimensional",
+        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "I Stitched My Mind Back To My Body",
+      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Reconsider Me",
         "url": "https://open.spotify.com/album/4WcY5le43F5o60EypGVtBo"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 168000,
       "name": "Reconsider Me",
       "url": "https://open.spotify.com/track/1HCRRVEhhyk0Kbk2jQQd0W"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Interdimensional",
-        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "I Stitched My Mind Back To My Body",
-      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Not Real People",
-        "url": "https://open.spotify.com/album/7hepxRy2Sm9yrGoM2aWakU"
+        "name": "When It Comes Together",
+        "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
       },
       "artists": [
         {
-          "name": "oreglo",
-          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        },
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
         }
       ],
-      "duration_ms": 418640,
-      "name": "opedge",
-      "url": "https://open.spotify.com/track/5Tzwhyt2mCcnCjlD1r5Fri"
+      "duration_ms": 188181,
+      "name": "When It Comes Together",
+      "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1291,6 +1295,22 @@
       "duration_ms": 176874,
       "name": "Rite of Passage",
       "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Not Real People",
+        "url": "https://open.spotify.com/album/7hepxRy2Sm9yrGoM2aWakU"
+      },
+      "artists": [
+        {
+          "name": "oreglo",
+          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
+        }
+      ],
+      "duration_ms": 418640,
+      "name": "opedge",
+      "url": "https://open.spotify.com/track/5Tzwhyt2mCcnCjlD1r5Fri"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1327,24 +1347,8 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "In The Void of All Things",
-        "url": "https://open.spotify.com/album/5L7QNd8q9TTLqzjNMXBcVR"
-      },
-      "artists": [
-        {
-          "name": "Kinkajous",
-          "url": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
-        }
-      ],
-      "duration_ms": 200009,
-      "name": "In The Void of All Things",
-      "url": "https://open.spotify.com/track/0VfmoZjMGHS1OXeoCNyobC"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "SHINE IN",
-        "url": "https://open.spotify.com/album/4aOc1sIevjX4PBCv8p18kV"
+        "name": "BEG",
+        "url": "https://open.spotify.com/album/70EpH8QX7XLGwT2RmExT7T"
       },
       "artists": [
         {
@@ -1352,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
         }
       ],
-      "duration_ms": 170684,
-      "name": "SHINE IN",
-      "url": "https://open.spotify.com/track/6Fwf2T6bVCKNs9D7HnrQOQ"
+      "duration_ms": 160578,
+      "name": "BEG",
+      "url": "https://open.spotify.com/track/6lDnQf5fGYyqGdCwgwVgZs"
     }
   ],
   "unique_name": "Jazz UK",

@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-282 songs - 17 hr 27 min
+283 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/track/6XxH22AeVCpz1vhwOYi5Sh) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA) | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/album/4Uw2ZLhaRbwkeTVr0hCMpc) | 2:26 | 2023-04-11 | 2023-10-23 |
 | [CHERRY](https://open.spotify.com/track/7ozVjHGiCPXJ8I9ktvWakW) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [CHERRY](https://open.spotify.com/album/5lARKxTOtIr1ZquSfhrzyW) | 2:37 | 2021-12-21 | 2022-07-21 |
 | [Clart](https://open.spotify.com/track/3uyEfOe9WtKJztamx4FaUL) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Clart](https://open.spotify.com/album/4rF8XTOzNlvz7rovZE9jX4) | 2:06 | 2023-04-11 | 2023-05-24 |
+| [Cold](https://open.spotify.com/track/5Hp4Q5prxVLlWi0GcUApIM) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Cold](https://open.spotify.com/album/2G8OZPlwKrzWxkEEfWbbFV) | 2:25 | 2024-10-24 |  |
 | [Collecting Thoughts](https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Collecting Thoughts](https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M) | 3:25 | 2022-11-25 | 2023-04-12 |
 | [Colour My Soul](https://open.spotify.com/track/2qQPTWZ1QAg9k9Rb2O7HaB) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Letters From Ndegwa](https://open.spotify.com/album/25DOda0LmE84bkIcx0Eiz1) | 3:29 | 2021-12-21 | 2022-05-24 |
 | [Comedown](https://open.spotify.com/track/3kYENrUwhbTu4iylBisph0) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Comedown](https://open.spotify.com/album/3GWl74uAhfuBmwx1de0YHW) | 2:36 | 2024-02-23 |  |
@@ -78,7 +79,7 @@
 | [Elemental](https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Elemental](https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb) | 3:17 | 2021-12-21 | 2024-05-17 |
 | [Elyse](https://open.spotify.com/track/5sqWn2HkUyMQgcpJKu5qwg) | [Levela](https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib) | [Elyse](https://open.spotify.com/album/1iFUi8jOoS5le1PAEa1OHH) | 3:26 | 2022-06-20 | 2022-06-22 |
 | [Energy In My Town](https://open.spotify.com/track/4VNOMgmLlpBEcRIJcI0bO5) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Energy In My Town](https://open.spotify.com/album/3zcoHevhvey3aATgRSHnyc) | 3:04 | 2024-06-28 |  |
-| [Escape The Lights](https://open.spotify.com/track/4IgEKifQfV8rHPFfTzwr45) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Escape The Lights](https://open.spotify.com/album/4OkwmcPxyMpWL88ZvujwKf) | 2:54 | 2024-09-12 |  |
+| [Escape The Lights](https://open.spotify.com/track/4IgEKifQfV8rHPFfTzwr45) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Escape The Lights](https://open.spotify.com/album/4OkwmcPxyMpWL88ZvujwKf) | 2:54 | 2024-09-12 | 2024-10-30 |
 | [Estate Of Mind](https://open.spotify.com/track/4FyVz5AFtAxIBfrW3usIcQ) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Champion DI](https://open.spotify.com/artist/7z80tMfeFXEzSpVWHCvVfJ) | [Estate Of Mind](https://open.spotify.com/album/6AzMTTIxaJ9BGEIPY0rc9x) | 2:45 | 2023-04-11 | 2023-08-06 |
 | [Eyes on Fire](https://open.spotify.com/track/5yqfGzzZ3Qk6VIarH3R6D3) | [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Eyes on Fire](https://open.spotify.com/album/3xVljo5XeygaCFRzaCbdvn) | 2:25 | 2023-04-11 | 2024-09-13 |
 | [Falling](https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Falling](https://open.spotify.com/album/4wLNOgkbDWPAIoRmJ8PUhS) | 3:18 | 2024-08-09 |  |

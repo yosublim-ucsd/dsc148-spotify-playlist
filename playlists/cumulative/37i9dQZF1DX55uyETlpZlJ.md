@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-397 songs - 21 hr 43 min
+398 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/track/1NpuyaasFQawZTuXItBVbo) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/album/0OkFHiIQPeydk7D4TiiqpP) | 4:51 | 2023-12-08 | 2024-04-19 |
 | [Hrudhaya](https://open.spotify.com/track/0BsTSbYtsd9heOm28EOb8G) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Hrudhaya](https://open.spotify.com/album/17ipKkqA6aMzls60vOtOx0) | 3:13 | 2023-02-15 | 2023-09-01 |
 | [HUBBALLI SONG](https://open.spotify.com/track/4epAvvYgRA0zRI90ud8jFD) | [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31), [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i) | [HUBBALLI SONG](https://open.spotify.com/album/5QzcCrWpYxTmnw5UxlmF5R) | 3:52 | 2023-06-06 | 2023-08-24 |
+| [Hudugi Nann Girl Friend](https://open.spotify.com/track/2uUfWLGw9HD2MEMKkt9g2u) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Emil Mohammed](https://open.spotify.com/artist/7F4yMSf7dsRVAPnkkoR8Wx) | [Hudugi Nann Girl Friend](https://open.spotify.com/album/2gm4dB5prlm7Rr5dsdDHZz) | 3:54 | 2024-10-29 |  |
 | [Hudukiruve](https://open.spotify.com/track/2hPhWXFEL2WO3nANRUp7xp) | [Vishwanath Haveri](https://open.spotify.com/artist/1EHpGTni0ayOYRZTfXZ0Vo), [Samuel Narendra](https://open.spotify.com/artist/0mlMH3WO33o79nD5Z1kHgh), [Creative Scenario](https://open.spotify.com/artist/4Zafxr6sEbqfLOivGNm6iI) | [Hudukiruve](https://open.spotify.com/album/4eIoKqU8zV6YHKk7ZSwPsT) | 3:48 | 2024-04-29 |  |
 | [Hyped Up](https://open.spotify.com/track/4tH7hhaSh7k1ClKbmBgzXI) | [TigerChandan](https://open.spotify.com/artist/5YCXb78tk6Pdn33LAuhqGe), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Hyped Up](https://open.spotify.com/album/1hbgDvnqdKwTPgDnOP1bdR) | 2:18 | 2023-06-12 | 2023-06-21 |
 | [i](https://open.spotify.com/track/5ZQ7DNi0UGt69oeECql6As) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [i](https://open.spotify.com/album/4Boa43xzYAMj0RJmh2S2rJ) | 2:51 | 2024-10-01 |  |
@@ -322,7 +323,7 @@
 | [Pakshi](https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc) | 2:57 | 2023-07-14 | 2024-01-05 |
 | [Parashuram](https://open.spotify.com/track/3I7elSzdAYqPovLgNe5V6D) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/5ZdIgrGncQ7ojJCgfZ4YiN) | 4:09 | 2023-11-14 | 2024-04-19 |
 | [Parashuram](https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc) | 4:09 | 2023-11-14 | 2024-05-14 |
-| [Parichitana](https://open.spotify.com/track/45sV7gf7t5wKvROAaDKW94) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Parichitana](https://open.spotify.com/album/37TAvfDOrS3xPMBR1VVMsp) | 3:29 | 2024-04-12 |  |
+| [Parichitana](https://open.spotify.com/track/45sV7gf7t5wKvROAaDKW94) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Parichitana](https://open.spotify.com/album/37TAvfDOrS3xPMBR1VVMsp) | 3:29 | 2024-04-12 | 2024-10-30 |
 | [Pataki Cypher](https://open.spotify.com/track/69SWabKnBArDWmPZrHbBcg) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Pataki Cypher](https://open.spotify.com/album/4jsMijzc4aWVi2Sjbbmct0) | 2:40 | 2023-11-20 | 2024-02-17 |
 | [Plz Worry](https://open.spotify.com/track/2AUqf4UqfXOfVH1LwpDOO5) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Plz Worry](https://open.spotify.com/album/1ioeFt8iKr7I7oWltSw67o) | 5:52 | 2024-02-01 | 2024-10-02 |
 | [Prabhata](https://open.spotify.com/track/1QqwgZXjOjK8mMXqHtU9eF) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Maharshi Vishwamitra](https://open.spotify.com/artist/4rkwNV7E2Um36KSbvWVu8X) | [Kolahala](https://open.spotify.com/album/0hnQ84XGDpWc5Gp1voTCCS) | 1:09 | 2024-04-26 |  |

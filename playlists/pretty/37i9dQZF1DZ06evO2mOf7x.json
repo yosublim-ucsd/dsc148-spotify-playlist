@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44364,
+  "num_followers": 44367,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAABBr/2IirSu/1d2ST/c+byU",
+  "snapshot_id": "Zx7UAAAAAAAWIysgIHEzBjTSnxxYaLse",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para No Extra\u00f1arte Tanto",
-        "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 233536,
-      "name": "Para No Extra\u00f1arte Tanto",
-      "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 189040,
       "name": "Enga\u00f1ada",
       "url": "https://open.spotify.com/track/7fK66suUITQzGu4zynSEBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para No Extra\u00f1arte Tanto",
+        "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 233536,
+      "name": "Para No Extra\u00f1arte Tanto",
+      "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "No Se Que Voy A Hacer",
+      "url": "https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quise Olvidar",
         "url": "https://open.spotify.com/album/3IKzgoIkPXQm7GOzOKSPfX"
       },
@@ -799,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+        "name": "Gente Gacha",
+        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
       },
       "artists": [
         {
@@ -808,9 +824,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 212666,
-      "name": "No Se Que Voy A Hacer",
-      "url": "https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH"
+      "duration_ms": 175285,
+      "name": "Gente Gacha",
+      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gente Gacha",
-        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 175285,
-      "name": "Gente Gacha",
-      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Volver\u00e9",
         "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
       },
@@ -875,22 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
+        "name": "De Vez En Cuando",
+        "url": "https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB"
       },
       "artists": [
         {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 281440,
-      "name": "Capullo Y Sorullo",
-      "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
+      "duration_ms": 213329,
+      "name": "De Vez En Cuando",
+      "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
     },
     {
       "added_at": null,
@@ -911,22 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vez En Cuando",
-        "url": "https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB"
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         },
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 213329,
-      "name": "De Vez En Cuando",
-      "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
+      "duration_ms": 281440,
+      "name": "Capullo Y Sorullo",
+      "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
     },
     {
       "added_at": null,

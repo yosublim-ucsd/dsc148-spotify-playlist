@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,188 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,194 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 40 | [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 |
 | 41 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 |
 | 42 | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0) | 2:58 |
-| 43 | [SOAP](https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:11 |
+| 43 | [today also \(feat\. Paloalto & The Quiett\)](https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 4:08 |
 | 44 | [3 GUINEAS](https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ZOO](https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa) | 3:54 |
-| 45 | [today also \(feat\. Paloalto & The Quiett\)](https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 4:08 |
+| 45 | [SOAP](https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:11 |
 | 46 | [JAMI \(feat\. THAMA\)](https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [JAMI \(feat\. THAMA\)](https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k) | 3:04 |
 | 47 | [Ladidadi!](https://open.spotify.com/track/5CF0DkZosBF1XC0dNJX5NR) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Ladidadi](https://open.spotify.com/album/1NblktVkuE0ZF9XU4vEiXM) | 2:03 |
 | 48 | [Coffee](https://open.spotify.com/track/44NrYLVtWcwizNgFva0zUt) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA) | [Home](https://open.spotify.com/album/1uDSyPokcsWjykNxR61SbI) | 3:00 |

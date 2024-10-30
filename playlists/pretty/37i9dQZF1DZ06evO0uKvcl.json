@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 28343,
+  "num_followers": 28353,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAADRvhofH9B9NZZ8xAikZ48a",
+  "snapshot_id": "Zx7UAAAAAAAJLV6/CLWdJf1lCfvodsJn",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
         "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 159373,
       "name": "Going Back Home",
       "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
       "duration_ms": 394173,
       "name": "Ooh, Baby / Wrecking My Love Life - Medley",
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "My Life - Single Version",
+      "url": "https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
       "duration_ms": 223946,
       "name": "Rockin' Daddy",
       "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
-        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "My Life - Single Version",
-      "url": "https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Memphis Sessions",
-        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
+        "name": "Howlin' Wolf Live March 3rd, 1964 Bremen, Germany (Restauraci\u00f3n 2024)",
+        "url": "https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 178000,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
+      "duration_ms": 248693,
+      "name": "All My Life - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/639q2BhIjvi2kt2SiVqb7d"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
@@ -723,38 +739,6 @@
       "duration_ms": 175160,
       "name": "Stop Using Me",
       "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Howlin' Wolf Live March 3rd, 1964 Bremen, Germany (Restauraci\u00f3n 2024)",
-        "url": "https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 248693,
-      "name": "All My Life - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/639q2BhIjvi2kt2SiVqb7d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Message To The Young",
-        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 161760,
-      "name": "I Smell A Rat",
-      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
     },
     {
       "added_at": null,
@@ -775,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Can't Stay Here",
-      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Howlin' Wolf Live March 3rd, 1964 Bremen, Germany (Restauraci\u00f3n 2024)",
         "url": "https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By"
       },
@@ -803,6 +771,38 @@
       "duration_ms": 387306,
       "name": "Love Me - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
       "url": "https://open.spotify.com/track/24WvMZQn89ClIfzNvWvMac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Message To The Young",
+        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "I Smell A Rat",
+      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Can't Stay Here",
+      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 293066,
-      "name": "You Turn Slick On Me",
-      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Howlin' Wolf Live March 3rd, 1964 Bremen, Germany (Restauraci\u00f3n 2024)",
         "url": "https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 334320,
       "name": "I Didn't Mean to Hurt Your Feelings - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
       "url": "https://open.spotify.com/track/4PWaGikeFjRKnsaUSiVhv7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "You Turn Slick On Me",
+      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
     },
     {
       "added_at": null,

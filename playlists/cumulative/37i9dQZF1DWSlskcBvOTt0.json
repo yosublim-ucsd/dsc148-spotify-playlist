@@ -678,7 +678,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 334284,
       "name": "AMA",
       "url": "https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP"
@@ -1714,6 +1714,32 @@
       "duration_ms": 381072,
       "name": "Beautiful Silence - Original Mix",
       "url": "https://open.spotify.com/track/0lv3qqSkQYo45mNGH2KDsq"
+    },
+    {
+      "album": {
+        "name": "Been There Before",
+        "url": "https://open.spotify.com/album/6cxXtXjXkiXSSpEMHQkh8p"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        },
+        {
+          "name": "LIVI",
+          "url": "https://open.spotify.com/artist/1zgMn2RP87AwuP9B9z79Fo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188608,
+      "name": "Been There Before",
+      "url": "https://open.spotify.com/track/6unWfD9WVxx7e0ue3MYX15"
     },
     {
       "album": {
@@ -3254,7 +3280,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 224000,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/7eaIM9KWmC70NUnOeYUHuz"
@@ -5386,6 +5412,28 @@
       "duration_ms": 199512,
       "name": "Gorah - Francis Mercier Midnight Mix",
       "url": "https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c"
+    },
+    {
+      "album": {
+        "name": "Guessing Game",
+        "url": "https://open.spotify.com/album/0tw983Hdo6I70OPeu8FBNi"
+      },
+      "artists": [
+        {
+          "name": "TMPLE",
+          "url": "https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Guessing Game - Kasango Remix",
+      "url": "https://open.spotify.com/track/1GlKHEfeNMkScSZNGdk8Ya"
     },
     {
       "album": {

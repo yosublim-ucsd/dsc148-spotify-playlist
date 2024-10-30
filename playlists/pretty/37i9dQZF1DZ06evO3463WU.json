@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 148353,
+  "num_followers": 148363,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAC7Ew1VQ5R8JkI4q6q8A3JF",
+  "snapshot_id": "Zx7UAAAAAAB0ZyA4u06XURzpRcTf3H3c",
   "tracks": [
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+        "name": "Sinverg\u00fcenza Y Mujeriego",
+        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 192992,
-      "name": "Mi Amor Sin Ella",
-      "url": "https://open.spotify.com/track/4JUq70BT6tT2LyPXjKpFVI"
+      "duration_ms": 206309,
+      "name": "Los Amantes",
+      "url": "https://open.spotify.com/track/40G5sjVX47PG8LMMigxyJH"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinverg\u00fcenza Y Mujeriego",
-        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206309,
-      "name": "Los Amantes",
-      "url": "https://open.spotify.com/track/40G5sjVX47PG8LMMigxyJH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Canciones de Amor",
         "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
       },
@@ -384,9 +368,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 193317,
-      "name": "Adi\u00f3s, Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
+      "duration_ms": 192992,
+      "name": "Mi Amor Sin Ella",
+      "url": "https://open.spotify.com/track/4JUq70BT6tT2LyPXjKpFVI"
     },
     {
       "added_at": null,
@@ -464,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 218012,
-      "name": "Pasi\u00f3n De Amor",
-      "url": "https://open.spotify.com/track/5BLrIi9fP7phVlzVe4LeTJ"
+      "duration_ms": 193317,
+      "name": "Adi\u00f3s, Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 218012,
+      "name": "Pasi\u00f3n De Amor",
+      "url": "https://open.spotify.com/track/5BLrIi9fP7phVlzVe4LeTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 190542,
+      "name": "Una Tarde Como Cualquiera",
+      "url": "https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuelve Por Favor",
         "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 200146,
       "name": "Vuelve Por Favor",
       "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 190542,
-      "name": "Una Tarde Como Cualquiera",
-      "url": "https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00e9 Bonito",
+        "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos (En Vivo)",
       "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qu\u00e9 Bonito",
-        "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Deseo Lo Mejor (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "Te Deseo Lo Mejor - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Me Mires As\u00ed",
         "url": "https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 188166,
       "name": "Ya No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Deseo Lo Mejor (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Te Deseo Lo Mejor - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC"
     },
     {
       "added_at": null,

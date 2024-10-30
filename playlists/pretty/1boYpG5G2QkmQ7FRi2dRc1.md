@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 290,785 likes - 52 songs - 3 hr 9 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 290,766 likes - 52 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 13 | [Everything Off \(Ante Up\)](https://open.spotify.com/track/49NJhCQY0DoYkG5MrQA4yX) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Rich DietZ](https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8) | [Everything Off \(Ante Up\)](https://open.spotify.com/album/5uR9eP7ocQ00EjyVrZWVIh) | 2:27 |
 | 14 | [Better](https://open.spotify.com/track/5DCGNVSejDMG0xsh3Y6lqm) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Better](https://open.spotify.com/album/3vw4GXfOE9tyK3sr5Tm4ye) | 3:00 |
 | 15 | [What You Want \(Gotta Get\)](https://open.spotify.com/track/156EZIDN0LEqA3EyWqUU6i) | [MANUAL](https://open.spotify.com/artist/3xrJPG5x18yKRhu07ZqxXZ), [Lake Matisse](https://open.spotify.com/artist/4UNdUzuLNX9a47ElW0Xb0O) | [What You Want \(Gotta Get\)](https://open.spotify.com/album/4VkEbjKM0Aw8gG3emHgrFW) | 3:06 |
-| 16 | [Lightfield](https://open.spotify.com/track/2qHU2joxPHajsiYBSZoJ0T) | [FORSBY](https://open.spotify.com/artist/0HGf21y5B3yA7nSCBBGJI4) | [Lightfield](https://open.spotify.com/album/1KuJaGxwGEK2WGGMsltcZU) | 4:01 |
+| 16 | [Lightfield](https://open.spotify.com/track/2qHU2joxPHajsiYBSZoJ0T) | [FORSBY](https://open.spotify.com/artist/2SKBBXp93aMhCitZr8SDMx) | [Lightfield](https://open.spotify.com/album/1KuJaGxwGEK2WGGMsltcZU) | 4:01 |
 | 17 | [Sober](https://open.spotify.com/track/3uSV3uOSRCjRzoJSMfivEL) | [Ben Haydie](https://open.spotify.com/artist/5CbL5aJrlWCK8IqnF6m0SG) | [Sober](https://open.spotify.com/album/5ObWmuSHvZvVBYPKNOIqf2) | 4:13 |
 | 18 | [MERTHER](https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [MERTHER](https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo) | 3:09 |
 | 19 | [Flood](https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Flood](https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6) | 4:32 |

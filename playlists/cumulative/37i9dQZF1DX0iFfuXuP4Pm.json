@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: juan karlos\n",
+  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Adie\n",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -432,6 +432,24 @@
       "duration_ms": 188000,
       "name": "bet",
       "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
+    },
+    {
+      "album": {
+        "name": "better than he does",
+        "url": "https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153374,
+      "name": "better than he does",
+      "url": "https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J"
     },
     {
       "album": {
@@ -936,6 +954,24 @@
       "duration_ms": 281565,
       "name": "Fruitcake - From \"Fruitcake\"",
       "url": "https://open.spotify.com/track/6RMAZ62wCGBCoY7q86SkrH"
+    },
+    {
+      "album": {
+        "name": "FYP LUV",
+        "url": "https://open.spotify.com/album/1fcU63rLWeNkwA3XErDgKc"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218309,
+      "name": "FYP LUV",
+      "url": "https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG"
     },
     {
       "album": {
@@ -2236,7 +2272,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 201381,
       "name": "minsan",
       "url": "https://open.spotify.com/track/7sdJVKQdidTOIXHxjY9KqK"
@@ -2486,7 +2522,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 200725,
       "name": "Nandito Na Ako",
       "url": "https://open.spotify.com/track/6Af7cKFcnabaS0WAILVS5g"
@@ -2990,7 +3026,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 252857,
       "name": "Paraya",
       "url": "https://open.spotify.com/track/5DDS1hu1GcEZppuArUcfUA"

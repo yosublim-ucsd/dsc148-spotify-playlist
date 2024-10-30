@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,826 songs - 1 day 13 hr 31 min
+1,831 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Bliss Arr\. For Strings](https://open.spotify.com/track/1kfpjqc5V1ksId2QVNHVaA) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Bliss Arr\. For Strings](https://open.spotify.com/album/5iHs1nBCq3y4KqJ0vbBknF) | 1:00 | 2024-03-20 |  |
 | [Bliss Arr\. For Violin](https://open.spotify.com/track/2Pcrzz46PaWd1WLwJByT5U) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Bliss Arr\. For Violin](https://open.spotify.com/album/0SRr59l7kZio83Ibfr8e0d) | 1:00 | 2024-03-20 |  |
 | [Bloom](https://open.spotify.com/track/5rCYD3uYThZH956ZKmi1AM) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello](https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe) | 1:44 | 2022-01-20 | 2024-01-30 |
+| [Blooming](https://open.spotify.com/track/7K2r6NsxuMUzkTFD4oerr3) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Blooming](https://open.spotify.com/album/7aGPX4eDGdgPwxCqhR34nP) | 1:00 | 2024-10-29 |  |
 | [Blooming Clouds](https://open.spotify.com/track/2KaTLqAXrTcln1PZnx7EBt) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Early Mornings](https://open.spotify.com/album/1HYflHtQ61PAPerbuzdC5u) | 1:03 | 2022-03-25 |  |
 | [Blooming In April](https://open.spotify.com/track/3BO011SIkLEV01vwWzUYMw) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Blooming In April](https://open.spotify.com/album/2mEBidu3FRljN3ZhReQHqm) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Blooming In May](https://open.spotify.com/track/7nV732mz00SNGajTVmmUmx) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Distant Lands](https://open.spotify.com/album/0AoKBXSnhjaWSlg07h6RBC) | 1:02 | 2022-08-25 | 2024-01-30 |
@@ -564,6 +565,7 @@
 | [Fading Moonlight Revisited](https://open.spotify.com/track/5FZPGgnqidBtef977l0cx2) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Soft Trios](https://open.spotify.com/album/17mbDwX7iIecxsazzN15oF) | 1:05 | 2024-02-09 | 2024-02-13 |
 | [Faith](https://open.spotify.com/track/7kWoKGCXEP588jZUlSJCAX) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Faith, Forgive, Free](https://open.spotify.com/album/42xVbiyi3NBXtkALBBBL0j) | 1:54 | 2022-01-12 | 2024-02-13 |
 | [Fall Moon](https://open.spotify.com/track/0AdQOxtRyMwMKOxS32RDhj) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Fall Moon](https://open.spotify.com/album/1TKxRTwKcA4KDQ27upbdKe) | 1:02 | 2022-10-12 |  |
+| [Fall Morning](https://open.spotify.com/track/4YxrbwQYRGjdgSI7kZI5ow) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Fall Morning](https://open.spotify.com/album/79WOXzfeKUecFpLAjk05xM) | 1:00 | 2024-10-29 |  |
 | [Fallen](https://open.spotify.com/track/378SZkxxxqtjnM519Le50R) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:34 | 2022-01-12 | 2024-01-30 |
 | [Fallen \- Piano Version](https://open.spotify.com/track/4aaAdMp5UglOF1aDZ0XYlG) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:35 | 2022-01-24 | 2024-01-30 |
 | [Fallen Again \- Alternate Cello Version](https://open.spotify.com/track/28nAmfmZ3BsfHy5h5cKfv0) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soft Cello](https://open.spotify.com/album/2e8LTImP3X4WN7mQBAIRCO) | 1:10 | 2022-01-13 | 2024-02-13 |
@@ -748,6 +750,7 @@
 | [Grey Clouds \- Cello Version](https://open.spotify.com/track/2odqtKbRwTHtQj4tInqVC5) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Grey Clouds](https://open.spotify.com/album/6GilC9y7sgEg4tQFu8Gag6) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Grey Clouds \- Piano Version](https://open.spotify.com/track/7g67iqreB5QMcEqss06Nfm) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Grey Clouds](https://open.spotify.com/album/6GilC9y7sgEg4tQFu8Gag6) | 1:00 | 2022-06-20 | 2024-01-30 |
 | [Grow](https://open.spotify.com/track/6x6ZkY3UhwD5mn7xOjzAdL) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Grow](https://open.spotify.com/album/5VKSEIXx5oiRsV2g1o3cb2) | 1:00 | 2024-07-02 |  |
+| [Growing Together](https://open.spotify.com/track/11lQzsXA1CyFsAn4mC3O5Y) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Growing Together](https://open.spotify.com/album/6TK4mJBtKwRIJdhJqSDuK2) | 1:00 | 2024-10-29 |  |
 | [Growth](https://open.spotify.com/track/1LbKdbtf825ZPB2IjwMttX) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Growth](https://open.spotify.com/album/6pf7cRfAtAy0WcVXmmAEeD) | 1:00 | 2024-01-30 |  |
 | [Guide Me](https://open.spotify.com/track/6Z4Bk4ByJOrDiejt3DdJJV) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Contemplations](https://open.spotify.com/album/1dznYay8D0VTWRGPHTri3S) | 1:23 | 2024-01-29 |  |
 | [Habitual Words](https://open.spotify.com/track/2IB7U1RPRbCuPspDCq1ecj) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Twin](https://open.spotify.com/album/3UE5nSckTW1SSgepfBbabG) | 4:15 | 2022-01-12 | 2023-04-09 |
@@ -898,6 +901,7 @@
 | [Letting Us Go Once Again](https://open.spotify.com/track/4AHBqwjitWOLV52RhZukFK) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Letting Us Go Once Again](https://open.spotify.com/album/1qq5jcFNjfcRDDMCgKFJ1f) | 1:07 | 2024-02-09 | 2024-02-13 |
 | [Liberations](https://open.spotify.com/track/5bibIFcgmCaYsWNvug0MCh) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Solace](https://open.spotify.com/album/4dP9u4vO1TEht5cxYPU2Uw) | 2:00 | 2022-01-12 | 2024-01-30 |
 | [Liberty](https://open.spotify.com/track/45mGC27TgwJD2DbBQxhQTR) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Consolation](https://open.spotify.com/album/4R22S8LmEj8fEwjj06nCzP) | 1:25 | 2022-01-12 | 2024-01-30 |
+| [Life](https://open.spotify.com/track/5cPObJfjnOnrqSuu20n2O3) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Life](https://open.spotify.com/album/2LXOk5GaFJws2KAHGkc76l) | 1:00 | 2024-10-29 |  |
 | [Life](https://open.spotify.com/track/0At6u6PcgTPEj9jYZakh2L) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Life](https://open.spotify.com/album/6s8Wat3mD96A4Be5dGJOKb) | 3:17 | 2022-01-12 | 2024-02-13 |
 | [Life Flows](https://open.spotify.com/track/6DxxEAQK3cO77ZuBUyKW76) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Connection](https://open.spotify.com/album/0Q6C4bH216tRRiee56rBWa) | 1:31 | 2022-01-20 | 2024-01-30 |
 | [Life Flows \- Piano Version](https://open.spotify.com/track/2hhhwdXajvBPF42MFgOJSH) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Connection](https://open.spotify.com/album/0Q6C4bH216tRRiee56rBWa) | 1:30 | 2022-01-12 | 2024-01-30 |
@@ -1770,6 +1774,7 @@
 | [Where You Were](https://open.spotify.com/track/0R0qz5IHqLkzTEcsruowRL) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Lost in Dreams](https://open.spotify.com/album/1KSrjyIcjFmL5JQO8yousZ) | 1:49 | 2022-01-20 | 2024-01-30 |
 | [Wherever You Are](https://open.spotify.com/track/3n3t7Fy3SizGKDAUE5ArYx) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Solitary](https://open.spotify.com/album/53vuiIjcuNuZ8NwIQiLUHk) | 1:17 | 2022-01-12 |  |
 | [While You Sleep](https://open.spotify.com/track/2nypJMBPC3NoBdQDJL1PRX) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Nightfall](https://open.spotify.com/album/2ZqMA0BErQjA4p7pjJsCYJ) | 1:17 | 2022-01-12 |  |
+| [Will](https://open.spotify.com/track/2cdVNCXG47eEBRxrX7PF1f) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Will](https://open.spotify.com/album/57feyswZUqPJg1IsXRllaE) | 1:00 | 2024-10-29 |  |
 | [Wind \- Strings Version](https://open.spotify.com/track/2V8qIFI08yFR49IEyvqLI1) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Wind \(Strings Version\)](https://open.spotify.com/album/4Q1mi3x2yUq8fkF9J7xujy) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Wind Down](https://open.spotify.com/track/1PYMIgdFxTWdvCNfc7tZwm) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wind Down](https://open.spotify.com/album/3hqAgVAeEUkHDrzOnHbOcZ) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Wind Down \- Strings Version](https://open.spotify.com/track/6RPTyUxkVbpsV8bt6KstHd) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wind Down \(Strings Version\)](https://open.spotify.com/album/5NSmXFATijB6z7AAc29MWj) | 1:00 | 2024-02-09 | 2024-02-13 |

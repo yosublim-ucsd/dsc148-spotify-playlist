@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 73 | [Hearts Collide](https://open.spotify.com/track/6wZLtBO9bH2cpsQrm6udm0) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 3:45 |
 | 74 | [Ritual](https://open.spotify.com/track/0jzeYeb1z29rtQ0BuOXN5T) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon \(Deluxe Version\)](https://open.spotify.com/album/2Y7n3jwZIsfi4m5udDY2vg) | 3:50 |
 | 75 | [Loving Days](https://open.spotify.com/track/09pDDFlNY1wkw67ci85RZl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 4:26 |
-| 76 | [Invincible](https://open.spotify.com/track/1rc5A1wnFlP6MwBPI8grzV) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:12 |
-| 77 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
-| 78 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 |
+| 76 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 |
+| 77 | [Invincible](https://open.spotify.com/track/1rc5A1wnFlP6MwBPI8grzV) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:12 |
+| 78 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
 | 79 | [Personal Thunder](https://open.spotify.com/track/535yGaAt34yLFFiboAQsFW) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Echoes](https://open.spotify.com/album/0JQLxDADhjMFSdbi1HEQQd) | 4:52 |
 | 80 | [How Do Ya Feel](https://open.spotify.com/track/6EACVe4VmEJHosKTiVLojg) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 3:31 |
 | 81 | [Suddenly Monday](https://open.spotify.com/track/4bmPHxWGCkrCLVJw8KVUt2) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Northern Star](https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ) | 2:37 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 158 | [Nothing to Lose](https://open.spotify.com/track/5M5JzAbGN9Q6dRVJM6Mq9a) | [Russell Small](https://open.spotify.com/artist/0vL4qy0qYMzmuhPAs9Tf16), [DNO P](https://open.spotify.com/artist/1nuEitOh4LULWX8yZS216o), [Katherine Ellis](https://open.spotify.com/artist/0lfJrTVCYNYwajS1I6G96p) | [Earworm](https://open.spotify.com/album/4GAyxaCk4NAHBy394qMsfN) | 4:46 |
 | 159 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `AbgBVAAAAAAZ0vZhpaci+o2fnfzHXWhB`
+Snapshot ID: `AbgG9AAAAACey2cwTic33rwagYLCjh+e`

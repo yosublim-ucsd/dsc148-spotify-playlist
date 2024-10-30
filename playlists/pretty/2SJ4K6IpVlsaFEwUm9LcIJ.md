@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 21,854 likes - 66 songs - 3 hr 43 min
+[margeaux](https://open.spotify.com/user/1220511975) - 21,859 likes - 67 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,5 +74,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 64 | [400 & 57](https://open.spotify.com/track/1KlSberDtUJKrXQsEujQr3) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [In Solarium](https://open.spotify.com/album/13ZC7qriL0nNYB04lK4CXB) | 3:56 |
 | 65 | [I Won't Share You \- 2011 Remaster](https://open.spotify.com/track/3kLE2Jsxeb3W2bhx82bPlb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:53 |
 | 66 | [アン・オープン・ドア](https://open.spotify.com/track/1DrPpgiTvuogt6Ktxsag4h) | [FLat7](https://open.spotify.com/artist/6qWQ49hbX08ZLyRABxaasl) | [スウィート・グロウ・オブ・サイレンス](https://open.spotify.com/album/21AVBPMluy9ZI8SkMWC4Ar) | 4:43 |
+| 67 | [Justice](https://open.spotify.com/track/0f64uzujl3Pn1Tcu5AlbAG) | [Jennifer Castle](https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK) | [Monarch Season](https://open.spotify.com/album/3xduOjWzIFvmMOnk0L4888) | 1:40 |
 
-Snapshot ID: `AAALQQcr7wmwikbT2uXiuJbwzuG/oAKk`
+Snapshot ID: `AAALQoZX4wlrweMP8ZksPu8O0gnRHTr0`

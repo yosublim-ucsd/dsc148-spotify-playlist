@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ROSÉ & Bruno Mars
 
-1,252 songs - 2 day 19 hr 13 min
+1,253 songs - 2 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1005,9 +1005,9 @@
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-01-29 | 2024-04-19 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 | 2024-02-07 |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-24 |  |
-| [Supernova](https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H) | 2:58 | 2024-05-13 |  |
+| [Supernova](https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H) | 2:58 | 2024-05-13 | 2024-10-30 |
 | [Supernova \- Japanese Version](https://open.spotify.com/track/04PSKcBV1ad3QEmmnZCn2N) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Supernova \(Japanese Version\)](https://open.spotify.com/album/1LGfVq98oez1sXNYAazZ2d) | 3:28 | 2023-08-08 | 2023-08-26 |
-| [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 | 2024-07-23 |  |
+| [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 | 2024-07-23 | 2024-10-30 |
 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2024-08-13 | 2024-10-18 |
 | [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-06 | 2022-11-01 |
 | [SWEAT](https://open.spotify.com/track/4ZctVsBwqHcq5sHW9FMDiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SWEAT](https://open.spotify.com/album/1xAi69VFSIh8aoY0qFaWxE) | 3:11 | 2024-04-23 | 2024-08-30 |
@@ -1080,6 +1080,7 @@
 | [TRAP](https://open.spotify.com/track/1RzDNHBbvusuTTAnsDmasT) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TRAP / GRAB ME \- Japanese ver\. \-](https://open.spotify.com/album/7d1abB5aTY8N4DHH4WEJ9Y) | 3:07 | 2024-07-02 | 2024-08-09 |
 | [Trauma \- Japanese ver.](https://open.spotify.com/track/43SlfBxQYLok9kDveezSvg) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE BEST \~Dear Fantasy\~](https://open.spotify.com/album/4q3eFS7zlv7ko0k5MjmM7P) | 3:22 | 2022-06-28 | 2022-08-12 |
 | [TRIGGER](https://open.spotify.com/track/2VhmgfllXg5YGG9blUJ3YZ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [TRIGGER](https://open.spotify.com/album/75MbAlPMa5vekilWtXzVGo) | 2:47 | 2022-10-13 | 2022-12-03 |
+| [TRIGGER](https://open.spotify.com/track/41B7FamCASDTknlXUhcb76) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 9TH MINI ALBUM \[TRIGGER\]](https://open.spotify.com/album/6aBgONIIYJr8ondQP2gjOO) | 3:14 | 2024-10-29 |  |
 | [TROUBLE](https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Target: ME](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) | 3:26 | 2023-09-20 | 2024-01-26 |
 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 | 2023-08-29 | 2023-10-18 |
 | [Tsuki \(Lunatic\)](https://open.spotify.com/track/4s6jZby9w8PesKpfA0B3l5) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Tsuki \(Lunatic\)](https://open.spotify.com/album/2p7tMsiP0DIt8eqYjgeHsc) | 3:16 | 2024-08-06 | 2024-09-20 |

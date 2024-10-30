@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-756 songs - 1 day 18 hr 14 min
+757 songs - 1 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [After Midnight \(1AM\)](https://open.spotify.com/track/1WtRtjgLCWvkX2kEFeOZy2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:14 | 2022-01-11 | 2022-03-08 |
 | [Ahead Of Myself](https://open.spotify.com/track/037JwzyNWFVwRXch4dQZe8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes \(Part 1\)](https://open.spotify.com/album/76HALzXD0uNnzfCvAQhirP) | 2:54 | 2022-04-11 | 2022-07-29 |
 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 | 2023-10-13 | 2024-01-28 |
-| [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 | 2024-04-12 |  |
+| [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 | 2024-04-12 | 2024-10-30 |
 | [All For You](https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML) | 3:39 | 2022-04-11 | 2023-09-13 |
 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 | 2024-05-31 |  |
 | [All I Ever Wanted](https://open.spotify.com/track/2zSOKTYjqEFfJEsUrMkmKs) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [All I Ever Wanted](https://open.spotify.com/album/0CkXPeR6nuF5pgE2iNWMl2) | 3:23 | 2021-12-16 | 2022-03-30 |
@@ -491,6 +491,7 @@
 | [Old Insecurities](https://open.spotify.com/track/3JRCle6ESV3KCRNaD7ajDu) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Old Insecurities](https://open.spotify.com/album/4QPmdSjskG1dugYEu45z0F) | 3:21 | 2021-12-16 | 2021-12-30 |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-23 | 2024-10-09 |
 | [ONE](https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [ONE](https://open.spotify.com/album/64HOiqlY0CKTZpEGL0YXL1) | 2:59 | 2024-05-31 | 2024-06-02 |
+| [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 | 2024-10-25 |  |
 | [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 | 2022-05-31 | 2022-07-29 |
 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 | 2022-05-31 | 2023-10-14 |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-12-16 | 2022-01-12 |

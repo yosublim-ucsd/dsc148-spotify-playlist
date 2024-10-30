@@ -1,6 +1,6 @@
 {
   "description": "Heat that will make you sweat \ud83e\udd75 Cover: Be\u00e9le",
-  "num_followers": 120672,
+  "num_followers": 120720,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "CALOR",
-        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "CALOR",
-      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "CALOR",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "CALOR",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "LA BUENA VIDA",
-        "url": "https://open.spotify.com/album/1LZfrEY6XrYpNDaM5hsEpG"
-      },
-      "artists": [
-        {
-          "name": "Manu Manzo",
-          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
-        }
-      ],
-      "duration_ms": 140531,
-      "name": "LA BUENA VIDA",
-      "url": "https://open.spotify.com/track/0qdgnVCqA0OVzvICPrD38E"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Los Reyes Del Mar",
         "url": "https://open.spotify.com/album/6gICJJez4pXMZVV0MvqLZb"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 152079,
       "name": "Uff",
       "url": "https://open.spotify.com/track/6pw7KggD2vbvxRTV2iASxK"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "LA BUENA VIDA",
+        "url": "https://open.spotify.com/album/1LZfrEY6XrYpNDaM5hsEpG"
+      },
+      "artists": [
+        {
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+        }
+      ],
+      "duration_ms": 140531,
+      "name": "LA BUENA VIDA",
+      "url": "https://open.spotify.com/track/0qdgnVCqA0OVzvICPrD38E"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -975,22 +975,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Saltas Por Mi",
-        "url": "https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW"
+        "name": "Una Oportunidad",
+        "url": "https://open.spotify.com/album/6LXXWavOjtwpGicz0FWq3V"
       },
       "artists": [
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        },
-        {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Saltas Por Mi",
-      "url": "https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2"
+      "duration_ms": 142666,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/2FaS8IcO6JN9ITfYkri23O"
     }
   ],
   "unique_name": "Afro Ritmo",

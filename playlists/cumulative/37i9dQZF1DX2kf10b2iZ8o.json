@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 248333,
       "name": "Baile Apasionado",
       "url": "https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq"
@@ -2988,7 +2988,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 246240,
       "name": "\u30d5\u30a7\u30a4\u30d0\u30ea\u30c3\u30c8\u306b\u8e0a\u3089\u305b\u3066",
       "url": "https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx"
@@ -3451,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 05",
+        "url": "https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J"
+      },
+      "artists": [
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227773,
+      "name": "\u795d\u5f69\uff01",
+      "url": "https://open.spotify.com/track/2s6pBB0FZLJn9Gp0fRRriA"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
       },
@@ -3542,7 +3560,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 256338,
       "name": "\u904b\u547d\u5149\u5e74",
       "url": "https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC"

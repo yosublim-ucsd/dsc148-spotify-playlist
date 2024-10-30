@@ -7516,7 +7516,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 165040,
       "name": "Dwa Tygodnie",
       "url": "https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd"
@@ -11631,6 +11631,28 @@
     },
     {
       "album": {
+        "name": "HOUDINI",
+        "url": "https://open.spotify.com/album/6hNVT6jyFLeSUmSGLl6fDP"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lion",
+          "url": "https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb"
+        },
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148714,
+      "name": "HOUDINI",
+      "url": "https://open.spotify.com/track/4Yx6A5PBSMzAt9yOb1B6lA"
+    },
+    {
+      "album": {
         "name": "how bad could it be",
         "url": "https://open.spotify.com/album/5IerYtedPaWMjgMNb4qdpM"
       },
@@ -13860,6 +13882,24 @@
       "duration_ms": 194799,
       "name": "Kalka",
       "url": "https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2"
+    },
+    {
+      "album": {
+        "name": "Kap\u0131l Pe\u015fime",
+        "url": "https://open.spotify.com/album/554EsqWUf1JqFfyQAGncud"
+      },
+      "artists": [
+        {
+          "name": "Lotusx",
+          "url": "https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "Kap\u0131l Pe\u015fime",
+      "url": "https://open.spotify.com/track/2f1MbASESNvydeOfuVhNKc"
     },
     {
       "album": {
@@ -16142,7 +16182,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 194000,
       "name": "Make Up Moves",
       "url": "https://open.spotify.com/track/2FHDnPBi1bSAI5gVMd8tL8"

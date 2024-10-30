@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 352909,
+  "num_followers": 352978,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "High Notes",
-        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "High Notes",
-      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "High Notes",
+        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "High Notes",
+      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1191,26 +1191,18 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Daydreaming (Sgt Slick Remix)",
-        "url": "https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6"
+        "name": "Da Bump",
+        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
       },
       "artists": [
         {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        },
-        {
-          "name": "Sgt Slick",
-          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
         }
       ],
-      "duration_ms": 184497,
-      "name": "Daydreaming - Sgt Slick Remix",
-      "url": "https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk"
+      "duration_ms": 205679,
+      "name": "Da Bump",
+      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1231,6 +1223,22 @@
       "duration_ms": 253221,
       "name": "Back 2 Me (feat. Sadie Walker)",
       "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "DAY&NITE",
+        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "DAY&NITE",
+      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1275,18 +1283,26 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Da Bump",
-        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
+        "name": "Daydreaming (Sgt Slick Remix)",
+        "url": "https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6"
       },
       "artists": [
         {
-          "name": "Leonardo Das Cabrio",
-          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        },
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
         }
       ],
-      "duration_ms": 205679,
-      "name": "Da Bump",
-      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
+      "duration_ms": 184497,
+      "name": "Daydreaming - Sgt Slick Remix",
+      "url": "https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1339,22 +1355,6 @@
       "duration_ms": 179478,
       "name": "Empty Talk",
       "url": "https://open.spotify.com/track/2fsiKw94jWgfoPnCSlL082"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "DAY&NITE",
-        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
-      },
-      "artists": [
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "DAY&NITE",
-      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
     },
     {
       "added_at": "2024-10-25 15:55:35",

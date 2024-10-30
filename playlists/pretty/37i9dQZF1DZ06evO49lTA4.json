@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 823823,
+  "num_followers": 823993,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAABB/dEKZL5mkbDBB56+743o",
+  "snapshot_id": "Zx7UAAAAAAAqTYQlRs4R24eO5145Ecap",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond (feat. Luke Combs) [Live]",
-        "url": "https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo"
+        "name": "Two Dozen Roses (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/3Drss6cMVLm1BC2787GlLY"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
         },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 246946,
-      "name": "Beyond (feat. Luke Combs) - Live",
-      "url": "https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et"
+      "duration_ms": 230528,
+      "name": "Two Dozen Roses (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/5GQgvVT7tJGZNzj13pz36l"
     },
     {
       "added_at": null,
@@ -775,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Dozen Roses (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/3Drss6cMVLm1BC2787GlLY"
+        "name": "Beyond (feat. Luke Combs) [Live]",
+        "url": "https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo"
       },
       "artists": [
         {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 230528,
-      "name": "Two Dozen Roses (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/5GQgvVT7tJGZNzj13pz36l"
+      "duration_ms": 246946,
+      "name": "Beyond (feat. Luke Combs) - Live",
+      "url": "https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et"
     },
     {
       "added_at": null,

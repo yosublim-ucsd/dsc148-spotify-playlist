@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77 likes - 188 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 188 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 20 | [I Hear Music](https://open.spotify.com/track/34J3MjWH6gkYJkWMgBSN2b) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:07 |
 | 21 | [Honky Tonk Song](https://open.spotify.com/track/05y7GmriuocBGdmpoMwVvB) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [Presenting Webb Pierce: The Wondering Boy](https://open.spotify.com/album/4rFBFIfETJks6NCM6aGQdQ) | 2:05 |
 | 22 | [How Are Things In Glocca Morra](https://open.spotify.com/track/25AgHnaNE690kE8aw0UjZf) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:56 |
-| 23 | [Chant](https://open.spotify.com/track/6t2Y9B948CirTAw9YaYqYo) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Iz In Concert](https://open.spotify.com/album/47oXoM5unqV0P5YICS8Qez) | 1:16 |
-| 24 | [Pretty As A Picture](https://open.spotify.com/track/5wZkZOHom6KQQVoNQnAs9Z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile](https://open.spotify.com/artist/5lLwrwVHGlErj8cObYCWyi) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:32 |
+| 23 | [Pretty As A Picture](https://open.spotify.com/track/5wZkZOHom6KQQVoNQnAs9Z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile](https://open.spotify.com/artist/5lLwrwVHGlErj8cObYCWyi) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:32 |
+| 24 | [Chant](https://open.spotify.com/track/6t2Y9B948CirTAw9YaYqYo) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Iz In Concert](https://open.spotify.com/album/47oXoM5unqV0P5YICS8Qez) | 1:16 |
 | 25 | [Lonesome Number One](https://open.spotify.com/track/6YosVXlnWfD9zqLyiQFA7U) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [RCA Country Legends: Don Gibson](https://open.spotify.com/album/4SWOxLi7nLs2Gjyv22q5As) | 2:22 |
 | 26 | [Isn't It Heavenly](https://open.spotify.com/track/1SFvhQeo45lnHqMax8qqMn) | [Lew Stone & His Band](https://open.spotify.com/artist/4xSTICF3RLqUa98dFRWtpO) | [Pennies from Heaven \- Original Soundtrack to the BBC Tv Series](https://open.spotify.com/album/29Y9Ghm6WvN82FYI4VJzOD) | 3:10 |
 | 27 | [Oh! Dem Golden Slippers](https://open.spotify.com/track/4SwVJu2QnXN4CfZ0e9cymU) | [The Gaslight Singers](https://open.spotify.com/artist/2q1BpivZcLgh0hx6goxnfc) | [Gaslight Varieties: Early 20th\-Century Favourites](https://open.spotify.com/album/2p42htFJTQGqFmGETp2H7N) | 2:22 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 187 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 | 188 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 
-Snapshot ID: `AbgBVAAAAACjbRq1LXdGIu78JP7e0hND`
+Snapshot ID: `AbgG9AAAAAASp/Yrrt+OgCMsKlfK1ngl`

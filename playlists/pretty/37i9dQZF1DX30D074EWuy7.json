@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 30839,
+  "num_followers": 30851,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
-      },
-      "artists": [
-        {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Petali",
         "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
       },
@@ -615,26 +599,6 @@
       "duration_ms": 217872,
       "name": "Lei balla sola",
       "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "You've Changed",
-        "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Bosso",
-          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
-        },
-        {
-          "name": "Sergio Cammariere",
-          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
-        }
-      ],
-      "duration_ms": 388854,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -659,38 +623,38 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Delicatoni",
-        "url": "https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA"
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
       },
       "artists": [
         {
-          "name": "Delicatoni",
-          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
         }
       ],
-      "duration_ms": 267111,
-      "name": "Domenica Berici",
-      "url": "https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk"
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
     },
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "IMMA TATARANNI Sostituto Procuratore, Seconda Stagione (Colonna sonora originale della Serie TV)",
-        "url": "https://open.spotify.com/album/73FP2aV57Q08P4HlV2QdYN"
+        "name": "You've Changed",
+        "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
       },
       "artists": [
         {
-          "name": "Andrea Farri",
-          "url": "https://open.spotify.com/artist/53UG4rUlSm5H3F8C9pXls2"
+          "name": "Fabrizio Bosso",
+          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
         },
         {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+          "name": "Sergio Cammariere",
+          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
         }
       ],
-      "duration_ms": 177124,
-      "name": "Perdiamoci",
-      "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
+      "duration_ms": 388854,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -715,6 +679,26 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "IMMA TATARANNI Sostituto Procuratore, Seconda Stagione (Colonna sonora originale della Serie TV)",
+        "url": "https://open.spotify.com/album/73FP2aV57Q08P4HlV2QdYN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Farri",
+          "url": "https://open.spotify.com/artist/53UG4rUlSm5H3F8C9pXls2"
+        },
+        {
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+        }
+      ],
+      "duration_ms": 177124,
+      "name": "Perdiamoci",
+      "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "Fidate Correnti",
         "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 231920,
       "name": "Vola lontano",
       "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Delicatoni",
+        "url": "https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        }
+      ],
+      "duration_ms": 267111,
+      "name": "Domenica Berici",
+      "url": "https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Drifting in a room full of mirrors",
-        "url": "https://open.spotify.com/album/0aytU9tekBhYjY8A4CM7ss"
-      },
-      "artists": [
-        {
-          "name": "Egidio Marchitelli",
-          "url": "https://open.spotify.com/artist/4m0AQenXHYGsM1nqy3vBc6"
-        }
-      ],
-      "duration_ms": 274887,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/3vGejZYg2jc9r16bIBvmyq"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 310466,
       "name": "Normalmente",
       "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Drifting in a room full of mirrors",
+        "url": "https://open.spotify.com/album/0aytU9tekBhYjY8A4CM7ss"
+      },
+      "artists": [
+        {
+          "name": "Egidio Marchitelli",
+          "url": "https://open.spotify.com/artist/4m0AQenXHYGsM1nqy3vBc6"
+        }
+      ],
+      "duration_ms": 274887,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/3vGejZYg2jc9r16bIBvmyq"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1475,6 +1475,30 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "Racconti mediterranei",
+        "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Marc Johnson",
+          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
+        },
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+        }
+      ],
+      "duration_ms": 454173,
+      "name": "Canzone di Nausicaa",
+      "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "Cosmica Italiana",
         "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
       },
@@ -1511,30 +1535,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Racconti mediterranei",
-        "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
-      },
-      "artists": [
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Marc Johnson",
-          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
-        },
-        {
-          "name": "Gabriele Mirabassi",
-          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
-        }
-      ],
-      "duration_ms": 454173,
-      "name": "Canzone di Nausicaa",
-      "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Something In Our Way",
         "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 336666,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
-      },
-      "artists": [
-        {
-          "name": "Federico Bosio",
-          "url": "https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1"
-        }
-      ],
-      "duration_ms": 146618,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1591,6 +1575,22 @@
       "duration_ms": 210494,
       "name": "Over and again",
       "url": "https://open.spotify.com/track/5nEX3zvnR4jWfwgjGIJr1j"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
+      },
+      "artists": [
+        {
+          "name": "Federico Bosio",
+          "url": "https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1"
+        }
+      ],
+      "duration_ms": 146618,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "My Songbook",
         "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 340493,
       "name": "My Heart in a Song",
       "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
-      },
-      "artists": [
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1875,26 +1875,26 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Facing North",
-        "url": "https://open.spotify.com/album/7BG1DgkjLbJR5QQ2FBgswN"
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/04mcwadpwSaYynroTEqYJg"
       },
       "artists": [
         {
-          "name": "Claudio Filippini",
-          "url": "https://open.spotify.com/artist/26vqH4OquRRTf6lnRe4gbX"
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
         },
         {
-          "name": "Palle Danielsson",
-          "url": "https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ"
+          "name": "Stefano Maurizi",
+          "url": "https://open.spotify.com/artist/2dcgy7gYodUcL5l1V16qan"
         },
         {
-          "name": "Olavi Louhivuori",
-          "url": "https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT"
+          "name": "Mirco Mariottini",
+          "url": "https://open.spotify.com/artist/59pnlMKJa3phDabIFCfQeN"
         }
       ],
-      "duration_ms": 293866,
-      "name": "Nothing To Lose",
-      "url": "https://open.spotify.com/track/4dloclI8tlsFDjUTTSYuXY"
+      "duration_ms": 270902,
+      "name": "Tribal Dance",
+      "url": "https://open.spotify.com/track/63Bq1F9wKFzn7OZhYR3WCh"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1919,26 +1919,26 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Dialogues",
-        "url": "https://open.spotify.com/album/04mcwadpwSaYynroTEqYJg"
+        "name": "Facing North",
+        "url": "https://open.spotify.com/album/7BG1DgkjLbJR5QQ2FBgswN"
       },
       "artists": [
         {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+          "name": "Claudio Filippini",
+          "url": "https://open.spotify.com/artist/26vqH4OquRRTf6lnRe4gbX"
         },
         {
-          "name": "Stefano Maurizi",
-          "url": "https://open.spotify.com/artist/2dcgy7gYodUcL5l1V16qan"
+          "name": "Palle Danielsson",
+          "url": "https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ"
         },
         {
-          "name": "Mirco Mariottini",
-          "url": "https://open.spotify.com/artist/59pnlMKJa3phDabIFCfQeN"
+          "name": "Olavi Louhivuori",
+          "url": "https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT"
         }
       ],
-      "duration_ms": 270902,
-      "name": "Tribal Dance",
-      "url": "https://open.spotify.com/track/63Bq1F9wKFzn7OZhYR3WCh"
+      "duration_ms": 293866,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/4dloclI8tlsFDjUTTSYuXY"
     },
     {
       "added_at": "2024-10-11 14:32:01",

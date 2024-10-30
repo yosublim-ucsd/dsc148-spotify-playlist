@@ -1,6 +1,6 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 70888,
+  "num_followers": 70899,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "NEW MAGIC WAND",
-      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
     },
     {
       "added_at": "2024-08-06 14:12:36",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
+        "name": "Play with Fire (feat. Yacht Money)",
+        "url": "https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD"
+      },
+      "artists": [
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        },
+        {
+          "name": "Yacht Money",
+          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
+        }
+      ],
+      "duration_ms": 180690,
+      "name": "Play with Fire (feat. Yacht Money)",
+      "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
-        "name": "Play with Fire (feat. Yacht Money)",
-        "url": "https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD"
-      },
-      "artists": [
-        {
-          "name": "Sam Tinnesz",
-          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
-        },
-        {
-          "name": "Yacht Money",
-          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
-        }
-      ],
-      "duration_ms": 180690,
-      "name": "Play with Fire (feat. Yacht Money)",
-      "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
     },
     {
       "added_at": "2024-08-06 14:12:36",

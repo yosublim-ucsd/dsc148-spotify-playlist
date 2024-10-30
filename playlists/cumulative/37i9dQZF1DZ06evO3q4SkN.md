@@ -4,7 +4,7 @@
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-133 songs - 3 hr 51 min
+134 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [No Me Dejes Atrás \(feat\. Gabriela Martinez\)](https://open.spotify.com/track/146AOJ6INXeSHQEWjYHqsr) | [Federico Ramos](https://open.spotify.com/artist/21KfnWJ8r1OSD9sNEKrLfm), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe), [Gabriela Martinez](https://open.spotify.com/artist/6DxYmXAvO5MWIOvnwltlLk) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 2:24 | 2023-05-05 |  |
 | [No Such Thing as Magic](https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:05 | 2023-05-22 | 2024-06-03 |
 | [Not It](https://open.spotify.com/track/4qQYUXly5uyHi10uLkaRha) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:19 | 2023-12-18 | 2024-05-29 |
-| [Opera House](https://open.spotify.com/track/08lXo0ES201xImrPw8f6hg) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:06 | 2023-05-09 |  |
+| [Opera House](https://open.spotify.com/track/08lXo0ES201xImrPw8f6hg) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:06 | 2023-05-09 | 2024-10-30 |
 | [Riding Into the Sunset](https://open.spotify.com/track/1E9wL6Fko0s380amDh51T0) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 0:40 | 2023-08-07 | 2024-02-27 |
 | [Royal Barge Disaster](https://open.spotify.com/track/6fmRBaYCK3bUKUgQozL9fw) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:10 | 2024-05-02 |  |
 | [Royal Car](https://open.spotify.com/track/2lsmyzXbFXVOsq91rMirAS) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:31 | 2023-05-05 | 2024-02-11 |
@@ -134,6 +134,7 @@
 | [Weather's Coming In](https://open.spotify.com/track/2OqWXV1kcS7rfPSH7FkEME) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:47 | 2023-08-25 | 2024-10-25 |
 | [Whatever The Question](https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:18 | 2023-06-28 | 2024-10-18 |
 | [Who's Your Birth Mother?](https://open.spotify.com/track/3FaAsdxaiJZVQy72trr8ka) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:08 | 2023-06-14 | 2024-09-23 |
+| [Wild Goose Chase](https://open.spotify.com/track/7LFJVycG36vPsPWbbxavI4) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 2:11 | 2024-10-30 |  |
 | [Win And Still Be Me](https://open.spotify.com/track/5pGZTHvOc8gs1bN8xdYrmW) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 2:55 | 2023-12-29 |  |
 | [Winter Passes Into Spring](https://open.spotify.com/track/7E0rakzFoaTjGlVGqmfPBQ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:04 | 2023-09-25 |  |
 | [Wish You Were Little](https://open.spotify.com/track/7EqHX50uUoegBKRFBbGepr) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:40 | 2024-01-16 | 2024-03-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 9498,
+  "num_followers": 9508,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAARBIm1uaOpyaO4Oz/aWbcK",
+  "snapshot_id": "Zx7UAAAAAABW8wFeHPwJmWgB/+dhNdXD",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fresh Stars 2020 Pnpl",
+        "url": "https://open.spotify.com/album/3wyMe21JdM7MjyoHaYChHE"
+      },
+      "artists": [
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Beat Jogzz",
+          "url": "https://open.spotify.com/artist/7kB70QFOEcQme0JNuUYl6z"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Fresh Stars 2020 Pnpl",
+      "url": "https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ca$h Ca$h",
         "url": "https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1"
       },
@@ -547,46 +587,6 @@
       "duration_ms": 115999,
       "name": "Bugatti",
       "url": "https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fresh Stars 2020 Pnpl",
-        "url": "https://open.spotify.com/album/3wyMe21JdM7MjyoHaYChHE"
-      },
-      "artists": [
-        {
-          "name": "Sos",
-          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Meno Tody",
-          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Beat Jogzz",
-          "url": "https://open.spotify.com/artist/7kB70QFOEcQme0JNuUYl6z"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Fresh Stars 2020 Pnpl",
-      "url": "https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H"
     },
     {
       "added_at": null,
@@ -763,26 +763,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEBRE AMARELA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
+        "name": "Shoota (feat. Lourena & Ebony)",
+        "url": "https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE"
       },
       "artists": [
         {
-          "name": "WillsBife",
-          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
-        },
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
         },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         }
       ],
-      "duration_ms": 155000,
-      "name": "FREESTYLE DAS FAIXA ROSA",
-      "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
+      "duration_ms": 212580,
+      "name": "Shoota (feat. Lourena & Ebony)",
+      "url": "https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh"
     },
     {
       "added_at": null,
@@ -835,26 +835,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoota (feat. Lourena & Ebony)",
-        "url": "https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE"
+        "name": "FEBRE AMARELA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
       },
       "artists": [
         {
-          "name": "Bianca Costa",
-          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
         },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         }
       ],
-      "duration_ms": 212580,
-      "name": "Shoota (feat. Lourena & Ebony)",
-      "url": "https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh"
+      "duration_ms": 155000,
+      "name": "FREESTYLE DAS FAIXA ROSA",
+      "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Temporary Lover",
-        "url": "https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G"
-      },
-      "artists": [
-        {
-          "name": "Adrian Jean",
-          "url": "https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 231367,
-      "name": "Temporary Lover",
-      "url": "https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
         "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 181714,
       "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
       "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Temporary Lover",
+        "url": "https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G"
+      },
+      "artists": [
+        {
+          "name": "Adrian Jean",
+          "url": "https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 231367,
+      "name": "Temporary Lover",
+      "url": "https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN"
     },
     {
       "added_at": null,

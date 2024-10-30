@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1484708,
+  "num_followers": 1484718,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
-        "name": "Syn Fonia I",
-        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Space Orgazm",
-      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
-    },
-    {
-      "added_at": "2024-10-26 04:25:57",
-      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz"
       },
@@ -295,6 +275,22 @@
       "duration_ms": 208192,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc"
+    },
+    {
+      "added_at": "2024-10-26 04:25:57",
+      "album": {
+        "name": "Life in the Wild Garden",
+        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
+      },
+      "artists": [
+        {
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
     },
     {
       "added_at": "2024-10-26 04:25:57",
@@ -331,34 +327,22 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
-        "name": "Life in the Wild Garden",
-        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
+        "name": "Syn Fonia I",
+        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
       },
       "artists": [
         {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
-    },
-    {
-      "added_at": "2024-10-26 04:25:57",
-      "album": {
-        "name": "Paddling pool",
-        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
-      },
-      "artists": [
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
         {
-          "name": "S I M",
-          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
         }
       ],
-      "duration_ms": 167874,
-      "name": "Paddling pool",
-      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
+      "duration_ms": 228750,
+      "name": "Space Orgazm",
+      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
     },
     {
       "added_at": "2024-10-26 04:25:57",
@@ -383,6 +367,22 @@
       "duration_ms": 130119,
       "name": "Suspended",
       "url": "https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA"
+    },
+    {
+      "added_at": "2024-10-26 04:25:57",
+      "album": {
+        "name": "Paddling pool",
+        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
+      },
+      "artists": [
+        {
+          "name": "S I M",
+          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
+        }
+      ],
+      "duration_ms": 167874,
+      "name": "Paddling pool",
+      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
     },
     {
       "added_at": "2024-10-26 04:25:57",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
+        "name": "zero",
+        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "duration_ms": 147695,
+      "name": "zero",
+      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
+    },
+    {
+      "added_at": "2024-10-26 04:25:57",
+      "album": {
         "name": "Primo",
         "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 162324,
       "name": "Primo",
       "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
-    },
-    {
-      "added_at": "2024-10-26 04:25:57",
-      "album": {
-        "name": "zero",
-        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
-      },
-      "artists": [
-        {
-          "name": "invisible design",
-          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
-        }
-      ],
-      "duration_ms": 147695,
-      "name": "zero",
-      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
     },
     {
       "added_at": "2024-10-26 04:25:57",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
-    },
-    {
-      "added_at": "2024-10-26 04:25:57",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
-        "name": "kokoro",
-        "url": "https://open.spotify.com/album/61O3OR2eHp9oJUbQGcZK0B"
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
       },
       "artists": [
         {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 131520,
-      "name": "kokoro",
-      "url": "https://open.spotify.com/track/1xIhftSWn47k5e7wqRUwJ6"
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
     },
     {
       "added_at": "2024-10-26 04:25:57",
@@ -931,6 +915,22 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
+        "name": "kokoro",
+        "url": "https://open.spotify.com/album/61O3OR2eHp9oJUbQGcZK0B"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "duration_ms": 131520,
+      "name": "kokoro",
+      "url": "https://open.spotify.com/track/1xIhftSWn47k5e7wqRUwJ6"
+    },
+    {
+      "added_at": "2024-10-26 04:25:57",
+      "album": {
         "name": "Tangerine Hues",
         "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
+        "name": "smwhere, smtime",
+        "url": "https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8"
+      },
+      "artists": [
+        {
+          "name": "Tom Doolie",
+          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu"
+    },
+    {
+      "added_at": "2024-10-26 04:25:57",
+      "album": {
         "name": "Night Cruising",
         "url": "https://open.spotify.com/album/0u5sIKkyupnEQoeTHeG7W0"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 92210,
       "name": "Night Cruising",
       "url": "https://open.spotify.com/track/1dHfPdc1Vi0lO1uMGyxlfm"
-    },
-    {
-      "added_at": "2024-10-26 04:25:57",
-      "album": {
-        "name": "smwhere, smtime",
-        "url": "https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8"
-      },
-      "artists": [
-        {
-          "name": "Tom Doolie",
-          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Smoke Rings",
-      "url": "https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu"
     },
     {
       "added_at": "2024-10-26 04:25:57",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
+        "name": "afternoon shower",
+        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
+      },
+      "artists": [
+        {
+          "name": "AOI",
+          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
+        }
+      ],
+      "duration_ms": 127595,
+      "name": "afternoon shower",
+      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
+    },
+    {
+      "added_at": "2024-10-26 04:25:57",
+      "album": {
         "name": "Coquettish Definition",
         "url": "https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
-        "name": "afternoon shower",
-        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
-      },
-      "artists": [
-        {
-          "name": "AOI",
-          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
-        }
-      ],
-      "duration_ms": 127595,
-      "name": "afternoon shower",
-      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
-    },
-    {
-      "added_at": "2024-10-26 04:25:57",
-      "album": {
         "name": "The Valley",
         "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 166588,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
+    },
+    {
+      "added_at": "2024-10-26 04:25:57",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
+      },
+      "artists": [
+        {
+          "name": "Karmawin",
+          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
     },
     {
       "added_at": "2024-10-26 04:25:57",
@@ -1175,38 +1191,6 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
-      },
-      "artists": [
-        {
-          "name": "Karmawin",
-          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
-    },
-    {
-      "added_at": "2024-10-26 04:25:57",
-      "album": {
-        "name": "Bike Ride in Osaka",
-        "url": "https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis"
-      },
-      "artists": [
-        {
-          "name": "tecashi",
-          "url": "https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w"
-        }
-      ],
-      "duration_ms": 120014,
-      "name": "Bike Ride in Osaka",
-      "url": "https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H"
-    },
-    {
-      "added_at": "2024-10-26 04:25:57",
-      "album": {
         "name": "keep going",
         "url": "https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 102000,
       "name": "settle down",
       "url": "https://open.spotify.com/track/6uyitNldOLr44QmicuClak"
+    },
+    {
+      "added_at": "2024-10-26 04:25:57",
+      "album": {
+        "name": "Bike Ride in Osaka",
+        "url": "https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis"
+      },
+      "artists": [
+        {
+          "name": "tecashi",
+          "url": "https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w"
+        }
+      ],
+      "duration_ms": 120014,
+      "name": "Bike Ride in Osaka",
+      "url": "https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H"
     },
     {
       "added_at": "2024-10-26 04:25:57",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
+        "name": "Ova",
+        "url": "https://open.spotify.com/album/0W7PGvXL4DYYOuyctcrFwN"
+      },
+      "artists": [
+        {
+          "name": "URCHN",
+          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "Ova",
+      "url": "https://open.spotify.com/track/3bHSr5nxcXLoUr6LyRYTuT"
+    },
+    {
+      "added_at": "2024-10-26 04:25:57",
+      "album": {
         "name": "The Scenic Route",
         "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
       },
@@ -1295,18 +1311,26 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
-        "name": "Ova",
-        "url": "https://open.spotify.com/album/0W7PGvXL4DYYOuyctcrFwN"
+        "name": "City Strollin'",
+        "url": "https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4"
       },
       "artists": [
         {
-          "name": "URCHN",
-          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "Nocatchphraze",
+          "url": "https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
         }
       ],
-      "duration_ms": 123600,
-      "name": "Ova",
-      "url": "https://open.spotify.com/track/3bHSr5nxcXLoUr6LyRYTuT"
+      "duration_ms": 198777,
+      "name": "City Strollin'",
+      "url": "https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL"
     },
     {
       "added_at": "2024-10-26 04:25:57",
@@ -1339,30 +1363,6 @@
       "duration_ms": 198000,
       "name": "snow in the park",
       "url": "https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU"
-    },
-    {
-      "added_at": "2024-10-26 04:25:57",
-      "album": {
-        "name": "City Strollin'",
-        "url": "https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "Nocatchphraze",
-          "url": "https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        }
-      ],
-      "duration_ms": 198777,
-      "name": "City Strollin'",
-      "url": "https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL"
     },
     {
       "added_at": "2024-10-26 04:25:57",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
-        "name": "181's penny candy store #7",
-        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
-      },
-      "artists": [
-        {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Win the Lottery",
-      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
-    },
-    {
-      "added_at": "2024-10-26 04:25:57",
-      "album": {
         "name": "Wonga Park",
         "url": "https://open.spotify.com/album/3ZfNzg2HRuMEpfs3IRA8WU"
       },
@@ -1439,18 +1423,34 @@
     {
       "added_at": "2024-10-26 04:25:57",
       "album": {
-        "name": "Hot Water",
-        "url": "https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9"
+        "name": "181's penny candy store #7",
+        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
       },
       "artists": [
         {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
         }
       ],
-      "duration_ms": 142417,
-      "name": "Carpet",
-      "url": "https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z"
+      "duration_ms": 186000,
+      "name": "Win the Lottery",
+      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
+    },
+    {
+      "added_at": "2024-10-26 04:25:57",
+      "album": {
+        "name": "sophisticated silence",
+        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
+      },
+      "artists": [
+        {
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+        }
+      ],
+      "duration_ms": 155760,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
     }
   ],
   "unique_name": "Mellow Beats",

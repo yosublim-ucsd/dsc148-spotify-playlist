@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: Stegosauro
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,543 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,633 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 17 | [Dogs and Ducks](https://open.spotify.com/track/6XANNQ4GfMK8fubNkEcYzI) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [Dogs and Ducks](https://open.spotify.com/album/3Gn1YUG8g4AxV7PCeZquTz) | 2:41 |
 | 18 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 |
 | 19 | [Chevalier Bulltoe](https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww) | [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Home Alone](https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U) | 3:32 |
-| 20 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
-| 21 | [firebird](https://open.spotify.com/track/1MYCp8HhMJfQuYqiHruJ7N) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [catharsis](https://open.spotify.com/album/3DIA7RA1Ga6aYw7qdjU88m) | 4:40 |
+| 20 | [firebird](https://open.spotify.com/track/1MYCp8HhMJfQuYqiHruJ7N) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [catharsis](https://open.spotify.com/album/3DIA7RA1Ga6aYw7qdjU88m) | 4:40 |
+| 21 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
 | 22 | [Delaylay](https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt) | [Stage Kids](https://open.spotify.com/artist/6PA6cOkr31WIibRMDZXZkU) | [Intra Mental](https://open.spotify.com/album/0Lx7i91oEDoGwzy4Bp07al) | 3:45 |
 | 23 | [KALA](https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Mario Camarena](https://open.spotify.com/artist/1C5b4zPDtIjrhOVVvBBtCZ) | [SIMILAR](https://open.spotify.com/album/4eEgCTAwqEajxJNFw0bwYA) | 3:19 |
 | 24 | [Mullally](https://open.spotify.com/track/02tJP7k7AstDD5wLrRb16H) | [And So I Watch You from Afar](https://open.spotify.com/artist/7qKMNwlACMZOUdMG3acwst) | [The Endless Shimmering](https://open.spotify.com/album/5EQ5o0bmdRsKTyBaca3l9r) | 3:53 |
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 51 | [ARUKAS](https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P) | 5:41 |
 | 52 | [Cloudy](https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS) | [Trees Before Fall](https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8) | [Trees Before Fall](https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i) | 4:59 |
 | 53 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
-| 54 | [Mimi Ashi](https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm) | [Oh No! Yoko](https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr) | [Sorrow EP](https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY) | 2:18 |
-| 55 | [Papaya](https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Yum !!](https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx) | 3:08 |
+| 54 | [Papaya](https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Yum !!](https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx) | 3:08 |
+| 55 | [Mimi Ashi](https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm) | [Oh No! Yoko](https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr) | [Sorrow EP](https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY) | 2:18 |
 | 56 | [Cramm](https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2) | [Three Trapped Tigers](https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT) | [Route One or Die](https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH) | 4:58 |
 | 57 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 |
 | 58 | [Not To Follow](https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw) | [Thingy](https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g) | [Morbid Curiosity](https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71) | 2:06 |
 | 59 | [Infinite Spice](https://open.spotify.com/track/40hF24KMxg9LpglA9We3As) | [Via Luna](https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow) | [Muted Earth](https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L) | 4:11 |
 | 60 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
-| 61 | […But the Pants Stay On](https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1) | [A Minor Forest](https://open.spotify.com/artist/4ABTeyDAbK3iv09CHSsoW0) | [Flemish Altruism \(Constituent Parts 1993\-1996\) \[Remaster\]](https://open.spotify.com/album/0V8uE11hFKvBpRkWockq70) | 6:42 |
-| 62 | [Crucemos los Puentes...](https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Puentes](https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA) | 3:46 |
-| 63 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 |
+| 61 | [Crucemos los Puentes...](https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Puentes](https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA) | 3:46 |
+| 62 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 |
+| 63 | […But the Pants Stay On](https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1) | [A Minor Forest](https://open.spotify.com/artist/4ABTeyDAbK3iv09CHSsoW0) | [Flemish Altruism \(Constituent Parts 1993\-1996\) \[Remaster\]](https://open.spotify.com/album/0V8uE11hFKvBpRkWockq70) | 6:42 |
 | 64 | [Ruth Leslie \(Cigregrets Pt\. 1\)](https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE) | [Narrow / Arrow](https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE) | [Asbestos Weak Hood](https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1) | 3:02 |
 | 65 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
 | 66 | [It's Not](https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI) | [Mylets](https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR) | [M\. Rueff](https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH) | 2:43 |

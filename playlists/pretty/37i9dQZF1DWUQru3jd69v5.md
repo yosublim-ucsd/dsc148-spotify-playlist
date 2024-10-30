@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Faneto in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,073 likes - 55 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,066 likes - 55 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 2 | [Vis a Vis](https://open.spotify.com/track/6LiIq6x7MS67eCY7pzB2A1) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [wherestheplug](https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K) | [Vis a Vis](https://open.spotify.com/album/5VTWZuEhrfP2mDwkn5ApSz) | 2:27 |
 | 3 | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/album/0XG50AZzowdXkiVcePYgPs) | 2:13 |
 | 4 | [Crash Test](https://open.spotify.com/track/2lpZiHXHWtDTTxMmecB6g3) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Mr\. Monkey](https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if) | [Crash Test](https://open.spotify.com/album/7EWyicuImKFwmyy6Tl7EYf) | 3:04 |
-| 5 | [RUOTA DEL CRICETO](https://open.spotify.com/track/79N3KmE7YnoyXAdBzJT1Hh) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:23 |
+| 5 | [RUOTA DEL CRICETO](https://open.spotify.com/track/79N3KmE7YnoyXAdBzJT1Hh) | [ASTRO](https://open.spotify.com/artist/09ndqK2ebX9uCk9XqKHCKH) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:23 |
 | 6 | [Control](https://open.spotify.com/track/5cMn8cSZzsM1Xb337JWExL) | [Ozymandias](https://open.spotify.com/artist/5vxQHG7u9MUQ8UN40sharl) | [Control](https://open.spotify.com/album/7vM746tgBxPY818j7umMUa) | 3:27 |
 | 7 | [MOCRO SCHOOL \(feat\. Yunes LaGrintaa, Hani, Kassimi\)](https://open.spotify.com/track/0fsWQEJigMTXNrLKq179Y4) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [N.47](https://open.spotify.com/album/4eIDWt7ND4Dq8e5IrLcD3e) | 4:37 |
 | 8 | [DAI LAMENTI](https://open.spotify.com/track/66UQD2V3yQxpjS1KtOLUEj) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [DAI LAMENTI](https://open.spotify.com/album/2GQiL6te4h5YQ2S9yE8Xmr) | 2:55 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 18 | [Skyline \(feat\. Glocky\)](https://open.spotify.com/track/5Fmim1aIr2EkrnTUkYRtwa) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [No Pressure, No Diamonds](https://open.spotify.com/album/5gRvTwwvyRN2vYNBM9hmQu) | 3:17 |
 | 19 | [Sissi](https://open.spotify.com/track/0UKa313enTmwGcWtvk3Duf) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4) | [Sissi](https://open.spotify.com/album/1PWSDDOiLezcwc08G0BVxv) | 2:05 |
 | 20 | [ON & ON](https://open.spotify.com/track/6nPcgZggQ2MnRRtJVv56Uk) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [ON & ON](https://open.spotify.com/album/75LlCc60rZoqiudlkALRJb) | 2:22 |
-| 21 | [1 MOMENTO \(feat\. ANNA\)](https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:56 |
+| 21 | [1 MOMENTO \(feat\. ANNA\)](https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG) | [ASTRO](https://open.spotify.com/artist/09ndqK2ebX9uCk9XqKHCKH), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:56 |
 | 22 | [Trafficant](https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH) | [Trafficant](https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7) | 2:23 |
 | 23 | [PALETTE](https://open.spotify.com/track/24v7M7PETkMSimX79C1cT4) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [PALETTE](https://open.spotify.com/album/5HzTy1cbSrGNaZ1zBNCQ0M) | 2:01 |
 | 24 | [L'ODIO](https://open.spotify.com/track/0j4mqZ20hc7FnMCKlGGn6Q) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [BISHA](https://open.spotify.com/album/4s1b2WEZ7veqh7QcxrQGxx) | 3:06 |

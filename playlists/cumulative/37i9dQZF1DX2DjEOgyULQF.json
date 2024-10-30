@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Domestic Waters",
+        "url": "https://open.spotify.com/album/0hsQnSQhjZ00ZtX2JPPFIl"
+      },
+      "artists": [
+        {
+          "name": "The Lay-Backs",
+          "url": "https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184647,
+      "name": "Domestic Waters",
+      "url": "https://open.spotify.com/track/7ssngwB7w7olN4CwMkrDcB"
+    },
+    {
+      "album": {
         "name": "Dormire Bowls",
         "url": "https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl"
       },
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 158294,
       "name": "Eutony",
       "url": "https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt"

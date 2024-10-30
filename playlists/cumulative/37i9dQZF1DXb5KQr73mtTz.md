@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-258 songs - 16 hr 50 min
+259 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Someday](https://open.spotify.com/track/37ftzk7n72Ptu9GCaGJvjV) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/3X76n6xJw1e18AUp96SFa2) | 4:18 | 2022-05-11 | 2022-07-21 |
 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2024-02-21 |  |
 | [Something Like That](https://open.spotify.com/track/4hS3Ojb0MQUcLbud06tclD) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Something Like That](https://open.spotify.com/album/2De8ePlJ94yLK21qEIAmRg) | 4:19 | 2022-06-13 | 2022-06-28 |
+| [Spring days pass](https://open.spotify.com/track/1WACArKm987xYhEAiuetlx) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Jeongnyeon: The Star is Born, Pt\. 3 : Spring days pass \(Original Soundtrack\)](https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp) | 3:21 | 2024-10-27 |  |
 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 | 2023-10-16 |  |
 | [Starlight](https://open.spotify.com/track/60qrOUUJdPwH7ofxPMRZ11) | [We Young](https://open.spotify.com/artist/2KWA8WGIcCPLNX6HnPMnS4) | [Starlight](https://open.spotify.com/album/0D0h30fTGAWlzKwxPfY2PX) | 3:43 | 2022-05-11 | 2022-06-02 |
 | [Stay](https://open.spotify.com/track/7LETz5EPzwbgh92VSOPBA6) | [Ways](https://open.spotify.com/artist/6IjY9gwwbF1bFVMJHMKRjP) | [Stay](https://open.spotify.com/album/0rWN85pSXc2ikHlRlHkL8X) | 3:47 | 2022-05-11 | 2022-07-12 |
@@ -236,7 +237,7 @@
 | [WERE WE?](https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:44 | 2022-05-11 | 2022-07-25 |
 | [What Is Love](https://open.spotify.com/track/0858nTMxQH3y9iFWYcmCmo) | [Venoby](https://open.spotify.com/artist/2U6nABODrRHTzRMnEoK037) | [What Is Love](https://open.spotify.com/album/67s4fQQGCBZBWHExk4baFV) | 4:25 | 2022-05-11 | 2022-05-31 |
 | [Who Are You](https://open.spotify.com/track/1DIcwjXEd7kmzVpxqWBK5J) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Who Are You](https://open.spotify.com/album/0AJedZzGLJy6NlD8eaI9QN) | 3:46 | 2022-06-09 | 2022-06-14 |
-| [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K) | 4:31 | 2023-06-13 |  |
+| [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K) | 4:31 | 2023-06-13 | 2024-10-30 |
 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 | 2024-06-11 |  |
 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 | 2022-12-26 |  |
 | [Windy](https://open.spotify.com/track/6lb8PuWa23cy0dQY0pbaKg) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:02 | 2022-05-11 | 2022-06-20 |

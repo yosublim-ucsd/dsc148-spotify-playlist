@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Frontera en portada.
 
-588 songs - 1 day 7 hr 14 min
+589 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 | 2022-03-11 | 2023-04-15 |
 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 | 2022-07-01 | 2023-07-15 |
 | [Chelas y Besos](https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Infinito](https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN) | 3:01 | 2024-08-16 |  |
-| [Chingo de Amor](https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chingo de Amor](https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU) | 2:54 | 2024-10-18 | 2024-10-26 |
+| [Chingo de Amor](https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chingo de Amor](https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU) | 2:54 | 2024-10-18 |  |
 | [Chiquilla cariñosa \- En Vivo](https://open.spotify.com/track/3uRbbVtxvzPbDUtYtSPRBM) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Poquito De Todo Con Sax Vol.1 \(En Vivo\)](https://open.spotify.com/album/1BegSqTbOarMuulAgGf8PV) | 2:56 | 2024-07-12 | 2024-08-17 |
 | [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 | 2022-12-02 | 2023-12-15 |
 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 | 2023-02-24 |  |
@@ -297,7 +297,7 @@
 | [La Hija Del Sr.](https://open.spotify.com/track/3uSnklocXnasLoqWMMMurP) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [1X1](https://open.spotify.com/album/1GsbrXF9wVjtvZR4aP33j5) | 3:33 | 2023-12-01 | 2023-12-09 |
 | [La Indicada](https://open.spotify.com/track/6QwKiUDzzbQNu8ZBCv1T85) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Niveleando Cuh II](https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07) | 3:43 | 2024-10-18 |  |
 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 | 2023-04-14 |  |
-| [La Leona y El Carcomido](https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Leona y El Carcomido](https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j) | 2:33 | 2024-10-25 |  |
+| [La Leona y El Carcomido](https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Leona y El Carcomido](https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j) | 2:33 | 2024-10-25 | 2024-10-30 |
 | [La Ley del Mayo](https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Ley del Mayo](https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH) | 3:36 | 2023-01-27 | 2024-03-23 |
 | [La Loca \(En Vivo\)](https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [La Loca \(En Vivo\)](https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq) | 4:06 | 2022-11-04 | 2024-09-22 |
 | [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 | 2023-06-30 |  |
@@ -423,6 +423,7 @@
 | [Nuestra Profecía](https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Nuestra Profecía](https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n) | 2:47 | 2022-07-01 | 2022-08-07 |
 | [Nuestro Amor](https://open.spotify.com/track/4lYaJTrvWTWQQYFYNLnZ2A) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Nuestro Amor](https://open.spotify.com/album/5AQegA6YR71m4uILP9njWn) | 3:00 | 2023-10-21 | 2023-12-02 |
 | [Obsesión](https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Obsesión](https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY) | 2:32 | 2023-09-08 | 2023-12-22 |
+| [Obsesión \- Alternate Version](https://open.spotify.com/track/7aPGHZSUf4QAg00Ybuh6Ju) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi \- Antología](https://open.spotify.com/album/6fkHr4XjKCGdG5Lphdbp0f) | 3:07 | 2024-10-25 |  |
 | [Ojala y te animes](https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:28 | 2022-08-05 | 2023-10-07 |
 | [Ojalá Estuvieras Aquí](https://open.spotify.com/track/0qv6HGoCMqZ7ipX4u4N8KQ) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 2:46 | 2024-02-09 | 2024-03-09 |
 | [Ojalá Que Te Mueras](https://open.spotify.com/track/56ebjrGMxk4cjmycPiZJIM) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Ojalá Que Te Mueras](https://open.spotify.com/album/6Us6zDsEZbXA7pAMlSSpu0) | 2:49 | 2023-12-08 | 2023-12-16 |

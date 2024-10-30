@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Daichi Yamamoto",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: PAS TASTA",
   "name": "Edge!",
   "tracks": [
     {
@@ -8024,7 +8024,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 224071,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/20I4zWMOycRKhrhFtFnT06"
@@ -10662,6 +10662,24 @@
       "duration_ms": 249000,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/3hIcBVAruVAo9XovuKOX0C"
+    },
+    {
+      "album": {
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1Q9XRAfWT01mx7MFGxJOFF"
+      },
+      "artists": [
+        {
+          "name": "Amiide",
+          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/5GMK8sduhOa6g3mcW9gwi6"
     },
     {
       "album": {
@@ -20117,6 +20135,28 @@
     },
     {
       "album": {
+        "name": "GRAND POP",
+        "url": "https://open.spotify.com/album/3TVnfBuCOqcu9P39zD8FYe"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150300,
+      "name": "Teinei Life",
+      "url": "https://open.spotify.com/track/7KxMfTywMExXe1jfE2Bu33"
+    },
+    {
+      "album": {
         "name": "telepath",
         "url": "https://open.spotify.com/album/1wvdRCtiLW0FKViQNWE3rI"
       },
@@ -28562,7 +28602,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 296374,
       "name": "\u30de\u30a4\u30fb\u30ed\u30b9\u30c8\u30fb\u30b7\u30c6\u30a3\u30fc - Recorded at LIQUIDROOM 2023.12.3",
       "url": "https://open.spotify.com/track/7td4nCFdsA3ylPAF0vMMPX"

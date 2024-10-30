@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-549 songs - 22 hr 43 min
+550 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Cargo Rhodes](https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Orange](https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077) | 2:29 | 2022-11-17 | 2024-04-19 |
 | [Cargo Rhodes](https://open.spotify.com/track/1MmFMp0sgwl7liFDKJdEyY) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Cargo Rhodes / Deliverance](https://open.spotify.com/album/73wgRhPJUpKXr8k49lHVQy) | 2:29 | 2019-06-14 | 2022-07-29 |
 | [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 | 2022-12-15 | 2023-05-23 |
-| [Carpet](https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Hot Water](https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9) | 2:22 | 2020-01-14 |  |
+| [Carpet](https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Hot Water](https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9) | 2:22 | 2020-01-14 | 2024-10-30 |
 | [Cenario](https://open.spotify.com/track/7KQGUqom3BIzU0UB8XltUN) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR) | [Home Grown](https://open.spotify.com/album/2zWWibkLVYNp39mnQoGMJb) | 2:04 | 2019-05-26\* | 2020-01-14 |
 | [Change](https://open.spotify.com/track/7oD6a9yGIHCqtlqIplK4tN) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Change](https://open.spotify.com/album/7raWI0KFGJ2nVuUbvCkFus) | 1:48 | 2020-11-06 | 2022-07-28 |
 | [Chet's Dip Cuts](https://open.spotify.com/track/31SKs7K6vBqP83AaQ578pn) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [Chet's Dip Cuts](https://open.spotify.com/album/0ii1o8MN8EHstHRmU2nJHP) | 1:27 | 2020-06-19 | 2021-10-29 |
@@ -331,6 +331,7 @@
 | [Next to Nothing \- Instrumental](https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [Next to Nothing \(Instrumental\)](https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2) | 1:50 | 2019-07-26 |  |
 | [Night Cruising](https://open.spotify.com/track/1dHfPdc1Vi0lO1uMGyxlfm) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs), [5OW](https://open.spotify.com/artist/0JpibIwAjEszA07tpAL164) | [Night Cruising](https://open.spotify.com/album/0u5sIKkyupnEQoeTHeG7W0) | 1:32 | 2024-06-14 |  |
 | [Night Lights 2020](https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [Night Lights 2020](https://open.spotify.com/album/5rqqrponuFtxKYusVGzSl2) | 4:01 | 2020-03-27 | 2020-07-18 |
+| [NIGHT RIDER](https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [sophisticated silence](https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z) | 2:35 | 2024-10-26 |  |
 | [Night Shift](https://open.spotify.com/track/6VdE9gYhKxz8Gct9mochHs) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Night Shift](https://open.spotify.com/album/5MxnbwEmkDQWxSUE8GoMQZ) | 1:40 | 2020-01-14 | 2020-10-21 |
 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 | 2023-08-31 |  |
 | [Night Vision](https://open.spotify.com/track/2y8veQasjoS5HrSoJwRdaX) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Night Vision](https://open.spotify.com/album/2l9Ag3O0tfmogbuJ8ravko) | 1:30 | 2023-04-13 | 2023-05-19 |

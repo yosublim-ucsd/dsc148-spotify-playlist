@@ -4,7 +4,7 @@
 
 > 
 
-38 songs - 2 hr 50 min
+39 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Enemy, love.](https://open.spotify.com/track/1FJuSxwLugTKphYmrLDuhn) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:18 | 2024-04-25 | 2024-05-11 |
 | [Go On](https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sleep Through The Static](https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz) | 4:34 | 2024-04-15 | 2024-07-18 |
 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2024-04-08 | 2024-04-16 |
-| [Hold On, We're Going Home \- Live](https://open.spotify.com/track/3ERYCA53SPsF1M8JboN7ld) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Crowder’s Neon Porch Extravaganza \(Live\)](https://open.spotify.com/album/06Sgy5mHvpIRy2a2Jv4dUo) | 1:42 | 2024-07-17 |  |
+| [Hold On, We're Going Home \- Live](https://open.spotify.com/track/3ERYCA53SPsF1M8JboN7ld) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Crowder’s Neon Porch Extravaganza \(Live\)](https://open.spotify.com/album/06Sgy5mHvpIRy2a2Jv4dUo) | 1:42 | 2024-07-17 | 2024-10-30 |
 | [HUMBLE.](https://open.spotify.com/track/131OLY5J8XyfGuSjXRiTRM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/0bLXUfNT34mna9aXq8ex68) | 2:57 | 2024-05-13 | 2024-07-18 |
 | [King Kunta](https://open.spotify.com/track/043Rs5H7XAV2soPAy88x02) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/6w7lqIsvDPgTChMrPw5oIL) | 3:54 | 2024-05-10 | 2024-05-14 |
 | [Learn How to Lose: Act 1](https://open.spotify.com/track/56rSvFCJSGDvHvbiJ7EKGg) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [A Mirror Brightly](https://open.spotify.com/album/1o4rcU1X9X31s6bdVPhuMJ) | 4:20 | 2024-04-08 | 2024-05-03 |
@@ -42,6 +42,7 @@
 | [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/track/1XQrURR1zMs91M7XwVCIBr) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/album/7rkPDl2dV4YS2WoR1fkPJO) | 2:51 | 2024-06-02 | 2024-07-19 |
 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/6P8bxNBbTGozvidJV9fjrG) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:36 | 2024-07-17 |  |
 | [The Truth Is a Cave](https://open.spotify.com/track/27TPKGBLVn1Bv3B2thAzqz) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Through the Deep, Dark Valley](https://open.spotify.com/album/26kBAsDf3wwT8pzlBB9M0R) | 4:00 | 2024-07-17 |  |
+| [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-30 |  |
 | [Turn Me Up](https://open.spotify.com/track/0i6MFSVoW9FRPwEau74Wrq) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:44 | 2024-05-10 |  |
 | [Universal Sound](https://open.spotify.com/track/48nZLOpJOINkICPWpUuhaN) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:41 | 2024-04-08 | 2024-04-16 |
 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 | 2024-04-08 | 2024-07-18 |

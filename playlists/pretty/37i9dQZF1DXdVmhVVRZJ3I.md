@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,069 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,219 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 28 | [Never Be Alone \(feat\. Aloe Blacc\)](https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Never Be Alone \(feat\. Aloe Blacc\)](https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK) | 2:58 |
 | 29 | [Move Your Body \- Tiësto Edit](https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Move Your Body \(Tiësto Edit\)](https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz) | 2:20 |
 | 30 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 |
-| 31 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 |
-| 32 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |
+| 31 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |
+| 32 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 |
 | 33 | [Devotion \- 2020 Remix](https://open.spotify.com/track/039VxfSo5FErqE65169VZL) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Devotion \(2020 Remix\)](https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk) | 2:32 |
 | 34 | [The Wall](https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [The Wall](https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a) | 2:39 |
 | 35 | [One Million](https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [LOTTEN](https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D) | [One Million](https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA) | 3:07 |

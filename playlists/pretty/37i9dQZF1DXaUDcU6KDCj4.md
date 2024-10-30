@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  Laura Marling
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,587 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,732 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 19 | [Corners](https://open.spotify.com/track/0LfNGxDPKVQG5EY9Ulh55a) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Unreleased Pt\. 1](https://open.spotify.com/album/5sM5nF5lB1oJrXVgNGtMkd) | 3:09 |
 | 20 | [Huntley](https://open.spotify.com/track/5sJdlrzaYvCxeSTsQzQ6Db) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Huntley](https://open.spotify.com/album/0HV9T0Zb3gwIeBaZLu2qFd) | 2:59 |
 | 21 | [Hollow Feeling](https://open.spotify.com/track/5Fyqq2KWf9ecITokaCPFww) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Hollow Feeling](https://open.spotify.com/album/0WAy9cszdCZkGCObQalqgv) | 3:04 |
-| 22 | [what do i do? \(feat\. normal the kid & Elias Hix\)](https://open.spotify.com/track/1v8U3lcDWDFjcuRT4UkYmC) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V), [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [what do i do? \(feat\. normal the kid & Elias Hix\)](https://open.spotify.com/album/12cScw0iQqfnIZOZithEeQ) | 3:11 |
+| 22 | [what do i do?](https://open.spotify.com/track/1v8U3lcDWDFjcuRT4UkYmC) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [what do i do?](https://open.spotify.com/album/12cScw0iQqfnIZOZithEeQ) | 3:11 |
 | 23 | [Where I Belong](https://open.spotify.com/track/1V3i2rEwJCttaZMN2GgDr1) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Where I Belong](https://open.spotify.com/album/7f3Fl2l2XQ8Vo1ktP62q9I) | 3:15 |
 | 24 | [tomorrow's tune](https://open.spotify.com/track/7N1mEdcveUWDhQOgMTA566) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [tomorrow's tune](https://open.spotify.com/album/27QQMKaYGhXKEdkOESMa1l) | 3:36 |
 | 25 | [Hailey](https://open.spotify.com/track/1mR2dMocdwoulTNufXnnmf) | [The National Forest](https://open.spotify.com/artist/5PO6cJgDGDVWtmE7cJ5pws) | [Hailey](https://open.spotify.com/album/5yr30l3cr0ViTyDO4IKFPY) | 2:31 |

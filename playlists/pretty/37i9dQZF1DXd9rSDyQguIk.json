@@ -1,6 +1,6 @@
 {
   "description": "Nothing but classic blues. Cover: B.B. King",
-  "num_followers": 1941368,
+  "num_followers": 1941786,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
     },
     {
-      "added_at": "2024-03-21 16:46:52",
-      "album": {
-        "name": "Rockin' With Reed",
-        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 143331,
-      "name": "Take Out Some Insurance",
-      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "The Chess Box",
@@ -435,6 +419,22 @@
       "duration_ms": 188160,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
+    },
+    {
+      "added_at": "2024-03-21 16:46:52",
+      "album": {
+        "name": "Rockin' With Reed",
+        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 143331,
+      "name": "Take Out Some Insurance",
+      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -951,22 +951,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "The Alligator Records Years",
-        "url": "https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ"
-      },
-      "artists": [
-        {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "Should I Wait",
-      "url": "https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Essential Otis Rush",
         "url": "https://open.spotify.com/album/2xRWG3ikjf8O1tiQxJCW68"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 163440,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "The Alligator Records Years",
+        "url": "https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "Should I Wait",
+      "url": "https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq"
     },
     {
       "added_at": "2018-03-29 19:44:07",

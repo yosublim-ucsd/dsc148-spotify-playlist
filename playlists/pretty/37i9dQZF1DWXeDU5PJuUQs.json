@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 175307,
+  "num_followers": 175494,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-10-25 17:54:54",
       "album": {
-        "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
-        "url": "https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
-        },
-        {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
-        }
-      ],
-      "duration_ms": 330339,
-      "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
-      "url": "https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY"
-    },
-    {
-      "added_at": "2024-10-25 17:54:54",
-      "album": {
         "name": "No Voy A Llorar / Me Enamor\u00e9",
         "url": "https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 194894,
       "name": "No Voy A Llorar / Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/5nFG0wrCUFwv6EhoJAjjXK"
+    },
+    {
+      "added_at": "2024-10-25 17:54:54",
+      "album": {
+        "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
+        "url": "https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "duration_ms": 330339,
+      "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
+      "url": "https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY"
     },
     {
       "added_at": "2024-10-25 17:54:54",
@@ -1027,26 +1027,18 @@
     {
       "added_at": "2024-10-25 17:54:54",
       "album": {
-        "name": "El Campanero (En Vivo En El Luna Park)",
-        "url": "https://open.spotify.com/album/0VfGlIBiaHVSjWqlhVaGm5"
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
       "artists": [
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Onda Sabanera",
-          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
-        },
-        {
-          "name": "Sabor Colombiano",
-          "url": "https://open.spotify.com/artist/3STzZtLOqavgxKWD6Ea1xV"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 270374,
-      "name": "El Campanero (En Vivo En El Luna Park)",
-      "url": "https://open.spotify.com/track/0pGoCLgrzTFc7QjhodQEv0"
+      "duration_ms": 496146,
+      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
+      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
     },
     {
       "added_at": "2024-10-25 17:54:54",
@@ -1067,18 +1059,26 @@
     {
       "added_at": "2024-10-25 17:54:54",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "El Campanero (En Vivo En El Luna Park)",
+        "url": "https://open.spotify.com/album/0VfGlIBiaHVSjWqlhVaGm5"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        },
+        {
+          "name": "Sabor Colombiano",
+          "url": "https://open.spotify.com/artist/3STzZtLOqavgxKWD6Ea1xV"
         }
       ],
-      "duration_ms": 496146,
-      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
-      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
+      "duration_ms": 270374,
+      "name": "El Campanero (En Vivo En El Luna Park)",
+      "url": "https://open.spotify.com/track/0pGoCLgrzTFc7QjhodQEv0"
     },
     {
       "added_at": "2024-10-25 17:54:54",

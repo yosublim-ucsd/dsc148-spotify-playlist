@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 92596,
+  "num_followers": 92602,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAChBZj9y3XDRJaTie0aEcBG",
+  "snapshot_id": "Zx7UAAAAAADKS71Wc3pbx6jRsiY+Bwe+",
   "tracks": [
     {
       "added_at": null,
@@ -710,11 +710,15 @@
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
         }
       ],
-      "duration_ms": 298259,
-      "name": "Hay Un Nombre",
-      "url": "https://open.spotify.com/track/6FshvZr5yr9W4kybpGSV27"
+      "duration_ms": 297638,
+      "name": "Bendice Alma M\u00eda",
+      "url": "https://open.spotify.com/track/53pDk8D79rvlUn8PRoyLuP"
     },
     {
       "added_at": null,
@@ -782,15 +786,11 @@
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
         }
       ],
-      "duration_ms": 297638,
-      "name": "Bendice Alma M\u00eda",
-      "url": "https://open.spotify.com/track/53pDk8D79rvlUn8PRoyLuP"
+      "duration_ms": 298259,
+      "name": "Hay Un Nombre",
+      "url": "https://open.spotify.com/track/6FshvZr5yr9W4kybpGSV27"
     },
     {
       "added_at": null,

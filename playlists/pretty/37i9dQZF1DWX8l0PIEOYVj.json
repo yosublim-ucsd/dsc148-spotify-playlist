@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass. Cover: William Black & Said The Sky",
-  "num_followers": 472618,
+  "num_followers": 472601,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1507,30 +1507,6 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "Never Give Up On You (with Elle Vee)",
-        "url": "https://open.spotify.com/album/1Rd5iSReakdd3r5H7g9p51"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "Synymata",
-          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
-        },
-        {
-          "name": "Elle Vee",
-          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
-        }
-      ],
-      "duration_ms": 208888,
-      "name": "Never Give Up On You (with Elle Vee)",
-      "url": "https://open.spotify.com/track/6QyteQFqwV52K3YAs2a3pf"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/7wYiEcHymyhrB6n9TDnbvu"
       },
@@ -1551,6 +1527,30 @@
       "duration_ms": 228800,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/7rtHLNRdgRRJdvaMZTdVFn"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "Never Give Up On You (with Elle Vee)",
+        "url": "https://open.spotify.com/album/1Rd5iSReakdd3r5H7g9p51"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "duration_ms": 208888,
+      "name": "Never Give Up On You (with Elle Vee)",
+      "url": "https://open.spotify.com/track/6QyteQFqwV52K3YAs2a3pf"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "LSZEE",
-        "url": "https://open.spotify.com/album/6zvEWF6B5eSUpX1UTU5FqS"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "FRENCH DREAM",
-      "url": "https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
         "name": "Don't Love You",
         "url": "https://open.spotify.com/album/1FQK1u3PsnftXXvmYJKuzi"
       },
@@ -2111,6 +2091,46 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
+        "name": "LSZEE",
+        "url": "https://open.spotify.com/album/6zvEWF6B5eSUpX1UTU5FqS"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "FRENCH DREAM",
+      "url": "https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
+      },
+      "artists": [
+        {
+          "name": "ARAYA",
+          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
+        },
+        {
+          "name": "Fazzi",
+          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
+        }
+      ],
+      "duration_ms": 195775,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/5pEpNGQZZyXSYVpLJ3it6T"
       },
@@ -2135,22 +2155,22 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/758dRwMuCONb5iIYRyqxfu"
       },
       "artists": [
         {
-          "name": "ARAYA",
-          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
+          "name": "MVSE",
+          "url": "https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb"
         },
         {
-          "name": "Fazzi",
-          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 195775,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
+      "duration_ms": 185600,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3cvDUJKnGT9N43dwJB3EcC"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2215,26 +2235,6 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/758dRwMuCONb5iIYRyqxfu"
-      },
-      "artists": [
-        {
-          "name": "MVSE",
-          "url": "https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/3cvDUJKnGT9N43dwJB3EcC"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
         "name": "Worlds Away (yetep Remix)",
         "url": "https://open.spotify.com/album/6HIILItHPNh4q46jHSXuFy"
       },
@@ -2255,26 +2255,6 @@
       "duration_ms": 291463,
       "name": "Worlds Away - yetep Remix",
       "url": "https://open.spotify.com/track/2FIMqlUhjUpMmuyBIccbwK"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "LSZEE",
-        "url": "https://open.spotify.com/album/633geRmMguveturqYAb9k2"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 241379,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/4817tQ61XvNQxGzIiwlT0e"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2319,6 +2299,26 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
+        "name": "LSZEE",
+        "url": "https://open.spotify.com/album/633geRmMguveturqYAb9k2"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 241379,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/4817tQ61XvNQxGzIiwlT0e"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
         "name": "If The World Was Ending",
         "url": "https://open.spotify.com/album/3P12oVJ6YKmeZXUajqTMEh"
       },
@@ -2359,30 +2359,6 @@
       "duration_ms": 200869,
       "name": "Made For",
       "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/6uEm3lyHh00IvrZuDZDFKu"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "VLCN",
-          "url": "https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/16Hipr5yWu4Skxei5kG6W2"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2443,6 +2419,30 @@
       "duration_ms": 230800,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6uEm3lyHh00IvrZuDZDFKu"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "VLCN",
+          "url": "https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/16Hipr5yWu4Skxei5kG6W2"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2595,26 +2595,6 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "Ghost Of You",
-        "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
-      },
-      "artists": [
-        {
-          "name": "Aye Bay",
-          "url": "https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ"
-        },
-        {
-          "name": "ELLE",
-          "url": "https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "Ghost Of You",
-      "url": "https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/4dBYQY3XWW4txP7EyMoSEE"
       },
@@ -2635,6 +2615,26 @@
       "duration_ms": 226882,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/0pts9b6iz93rMS6XKhri0V"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "Ghost Of You",
+        "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
+      },
+      "artists": [
+        {
+          "name": "Aye Bay",
+          "url": "https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ"
+        },
+        {
+          "name": "ELLE",
+          "url": "https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "Ghost Of You",
+      "url": "https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2699,6 +2699,46 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/4h9Vplu7et1Ra0Om8xGFL7"
+      },
+      "artists": [
+        {
+          "name": "Valorian",
+          "url": "https://open.spotify.com/artist/164a6ajIRfk6mtrowEgEZv"
+        },
+        {
+          "name": "K-WOOZY",
+          "url": "https://open.spotify.com/artist/18hBrVW6Cflhz4xXpxp5M7"
+        },
+        {
+          "name": "Outertone",
+          "url": "https://open.spotify.com/artist/76EQ6xxFd24ZJ4GKq8FOEX"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0RGZiQiPG2VHzEJ0fs7b7I"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/2m0tPdS8lzYnZulyV0DoXB"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/4OqJ2AncNhhIyI3oCBYktq"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
         "name": "Bloodsucker",
         "url": "https://open.spotify.com/album/44pb7yDe2yfXP4G89ZBmz3"
       },
@@ -2711,6 +2751,50 @@
       "duration_ms": 214285,
       "name": "Bloodsucker",
       "url": "https://open.spotify.com/track/3jI15dUbd7QdjffANtYetx"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "Just A Light",
+        "url": "https://open.spotify.com/album/2sljb35aW7JzbA1lboeIt5"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 180620,
+      "name": "Just A Light",
+      "url": "https://open.spotify.com/track/3MGYhjCT2sQ8eWdj59TRk2"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "Heaven Again",
+        "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
+      },
+      "artists": [
+        {
+          "name": "Wurme",
+          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
+        },
+        {
+          "name": "Marc Rain",
+          "url": "https://open.spotify.com/artist/1acCVrk05rfolkBU3M6b7f"
+        },
+        {
+          "name": "Jetason",
+          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Heaven Again",
+      "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2755,90 +2839,6 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/4h9Vplu7et1Ra0Om8xGFL7"
-      },
-      "artists": [
-        {
-          "name": "Valorian",
-          "url": "https://open.spotify.com/artist/164a6ajIRfk6mtrowEgEZv"
-        },
-        {
-          "name": "K-WOOZY",
-          "url": "https://open.spotify.com/artist/18hBrVW6Cflhz4xXpxp5M7"
-        },
-        {
-          "name": "Outertone",
-          "url": "https://open.spotify.com/artist/76EQ6xxFd24ZJ4GKq8FOEX"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0RGZiQiPG2VHzEJ0fs7b7I"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "Heaven Again",
-        "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
-      },
-      "artists": [
-        {
-          "name": "Wurme",
-          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
-        },
-        {
-          "name": "Marc Rain",
-          "url": "https://open.spotify.com/artist/1acCVrk05rfolkBU3M6b7f"
-        },
-        {
-          "name": "Jetason",
-          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Heaven Again",
-      "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/2m0tPdS8lzYnZulyV0DoXB"
-      },
-      "artists": [
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/4OqJ2AncNhhIyI3oCBYktq"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "Just A Light",
-        "url": "https://open.spotify.com/album/2sljb35aW7JzbA1lboeIt5"
-      },
-      "artists": [
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 180620,
-      "name": "Just A Light",
-      "url": "https://open.spotify.com/track/3MGYhjCT2sQ8eWdj59TRk2"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
         "name": "Ashes (feat. Rory Hope)",
         "url": "https://open.spotify.com/album/666Rc8xfIRdhHk4eeQQc6X"
       },
@@ -2855,22 +2855,6 @@
       "duration_ms": 190400,
       "name": "Ashes (feat. Rory Hope)",
       "url": "https://open.spotify.com/track/6hSfQTINrgr3IFkr11rYgn"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "Make You Feel",
-        "url": "https://open.spotify.com/album/427R6OpWe7trKs2GYCIVJv"
-      },
-      "artists": [
-        {
-          "name": "Maddy O'Neal",
-          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Make You Feel",
-      "url": "https://open.spotify.com/track/67H5Yw5pIfyViVWBMems4V"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2895,50 +2879,18 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "Say It Like You Mean It (feat. Ridgely)",
-        "url": "https://open.spotify.com/album/1h1dauZNyr2eMj0nvr08Qk"
+        "name": "Make You Feel",
+        "url": "https://open.spotify.com/album/427R6OpWe7trKs2GYCIVJv"
       },
       "artists": [
         {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Ridgely",
-          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Say It Like You Mean It (feat. Ridgely)",
-      "url": "https://open.spotify.com/track/23IQCi0cYPApCxGN66VufO"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "Never Go Back",
-        "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Never Go Back",
-      "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
+      "duration_ms": 184800,
+      "name": "Make You Feel",
+      "url": "https://open.spotify.com/track/67H5Yw5pIfyViVWBMems4V"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2979,6 +2931,54 @@
       "duration_ms": 191142,
       "name": "No Chemicals",
       "url": "https://open.spotify.com/track/4mq0d3Ko5URwwvR4uh2T4H"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "Never Go Back",
+        "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Never Go Back",
+      "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "Say It Like You Mean It (feat. Ridgely)",
+        "url": "https://open.spotify.com/album/1h1dauZNyr2eMj0nvr08Qk"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Ridgely",
+          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Say It Like You Mean It (feat. Ridgely)",
+      "url": "https://open.spotify.com/track/23IQCi0cYPApCxGN66VufO"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -3047,6 +3047,22 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/4dno18wmZxZldvHiApenIa"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
         "name": "Good in Goodbye",
         "url": "https://open.spotify.com/album/1UlMDQn059Zho0E2dZXlyH"
       },
@@ -3063,22 +3079,6 @@
       "duration_ms": 180000,
       "name": "Good in Goodbye",
       "url": "https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/4dno18wmZxZldvHiApenIa"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"
     },
     {
       "added_at": "2024-10-04 19:07:00",

@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 45525,
+  "num_followers": 45562,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,26 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
+        "name": "Pipe Dreams",
+        "url": "https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Dahl Jeppesen",
+          "url": "https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX"
+        },
+        {
+          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
+          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
+        }
+      ],
+      "duration_ms": 290013,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 299640,
       "name": "Kakonita",
       "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
-        "name": "Pipe Dreams",
-        "url": "https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Dahl Jeppesen",
-          "url": "https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX"
-        },
-        {
-          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
-          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
-        }
-      ],
-      "duration_ms": 290013,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "The Ground",
-        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
+        "name": "The Night Is Dark (S\u00e5 m\u00f6rk \u00e4r natten i midvintertid)",
+        "url": "https://open.spotify.com/album/16zTmTftjL6ZZUnEMrMUs8"
       },
       "artists": [
         {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+          "name": "Jacob Karlzon",
+          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
         }
       ],
-      "duration_ms": 295866,
-      "name": "Twins",
-      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
+      "duration_ms": 122476,
+      "name": "The Night Is Dark (S\u00e5 m\u00f6rk \u00e4r natten i midvintertid)",
+      "url": "https://open.spotify.com/track/50p93UXPTkenZQ5pYUyftd"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "The Night Is Dark (S\u00e5 m\u00f6rk \u00e4r natten i midvintertid)",
-        "url": "https://open.spotify.com/album/16zTmTftjL6ZZUnEMrMUs8"
+        "name": "The Ground",
+        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
       },
       "artists": [
         {
-          "name": "Jacob Karlzon",
-          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
         }
       ],
-      "duration_ms": 122476,
-      "name": "The Night Is Dark (S\u00e5 m\u00f6rk \u00e4r natten i midvintertid)",
-      "url": "https://open.spotify.com/track/50p93UXPTkenZQ5pYUyftd"
+      "duration_ms": 295866,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -975,8 +975,8 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
-        "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
+        "name": "Gefion",
+        "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
       },
       "artists": [
         {
@@ -988,13 +988,13 @@
           "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
         },
         {
-          "name": "Joey Baron",
-          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
         }
       ],
-      "duration_ms": 514933,
-      "name": "Red Hook - Live At The Jazz Standard, New York / 2017",
-      "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
+      "duration_ms": 270586,
+      "name": "And They All Came Marching Out Of The Woods",
+      "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "Gefion",
-        "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
+        "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
+        "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
       },
       "artists": [
         {
@@ -1112,13 +1112,13 @@
           "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
         },
         {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+          "name": "Joey Baron",
+          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
         }
       ],
-      "duration_ms": 270586,
-      "name": "And They All Came Marching Out Of The Woods",
-      "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
+      "duration_ms": 514933,
+      "name": "Red Hook - Live At The Jazz Standard, New York / 2017",
+      "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "How Could It Be?",
-        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "How Could It Be?",
-      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
         "name": "One Kiss Too Many",
         "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 200344,
       "name": "Slaraffenland",
       "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
+        "name": "How Could It Be?",
+        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "How Could It Be?",
+      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1455,6 +1455,30 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
+        "name": "Being",
+        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+        }
+      ],
+      "duration_ms": 380306,
+      "name": "The Pondering",
+      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
       },
@@ -1495,30 +1519,6 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "Being",
-        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        },
-        {
-          "name": "Per Zanussi",
-          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
-        }
-      ],
-      "duration_ms": 380306,
-      "name": "The Pondering",
-      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
         "name": "Scandinavian Standards",
         "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
       },
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
+        "name": "Kinder Call",
+        "url": "https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z"
+      },
+      "artists": [
+        {
+          "name": "The Stoner",
+          "url": "https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Lena",
+      "url": "https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
         "name": "P\u00e5 havets bunn",
         "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 212600,
       "name": "P\u00e5 havets bunn",
       "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
-        "name": "Kinder Call",
-        "url": "https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z"
-      },
-      "artists": [
-        {
-          "name": "The Stoner",
-          "url": "https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Lena",
-      "url": "https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
+        "name": "Space Is the Place",
+        "url": "https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl, Arild Andersen, Jon Christensen",
+          "url": "https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Space Is the Place",
+      "url": "https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
         "name": "Sanctus",
         "url": "https://open.spotify.com/album/4bnFbID19CQHZDXyr61Qr9"
       },
@@ -1707,18 +1723,18 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "Space Is the Place",
-        "url": "https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK"
+        "name": "August",
+        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
       },
       "artists": [
         {
-          "name": "Carsten Dahl, Arild Andersen, Jon Christensen",
-          "url": "https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV"
+          "name": "Alexi Tuomarila",
+          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
         }
       ],
-      "duration_ms": 241120,
-      "name": "Space Is the Place",
-      "url": "https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD"
+      "duration_ms": 380789,
+      "name": "August",
+      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1735,22 +1751,6 @@
       "duration_ms": 323176,
       "name": "Fanfar",
       "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
-      },
-      "artists": [
-        {
-          "name": "Alexi Tuomarila",
-          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
-        }
-      ],
-      "duration_ms": 380789,
-      "name": "August",
-      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
     },
     {
       "added_at": "2024-10-18 07:10:53",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2024-10-18 07:10:53",
       "album": {
-        "name": "Jan Garbarek: Works",
-        "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
-      },
-      "artists": [
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Bobo Stenson Quartet",
-          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Svevende",
-      "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
-    },
-    {
-      "added_at": "2024-10-18 07:10:53",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/0pQQ091wlhGXqGzpdV6aW7"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 350720,
       "name": "Anten",
       "url": "https://open.spotify.com/track/1kTvRa6n1mCKUcyw9djisF"
+    },
+    {
+      "added_at": "2024-10-18 07:10:53",
+      "album": {
+        "name": "Jan Garbarek: Works",
+        "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
+      },
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Bobo Stenson Quartet",
+          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Svevende",
+      "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
     },
     {
       "added_at": "2024-10-18 07:10:53",

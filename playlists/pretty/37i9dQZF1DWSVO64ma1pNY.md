@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,211 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,239 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 18 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
 | 19 | [Testify](https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:30 |
 | 20 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
-| 21 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 |
-| 22 | [Face to the Floor](https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Hats Off to the Bull](https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV) | 3:38 |
+| 21 | [Face to the Floor](https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Hats Off to the Bull](https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV) | 3:38 |
+| 22 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 |
 | 23 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
 | 24 | [Slither](https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 4:08 |
 | 25 | [Help Is On The Way](https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:57 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 80 | [JOY](https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [JOY](https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG) | 3:46 |
 | 81 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 |
 | 82 | [Got It Bad](https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Got It Bad](https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz) | 2:58 |
-| 83 | [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 |
-| 84 | [Learn to Hate](https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 4:18 |
+| 83 | [Learn to Hate](https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 4:18 |
+| 84 | [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 |
 | 85 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 |
 | 86 | [Cry Wolf](https://open.spotify.com/track/2d1HZ8HtdvqI5oqt7gpnB8) | [Sundazer](https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ) | [Cry Wolf](https://open.spotify.com/album/2mSsjlndP7hegCkRi8udPm) | 4:24 |
 | 87 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 |
@@ -140,16 +140,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 130 | [Houses of American Style](https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:04 |
 | 131 | [Queen](https://open.spotify.com/track/6FoB7cNbQ28gsKhh24YI4I) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Queen](https://open.spotify.com/album/3ZTodB8gVsIWAzYb6znSl7) | 3:13 |
 | 132 | [Static King](https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Static King](https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa) | 3:37 |
-| 133 | [Nothing To Learn From](https://open.spotify.com/track/2FpLt3pwp8h9WygkC5XLci) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Your Own Becoming](https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS) | 4:01 |
+| 133 | [Chasing Highs](https://open.spotify.com/track/419Xf10sOGQlpOpPGPkRro) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Chasing Highs](https://open.spotify.com/album/1qW6kWWCHk5xKrzIbzaNav) | 3:10 |
 | 134 | [New](https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [New](https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn) | 3:00 |
-| 135 | [Chasing Highs](https://open.spotify.com/track/419Xf10sOGQlpOpPGPkRro) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Chasing Highs](https://open.spotify.com/album/1qW6kWWCHk5xKrzIbzaNav) | 3:10 |
-| 136 | [hi mute](https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [hi mute](https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD) | 2:44 |
+| 135 | [hi mute](https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [hi mute](https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD) | 2:44 |
+| 136 | [Nothing To Learn From](https://open.spotify.com/track/2FpLt3pwp8h9WygkC5XLci) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Your Own Becoming](https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS) | 4:01 |
 | 137 | [Voodoo Science](https://open.spotify.com/track/06krSNKYuVOzGxzwqsWegk) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Voodoo Science](https://open.spotify.com/album/0C83LlAVD0nAhM1wn5aGFS) | 3:09 |
 | 138 | [Torpedo](https://open.spotify.com/track/5a64Hp9Cihvn7EYvyUGEjl) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:44 |
 | 139 | [Mush](https://open.spotify.com/track/3vIBgMOO5BY8WfWZDfY0FO) | [Spare Parts For Broken Hearts](https://open.spotify.com/artist/2Ztv3nUtX0tMKHlOpLeGf5) | [Mush](https://open.spotify.com/album/0KN2WdevgSi8n8gkPKLPlg) | 3:40 |
 | 140 | [Sink Or Swim](https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11) | [Neighbourhood Void](https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu) | [Sink Or Swim](https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal) | 2:47 |
-| 141 | [Two Tone Marionette](https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Two Tone Marionette](https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm) | 4:41 |
-| 142 | [God Bless the 90s Kids](https://open.spotify.com/track/5nlbNEsFc9wPpQahvLV3oV) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless the 90s Kids](https://open.spotify.com/album/13jeOxNgl3ckEPywuVXvb1) | 3:23 |
+| 141 | [God Bless the 90s Kids](https://open.spotify.com/track/5nlbNEsFc9wPpQahvLV3oV) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [God Bless the 90s Kids](https://open.spotify.com/album/13jeOxNgl3ckEPywuVXvb1) | 3:23 |
+| 142 | [Two Tone Marionette](https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Two Tone Marionette](https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm) | 4:41 |
 | 143 | [bury me.](https://open.spotify.com/track/7IdjwIpuBjKePJr8erOepG) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [bury me.](https://open.spotify.com/album/0gjniTbXyqfgZoviud4RyC) | 3:51 |
 | 144 | [Morning Haze](https://open.spotify.com/track/6Ixw75JnL7dXLeSUyYkazE) | [Family Dinner](https://open.spotify.com/artist/7ztPkxDDDYp27ssoOB9sEj) | [Morning Haze](https://open.spotify.com/album/1E6rJFpTgage3sExihOADT) | 3:48 |
 | 145 | [Diver](https://open.spotify.com/track/2QpDWokW6TyVYsFk3ziUee) | [Ritual](https://open.spotify.com/artist/6gZppTVRTVJ4UA8jrA3qo4) | [Closing In](https://open.spotify.com/album/1qC4Fzan3iSEoBMjbg3oSe) | 2:15 |

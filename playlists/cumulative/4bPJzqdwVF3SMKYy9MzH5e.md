@@ -4,7 +4,7 @@
 
 > 
 
-2,002 songs - 4 day 11 hr 37 min
+2,006 songs - 4 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 | 2024-10-25 |  |
 | [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/1wNjj4mUpv35gY5CzUZCDb) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/53sxNSbg497jRQVaT0nynx) | 1:53 | 2024-10-06 | 2024-10-15 |
 | [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/21cgnjk9unhXn3SBQAAaA9) | [vamp](https://open.spotify.com/artist/19pNKzmfJyEVRpDd179sNP) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/52qrtveZ7LAWg0RO1J36A8) | 1:53 | 2024-09-02 | 2024-10-06 |
+| [3ISBÄR](https://open.spotify.com/track/3d9JNjZC5rIWLcd0knqvla) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [3ISBÄR](https://open.spotify.com/album/6K02nZ7YNOePwWQIBkFdhk) | 4:36 | 2024-10-30 |  |
 | [4 bit 9d api+e+6 \[126.26\]](https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:28 | 2022-02-18 |  |
 | [4 Morant](https://open.spotify.com/track/57jFUz9DgJDQXL8LbPWjR3) | [Grindol](https://open.spotify.com/artist/6YgR7mphFTyEB0mZDewlxG) | [4 Morant](https://open.spotify.com/album/1DT3lkFPzSy2slR11GBuiA) | 2:52 | 2022-11-11 |  |
 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 | 2021-08-05 |  |
@@ -191,6 +192,7 @@
 | [bad idea!](https://open.spotify.com/track/12fCqKoz3XXUgB5P8YWwOI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [chapter 2](https://open.spotify.com/album/7A8meGDqKo7DqqYgILTnUy) | 3:39 | 2021-08-05 |  |
 | [Bad Things](https://open.spotify.com/track/2NIilE0tYXjvQMY2jVfrnL) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:25 | 2022-04-26 |  |
 | [BAD!](https://open.spotify.com/track/22An65gG31JLf9n18qjdhZ) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:34 | 2021-08-05 |  |
+| [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-10-30 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2021-08-05 |  |
 | [Bakugo!](https://open.spotify.com/track/2IvdQFwO9U9EAMJGwEvOcK) | [KVMIL](https://open.spotify.com/artist/707fjmBoUjdkS5VOfrCNWn) | [Bakugo!](https://open.spotify.com/album/4qtYcT3KcIOzQiluRxmmsl) | 2:31 | 2021-08-05 |  |
 | [BALD!](https://open.spotify.com/track/3djWekEDgbhAtkXGdFNbFt) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EP!](https://open.spotify.com/album/1uULaqGNfDrWb8pxKcxB9i) | 2:33 | 2022-04-03 |  |
@@ -1614,6 +1616,7 @@
 | [South](https://open.spotify.com/track/1QGhOLLtC6tomE1ZdtKVHA) | [Funkin' Sound Team](https://open.spotify.com/artist/4fqDivs0BnIje4XZ10cF2d), [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Friday Night Funkin', Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/0FUY1iMeo3mzcbdsEZOIfV) | 1:28 | 2021-08-05 |  |
 | [SPACE GUIDE DANCING SILLY](https://open.spotify.com/track/1WSbblrq40gblEWhPIK05j) | [3mouth](https://open.spotify.com/artist/3SjzcIwL0TP49nXZx47RG7) | [Factory Sealed](https://open.spotify.com/album/3if9rCXAZ0zy5zObjDILjY) | 1:20 | 2023-05-17 |  |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2021-12-30 |  |
+| [SPIJKERBOM](https://open.spotify.com/track/3vK4A2BPFWDe4FatXwQhdN) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [SPIJKERBOM](https://open.spotify.com/album/1Xrv1azKd3OXiUjgm7BP5W) | 2:48 | 2024-10-30 |  |
 | [Spikes](https://open.spotify.com/track/11TpRtA1zMLeAPTLloNmG4) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Bottomless Pit](https://open.spotify.com/album/4dIPUQHheyH9e6ioplvNT2) | 3:05 | 2023-02-07 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2023-02-26 |  |
 | [Spit It Out](https://open.spotify.com/track/2yTnWN1R5j6grXC8YLf5mc) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot](https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU) | 2:39 | 2023-03-07 |  |
@@ -1961,6 +1964,7 @@
 | [Wrath](https://open.spotify.com/track/2vYXCfdckGiK2rwbyVyh6l) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 2:23 | 2021-12-30 |  |
 | [wtf](https://open.spotify.com/track/3OYSWIgKXiwjutuQ4NEk1b) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 1:12 | 2021-08-05 |  |
 | [WTF](https://open.spotify.com/track/7iZw6wgm7duXlA1uT5ACxF) | [Young Spool](https://open.spotify.com/artist/0yq8vmzSViFTXmrdPeWDrB), [Jakob](https://open.spotify.com/artist/28CcJl2mUKYXWpUhLGRqpd) | [WTF](https://open.spotify.com/album/7Fsnty3Gb788dnTXTxQCld) | 1:29 | 2021-08-05 |  |
+| [WTF Is Hardcore?](https://open.spotify.com/track/2wPZiBX5T9JVE4zSkNTUlO) | [Victor Krum](https://open.spotify.com/artist/7h7GP0dYKyRojU1lIt16QV) | [WTF Is Hardcore?](https://open.spotify.com/album/0gMypa6ITkmgk1fK5RvjpQ) | 4:05 | 2024-10-29 |  |
 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 | 2024-07-12 |  |
 | [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 | 2024-08-06 | 2024-08-16 |
 | [X](https://open.spotify.com/track/2W2QiVQs0TugOUUYWgnV8E) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:54 | 2022-11-03 |  |

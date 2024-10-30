@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,885 likes - 46 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,901 likes - 46 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 26 | [The Champion's Theme](https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:19 |
 | 27 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 |
 | 28 | [Theme from "Dying Young"](https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:02 |
-| 29 | [The Joy of Life](https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:20 |
-| 30 | [I'm in the Mood for Love](https://open.spotify.com/track/64wNfDYFufvc9pZqqLPMWW) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:02 |
+| 29 | [I'm in the Mood for Love](https://open.spotify.com/track/64wNfDYFufvc9pZqqLPMWW) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:02 |
+| 30 | [The Joy of Life](https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:20 |
 | 31 | [Mi manchi](https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE) | [Fabrizio Berlincioni](https://open.spotify.com/artist/7EI7G45KH76Fdywj5JhX0h), [Gianfranco Fasano](https://open.spotify.com/artist/5hTXF4Di7MKw9UeTIBE52A), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Amore \(Remastered\)](https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ) | 3:34 |
 | 32 | [Everytime I Close My Eyes \(with Babyface\)](https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 4:58 |
 | 33 | [Songbird](https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1) | 5:03 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 45 | [The Look Of Love](https://open.spotify.com/track/3k9Yi9FsAUrpOVTgyQOIDa) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 5:15 |
 | 46 | [The Girl from Ipanema \(feat\. Bebel Gilberto\)](https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Classics In The Key Of G](https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh) | 4:05 |
 
-Snapshot ID: `Zx2CgAAAAADwql4lia6nKoH6czwHhv+w`
+Snapshot ID: `Zx7UAAAAAABBgDk/wT86YBeqTYCIH8TX`

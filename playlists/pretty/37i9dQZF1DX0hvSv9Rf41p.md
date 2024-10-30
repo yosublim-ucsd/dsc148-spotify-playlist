@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a>  🚀🚀 with Rezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,411 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,439 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 35 | [Nobody Else](https://open.spotify.com/track/6IV8mJMXlVrMJtUDXMfsUy) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Nobody Else](https://open.spotify.com/album/2Mhs50XjVDkcVHswlJo7dn) | 3:48 |
 | 36 | [DESIRE](https://open.spotify.com/track/0Q6anwF475lzsu49bkawKi) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [EMSKI](https://open.spotify.com/artist/3UqDUfl2fG8ygrFRlgHVZK) | [DESIRE / LOOK@ME](https://open.spotify.com/album/52r1SK4TQpxM9xbeGfeghU) | 4:15 |
 | 37 | [Honest](https://open.spotify.com/track/0RRjUxwGkevQ2Tbg0UFcYn) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Honest](https://open.spotify.com/album/5DHsVZL9oM9aNwCAfpSMRZ) | 3:11 |
-| 38 | [Revival](https://open.spotify.com/track/34fP85Y5eJYIGMjjb7V8t9) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Revival](https://open.spotify.com/album/7BpL0bDWem3UNj1J5kASmL) | 3:51 |
+| 38 | [Revival](https://open.spotify.com/track/34fP85Y5eJYIGMjjb7V8t9) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Revival](https://open.spotify.com/album/7BpL0bDWem3UNj1J5kASmL) | 3:40 |
 | 39 | [STRATOSPHERE](https://open.spotify.com/track/3B5XMQi9y9GjRODZhOUfE5) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [STRATOSPHERE](https://open.spotify.com/album/4m3ldQAHJvqyZ2NBABw9oe) | 3:18 |
 | 40 | [Noisy Boys](https://open.spotify.com/track/3JCckl9tjLZnfjguaxyckw) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP), [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Noisy Boys](https://open.spotify.com/album/5lxwsxClvVt8C4XOxtTGjV) | 3:15 |
 | 41 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |

@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 4442,
+  "num_followers": 4448,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-10-11 17:39:22",
       "album": {
-        "name": "Honey Wangu",
-        "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        }
-      ],
-      "duration_ms": 239972,
-      "name": "Honey Wangu",
-      "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
-    },
-    {
-      "added_at": "2024-10-11 17:39:22",
-      "album": {
         "name": "Kupendwa Raha",
         "url": "https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 304986,
       "name": "Kupendwa Raha",
       "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
+    },
+    {
+      "added_at": "2024-10-11 17:39:22",
+      "album": {
+        "name": "Honey Wangu",
+        "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        }
+      ],
+      "duration_ms": 239972,
+      "name": "Honey Wangu",
+      "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
     },
     {
       "added_at": "2024-10-11 17:39:22",
@@ -851,22 +851,18 @@
     {
       "added_at": "2024-10-11 17:39:22",
       "album": {
-        "name": "Viburi",
-        "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
+        "name": "Kizimkazi",
+        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
       },
       "artists": [
         {
           "name": "Sholo Mwamba",
           "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        },
-        {
-          "name": "Chief Becka",
-          "url": "https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6"
         }
       ],
-      "duration_ms": 201967,
-      "name": "Viburi",
-      "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
+      "duration_ms": 233226,
+      "name": "Kizimkazi",
+      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
     },
     {
       "added_at": "2024-10-11 17:39:22",
@@ -943,26 +939,6 @@
     {
       "added_at": "2024-10-11 17:39:22",
       "album": {
-        "name": "Singeli Ya Maajabu",
-        "url": "https://open.spotify.com/album/4J3s9s0ZCieNsS37YPuy8D"
-      },
-      "artists": [
-        {
-          "name": "Sisso",
-          "url": "https://open.spotify.com/artist/6BWyGUePvj6U4znsi9P5Nt"
-        },
-        {
-          "name": "Maiko",
-          "url": "https://open.spotify.com/artist/07VyN42j1CZDe8qkBhEkMT"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "Rusha",
-      "url": "https://open.spotify.com/track/58d1RcAy8PTw4KiI0nejU9"
-    },
-    {
-      "added_at": "2024-10-11 17:39:22",
-      "album": {
         "name": "Kua Uone",
         "url": "https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs"
       },
@@ -1003,6 +979,26 @@
     {
       "added_at": "2024-10-11 17:39:22",
       "album": {
+        "name": "Singeli Ya Maajabu",
+        "url": "https://open.spotify.com/album/4J3s9s0ZCieNsS37YPuy8D"
+      },
+      "artists": [
+        {
+          "name": "Sisso",
+          "url": "https://open.spotify.com/artist/6BWyGUePvj6U4znsi9P5Nt"
+        },
+        {
+          "name": "Maiko",
+          "url": "https://open.spotify.com/artist/07VyN42j1CZDe8qkBhEkMT"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "Rusha",
+      "url": "https://open.spotify.com/track/58d1RcAy8PTw4KiI0nejU9"
+    },
+    {
+      "added_at": "2024-10-11 17:39:22",
+      "album": {
         "name": "Mama Samia",
         "url": "https://open.spotify.com/album/0XN125dECgTZxpcDG1XoNk"
       },
@@ -1039,18 +1035,22 @@
     {
       "added_at": "2024-10-11 17:39:22",
       "album": {
-        "name": "Kizimkazi",
-        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
+        "name": "Viburi",
+        "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
       },
       "artists": [
         {
           "name": "Sholo Mwamba",
           "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        },
+        {
+          "name": "Chief Becka",
+          "url": "https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6"
         }
       ],
-      "duration_ms": 233226,
-      "name": "Kizimkazi",
-      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
+      "duration_ms": 201967,
+      "name": "Viburi",
+      "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
     },
     {
       "added_at": "2024-10-11 17:39:22",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-11 17:39:22",
       "album": {
-        "name": "Nimekuona Wewe",
-        "url": "https://open.spotify.com/album/5I6OqXRV878FRPHrVcWJho"
-      },
-      "artists": [
-        {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
-        }
-      ],
-      "duration_ms": 286405,
-      "name": "Nimekuona Wewe",
-      "url": "https://open.spotify.com/track/5PBSEww6tZGRO2rw4pxIJI"
-    },
-    {
-      "added_at": "2024-10-11 17:39:22",
-      "album": {
         "name": "Singeli City",
         "url": "https://open.spotify.com/album/77xUcw8p31U9tdB6cjJ7vt"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 219350,
       "name": "Ofisi Yangu",
       "url": "https://open.spotify.com/track/0arYg5tM4QXUrqXzYGWg86"
+    },
+    {
+      "added_at": "2024-10-11 17:39:22",
+      "album": {
+        "name": "Nimekuona Wewe",
+        "url": "https://open.spotify.com/album/5I6OqXRV878FRPHrVcWJho"
+      },
+      "artists": [
+        {
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+        }
+      ],
+      "duration_ms": 286405,
+      "name": "Nimekuona Wewe",
+      "url": "https://open.spotify.com/track/5PBSEww6tZGRO2rw4pxIJI"
     },
     {
       "added_at": "2024-10-11 17:39:22",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-10-11 17:39:22",
       "album": {
+        "name": "Kwetu",
+        "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
+      },
+      "artists": [
+        {
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "Kwetu",
+      "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
+    },
+    {
+      "added_at": "2024-10-11 17:39:22",
+      "album": {
         "name": "Kuchi Kuchi",
         "url": "https://open.spotify.com/album/43svCQme17PS5C9uI9kT0w"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 264879,
       "name": "Kuchi Kuchi",
       "url": "https://open.spotify.com/track/1EVlvQwykbaVyJubmEo5bM"
-    },
-    {
-      "added_at": "2024-10-11 17:39:22",
-      "album": {
-        "name": "Kwetu",
-        "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
-      },
-      "artists": [
-        {
-          "name": "Kadilida",
-          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "Kwetu",
-      "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
     }
   ],
   "unique_name": "Singeli Sounds",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > gigi perez on repeat obviously
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,552 likes - 111 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,605 likes - 111 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

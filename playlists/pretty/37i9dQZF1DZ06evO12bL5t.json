@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 127296,
+  "num_followers": 127324,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAADCPPPpI+HR2XyKzPMSJPNw",
+  "snapshot_id": "Zx7UAAAAAABorDwLrtewJCdALEuKE2cj",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donde Andaban",
         "url": "https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 219562,
       "name": "Donde Andaban",
       "url": "https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 198461,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 162339,
+  "num_followers": 162409,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 198935,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "Riders on the Storm",
         "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 226389,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 198935,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
-      },
-      "artists": [
-        {
-          "name": "Greta Panettieri",
-          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
-        }
-      ],
-      "duration_ms": 368551,
-      "name": "Goodbye Stranger",
-      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 192854,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
+      },
+      "artists": [
+        {
+          "name": "Greta Panettieri",
+          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
+        }
+      ],
+      "duration_ms": 368551,
+      "name": "Goodbye Stranger",
+      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 206004,
-      "name": "Don't Need The Real Thing",
-      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 283893,
       "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
       "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 206004,
+      "name": "Don't Need The Real Thing",
+      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
-      },
-      "artists": [
-        {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
-        }
-      ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Little Songs",
         "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
       },
@@ -979,22 +963,18 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Song Like Ours",
-        "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
       "artists": [
         {
-          "name": "Jazzy D",
-          "url": "https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR"
-        },
-        {
-          "name": "Angela Gooden",
-          "url": "https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm"
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
         }
       ],
-      "duration_ms": 298549,
-      "name": "Song Like Ours",
-      "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1031,18 +1011,38 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
+        "name": "Song Like Ours",
+        "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
       },
       "artists": [
         {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+          "name": "Jazzy D",
+          "url": "https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR"
+        },
+        {
+          "name": "Angela Gooden",
+          "url": "https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm"
         }
       ],
-      "duration_ms": 246423,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+      "duration_ms": 298549,
+      "name": "Song Like Ours",
+      "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Okay Far Away",
+      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1059,6 +1059,38 @@
       "duration_ms": 252261,
       "name": "Chamomile Tea",
       "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
+      },
+      "artists": [
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 246423,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "When The Stars Align",
+        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
+      },
+      "artists": [
+        {
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "When The Stars Align",
+      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1119,22 +1151,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Okay Far Away",
-      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Sugilite",
         "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 278961,
       "name": "Sugilite",
       "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "When The Stars Align",
-        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "When The Stars Align",
-      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "The Road Is Narrow",
+        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+      },
+      "artists": [
+        {
+          "name": "Jecca",
+          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "the road is narrow",
+      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "Collusion",
         "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 267302,
       "name": "Let's Go to Bed",
       "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "The Road Is Narrow",
-        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
-      },
-      "artists": [
-        {
-          "name": "Jecca",
-          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "the road is narrow",
-      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "forever",
-        "url": "https://open.spotify.com/album/3YNCXsidsTFYglcWYLIZLh"
-      },
-      "artists": [
-        {
-          "name": "Jol!e",
-          "url": "https://open.spotify.com/artist/4PtqczgLjMiM0hO0zUQqkq"
-        }
-      ],
-      "duration_ms": 219902,
-      "name": "forever",
-      "url": "https://open.spotify.com/track/5XHkF1XgwokzNEr7t3DWaY"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Snowflakes",
         "url": "https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 224400,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "forever",
+        "url": "https://open.spotify.com/album/3YNCXsidsTFYglcWYLIZLh"
+      },
+      "artists": [
+        {
+          "name": "Jol!e",
+          "url": "https://open.spotify.com/artist/4PtqczgLjMiM0hO0zUQqkq"
+        }
+      ],
+      "duration_ms": 219902,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/5XHkF1XgwokzNEr7t3DWaY"
     },
     {
       "added_at": "2024-09-18 05:02:09",

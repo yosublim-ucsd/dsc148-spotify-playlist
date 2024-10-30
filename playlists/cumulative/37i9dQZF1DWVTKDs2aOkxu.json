@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Crocodile Tears",
+        "url": "https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mayberry",
+          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203766,
+      "name": "Crocodile Tears",
+      "url": "https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj"
+    },
+    {
+      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
       },

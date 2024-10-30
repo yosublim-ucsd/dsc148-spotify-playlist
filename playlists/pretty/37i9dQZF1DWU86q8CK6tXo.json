@@ -1,6 +1,6 @@
 {
   "description": "Celebrating our EQUAL ambassador Cher and her favorite female voices at the top of our list!",
-  "num_followers": 59693,
+  "num_followers": 59691,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "Hollon",
-        "url": "https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D"
+        "name": "What's Love Got to Do with It?",
+        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 128858,
-      "name": "HOLLON",
-      "url": "https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM"
+      "duration_ms": 327400,
+      "name": "Proud Mary",
+      "url": "https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "What's Love Got to Do with It?",
-        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
+        "name": "Hollon",
+        "url": "https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D"
       },
       "artists": [
         {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 327400,
-      "name": "Proud Mary",
-      "url": "https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x"
+      "duration_ms": 128858,
+      "name": "HOLLON",
+      "url": "https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "BI",
-        "url": "https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "BI",
-      "url": "https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
         "name": "Private Dancer (30th Anniversary Issue)",
         "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 434373,
       "name": "Private Dancer - 2015 Remaster",
       "url": "https://open.spotify.com/track/5JjdJK0uGRUk4skRTuQdUZ"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "BI",
+        "url": "https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "BI",
+      "url": "https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 227441,
+      "name": "August",
+      "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
         "name": "Driver",
         "url": "https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 212266,
       "name": "Inconsolable",
       "url": "https://open.spotify.com/track/2iF3DCqqC0tUzaqJp4EQ93"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ"
-      },
-      "artists": [
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
-        }
-      ],
-      "duration_ms": 227441,
-      "name": "August",
-      "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "Anything For You",
-        "url": "https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 264889,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/1Dd74K8QIBvDUb1QdHwYtu"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 217441,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/0DoAoxKQmd4sKnY1p2EAyC"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 264889,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "Kiss My (Ah)",
-        "url": "https://open.spotify.com/album/4LtELtq7yXRdE5A8jNIef0"
-      },
-      "artists": [
-        {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
-        }
-      ],
-      "duration_ms": 138549,
-      "name": "Kiss My (Ah)",
-      "url": "https://open.spotify.com/track/5zgyVeHTCXBnLGI3xRvb0s"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/5sqwDUiuPv5Sdyc1F0WRR6"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 172883,
       "name": "Once",
       "url": "https://open.spotify.com/track/5uhQXkZanADlKhiU3qBkHq"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "Kiss My (Ah)",
+        "url": "https://open.spotify.com/album/4LtELtq7yXRdE5A8jNIef0"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 138549,
+      "name": "Kiss My (Ah)",
+      "url": "https://open.spotify.com/track/5zgyVeHTCXBnLGI3xRvb0s"
     },
     {
       "added_at": "2024-10-01 04:00:00",

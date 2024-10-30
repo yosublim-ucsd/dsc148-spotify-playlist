@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1065744,
+  "num_followers": 1065725,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Never There",
-        "url": "https://open.spotify.com/album/4jLUI8wca9SKgdzR693lu6"
-      },
-      "artists": [
-        {
-          "name": "Unified Highway",
-          "url": "https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI"
-        }
-      ],
-      "duration_ms": 174131,
-      "name": "Never There",
-      "url": "https://open.spotify.com/track/03qH3siU1DPNz0jOOkuK9C"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "River Guide You",
         "url": "https://open.spotify.com/album/2Ff5jcRSKQmxECSQSgsDZm"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Never There",
+        "url": "https://open.spotify.com/album/4jLUI8wca9SKgdzR693lu6"
+      },
+      "artists": [
+        {
+          "name": "Unified Highway",
+          "url": "https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI"
+        }
+      ],
+      "duration_ms": 174131,
+      "name": "Never There",
+      "url": "https://open.spotify.com/track/03qH3siU1DPNz0jOOkuK9C"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Open The Door",
-        "url": "https://open.spotify.com/album/4hyuyhzLfqaEYOwwJ09Odb"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 192492,
-      "name": "Open The Door",
-      "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Early Prayers",
         "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
       },
@@ -1191,22 +1171,6 @@
       "duration_ms": 166400,
       "name": "Bad Seeds",
       "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Noon",
-        "url": "https://open.spotify.com/album/1rwkJG8Fx6r2bA0ZFc4FYU"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 167721,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/0xqKiPNtARmiviseWIQj2z"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1227,6 +1191,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Noon",
+        "url": "https://open.spotify.com/album/1rwkJG8Fx6r2bA0ZFc4FYU"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 167721,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0xqKiPNtARmiviseWIQj2z"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Put Down What You Are Carrying (with Brett Dennen)",
         "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 268006,
       "name": "Put Down What You Are Carrying (with Brett Dennen)",
       "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Open The Door",
+        "url": "https://open.spotify.com/album/4hyuyhzLfqaEYOwwJ09Odb"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 192492,
+      "name": "Open The Door",
+      "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 203672,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Where I'm Going",
         "url": "https://open.spotify.com/album/6lRVMQtYKpkMIeitaxqFQS"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 228000,
       "name": "Where I'm Going",
       "url": "https://open.spotify.com/track/38r2iSNTTK1hsBdrLXAY8I"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 203672,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1507,26 +1507,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "I Fall in Love Too Easily (with The Elovaters) [Reggae Remix]",
-        "url": "https://open.spotify.com/album/1kXZ59UugA3KIt8jMuDTL8"
+        "name": "Inner Love Energy",
+        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
       },
       "artists": [
         {
-          "name": "Emily Brimlow",
-          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
-        {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
         }
       ],
-      "duration_ms": 245063,
-      "name": "I Fall in Love Too Easily (with The Elovaters) - Reggae Remix",
-      "url": "https://open.spotify.com/track/7Ej86ZIZqCqOOvddpaySZK"
+      "duration_ms": 219598,
+      "name": "I'm Rich",
+      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1551,18 +1543,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+        "name": "I Fall in Love Too Easily (with The Elovaters) [Reggae Remix]",
+        "url": "https://open.spotify.com/album/1kXZ59UugA3KIt8jMuDTL8"
       },
       "artists": [
         {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+          "name": "Emily Brimlow",
+          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
         }
       ],
-      "duration_ms": 219598,
-      "name": "I'm Rich",
-      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
+      "duration_ms": 245063,
+      "name": "I Fall in Love Too Easily (with The Elovaters) - Reggae Remix",
+      "url": "https://open.spotify.com/track/7Ej86ZIZqCqOOvddpaySZK"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2599,6 +2599,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Headline",
+        "url": "https://open.spotify.com/album/48BSZ9gRwOzUVi6gvkERDb"
+      },
+      "artists": [
+        {
+          "name": "Unified Highway",
+          "url": "https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI"
+        }
+      ],
+      "duration_ms": 203904,
+      "name": "Headline",
+      "url": "https://open.spotify.com/track/3FnBOGtgQCqTbS5lyfNGmW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Lyrics Over Everything",
         "url": "https://open.spotify.com/album/7gM4CRNo8rsvePfPTzuCDd"
       },
@@ -2615,22 +2631,6 @@
       "duration_ms": 206277,
       "name": "Lyrics Over Everything",
       "url": "https://open.spotify.com/track/0bMyuvNOVCXvRA4ePDKgnR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Headline",
-        "url": "https://open.spotify.com/album/48BSZ9gRwOzUVi6gvkERDb"
-      },
-      "artists": [
-        {
-          "name": "Unified Highway",
-          "url": "https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI"
-        }
-      ],
-      "duration_ms": 203904,
-      "name": "Headline",
-      "url": "https://open.spotify.com/track/3FnBOGtgQCqTbS5lyfNGmW"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2691,6 +2691,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Not The End",
+        "url": "https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR"
+      },
+      "artists": [
+        {
+          "name": "4th & Orange",
+          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Not The End",
+      "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Mamacita",
         "url": "https://open.spotify.com/album/5sYSYnfuj6PYzd6vZx9WRb"
       },
@@ -2707,22 +2723,6 @@
       "duration_ms": 209895,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/4iPn44FdAHhas8uNaoJNmR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Not The End",
-        "url": "https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR"
-      },
-      "artists": [
-        {
-          "name": "4th & Orange",
-          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Not The End",
-      "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
     },
     {
       "added_at": "2024-07-26 04:00:00",

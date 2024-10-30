@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ziQH0F90kL.md) - [plain]
 
 > Hoy es noche de...
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,869 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,972 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ziQH0F90kL.md) - [plain]
 | 82 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco Por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 |
 | 83 | [Nos Comemos Vivos](https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 3:45 |
 | 84 | [Sigues Con El \- Remix](https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sigues Con El \(Remix\)](https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM) | 3:09 |
-| 85 | [Desnudarte](https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desnudarte](https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV) | 4:22 |
-| 86 | [Que Duro](https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:24 |
+| 85 | [Que Duro](https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:24 |
+| 86 | [Desnudarte](https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desnudarte](https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV) | 4:22 |
 | 87 | [Niña Santa](https://open.spotify.com/track/6Nbzfm117HI6ImAuv2zrth) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [ÑEROSTARS](https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU) | 2:52 |
 | 88 | [Esta Dejá](https://open.spotify.com/track/3rP4fbwWIAxRqay8ozCvhu) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:01 |
 | 89 | [Maléfica](https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 3:03 |

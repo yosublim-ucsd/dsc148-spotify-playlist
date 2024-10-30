@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,693 songs - 4 day 19 hr 58 min
+1,694 songs - 4 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1102,7 +1102,7 @@
 | [On My Way Up](https://open.spotify.com/track/2JViNGfwCV8wdoJn0kRWOH) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [On My Way Up](https://open.spotify.com/album/0C7s5jlJsgQhGOEthEaogL) | 3:16 | 2020-05-18 | 2020-07-03 |
 | [On the Beach \- Short Edit](https://open.spotify.com/track/0psrSwsDcH2R2xzMSO4wxo) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [On the Beach](https://open.spotify.com/album/4rntQwFlC83iKJ6uQaC2eI) | 3:30 | 2020-05-22 | 2020-07-03 |
 | [On Your Mind](https://open.spotify.com/track/3aK1KXKA07ZQ0Nwzhf88ia) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Ninjawerks \(Vol.1\)](https://open.spotify.com/album/2ndLlrpXSt6w43yBnFuelU) | 5:20 | 2020-03-20 | 2020-07-18 |
-| [On Your Own](https://open.spotify.com/track/2u3dlQQNGTBSz0KbFPXUEh) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Ardy](https://open.spotify.com/artist/6hxTTCS7N8rEepNwyucflx) | [On Your Own](https://open.spotify.com/album/7HLS3UbpiqdHGTduyvveVf) | 3:58 | 2024-09-06 |  |
+| [On Your Own](https://open.spotify.com/track/2u3dlQQNGTBSz0KbFPXUEh) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Ardy](https://open.spotify.com/artist/6hxTTCS7N8rEepNwyucflx) | [On Your Own](https://open.spotify.com/album/7HLS3UbpiqdHGTduyvveVf) | 3:58 | 2024-09-06 | 2024-10-30 |
 | [On Your Own \(feat\. Elderbrook\)](https://open.spotify.com/track/256Ew29R9ESFknfVXuJvSC) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:43 | 2022-08-26 | 2022-09-10 |
 | [One By One](https://open.spotify.com/track/4KWbK1q4wxaLRykcpy6tHK) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:00 | 2022-07-01 | 2022-10-13 |
 | [One By One \(feat\. Elderbrook & Andhim\)](https://open.spotify.com/track/3053QmnOijQFGshvpAikky) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [One By One \(feat\. Elderbrook & Andhim\)](https://open.spotify.com/album/4gbp4gRykVbPsJm61qu6Tn) | 3:00 | 2021-05-03 | 2022-07-29 |
@@ -1668,6 +1668,7 @@
 | [World Service](https://open.spotify.com/track/16jB52ZnmWVTcov6r4dTIO) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB), [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp) | [Gilligan Moss](https://open.spotify.com/album/5wuxthfn38zXXuN8RlzOy9) | 3:37 | 2022-08-26 | 2022-09-10 |
 | [World Turns Grey \(feat\. Princess Chelsea\)](https://open.spotify.com/track/7MOTWBAHHzaEU31Bn7iXwQ) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [HEYHEY](https://open.spotify.com/artist/24BPgqZQVZlbduy3mHRUug), [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:52 | 2020-05-22 | 2020-07-03 |
 | [Worry No More \- Keys N Krates Remix](https://open.spotify.com/track/0PPkM1Ac9F4vWnQ9EDhKdw) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [California \(Remixes\)](https://open.spotify.com/album/0FqD9xz3v4GONpHk1klMYc) | 3:12 | 2020-05-18 | 2020-07-18 |
+| [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 | 2024-10-25 |  |
 | [worthy](https://open.spotify.com/track/18mdufP92X6lM5qwEXdiA5) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [worthy / lift me from the ground](https://open.spotify.com/album/3BIUqvrdo2lSMJblnQOoJF) | 4:59 | 2020-05-18 | 2020-07-03 |
 | [Would You](https://open.spotify.com/track/0O1AS0YY1abFpXYNfAE81n) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Would You](https://open.spotify.com/album/0pjxmdAPyaqh8uHhKVoDhc) | 2:26 | 2022-07-22 | 2022-09-24 |
 | [Woza](https://open.spotify.com/track/4GwGt8X3xWCq8qzu5F1126) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Linos Rosetta](https://open.spotify.com/artist/6xw7X7OPtVBwDZhFSbVMWO) | [Woza](https://open.spotify.com/album/0BKzS7GdsxwJ5m4dLwZMbg) | 4:19 | 2021-10-15 | 2022-07-28 |

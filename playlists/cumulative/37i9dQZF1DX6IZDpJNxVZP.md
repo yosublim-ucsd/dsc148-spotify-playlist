@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-245 songs - 10 hr 55 min
+246 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Grim Grinning Ghosts \- From "The Haunted Mansion"](https://open.spotify.com/track/6PDomgzbyDHx0pxJwWQ5HI) | [The Melomen](https://open.spotify.com/artist/2Zdiv6y6Bd0GpdlEtvXzVB), [Paul Frees](https://open.spotify.com/artist/4O7CH489gsT4ZDJNL98Eqk), [Betty Taylor](https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1), [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL), [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 5:32 | 2021-09-10 |  |
 | [Hallo Hallo Halloween](https://open.spotify.com/track/7q9lXbpoaUcml6XnlelZhF) | [Lucy Kalantari & the Jazz Cats](https://open.spotify.com/artist/6WkbYGc8Fyh56mAdlLb6g8) | [Hallo Hallo Halloween](https://open.spotify.com/album/2sfdJ8STL44UnED1yLE1R3) | 2:12 | 2024-09-20 |  |
 | [Halloveen](https://open.spotify.com/track/16lPkyM9Nc19BbQluNUks2) | [Little Ditto](https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38) | [Halloveen](https://open.spotify.com/album/5xRCtJR7mVVKbNuqSEMmoy) | 1:56 | 2021-09-17 | 2024-10-06 |
-| [Halloween](https://open.spotify.com/track/3etvwGs35IThzIBQ64RHap) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Militia Vox](https://open.spotify.com/artist/5nJlpeYsiIos5ymSqrMEpA) | [Halloween](https://open.spotify.com/album/7JcCk2d7OaWflzoS7194VP) | 2:55 | 2024-09-20 |  |
+| [Halloween](https://open.spotify.com/track/3etvwGs35IThzIBQ64RHap) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Militia Vox](https://open.spotify.com/artist/5nJlpeYsiIos5ymSqrMEpA) | [Halloween](https://open.spotify.com/album/7JcCk2d7OaWflzoS7194VP) | 2:55 | 2024-09-20 | 2024-10-30 |
 | [Halloween](https://open.spotify.com/track/4CSaUDwbyd7xExCTQKnLqg) | [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY), [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8) | [Kids Trap Halloween](https://open.spotify.com/album/1SvE2Pv0JQMItbr34MS0La) | 1:44 | 2021-09-10 | 2024-09-21 |
 | [Halloween](https://open.spotify.com/track/4jn1EEJFB6R5tjBPFRSNOK) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Halloween](https://open.spotify.com/album/1JJvFooOJDfSifLeLlocSN) | 2:27 | 2021-09-10 | 2024-09-21 |
 | [Halloween at School](https://open.spotify.com/track/5PqCCOKBN8JVtF2tqoHD8N) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 3:30 | 2022-10-11 | 2024-10-09 |
@@ -81,6 +81,7 @@
 | [Halloween Night](https://open.spotify.com/track/7FRaszW7wMNkVwZztGansN) | [Little Blue Globe Band](https://open.spotify.com/artist/4kajLiIKFFPxfQdtCgYuOq) | [Halloween Night](https://open.spotify.com/album/1nLJKyLcltqRpexKUN43tz) | 2:17 | 2022-10-11 | 2023-10-03 |
 | [Halloween Night](https://open.spotify.com/track/10HzJHG4qFRAcxxQWOAlTg) | [Little Blue Globe Band](https://open.spotify.com/artist/4kajLiIKFFPxfQdtCgYuOq) | [Halloween Night](https://open.spotify.com/album/6wRmojz3wzGxq6nbbntwZS) | 2:18 | 2021-09-10 | 2022-10-19 |
 | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/track/5Y7G0aWQ1Um9VyMQFOty1I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/album/3jojeJFmhtogkLitNNOSoN) | 3:11 | 2021-09-10 | 2024-09-21 |
+| [Halloween Parade \(Spooky Version\)](https://open.spotify.com/track/18BPmfsyok7hkZNIjLYybt) | [SteveSongs](https://open.spotify.com/artist/1M85r8fn8TM2VSXv3YGJRJ) | [Halloween Parade \(Spooky Version\)](https://open.spotify.com/album/7yCAgqhdiajCiPqulbHWnm) | 3:06 | 2024-10-25 |  |
 | [Halloween Party](https://open.spotify.com/track/3slFq8eyDLgZa415zxHPrV) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Halloween Party](https://open.spotify.com/album/4LQzv1AK9H01DWlrgq1oOv) | 2:14 | 2021-10-04 | 2024-04-19 |
 | [Halloween Party](https://open.spotify.com/track/7iqijTBAtZidxC3teIrGK9) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Halloween Party](https://open.spotify.com/album/4TNubeWlW4FPG1hXRRzVxo) | 2:14 | 2021-10-04 | 2024-09-21 |
 | [Halloween Rules](https://open.spotify.com/track/22MrUsCoZsypVksOdgGBtJ) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:40 | 2021-09-10 | 2024-09-21 |

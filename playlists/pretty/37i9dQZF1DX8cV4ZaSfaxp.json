@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 56034,
+  "num_followers": 56054,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Pier",
+        "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 174624,
+      "name": "Pier",
+      "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 191706,
       "name": "Shining Love Song",
       "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Pier",
-        "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 174624,
-      "name": "Pier",
-      "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Dive in Love",
-        "url": "https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7"
-      },
-      "artists": [
-        {
-          "name": "Taeha",
-          "url": "https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw"
-        }
-      ],
-      "duration_ms": 219416,
-      "name": "Dive in Love",
-      "url": "https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
       },
@@ -1215,22 +1199,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "EGO 90'S PART 3",
-        "url": "https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ"
+        "name": "Dive in Love",
+        "url": "https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7"
       },
       "artists": [
         {
-          "name": "Babylon",
-          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
-        },
-        {
-          "name": "Jisun",
-          "url": "https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0"
+          "name": "Taeha",
+          "url": "https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw"
         }
       ],
-      "duration_ms": 220230,
-      "name": "City Night (feat. Jisun)",
-      "url": "https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J"
+      "duration_ms": 219416,
+      "name": "Dive in Love",
+      "url": "https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1247,6 +1227,26 @@
       "duration_ms": 226894,
       "name": "LOL (LOUDNESS OF LOVE)",
       "url": "https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "EGO 90'S PART 3",
+        "url": "https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ"
+      },
+      "artists": [
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        },
+        {
+          "name": "Jisun",
+          "url": "https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0"
+        }
+      ],
+      "duration_ms": 220230,
+      "name": "City Night (feat. Jisun)",
+      "url": "https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "MINI",
+        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
+      },
+      "artists": [
+        {
+          "name": "LIM JIMIN",
+          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/3zr4mIqRlBEh17j5w7hm1t"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 212750,
       "name": "Midnight (feat. SFC.JGR & B JYUN.)",
       "url": "https://open.spotify.com/track/3LYOTfdF9jyJXVcLvhZ8nz"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "MINI",
-        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
-      },
-      "artists": [
-        {
-          "name": "LIM JIMIN",
-          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Loveholic",
-      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
     },
     {
       "added_at": "2024-09-30 08:00:00",

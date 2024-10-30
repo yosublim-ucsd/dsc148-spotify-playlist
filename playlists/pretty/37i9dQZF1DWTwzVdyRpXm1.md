@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Darshan Raval
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,843 likes - 130 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,061 likes - 130 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 44 | [Jaanam \(From "Bad Newz"\)](https://open.spotify.com/track/6ND2THVLeOyEyS8uxwBwil) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Jaanam \(From "Bad Newz"\)](https://open.spotify.com/album/1SXDNeossrZYyo214RAJF6) | 3:18 |
 | 45 | [Ayudha Pooja \[TELUGU\]](https://open.spotify.com/track/5Pqv6e52EWyqxeNyFYqDni) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Devara Part 1 \[TELUGU\]](https://open.spotify.com/album/7ixEMlvfmqKqb7yJjB7Chk) | 2:54 |
 | 46 | [Agar Tum Saath Ho \(From "Tamasha"\)](https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Forever With Arijit Singh](https://open.spotify.com/album/5Wm1nhxZqx7i0Hp6ZBqe9T) | 5:41 |
-| 47 | [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 |
+| 47 | [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 |
 | 48 | [Ye Tune Kya Kiya](https://open.spotify.com/track/2cPUB8EOT6AfJ8oxhyoNXL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Once Upon Ay Time In Mumbai Dobaara !](https://open.spotify.com/album/381lOukp7nV59bJS13TkPe) | 5:14 |
 | 49 | [Love Dose](https://open.spotify.com/track/1QZRCi2Z1DQQaR6bGAzhtN) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Desi Kalakaar](https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H) | 3:44 |
 | 50 | [O Maahi](https://open.spotify.com/track/6bmmHeCvZI92pRiTHxEdTC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Dunki](https://open.spotify.com/album/6mOSDGo8ZREISAbaiTMW5J) | 3:53 |

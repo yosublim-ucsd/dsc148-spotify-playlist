@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: South Arcade
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,815 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,899 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,24 +48,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 38 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 |
 | 39 | [The Best Part](https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [The Best Part](https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS) | 2:56 |
 | 40 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
-| 41 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 |
-| 42 | [shut up & kiss me](https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [shut up & kiss me](https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD) | 2:41 |
+| 41 | [shut up & kiss me](https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [shut up & kiss me](https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD) | 2:41 |
+| 42 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 |
 | 43 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
-| 44 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 |
+| 44 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 |
 | 45 | [wish i was a robot](https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [falling for robots & wishing i was one](https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg) | 2:57 |
 | 46 | [All This Time](https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [All This Time](https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30) | 2:48 |
 | 47 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 |
-| 48 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 |
-| 49 | [nobody](https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [nobody](https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB) | 2:25 |
-| 50 | [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 |
-| 51 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 |
+| 48 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 |
+| 49 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 |
+| 50 | [nobody](https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [nobody](https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB) | 2:25 |
+| 51 | [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 |
 | 52 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 | 53 | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Bears In Trees](https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2) | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp) | 2:59 |
 | 54 | [Hey Ben](https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Hey Ben](https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M) | 3:20 |
-| 55 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 |
+| 55 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 |
 | 56 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 |
-| 57 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 |
-| 58 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
+| 57 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
+| 58 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 |
 | 59 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
 | 60 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 |
 | 61 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 74 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 |
 | 75 | [is this what you wanted](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [is this what you wanted](https://open.spotify.com/album/5POEjUknLCeuqnRdLg7ewA) | 3:45 |
 | 76 | [bad habit](https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [bad habit](https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe) | 2:51 |
-| 77 | [Subaru](https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Subaru](https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91) | 2:53 |
-| 78 | [Six Feet](https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Six Feet](https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI) | 3:01 |
+| 77 | [Six Feet](https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Six Feet](https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI) | 3:01 |
+| 78 | [Subaru](https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Subaru](https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91) | 2:53 |
 | 79 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 |
 | 80 | [wallflower](https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [wallflower](https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt) | 3:10 |
 

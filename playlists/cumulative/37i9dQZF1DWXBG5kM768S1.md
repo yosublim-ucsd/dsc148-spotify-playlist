@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-246 songs - 15 hr 42 min
+247 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2020](https://open.spotify.com/track/2JCskibhK5KQk8v8An371h) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [2020](https://open.spotify.com/album/3pssxznFPsw3TO2ns1Mey3) | 4:35 | 2021-12-16 | 2022-07-28 |
 | [2023](https://open.spotify.com/track/7eM5YIrVzZFcXIe2hZ9IiB) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Heil ved \- Musikken](https://open.spotify.com/album/5mqPvf7oEXdng9pKsSz9NI) | 3:15 | 2023-12-14 | 2024-01-19 |
 | [Adams Sang \(feat\. Myra\)](https://open.spotify.com/track/6HNnIJeTCjp3t3oj30nuW3) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Myra](https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5) | [Adams Sang \(feat\. Myra\)](https://open.spotify.com/album/3s7wpsEiUTSvJwSQ7L3G5Z) | 4:27 | 2022-01-20 | 2022-07-09 |
-| [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 | 2021-12-16 |  |
+| [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 | 2021-12-16 | 2024-10-30 |
 | [Alexander Kiellands plass \- Live](https://open.spotify.com/track/1vOMjmVZF9azOFd6SjIQuv) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e), [Andy Irvine](https://open.spotify.com/artist/1nVYeUhlYzmXf0Dl9yk8P2) | [Live in Telemark](https://open.spotify.com/album/1ICtv14N8EWSJKe7GjUIhj) | 3:15 | 2022-03-23 | 2022-07-10 |
 | [Alle de tinga \(allting blei stilt\)](https://open.spotify.com/track/0iuowI2TuzdWdsoJgHJle0) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Like små](https://open.spotify.com/album/0mc6rENGnb9PREGbN4IUao) | 4:23 | 2021-12-16 | 2022-06-28 |
 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 | 2022-07-14 | 2024-04-19 |
@@ -42,6 +42,7 @@
 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 | 2021-12-16 |  |
 | [Den finast eg veit](https://open.spotify.com/track/3NQDZSM47zCMao3GFkcqaV) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [CoolTur](https://open.spotify.com/album/0S2qo4ezoborqQTJnzdsc6) | 4:04 | 2021-12-16 |  |
 | [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 | 2021-12-16 |  |
+| [Den lange natta](https://open.spotify.com/track/09sPlSIsRcm4hicuFermlS) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Den lange natta](https://open.spotify.com/album/3RhCW6vpTXhpGB0WCc9znN) | 3:20 | 2024-10-24 |  |
 | [den tyngste turen](https://open.spotify.com/track/4MqsWPW2UtBiAIGK8xoXu0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc) | [den tyngste turen \(med Aslag Haugen\)](https://open.spotify.com/album/6ZHUyK14poEdYpMmLxxXkS) | 3:25 | 2021-12-16 | 2023-01-29 |
 | [Der var du](https://open.spotify.com/track/67pRxxw4HUnATsrcVlhcAK) | [Kim Rysstad](https://open.spotify.com/artist/0k5dfZ7J3tg2cvsjkTX796) | [Der var du](https://open.spotify.com/album/5keKiJy2GPTMWWWHX1Exjf) | 3:36 | 2021-12-16 | 2022-07-28 |
 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 | 2021-12-16 |  |

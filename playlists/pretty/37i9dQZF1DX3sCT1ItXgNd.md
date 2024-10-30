@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Kapo, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,848 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,822 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 26 | [FICHAJE DEL AÑO](https://open.spotify.com/track/4zOvp2BysciDInodYHUtOJ) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [FICHAJE DEL AÑO](https://open.spotify.com/album/3ti3UTU7nuhuAZfO27lz2q) | 3:13 |
 | 27 | [Like I Can \(feat\. Aitana\)](https://open.spotify.com/track/76DAOP9X3FuBHlVEBkr5Jl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Like I Can \(feat\. Aitana\)](https://open.spotify.com/album/5CdGQuW80JtOwCSBML58vf) | 2:46 |
 | 28 | [Mil preguntas](https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Mil preguntas](https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq) | 3:19 |
-| 29 | [Dios Te Cuide](https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dios Te Cuide](https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M) | 3:18 |
+| 29 | [LA BALADA](https://open.spotify.com/track/7CTyrGSh3b4wgNlb4XQN7c) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LA BALADA](https://open.spotify.com/album/0DHAxtCoUwyXVGoMYzHSNj) | 2:35 |
 | 30 | [El Último Día de Nuestras Vidas](https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a) | 3:46 |
-| 31 | [Nuestra Canción](https://open.spotify.com/track/2MJlcHWfkA651gpiCRJ2TE) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Nuestra Canción](https://open.spotify.com/album/3aFrCXWwdvl1kIhMnoICz0) | 3:07 |
-| 32 | [LA BALADA](https://open.spotify.com/track/7CTyrGSh3b4wgNlb4XQN7c) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LA BALADA](https://open.spotify.com/album/0DHAxtCoUwyXVGoMYzHSNj) | 2:35 |
+| 31 | [Dios Te Cuide](https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dios Te Cuide](https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M) | 3:18 |
+| 32 | [Nuestra Canción](https://open.spotify.com/track/2MJlcHWfkA651gpiCRJ2TE) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Nuestra Canción](https://open.spotify.com/album/3aFrCXWwdvl1kIhMnoICz0) | 3:07 |
 | 33 | [Tienes Que Saber](https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Tienes Que Saber](https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5) | 3:00 |
 | 34 | [te vas a inventar](https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [te vas a inventar](https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj) | 2:52 |
 | 35 | [AUNQUE NO DIGAS NADA](https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII) | [MELER](https://open.spotify.com/artist/6Gc7QYqGBo1f1KtZJtJHda) | [AUNQUE NO DIGAS NADA](https://open.spotify.com/album/10LYVh7Y40t39fhiQnIzEX) | 3:02 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 42 | [no te deseo lo peor :\)](https://open.spotify.com/track/5fVa9nTKfq2Hy15jnOrer0) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y), [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [no te deseo lo peor :\)](https://open.spotify.com/album/3z0TbCpug2bRGgWmODsWi5) | 3:09 |
 | 43 | [Morenita del sur](https://open.spotify.com/track/4pKhyJRka0RvlDKGi9RJCv) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Morenita del sur](https://open.spotify.com/album/53VfRv0BRcEb5d9XG1keWJ) | 3:44 |
 | 44 | [Puede K Nos Liemos](https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d) | [Almacor](https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Puede K Nos Liemos](https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX) | 2:36 |
-| 45 | [SERENATA](https://open.spotify.com/track/4suTBZ521uqrgLsOWwY8sg) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [UNA CASA CON JARDÍN](https://open.spotify.com/album/1GXaqoSw6PDqRuXDAZ3VnF) | 2:09 |
-| 46 | [UNA VIDA A TU LADO](https://open.spotify.com/track/3mpIFqv8YSjiFgGdfaZ0u3) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [UNA VIDA A TU LADO](https://open.spotify.com/album/3V3L0sYnmcEmzFS4ogRoVx) | 2:44 |
-| 47 | [Volverte a Querer](https://open.spotify.com/track/6118gUtirfjFpTPWyDwMbj) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Volverte a Querer](https://open.spotify.com/album/33rki7QSD9lUoefJ7Yer9O) | 3:27 |
+| 45 | [Volverte a Querer](https://open.spotify.com/track/6118gUtirfjFpTPWyDwMbj) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Volverte a Querer](https://open.spotify.com/album/33rki7QSD9lUoefJ7Yer9O) | 3:27 |
+| 46 | [SERENATA](https://open.spotify.com/track/4suTBZ521uqrgLsOWwY8sg) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [UNA CASA CON JARDÍN](https://open.spotify.com/album/1GXaqoSw6PDqRuXDAZ3VnF) | 2:09 |
+| 47 | [UNA VIDA A TU LADO](https://open.spotify.com/track/3mpIFqv8YSjiFgGdfaZ0u3) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [UNA VIDA A TU LADO](https://open.spotify.com/album/3V3L0sYnmcEmzFS4ogRoVx) | 2:44 |
 | 48 | [Otro Huevón](https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Otro Huevón](https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU) | 3:26 |
 | 49 | [Atrinchera2](https://open.spotify.com/track/6rx8ePKSOryW7jIUSdvhnj) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Atrinchera2](https://open.spotify.com/album/2dw4YjjlRkGb8iEgm50fXQ) | 3:09 |
 | 50 | [yo así](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |

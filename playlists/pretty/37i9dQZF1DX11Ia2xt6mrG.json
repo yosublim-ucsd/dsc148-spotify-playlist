@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Tom & Collins en portada.",
-  "num_followers": 59549,
+  "num_followers": 59555,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "BLING BLING",
-        "url": "https://open.spotify.com/album/0KjScAnphBueUEa3md9szW"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 160258,
-      "name": "BLING BLING",
-      "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Dancing On Dangerous",
         "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "BLING BLING",
+        "url": "https://open.spotify.com/album/0KjScAnphBueUEa3md9szW"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 160258,
+      "name": "BLING BLING",
+      "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -759,26 +759,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
       },
       "artists": [
         {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
           "name": "Mariana BO",
           "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "Crooked Bangs",
-          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
         }
       ],
-      "duration_ms": 161378,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3"
+      "duration_ms": 188706,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -819,22 +815,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm"
       },
       "artists": [
         {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        },
-        {
           "name": "Mariana BO",
           "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
         }
       ],
-      "duration_ms": 188706,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
+      "duration_ms": 161378,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -955,26 +955,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
+        "name": "Lunita (J.Pool Remix)",
+        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
       "artists": [
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
         },
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
         }
       ],
-      "duration_ms": 169761,
-      "name": "Porque La Demora",
-      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
+      "duration_ms": 380878,
+      "name": "Lunita - J.Pool Remix",
+      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1003,22 +999,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Lunita (J.Pool Remix)",
-        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
       },
       "artists": [
         {
-          "name": "J.Pool",
-          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         },
         {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
         }
       ],
-      "duration_ms": 380878,
-      "name": "Lunita - J.Pool Remix",
-      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+      "duration_ms": 169761,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "CONTACTO CERO",
-        "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "CONTACTO CERO",
-      "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Everybody Salsa (Andruss Remix)",
         "url": "https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 166620,
       "name": "Everybody Salsa - Andruss Remix",
       "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "CONTACTO CERO",
+        "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "CONTACTO CERO",
+      "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
     },
     {
       "added_at": "2024-10-11 06:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 270743,
+  "num_followers": 270813,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Everything's Archie",
         "url": "https://open.spotify.com/album/3Yx7rFz5gPsuWOoNncW0UP"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 167213,
       "name": "Sugar Sugar",
       "url": "https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1899,18 +1899,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Groovin' with Manfred Mann",
-        "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
+        "name": "United",
+        "url": "https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb"
       },
       "artists": [
         {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
         }
       ],
-      "duration_ms": 143400,
-      "name": "Do Wah Diddy Diddy",
-      "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
+      "duration_ms": 151666,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1931,22 +1935,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb"
+        "name": "Groovin' with Manfred Mann",
+        "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
         }
       ],
-      "duration_ms": 151666,
-      "name": "Ain't No Mountain High Enough",
-      "url": "https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR"
+      "duration_ms": 143400,
+      "name": "Do Wah Diddy Diddy",
+      "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2047,6 +2047,38 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "25 All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/62N9znca7VeEvahgwKaEbs"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion",
+      "url": "https://open.spotify.com/track/47NBXLVNoAP6nzPOICYfid"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/6qjdgmUrq3X20R9mB5goM8"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/7E8VSUdBkRURoqzEQ7jQgb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
       },
@@ -2059,6 +2091,22 @@
       "duration_ms": 176426,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "I'm A Man / I Can't Get Enough Of It",
+        "url": "https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2091,22 +2139,6 @@
       "duration_ms": 172933,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "I'm A Man / I Can't Get Enough Of It",
-        "url": "https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2175,22 +2207,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/6qjdgmUrq3X20R9mB5goM8"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "I Got You (I Feel Good)",
-      "url": "https://open.spotify.com/track/7E8VSUdBkRURoqzEQ7jQgb"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Mad Men: A Musical Companion (1960-1965)",
         "url": "https://open.spotify.com/album/5zLIEvoMI7H5c3TmS4afrt"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 154946,
       "name": "I Only Want To Be With You",
       "url": "https://open.spotify.com/track/0FlITClPKfKqQxVHzFD3iF"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "25 All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/62N9znca7VeEvahgwKaEbs"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion",
-      "url": "https://open.spotify.com/track/47NBXLVNoAP6nzPOICYfid"
     },
     {
       "added_at": "2022-06-16 22:02:00",

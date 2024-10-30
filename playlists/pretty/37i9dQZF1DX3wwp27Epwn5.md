@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,329 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,396 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 47 | [High Rated Gabru](https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Nawabzaade](https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk) | 2:59 |
 | 48 | [Khalibali](https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1) | [Shivam Pathak](https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Padmaavat](https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf) | 4:18 |
 | 49 | [Goa Beach](https://open.spotify.com/track/4obyqyCX0Vx839PTsz1OGf) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Goa Beach](https://open.spotify.com/album/7EI4PXzgUDnRVsFCgP8xPF) | 3:38 |
-| 50 | [Mera Wala Dance \(From "Simmba"\)](https://open.spotify.com/track/2WDNxbQejWu16O44FcMEFM) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN) | [Mera Wala Dance \(From "Simmba"\)](https://open.spotify.com/album/7qPXxbOuEiXyAijFSmqUgk) | 3:19 |
+| 50 | [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/album/1d8jt3TJEbsTf6bTDnfyK9) | 3:49 |
 
 Snapshot ID: `Zvp6XwAAAAC95R9uAh716rRZmQHmt5oC`

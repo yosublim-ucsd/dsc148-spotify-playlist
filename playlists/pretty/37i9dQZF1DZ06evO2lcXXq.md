@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,317 likes - 45 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,343 likes - 45 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 25 | [New](https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 2:56 |
 | 26 | [You Have My Surrender \(Live\)](https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Alive: Live from the CentricWorship Retreat](https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12) | 3:45 |
 | 27 | [Canto Della Terra \(feat\. Lauren Daigle\)](https://open.spotify.com/track/4OhUVpDdEsIHKL1t3KfkEN) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Canto Della Terra \(feat\. Lauren Daigle\)](https://open.spotify.com/album/4PgBGxC2dSWSTn90lUpf0r) | 4:01 |
-| 28 | [Light of the World](https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Light of the World](https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB) | 4:19 |
+| 28 | [Time](https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Beyond Us](https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn) | 3:49 |
 | 29 | [Waiting](https://open.spotify.com/track/26WwwFoWQCkNWT0SI1IFHL) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:11 |
-| 30 | [Back To God](https://open.spotify.com/track/17na7DhhBLsajSS7Vb38Fe) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Back To God](https://open.spotify.com/album/3bv8C2TkfaU1hhqu7E1OUl) | 4:03 |
-| 31 | [Time](https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Beyond Us](https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn) | 3:49 |
+| 30 | [Light of the World](https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Light of the World](https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB) | 4:19 |
+| 31 | [Back To God](https://open.spotify.com/track/17na7DhhBLsajSS7Vb38Fe) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Back To God](https://open.spotify.com/album/3bv8C2TkfaU1hhqu7E1OUl) | 4:03 |
 | 32 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 |
 | 33 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 |
 | 34 | [Tú Dices](https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 4:33 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 44 | [You Are So Beautiful \- Live Acoustic](https://open.spotify.com/track/7i6DvJgOTuVV1nOP7FfT5u) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Sessions](https://open.spotify.com/album/4Y4ntagypPMlqa71YLaDsA) | 2:50 |
 | 45 | [You're All I'll Take With Me \- Live Acoustic](https://open.spotify.com/track/6N6Pn9vCqy22eVaYIGlDN5) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Sessions](https://open.spotify.com/album/4Y4ntagypPMlqa71YLaDsA) | 3:26 |
 
-Snapshot ID: `Zx2CgAAAAAB8OE1HnpZshmT7T4SlRKJ2`
+Snapshot ID: `Zx7UAAAAAADwXFxaIYtrPqcBjS+29eaw`

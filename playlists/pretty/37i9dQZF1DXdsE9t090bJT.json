@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 61774,
+  "num_followers": 61790,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,22 @@
     {
       "added_at": "2024-09-11 16:36:05",
       "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 230795,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+      "duration_ms": 163551,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
     },
     {
       "added_at": "2024-09-11 16:36:05",
@@ -351,22 +351,22 @@
     {
       "added_at": "2024-09-11 16:36:05",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 163551,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "added_at": "2024-09-11 16:36:05",
@@ -459,42 +459,6 @@
     {
       "added_at": "2024-09-11 16:36:05",
       "album": {
-        "name": "FIRST LOVE",
-        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "FIRST LOVE",
-      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
-    },
-    {
-      "added_at": "2024-09-11 16:36:05",
-      "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
-    },
-    {
-      "added_at": "2024-09-11 16:36:05",
-      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
       },
@@ -515,6 +479,42 @@
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    {
+      "added_at": "2024-09-11 16:36:05",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "added_at": "2024-09-11 16:36:05",
+      "album": {
+        "name": "FIRST LOVE",
+        "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "FIRST LOVE",
+      "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
     },
     {
       "added_at": "2024-09-11 16:36:05",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-09-11 16:36:05",
       "album": {
-        "name": "Me Dejaste Sin Saber",
-        "url": "https://open.spotify.com/album/1uOq3hUUxrryq8vgUBIESQ"
-      },
-      "artists": [
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 151596,
-      "name": "Me Dejaste Sin Saber",
-      "url": "https://open.spotify.com/track/0OGNDibw65fpEaWaKE7lLv"
-    },
-    {
-      "added_at": "2024-09-11 16:36:05",
-      "album": {
         "name": "Feliz Cumplea\u00f1os Ferxxo",
         "url": "https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 170266,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy"
+    },
+    {
+      "added_at": "2024-09-11 16:36:05",
+      "album": {
+        "name": "Me Dejaste Sin Saber",
+        "url": "https://open.spotify.com/album/1uOq3hUUxrryq8vgUBIESQ"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 151596,
+      "name": "Me Dejaste Sin Saber",
+      "url": "https://open.spotify.com/track/0OGNDibw65fpEaWaKE7lLv"
     },
     {
       "added_at": "2024-09-11 16:36:05",
@@ -1487,42 +1487,6 @@
     {
       "added_at": "2024-09-11 16:36:05",
       "album": {
-        "name": "Mi Amor Por Ti",
-        "url": "https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 227380,
-      "name": "Mi Amor Por Ti",
-      "url": "https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9"
-    },
-    {
-      "added_at": "2024-09-11 16:36:05",
-      "album": {
-        "name": "CHULA",
-        "url": "https://open.spotify.com/album/4KblreEPyinh0NwO6TjTSa"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "CHULA",
-      "url": "https://open.spotify.com/track/3X39TEP3dMfJzvYJrp18UH"
-    },
-    {
-      "added_at": "2024-09-11 16:36:05",
-      "album": {
         "name": "Ropa Cara",
         "url": "https://open.spotify.com/album/2NRCCVwjJuodRWAR0VlBfH"
       },
@@ -1547,22 +1511,38 @@
     {
       "added_at": "2024-09-11 16:36:05",
       "album": {
-        "name": "Casa Lumbre",
-        "url": "https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR"
+        "name": "CHULA",
+        "url": "https://open.spotify.com/album/4KblreEPyinh0NwO6TjTSa"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Mej\u00eda",
-          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         },
         {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
         }
       ],
-      "duration_ms": 189924,
-      "name": "Muy Tarde",
-      "url": "https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H"
+      "duration_ms": 168253,
+      "name": "CHULA",
+      "url": "https://open.spotify.com/track/3X39TEP3dMfJzvYJrp18UH"
+    },
+    {
+      "added_at": "2024-09-11 16:36:05",
+      "album": {
+        "name": "Mi Amor Por Ti",
+        "url": "https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 227380,
+      "name": "Mi Amor Por Ti",
+      "url": "https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9"
     },
     {
       "added_at": "2024-09-11 16:36:05",
@@ -1587,6 +1567,26 @@
       "duration_ms": 161332,
       "name": "No Est\u00e1 Funcionando",
       "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+    },
+    {
+      "added_at": "2024-09-11 16:36:05",
+      "album": {
+        "name": "Casa Lumbre",
+        "url": "https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Mej\u00eda",
+          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 189924,
+      "name": "Muy Tarde",
+      "url": "https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H"
     },
     {
       "added_at": "2024-09-11 16:36:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:6xfKNngTw1zxViM96HSTCq">Mumle</a> ✨ <a href="spotify:album:2BqcbwyLGCvbNOVwPyAd3a">Mumler Ikke</a> på den nye EP ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,403 likes - 106 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,401 likes - 106 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 71 | [Other Girls](https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Other Girls](https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD) | 3:18 |
 | 72 | [Give It Up For Love \- Tripolism Remix](https://open.spotify.com/track/2wCJOX6zSDb4sv45L7tgTR) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Give It Up For Love \(Tripolism Remix\)](https://open.spotify.com/album/2RiVCssTK2u7jye7CslUGW) | 5:20 |
 | 73 | [Love Again \(with Ken\)](https://open.spotify.com/track/26El3fRCiPaFTnMhCI71yx) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI) | [Love Again \(with Ken\)](https://open.spotify.com/album/3lcX4NSUTTPjVU1oZQV6WY) | 2:51 |
-| 74 | [Hysteria](https://open.spotify.com/track/0nAbZLDPGYsw5wOFppq5nK) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [ALMA](https://open.spotify.com/artist/78V5Xh3taZwfgq2xVtZiki) | [SPIRAL](https://open.spotify.com/album/3PFEPWZU5zpMMLLmJ4tuQc) | 2:15 |
+| 74 | [Hysteria](https://open.spotify.com/track/0nAbZLDPGYsw5wOFppq5nK) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [SPIRAL](https://open.spotify.com/album/3PFEPWZU5zpMMLLmJ4tuQc) | 2:15 |
 | 75 | [Immaculate \(feat\. Saweetie\)](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate \(feat\. Saweetie\)](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 |
 | 76 | [Cinema](https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [barbz](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Cinema](https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh) | 2:25 |
 | 77 | [Angstanfald](https://open.spotify.com/track/1JgJ4PdUVXYlR0KM9iGGWs) | [Luie](https://open.spotify.com/artist/5ihCplN5a8mzkdFhLM2WD6) | [For Evigt Forbandet // For Altid Forelsket](https://open.spotify.com/album/5QcojUh9SNVy8dtF1KBW5L) | 2:31 |

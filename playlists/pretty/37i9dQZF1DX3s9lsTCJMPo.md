@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,705 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,741 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 9 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
 | 10 | [Workey Workey](https://open.spotify.com/track/7vaNB9GdsURzeSEJ5uXldO) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 5:31 |
 | 11 | [Bassman](https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:05 |
-| 12 | [Pump Me Up](https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:45 |
-| 13 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
+| 12 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
+| 13 | [Pump Me Up](https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:45 |
 | 14 | [Calypso Music](https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 7:13 |
 | 15 | [Body Water](https://open.spotify.com/track/3LKnTJqisnDLNzaMBIxwCg) | [Mini Priest](https://open.spotify.com/artist/7q3vqJF9tkRDwlgUiU9apb) | [Soca Gold 2005](https://open.spotify.com/album/3UXWqNNmMnxBXK8BTXkiVf) | 3:39 |
 | 16 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
 | 17 | [Nani Wine](https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7) | [Crazy](https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 7:12 |
 | 18 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
-| 19 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
-| 20 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
+| 19 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
+| 20 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
 | 21 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
 | 22 | [Follow The Leader, Leader](https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:05 |
 | 23 | [Thunder](https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg) | [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 6:35 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 40 | [Party Start](https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ) | [Superblue](https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M), [Bunji](https://open.spotify.com/artist/4PO2u9qHDO4ORynHyfbcD6) | [Trini Gold](https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji) | 3:11 |
 | 41 | [Gyal Farm](https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:41 |
 | 42 | [Tremble It](https://open.spotify.com/track/6TUZWNUZnBo9fxfdD5Hc7s) | [Roy Cape All Stars feat\. Destra Garcia](https://open.spotify.com/artist/2Q9vEOkeoFyRjAyFrjoArQ) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:10 |
-| 43 | [Lift Ya Leg Up](https://open.spotify.com/track/6pHBIt92RkPztpBh3PW2v1) | [Spice & Co.](https://open.spotify.com/artist/1Iz2YzkS477m4Jd3lvf7S9) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:20 |
-| 44 | [Total Dis Order](https://open.spotify.com/track/5lGu6LnHAbZJyVyVk9cD8U) | [Mighty Duke](https://open.spotify.com/artist/75ZMUQrdutA8Dn2vzO2mCx) | [The Mighty Duke Classic Collection 1986\-1990](https://open.spotify.com/album/5Xeh8aExQtQo9KCaTIa0Z1) | 6:50 |
+| 43 | [Total Dis Order](https://open.spotify.com/track/5lGu6LnHAbZJyVyVk9cD8U) | [Mighty Duke](https://open.spotify.com/artist/75ZMUQrdutA8Dn2vzO2mCx) | [The Mighty Duke Classic Collection 1986\-1990](https://open.spotify.com/album/5Xeh8aExQtQo9KCaTIa0Z1) | 6:50 |
+| 44 | [Lift Ya Leg Up](https://open.spotify.com/track/6pHBIt92RkPztpBh3PW2v1) | [Spice & Co.](https://open.spotify.com/artist/1Iz2YzkS477m4Jd3lvf7S9) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:20 |
 | 45 | [Movin'](https://open.spotify.com/track/6c5fzIabjARvfleaqkz8Bb) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:19 |
 | 46 | [Theresa Rocking](https://open.spotify.com/track/3gGPrxYhowdcEEt2RkW4tA) | [Imagi Nation Brass](https://open.spotify.com/artist/2C7n4hoejvKTvmJf8w6n8e) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 6:22 |
 | 47 | [Hold Ya Foot Up & Jump](https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc) | [Zulu Lightening](https://open.spotify.com/artist/1V5FoECHc43ZNqVryryd9F) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:19 |

@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: Regina Song, hongjoin",
-  "num_followers": 21474,
+  "num_followers": 21480,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
+        "name": "Andra & The Backbone",
+        "url": "https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD"
+      },
+      "artists": [
+        {
+          "name": "Andra & The Backbone",
+          "url": "https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU"
+        }
+      ],
+      "duration_ms": 268422,
+      "name": "Sempurna",
+      "url": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
         "name": "Tak Dianggap",
         "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Andra & The Backbone",
-        "url": "https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD"
+        "name": "Tunggu Apa Lagi",
+        "url": "https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5"
       },
       "artists": [
         {
-          "name": "Andra & The Backbone",
-          "url": "https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU"
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
         }
       ],
-      "duration_ms": 268422,
-      "name": "Sempurna",
-      "url": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE"
+      "duration_ms": 219352,
+      "name": "Tunggu Apa Lagi",
+      "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -791,22 +807,6 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Tunggu Apa Lagi",
-        "url": "https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5"
-      },
-      "artists": [
-        {
-          "name": "Nyoman Paul",
-          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
-        }
-      ],
-      "duration_ms": 219352,
-      "name": "Tunggu Apa Lagi",
-      "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
         "name": "Kata Mereka Ini Berlebihan",
         "url": "https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
+        "name": "Angin Rindu",
+        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
       },
       "artists": [
         {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
         }
       ],
-      "duration_ms": 260571,
-      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
-      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+      "duration_ms": 258148,
+      "name": "Angin Rindu",
+      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
     }
   ],
   "unique_name": "OTW ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,470 likes - 120 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,596 likes - 120 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 91 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
 | 92 | [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 |
 | 93 | [Seeds of Hate](https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [Gamechanger](https://open.spotify.com/album/77KrgNntpYAq3DRYXgP3rT) | 3:48 |
-| 94 | [Void Silence](https://open.spotify.com/track/3yZ0K2vUPjd3L2KDevoPkD) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [Into the Light](https://open.spotify.com/album/1iScqogbUIJoj1GFDHBrlf) | 3:33 |
+| 94 | [Nobody](https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [Nobody](https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X) | 4:09 |
 | 95 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
-| 96 | [Nobody](https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [Nobody](https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X) | 4:09 |
+| 96 | [Void Silence](https://open.spotify.com/track/3yZ0K2vUPjd3L2KDevoPkD) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [Into the Light](https://open.spotify.com/album/1iScqogbUIJoj1GFDHBrlf) | 3:33 |
 | 97 | [Chance](https://open.spotify.com/track/7KXQXLe2Ocz0bVvD6gjOqp) | [Wrong Answer](https://open.spotify.com/artist/1ojBlwQXvlKyXzXY2uNEEo) | [Circle of Blood](https://open.spotify.com/album/07ixHVVwCh3xFvuqWo8LyE) | 2:33 |
 | 98 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 |
 | 99 | [Reflections](https://open.spotify.com/track/55phx17AxbonvXWipSlHON) | [Destinity](https://open.spotify.com/artist/553eIV3aSzE17cxgVVG7o6) | [In Continuum](https://open.spotify.com/album/4DpTzDNRbyJmwqIi0Cv4KW) | 4:53 |
@@ -115,14 +115,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 105 | [So Much for Love](https://open.spotify.com/track/0DGdIxB7uUIgmyRvSmt3HO) | [Xile](https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3) | [I Am Your God](https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw) | 2:55 |
 | 106 | [Strength to Draw the Line](https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg) | [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Strength to Draw the Line](https://open.spotify.com/album/53js4P31lZMSZlINykloRH) | 2:48 |
 | 107 | [No Brother, No Friend](https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV) | [Justice For The Damned](https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8) | [No Brother, No Friend](https://open.spotify.com/album/52vFHJ4qdgSLiIZvPiMuRI) | 3:31 |
-| 108 | [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 |
-| 109 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 |
+| 108 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 |
+| 109 | [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 |
 | 110 | [New Salem](https://open.spotify.com/track/3hH0jHNUxzfPhYimw0OmF6) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [New Salem](https://open.spotify.com/album/6IjPbGlExfQKH1FYnsWCLh) | 3:23 |
 | 111 | [The Outlaw](https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv), [Antti Wirman](https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA) | [The Outlaw](https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ) | 3:46 |
 | 112 | [No Rest No Peace](https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI) | [Katalepsy](https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w) | [No Rest No Peace](https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ) | 4:26 |
 | 113 | [Peeling Wax \(feat\. Matt Honeycutt\)](https://open.spotify.com/track/4A64JdONZNE0ShoiHrJx1N) | [Left Behind](https://open.spotify.com/artist/0D9zhma3Ysy2QqysEkVWRW), [Matt Honeycutt](https://open.spotify.com/artist/3l3aszE2AlLuQ0LP4H54zO) | [Peeling Wax \(feat\. Matt Honeycutt\)](https://open.spotify.com/album/3XI1rSazMxST7wlUiYPgxD) | 3:41 |
-| 114 | [I Am No Good](https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [Crook](https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr) | 2:58 |
-| 115 | [ManiaCult](https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [ManiaCult](https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir) | 3:37 |
+| 114 | [ManiaCult](https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [ManiaCult](https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir) | 3:37 |
+| 115 | [I Am No Good](https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [Crook](https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr) | 2:58 |
 | 116 | [A Colossal Wreck](https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 2:28 |
 | 117 | [Eat What You Kill](https://open.spotify.com/track/6yz2HojEuzMLx1yJoMYVSH) | [Confess](https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw) | [Eat What You Kill](https://open.spotify.com/album/4g9x50zBfdnemdovUhjwyt) | 5:15 |
 | 118 | [Army of Cops](https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB) | [Pig Destroyer](https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7) | [Army of Cops](https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR) | 3:18 |

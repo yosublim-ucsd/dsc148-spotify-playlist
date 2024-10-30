@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Touch\u00e9 Amor\u00e9",
-  "num_followers": 58245,
+  "num_followers": 58294,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 168903,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "It Was Real To Me",
         "url": "https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 166373,
       "name": "It Was Real To Me",
       "url": "https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 168903,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Ephemera",
-        "url": "https://open.spotify.com/album/2riawsNAqL40MjgRobtXP8"
-      },
-      "artists": [
-        {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
-        }
-      ],
-      "duration_ms": 189827,
-      "name": "Ephemera",
-      "url": "https://open.spotify.com/track/66KrJv7ojHwRqEmLYvVz3M"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Cheap Grills",
         "url": "https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 192013,
       "name": "Fireplace",
       "url": "https://open.spotify.com/track/1mSJOi7nlvNPAKrveLxWPv"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Ephemera",
+        "url": "https://open.spotify.com/album/2riawsNAqL40MjgRobtXP8"
+      },
+      "artists": [
+        {
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "duration_ms": 189827,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/66KrJv7ojHwRqEmLYvVz3M"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mostly",
-        "url": "https://open.spotify.com/album/4vDd8YLJ0z6S8HqEXbRMs8"
-      },
-      "artists": [
-        {
-          "name": "Heart to Gold",
-          "url": "https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez"
-        }
-      ],
-      "duration_ms": 157782,
-      "name": "Mostly",
-      "url": "https://open.spotify.com/track/3pEgUvaGSgiGreaRugXLdC"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "the whaler",
         "url": "https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Absolute Bloom",
-        "url": "https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW"
+        "name": "Mostly",
+        "url": "https://open.spotify.com/album/4vDd8YLJ0z6S8HqEXbRMs8"
       },
       "artists": [
         {
-          "name": "Higher Power",
-          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
+          "name": "Heart to Gold",
+          "url": "https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez"
         }
       ],
-      "duration_ms": 205628,
-      "name": "Absolute Bloom",
-      "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
+      "duration_ms": 157782,
+      "name": "Mostly",
+      "url": "https://open.spotify.com/track/3pEgUvaGSgiGreaRugXLdC"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 188000,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Absolute Bloom",
+        "url": "https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW"
+      },
+      "artists": [
+        {
+          "name": "Higher Power",
+          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
+        }
+      ],
+      "duration_ms": 205628,
+      "name": "Absolute Bloom",
+      "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Permanent Resolution",
-        "url": "https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp"
-      },
-      "artists": [
-        {
-          "name": "Homesafe",
-          "url": "https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe"
-        }
-      ],
-      "duration_ms": 201048,
-      "name": "Permanent Resolution",
-      "url": "https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 187482,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Permanent Resolution",
+        "url": "https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp"
+      },
+      "artists": [
+        {
+          "name": "Homesafe",
+          "url": "https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe"
+        }
+      ],
+      "duration_ms": 201048,
+      "name": "Permanent Resolution",
+      "url": "https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Glass",
-        "url": "https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc"
-      },
-      "artists": [
-        {
-          "name": "Forest Green",
-          "url": "https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc"
-        }
-      ],
-      "duration_ms": 283986,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "The Highway Signs Will Lead to Nothing",
         "url": "https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "That's OK",
-        "url": "https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl"
+        "name": "Glass",
+        "url": "https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc"
       },
       "artists": [
         {
-          "name": "Swimming",
-          "url": "https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa"
+          "name": "Forest Green",
+          "url": "https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc"
         }
       ],
-      "duration_ms": 245415,
-      "name": "Sometimes Things Change",
-      "url": "https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0"
+      "duration_ms": 283986,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -891,6 +875,22 @@
       "duration_ms": 249980,
       "name": "You Will Never Be the Best at Anything You Try (Surely Not)",
       "url": "https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "That's OK",
+        "url": "https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl"
+      },
+      "artists": [
+        {
+          "name": "Swimming",
+          "url": "https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa"
+        }
+      ],
+      "duration_ms": 245415,
+      "name": "Sometimes Things Change",
+      "url": "https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Drought",
-        "url": "https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ"
-      },
-      "artists": [
-        {
-          "name": "Guitar Fight from Fooly Cooly",
-          "url": "https://open.spotify.com/artist/6mJuP6zvtXUAVL9xjxZiDL"
-        }
-      ],
-      "duration_ms": 145602,
-      "name": "Pyramid",
-      "url": "https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Stone",
         "url": "https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 214447,
       "name": "Stone",
       "url": "https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Drought",
+        "url": "https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ"
+      },
+      "artists": [
+        {
+          "name": "Guitar Fight from Fooly Cooly",
+          "url": "https://open.spotify.com/artist/6mJuP6zvtXUAVL9xjxZiDL"
+        }
+      ],
+      "duration_ms": 145602,
+      "name": "Pyramid",
+      "url": "https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Won't You Fade",
-        "url": "https://open.spotify.com/album/0JzKDW5zcrzql9gz0UDEI3"
-      },
-      "artists": [
-        {
-          "name": "Wither Away",
-          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
-        }
-      ],
-      "duration_ms": 273558,
-      "name": "Won't You Fade",
-      "url": "https://open.spotify.com/track/2ORXMAC5DctNtC3LfhIsQF"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "I'm Here And This Is Real",
         "url": "https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 198591,
       "name": "Dead On The Page",
       "url": "https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Won't You Fade",
+        "url": "https://open.spotify.com/album/0JzKDW5zcrzql9gz0UDEI3"
+      },
+      "artists": [
+        {
+          "name": "Wither Away",
+          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
+        }
+      ],
+      "duration_ms": 273558,
+      "name": "Won't You Fade",
+      "url": "https://open.spotify.com/track/2ORXMAC5DctNtC3LfhIsQF"
     },
     {
       "added_at": "2024-10-11 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 75453,
+  "num_followers": 75526,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Rose Gold",
-        "url": "https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML"
-      },
-      "artists": [
-        {
-          "name": "Shekhinah",
-          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Suited",
-      "url": "https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Rose Gold",
+        "url": "https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Suited",
+      "url": "https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
+        "name": "Seed - EP",
+        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
         "name": "Ngimtholile",
         "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 244062,
       "name": "Ngimtholile",
       "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
-        "name": "Seed - EP",
-        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "No Retreat. No Surrender.",
-        "url": "https://open.spotify.com/album/78Sbc9JhN9bHAkaDW0r0fa"
-      },
-      "artists": [
-        {
-          "name": "DJ Bongz",
-          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
-        }
-      ],
-      "duration_ms": 383906,
-      "name": "Sobabili",
-      "url": "https://open.spotify.com/track/1OD4ENfkFE0qeaxmA8MJMR"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Sweet Sensation",
         "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
       },
@@ -1191,6 +1175,38 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
+        "name": "No Retreat. No Surrender.",
+        "url": "https://open.spotify.com/album/78Sbc9JhN9bHAkaDW0r0fa"
+      },
+      "artists": [
+        {
+          "name": "DJ Bongz",
+          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
+        }
+      ],
+      "duration_ms": 383906,
+      "name": "Sobabili",
+      "url": "https://open.spotify.com/track/1OD4ENfkFE0qeaxmA8MJMR"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Live and Die in Afrika",
+        "url": "https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 212009,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
         "name": "Phakade Lami",
         "url": "https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 261475,
       "name": "Phakade Lami",
       "url": "https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
-        "name": "Live and Die in Afrika",
-        "url": "https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ"
-      },
-      "artists": [
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 212009,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
+        "name": "Utaniua (Acoustic)",
+        "url": "https://open.spotify.com/album/0YgKZHxTPJHgclAqke7QbG"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Utaniua - Acoustic",
+      "url": "https://open.spotify.com/track/6CYDlX3hOjLKHymIqhmcfI"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
         "name": "Resistance (feat. SGaWD)",
         "url": "https://open.spotify.com/album/7Mh9PHYIYq6catNcSw91ZT"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 213537,
       "name": "Resistance (feat. SGaWD)",
       "url": "https://open.spotify.com/track/3NbbpgWyyprHrllhvSp4xo"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
-        "name": "Utaniua (Acoustic)",
-        "url": "https://open.spotify.com/album/0YgKZHxTPJHgclAqke7QbG"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Utaniua - Acoustic",
-      "url": "https://open.spotify.com/track/6CYDlX3hOjLKHymIqhmcfI"
     }
   ],
   "unique_name": "100 Best African Love Songs ",

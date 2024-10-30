@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 421957,
+  "num_followers": 422052,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
+        "name": "Uma Coisa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 360500,
+      "name": "Uma Coisa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5IY9xOZ28mVZAvjDkXmegz"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
         "name": "Aba (Ao Vivo)",
         "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 348364,
       "name": "Aba - Ao Vivo",
       "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
-        "name": "Uma Coisa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 360500,
-      "name": "Uma Coisa - Ao Vivo",
-      "url": "https://open.spotify.com/track/5IY9xOZ28mVZAvjDkXmegz"
     },
     {
       "added_at": "2024-09-20 03:01:00",

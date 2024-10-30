@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,401 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,404 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 29 | [Trials, Troubles, Tribulations](https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:02 |
 | 30 | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov) | 3:49 |
 | 31 | [The Front Door](https://open.spotify.com/track/4UK7HAqhQ0GOeJnPibJrzJ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 4:14 |
-| 32 | [Colors](https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:19 |
-| 33 | [Big Dream](https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN) | 2:23 |
+| 32 | [Big Dream](https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN) | 2:23 |
+| 33 | [Colors](https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:19 |
 | 34 | [Twas Twined & Twisted](https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 3:07 |
 | 35 | [The Hour](https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:49 |
 | 36 | [The Fact](https://open.spotify.com/track/1Xq0XTjQVQkLNrOgDQ7hrf) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Goodtime Charlie](https://open.spotify.com/album/58WR5ej6EJFRGjQp1qrfpN) | 3:27 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 44 | [Home Inside \(with Valerie June\) \(From “Norah Jones is Playing Along” Podcast\)](https://open.spotify.com/track/2e8hzjW6K0TFPZkwIa38o0) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Home Inside \(with Valerie June\) \(From “Norah Jones is Playing Along” Podcast\)](https://open.spotify.com/album/7zAu6xxacBn0nzZbwSZHEK) | 2:19 |
 | 45 | [The No Draws Blues](https://open.spotify.com/track/77d2KoKcQwq41CBStkXpCp) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 2:24 |
 | 46 | [Home](https://open.spotify.com/track/6RuO4PLupkQlIVWz0S0Hid) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Way of the Weeping Willow](https://open.spotify.com/album/4zKQRxjvBRMEOJ02Y7nD3o) | 1:59 |
-| 47 | [Godspeed](https://open.spotify.com/track/6r2gdsL25eruBV8cBefbtY) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 2:49 |
+| 47 | [Tonight I’ll Be Staying Here With You](https://open.spotify.com/track/4BVuRNBQgO2XDhAQxC7c8z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:04 |
 | 48 | [I Sit And Sew](https://open.spotify.com/track/16sWmqLd64CCetLwCQMMkt) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [On Imagination](https://open.spotify.com/artist/7FB5WHVSU9Flq5TTbV11Fs), [Ebonie Smith](https://open.spotify.com/artist/3N2TVDR39zCIpfsg73ZzJS) | [I Sit And Sew](https://open.spotify.com/album/7zIrKWmGEYjI70qqStg9He) | 2:17 |
-| 49 | [Tonight I’ll Be Staying Here With You](https://open.spotify.com/track/4BVuRNBQgO2XDhAQxC7c8z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:04 |
+| 49 | [Godspeed](https://open.spotify.com/track/6r2gdsL25eruBV8cBefbtY) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 2:49 |
 | 50 | [Imagine](https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:07 |
 
-Snapshot ID: `Zx2CgAAAAAD0T4ql/sberd/cU0TtPObQ`
+Snapshot ID: `Zx7UAAAAAACvNmB4+rZnM/v76g9z8YUp`

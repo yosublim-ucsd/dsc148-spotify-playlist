@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73535,
+  "num_followers": 73546,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
+        "name": "The Cup Was Not Removed",
+        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
+      },
+      "artists": [
+        {
+          "name": "Justin Tweito",
+          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
+        }
+      ],
+      "duration_ms": 236958,
+      "name": "The Cup Was Not Removed",
+      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
         "name": "Long Live The King (Versions) - EP",
         "url": "https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 353015,
       "name": "Long Live The King - Acoustic",
       "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
-        "name": "The Cup Was Not Removed",
-        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
-      },
-      "artists": [
-        {
-          "name": "Justin Tweito",
-          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
-        }
-      ],
-      "duration_ms": 236958,
-      "name": "The Cup Was Not Removed",
-      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1823,22 +1823,18 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "Long Live The King (Live At The Grove)",
-        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
       },
       "artists": [
         {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
         }
       ],
-      "duration_ms": 421616,
-      "name": "Long Live The King - Live At The Grove",
-      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
     }
   ],
   "unique_name": "Easter Worship",

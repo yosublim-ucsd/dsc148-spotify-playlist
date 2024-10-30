@@ -1,12 +1,12 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 124347,
+  "num_followers": 124349,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAAxkweeglq2breBlEdWrVwc",
+  "snapshot_id": "Zx7UAAAAAACNfD0xhtUpcRf9bKjMyh+8",
   "tracks": [
     {
       "added_at": null,
@@ -1039,30 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despi\u00e9rtate",
-        "url": "https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Despi\u00e9rtate",
-      "url": "https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Tiene Novio (Remix)",
         "url": "https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3"
       },
@@ -1091,22 +1067,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Beckham (Sped Up)",
-        "url": "https://open.spotify.com/album/4ezSd6uyCzOmdEaglFfIZh"
+        "name": "Despi\u00e9rtate",
+        "url": "https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF"
       },
       "artists": [
         {
-          "name": "High and Low HITS",
-          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
         },
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 110384,
-      "name": "David Beckham - Sped Up",
-      "url": "https://open.spotify.com/track/6BaUsACwuorUzPAMtSoNCz"
+      "duration_ms": 178866,
+      "name": "Despi\u00e9rtate",
+      "url": "https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 242417,
+      "name": "Mal de la Cabeza",
+      "url": "https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2"
     }
   ],
   "unique_name": "This Is Mau y Ricky",

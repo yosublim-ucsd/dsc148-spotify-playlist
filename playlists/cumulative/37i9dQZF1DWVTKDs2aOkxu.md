@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Declan McKenna is spoiling us this year 🥂
 
-245 songs - 14 hr 0 min
+246 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Cocoon](https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Cocoon](https://open.spotify.com/album/3lrZiTjmoBOseURTwpz0jn) | 3:37 | 2024-06-27 | 2024-08-23 |
 | [Coming Back To Me Good](https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Coming Back To Me Good](https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE) | 2:49 | 2024-06-27 | 2024-09-13 |
 | [Condensation](https://open.spotify.com/track/6qxmMJHgNQIhkElzO7yiLq) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Condensation](https://open.spotify.com/album/64ITjSJIAQ4kdafLTOvzVc) | 3:30 | 2024-09-26 | 2024-10-11 |
+| [Crocodile Tears](https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Crocodile Tears](https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J) | 3:23 | 2024-10-25 |  |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2024-08-23 |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-06-27 | 2024-07-12 |
 | [Death Grips](https://open.spotify.com/track/2xXgWlANgNbcuFZhD7NFSc) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Death Grips](https://open.spotify.com/album/0fK8Tmhs1ku4p3XAxJJrXd) | 3:33 | 2024-06-27 | 2024-09-21 |

@@ -3591,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "Jeongnyeon: The Star is Born, Pt. 3 : Spring days pass (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201320,
+      "name": "Spring days pass",
+      "url": "https://open.spotify.com/track/1WACArKm987xYhEAiuetlx"
+    },
+    {
+      "album": {
         "name": "Narcissus",
         "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
       },
@@ -4272,7 +4290,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 271280,
       "name": "Why break up? (My love X Jeon Sang Keun)",
       "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"

@@ -351,6 +351,26 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
+        "name": "ACUARIO",
+        "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 272695,
+      "name": "ACUARIO",
+      "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
+    },
+    {
+      "added_at": "2024-10-24 20:32:23",
+      "album": {
         "name": "Nico Valdi produciendo a Ruggero y Bernardita",
         "url": "https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 163124,
       "name": "Nico Valdi produciendo a Ruggero y Bernardita",
       "url": "https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK"
-    },
-    {
-      "added_at": "2024-10-24 20:32:23",
-      "album": {
-        "name": "ACUARIO",
-        "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 272695,
-      "name": "ACUARIO",
-      "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
     },
     {
       "added_at": "2024-10-24 20:32:23",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+      },
+      "artists": [
+        {
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
+    },
+    {
+      "added_at": "2024-10-24 20:32:23",
+      "album": {
         "name": "Nft",
         "url": "https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 205238,
       "name": "Entender la luz",
       "url": "https://open.spotify.com/track/6BF2d8f9xm8ws6orycS1cZ"
-    },
-    {
-      "added_at": "2024-10-24 20:32:23",
-      "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
-      },
-      "artists": [
-        {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2024-10-24 20:32:23",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
-        "name": "Reprimiendo",
-        "url": "https://open.spotify.com/album/77QPWd67DcTtHxTNI9gEkR"
+        "name": "El Modo",
+        "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
       },
       "artists": [
         {
-          "name": "Mariana Montenegro",
-          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        },
+        {
+          "name": "ELET\u00c9",
+          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
         }
       ],
-      "duration_ms": 242622,
-      "name": "Reprimiendo",
-      "url": "https://open.spotify.com/track/4jmmS4n61wGZJLpfPoggeC"
+      "duration_ms": 256120,
+      "name": "El Modo",
+      "url": "https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T"
     },
     {
       "added_at": "2024-10-24 20:32:23",
@@ -1383,22 +1387,18 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
-        "name": "El Modo",
-        "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
+        "name": "Reprimiendo",
+        "url": "https://open.spotify.com/album/77QPWd67DcTtHxTNI9gEkR"
       },
       "artists": [
         {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        },
-        {
-          "name": "ELET\u00c9",
-          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
+          "name": "Mariana Montenegro",
+          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
         }
       ],
-      "duration_ms": 256120,
-      "name": "El Modo",
-      "url": "https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T"
+      "duration_ms": 242622,
+      "name": "Reprimiendo",
+      "url": "https://open.spotify.com/track/4jmmS4n61wGZJLpfPoggeC"
     },
     {
       "added_at": "2024-10-24 20:32:23",

@@ -1,12 +1,12 @@
 {
   "description": "This is DZ Deathrays. The essential tracks, all in one playlist.",
-  "num_followers": 1263,
+  "num_followers": 1264,
   "original_name": "This Is DZ Deathrays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAAsIZb0bxpclTEgtrmDPUYm",
+  "snapshot_id": "Zx7UAAAAAAB/as3col8GhiI2m7ZX6pDY",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 141826,
-      "name": "Golden Retriever",
-      "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Positive Rising: Part 1",
         "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 264600,
       "name": "Hypercolour",
       "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Golden Retriever",
+      "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
       "duration_ms": 235080,
       "name": "Gebbie Street",
       "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/4NjJkdn01Mf5xGptES9225"
     },
     {
       "added_at": null,

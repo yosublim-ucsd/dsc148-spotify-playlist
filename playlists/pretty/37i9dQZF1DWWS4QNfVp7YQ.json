@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 81897,
+  "num_followers": 81941,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
-      },
-      "artists": [
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        },
-        {
-          "name": "Aneth",
-          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
-        }
-      ],
-      "duration_ms": 156401,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "El Tabano",
         "url": "https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 189393,
       "name": "Afroguaracha",
       "url": "https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
+      },
+      "artists": [
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Aneth",
+          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
+        }
+      ],
+      "duration_ms": 156401,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
     },
     {
       "added_at": "2024-07-05 22:41:57",

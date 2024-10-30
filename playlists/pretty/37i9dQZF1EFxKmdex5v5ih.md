@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,105 likes - 299 songs - 16 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,106 likes - 299 songs - 16 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 99 | [Julia](https://open.spotify.com/track/12YVZ3Tg4LyAJNsMJVtwQq) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:38 |
 | 100 | [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 |
 | 101 | [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/4OSq3SdsA8gdWifORPf3YE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4) | 3:06 |
-| 102 | [Runaway](https://open.spotify.com/track/60sX1vz8ToXYuaAvW5sYMs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Runaway](https://open.spotify.com/album/6wLkmUYF8riWVznDJQTsJ1) | 2:33 |
-| 103 | [Love The Hell Out Of You \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:25 |
+| 102 | [Love The Hell Out Of You \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:25 |
+| 103 | [Runaway](https://open.spotify.com/track/60sX1vz8ToXYuaAvW5sYMs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Runaway](https://open.spotify.com/album/6wLkmUYF8riWVznDJQTsJ1) | 2:33 |
 | 104 | [That's What I Get](https://open.spotify.com/track/0koOtMGSYQSbaUpSCoL9Kh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:30 |
 | 105 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 |
 | 106 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 |
@@ -231,8 +231,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 221 | [Polkamania!](https://open.spotify.com/track/1GXIST9gaPpWcRrRhHUcJb) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Polkamania!](https://open.spotify.com/album/1gqDuax64n9FHQxaFlyobc) | 4:06 |
 | 222 | [come back](https://open.spotify.com/track/1QwRhyt1sjYJXAWzFCBjuE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:36 |
 | 223 | [12 Steps](https://open.spotify.com/track/6ICq8jk5u7PQb1aMsUPTfk) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [12 Steps](https://open.spotify.com/album/4OhkTjW7uLkOFAdOWTnzw7) | 2:41 |
-| 224 | [Paralysed](https://open.spotify.com/track/1SD6lwPNEb656mfWu8O6yI) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [Ten](https://open.spotify.com/album/7hCYO8JXU2Ecp8oFezxD9w) | 3:42 |
-| 225 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 |
+| 224 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 |
+| 225 | [Paralysed](https://open.spotify.com/track/1SD6lwPNEb656mfWu8O6yI) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [Ten](https://open.spotify.com/album/7hCYO8JXU2Ecp8oFezxD9w) | 3:42 |
 | 226 | [Other People](https://open.spotify.com/track/3P1kMuiZGH7dTItGObGKTA) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Other People](https://open.spotify.com/album/75L5T6Dt03DU6dowoKX5v0) | 3:37 |
 | 227 | [Raindance \(feat\. Native Soul\)](https://open.spotify.com/track/2hkDX0w2KRgicE7nHzEU2v) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Native Soul](https://open.spotify.com/artist/1YhcreGr3lGJf6nOne2AIv) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 3:10 |
 | 228 | [Up With It](https://open.spotify.com/track/2oPS0YX8XtxtPy3VRgkP1t) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:29 |
@@ -250,9 +250,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 240 | [Live That Life](https://open.spotify.com/track/1oXPGzSMtAvPmd0EZDuxOO) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [Deeply Rooted: The Lost Files](https://open.spotify.com/album/6MA9cHn1RiTLGe0ZxCMIfp) | 3:03 |
 | 241 | [shine on](https://open.spotify.com/track/4WG69ltMTdZA8hPrgieNzn) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:57 |
 | 242 | [No Love Songs](https://open.spotify.com/track/0OI0XaMptcfdrGBWhZCTvW) | [Jess Kent](https://open.spotify.com/artist/6UAI6cR7qAewlSTWkRc7wI), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Bass Bumps](https://open.spotify.com/album/1lcaaSjyiCsPf0ZPzWXCY9) | 3:08 |
-| 243 | [Seeds](https://open.spotify.com/track/61poLI0B2Ezpith6HQc0fJ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 5:05 |
-| 244 | [Lost at Sea](https://open.spotify.com/track/68BsUOVteRYSFRQK830ciG) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [One in a Million](https://open.spotify.com/album/4GDE5FdlgBD3FE4A454YNz) | 3:07 |
-| 245 | [Gateway Drug](https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Gateway Drug](https://open.spotify.com/album/6d3GJAtOlhJDS6aK24Yf9v) | 3:00 |
+| 243 | [Gateway Drug](https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Gateway Drug](https://open.spotify.com/album/6d3GJAtOlhJDS6aK24Yf9v) | 3:00 |
+| 244 | [Seeds](https://open.spotify.com/track/61poLI0B2Ezpith6HQc0fJ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 5:05 |
+| 245 | [Lost at Sea](https://open.spotify.com/track/68BsUOVteRYSFRQK830ciG) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [One in a Million](https://open.spotify.com/album/4GDE5FdlgBD3FE4A454YNz) | 3:07 |
 | 246 | [the chase](https://open.spotify.com/track/7fmVgRV5pOAswl7HC2Z6P4) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [the better half of me](https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj) | 3:13 |
 | 247 | [Wonderland \(My Name Is Alice\)](https://open.spotify.com/track/1rhsSBqFquASX0hyihA2K2) | [Alice Chater](https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93) | [Wonderland \(My Name Is Alice\)](https://open.spotify.com/album/5mZ4QIoN4l2i1lYfKImgUx) | 2:39 |
 | 248 | [Broken Like Me](https://open.spotify.com/track/00HNVblyBbbKCzJZhxofeW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:16 |
@@ -308,4 +308,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 298 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 |
 | 299 | [With or Without \- Live](https://open.spotify.com/track/4pVx0df00wwPN8IkbZBWda) | [R.A.H](https://open.spotify.com/artist/4Rz6ZsosxzkgkGqKFqYXNG) | [Live From The Roof](https://open.spotify.com/album/0MIbD4UmCfjcnOhBcSPPv1) | 6:42 |
 
-Snapshot ID: `AbgBVAAAAAAKLyemjprlhQzJ0ES0DqcF`
+Snapshot ID: `AbgG9AAAAACKts+E4NUOxvIvLgDQDbm7`

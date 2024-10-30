@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Akanksha Bhandari
 
-239 songs - 13 hr 14 min
+240 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Doorie](https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Doorie](https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd) | 3:53 | 2023-05-02 |  |
 | [Dooriyan](https://open.spotify.com/track/2Xv0vK2VujSX05LGQbDxNd) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dooriyan](https://open.spotify.com/album/4BOujWmDMwZosg7mvW0Y9x) | 3:59 | 2024-03-26 |  |
 | [Enna Sona](https://open.spotify.com/track/3FZBGD1Dosgw8hsTtrDmTn) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Enna Sona](https://open.spotify.com/album/3EScBmh7oNVeBFJwgc3QBp) | 2:36 | 2023-05-02 |  |
+| [Falak](https://open.spotify.com/track/2GkmxOZ0hrTk3ey6fqtgSS) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Kutle Khan](https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE), [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Falak](https://open.spotify.com/album/4yf5coqfiRHGShTIhLbwwx) | 3:25 | 2024-10-24 |  |
 | [Feel You Now](https://open.spotify.com/track/1qvG2HriblOKz5d6lMT81E) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Feel You Now](https://open.spotify.com/album/1QjVRLJLQ3wM1RY9AznBlC) | 2:14 | 2023-05-02 | 2024-01-18 |
 | [Fida](https://open.spotify.com/track/1RnGyOqCbgpfmSh423M4t1) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Fida](https://open.spotify.com/album/0JQ7xpuT2g8TlnT8r7hamD) | 2:52 | 2023-07-20 | 2023-12-30 |
 | [Galti \(feat\. MxRZI\)](https://open.spotify.com/track/6x4XXWgys2J3FmuguwVyPP) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [MxRZI](https://open.spotify.com/artist/5xtJsbtEJXs2VpRBShJa1E) | [Galti \(feat\. MxRZI\)](https://open.spotify.com/album/6xKcG6vHS4MJjNFEpqYdKs) | 3:31 | 2024-04-05 | 2024-07-27 |
@@ -84,7 +85,7 @@
 | [Jaadugari](https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Jaadugari](https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8) | 2:33 | 2024-06-18 |  |
 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 | 2023-05-02 |  |
 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 | 2023-07-18 |  |
-| [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-06 |  |
+| [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-06 | 2024-10-30 |
 | [jaaye na tu](https://open.spotify.com/track/6dCpB0vj7xrBMyOH0mDuNN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:23 | 2023-05-02 | 2024-05-09 |
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-05-02 |  |
 | [Jogan](https://open.spotify.com/track/0Szj0LBTvfXmxgIXFGqg4H) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Devashri Manohar](https://open.spotify.com/artist/3RZPXSfPo0Fqr18tVXeuW1) | [Jogan / Preet](https://open.spotify.com/album/7wLuY53xqzFDf52LvxW4qS) | 2:38 | 2023-12-15 | 2024-01-25 |

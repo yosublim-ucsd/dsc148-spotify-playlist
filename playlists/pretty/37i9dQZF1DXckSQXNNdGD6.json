@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: MAYO.",
-  "num_followers": 18950,
+  "num_followers": 18948,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Perdiendo el tiempo",
-        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 166528,
-      "name": "Perdiendo el tiempo",
-      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "Piensa En Positivo (Madrid Pride 2020 by Juan Sueiro)",
         "url": "https://open.spotify.com/album/6cGLfGdIZennoCqTbjejsY"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
+        "name": "Perdiendo el tiempo",
+        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 166528,
+      "name": "Perdiendo el tiempo",
+      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
         "name": "Confieso",
         "url": "https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU"
       },
@@ -891,22 +891,18 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "3 AMIGAS TUYAS",
-        "url": "https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv"
+        "name": "Prometo (Edici\u00f3n especial)",
+        "url": "https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep"
       },
       "artists": [
         {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        },
-        {
-          "name": "EDDI CIRCA",
-          "url": "https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 184152,
-      "name": "3 AMIGAS TUYAS",
-      "url": "https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S"
+      "duration_ms": 198053,
+      "name": "No vaya a ser",
+      "url": "https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -927,18 +923,22 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Prometo (Edici\u00f3n especial)",
-        "url": "https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep"
+        "name": "3 AMIGAS TUYAS",
+        "url": "https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        },
+        {
+          "name": "EDDI CIRCA",
+          "url": "https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa"
         }
       ],
-      "duration_ms": 198053,
-      "name": "No vaya a ser",
-      "url": "https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6"
+      "duration_ms": 184152,
+      "name": "3 AMIGAS TUYAS",
+      "url": "https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S"
     },
     {
       "added_at": "2024-10-01 22:00:00",

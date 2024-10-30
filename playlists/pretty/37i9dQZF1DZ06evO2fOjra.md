@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,259 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,435 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 49 | [Prey for Me](https://open.spotify.com/track/1XlGDlukA1wO9SG4gCcHjh) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift](https://open.spotify.com/album/3t7K6sSe7KlcwvlhiNbnRo) | 3:35 |
 | 50 | [Hold On](https://open.spotify.com/track/2auOcw84LOvAYpbImw8Tid) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled](https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi) | 3:05 |
 
-Snapshot ID: `Zx2CgAAAAAB7PvS0UTB3hcxWMSfe1S0u`
+Snapshot ID: `Zx7UAAAAAAACm0EDQmb5WJDdyAZib/El`

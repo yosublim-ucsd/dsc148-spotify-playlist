@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\.  Cover: AKASAKI
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\.  Cover: King Gnu
 
-1,399 songs - 3 day 15 hr 2 min
+1,402 songs - 3 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Death Anniversary](https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Death Anniversary](https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt) | 3:21 | 2023-08-13 | 2023-10-16 |
 | [Decision](https://open.spotify.com/track/28zFjzWhW87CSuGtn9PHJZ) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Decision](https://open.spotify.com/album/0ZbngirqcVnHwtTygqjwZn) | 3:22 | 2022-07-25 | 2022-08-08 |
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2022-12-11 | 2023-01-09 |
-| [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-16 |  |
+| [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-16 | 2024-10-30 |
 | [Demon](https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [Demon](https://open.spotify.com/album/4m0qYtUPfTAPtCitvg1Bz1) | 2:54 | 2023-10-29 | 2023-11-06 |
 | [Diary](https://open.spotify.com/track/3zpQOYESpZj2mDPrgy3fRT) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Diary](https://open.spotify.com/album/3AYy5886YMf41BzIt8ntMy) | 4:02 | 2021-12-19 | 2022-01-24 |
 | [DIGNITY](https://open.spotify.com/track/1BDCBbdTDQo3JxC0kVDSqP) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [DIGNITY](https://open.spotify.com/album/0yeSKha3HfhzdjVNnrqLks) | 4:12 | 2023-09-24 | 2023-10-02 |
@@ -162,6 +162,7 @@
 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 | 2023-04-30 | 2023-08-21 |
 | [Drippin' Desert](https://open.spotify.com/track/3oIRoQoLagPUYw3JcvuVeq) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 4:19 | 2022-07-31 | 2022-08-08 |
 | [Drivin'](https://open.spotify.com/track/5dTFgyqxUJENFQgT3WpYDQ) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Drivin'](https://open.spotify.com/album/7hFgHs48yLBm8Q5WOLBSCJ) | 2:51 | 2022-07-24 | 2022-08-01 |
+| [Dystopia](https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu) | 3:09 | 2024-10-29 |  |
 | [EDEN](https://open.spotify.com/track/1OqhdM5mUZ5fJeh4s5vhxg) | [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx) | [EDEN](https://open.spotify.com/album/3vQHDzTYpr08HLbHprAInT) | 3:54 | 2023-09-24 | 2023-10-09 |
 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 | 2023-03-05 | 2023-03-13 |
 | [Edison](https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:13 | 2022-08-14 | 2022-10-03 |
@@ -356,6 +357,7 @@
 | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/track/0qjWX3mtR845RXlbrt9RJS) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/album/47fiiDihH7dce4HLaz9c57) | 7:02 | 2023-12-03 | 2024-01-01 |
 | [KIZAO](https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [KIZAO](https://open.spotify.com/album/6QrInZintbiWaOGfxE5RtK) | 3:40 | 2024-10-22 |  |
 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 | 2023-10-05 | 2023-11-27 |
+| [Kusege](https://open.spotify.com/track/4Ekl0MpYIJO7JewY0zm4nE) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Kusege](https://open.spotify.com/album/7sJNutkJ6kuPq3KEuPsAEr) | 4:08 | 2024-10-29 |  |
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-03-19 | 2023-06-03 |
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2023-03-20 | 2023-06-26 |
 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 | 2022-01-02 | 2022-01-24 |
@@ -412,7 +414,7 @@
 | [Mango Loco](https://open.spotify.com/track/7fGL8klE3gOPwwcXZSuPaf) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [Mango Loco](https://open.spotify.com/album/69zvhlArAwTb4zItCfYt7I) | 2:13 | 2022-04-17 | 2022-04-25 |
 | [MANINGEN](https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [MANINGEN](https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR) | 2:51 | 2023-08-13 | 2023-09-11 |
 | [Marvelous Persona](https://open.spotify.com/track/2rDzzZW7FS8xixmu0O6Ohh) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Marvelous Persona](https://open.spotify.com/album/5u4gcYdolL38QVLf65SPMp) | 4:15 | 2022-11-20 | 2022-11-28 |
-| [MASCARA](https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [MASCARA](https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC) | 3:35 | 2024-10-08 |  |
+| [MASCARA](https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [MASCARA](https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC) | 3:35 | 2024-10-08 | 2024-10-30 |
 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 | 2022-07-03 | 2022-09-12 |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-05-07 | 2024-08-07 |
 | [Matsuri](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:45 | 2023-02-01 | 2023-03-06 |
@@ -865,6 +867,7 @@
 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 | 2022-01-16 | 2022-04-18 |
 | [なんとなく。](https://open.spotify.com/track/685E7VfekdXLLM2KB6zpav) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [なんとなく。](https://open.spotify.com/album/6wmxYxhAHvyk8quHsrrgHT) | 4:38 | 2022-09-04 | 2022-09-12 |
 | [ねがう夜](https://open.spotify.com/track/27EBcW5NBt5RQMHQtsBmtB) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [ねがう夜](https://open.spotify.com/album/3nzf4xPe6qErRQddM3aPcM) | 3:55 | 2022-04-17 | 2022-05-23 |
+| [ねっこ](https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [ねっこ](https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR) | 3:59 | 2024-10-29 |  |
 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 | 2024-07-02 |  |
 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 | 2023-11-15 | 2023-12-11 |
 | [ばかまじめ](https://open.spotify.com/track/55emtNBnUXszixuQj4Fg6I) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE), [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ばかまじめ](https://open.spotify.com/album/7mPLlf15PnyXUGB0Q3sUsM) | 2:52 | 2022-03-27 | 2022-06-06 |
@@ -1399,7 +1402,7 @@
 | [飛天](https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [飛天](https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD) | 3:03 | 2023-07-09 | 2023-07-31 |
 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-15 | 2023-11-16 |
 | [飽和](https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [飽和 / シネマ](https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD) | 3:05 | 2022-10-02 | 2022-11-24 |
-| [馬鹿みたい。](https://open.spotify.com/track/7cHOtKAEjCWum8J3t1XDrn) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [馬鹿みたい。](https://open.spotify.com/album/16wfNJnCYLrrUrpJwzIdMo) | 4:45 | 2024-08-06 |  |
+| [馬鹿みたい。](https://open.spotify.com/track/7cHOtKAEjCWum8J3t1XDrn) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [馬鹿みたい。](https://open.spotify.com/album/16wfNJnCYLrrUrpJwzIdMo) | 4:45 | 2024-08-06 | 2024-10-30 |
 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-21 | 2024-06-12 |
 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 | 2022-07-24 | 2022-10-12 |
 | [魔法にかけられて](https://open.spotify.com/track/03RD1XAEH7lSTrYe4zMDl9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [魔法にかけられて](https://open.spotify.com/album/52fv6XcFtPnEIp63WL2bAE) | 4:14 | 2022-03-27 | 2022-05-02 |

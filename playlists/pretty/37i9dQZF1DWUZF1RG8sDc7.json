@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 136213,
+  "num_followers": 136300,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -67,26 +67,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Titulo De Amor",
-        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "T\u00fa Eres La Reina",
-      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Canto Vallenato",
         "url": "https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 317893,
       "name": "Ay Hombe",
       "url": "https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Titulo De Amor",
+        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "T\u00fa Eres La Reina",
+      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -187,18 +187,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Version Original",
-        "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
+        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
+        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 296620,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux"
+      "duration_ms": 318133,
+      "name": "No Podr\u00e1n Separarnos",
+      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -223,26 +227,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
-        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 318133,
-      "name": "No Podr\u00e1n Separarnos",
-      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Seguimos Por Lo Alto",
         "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 294400,
       "name": "Hoy Me Di Cuenta",
       "url": "https://open.spotify.com/track/3jz0yIwy75UoCgyNMwlVT9"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Version Original",
+        "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 296620,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -351,6 +351,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Son Para El Mundo",
+        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 232320,
       "name": "Al Fin Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/7jZJm3yRLCKxmJ3kxUtp6f"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Son Para El Mundo",
-        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -503,22 +503,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         },
         {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 283186,
-      "name": "Te Perdone",
-      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
+      "duration_ms": 315087,
+      "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -543,6 +543,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 283186,
+      "name": "Te Perdone",
+      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "A Mi Manera",
         "url": "https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 287346,
       "name": "Te Amo y Te Amo",
       "url": "https://open.spotify.com/track/1oGQsCmd5B0AyqX1YW0Qm7"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 315087,
-      "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
     },
     {
       "added_at": "2024-03-28 01:45:52",

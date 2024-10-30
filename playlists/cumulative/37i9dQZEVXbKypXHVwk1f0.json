@@ -888,7 +888,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 278644,
       "name": "ADIVINO",
       "url": "https://open.spotify.com/track/0eeX8L0DWvGth1F6xVkvv7"
@@ -9653,6 +9653,24 @@
     },
     {
       "album": {
+        "name": "Gimmie Gimmie",
+        "url": "https://open.spotify.com/album/0tIpoEReZ4HsiB2E9KIGDE"
+      },
+      "artists": [
+        {
+          "name": "Daniel Da Silva",
+          "url": "https://open.spotify.com/artist/6P6EnZjh4KU9NEO9Jbjbw0"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177352,
+      "name": "Gimmie Gimmie",
+      "url": "https://open.spotify.com/track/4tU6T6mIYajUvTBDCjU2GI"
+    },
+    {
+      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
@@ -15370,7 +15388,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -17228,6 +17246,24 @@
       "duration_ms": 213189,
       "name": "Nunca Digas Jam\u00e1s",
       "url": "https://open.spotify.com/track/40V8awZXT0DdTcYOzRHH61"
+    },
+    {
+      "album": {
+        "name": "Nuttella",
+        "url": "https://open.spotify.com/album/7xM1osV29xlTQMt9diDmqx"
+      },
+      "artists": [
+        {
+          "name": "Susy G",
+          "url": "https://open.spotify.com/artist/5ZWB5gZymEN3gmATcZJK1w"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174117,
+      "name": "Nuttella",
+      "url": "https://open.spotify.com/track/0WYhJeCjmPcsYRfATyoHzz"
     },
     {
       "album": {
@@ -23518,7 +23554,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 207746,
       "name": "SORRY 4 THAT MUCH",
       "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
@@ -28116,6 +28152,36 @@
       "duration_ms": 153900,
       "name": "Yo Te Llamo",
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
+    },
+    {
+      "album": {
+        "name": "Yo Te Quiero (feat. Chris Jonex)",
+        "url": "https://open.spotify.com/album/30l1FG5sTXJH2ZLBeAkXWn"
+      },
+      "artists": [
+        {
+          "name": "Bimbo el Oso Ma\u00f1oso",
+          "url": "https://open.spotify.com/artist/2P5WbTImnPSJQV4ZbQuQZ3"
+        },
+        {
+          "name": "Big Metra",
+          "url": "https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU"
+        },
+        {
+          "name": "KIO \"El Historiador\"",
+          "url": "https://open.spotify.com/artist/3bkz7ccHi6jiOIag1UyKkE"
+        },
+        {
+          "name": "Chris Jonex",
+          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195535,
+      "name": "Yo Te Quiero (feat. Chris Jonex)",
+      "url": "https://open.spotify.com/track/5rRYtMoEDY3HrvV13jcsom"
     },
     {
       "album": {

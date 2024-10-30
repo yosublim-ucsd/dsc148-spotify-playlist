@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 59734,
+  "num_followers": 59748,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAABBz0lat8SVsobFln8IoMFM",
+  "snapshot_id": "Zx7UAAAAAAB1oXqOj+/aIYB4sijiK8mj",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Exitos: La Maquina Musical Numero Uno",
-        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
+        "name": "Seguimos Firme",
+        "url": "https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 202426,
-      "name": "No Le Digas a Nadie",
-      "url": "https://open.spotify.com/track/2ZWrmyPmx09XR0jPWkyrU3"
+      "duration_ms": 211962,
+      "name": "Presiento Que Voy a Llorar",
+      "url": "https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Firme",
-        "url": "https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7"
+        "name": "\u00c9xitos Recientes y Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/2ePeZ2R1SVuS0HzmJguVm1"
       },
       "artists": [
         {
@@ -612,9 +612,25 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 211962,
-      "name": "Presiento Que Voy a Llorar",
-      "url": "https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52"
+      "duration_ms": 181346,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/1PL4HE40pSXt8SWkBND1la"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Exitos: La Maquina Musical Numero Uno",
+        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 202426,
+      "name": "No Le Digas a Nadie",
+      "url": "https://open.spotify.com/track/2ZWrmyPmx09XR0jPWkyrU3"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos Recientes y Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/2ePeZ2R1SVuS0HzmJguVm1"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Gabino Barrera",
-      "url": "https://open.spotify.com/track/1PL4HE40pSXt8SWkBND1la"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Clasicas del Ayer, Vol. 1",
         "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 171533,
       "name": "Falsa y Mancornadora",
       "url": "https://open.spotify.com/track/5lIOB6lSPG1rQtpiQwVyze"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Exitos: La Maquina Musical Numero Uno",
-        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 Exitos: La Maquina Musical Numero Uno",
+        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobre Los Rieles",
         "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 162560,
       "name": "Estabas Tan Linda",
       "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos Historicos, Vol. 2",
+        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Amor Ingrato",
+      "url": "https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
       "duration_ms": 189426,
       "name": "Una Mujer Como T\u00fa",
       "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Exitos Historicos, Vol. 2",
-        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Amor Ingrato",
-      "url": "https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04"
     },
     {
       "added_at": null,

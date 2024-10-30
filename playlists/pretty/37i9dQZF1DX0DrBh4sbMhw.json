@@ -1,13 +1,29 @@
 {
   "description": "ang lalim",
-  "num_followers": 441187,
+  "num_followers": 441215,
   "original_name": "magmuni-muni",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxpr/AAAAAB5Hcp7qkufDppcWnXQHFsV",
+  "snapshot_id": "ZyGVyQAAAAAC7qjikPxPcxRZDlL8BJov",
   "tracks": [
+    {
+      "added_at": "2024-10-30 02:11:21",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
     {
       "added_at": "2024-10-24 15:47:08",
       "album": {

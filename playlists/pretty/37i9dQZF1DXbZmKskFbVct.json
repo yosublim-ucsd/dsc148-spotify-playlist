@@ -1,6 +1,6 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 36398,
+  "num_followers": 36404,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Intense Relaxation",
-        "url": "https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8"
-      },
-      "artists": [
-        {
-          "name": "ASMR Glow",
-          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
-        }
-      ],
-      "duration_ms": 447873,
-      "name": "Intense Relaxation Pt.2",
-      "url": "https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
         "name": "Personal Attention and Positive Affirmations Just For You",
         "url": "https://open.spotify.com/album/6Kf13BVT0bA0m0GsgqX4Hn"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 306201,
       "name": "Personal Attention and Positive Affirmations Just For You Pt.1",
       "url": "https://open.spotify.com/track/1zQ7QdMU2RKHR3mAzPHtJm"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
+        "name": "Intense Relaxation",
+        "url": "https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8"
+      },
+      "artists": [
+        {
+          "name": "ASMR Glow",
+          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
+        }
+      ],
+      "duration_ms": 447873,
+      "name": "Intense Relaxation Pt.2",
+      "url": "https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -347,54 +347,6 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Triggers I'm Wearing",
-        "url": "https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ"
-      },
-      "artists": [
-        {
-          "name": "ASMR Glow",
-          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
-        }
-      ],
-      "duration_ms": 277763,
-      "name": "Triggers I'm Wearing Pt.1",
-      "url": "https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
-        "name": "Laura Says ASMR",
-        "url": "https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8"
-      },
-      "artists": [
-        {
-          "name": "Laura Love ASMR",
-          "url": "https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn"
-        }
-      ],
-      "duration_ms": 244129,
-      "name": "Breathing in and out",
-      "url": "https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
-        "name": "Close Ear to Ear Whispered Countdown to Sleep",
-        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
-      },
-      "artists": [
-        {
-          "name": "HeatheredEffect ASMR",
-          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
-        }
-      ],
-      "duration_ms": 296698,
-      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.2",
-      "url": "https://open.spotify.com/track/1volF5Eo78NkxftiB0pg75"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
         "name": "Tapping and Crinkling",
         "url": "https://open.spotify.com/album/3KBp6agI6ObJbX1wR063Vr"
       },
@@ -427,6 +379,54 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
+        "name": "Triggers I'm Wearing",
+        "url": "https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ"
+      },
+      "artists": [
+        {
+          "name": "ASMR Glow",
+          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
+        }
+      ],
+      "duration_ms": 277763,
+      "name": "Triggers I'm Wearing Pt.1",
+      "url": "https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
+        "name": "Close Ear to Ear Whispered Countdown to Sleep",
+        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
+      },
+      "artists": [
+        {
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+        }
+      ],
+      "duration_ms": 296698,
+      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.2",
+      "url": "https://open.spotify.com/track/1volF5Eo78NkxftiB0pg75"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
+        "name": "Laura Says ASMR",
+        "url": "https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8"
+      },
+      "artists": [
+        {
+          "name": "Laura Love ASMR",
+          "url": "https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn"
+        }
+      ],
+      "duration_ms": 244129,
+      "name": "Breathing in and out",
+      "url": "https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
         "name": "ASMR Whispers",
         "url": "https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 156115,
       "name": "Pen Whisper Description",
       "url": "https://open.spotify.com/track/0IPEY8pEz91Q28z1HHgj8z"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
-        "name": "Laura Says ASMR",
-        "url": "https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8"
-      },
-      "artists": [
-        {
-          "name": "Laura Love ASMR",
-          "url": "https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn"
-        }
-      ],
-      "duration_ms": 224891,
-      "name": "Laura Says ASMR",
-      "url": "https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -523,6 +507,22 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
+        "name": "Laura Says ASMR",
+        "url": "https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8"
+      },
+      "artists": [
+        {
+          "name": "Laura Love ASMR",
+          "url": "https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn"
+        }
+      ],
+      "duration_ms": 224891,
+      "name": "Laura Says ASMR",
+      "url": "https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
         "name": "Sending Tingle Sleep Vibes",
         "url": "https://open.spotify.com/album/0hpRT3bt8D7RYRY3MUrBsw"
       },
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
+        "name": "Violet is BACK to help you fall sleep",
+        "url": "https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw"
+      },
+      "artists": [
+        {
+          "name": "RoseASMR",
+          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
+        }
+      ],
+      "duration_ms": 277354,
+      "name": "Violet is BACK to help you fall sleep Pt.1",
+      "url": "https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
         "name": "Intensely Crunchy Celery Eating",
         "url": "https://open.spotify.com/album/40JIcThcdSCG0hGyxKQDec"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "DEEP SLEEP in 45 Minutes",
-        "url": "https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u"
-      },
-      "artists": [
-        {
-          "name": "Alana ASMR",
-          "url": "https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM"
-        }
-      ],
-      "duration_ms": 298347,
-      "name": "DEEP SLEEP in 45 Minutes Pt.3",
-      "url": "https://open.spotify.com/track/0vDgu0Eyll8tdk1ai6J94q"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
         "name": "May I Touch You?",
         "url": "https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw"
       },
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Violet is BACK to help you fall sleep",
-        "url": "https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw"
+        "name": "DEEP SLEEP in 45 Minutes",
+        "url": "https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u"
       },
       "artists": [
         {
-          "name": "RoseASMR",
-          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
+          "name": "Alana ASMR",
+          "url": "https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM"
         }
       ],
-      "duration_ms": 277354,
-      "name": "Violet is BACK to help you fall sleep Pt.1",
-      "url": "https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg"
+      "duration_ms": 298347,
+      "name": "DEEP SLEEP in 45 Minutes Pt.3",
+      "url": "https://open.spotify.com/track/0vDgu0Eyll8tdk1ai6J94q"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
+        "name": "Checking Up On You (Scratch, Tapping, Ramble)",
+        "url": "https://open.spotify.com/album/6jBVHUHGixqktpxgeX9YBy"
+      },
+      "artists": [
+        {
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Do You Have Plans?",
+      "url": "https://open.spotify.com/track/6AEOwjjFIvwtHy77gwiHiQ"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
         "name": "ASMR 8D Mic Scratching w/Spoolie and Slow Whispering",
         "url": "https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 206000,
       "name": "8D Mic Scratching with Spoolie and Slow Whispering, Pt. 4",
       "url": "https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
-        "name": "Whispering Things Your Brain Needs To Hear",
-        "url": "https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di"
-      },
-      "artists": [
-        {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
-        }
-      ],
-      "duration_ms": 909500,
-      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
-      "url": "https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Checking Up On You (Scratch, Tapping, Ramble)",
-        "url": "https://open.spotify.com/album/6jBVHUHGixqktpxgeX9YBy"
+        "name": "Whispering Things Your Brain Needs To Hear",
+        "url": "https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di"
       },
       "artists": [
         {
-          "name": "ASMR Leedah",
-          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
         }
       ],
-      "duration_ms": 321000,
-      "name": "Do You Have Plans?",
-      "url": "https://open.spotify.com/track/6AEOwjjFIvwtHy77gwiHiQ"
+      "duration_ms": 909500,
+      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
+      "url": "https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL"
     },
     {
       "added_at": "2024-08-30 08:51:58",

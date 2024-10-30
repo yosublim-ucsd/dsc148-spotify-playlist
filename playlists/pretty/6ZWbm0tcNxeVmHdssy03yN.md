@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 44,767 likes - 95 songs - 4 hr 45 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 44,778 likes - 95 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 58 | [Flaws In Design \- Little Foot Remix](https://open.spotify.com/track/2P66qAbnC96M6WPMPr7Foo) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA), [Little Foot](https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1) | [Flaws In Design \(Little Foot Remix\)](https://open.spotify.com/album/44xAvYv4Ea910qiky9E3sA) | 3:39 |
 | 59 | [Dayshawn](https://open.spotify.com/track/3yVMyys3xdO104xMjbxdLj) | [DAYSHAWN](https://open.spotify.com/artist/6A5zU0mCwDtWHo13LSzvX5) | [Dayshawn](https://open.spotify.com/album/1RILNBqd8tJTjV6znd5Kwz) | 2:51 |
 | 60 | [SPELL IT OUT FREESTYLE](https://open.spotify.com/track/7o2iBosc7MJJfU4ht70kqg) | [TINEZ](https://open.spotify.com/artist/7eAziNg8S3NJiBsGCXjYbF) | [SPELL IT OUT FREESTYLE](https://open.spotify.com/album/2HbZf6HNjJfHTgflo0cDqm) | 2:10 |
-| 61 | [défauts](https://open.spotify.com/track/28Xqpk5nNKJPAtzziLlwPM) | [AMO](https://open.spotify.com/artist/7ymzaplgxOHvLpqgsv0FcO), [Lucas Paramour](https://open.spotify.com/artist/62wgyHOBpYTjigToRc1ToF) | [défauts](https://open.spotify.com/album/2ZIr1cOYhb2OLh5EYzTRB7) | 1:33 |
+| 61 | [défauts](https://open.spotify.com/track/28Xqpk5nNKJPAtzziLlwPM) | [AMO](https://open.spotify.com/artist/7ymzaplgxOHvLpqgsv0FcO), [Lucas Paramour](https://open.spotify.com/artist/75684NvQnyITmThzri3TCm) | [défauts](https://open.spotify.com/album/2ZIr1cOYhb2OLh5EYzTRB7) | 1:33 |
 | 62 | [2BADGYALZ](https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [2BADGYALZ](https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC) | 1:41 |
 | 63 | [ADHD](https://open.spotify.com/track/78u5VoZnPetcm1KVzkLsO3) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv) | [ADHD](https://open.spotify.com/album/2XplKfwnm8fGcjd2zag15X) | 2:05 |
 | 64 | [Tip](https://open.spotify.com/track/37iPxQArUYztawoasUa4iv) | [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Tip](https://open.spotify.com/album/1hzVmeKjODeApmrHRn7C6F) | 4:14 |

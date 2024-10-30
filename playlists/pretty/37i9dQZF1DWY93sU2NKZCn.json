@@ -1,6 +1,6 @@
 {
   "description": "No quieren compromiso, solo quieren bellaquera. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 16875,
+  "num_followers": 16984,
   "original_name": "yo no me porto bonito \ud83d\ude08",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
-        "name": "La Jumpa",
-        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "La Jumpa",
-      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
         "name": "Trap Capos II",
         "url": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 260493,
       "name": "De las 2 (feat. Bad Bunny & Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/4DS7HoqrKq1dDjeYOKBlu9"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
+        "name": "La Jumpa",
+        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
     },
     {
       "added_at": "2023-07-18 19:16:03",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
-        "name": "Me Acostumbre (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Me Acostumbre (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
+        "name": "Me Acostumbre (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Me Acostumbre (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
     },
     {
       "added_at": "2023-07-18 19:16:03",

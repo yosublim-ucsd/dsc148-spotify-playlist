@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 168426,
       "name": "BROAD DAY (feat. Future)",
       "url": "https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg"
@@ -5919,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165412,
+      "name": "Rah Tah Tah",
+      "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
+    },
+    {
+      "album": {
         "name": "Rambo",
         "url": "https://open.spotify.com/album/1Igno8iFQcVi2jWe94h4Lr"
       },
@@ -7246,13 +7264,21 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
         }
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207272,
-      "name": "Thought I Was Dead",
+      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
       "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
     },
     {

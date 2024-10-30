@@ -1,6 +1,6 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Mica Sotera.",
-  "num_followers": 142625,
+  "num_followers": 142636,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "Va totalmente en serio...",
-        "url": "https://open.spotify.com/album/0A7r87gaqIDH5fxRDO9O0U"
-      },
-      "artists": [
-        {
-          "name": "Aiko el grupo",
-          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
-        }
-      ],
-      "duration_ms": 150236,
-      "name": "A m\u00ed ya me iba mal de antes",
-      "url": "https://open.spotify.com/track/51AdRQrcgO0ds6i7uZaNsA"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 207296,
       "name": "La Apuesta",
       "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "Va totalmente en serio...",
+        "url": "https://open.spotify.com/album/0A7r87gaqIDH5fxRDO9O0U"
+      },
+      "artists": [
+        {
+          "name": "Aiko el grupo",
+          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
+        }
+      ],
+      "duration_ms": 150236,
+      "name": "A m\u00ed ya me iba mal de antes",
+      "url": "https://open.spotify.com/track/51AdRQrcgO0ds6i7uZaNsA"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -823,18 +823,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "tir\u00e9",
-        "url": "https://open.spotify.com/album/43HRzAOVSUL0HnpXBBdhyx"
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
       "artists": [
         {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        },
+        {
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
         }
       ],
-      "duration_ms": 150037,
-      "name": "tir\u00e9",
-      "url": "https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl"
+      "duration_ms": 184256,
+      "name": "Con Mi Amiga",
+      "url": "https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -855,22 +859,18 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
+        "name": "tir\u00e9",
+        "url": "https://open.spotify.com/album/43HRzAOVSUL0HnpXBBdhyx"
       },
       "artists": [
         {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        },
-        {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
         }
       ],
-      "duration_ms": 184256,
-      "name": "Con Mi Amiga",
-      "url": "https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE"
+      "duration_ms": 150037,
+      "name": "tir\u00e9",
+      "url": "https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "PARAISO",
-        "url": "https://open.spotify.com/album/4ICOWYS8pohhyp1T725LIr"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 136864,
-      "name": "PARAISO",
-      "url": "https://open.spotify.com/track/2W5fiXSkXIvmbvHsNjqJTD"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/0ThXnszjIO8XyZwXKdmVXP"
       },
@@ -979,6 +963,38 @@
       "duration_ms": 138509,
       "name": "A TI",
       "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "PARAISO",
+        "url": "https://open.spotify.com/album/4ICOWYS8pohhyp1T725LIr"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 136864,
+      "name": "PARAISO",
+      "url": "https://open.spotify.com/track/2W5fiXSkXIvmbvHsNjqJTD"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "La Loba",
+        "url": "https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR"
+      },
+      "artists": [
+        {
+          "name": "La Chica",
+          "url": "https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr"
+        }
+      ],
+      "duration_ms": 186764,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/4OWi0FuiCj3Yy178rGV9NB"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1031,38 +1047,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "La Loba",
-        "url": "https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR"
-      },
-      "artists": [
-        {
-          "name": "La Chica",
-          "url": "https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/4OWi0FuiCj3Yy178rGV9NB"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "100PRE",
-        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 205511,
-      "name": "100PRE",
-      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
         "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 386900,
       "name": "Chica Violeta",
       "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "100PRE",
+        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 205511,
+      "name": "100PRE",
+      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
-      },
-      "artists": [
-        {
-          "name": "Najwa",
-          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "Mu\u00f1equita Linda",
-      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "AZ\u00daCAR",
         "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
+      },
+      "artists": [
+        {
+          "name": "Najwa",
+          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Mu\u00f1equita Linda",
+      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Running Up That Hill - Spotify Singles",
         "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 220005,
       "name": "Running Up That Hill - Spotify Singles",
       "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/2FcKiL8crgFeGdpYbEHL7w"
-      },
-      "artists": [
-        {
-          "name": "JUSTINA",
-          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
-        }
-      ],
-      "duration_ms": 219488,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3oIVINAunwYTLz8gGOuk0F"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1275,6 +1259,22 @@
       "duration_ms": 151418,
       "name": "El Pa\u00f1uelo De Estrella",
       "url": "https://open.spotify.com/track/1Ql5w1SmnLowl0DggSdAIy"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2FcKiL8crgFeGdpYbEHL7w"
+      },
+      "artists": [
+        {
+          "name": "JUSTINA",
+          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
+        }
+      ],
+      "duration_ms": 219488,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3oIVINAunwYTLz8gGOuk0F"
     },
     {
       "added_at": "2024-09-12 21:12:12",

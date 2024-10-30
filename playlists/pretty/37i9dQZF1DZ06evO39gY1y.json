@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 232457,
+  "num_followers": 232504,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAA0UQFDTg9XX8lpjf7XPXb7",
+  "snapshot_id": "Zx7UAAAAAABX6q9Lzdsflowh8XyFXFXq",
   "tracks": [
     {
       "added_at": null,
@@ -487,38 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empapelado",
-        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Empapelado",
-      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 235483,
-      "name": "Andr\u00f3meda",
-      "url": "https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No estes triste",
         "url": "https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6"
       },
@@ -539,6 +507,38 @@
       "duration_ms": 198750,
       "name": "No Est\u00e9s Triste",
       "url": "https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 235483,
+      "name": "Andr\u00f3meda",
+      "url": "https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empapelado",
+        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Empapelado",
+      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
     },
     {
       "added_at": null,

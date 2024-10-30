@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,379 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,391 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 51 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 |
 | 52 | [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA) | [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt) | 3:15 |
 | 53 | [Under The Milky Way \- Leo Portela Remix](https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9), [Leo Portela](https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk) | [The Remixes](https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig) | 2:53 |
-| 54 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 |
-| 55 | [Sunny Day](https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Sunny Day](https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa) | 2:08 |
+| 54 | [Sunny Day](https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Sunny Day](https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa) | 2:08 |
+| 55 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 |
 | 56 | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ) | 3:22 |
 | 57 | [Suzuka](https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Suzuka](https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98) | 3:56 |
 | 58 | [Since I Don't Have You \- Dual Remix](https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Amazonics](https://open.spotify.com/artist/6GB5ciGInIXxCbTrqdgz1W) | [Since I Don't Have You \(Dual Remix\)](https://open.spotify.com/album/1Bxt7K4vf4jnsbkQWhzzZE) | 2:46 |
-| 59 | [Foam \- Sam Alfred Remix](https://open.spotify.com/track/3lKdEaJGX1y3CLgd0LSNag) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH), [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Foam \(Sam Alfred Remix\)](https://open.spotify.com/album/745H6ehshvBvDFg7khKAR1) | 4:55 |
-| 60 | [Find Me](https://open.spotify.com/track/63mP5zqdcYXjikeAQCNjco) | [Little Foot](https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Find Me](https://open.spotify.com/album/1VzwAk5MmGIgWoMIVmoq3z) | 3:44 |
+| 59 | [Find Me](https://open.spotify.com/track/63mP5zqdcYXjikeAQCNjco) | [Little Foot](https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Find Me](https://open.spotify.com/album/1VzwAk5MmGIgWoMIVmoq3z) | 3:44 |
+| 60 | [Foam \- Sam Alfred Remix](https://open.spotify.com/track/3lKdEaJGX1y3CLgd0LSNag) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH), [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Foam \(Sam Alfred Remix\)](https://open.spotify.com/album/745H6ehshvBvDFg7khKAR1) | 4:55 |
 
 Snapshot ID: `ZsfC8AAAAAAMXah26OijiNfwS999y+At`

@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -7990,7 +7990,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 203134,
       "name": "Fallin In Love",
       "url": "https://open.spotify.com/track/6zIoRp8gHbDcXz1MtCCvtt"
@@ -11459,6 +11459,28 @@
     },
     {
       "album": {
+        "name": "hold my hand",
+        "url": "https://open.spotify.com/album/0CgtiMzPmtvTM115elKHao"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Sophia Gripari",
+          "url": "https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266246,
+      "name": "hold my hand",
+      "url": "https://open.spotify.com/track/3GPmn3HANnZTlEovc2J9nt"
+    },
+    {
+      "album": {
         "name": "Hold Tight",
         "url": "https://open.spotify.com/album/5ieJc3mDGH3kYxerTWF73r"
       },
@@ -13134,7 +13156,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 290625,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
@@ -14796,7 +14818,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 249573,
       "name": "Lately",
       "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
@@ -17368,7 +17390,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 361080,
       "name": "Memories",
       "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
@@ -17390,6 +17412,24 @@
       "duration_ms": 196000,
       "name": "Menace",
       "url": "https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI"
+    },
+    {
+      "album": {
+        "name": "MERTHER",
+        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189405,
+      "name": "MERTHER",
+      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
     },
     {
       "album": {
@@ -18804,6 +18844,28 @@
       "duration_ms": 149455,
       "name": "Nightjar (feat. SHELLS)",
       "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
+    },
+    {
+      "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
     },
     {
       "album": {
@@ -21903,6 +21965,24 @@
     },
     {
       "album": {
+        "name": "Ready 2 Go",
+        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "Ready 2 Go",
+      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
+    },
+    {
+      "album": {
         "name": "Ready For Your Love",
         "url": "https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss"
       },
@@ -22941,6 +23021,28 @@
     },
     {
       "album": {
+        "name": "Another Touch",
+        "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170875,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5dievmIbYB9iazzRM2qgEn"
+    },
+    {
+      "album": {
         "name": "Run and Hide",
         "url": "https://open.spotify.com/album/6PRuQH3sUxOdejQ16wlVLt"
       },
@@ -23544,6 +23646,40 @@
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
+    },
+    {
+      "album": {
+        "name": "Say What",
+        "url": "https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "chuala",
+          "url": "https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181593,
+      "name": "Say What",
+      "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
     },
     {
       "album": {
@@ -26370,7 +26506,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 134844,
       "name": "take your vibes and go",
       "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"

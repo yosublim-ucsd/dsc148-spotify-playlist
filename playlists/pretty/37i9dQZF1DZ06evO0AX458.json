@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 3749,
+  "num_followers": 3758,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAABe4h5Rvo3zjWHQFbETIkSx",
+  "snapshot_id": "Zx7UAAAAAAD7OHYIUCMHVS7DgeBLQpuQ",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 110333,
-      "name": "Home Away from Here",
-      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
+      "duration_ms": 66226,
+      "name": "Uppers / Downers",
+      "url": "https://open.spotify.com/track/047jxhoDnbSg8mviStkR0Z"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 66226,
-      "name": "Uppers / Downers",
-      "url": "https://open.spotify.com/track/047jxhoDnbSg8mviStkR0Z"
+      "duration_ms": 110333,
+      "name": "Home Away from Here",
+      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Searching For A Pulse/The Worth Of The World",
-        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
+        "name": "Touch\u00e9 Amor\u00e9",
+        "url": "https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 103520,
-      "name": "I'll Deserve Just That",
-      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
+      "duration_ms": 75600,
+      "name": "Negotiating the Charade",
+      "url": "https://open.spotify.com/track/7Hvl5UF5AKkQiyHL2UC5ku"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touch\u00e9 Amor\u00e9",
-        "url": "https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 75600,
-      "name": "Negotiating the Charade",
-      "url": "https://open.spotify.com/track/7Hvl5UF5AKkQiyHL2UC5ku"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Searching For A Pulse/The Worth Of The World",
         "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
       },
@@ -716,9 +700,25 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 94133,
-      "name": "I'll Get My Just Deserve",
-      "url": "https://open.spotify.com/track/5qpT7CVS0r3yfGsMvI7MwS"
+      "duration_ms": 103520,
+      "name": "I'll Deserve Just That",
+      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crescent-Shaped Depression",
+        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "Crescent-Shaped Depression",
+      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crescent-Shaped Depression",
-        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 144650,
-      "name": "Crescent-Shaped Depression",
-      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
+      "duration_ms": 94133,
+      "name": "I'll Get My Just Deserve",
+      "url": "https://open.spotify.com/track/5qpT7CVS0r3yfGsMvI7MwS"
     },
     {
       "added_at": null,

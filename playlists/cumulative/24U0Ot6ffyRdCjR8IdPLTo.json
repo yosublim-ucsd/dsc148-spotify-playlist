@@ -3267,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Monte Carlo",
+        "url": "https://open.spotify.com/album/3w4lUHrKK2urnIgE4CLBak"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227092,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/3RMHQtjlUAi4SDtinzCuy4"
+    },
+    {
+      "album": {
         "name": "Morning",
         "url": "https://open.spotify.com/album/0pro3pYtDog6bp669jZywP"
       },
@@ -4190,6 +4208,24 @@
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "album": {
+        "name": "sad girl winter (again)",
+        "url": "https://open.spotify.com/album/2M6qYIcV61zVitVyPfRvcW"
+      },
+      "artists": [
+        {
+          "name": "VICTORIA",
+          "url": "https://open.spotify.com/artist/21rgoGGMOSvl9RD6zeuOnq"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184909,
+      "name": "sad girl winter (again)",
+      "url": "https://open.spotify.com/track/3eSSinLAz9cQxRiN6RqNLm"
     },
     {
       "album": {
@@ -5914,6 +5950,24 @@
       "duration_ms": 205613,
       "name": "YOU & I (feat. Khalid)",
       "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
+    },
+    {
+      "album": {
+        "name": "born blue",
+        "url": "https://open.spotify.com/album/2c93Zr8BmUSod1qp2sdGev"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177601,
+      "name": "You Exist",
+      "url": "https://open.spotify.com/track/0qIPRgahrVnfRiVTYkuPsW"
     },
     {
       "album": {

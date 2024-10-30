@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-313 songs - 18 hr 5 min
+314 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:43 | 2024-02-08 | 2024-03-05 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-08 | 2024-02-16 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-08 | 2024-03-03 |
-| [Arena Cósmica](https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Arena Cósmica](https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg) | 3:39 | 2024-06-21 |  |
+| [Arena Cósmica](https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Arena Cósmica](https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg) | 3:39 | 2024-06-21 | 2024-10-30 |
 | [Arrival of the Birds](https://open.spotify.com/track/0Gr2XQOIMaaUH86iOrWGur) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4) | [The Crimson Wing: Mystery of the Flamingos \(Original Soundtrack\)](https://open.spotify.com/album/1XkXmvhIZzIZDIg70zaLMW) | 2:37 | 2022-11-11 | 2024-04-19 |
 | [Arrival of the Birds](https://open.spotify.com/track/1xRCmlU2GyzGem2vw4glxK) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4) | [The Crimson Wing: Mystery Of The Flamingos](https://open.spotify.com/album/48zPKXSCFOdMlgTaeVQn5u) | 2:38 | 2024-04-11 |  |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-03-22 | 2024-04-12 |
@@ -255,6 +255,7 @@
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 | 2024-05-03 |
 | [Si Entras Tú](https://open.spotify.com/track/6n2WRPkRDZzuijN5ugt7EL) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Si Entras Tú](https://open.spotify.com/album/4GsLOIVspA9gbCfGMCOZQc) | 2:39 | 2024-06-21 | 2024-08-02 |
 | [Si Fueras Lluvia](https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/46B8tnPwQdlw6jOY947lGu) | 3:12 | 2023-03-16 | 2023-04-23 |
+| [Si somos amigos](https://open.spotify.com/track/6d2xG4QR1x6khht42S6Ntw) | [Juan Fco\. Bueno](https://open.spotify.com/artist/4mqwo7jQBXYtjqLPVLtJnb) | [Si somos amigos](https://open.spotify.com/album/3tFWLs9h8tyaEyTMnmYRCJ) | 4:28 | 2024-10-24 |  |
 | [Sidekick](https://open.spotify.com/track/6KUasBYtaeWOdIbC1FZNbI) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Sidekick](https://open.spotify.com/album/2cLxzF1ceQ3T8X8tgbR7mN) | 2:56 | 2024-02-08 | 2024-08-03 |
 | [Siete mares](https://open.spotify.com/track/1ZaeSo2JJZOElABqSv3qrr) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Siete mares](https://open.spotify.com/album/2pRIS5kW88w2LwhKMKhFpK) | 2:38 | 2024-06-21 | 2024-08-03 |
 | [Sin Miedo a Vivir](https://open.spotify.com/track/1tKAg1jPHpBhjVJv8tj18w) | [Jacob Mey](https://open.spotify.com/artist/2I1AeFez28mu7X7Bek4aj5), [Juls Cattáneo](https://open.spotify.com/artist/3GGuxaBVYQDOJjImFOXYkW) | [Sin Miedo a Vivir](https://open.spotify.com/album/5ORbR8fXaWWTnJss0QG5bI) | 2:51 | 2024-03-04 |  |

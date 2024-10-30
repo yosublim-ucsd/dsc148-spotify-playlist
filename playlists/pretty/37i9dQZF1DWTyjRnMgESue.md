@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Wild Rivers
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,627 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,638 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 59 | [Wildflower and Barley](https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 3:42 |
 | 60 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
 | 61 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 |
-| 62 | [Fields](https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Fields](https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU) | 3:10 |
-| 63 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 |
+| 62 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 |
+| 63 | [Fields](https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Fields](https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU) | 3:10 |
 | 64 | [Gasoline](https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Gasoline](https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e) | 2:34 |
 | 65 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 |
 | 66 | [Fighting For \- \(Hailey Whitters Version\)](https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Fighting For \(Hailey Whitters Version\)](https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6) | 4:09 |

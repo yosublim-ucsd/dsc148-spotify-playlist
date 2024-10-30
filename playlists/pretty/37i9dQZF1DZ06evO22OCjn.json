@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 300062,
+  "num_followers": 300118,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAARamSouVq4mksIDP1Pdj4F",
+  "snapshot_id": "Zx7UAAAAAABQ6L73hFbpLHWPWLfikXrg",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poison Ou Antidote",
-        "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Donne-moi l\u2019accord",
-      "url": "https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 195073,
       "name": "Gum Body (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poison Ou Antidote",
+        "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Donne-moi l\u2019accord",
+      "url": "https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV"
     },
     {
       "added_at": null,
@@ -582,11 +582,15 @@
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
         }
       ],
-      "duration_ms": 143042,
-      "name": "Big 7",
-      "url": "https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF"
+      "duration_ms": 176453,
+      "name": "Talibans II - Bonus Track",
+      "url": "https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb"
     },
     {
       "added_at": null,
@@ -650,15 +654,11 @@
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
         }
       ],
-      "duration_ms": 176453,
-      "name": "Talibans II - Bonus Track",
-      "url": "https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb"
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B. D\u2019OR (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "B. D\u2019OR (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B. D\u2019OR (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "B. D\u2019OR (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "JA ARA E",
-      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 175677,
       "name": "Toni-Ann Singh (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": null,

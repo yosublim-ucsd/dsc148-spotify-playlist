@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 98514,
+  "num_followers": 98572,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "For Django",
-        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 200866,
-      "name": "Django",
-      "url": "https://open.spotify.com/track/1LgoYJ5IYe74pDyayo3QHH"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Chiaroscuro",
         "url": "https://open.spotify.com/album/0lsINQ5eGOr4GBVfZYDqyI"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
+        "name": "For Django",
+        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "duration_ms": 200866,
+      "name": "Django",
+      "url": "https://open.spotify.com/track/1LgoYJ5IYe74pDyayo3QHH"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "East To Wes",
-        "url": "https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN"
-      },
-      "artists": [
-        {
-          "name": "Emily Remler",
-          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
-        }
-      ],
-      "duration_ms": 490573,
-      "name": "Softly, As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "The Genius Of The Electric Guitar",
         "url": "https://open.spotify.com/album/4QIxeBZfEtZpUWFbOrMrjV"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 174973,
       "name": "I Found a New Baby",
       "url": "https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "East To Wes",
+        "url": "https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN"
+      },
+      "artists": [
+        {
+          "name": "Emily Remler",
+          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
+        }
+      ],
+      "duration_ms": 490573,
+      "name": "Softly, As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
-      },
-      "artists": [
-        {
-          "name": "Emily Remler",
-          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
-        }
-      ],
-      "duration_ms": 469360,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "The Next Step",
         "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 286973,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
+      },
+      "artists": [
+        {
+          "name": "Emily Remler",
+          "url": "https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ"
+        }
+      ],
+      "duration_ms": 469360,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1055,6 +1055,30 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
+        "name": "Vital Techtones",
+        "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
+      },
+      "artists": [
+        {
+          "name": "Steve Smith",
+          "url": "https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z"
+        },
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        },
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 345706,
+      "name": "Giant Steps",
+      "url": "https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0"
       },
@@ -1079,30 +1103,6 @@
       "duration_ms": 385973,
       "name": "Nimbus",
       "url": "https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Vital Techtones",
-        "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
-      },
-      "artists": [
-        {
-          "name": "Steve Smith",
-          "url": "https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z"
-        },
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        },
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 345706,
-      "name": "Giant Steps",
-      "url": "https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Rambler",
-        "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 492266,
-      "name": "Rambler",
-      "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 492400,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Rambler",
+        "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 492266,
+      "name": "Rambler",
+      "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Bill Frisell, Ron Carter, Paul Motian",
-        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 356533,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "The Capitol Vaults Jazz Series",
         "url": "https://open.spotify.com/album/6RRyVVMofYvprSf4fJViho"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 199066,
       "name": "Walkin' Up",
       "url": "https://open.spotify.com/track/6MVMLpL405L6JXbHXsddGa"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Bill Frisell, Ron Carter, Paul Motian",
+        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 356533,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1471,30 +1471,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
-      },
-      "artists": [
-        {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
-        },
-        {
-          "name": "Reuben Rogers",
-          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
-        },
-        {
-          "name": "Eric Harland",
-          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
-        }
-      ],
-      "duration_ms": 432093,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y"
       },
@@ -1515,6 +1491,30 @@
       "duration_ms": 661106,
       "name": "May Dance",
       "url": "https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        },
+        {
+          "name": "Reuben Rogers",
+          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+        }
+      ],
+      "duration_ms": 432093,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
     },
     {
       "added_at": "2024-07-17 12:19:46",

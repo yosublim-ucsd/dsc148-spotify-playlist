@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 132735,
+  "num_followers": 132806,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAAAoLcu7Zb9XtoS1+c8/rCyx",
+  "snapshot_id": "Zx7UAAAAAADjv4iTTQUbprC4/Xqz6OlZ",
   "tracks": [
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELIO and Friends : The Remixes",
-        "url": "https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "CHARGER (ft. Charli XCX)",
-      "url": "https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "how i'm feeling now",
         "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
       },
@@ -671,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ELIO and Friends : The Remixes",
+        "url": "https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "CHARGER (ft. Charli XCX)",
+      "url": "https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Beg for You (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "how i'm feeling now",
         "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
       },
@@ -719,6 +699,22 @@
       "duration_ms": 149390,
       "name": "claws",
       "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Used to Know Me",
+      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
     },
     {
       "added_at": null,
@@ -754,11 +750,31 @@
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 145840,
-      "name": "Used to Know Me",
-      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+      "duration_ms": 168053,
+      "name": "Beg for You (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 159920,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2lE8pY64icLsx6k0Wr9iVF"
     }
   ],
   "unique_name": "This Is Charli xcx",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Tokyo Ska Paradise Orchestra",
-  "num_followers": 289594,
+  "num_followers": 289606,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -495,18 +495,22 @@
     {
       "added_at": "2024-10-22 15:08:23",
       "album": {
-        "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
-        "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
+        "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
+        "url": "https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        },
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
         }
       ],
-      "duration_ms": 269093,
-      "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
-      "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
+      "duration_ms": 185566,
+      "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
+      "url": "https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv"
     },
     {
       "added_at": "2024-10-22 15:08:23",
@@ -567,6 +571,22 @@
     {
       "added_at": "2024-10-22 15:08:23",
       "album": {
+        "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+        "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+      "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
+    },
+    {
+      "added_at": "2024-10-22 15:08:23",
+      "album": {
         "name": "\u30aa\u30ec\u30f3\u30b8",
         "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 235200,
       "name": "\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
-    },
-    {
-      "added_at": "2024-10-22 15:08:23",
-      "album": {
-        "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
-        "url": "https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        },
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 185566,
-      "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
-      "url": "https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv"
     },
     {
       "added_at": "2024-10-22 15:08:23",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-10-22 15:08:23",
       "album": {
-        "name": "\u30b3\u30ea\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "\u7b2c\u30bc\u30ed\u611f",
-      "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"
-    },
-    {
-      "added_at": "2024-10-22 15:08:23",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 209799,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+    },
+    {
+      "added_at": "2024-10-22 15:08:23",
+      "album": {
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "\u7b2c\u30bc\u30ed\u611f",
+      "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"
     },
     {
       "added_at": "2024-10-22 15:08:23",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-10-22 15:08:23",
       "album": {
-        "name": "\u30e9\u30e0\u30cd",
-        "url": "https://open.spotify.com/album/3DJ2YOYwj5kdHWvNAEHHL0"
-      },
-      "artists": [
-        {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
-        }
-      ],
-      "duration_ms": 222713,
-      "name": "\u30e9\u30e0\u30cd",
-      "url": "https://open.spotify.com/track/4fuIGEDNBkYPdsY7scsum8"
-    },
-    {
-      "added_at": "2024-10-22 15:08:23",
-      "album": {
         "name": "BROKEN GAMES",
         "url": "https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 228466,
       "name": "\u521d\u590f",
       "url": "https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G"
+    },
+    {
+      "added_at": "2024-10-22 15:08:23",
+      "album": {
+        "name": "\u30e9\u30e0\u30cd",
+        "url": "https://open.spotify.com/album/3DJ2YOYwj5kdHWvNAEHHL0"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "duration_ms": 222713,
+      "name": "\u30e9\u30e0\u30cd",
+      "url": "https://open.spotify.com/track/4fuIGEDNBkYPdsY7scsum8"
     },
     {
       "added_at": "2024-10-22 15:08:23",
@@ -1331,8 +1331,8 @@
     {
       "added_at": "2024-10-22 15:08:23",
       "album": {
-        "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
-        "url": "https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH"
+        "name": "Relay\uff5e\u675c\u306e\u8a69",
+        "url": "https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1"
       },
       "artists": [
         {
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
         }
       ],
-      "duration_ms": 259480,
-      "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
-      "url": "https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO"
+      "duration_ms": 239494,
+      "name": "Relay\uff5e\u675c\u306e\u8a69",
+      "url": "https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j"
     },
     {
       "added_at": "2024-10-22 15:08:23",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2024-10-22 15:08:23",
       "album": {
-        "name": "\u72c2\u8a69\u66f2",
-        "url": "https://open.spotify.com/album/26NaRLMvQdxjGhJbFQr2Is"
-      },
-      "artists": [
-        {
-          "name": "QUEEN BEE",
-          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "\u72c2\u8a69\u66f2",
-      "url": "https://open.spotify.com/track/305CVeZiltZSwVH9EJhwif"
-    },
-    {
-      "added_at": "2024-10-22 15:08:23",
-      "album": {
-        "name": "Relay\uff5e\u675c\u306e\u8a69",
-        "url": "https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 239494,
-      "name": "Relay\uff5e\u675c\u306e\u8a69",
-      "url": "https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j"
-    },
-    {
-      "added_at": "2024-10-22 15:08:23",
-      "album": {
         "name": "Eye's Sentry",
         "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
       },
@@ -1439,6 +1407,38 @@
       "duration_ms": 251546,
       "name": "Eye's Sentry",
       "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
+    },
+    {
+      "added_at": "2024-10-22 15:08:23",
+      "album": {
+        "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
+        "url": "https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
+      "url": "https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO"
+    },
+    {
+      "added_at": "2024-10-22 15:08:23",
+      "album": {
+        "name": "\u5fc3\u5909\u308f\u308a",
+        "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "duration_ms": 223657,
+      "name": "\u5fc3\u5909\u308f\u308a",
+      "url": "https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd"
     },
     {
       "added_at": "2024-10-22 15:08:23",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-10-22 15:08:23",
       "album": {
-        "name": "\u5fc3\u5909\u308f\u308a",
-        "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
+        "name": "\u72c2\u8a69\u66f2",
+        "url": "https://open.spotify.com/album/26NaRLMvQdxjGhJbFQr2Is"
       },
       "artists": [
         {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+          "name": "QUEEN BEE",
+          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
         }
       ],
-      "duration_ms": 223657,
-      "name": "\u5fc3\u5909\u308f\u308a",
-      "url": "https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd"
+      "duration_ms": 254733,
+      "name": "\u72c2\u8a69\u66f2",
+      "url": "https://open.spotify.com/track/305CVeZiltZSwVH9EJhwif"
     },
     {
       "added_at": "2024-10-22 15:08:23",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-10-22 15:08:23",
       "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "duration_ms": 239970,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ"
+    },
+    {
+      "added_at": "2024-10-22 15:08:23",
+      "album": {
         "name": "\u5927\u56e3\u5186",
         "url": "https://open.spotify.com/album/3E7zFmPjS6pzIqkqfbsu9f"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 325851,
       "name": "\u5927\u56e3\u5186",
       "url": "https://open.spotify.com/track/0SonLPh214mxlPF3ZjzuoL"
-    },
-    {
-      "added_at": "2024-10-22 15:08:23",
-      "album": {
-        "name": "SHAKE",
-        "url": "https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe"
-      },
-      "artists": [
-        {
-          "name": "go!go!vanillas",
-          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
-        }
-      ],
-      "duration_ms": 239970,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ"
     },
     {
       "added_at": "2024-10-22 15:08:23",

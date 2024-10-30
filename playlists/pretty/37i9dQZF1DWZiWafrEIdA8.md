@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,606 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,617 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 22 | [비누](https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [비누](https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs) | 3:02 |
 | 23 | [Goodbye \(Feat\. Paul Blanco\)](https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [ROSE](https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr) | 2:45 |
 | 24 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 |
-| 25 | [Candy \(Feat\. Zion.T\)](https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Candy](https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa) | 3:06 |
-| 26 | [OHAYO MY NIGHT](https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR), [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp) | [OHAYO MY NIGHT](https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8) | 3:58 |
+| 25 | [OHAYO MY NIGHT](https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR), [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp) | [OHAYO MY NIGHT](https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8) | 3:58 |
+| 26 | [Candy \(Feat\. Zion.T\)](https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Candy](https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa) | 3:06 |
 | 27 | [Think About You](https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House](https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy) | 3:15 |
 | 28 | [Romance Symphony \(Feat\. CHANGMO, Jay Park\)](https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 4:00 |
 | 29 | [He's next to you, instead of me](https://open.spotify.com/track/25U5ea5BGlFK5318WduEzI) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [He's next to you, instead of me](https://open.spotify.com/album/65frU52z7ggEmVQZyYz26n) | 2:52 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 15134,
+  "num_followers": 15141,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Recuerda",
+        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Rap de culto",
         "url": "https://open.spotify.com/album/6uGPj9zJFxiih5f8H0Vn9Q"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 152429,
       "name": "Rap de culto",
       "url": "https://open.spotify.com/track/5PoukzPE9YDkXaVk9cThDQ"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Recuerda",
-        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "KEEP IT STUPID",
+        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 147158,
+      "name": "KEEP IT STUPID",
+      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Parlante",
         "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 261311,
       "name": "Parlante",
       "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "KEEP IT STUPID",
-        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 147158,
-      "name": "KEEP IT STUPID",
-      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "N.D. State Of Mind",
-        "url": "https://open.spotify.com/album/0WZZYgUGfNvIzjVmDuYww9"
-      },
-      "artists": [
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "N.D. State Of Mind",
-      "url": "https://open.spotify.com/track/5KxMcIwEMVypmQYALXMQ0A"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "La pr\u00e1ctica",
         "url": "https://open.spotify.com/album/6jTRyRI7EFAOHlQJNWdIeS"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 188600,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "N.D. State Of Mind",
+        "url": "https://open.spotify.com/album/0WZZYgUGfNvIzjVmDuYww9"
+      },
+      "artists": [
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "N.D. State Of Mind",
+      "url": "https://open.spotify.com/track/5KxMcIwEMVypmQYALXMQ0A"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv"
+      },
+      "artists": [
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Cypher MND #18: Neo Pistea, Obie Wanshot & CNO",
         "url": "https://open.spotify.com/album/1eF1nsMyY0LfwNOqeTrnVt"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 154285,
       "name": "Cypher MND #18 v.1: Neo Pistea, Obie Wanshot & CNO",
       "url": "https://open.spotify.com/track/6NemFvDNVbQgKyArKaZCFn"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Princesa",
-        "url": "https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv"
-      },
-      "artists": [
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1195,30 +1195,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Bushido: Kenjutsu",
-        "url": "https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd"
-      },
-      "artists": [
-        {
-          "name": "Nfx",
-          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
-        },
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Cool Maze",
-          "url": "https://open.spotify.com/artist/1wVjrhD36VFYYShNji7ivx"
-        }
-      ],
-      "duration_ms": 228837,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "UFC",
         "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
       },
@@ -1243,22 +1219,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "NEZA",
-        "url": "https://open.spotify.com/album/6QryhfUs8EDXS3nw2SPnME"
+        "name": "Bushido: Kenjutsu",
+        "url": "https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd"
       },
       "artists": [
         {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
         },
         {
-          "name": "Kid Frost",
-          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Cool Maze",
+          "url": "https://open.spotify.com/artist/1wVjrhD36VFYYShNji7ivx"
         }
       ],
-      "duration_ms": 167746,
-      "name": "NEZA",
-      "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
+      "duration_ms": 228837,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1283,6 +1263,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "NEZA",
+        "url": "https://open.spotify.com/album/6QryhfUs8EDXS3nw2SPnME"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Kid Frost",
+          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "NEZA",
+      "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "El Calent\u00f3n",
         "url": "https://open.spotify.com/album/5UqGVHKi6taFbuVAGUtacH"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 207000,
       "name": "El Calent\u00f3n",
       "url": "https://open.spotify.com/track/6Je2hSFlM37PxmZxao2LbQ"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "25 Horas",
-        "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
-      },
-      "artists": [
-        {
-          "name": "Little el Crack",
-          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "25 Horas",
-      "url": "https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1339,6 +1323,42 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK"
+      },
+      "artists": [
+        {
+          "name": "Kris Alaniz",
+          "url": "https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB"
+        },
+        {
+          "name": "Mari Pol\u00e9",
+          "url": "https://open.spotify.com/artist/0fkDQY5kgJpBTFy8bElfqY"
+        }
+      ],
+      "duration_ms": 202803,
+      "name": "Amor Bonito",
+      "url": "https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "25 Horas",
+        "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
+      },
+      "artists": [
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "25 Horas",
+      "url": "https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "FAMOSA",
         "url": "https://open.spotify.com/album/3vcZDhuDxPGtUNIutctO9Q"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 200000,
       "name": "FAMOSA",
       "url": "https://open.spotify.com/track/0OPNy6nWFwiMN9Sm4gsQTe"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Esc\u00e1ndalo",
-        "url": "https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK"
-      },
-      "artists": [
-        {
-          "name": "Kris Alaniz",
-          "url": "https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB"
-        },
-        {
-          "name": "Mari Pol\u00e9",
-          "url": "https://open.spotify.com/artist/0fkDQY5kgJpBTFy8bElfqY"
-        }
-      ],
-      "duration_ms": 202803,
-      "name": "Amor Bonito",
-      "url": "https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        }
+      ],
+      "duration_ms": 186197,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "DIME",
         "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
       },
@@ -1463,22 +1483,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
+        "name": "Aire para Vivir",
+        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
       },
       "artists": [
         {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
         }
       ],
-      "duration_ms": 186197,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
+      "duration_ms": 223512,
+      "name": "Aire para Vivir",
+      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Aire para Vivir",
-        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
-      },
-      "artists": [
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
-        }
-      ],
-      "duration_ms": 223512,
-      "name": "Aire para Vivir",
-      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "CASI",
         "url": "https://open.spotify.com/album/72dPwaAdpVg6fDfUszTGmu"
       },
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "It's Okey",
-        "url": "https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9"
-      },
-      "artists": [
-        {
-          "name": "VIEF",
-          "url": "https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "It's Okey",
-      "url": "https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Sideral",
         "url": "https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 189486,
       "name": "Tasmania",
       "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "It's Okey",
+        "url": "https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9"
+      },
+      "artists": [
+        {
+          "name": "VIEF",
+          "url": "https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "It's Okey",
+      "url": "https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Just in Case",
+        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 209490,
+      "name": "Just in Case",
+      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "La Fuente",
         "url": "https://open.spotify.com/album/2zXIcPrU2UF0McYhgInyaK"
       },
@@ -1731,22 +1751,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Just in Case",
-        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
       },
       "artists": [
         {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
         }
       ],
-      "duration_ms": 209490,
-      "name": "Just in Case",
-      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 182727,
       "name": "Con la Frente en Alto",
       "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
-      },
-      "artists": [
-        {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Juega Vivo",
+        "url": "https://open.spotify.com/album/1hYuX32YL4KwBgR7wRrI2W"
+      },
+      "artists": [
+        {
+          "name": "Yorking HB",
+          "url": "https://open.spotify.com/artist/0I23ZjoDqCuvH7tyxEkg8d"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Juega Vivo",
+      "url": "https://open.spotify.com/track/5YbfB34AhHdk7Wuy4m6EJB"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "El Principio",
         "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
       },
@@ -1915,18 +1931,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Juega Vivo",
-        "url": "https://open.spotify.com/album/1hYuX32YL4KwBgR7wRrI2W"
+        "name": "Guantes M\u00e1scara",
+        "url": "https://open.spotify.com/album/1KBf3fVQu8CB3sJgoFH3fe"
       },
       "artists": [
         {
-          "name": "Yorking HB",
-          "url": "https://open.spotify.com/artist/0I23ZjoDqCuvH7tyxEkg8d"
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Juega Vivo",
-      "url": "https://open.spotify.com/track/5YbfB34AhHdk7Wuy4m6EJB"
+      "duration_ms": 211750,
+      "name": "Guantes M\u00e1scara",
+      "url": "https://open.spotify.com/track/1BPARtiHt4FvEOlOgzkH6E"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1947,22 +1963,6 @@
       "duration_ms": 189767,
       "name": "Bulgari",
       "url": "https://open.spotify.com/track/1y7x4qStqQmSaGFDGPEmuE"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Guantes M\u00e1scara",
-        "url": "https://open.spotify.com/album/1KBf3fVQu8CB3sJgoFH3fe"
-      },
-      "artists": [
-        {
-          "name": "T.O.N.A",
-          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
-        }
-      ],
-      "duration_ms": 211750,
-      "name": "Guantes M\u00e1scara",
-      "url": "https://open.spotify.com/track/1BPARtiHt4FvEOlOgzkH6E"
     },
     {
       "added_at": "2024-10-11 06:00:00",

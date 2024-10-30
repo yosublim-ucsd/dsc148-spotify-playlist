@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 
 > The biggest songs in Latin America in 2015\. Cover: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,419 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,455 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 19 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
 | 20 | [Sin Contrato](https://open.spotify.com/track/3yHJs5NmQk2ROAWCfjniXV) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:41 |
 | 21 | [Si Te Dejas Llevar](https://open.spotify.com/track/3cdecPxEdxk99munEMVQ01) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Si Te Dejas Llevar \(feat\. Juanka\)](https://open.spotify.com/album/4ZBRYtgXi7vaLMQDW53WUY) | 3:47 |
-| 22 | [Nota de Amor \(feat\. Daddy Yankee\)](https://open.spotify.com/track/4YW2Fr25fHwUt6qgvM1iE1) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Vaqueros: La Trilogía](https://open.spotify.com/album/7vUJAdvDYXhjf1p0P2yIxh) | 3:52 |
-| 23 | [Mayor Que Yo 3](https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Yo 3](https://open.spotify.com/album/571drPm82JNSynpu9yhEEX) | 5:04 |
+| 22 | [Mayor Que Yo 3](https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Yo 3](https://open.spotify.com/album/571drPm82JNSynpu9yhEEX) | 5:04 |
+| 23 | [Nota de Amor \(feat\. Daddy Yankee\)](https://open.spotify.com/track/4YW2Fr25fHwUt6qgvM1iE1) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Vaqueros: La Trilogía](https://open.spotify.com/album/7vUJAdvDYXhjf1p0P2yIxh) | 3:52 |
 | 24 | [Si Pudiera](https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:16 |
 | 25 | [Sígueme Y Te Sigo](https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J) | 3:29 |
 | 26 | [Te Equivocaste](https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |

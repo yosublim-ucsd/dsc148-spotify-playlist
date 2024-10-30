@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 172791,
       "name": "Digitalis Purpurea",
       "url": "https://open.spotify.com/track/0Nk4CmbqK4QDvJhPIcqFrB"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 539293,
       "name": "King Kong Passes Through the Gates of Shaolin Temple and Contemplates Life",
       "url": "https://open.spotify.com/track/1fqHEFT7LL9gsVGCMzNXGo"
@@ -3036,7 +3036,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 284673,
       "name": "Room At the Inn",
       "url": "https://open.spotify.com/track/6ngAUMaLLjcje2iU17j4Wp"
@@ -3393,6 +3393,36 @@
     },
     {
       "album": {
+        "name": "Quartet for the End of Space",
+        "url": "https://open.spotify.com/album/4DSd4Pw1IvrFzUw7FxUrts"
+      },
+      "artists": [
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Francisco L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2NIo9CSlxx2pArdKee4hes"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435000,
+      "name": "Snow Drifts",
+      "url": "https://open.spotify.com/track/7kNKaEWBTl51umvqIZr667"
+    },
+    {
+      "album": {
         "name": "No Mo",
         "url": "https://open.spotify.com/album/3SiVMbk8hQsG1VuJkvJsPh"
       },
@@ -3404,7 +3434,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 824760,
       "name": "Something Else",
       "url": "https://open.spotify.com/track/141XHh4dxYa4K8q1k7mcYF"
@@ -3644,7 +3674,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 1651080,
       "name": "Tara's Room",
       "url": "https://open.spotify.com/track/2BcRnZTZbFmvEBSDoBc8z4"
@@ -4024,7 +4054,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 480225,
       "name": "Three of a Mind",
       "url": "https://open.spotify.com/track/4y3wgiAx0GbD28bnNxHTEQ"
@@ -4638,7 +4668,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 427695,
       "name": "Vaccinium Myrtillus",
       "url": "https://open.spotify.com/track/04iUS6mYbmKESivrKn1HtD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Rangga Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,885 likes - 139 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,886 likes - 139 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 35 | [Ease My Mind](https://open.spotify.com/track/1vp9YXRWJ6PDuKAAQF0dJ1) | [nic.zj](https://open.spotify.com/artist/1wUTMd52qXoDPjRaccy956), [Mud B](https://open.spotify.com/artist/26PTth0r70W0SAdyT47tPr) | [Ease My Mind](https://open.spotify.com/album/0KT2inE8v7Xc7Lr8NTwGWb) | 2:33 |
 | 36 | [OTNW](https://open.spotify.com/track/0GxBWLwTRnpM6HUTu6Kde0) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [OTNW](https://open.spotify.com/album/0ppXruu0u7FQSSC5emQMMQ) | 3:26 |
 | 37 | [Breathtaker](https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:23 |
-| 38 | [不值得](https://open.spotify.com/track/4Lb8HOI2614TcSbc0Le6hv) | [鍾汶芳](https://open.spotify.com/artist/2QSh7SsfVcNJKI2d614Uim), [鐘汶芳](https://open.spotify.com/artist/5fJyImesDvx4h81w26Dp6P) | [不值得](https://open.spotify.com/album/0KSdNt8lKGukcl8XV96vnw) | 3:31 |
+| 38 | [不值得](https://open.spotify.com/track/4Lb8HOI2614TcSbc0Le6hv) | [鍾汶芳](https://open.spotify.com/artist/2QSh7SsfVcNJKI2d614Uim) | [不值得](https://open.spotify.com/album/0KSdNt8lKGukcl8XV96vnw) | 3:31 |
 | 39 | [今天的樣子](https://open.spotify.com/track/5T5uegUfdaLf6JbNItlW3n) | [J.En Cheo](https://open.spotify.com/artist/6a4zj3BAL2o9RWOlyKpKhr) | [今天的樣子](https://open.spotify.com/album/2Y3ctAKv0NfZeE6Lysn8xW) | 4:08 |
 | 40 | [scared to lose me](https://open.spotify.com/track/2piEwJsSN0auCOQIPYhKKF) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [scared to lose me](https://open.spotify.com/album/4rThapZToG2EqGgyase84m) | 2:23 |
 | 41 | [HIGH FASHION](https://open.spotify.com/track/7BtpADoxk4qpQiK3gQMtDb) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [HIGH FASHION](https://open.spotify.com/album/4OS7pjJGJ8gpoM8uFWgawi) | 2:12 |

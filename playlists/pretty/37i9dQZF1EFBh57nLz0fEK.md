@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 106 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 106 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 73 | [can u?](https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [can u?](https://open.spotify.com/album/3QOJ06vA52E3QjK6cTo9Ry) | 2:50 |
 | 74 | [Thinking of You](https://open.spotify.com/track/70ZhUOVBwrBv2gKXABIgux) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 4:24 |
 | 75 | [Code + Love Me Some More](https://open.spotify.com/track/3EErsWRNeSwUg6ffBgDXW3) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 3:46 |
-| 76 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
-| 77 | [Sinner](https://open.spotify.com/track/7m57eGe3haQgQgbsuSufwJ) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy) | 2:59 |
+| 76 | [Sinner](https://open.spotify.com/track/7m57eGe3haQgQgbsuSufwJ) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy) | 2:59 |
+| 77 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
 | 78 | [When It Ends](https://open.spotify.com/track/78JF5ltZGwtjJkd5gsFZO3) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 4:32 |
 | 79 | [Witness](https://open.spotify.com/track/4CwrUYKXLeUyAFhEYlbJld) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 4:16 |
 | 80 | [Just Like Jenny](https://open.spotify.com/track/39fXwsp5ZQG76nN9mGBzbb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:58 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 105 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 106 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AbgBVAAAAAA00JLzaiZNz4RC06UEZARr`
+Snapshot ID: `AbgG9AAAAADJj/XT7yN4QBjtBpHqFyo0`

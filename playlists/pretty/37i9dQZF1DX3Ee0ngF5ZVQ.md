@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,953 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,948 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,17 +50,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 40 | [Texas Hold 'Em](https://open.spotify.com/track/5e0h38dIcXdVLoLXKxFRYb) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas Hold 'Em](https://open.spotify.com/album/1V0WoAMcL38iGQYyDfgxzL) | 3:02 |
 | 41 | [Astronaut](https://open.spotify.com/track/2q3Qtn6pVjR3MkKW0LZAl8) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Somewhere Down The Road](https://open.spotify.com/album/59QCDtvrb7ndBKYKyFJ12q) | 3:41 |
 | 42 | [Chipping Mill](https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 3:20 |
-| 43 | [Start at the End](https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Start at the End](https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1) | 3:28 |
-| 44 | [That's Texas](https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [That's Texas](https://open.spotify.com/album/4Mk6vJ6RJF1qy0F3Rcnyj8) | 2:43 |
+| 43 | [That's Texas](https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [That's Texas](https://open.spotify.com/album/4Mk6vJ6RJF1qy0F3Rcnyj8) | 2:43 |
+| 44 | [Another Man](https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [Another Man](https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv) | 3:16 |
 | 45 | [Hang of Hangin’ On](https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hang of Hangin’ On](https://open.spotify.com/album/2v4JTwSalSwSUxMwAajHoD) | 3:16 |
 | 46 | [Hello Highway](https://open.spotify.com/track/4VZtc1T7NzTsFQfdnJZK7p) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Corazón y Cabeza](https://open.spotify.com/album/6yZOlNv2YKskr93XnhtY0a) | 3:42 |
 | 47 | [Running out of Time](https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Running out of Time](https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf) | 3:37 |
 | 48 | [Not That Strong](https://open.spotify.com/track/6KXedLg5MW4iai1LfIpQ7l) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Not That Strong](https://open.spotify.com/album/0kamKN35wU4CLJGJCeOhhQ) | 3:34 |
-| 49 | [Old Fashioned Feeling](https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Old Fashioned Feeling](https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9) | 3:22 |
+| 49 | [Start at the End](https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Start at the End](https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1) | 3:28 |
 | 50 | [If Texas Had a Heart](https://open.spotify.com/track/2MFiN48Uw7dIjwnTDAYk04) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [If Texas Had a Heart](https://open.spotify.com/album/5y47dM3h00Gp3ABfbfbYOI) | 3:31 |
 | 51 | [Like She Does](https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Love](https://open.spotify.com/album/7gei0BhwKRgS4MhsO4RqLh) | 3:48 |
 | 52 | [Too Far Gone](https://open.spotify.com/track/2iQceHt3nbUcMFMkEaGALw) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Too Far Gone](https://open.spotify.com/album/68Gyl40TuMxbnD78RyMFyK) | 4:48 |
-| 53 | [Another Man](https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [Another Man](https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv) | 3:16 |
+| 53 | [Old Fashioned Feeling](https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Old Fashioned Feeling](https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9) | 3:22 |
 | 54 | [Never Not Love You](https://open.spotify.com/track/1WteuqfEN6UvvD4xhUcjPN) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Never Not Love You](https://open.spotify.com/album/4NIJHKsSsCxgDXLjOL3ymb) | 3:20 |
 | 55 | [A Few Years Back](https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [A Few Years Back](https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4) | 3:40 |
 | 56 | [Three Drinks Behind](https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Three Drinks Behind](https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W) | 3:39 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 97 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
 | 98 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
 | 99 | [Outta Dirt](https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Outta Dirt](https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n) | 2:44 |
-| 100 | [Other Girls \(Ain't Havin' Any Fun\)](https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 4:13 |
+| 100 | [Side of Goodbye](https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Story About a Girl + Side of Goodbye](https://open.spotify.com/album/0d814l2UheeEDCTZSE5Rqr) | 2:30 |
 
 Snapshot ID: `ZxHdQAAAAAAbwVks38JmAvm90ZDweAI1`

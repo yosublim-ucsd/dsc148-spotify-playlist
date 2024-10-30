@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!”「あんスタ」シリーズの楽曲を1つのプレイリストで。© 2014\-2019 Happy Elements K.K
 
-109 songs - 7 hr 17 min
+110 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Brilliant Smile](https://open.spotify.com/track/4UlLjDmCm3aa152WM02lKI) | [Switch/逆先夏目\(CV.野島健児\)、青葉つむぎ\(CV.石川界人\)、春川宙\(CV.山本和臣\)](https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV) | [Switch「Brilliant Smile」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7t4Y99FrYflBP9tlaAQlEc) | 3:58 | 2024-04-26 |  |
 | [Castle of my Heart](https://open.spotify.com/track/1Urnxd5ABu511f6XxQEptd) | [Knights/朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 4:30 | 2024-05-24 | 2024-10-20 |
 | [Coruscate Breeze](https://open.spotify.com/track/200BbCUSbNkVF5P7qPSdkI) | [Knights/朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR) | [Knights「Coruscate Breeze」あんさんぶるスターズ！！ ESアイドルソング season3](https://open.spotify.com/album/02vP757RR8hJCnrAbkvAG6) | 3:52 | 2024-04-26 | 2024-10-02 |
-| [Crazy Roulette](https://open.spotify.com/track/1dvGYKhpx7bmuYa09l1m74) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [あんさんぶるスターズ！！ ユニットソングCD Crazy:B](https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j) | 4:14 | 2024-04-26 |  |
+| [Crazy Roulette](https://open.spotify.com/track/1dvGYKhpx7bmuYa09l1m74) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [あんさんぶるスターズ！！ ユニットソングCD Crazy:B](https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j) | 4:14 | 2024-04-26 | 2024-10-30 |
 | [Crush of Judgment](https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8) | [ナイトキラーズ/月永レオ\(CV.浅沼晋太郎\)、天祥院英智\(CV.緑川光\)、鬼龍紅郎\(CV.神尾晋一郎\)、仁兎なずな\(CV.米内佑希\)](https://open.spotify.com/artist/1lSJyubKtkGymlXRwo8mPB) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 3:26 | 2024-04-26 |  |
 | [Dance in the Apocalypse](https://open.spotify.com/track/4ao9YSHAFBAZf4qtH9klK9) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:58 | 2024-04-26 |  |
 | [Dawning Angels](https://open.spotify.com/track/2OJj5Qt5VQJJiphKdTV0Ql) | [fine\-O/青葉 つむぎ\(CV.石川 界人\)、天祥院 英智\(CV.緑川 光\)、乱 凪砂\(CV.諏訪部 順一\)、巴 日和\(CV.花江 夏樹\)](https://open.spotify.com/artist/1hViK6ZZNwL5Kei0Y2czaR) | [あんさんぶるスターズ！！ESアイドルソング Extra オルタード & fine\-O](https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO) | 4:00 | 2024-04-26 |  |
@@ -79,6 +79,7 @@
 | [SunnyTrip Summer](https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml) | [Alkaloid](https://open.spotify.com/artist/3Fiv97iEcVXiSzNReGHDBN) | [あんさんぶるスターズ！！ ESアイドルソング Season5 ALKALOID「SunnyTrip Summer」](https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy) | 3:31 | 2024-07-12 |  |
 | [THE GENESIS](https://open.spotify.com/track/5tY74vouzdfyGYpTqFFmev) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:08 | 2024-04-26 |  |
 | [Trap For You](https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy) | [Eve/巴 日和\(CV.花江夏樹\)、漣 ジュン\(CV:内田雄馬\)](https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:08 | 2024-04-26 |  |
+| [TRICK with TREAT!!\(with UNDEAD\)](https://open.spotify.com/track/2V8SHwxBkbhPDGjCFEIggf) | [2wink/葵 ひなた&葵 ゆうた\(CV.斉藤壮馬\)](https://open.spotify.com/artist/4PCSbUSb6gjdnV0I5X0ErS) | [あんさんぶるスターズ！アルバムシリーズ 2wink](https://open.spotify.com/album/2EhHCiaRN1bz3tfVfZpIs1) | 4:32 | 2024-10-10 |  |
 | [Twilight Pentagram](https://open.spotify.com/track/5931MmDFddLnEmn5ggVCmr) | [オルタード/朔間 零\(CV.増田 俊樹\)、日々樹 渉\(CV.江口 拓也\)、深海 奏汰\(CV.西山 宏太朗\)、 斎宮 宗\(CV.高橋 広樹\)、逆先 夏目\(CV.野島 健児\)](https://open.spotify.com/artist/2OL27gFXdNWKe6yfAdcvhO) | [あんさんぶるスターズ！！ESアイドルソング Extra オルタード & fine\-O](https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO) | 3:31 | 2024-04-26 |  |
 | [UNDYING HOLY LOVE](https://open.spotify.com/track/0V4m12iABxMw5uZBqQfM67) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 ALKALOID](https://open.spotify.com/album/74QSMpOGlkVl5gPYM5Uolh) | 4:21 | 2024-04-26 |  |
 | [UTAKATA DANCE FLOOR](https://open.spotify.com/track/3xQc38Pnh2pus6REcexcep) | [Crazy:B](https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo) | [あんさんぶるスターズ！！ ESアイドルソング season5 Crazy:B「UTAKATA DANCE FLOOR」](https://open.spotify.com/album/7IL5MKNaGP5Un8ZwcV6nDS) | 3:16 | 2024-10-08 |  |

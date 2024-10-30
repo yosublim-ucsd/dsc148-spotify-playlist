@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 
 > und macht laune
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,667 likes - 90 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,733 likes - 90 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 | 56 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 |
 | 57 | [Abenteuerland](https://open.spotify.com/track/189vFQyTAhpSCsI07yjQVq) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9) | [Abenteuerland](https://open.spotify.com/album/3quzSBWWSsSon0G4MZE29v) | 2:59 |
 | 58 | [7 Seconds \(feat\. Shamiya Battles\) \- Radio Edit](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [7 Seconds \(feat\. Shamiya Battles\) \[Radio Edit\]](https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG) | 1:32 |
-| 59 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 |
-| 60 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |
+| 59 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |
+| 60 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 |
 | 61 | [Lay All Your Love On Me](https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV) | [Lietru](https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Lay All Your Love On Me](https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz) | 2:29 |
 | 62 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 |
 | 63 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |

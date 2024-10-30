@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover: Riar Saab
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,623 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,633 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 4 | [Challa](https://open.spotify.com/track/02CNhdsx0gHla9gNpuMc3E) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [King Love](https://open.spotify.com/artist/2DsVv0ixEl72QgRhMGAB1P), [Sukh Knight](https://open.spotify.com/artist/2NskCY8L26IYipQhRWousM) | [Challa](https://open.spotify.com/album/4gg6yNLDRY3NUo4lsIK0hB) | 2:48 |
 | 5 | [Many Men](https://open.spotify.com/track/4z2V6jTd4VagqPexBQXPKA) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Many Men](https://open.spotify.com/album/4TK7lw6o6y7HXKLbepxn2L) | 3:01 |
 | 6 | [Area 46](https://open.spotify.com/track/4FvpUiLWxotcm9h3vYcbgV) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj), [Sangar](https://open.spotify.com/artist/5wjEpEmoBwVZXueIJgk31C) | [Area 46](https://open.spotify.com/album/7ldJuCRt6KtKkyGSOewFuH) | 2:51 |
-| 7 | [Killin og](https://open.spotify.com/track/6Xm1o9U9YKereLcrvAp8bH) | [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Killin og](https://open.spotify.com/album/4YBgiDclonJSJOdZVKjR3R) | 2:34 |
+| 7 | [Killin og](https://open.spotify.com/track/6Xm1o9U9YKereLcrvAp8bH) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Killin og](https://open.spotify.com/album/4YBgiDclonJSJOdZVKjR3R) | 2:34 |
 | 8 | [Everyone Asks](https://open.spotify.com/track/3nc7YQhWdDfv8CwerxuE3J) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [ALPHA](https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f) | 2:49 |
 | 9 | [Stay With Me](https://open.spotify.com/track/4J51iI3X0qhc4wnfJE5B15) | [Sikkander](https://open.spotify.com/artist/5VrBVrPCCkw93feEHBkR8f) | [Stay With Me](https://open.spotify.com/album/3hlD7lg7YauBdLuLMSlFHc) | 2:54 |
 | 10 | [Assault](https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Assault](https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt) | 2:17 |

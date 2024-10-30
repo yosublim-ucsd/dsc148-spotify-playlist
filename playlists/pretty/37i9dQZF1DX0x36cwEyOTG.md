@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,341 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,416 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 35 | [I'll Never Find Your Soul](https://open.spotify.com/track/6CruGdNMu9cYkvfDYZAR3H) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 3:25 |
 | 36 | [Get On With It](https://open.spotify.com/track/7kkHmLA9r54mm2N35wMyvS) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 5:44 |
 | 37 | [Pine](https://open.spotify.com/track/0KWnWizkRsHSMqvfqyfqMH) | [Logan Bowden](https://open.spotify.com/artist/0EPb0J88Q9OxpOaaKA5teb) | [Family](https://open.spotify.com/album/6U8omMAuz0gnDvfnUXicPT) | 2:26 |
-| 38 | [Only a Moment](https://open.spotify.com/track/0YsdzdSjK6kEwtEeL4bfa6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 1:25 |
-| 39 | [Richter: Moth\-like Stars \- Edit](https://open.spotify.com/track/0wo2oXRCQmuzbJBhG2s564) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata](https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [My Brilliant Friend, Season 2 \(TV Series Soundtrack\)](https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit) | 10:40 |
+| 38 | [Richter: Moth\-like Stars \- Edit](https://open.spotify.com/track/0wo2oXRCQmuzbJBhG2s564) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata](https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [My Brilliant Friend, Season 2 \(TV Series Soundtrack\)](https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit) | 10:40 |
+| 39 | [Only a Moment](https://open.spotify.com/track/0YsdzdSjK6kEwtEeL4bfa6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 1:25 |
 | 40 | [Come and See](https://open.spotify.com/track/30dcEOSx5y5KNInniobGoc) | [Lean Year](https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR) | [Lean Year](https://open.spotify.com/album/0hamxL9J3GEDVn9ePVsQeo) | 3:39 |
 | 41 | [Free](https://open.spotify.com/track/4b57xU7rviFrRgilxMjDJb) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:36 |
 | 42 | [Hours](https://open.spotify.com/track/7us2Yx4bZw5x1sYic7XXyw) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 4:07 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 45 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 46 | [swear 2 g\-d \(Alt\. Version\)](https://open.spotify.com/track/0UPmA1NqrH6QEryXrSAd7e) | [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw), [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Abandoned Memory House \(Demos, B\-Sides & Rarities\)](https://open.spotify.com/album/5x8rez9zq9M6UDTCSjjgnh) | 4:00 |
 | 47 | [A Single Roof](https://open.spotify.com/track/0YCAnZ2CVi7NVu0iXrlSG6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 2:15 |
-| 48 | [one day](https://open.spotify.com/track/7DwwTngKPIZgxsok72Z9YL) | [Arca](https://open.spotify.com/artist/6N6Y3dXzfGFvUdqETrTGeT), [LUCA](https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [世界](https://open.spotify.com/album/69Kc5dicZRbAiDPlYgp39p) | 3:48 |
-| 49 | [January 31, 2018: Super Blue Blood Moon](https://open.spotify.com/track/0Wr8Y0YistxIYJ0JiGiYRQ) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Astronomy, Vol\. 1](https://open.spotify.com/album/5wsaSNJTS4x2XhO30SD3NL) | 2:22 |
+| 48 | [January 31, 2018: Super Blue Blood Moon](https://open.spotify.com/track/0Wr8Y0YistxIYJ0JiGiYRQ) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Astronomy, Vol\. 1](https://open.spotify.com/album/5wsaSNJTS4x2XhO30SD3NL) | 2:22 |
+| 49 | [one day](https://open.spotify.com/track/7DwwTngKPIZgxsok72Z9YL) | [Arca](https://open.spotify.com/artist/6N6Y3dXzfGFvUdqETrTGeT), [LUCA](https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [世界](https://open.spotify.com/album/69Kc5dicZRbAiDPlYgp39p) | 3:48 |
 | 50 | [Nest](https://open.spotify.com/track/4NtRwRfAuGRFQAhOezicIx) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 4:20 |
 
 Snapshot ID: `ZRcxKgAAAABfvhjorw+RBMuMfkwygN9h`

@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 764576,
+  "num_followers": 764587,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -421,20 +421,24 @@
       "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
     },
     {
-      "added_at": "2024-08-23 06:02:29",
+      "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Light Work",
-        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+        "name": "In Limbo",
+        "url": "https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Ironsides",
+          "url": "https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U"
         }
       ],
-      "duration_ms": 217304,
-      "name": "Light Work",
-      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+      "duration_ms": 195600,
+      "name": "In Limbo",
+      "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
     },
     {
       "added_at": "2024-08-30 05:27:28",
@@ -451,6 +455,38 @@
       "duration_ms": 143000,
       "name": "She Keeps Calling",
       "url": "https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF"
+    },
+    {
+      "added_at": "2024-08-23 06:02:29",
+      "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 217304,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+    },
+    {
+      "added_at": "2024-09-13 09:22:53",
+      "album": {
+        "name": "Waiting on the Right Time",
+        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Waiting on the Right Time",
+      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
     },
     {
       "added_at": "2024-05-24 07:09:55",
@@ -471,42 +507,6 @@
       "duration_ms": 189000,
       "name": "Made For Me (with Mariah Carey)",
       "url": "https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr"
-    },
-    {
-      "added_at": "2024-09-13 09:22:53",
-      "album": {
-        "name": "Waiting on the Right Time",
-        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Waiting on the Right Time",
-      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "In Limbo",
-        "url": "https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Ironsides",
-          "url": "https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "In Limbo",
-      "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
     },
     {
       "added_at": "2024-09-27 17:40:25",
@@ -1349,6 +1349,22 @@
       "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Illusions",
@@ -1383,22 +1399,6 @@
       "duration_ms": 170579,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/03FKr8sS1cfUchcefvpniw"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2023-05-20 16:10:43",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "FOR THE BOY IN ME",
-        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "IMY",
-      "url": "https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4"
-    },
-    {
       "added_at": "2024-03-01 06:13:32",
       "album": {
         "name": "Need Nothing",
@@ -1633,24 +1617,20 @@
       "url": "https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9"
     },
     {
-      "added_at": "2024-08-23 06:02:29",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "High Rise",
-        "url": "https://open.spotify.com/album/5J2djyGoOepXkcypspoQDx"
+        "name": "FOR THE BOY IN ME",
+        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
       },
       "artists": [
         {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
         }
       ],
-      "duration_ms": 202400,
-      "name": "High Rise",
-      "url": "https://open.spotify.com/track/4WCPv7SsDa2OCgFvHZQVgx"
+      "duration_ms": 176785,
+      "name": "IMY",
+      "url": "https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4"
     },
     {
       "added_at": "2024-05-31 07:10:31",
@@ -1683,6 +1663,26 @@
       "duration_ms": 181920,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X"
+    },
+    {
+      "added_at": "2024-08-23 06:02:29",
+      "album": {
+        "name": "High Rise",
+        "url": "https://open.spotify.com/album/5J2djyGoOepXkcypspoQDx"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "High Rise",
+      "url": "https://open.spotify.com/track/4WCPv7SsDa2OCgFvHZQVgx"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1825,22 +1825,6 @@
       "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
     },
     {
-      "added_at": "2024-08-30 05:27:28",
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 169015,
-      "name": "Things I Never Said",
-      "url": "https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4"
-    },
-    {
       "added_at": "2024-10-13 00:13:24",
       "album": {
         "name": "Cake",
@@ -1855,6 +1839,22 @@
       "duration_ms": 185026,
       "name": "Cake",
       "url": "https://open.spotify.com/track/16Y1bKsUo9Dcy1uzwStVjy"
+    },
+    {
+      "added_at": "2024-08-30 05:27:28",
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 169015,
+      "name": "Things I Never Said",
+      "url": "https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -2133,22 +2133,6 @@
       "url": "https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU"
     },
     {
-      "added_at": "2024-09-13 09:22:53",
-      "album": {
-        "name": "The Love Is Gone",
-        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
-      },
-      "artists": [
-        {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
-        }
-      ],
-      "duration_ms": 199732,
-      "name": "The Love Is Gone",
-      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Untitled (God)",
@@ -2163,6 +2147,22 @@
       "duration_ms": 331177,
       "name": "My Light",
       "url": "https://open.spotify.com/track/6F4MydgbaNkseNu5quueaF"
+    },
+    {
+      "added_at": "2024-09-13 09:22:53",
+      "album": {
+        "name": "The Love Is Gone",
+        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "The Love Is Gone",
+      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
     },
     {
       "added_at": "2023-06-16 06:17:29",
@@ -2321,6 +2321,22 @@
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
+      "added_at": "2024-02-09 18:22:45",
+      "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Love Is U",
+      "url": "https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu"
+    },
+    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Set It Free [Feat. Richie]",
@@ -2341,20 +2357,20 @@
       "url": "https://open.spotify.com/track/6NV7Oyl0h2FzLvDC2IrVM4"
     },
     {
-      "added_at": "2024-02-09 18:22:45",
+      "added_at": "2023-09-08 06:01:16",
       "album": {
-        "name": "On God",
-        "url": "https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd"
+        "name": "We Found Love",
+        "url": "https://open.spotify.com/album/0jJKXcVgzIPMkbw0uYBW0p"
       },
       "artists": [
         {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Love Is U",
-      "url": "https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu"
+      "duration_ms": 189187,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J"
     },
     {
       "added_at": "2024-03-01 06:13:32",
@@ -2373,20 +2389,20 @@
       "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
     },
     {
-      "added_at": "2023-09-08 06:01:16",
+      "added_at": "2023-10-20 05:25:27",
       "album": {
-        "name": "We Found Love",
-        "url": "https://open.spotify.com/album/0jJKXcVgzIPMkbw0uYBW0p"
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/3sAqbZXReqypT0ZMsxOgeE"
       },
       "artists": [
         {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+          "name": "Relyae",
+          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
         }
       ],
-      "duration_ms": 189187,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J"
+      "duration_ms": 152755,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo"
     },
     {
       "added_at": "2024-01-19 06:57:11",
@@ -2403,22 +2419,6 @@
       "duration_ms": 299510,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5"
-    },
-    {
-      "added_at": "2023-10-20 05:25:27",
-      "album": {
-        "name": "Flow State",
-        "url": "https://open.spotify.com/album/3sAqbZXReqypT0ZMsxOgeE"
-      },
-      "artists": [
-        {
-          "name": "Relyae",
-          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
-        }
-      ],
-      "duration_ms": 152755,
-      "name": "Flow State",
-      "url": "https://open.spotify.com/track/5Fe8uke9EvLWQN672C1Jlo"
     },
     {
       "added_at": "2024-06-21 06:30:29",
@@ -2533,6 +2533,22 @@
       "url": "https://open.spotify.com/track/3Mq49cV6a9smgKAx0ccej4"
     },
     {
+      "added_at": "2024-10-18 16:11:48",
+      "album": {
+        "name": "A Lover Was Born",
+        "url": "https://open.spotify.com/album/7jgxifgu2gP2BKSEKXkdjV"
+      },
+      "artists": [
+        {
+          "name": "Kelly Finnigan",
+          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Fine By Myself",
@@ -2589,26 +2605,6 @@
       "url": "https://open.spotify.com/track/0dAFYiW4zXXhmXXCINl5H7"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "The Mind",
-        "url": "https://open.spotify.com/album/5V0Nqn3w1C11avw7i8UhQ8"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        },
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 226574,
-      "name": "Little Things (feat. Yaya Bey)",
-      "url": "https://open.spotify.com/track/7eUxbqEPlbf9rccIDDOy5D"
-    },
-    {
       "added_at": "2023-06-16 06:17:29",
       "album": {
         "name": "Whatcha Know",
@@ -2629,30 +2625,6 @@
       "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
     },
     {
-      "added_at": "2024-09-13 09:22:53",
-      "album": {
-        "name": "Nintindo Soul",
-        "url": "https://open.spotify.com/album/1HaSycwssAOYNRmcdr1MXR"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Malaya",
-          "url": "https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 144956,
-      "name": "Confusional",
-      "url": "https://open.spotify.com/track/1QXk8zas7jeb6WhD9sS4Sh"
-    },
-    {
       "added_at": "2024-07-26 10:15:07",
       "album": {
         "name": "The Art Of Making Love",
@@ -2667,6 +2639,26 @@
       "duration_ms": 217946,
       "name": "If You Could See You",
       "url": "https://open.spotify.com/track/1AYgBfTLRo0e8xbcU4zpQO"
+    },
+    {
+      "added_at": "2024-03-08 14:46:00",
+      "album": {
+        "name": "Son of Zeus",
+        "url": "https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN"
+      },
+      "artists": [
+        {
+          "name": "Tyler Daley",
+          "url": "https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr"
+        },
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "When You're Lonely",
+      "url": "https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo"
     }
   ],
   "unique_name": "Soul Coffee",

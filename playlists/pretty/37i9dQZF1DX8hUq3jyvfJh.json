@@ -1,6 +1,6 @@
 {
   "description": "Escute Mc Luanna e mais mulheres no volume m\u00e1ximo! Co-curadoria com <a href=\"spotify:playlist:37i9dQZF1DZ06evO45TXx1\">Mc Luanna</a>.",
-  "num_followers": 187098,
+  "num_followers": 187089,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
+        "name": "Novinho Chora",
+        "url": "https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 187405,
+      "name": "Novinho Chora",
+      "url": "https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3"
+    },
+    {
+      "added_at": "2024-10-11 14:42:33",
+      "album": {
         "name": "PROFESSORA",
         "url": "https://open.spotify.com/album/0jQRQtskkBvQKBosVV1LD2"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 158321,
       "name": "PROFESSORA",
       "url": "https://open.spotify.com/track/60eDrFcc9Rmj91W3NTdByE"
-    },
-    {
-      "added_at": "2024-10-11 14:42:33",
-      "album": {
-        "name": "Novinho Chora",
-        "url": "https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 187405,
-      "name": "Novinho Chora",
-      "url": "https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3"
     },
     {
       "added_at": "2024-10-11 14:42:33",
@@ -883,30 +883,6 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
-        "name": "METamorFOSE",
-        "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
-      },
-      "artists": [
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "DMAX",
-          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "MEU N\u00cdVEL (Olha Pra Minha Cara)",
-      "url": "https://open.spotify.com/track/6k6W3B8XYNVBqlKcKbw9Z8"
-    },
-    {
-      "added_at": "2024-10-11 14:42:33",
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 174797,
       "name": "F\u00e9 no caminho",
       "url": "https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6"
+    },
+    {
+      "added_at": "2024-10-11 14:42:33",
+      "album": {
+        "name": "METamorFOSE",
+        "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "DMAX",
+          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "MEU N\u00cdVEL (Olha Pra Minha Cara)",
+      "url": "https://open.spotify.com/track/6k6W3B8XYNVBqlKcKbw9Z8"
     },
     {
       "added_at": "2024-10-11 14:42:33",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "Olhar HD",
-      "url": "https://open.spotify.com/track/19vkkxYtxYeSBbiwEjUg5f"
-    },
-    {
-      "added_at": "2024-10-11 14:42:33",
-      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW"
       },
@@ -1107,6 +1083,30 @@
       "duration_ms": 216625,
       "name": "OBRIGADA BLACK",
       "url": "https://open.spotify.com/track/0ydCkU8ZwpeaWgEyvthP1U"
+    },
+    {
+      "added_at": "2024-10-11 14:42:33",
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 167741,
+      "name": "Olhar HD",
+      "url": "https://open.spotify.com/track/19vkkxYtxYeSBbiwEjUg5f"
     },
     {
       "added_at": "2024-10-11 14:42:33",

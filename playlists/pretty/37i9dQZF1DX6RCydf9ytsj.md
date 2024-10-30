@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,822 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,939 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 105 | [Swingin'](https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Wild And Blue](https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc) | 3:03 |
 | 106 | [Old Hippie](https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 4:05 |
 | 107 | [80's Ladies](https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [80s Ladies](https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT) | 4:11 |
-| 108 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
-| 109 | [I Tell It Like It Used To Be](https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Super Hits](https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8) | 3:00 |
+| 108 | [I Tell It Like It Used To Be](https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Super Hits](https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8) | 3:00 |
+| 109 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 110 | [Somebody's Knockin'](https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE) | [Terri Gibbs](https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg) | [The Best Of Terri Gibbs](https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t) | 3:01 |
 | 111 | [She Got the Goldmine \(I Got the Shaft\)](https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 3:16 |
 | 112 | [Sunday In the South](https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 4:01 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 133 | [Seven Year Ache](https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:14 |
 | 134 | [If It Don't Come Easy](https://open.spotify.com/track/3YuCV1BpUaitv016B5Lpcu) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Greatest Hits](https://open.spotify.com/album/1YRCRPM4KO5aYfg8LWPw9Z) | 3:28 |
 | 135 | [Two Story House](https://open.spotify.com/track/6PzCKkM1FLgIVCaAQkKyuZ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [George Jones and Tammy Wynette \- 16 Biggest Hits](https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs) | 2:40 |
-| 136 | [\(That's What You Do\) When You're in Love](https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 3:04 |
-| 137 | [C.C\. Waterback](https://open.spotify.com/track/1MQYA59Whe8zRBnGqgAvMP) | [George Jones](https://open.spotify.com/artist/4w3SbKx9G1XOV8TeMOEmTi), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [His Epic Hits](https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB) | 3:35 |
+| 136 | [C.C\. Waterback](https://open.spotify.com/track/1MQYA59Whe8zRBnGqgAvMP) | [George Jones](https://open.spotify.com/artist/4w3SbKx9G1XOV8TeMOEmTi), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [His Epic Hits](https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB) | 3:35 |
+| 137 | [\(That's What You Do\) When You're in Love](https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 3:04 |
 | 138 | [I Can Tell By the Way You Dance](https://open.spotify.com/track/6m7HjxgVcktBJIwOBG8r4F) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [The Voice Box, Vol\. 1](https://open.spotify.com/album/5lwZGEP2HPLUrByMANLyA7) | 2:41 |
 | 139 | [Step That Step](https://open.spotify.com/track/4p0WEALPRSImOlp0glMiDM) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Best Of](https://open.spotify.com/album/0xo3FuNk8I8IUkJbXIrWam) | 2:49 |
 | 140 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |

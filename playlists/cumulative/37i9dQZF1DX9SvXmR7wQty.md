@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Souldia
 
-2,921 songs - 6 day 11 hr 22 min
+2,922 songs - 6 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1969,7 +1969,7 @@
 | [Papercuts](https://open.spotify.com/track/4A2b6v9CmNJsNfykZqawDk) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Papercuts](https://open.spotify.com/album/39sAxVFPkuC7hBGUZYfFrx) | 2:56 | 2024-06-14 | 2024-06-22 |
 | [Papier rose](https://open.spotify.com/track/1aRvYNhG8UWZoKOacSjkfJ) | [100 Blaze](https://open.spotify.com/artist/0JxUh8qDlG3xflSV9Of500), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blow](https://open.spotify.com/album/1VLRTBE1ppxnbxSwOFtwq1) | 2:51 | 2022-04-15 | 2022-04-29 |
 | [Paquet de troubles](https://open.spotify.com/track/5MxdQSpOVzJHEwiKiPRoR8) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Paquet de troubles](https://open.spotify.com/album/0YVaycc7OrjSisrUrJG7ru) | 3:48 | 2023-03-10 | 2023-03-18 |
-| [Parades Photos](https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:58 | 2024-09-13 |  |
+| [Parades Photos](https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:58 | 2024-09-13 | 2024-10-30 |
 | [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:45 | 2024-04-26 | 2024-05-03 |
 | [Paradis City \- Spotify Singles](https://open.spotify.com/track/5mYuMW990U9kGRaCEpk0nI) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Spotify Singles](https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw) | 2:37 | 2022-12-02 | 2023-01-14 |
 | [Paradise](https://open.spotify.com/track/13see5eBO7p2YYeDU7HJRA) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS), [Assy](https://open.spotify.com/artist/2BitGSvp2g87DRz5cdaGxw), [D4vid Lee](https://open.spotify.com/artist/7LzOVgKtZZlKE2AjJ8qDwy) | [Paradise](https://open.spotify.com/album/3WISk3egl8Q7amDKahWhaH) | 4:20 | 2022-10-14 | 2022-10-29 |
@@ -2734,6 +2734,7 @@
 | [Un rêve, un songe](https://open.spotify.com/track/3xlPGMV4CPpC3cIXotTzSF) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [Jeanne](https://open.spotify.com/album/4r6Z0iuizkpuULr6XQulES) | 3:14 | 2022-09-30 | 2022-10-15 |
 | [UN SAMEDI SOIR QUÉBÉCOIS](https://open.spotify.com/track/7tuu5DcwXp5ki161lreEYK) | [Kaïn](https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ) | [El GRANDE TORPEDO](https://open.spotify.com/album/0GPARm2KCkGhIhNPQFnKeQ) | 3:41 | 2023-09-22 | 2023-09-30 |
 | [Un soleil toujours](https://open.spotify.com/track/5KhCP2DLXDDU9tafzlIBkx) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Un soleil toujours](https://open.spotify.com/album/6avw1J81JLd37DlFUY2wqh) | 3:13 | 2022-09-16 | 2022-10-01 |
+| [Un vœu](https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Un vœu](https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL) | 3:58 | 2024-10-25 |  |
 | [un éclair](https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [un éclair](https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D) | 3:30 | 2023-05-05 | 2023-06-13 |
 | [Under Pressure](https://open.spotify.com/track/53GiARZyas9J5pbBiVz4F1) | [Randy Raymond](https://open.spotify.com/artist/4lWRGWFZssgySjWbfXwv5g) | [Under Pressure](https://open.spotify.com/album/4qMiA7LeVlwmlcYZSh27Wa) | 2:36 | 2024-09-27 | 2024-10-05 |
 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-05 | 2023-06-04 |

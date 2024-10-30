@@ -4,7 +4,7 @@
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-73 songs - 6 hr 13 min
+74 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [O Abraço do Noivo](https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 7:26 | 2023-07-09 |  |
 | [O Exilado](https://open.spotify.com/track/2IVrqzaBUCSkvjgMfH4viN) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:26 | 2024-06-15 | 2024-06-18 |
 | [O Fogo de Deus](https://open.spotify.com/track/7EznXYdL3RtJkJdFYpZc9k) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 5:11 | 2023-07-09 | 2024-09-08 |
-| [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 | 2023-07-09 |  |
+| [O Leão e o Cordeiro](https://open.spotify.com/track/1irO0WkYsvyJn69eU2WPtp) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Nível do Céu](https://open.spotify.com/album/7LrpfDg51GwVELHlfflG6l) | 6:20 | 2024-10-30 |  |
+| [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 | 2023-07-09 | 2024-10-30 |
 | [O Preço Mais Caro](https://open.spotify.com/track/09Ycc4int063ZpChD3OMCE) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Preço Mais Caro](https://open.spotify.com/album/1IevqavLNiL8L03MbiziDx) | 3:57 | 2023-08-25 | 2023-12-14 |
 | [O Segredo \(Ao Vivo\)](https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Segredo \(Ao Vivo\)](https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd) | 5:06 | 2023-07-09 |  |
 | [Oferta Agradável a Ti](https://open.spotify.com/track/1uj6MX46NiNKG9jJeBSpCa) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:13 | 2023-07-09 |  |

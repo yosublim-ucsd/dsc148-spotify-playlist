@@ -4,7 +4,7 @@
 
 > have you noticed? 🚬🧡
 
-95 songs - 4 hr 42 min
+96 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Klovn](https://open.spotify.com/track/5LMUzJc43DaksLiWeueJ18) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25), [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [Klovn](https://open.spotify.com/album/4Z9UA2PgWm8mnUPcWGbazC) | 3:06 | 2024-10-10 |  |
 | [konfetti](https://open.spotify.com/track/1qL6kHMI4KPCzG08xXQY1d) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [konfetti](https://open.spotify.com/album/3l1hJrenFvmlaFVfKCGeuo) | 2:41 | 2024-08-22 | 2024-09-06 |
 | [Kun i kveld](https://open.spotify.com/track/6PIkK5x2L0t4v10BofX67d) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Kun i kveld](https://open.spotify.com/album/4jhm1B2vDAGkhlnVJWoZ3S) | 2:20 | 2024-09-12 | 2024-10-25 |
-| [Kunne vi](https://open.spotify.com/track/2zIQ3Sgm3lEMpVRz2hKQao) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Kunne vi](https://open.spotify.com/album/285MzfmGoQE0a1MTPzZxPN) | 2:13 | 2024-09-05 |  |
+| [Kunne vi](https://open.spotify.com/track/2zIQ3Sgm3lEMpVRz2hKQao) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Kunne vi](https://open.spotify.com/album/285MzfmGoQE0a1MTPzZxPN) | 2:13 | 2024-09-05 | 2024-10-30 |
 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 | 2024-08-22 | 2024-09-30 |
 | [Let's Go](https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Let's Go](https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY) | 2:28 | 2024-09-05 |  |
 | [Lever Livet](https://open.spotify.com/track/03EVFwVKaimcw3ZNkoU6x7) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Lever Livet](https://open.spotify.com/album/753mxKgIv1sOihb9r6R7Zl) | 2:53 | 2024-07-18 | 2024-10-11 |
@@ -97,6 +97,7 @@
 | [VENNELØS](https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [BRENTE BROER](https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0) | 1:54 | 2024-06-27 |  |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2024-06-27 |  |
 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 | 2024-06-27 |  |
+| [VIS MEG DIN VERDEN](https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-10-24 |  |
 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 | 2024-06-27 |  |
 | [We Both Smoke Again](https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [We Both Smoke Again](https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV) | 3:28 | 2024-10-10 |  |
 | [Where Are You Tonight?](https://open.spotify.com/track/4GvuKq0Qe0sTcNI0u09IFJ) | [Cupid Girl](https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq) | [Where Are You Tonight?](https://open.spotify.com/album/5b06H5SDEaHsmOmKByPgv9) | 4:03 | 2024-07-18 | 2024-08-23 |

@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-85 songs - 6 hr 20 min
+86 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [He'll Do It Again](https://open.spotify.com/track/054nuYMIq228KvP0jUvr8a) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:40 | 2023-05-12 |  |
 | [He's Got It All In Control](https://open.spotify.com/track/2q9iUw2ZI5krPylceEl9Bl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:20 | 2023-05-12 |  |
 | [He's Working It Out for You](https://open.spotify.com/track/1aS2yIKWfwzJjVI7vRLju7) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [He's Working It Out for You](https://open.spotify.com/album/6hEJsEKJDSL8Ma2dRS4pSG) | 5:31 | 2023-05-12 |  |
+| [Healed](https://open.spotify.com/track/2kblPUvb74gM6V2BWHkqml) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [He's Working It Out for You](https://open.spotify.com/album/6hEJsEKJDSL8Ma2dRS4pSG) | 4:26 | 2024-10-30 |  |
 | [Heaven](https://open.spotify.com/track/6ia2r9iAhIZ0mmRH8Tgq5k) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...\. He Will Come](https://open.spotify.com/album/4gFxfVqXsSFolfA5MHosnL) | 4:48 | 2023-05-12 |  |
 | [Hold My Mule \- Live](https://open.spotify.com/track/0JjsI172ped2hF5v27o28J) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 8:41 | 2023-05-12 |  |
 | [How I Love Jesus](https://open.spotify.com/track/6AEfS7fqWpSn8llgMVjfvs) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 6:41 | 2023-05-12 |  |
@@ -89,7 +90,7 @@
 | [Yes Lord, Yes \- Live](https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 3:55 | 2023-05-12 |  |
 | [You Are All I Need](https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:30 | 2023-05-12 |  |
 | [You Can Make It](https://open.spotify.com/track/0WShhXViWE3F5DPcrkgvV5) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 6:31 | 2023-05-12 |  |
-| [You Did It All](https://open.spotify.com/track/7EAKpTEvHLAGaUBjETGJdT) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Stand Still](https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE) | 6:13 | 2023-09-25 |  |
+| [You Did It All](https://open.spotify.com/track/7EAKpTEvHLAGaUBjETGJdT) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Stand Still](https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE) | 6:13 | 2023-09-25 | 2024-10-30 |
 | [You Stayed](https://open.spotify.com/track/0xjj8wnRsAHbNW2idVp0Ip) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/0QxY4kLxoYjExBpl1Hzp60) | 4:31 | 2023-05-12 | 2024-01-09 |
 | [You Stayed](https://open.spotify.com/track/6d1rpwFNCoyeLoQr8D2g0Q) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 4:31 | 2024-01-08 |  |
 | [You're Next In Line for a Miracle](https://open.spotify.com/track/6IdkVDIVFjznzo4RfNtT1T) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 7:04 | 2023-05-12 |  |

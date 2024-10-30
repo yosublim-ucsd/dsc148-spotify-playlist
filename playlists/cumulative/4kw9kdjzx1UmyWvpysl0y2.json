@@ -7587,6 +7587,24 @@
     },
     {
       "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/4gLFhQ34tPaaJYcWVLuZEO"
+      },
+      "artists": [
+        {
+          "name": "bir\u00f8",
+          "url": "https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/5E8fFXrnuvjqW7FuWK7b7Q"
+    },
+    {
+      "album": {
         "name": "Johera",
         "url": "https://open.spotify.com/album/6YRv6DbwXQfCQGsWHAnukJ"
       },

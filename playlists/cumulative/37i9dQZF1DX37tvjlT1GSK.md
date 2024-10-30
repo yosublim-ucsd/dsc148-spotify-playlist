@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Hijos de Barrón y Los Plebes del Rancho en portada.
 
-469 songs - 1 day 0 hr 45 min
+470 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [La Deluxe](https://open.spotify.com/track/46mU4TDlzNjBpz1g0yQHX6) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [La Deluxe](https://open.spotify.com/album/0dhWgu8VQ7zZ00rH0JRXpH) | 2:37 | 2023-08-25 | 2023-09-09 |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2023-12-01 |  |
 | [La Fama de una Dama](https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [La Fama de una Dama](https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d) | 2:48 | 2024-03-01 | 2024-04-10 |
-| [La Guerita](https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Guerita](https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct) | 3:04 | 2024-05-03 |  |
+| [La Guerita](https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Guerita](https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct) | 3:04 | 2024-05-03 | 2024-10-30 |
 | [La Joya](https://open.spotify.com/track/5KyAyaQLzwXXJs0vSTtdI1) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [La Joya](https://open.spotify.com/album/2dORJIqrbsOWUpVVf09aRM) | 2:52 | 2023-08-04 | 2023-09-06 |
 | [La Lista](https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [La Lista](https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH) | 3:31 | 2022-05-13 | 2022-12-03 |
 | [La Niña Del Instagram](https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG) | [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [La Niña Del Instagram](https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr) | 3:48 | 2023-12-01 | 2024-02-24 |
@@ -425,6 +425,7 @@
 | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/track/5lMgrfqMHikrPx0trUm5aT) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/album/4sLmrP60deEJ3qrU6S7fgQ) | 3:27 | 2023-10-27 | 2023-11-03 |
 | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2) | 3:27 | 2023-10-27 | 2024-04-15 |
 | [TRES BOTELLAS](https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:42 | 2023-10-27 |  |
+| [Trippy Love](https://open.spotify.com/track/58MPaYlQ73JTa2DwkMDEyM) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Trippy Love](https://open.spotify.com/album/4OUD5Az0wnZs7jgHVxatak) | 3:44 | 2024-10-25 |  |
 | [Triste](https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Triste](https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8) | 2:46 | 2022-07-01 | 2023-12-02 |
 | [Tu](https://open.spotify.com/track/6ajVb9JDdueaxbtLImUEPC) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 | 2023-12-01 | 2024-06-08 |
 | [Tu Llegada](https://open.spotify.com/track/3JVFLYJKUpvTvUUnut1TvC) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tu Llegada](https://open.spotify.com/album/7zI6rJwCEJqPpsm15277vc) | 2:48 | 2023-01-13 | 2023-03-18 |

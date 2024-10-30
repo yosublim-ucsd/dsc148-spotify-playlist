@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 31653,
+  "num_followers": 31669,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
-      },
-      "artists": [
-        {
-          "name": "Kim Jong Kook",
-          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "\uc911\ub3c5",
-      "url": "https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Lovers in Paris (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 249352,
       "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
       "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "\uc911\ub3c5",
+      "url": "https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Glass Mask",
-        "url": "https://open.spotify.com/album/7klNdBJ1KRmBQtdZyhzM51"
-      },
-      "artists": [
-        {
-          "name": "Kim Yuna",
-          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/6Dpb6KTOb3iEm89DAHwLGk"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 350960,
       "name": "miss you",
       "url": "https://open.spotify.com/track/5vYzF4Lh3wwUAsugpFYLYQ"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Glass Mask",
+        "url": "https://open.spotify.com/album/7klNdBJ1KRmBQtdZyhzM51"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/6Dpb6KTOb3iEm89DAHwLGk"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "izi 1\uc9d1",
-        "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf"
-        }
-      ],
-      "duration_ms": 238825,
-      "name": "\uc751\uae09\uc2e4",
-      "url": "https://open.spotify.com/track/2JPmkr5otXP3G5LMK497c9"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Voice Of Heaven",
         "url": "https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 216320,
       "name": "gazing blankly",
       "url": "https://open.spotify.com/track/5t2qlg7EG7qmckTk6usRee"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "izi 1\uc9d1",
+        "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf"
+        }
+      ],
+      "duration_ms": 238825,
+      "name": "\uc751\uae09\uc2e4",
+      "url": "https://open.spotify.com/track/2JPmkr5otXP3G5LMK497c9"
     },
     {
       "added_at": "2022-06-13 13:22:46",

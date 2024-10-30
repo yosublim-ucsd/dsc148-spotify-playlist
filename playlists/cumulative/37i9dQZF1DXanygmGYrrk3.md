@@ -4,7 +4,7 @@
 
 > Tus canciones favoritas de Música Mexicana, all in one place! Cover: Intocable
 
-492 songs - 1 day 2 hr 29 min
+493 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [NTP](https://open.spotify.com/track/7e6N0J6tRXXYP2TTo67zW2) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NTP](https://open.spotify.com/album/1n8Yj5JW2WrY4ODhDj4eMP) | 3:15 | 2024-08-02 | 2024-08-25 |
 | [NUEVA VIDA](https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:10 | 2024-06-28 |  |
 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 | 2022-05-12 | 2024-06-29 |
+| [Obsesión \- Alternate Version](https://open.spotify.com/track/7aPGHZSUf4QAg00Ybuh6Ju) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi \- Antología](https://open.spotify.com/album/6fkHr4XjKCGdG5Lphdbp0f) | 3:07 | 2024-10-25 |  |
 | [Oficialmente en Soltería](https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Oficialmente en Soltería](https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe) | 2:02 | 2023-01-26 | 2023-02-02 |
 | [Ojalá Estuvieras Aquí](https://open.spotify.com/track/0qv6HGoCMqZ7ipX4u4N8KQ) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 2:46 | 2024-02-23 | 2024-03-30 |
 | [Ojalá Que Te Enamores](https://open.spotify.com/track/3FS005C7y7iGz2uDIAvZPv) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojalá Que Te Enamores](https://open.spotify.com/album/2P2sij35RY80SviKpN9sIr) | 2:35 | 2022-05-12 | 2022-07-26 |

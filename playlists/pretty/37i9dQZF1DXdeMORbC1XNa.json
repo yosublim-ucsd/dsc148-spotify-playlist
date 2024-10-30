@@ -1,6 +1,6 @@
 {
   "description": "The African & Caribbean diaspora united. Cover: Wizkid, Brent Faiyaz",
-  "num_followers": 309770,
+  "num_followers": 309909,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Vibes Don't Lie",
+        "url": "https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU"
+      },
+      "artists": [
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "duration_ms": 148333,
+      "name": "Tek Buddy",
+      "url": "https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "INTOXYCATED",
         "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 212000,
       "name": "INTOXYCATED",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Vibes Don't Lie",
-        "url": "https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU"
-      },
-      "artists": [
-        {
-          "name": "Skeete",
-          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
-        }
-      ],
-      "duration_ms": 148333,
-      "name": "Tek Buddy",
-      "url": "https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke"
     },
     {
       "added_at": "2024-10-24 23:00:00",

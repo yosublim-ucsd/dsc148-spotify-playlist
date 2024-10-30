@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,535 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,546 likes - 100 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 91 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
 | 92 | [My Hope Is In the Blood](https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 4:21 |
 | 93 | [Fall Afresh](https://open.spotify.com/track/3iQdQCjHbi078GjNzsjT2p) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden \(Deluxe Edition\)](https://open.spotify.com/album/7CghLAYoxyGmUiZ10FnGPa) | 5:29 |
-| 94 | [Long Live The King \- Acoustic](https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Versions\) \- EP](https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH) | 5:53 |
-| 95 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |
+| 94 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |
+| 95 | [Long Live The King \- Acoustic](https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Versions\) \- EP](https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH) | 5:53 |
 | 96 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
 | 97 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 | 98 | [Calvary's Cross](https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [This Is Jesus](https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks) | 5:17 |
 | 99 | [Crown Him With Many Crowns](https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [Crown Him With Many Crowns](https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU) | 4:14 |
-| 100 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
+| 100 | [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 |
 
 Snapshot ID: `ZoNTaQAAAAAYbtq1Qc8n+mjG4AwiAF4u`

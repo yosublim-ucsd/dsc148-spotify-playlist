@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 5184,
+  "num_followers": 5183,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx2CgAAAAADSLBFZGExc/wMY79dGGyKq",
+  "snapshot_id": "Zx7UAAAAAABxsv12dr9VZb95EhWNAZdc",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cabezones Azules",
-        "url": "https://open.spotify.com/album/1Lkokal6RcHYzxDfqMrPY9"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Cabezones Azules",
-      "url": "https://open.spotify.com/track/05y6GAASJNXAOAyk4dZVKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Botas O Gabanas",
         "url": "https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 170842,
       "name": "De Botas O Gabanas",
       "url": "https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cabezones Azules",
+        "url": "https://open.spotify.com/album/1Lkokal6RcHYzxDfqMrPY9"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 216053,
+      "name": "Cabezones Azules",
+      "url": "https://open.spotify.com/track/05y6GAASJNXAOAyk4dZVKQ"
     },
     {
       "added_at": null,
@@ -411,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BAJITA LA TENAZA",
+        "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 198598,
+      "name": "EL CRESTA",
+      "url": "https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Querian Facil",
         "url": "https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY"
       },
@@ -427,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Taliban",
-        "url": "https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "El Taliban",
-      "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Con Tololoche",
         "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
       },
@@ -455,6 +459,22 @@
       "duration_ms": 183040,
       "name": "Mujer Paseada - En Vivo",
       "url": "https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Taliban",
+        "url": "https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "El Taliban",
+      "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
     },
     {
       "added_at": null,
@@ -507,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BAJITA LA TENAZA",
-        "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        },
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 198598,
-      "name": "EL CRESTA",
-      "url": "https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Con Tololoche",
         "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
       },
@@ -539,26 +539,6 @@
       "duration_ms": 226986,
       "name": "Mi Gusto Es - En Vivo",
       "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Debajo De La Gorra",
-        "url": "https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        },
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 185511,
-      "name": "Debajo De La Gorra",
-      "url": "https://open.spotify.com/track/37jvbQaDuG76ZXPRPHnjSl"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
       "duration_ms": 195000,
       "name": "Soy Rencoroso",
       "url": "https://open.spotify.com/track/50ocU9plfD2wa1j6NmClEj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Debajo De La Gorra",
+        "url": "https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 185511,
+      "name": "Debajo De La Gorra",
+      "url": "https://open.spotify.com/track/37jvbQaDuG76ZXPRPHnjSl"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 189789,
+      "name": "Cuando Me Muera",
+      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Casa De La Esquina",
         "url": "https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 117760,
       "name": "La Casa De La Esquina",
       "url": "https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Willy Checks",
-      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Willy Checks",
+      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 165594,
       "name": "COMPTON",
       "url": "https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 189789,
-      "name": "Cuando Me Muera",
-      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J\u00e1lese Carnal",
-        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 156928,
-      "name": "El Cimarron",
-      "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/2W0a475HJ51N4lLX0czxQG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 165035,
       "name": "El Fracasado",
       "url": "https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J\u00e1lese Carnal",
+        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 156928,
+      "name": "El Cimarron",
+      "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
     },
     {
       "added_at": null,

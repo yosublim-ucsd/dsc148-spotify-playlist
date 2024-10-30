@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Promoting exciting artists from the Benelux: <a href="spotify:artist:11T0XSkxSB5KUPTe8P8BOl">Sylvie Kreusch</a> \(cover\), Berre, The Vices, The Indien & Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,961 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,959 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

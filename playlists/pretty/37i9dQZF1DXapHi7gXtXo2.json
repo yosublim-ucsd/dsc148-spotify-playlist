@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 87504,
+  "num_followers": 87517,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm"
       },
@@ -291,18 +307,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+        "name": "Ojitos de Md",
+        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
         }
       ],
-      "duration_ms": 229943,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
+      "duration_ms": 137052,
+      "name": "Ojitos de Md",
+      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -319,22 +335,6 @@
       "duration_ms": 193206,
       "name": "PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Ojitos de Md",
-        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "Ojitos de Md",
-      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -427,6 +427,26 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Ya Me Hiciste Mal (Remix)",
         "url": "https://open.spotify.com/album/4z11zYLcNsJZip4UeN9amB"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 206738,
       "name": "La Mexicana",
       "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Paradisco",
-        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 233042,
-      "name": "Paradisco",
-      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "El Tesoro - Picnic En el Piso Doce",
         "url": "https://open.spotify.com/album/5ChGm7ffNc5DUPp9qjLhDj"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 242911,
       "name": "El Tesoro - Picnic En el Piso Doce",
       "url": "https://open.spotify.com/track/32MBMGvoLp04yGrHnkNEh4"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Paradisco",
+        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 233042,
+      "name": "Paradisco",
+      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "LOTO",
-        "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
       },
       "artists": [
         {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 166493,
-      "name": "LOTO",
-      "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
+      "duration_ms": 161617,
+      "name": "Nin\u0303o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
+        "name": "LOTO",
+        "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
         }
       ],
-      "duration_ms": 161617,
-      "name": "Nin\u0303o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
+      "duration_ms": 166493,
+      "name": "LOTO",
+      "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "CURSI",
         "url": "https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 181813,
       "name": "CURSI",
       "url": "https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0EeRsz6rD97ujvUvtvdCF6"
+      },
+      "artists": [
+        {
+          "name": "We The Lion",
+          "url": "https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z"
+        }
+      ],
+      "duration_ms": 234113,
+      "name": "You",
+      "url": "https://open.spotify.com/track/76p149xwpgu1LkSmYKfqeI"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Te quiero tanto",
         "url": "https://open.spotify.com/album/77IsSSjJqgJkAw7xPRDPk7"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 213419,
       "name": "Te quiero tanto",
       "url": "https://open.spotify.com/track/7Ec6FaLOKrdW5dr5bQifgB"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/0EeRsz6rD97ujvUvtvdCF6"
-      },
-      "artists": [
-        {
-          "name": "We The Lion",
-          "url": "https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z"
-        }
-      ],
-      "duration_ms": 234113,
-      "name": "You",
-      "url": "https://open.spotify.com/track/76p149xwpgu1LkSmYKfqeI"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Una Caricia",
-      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 175669,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Una Caricia",
+      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "El Rio",
+        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 134884,
+      "name": "El Rio",
+      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Me da igual",
         "url": "https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 212468,
       "name": "Nos queda bien",
       "url": "https://open.spotify.com/track/2qe70LBa0sShHTwkHEevaM"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "El Rio",
-        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 134884,
-      "name": "El Rio",
-      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Seremos Idiotas",
-        "url": "https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        }
-      ],
-      "duration_ms": 197790,
-      "name": "Seremos Idiotas",
-      "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 198676,
       "name": "GUIAME",
       "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Seremos Idiotas",
+        "url": "https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "duration_ms": 197790,
+      "name": "Seremos Idiotas",
+      "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
     },
     {
       "added_at": "2024-09-20 03:00:00",

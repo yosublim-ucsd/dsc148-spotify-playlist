@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. El Cuarteto de Nos en Portada.
 
-532 songs - 1 day 7 hr 24 min
+533 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Nunca Se Apaga \- Remaster 2022](https://open.spotify.com/track/3mAtB7B6rokuz6SGs5OXEB) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Fuiste Bueno \(Remaster 2022\)](https://open.spotify.com/album/3eI9SdNHCYX10fukBnhuZy) | 2:41 | 2023-06-30 | 2024-04-27 |
 | [Nunca te amé](https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [El Eco de la Nada](https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ) | 3:04 | 2022-04-20 | 2023-09-23 |
 | [Náufrago](https://open.spotify.com/track/2tDP8CLX7r9DhSYwGhVkRs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 4:10 | 2021-12-17 | 2024-07-19 |
+| [Obsesión \- Alternate Version](https://open.spotify.com/track/7aPGHZSUf4QAg00Ybuh6Ju) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi \- Antología](https://open.spotify.com/album/6fkHr4XjKCGdG5Lphdbp0f) | 3:07 | 2024-10-25 |  |
 | [Odio la Prepa](https://open.spotify.com/track/23MIUBh3IYTeWk76uL2XEh) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Odio la Prepa](https://open.spotify.com/album/0rgkiz47JbMVPhYyjPyG9s) | 1:12 | 2022-07-01 | 2022-07-06 |
 | [Ojalá](https://open.spotify.com/track/2NuWsgQzctA8yBIgAgRVjD) | [The Crab Apples](https://open.spotify.com/artist/6u98K0jUUoIvIG5mPXRIWZ) | [Ojalá](https://open.spotify.com/album/5wj95nBNFeK1y2CsT2cCr5) | 2:32 | 2024-05-10 |  |
 | [Ojos De Terror](https://open.spotify.com/track/0jqzJuVWWRxnX2bWAd7roV) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Ojos De Terror](https://open.spotify.com/album/1RPUCUTJf9eLGNIjeF3xyL) | 2:36 | 2024-08-02 |  |

@@ -4,7 +4,7 @@
 
 > The best in new alternative pop\. Cover: Charli xcx
 
-141 songs - 7 hr 22 min
+142 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/album/1CTAbh7U5e7KzKQAfX7aNx) | 2:07 | 2024-10-10 |  |
 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-07-12 | 2024-10-11 |
 | [Give A Little Of Your Love](https://open.spotify.com/track/4R4jVksnEFM9T1yuyQGkyr) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Give A Little Of Your Love](https://open.spotify.com/album/1Q1cWOYVelc0Ofb0le0slM) | 3:29 | 2024-07-18 | 2024-08-02 |
+| [Go!](https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [House With The Blue Door](https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93) | 3:05 | 2024-10-10 |  |
 | [god is dead](https://open.spotify.com/track/5oRnhpl1cQN0zxwsV4K2m5) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [a bit of a mad one](https://open.spotify.com/album/0SW2LQdzynFLJ05WzVYSJq) | 2:11 | 2024-06-07 | 2024-10-11 |
 | [Gone By Now](https://open.spotify.com/track/0yio4kiSB2YWZDRvY2EYvA) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Gone By Now](https://open.spotify.com/album/2EjLUeFLpRszl5dQOPZ3cl) | 3:21 | 2024-06-07 | 2024-07-23 |
 | [Good For Me](https://open.spotify.com/track/2n8dQ0i8f5qGbSuUFAKSJ1) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Good For Me](https://open.spotify.com/album/3UdCt2WeU8nsaSNrBRl7BA) | 3:22 | 2024-10-10 |  |
@@ -102,7 +103,7 @@
 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 | 2024-06-07 |  |
 | [New Age Crisis](https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [New Age Crisis](https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC) | 2:38 | 2024-06-07 | 2024-07-19 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-10-10 |  |
-| [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 | 2024-06-07 |  |
+| [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 | 2024-06-07 | 2024-10-30 |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-06-07 |  |
 | [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 | 2024-07-18 |  |
 | [Oxygen](https://open.spotify.com/track/1EqpDxhSQrqvMnDXCKvpfs) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/67dw7C6enQ3O05ZaI2dCaT) | 2:42 | 2024-08-01 | 2024-08-24 |

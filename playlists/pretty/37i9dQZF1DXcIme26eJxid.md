@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq\_kGzYYw">Onyeka Onwenu </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,870 likes - 40 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,920 likes - 40 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 8 | [Sawale](https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0) | [Cardinal Rex Jim Lawson](https://open.spotify.com/artist/61HFskCqHEghNfZ1XYb8RI) | [Rex Lawson's Greatest Hits](https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0) | 3:00 |
 | 9 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |
 | 10 | [Vuli Ndlela](https://open.spotify.com/track/04p7jtRJdhQUB1UeQsMGBx) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 4:21 |
-| 11 | [Shinamania, Pt\. 1](https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub) | [Sir Shina Peters](https://open.spotify.com/artist/774XinAuSJ5UAid0N6BNrV) | [Shinamania](https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk) | 16:42 |
+| 11 | [Mother & Child](https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl), [\)zzidi](https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:50 |
 | 12 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
-| 13 | [Mother & Child](https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl), [\)zzidi](https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:50 |
+| 13 | [Shinamania, Pt\. 1](https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub) | [Sir Shina Peters](https://open.spotify.com/artist/774XinAuSJ5UAid0N6BNrV) | [Shinamania](https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk) | 16:42 |
 | 14 | [Happy Birthday](https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN) | [Evi\-Edna Ogholi](https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL) | [Happy Birthday](https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m) | 5:39 |
 | 15 | [Ja Funmi](https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 7:08 |
 | 16 | [Africa](https://open.spotify.com/track/3UiNahTo7xKY5qFY6Fgr0b) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | ["Folon".....The Past](https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV) | 5:59 |

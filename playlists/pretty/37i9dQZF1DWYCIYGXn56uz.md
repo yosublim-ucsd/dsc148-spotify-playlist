@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: CLARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,026 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,003 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 26 | [Un giorno in più](https://open.spotify.com/track/5N7RhiNe0ieZb7WB40jFWP) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe), [Vincenzo Cairo](https://open.spotify.com/artist/7m8h6rBSH8EjDRXvb6fhjh), [kOkeshi](https://open.spotify.com/artist/1kbU8ryKGu6DDvcI0Hy8uj) | [Un giorno in più](https://open.spotify.com/album/5naocJae1Ge8LQNWVXt98T) | 2:18 |
 | 27 | [Finta Nostalgia](https://open.spotify.com/track/0HgYbQTaAgxC3M2JlBR2Rn) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Finta Nostalgia](https://open.spotify.com/album/3gK3RvsiYudYqt8s2YujEg) | 3:10 |
 | 28 | [aria](https://open.spotify.com/track/0xryh8A0H9gaqau8JtobTy) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [aria](https://open.spotify.com/album/4jyju09H9enkSvlupvGSZm) | 2:35 |
-| 29 | [OLVIDAR](https://open.spotify.com/track/4TM9hQYnxaP99LBGgpx4DZ) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Keynoise](https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL), [Lemonero](https://open.spotify.com/artist/4a5pL9uZ7FEDK2MlCEoLd0) | [OLVIDAR](https://open.spotify.com/album/01lDydLrjpaQc1PvoAsOk8) | 2:56 |
+| 29 | [OLVIDAR \(feat\. Lemonero\)](https://open.spotify.com/track/4TM9hQYnxaP99LBGgpx4DZ) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Keynoise](https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL), [Lemonero](https://open.spotify.com/artist/4a5pL9uZ7FEDK2MlCEoLd0) | [OLVIDAR \(feat\. Lemonero\)](https://open.spotify.com/album/01lDydLrjpaQc1PvoAsOk8) | 2:56 |
 | 30 | [mare](https://open.spotify.com/track/0eH4rFpeCMiMq2eZsD6cIE) | [Lil Markiese](https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I) | [mare](https://open.spotify.com/album/3SSbn0sQDe8YbUtFe3Cvvh) | 2:33 |
 | 31 | [il tuo posto nel mondo](https://open.spotify.com/track/6Bkk58VWPVoPMxBG7VFS49) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [il tuo posto nel mondo](https://open.spotify.com/album/3wIz0ZCssynXC1vsYCuqGj) | 3:03 |
 | 32 | [PER UN ATTIMO CON TE](https://open.spotify.com/track/3sJ2hrFBrN63flykM0tmcI) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [illumina](https://open.spotify.com/album/6C4Z55VD6HIrw3xJoskfoa) | 2:36 |

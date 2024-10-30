@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 200013,
       "name": "A Dance With Aera Cura",
       "url": "https://open.spotify.com/track/0cUIcfGHuMJ12wfEDJdWes"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 222573,
       "name": "Back Burner",
       "url": "https://open.spotify.com/track/2Un8Qm3IkkLn6JiBVu7eVO"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 291173,
       "name": "Beauty in Tragedy",
       "url": "https://open.spotify.com/track/1KA41c2rMefD2Co4YEU6CN"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 191173,
       "name": "Collision",
       "url": "https://open.spotify.com/track/0tnNBASLBWbtQmF5gymU8R"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 233666,
       "name": "Existence",
       "url": "https://open.spotify.com/track/7B63Ztq9MV7IDwShmE09rL"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 252840,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/4nbeXuTY1V2snvucs5AZaa"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 295360,
       "name": "It's Myself Vs. Being A Man",
       "url": "https://open.spotify.com/track/4wsUqakU0XttKbHC7eMCZR"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 229786,
       "name": "Live in Love",
       "url": "https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB"
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 203066,
       "name": "Losing Sight",
       "url": "https://open.spotify.com/track/21lljWLLI0vIPrco0kQNoV"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 233786,
       "name": "Meddler",
       "url": "https://open.spotify.com/track/6VuetoBvBkaY8axO16mjCT"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 359666,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/1P9NqGWdvlx6unZAOwpy3t"
@@ -1658,6 +1658,24 @@
       "duration_ms": 239986,
       "name": "Nobody Don't Dance No More",
       "url": "https://open.spotify.com/track/4Xxmp2GSlGzCA6LAXoc3S7"
+    },
+    {
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236880,
+      "name": "Ocean of Apathy",
+      "url": "https://open.spotify.com/track/3U1dYPQ3xCjf42lphkJNFj"
     },
     {
       "album": {
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 191533,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/5bOGLDXDi0pbNJ8WFzNoUX"
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 270026,
       "name": "Subverse",
       "url": "https://open.spotify.com/track/0TCO8TeKZIwNE5RVxO44BH"
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 198680,
       "name": "Thirty and Seven",
       "url": "https://open.spotify.com/track/1EoFJOAMAhkitbduAGRYaj"
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 205006,
       "name": "Thirty One & Sevens",
       "url": "https://open.spotify.com/track/36AheSgFmpF0Chue69lh7J"
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-30",
       "duration_ms": 294893,
       "name": "This Is Who We Are",
       "url": "https://open.spotify.com/track/2lUh4kkepza5MHsPQZNShn"
@@ -2554,7 +2572,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 252080,
       "name": "Truth of a Liar",
       "url": "https://open.spotify.com/track/6dFnYSNPNIq5l0zXf229dT"

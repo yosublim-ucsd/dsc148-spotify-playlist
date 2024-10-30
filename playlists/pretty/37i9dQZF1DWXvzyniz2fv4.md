@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,656 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,665 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 49 | [Não Quero Mais Nada](https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4) | [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [Lívia Neves](https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk) | [Não Quero Mais Nada](https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy) | 3:33 |
 | 50 | [Fica](https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3) | [Nitto](https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Fica](https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty) | 2:49 |
 | 51 | [É Você](https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Mc Chagas](https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj), [Mc Rei Delas](https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i) | [É Você](https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa) | 3:17 |
-| 52 | [Mapa Astral](https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7) | [DoisZ](https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mapa Astral](https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF) | 3:13 |
-| 53 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [Kaê](https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 |
+| 52 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [Kaê](https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 |
+| 53 | [Mapa Astral](https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7) | [DoisZ](https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mapa Astral](https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF) | 3:13 |
 | 54 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 |
 | 55 | [Stories](https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Stories](https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R) | 2:08 |
 | 56 | [Deixa Queimar](https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf) | [Gabi Terreiro](https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G), [Theus Terreiro](https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg), [YellowLab](https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Elementar](https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq) | 2:50 |

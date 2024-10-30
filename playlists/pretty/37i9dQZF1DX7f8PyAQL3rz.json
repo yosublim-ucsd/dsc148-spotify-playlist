@@ -1,6 +1,6 @@
 {
   "description": "correndo SEMPRE atr\u00e1s do som",
-  "num_followers": 1401980,
+  "num_followers": 1402087,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-10-25 03:03:00",
       "album": {
-        "name": "A Dan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "A Dan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
-    },
-    {
-      "added_at": "2024-10-25 03:03:00",
-      "album": {
         "name": "365 Dias",
         "url": "https://open.spotify.com/album/531yrQRB8MaHyBIDg6IWpF"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 521958,
       "name": "365 Dias",
       "url": "https://open.spotify.com/track/0Y7k2ihn4ojGCbJkH1fR77"
+    },
+    {
+      "added_at": "2024-10-25 03:03:00",
+      "album": {
+        "name": "A Dan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 243498,
+      "name": "A Dan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
     },
     {
       "added_at": "2024-10-25 03:03:00",
