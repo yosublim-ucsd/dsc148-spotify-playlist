@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,822 likes - 66 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,890 likes - 66 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 48 | [ベートーヴェン：交響曲第7番イ長調作品92より 第1楽章・第４楽章　ドラマエディット](https://open.spotify.com/track/5MZl6mbsB0GRMnxuNJIyfx) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [のだめカンタービレ](https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN), [Toshiaki Umeda](https://open.spotify.com/artist/2EbzA6PvoBEiyjAcqhfKqQ) | [のだめカンタービレ スペシャル BEST!](https://open.spotify.com/album/7tHoaRyQsXpbW2b1gi82Fd) | 7:20 |
 | 49 | [Heiwa no Inori](https://open.spotify.com/track/7Gq8UpApEwJdOIf5K6XCJO) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 2](https://open.spotify.com/album/4wNiXmTGxZ4RcWKesDupIy) | 1:37 |
 | 50 | [7角:the1](https://open.spotify.com/track/30LuuTndVmwmQr6q1JMlPm) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [七つの大罪 オリジナル・サウンドトラック](https://open.spotify.com/album/4OHuwh9kd4b38gyrP5YMmP) | 4:51 |
-| 51 | [Liebesleid](https://open.spotify.com/track/4PAwFMCI2N0tPqAoX0lBnt) | [Fritz Kreisler](https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Paul Coker](https://open.spotify.com/artist/6Xsc5sibYGiOZPZw4VakA7) | [The Kreisler Album](https://open.spotify.com/album/0Yn0K87VDMFwDzrvmZPrzE) | 3:41 |
+| 51 | [Liebesleid, Old Viennese Dance No\. 2](https://open.spotify.com/track/4PAwFMCI2N0tPqAoX0lBnt) | [Fritz Kreisler](https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Paul Coker](https://open.spotify.com/artist/6Xsc5sibYGiOZPZw4VakA7) | [The Kreisler Album](https://open.spotify.com/album/0Yn0K87VDMFwDzrvmZPrzE) | 3:41 |
 | 52 | [BEASTARS \-pf solo\-](https://open.spotify.com/track/1WKXs9BlXdmN9qsBw2Cgcn) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:49 |
 | 53 | [ラクエン](https://open.spotify.com/track/4WFe6qT7bJLMMv2xB84der) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [WOLF'S RAIN](https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9) | 3:03 |
 | 54 | [シンシャ](https://open.spotify.com/track/5kdZroq0M2xIeMnZ64DFci) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [TVアニメ『宝石の国』オリジナルサウンドトラック](https://open.spotify.com/album/5yLnFLjrKde0Fih4A9H1X6) | 2:19 |

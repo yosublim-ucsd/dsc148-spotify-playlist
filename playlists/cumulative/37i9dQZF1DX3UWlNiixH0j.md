@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: PAS TASTA
 
-1,945 songs - 5 day 0 hr 51 min
+1,946 songs - 5 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [IAI](https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY) | 3:03 | 2024-02-27 | 2024-02-29 |
 | [Ice Age](https://open.spotify.com/track/5scjv3pREcgPWjBSeQYPLw) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Ice Age](https://open.spotify.com/album/1cNBJO2Qx0fLV2q5BsZbae) | 4:01 | 2023-05-09 | 2023-06-23 |
 | [If The Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If The Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 | 2023-05-04 | 2023-06-14 |
-| [If You](https://open.spotify.com/track/5gQgBqxs8rVEIob3S954SV) | [峰清](https://open.spotify.com/artist/52rJAjMjyHHV4fQds4PBmt) | [If You](https://open.spotify.com/album/4JnER6rfzr5glC3yY9eGQe) | 4:21 | 2024-10-22 |  |
+| [If You](https://open.spotify.com/track/5gQgBqxs8rVEIob3S954SV) | [峰清](https://open.spotify.com/artist/4VjS1iEsHgVYyQ73dMqZYt) | [If You](https://open.spotify.com/album/4JnER6rfzr5glC3yY9eGQe) | 4:21 | 2024-10-22 |  |
 | [ihatov](https://open.spotify.com/track/2QdznMToKNrjjJV3mERuCv) | [Wang\-Wang\(旺旺\)](https://open.spotify.com/artist/3P5cZnDKVRP2tcYJ7GHDuD) | [Campanella](https://open.spotify.com/album/0OluVojpQ61mUBplmkyL0g) | 4:53 | 2024-01-30 | 2024-02-07 |
 | [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 | 2023-01-12 | 2023-05-30 |
 | [IMPROVISE](https://open.spotify.com/track/2zD9PyNs6UBqNFly6nVJqk) | [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [IMPROVISE](https://open.spotify.com/album/70dWoPeMKlfuEdax7lKTKO) | 2:57 | 2024-06-11 | 2024-06-19 |
@@ -753,7 +753,7 @@
 | [nyc](https://open.spotify.com/track/1PxIO0AhSb4dw3BM4Uf6Mz) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [nyc](https://open.spotify.com/album/6wDXapgZZ324fR4nFsiMhj) | 4:56 | 2024-04-30 | 2024-05-22 |
 | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/track/5xuNygFHKubkXvqRMeNB8u) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/album/5jhY5eCkAE6FfOl2wPHw0P) | 2:27 | 2023-10-10 | 2023-10-18 |
 | [O.M.M \- feat\. 藤田織也](https://open.spotify.com/track/2ctOBBuKRVEbK0BsShiaJq) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [O.M.M \(feat\. 藤田織也\)](https://open.spotify.com/album/1q8b5fH5kvHVhaQwhsEXEF) | 2:27 | 2023-10-10 | 2023-10-12 |
-| [o.s.o.s.](https://open.spotify.com/track/3lqiMq2ITpuFMlkJq6lQND) | [wagamama](https://open.spotify.com/artist/2NKDGm8tCrXcW2fNSASi82), [Subyub Lee](https://open.spotify.com/artist/4dH9LSAJfj9mB1hXxUaMJx) | [o.s.o.s.](https://open.spotify.com/album/7AEqT8Nq2RMBu30GnMvn90) | 3:36 | 2024-09-17 |  |
+| [o.s.o.s.](https://open.spotify.com/track/3lqiMq2ITpuFMlkJq6lQND) | [wagamama](https://open.spotify.com/artist/2NKDGm8tCrXcW2fNSASi82), [Subyub Lee](https://open.spotify.com/artist/4dH9LSAJfj9mB1hXxUaMJx) | [o.s.o.s.](https://open.spotify.com/album/7AEqT8Nq2RMBu30GnMvn90) | 3:36 | 2024-09-17 | 2024-10-31 |
 | [oblivious colonists](https://open.spotify.com/track/1KvkGqgKp8GgUr29HAkIKJ) | [BOAR HUNTER](https://open.spotify.com/artist/3fgbIEhchBfDmtoB0lQw2s) | [oblivious colonists](https://open.spotify.com/album/3H96NXuxKVpX8e9lwe6Wal) | 3:51 | 2023-01-24 | 2023-03-15 |
 | [OG](https://open.spotify.com/track/2YAqgdWL0JSLI1csapgpIv) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [Ordinary](https://open.spotify.com/album/0VTp6wejiRtsxAYW7JX7Wq) | 2:52 | 2024-04-09 | 2024-05-01 |
 | [OG](https://open.spotify.com/track/3pM2rYEjk9z4qf4T1MBYQo) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [Ordinary](https://open.spotify.com/album/68dcRmA0w3EAOfOFq4o1gc) | 2:52 | 2024-04-10 | 2024-04-19 |
@@ -1419,6 +1419,7 @@
 | [キリコ](https://open.spotify.com/track/4GEbfJOxBQjCbTtG9CPZY9) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [キリコ](https://open.spotify.com/album/5oTBl4jE0kOqmrZefDnjOC) | 3:44 | 2024-10-01 |  |
 | [キリン](https://open.spotify.com/track/5pwlfTuMRYRv1YQmQvPew4) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [キリン](https://open.spotify.com/album/0IsKWVJ9oleyraPcUF2GlY) | 3:20 | 2023-08-10 | 2023-08-16 |
 | [ギリギリガール](https://open.spotify.com/track/3l5PqJmUaIxzKTex48pfiT) | [ゆうやけしはす](https://open.spotify.com/artist/3CwuIn6tAOwZiPt8e0ydoi) | [ギリギリガール](https://open.spotify.com/album/5BeUOqlFuZiacNLBWAuIrw) | 3:00 | 2024-07-30 | 2024-08-07 |
+| [クズアンドピース](https://open.spotify.com/track/4JnZyGMjxj9f7AK74y6Cbu) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [クズアンドピース/ポメラニアン](https://open.spotify.com/album/0GomZFVLvII7BCJoufCwl4) | 3:23 | 2024-10-29 |  |
 | [クラフトビール](https://open.spotify.com/track/0EUcaYeuuy1z6S0EWWvfTc) | [Alaska Jam](https://open.spotify.com/artist/25BYrQ1weAPalq5wmqL3Ph) | [クラフトビール](https://open.spotify.com/album/2RCdMjO7hDuAesz4EPze3G) | 3:39 | 2024-04-16 | 2024-04-24 |
 | [クーポン](https://open.spotify.com/track/01pdUYUoID51rCnVBI8LGy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [クーポン](https://open.spotify.com/album/5uuInhJa0eNzpdI0vXQJJT) | 3:54 | 2023-10-24 | 2023-11-01 |
 | [グッド・バッド・ストーリー](https://open.spotify.com/track/6a5FG3A5rkMvcrig6QJPpC) | [Enjoy Music Club](https://open.spotify.com/artist/30TUV9gTBJ8ffWRMe3O2J0) | [グッド・バッド・ストーリー](https://open.spotify.com/album/0F8byrDHlTHVist8lPG4Hn) | 3:50 | 2024-09-24 |  |

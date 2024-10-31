@@ -3190,7 +3190,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 216751,
       "name": "Esperando Mi Suerte",
       "url": "https://open.spotify.com/track/5MpBhwsJlBdMuhLA0RhmIv"
@@ -4236,6 +4236,28 @@
       "duration_ms": 228893,
       "name": "La Ni\u00f1a Del Instagram",
       "url": "https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG"
+    },
+    {
+      "album": {
+        "name": "La Noche es Larga",
+        "url": "https://open.spotify.com/album/7ghCjb2MxHe9tGCUfMUAsr"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "La Cuatiza",
+          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115607,
+      "name": "La Noche es Larga",
+      "url": "https://open.spotify.com/track/2IM2wMzxAcPEonK0LrPFWZ"
     },
     {
       "album": {

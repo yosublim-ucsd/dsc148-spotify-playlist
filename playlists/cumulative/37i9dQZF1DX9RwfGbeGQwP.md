@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,489 songs - 2 day 8 hr 3 min
+1,490 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 | 2023-10-13 |
 | [Don't Go](https://open.spotify.com/track/6gZdnEbTKUy3VAi0hembPL) | [Okinawa\-ARN](https://open.spotify.com/artist/5nrNy29dvYPOfRSE8m07cp) | [Don't Go](https://open.spotify.com/album/4jQRoP0tEDHtDCfxzEUEso) | 2:16 | 2023-01-13 | 2024-05-25 |
 | [Don't regret anything](https://open.spotify.com/track/6j2K1xEGP4BwA2vZSnV95o) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Don't regret anything](https://open.spotify.com/album/2sYmhP2eYMsXHayapKk5kv) | 1:57 | 2022-09-02 | 2023-09-16 |
-| [Done](https://open.spotify.com/track/3JCn3l4GLF6rVXK0Hl04rQ) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Done](https://open.spotify.com/album/69etfOnsygw7kzCoRY0E8l) | 2:02 | 2024-06-05 |  |
+| [Done](https://open.spotify.com/track/3JCn3l4GLF6rVXK0Hl04rQ) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Done](https://open.spotify.com/album/69etfOnsygw7kzCoRY0E8l) | 2:02 | 2024-06-05 | 2024-10-31 |
 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 | 2022-06-24 |  |
 | [Dorothea](https://open.spotify.com/track/10F3fy1XYH98yQEUfVFNfs) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [Dorothea](https://open.spotify.com/album/2Gt1Ja7A1I1bh5mnl22Z7i) | 1:58 | 2022-01-27 | 2022-09-09 |
 | [Dot](https://open.spotify.com/track/6PAYfELVPtKLgBCRtiyEDe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Dot](https://open.spotify.com/album/4VPJdglfetgKYKFQhcOCDS) | 2:23 | 2022-01-27 | 2022-09-17 |
@@ -810,6 +810,7 @@
 | [Mirabelle](https://open.spotify.com/track/5EQZVbfcgfgpoip7t0R5po) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Mirabelle](https://open.spotify.com/album/7v7ZxUtcWFFxC3eiqxSX4s) | 2:05 | 2022-07-15 | 2022-12-10 |
 | [Mirage](https://open.spotify.com/track/4wiHqJ6vko9KNaWpwi8IKc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Mirage](https://open.spotify.com/album/7t4rx6Q0dN2mYIuD9LcXt0) | 2:11 | 2023-06-05 | 2023-09-29 |
 | [Mirage](https://open.spotify.com/track/5rufVissOIe9w1rUOVMY68) | [Xyla](https://open.spotify.com/artist/2iaMZQyl8mOWr1eCMpRTqN) | [Mirage](https://open.spotify.com/album/1HNTlICrvLNbbuZJYNnCVM) | 2:15 | 2023-05-19 |  |
+| [mirror maze](https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [mirror maze](https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp) | 2:28 | 2024-10-25 |  |
 | [Misch](https://open.spotify.com/track/4Q0z85lZpHXGIcx4rdXK4J) | [My New Shoes](https://open.spotify.com/artist/2c8AdYtlyPwumj2LwhpJUk) | [Lincoln Pork](https://open.spotify.com/album/0dsmqlqZ177ZmwlGFML5YY) | 3:17 | 2022-01-27 | 2023-02-25 |
 | [Miss You](https://open.spotify.com/track/6WERtu6VY7lGjaOQC0QPuK) | [Raouf](https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL) | [Miss You](https://open.spotify.com/album/559NLRKUBmF7ciusQ5m9HD) | 1:49 | 2022-12-09 | 2023-08-04 |
 | [Mista Cool](https://open.spotify.com/track/1MtEodwvgVh3xQ4hQBZPlh) | [Nippon Nights](https://open.spotify.com/artist/4AXl0l47abG5iXfQcrxQrY) | [Mista Cool](https://open.spotify.com/album/6RzmYOCS5mF51ZlOWgQyMM) | 3:26 | 2022-09-09 | 2023-03-25 |
@@ -1164,7 +1165,7 @@
 | [Slow Down](https://open.spotify.com/track/5jIc8HHITLlEZcsqHF1cev) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Slow Down](https://open.spotify.com/album/1wQxmN5bHRak6a6IANpB93) | 2:09 | 2022-11-11 | 2022-12-10 |
 | [slow talker](https://open.spotify.com/track/14J0lsWN28VepmhmmvKKYw) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [slow talker](https://open.spotify.com/album/5LdTlYWrzL9aRJzfPVdgdl) | 2:50 | 2023-08-03 | 2024-09-22 |
 | [sluggish](https://open.spotify.com/track/1rdqpGkERZwwITr76nRsfX) | [Too Blue](https://open.spotify.com/artist/64dFA30C8QUhkgcTjAlZ4b) | [sluggish](https://open.spotify.com/album/3G6zHEOb8Itizqw7aL6DT2) | 2:03 | 2022-07-22 | 2023-04-21 |
-| [Slush Avalanche](https://open.spotify.com/track/1aUPXRbtZxrFt9DjaauwGv) | [Cotton Candy Boulevard](https://open.spotify.com/artist/0y8PqsGy2nL9LqwL709086) | [Slush Avalanche](https://open.spotify.com/album/4OiQ64MOUIJ9YHdpTZxP3j) | 2:24 | 2023-04-20 |  |
+| [Slush Avalanche](https://open.spotify.com/track/1aUPXRbtZxrFt9DjaauwGv) | [Cotton Candy Boulevard](https://open.spotify.com/artist/0y8PqsGy2nL9LqwL709086) | [Slush Avalanche](https://open.spotify.com/album/4OiQ64MOUIJ9YHdpTZxP3j) | 2:24 | 2023-04-20 | 2024-10-31 |
 | [Smokers Delight](https://open.spotify.com/track/2r3L8vTYNoiXVPM4G9jbpm) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b), [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Smokers Delight](https://open.spotify.com/album/10CkZnvZUBEJ24uzYxeBvk) | 1:57 | 2022-04-15 | 2022-11-12 |
 | [Smokey](https://open.spotify.com/track/4p14eOpDYsh7lxZCNDFeF6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Smokey](https://open.spotify.com/album/25uVN5TAJTQ2byMKlkOJab) | 1:30 | 2022-01-27 | 2022-06-10 |
 | [smooof](https://open.spotify.com/track/1LvgRFtCVEAPSB3wi71XCz) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [smooof](https://open.spotify.com/album/1g3DAdvE09HPSC8pkvIQ3L) | 1:55 | 2022-01-27 | 2022-09-09 |
@@ -1356,7 +1357,7 @@
 | [Topinambur](https://open.spotify.com/track/0GwVL4IWa3pjBDTOKnNlSy) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Topinambur](https://open.spotify.com/album/6z0W51FnCVFrlKI9Zmbyfb) | 2:22 | 2023-09-22 | 2023-10-20 |
 | [Tori Sora](https://open.spotify.com/track/0rYwFhOavcJENrgIkC0xkQ) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Tori Sora](https://open.spotify.com/album/7se4vecX0emIjHLEtTrXTS) | 1:44 | 2024-08-23 |  |
 | [Torn Up](https://open.spotify.com/track/0lMnr3c3K2aXlpPmM4cs4Y) | [sleep protocol](https://open.spotify.com/artist/2iCdCKdg6tvZkiswACjmLm) | [Torn Up](https://open.spotify.com/album/4NRkDV5DvDNEBMmn7iGhz5) | 2:04 | 2022-09-16 | 2024-08-28 |
-| [Tortilla Monday](https://open.spotify.com/track/37wRNwFhzLSkYx3CrSi9JI) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Tortilla Monday](https://open.spotify.com/album/4AsSSm9wJ9zP9bpfDH1o4G) | 2:14 | 2022-07-29 | 2024-10-22 |
+| [Tortilla Monday](https://open.spotify.com/track/37wRNwFhzLSkYx3CrSi9JI) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Tortilla Monday](https://open.spotify.com/album/4AsSSm9wJ9zP9bpfDH1o4G) | 2:14 | 2022-07-29 |  |
 | [Towards The Sun](https://open.spotify.com/track/074yKw7MEel3UfyDKdHkxo) | [Collagen](https://open.spotify.com/artist/7fy7IK0WdPPBtVP1ZmgDju) | [Cloudcatchers](https://open.spotify.com/album/5BiHtfdP7r65xNVVYSRTlh) | 2:48 | 2022-01-27 | 2022-07-15 |
 | [town life](https://open.spotify.com/track/7o6Tpfymsh47oT5VeSSIPL) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [town life](https://open.spotify.com/album/6MorDTaeyPwDA16tn5d3VF) | 1:57 | 2023-09-22 | 2024-07-13 |
 | [Track 2](https://open.spotify.com/track/0995pMpY9ltEFbV3yupia2) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Track 2](https://open.spotify.com/album/1dKjhUTDxeF6Zy2XYwkeQ9) | 2:17 | 2022-07-29 | 2022-11-12 |

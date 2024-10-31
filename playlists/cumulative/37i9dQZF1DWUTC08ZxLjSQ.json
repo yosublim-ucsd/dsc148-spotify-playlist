@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover:kiiko. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover:jawhar. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 149076,
       "name": "Albe Blue",
       "url": "https://open.spotify.com/track/2aCXeiYgKzkvXDpC9OHQu2"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 229564,
       "name": "Cocaina (feat. 7efny)",
       "url": "https://open.spotify.com/track/4CPeRhikwIVUw2x8BxPZGd"
@@ -1218,6 +1218,24 @@
       "duration_ms": 203893,
       "name": "Dehka",
       "url": "https://open.spotify.com/track/4pi3cf6iWZmuXW6CoETnfK"
+    },
+    {
+      "album": {
+        "name": "DELALI",
+        "url": "https://open.spotify.com/album/6yR4tAHjQNfJRlojUGxakb"
+      },
+      "artists": [
+        {
+          "name": "DANNY EAST",
+          "url": "https://open.spotify.com/artist/55KJxDGOChMzdv1G842XDZ"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221200,
+      "name": "DELALI",
+      "url": "https://open.spotify.com/track/2eCnFHf7CQpzz5L1QmYLnm"
     },
     {
       "album": {
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 155000,
       "name": "Khatwa L\u2019Wara",
       "url": "https://open.spotify.com/track/0K4MwuLFgOKuKKyQ1M545t"
@@ -2808,6 +2826,24 @@
       "duration_ms": 232000,
       "name": "Khayal",
       "url": "https://open.spotify.com/track/7JujukqNH3ouQYr2JM9TIq"
+    },
+    {
+      "album": {
+        "name": "Khyoot",
+        "url": "https://open.spotify.com/album/42iQZR7bpK5XilonNVD3Lg"
+      },
+      "artists": [
+        {
+          "name": "Jawhar",
+          "url": "https://open.spotify.com/artist/37ASPH0bOi7XSVBTq8U9Zd"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238834,
+      "name": "Khyoot",
+      "url": "https://open.spotify.com/track/5Ew7C2IAFELiBga5hWPSHe"
     },
     {
       "album": {
@@ -3464,7 +3500,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 229277,
       "name": "Manatif",
       "url": "https://open.spotify.com/track/1UUgysWr7I3cRodH7mFmHM"
@@ -3598,7 +3634,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 200624,
       "name": "Me & I",
       "url": "https://open.spotify.com/track/4mTtIpMRM24YE2wXQjqB20"
@@ -3728,6 +3764,24 @@
       "duration_ms": 230400,
       "name": "Moments",
       "url": "https://open.spotify.com/track/0B8DuVlgb2GRcOZYe4TaPX"
+    },
+    {
+      "album": {
+        "name": "monalisa",
+        "url": "https://open.spotify.com/album/6qc67ri7adVICrCLPlCg6S"
+      },
+      "artists": [
+        {
+          "name": "Kabier",
+          "url": "https://open.spotify.com/artist/7LebW9fZHLUhdAKdw7Xr21"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163370,
+      "name": "monalisa",
+      "url": "https://open.spotify.com/track/3dHnxCXvMbFr5gR6EXs50r"
     },
     {
       "album": {
@@ -3876,6 +3930,24 @@
       "duration_ms": 145750,
       "name": "Mushtari",
       "url": "https://open.spotify.com/track/0ruj9IqAfR7KP4OXfsWXGU"
+    },
+    {
+      "album": {
+        "name": "Nar",
+        "url": "https://open.spotify.com/album/6BcqHihuVsFSs4m0YCqNzE"
+      },
+      "artists": [
+        {
+          "name": "Bint il Sham",
+          "url": "https://open.spotify.com/artist/5hLgy51EKPgpdGfySINkNa"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171315,
+      "name": "Nar",
+      "url": "https://open.spotify.com/track/7gs9WRNPeTdpcXb9j3zp0V"
     },
     {
       "album": {
@@ -5150,6 +5222,24 @@
       "duration_ms": 121846,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/4oWV6PKAHJNoX2klvLHNW6"
+    },
+    {
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/22oGh24YWuIqnvBR2R7jDS"
+      },
+      "artists": [
+        {
+          "name": "ASHA",
+          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118853,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/7azWhblvCeEqBjZKSnMzlM"
     },
     {
       "album": {

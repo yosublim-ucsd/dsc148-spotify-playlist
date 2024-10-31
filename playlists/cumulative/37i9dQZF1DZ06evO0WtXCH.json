@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/00K0NjjQMnHH0pbNB6a31a"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "Free Radio Gainesville",
+      "url": "https://open.spotify.com/track/5bH0k3C0INLYZhs8Mb2xBM"
+    },
+    {
+      "album": {
         "name": "Slip",
         "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
       },
@@ -676,6 +694,24 @@
       "duration_ms": 187595,
       "name": "Spoken Through Clouds",
       "url": "https://open.spotify.com/track/5fmbZlkalVRdnXklTnnI3G"
+    },
+    {
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/00K0NjjQMnHH0pbNB6a31a"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "Supercollider",
+      "url": "https://open.spotify.com/track/2MFdVzNvUHTmrORjmBnycc"
     },
     {
       "album": {

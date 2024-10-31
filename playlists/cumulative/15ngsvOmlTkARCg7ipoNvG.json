@@ -12843,6 +12843,24 @@
     },
     {
       "album": {
+        "name": "Giving (Reimagined Strings Version)",
+        "url": "https://open.spotify.com/album/0p3bLgZ8BvGA6PeMTcypWT"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60461,
+      "name": "Giving - Reimagined Strings Version",
+      "url": "https://open.spotify.com/track/1GIG1gb0dKUumDM2GizGAr"
+    },
+    {
+      "album": {
         "name": "Surroundings",
         "url": "https://open.spotify.com/album/62DPhgHEQoHwj3ujb1DGGQ"
       },

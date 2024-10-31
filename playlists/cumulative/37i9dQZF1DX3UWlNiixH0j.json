@@ -9051,7 +9051,7 @@
       "artists": [
         {
           "name": "\u5cf0\u6e05",
-          "url": "https://open.spotify.com/artist/52rJAjMjyHHV4fQds4PBmt"
+          "url": "https://open.spotify.com/artist/4VjS1iEsHgVYyQ73dMqZYt"
         }
       ],
       "date_added": "2024-10-22",
@@ -14098,7 +14098,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 216790,
       "name": "o.s.o.s.",
       "url": "https://open.spotify.com/track/3lqiMq2ITpuFMlkJq6lQND"
@@ -26580,6 +26580,24 @@
       "duration_ms": 180565,
       "name": "\u30ae\u30ea\u30ae\u30ea\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/3l5PqJmUaIxzKTex48pfiT"
+    },
+    {
+      "album": {
+        "name": "\u30af\u30ba\u30a2\u30f3\u30c9\u30d4\u30fc\u30b9/\u30dd\u30e1\u30e9\u30cb\u30a2\u30f3",
+        "url": "https://open.spotify.com/album/0GomZFVLvII7BCJoufCwl4"
+      },
+      "artists": [
+        {
+          "name": "Yujiro Kudo",
+          "url": "https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203541,
+      "name": "\u30af\u30ba\u30a2\u30f3\u30c9\u30d4\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/4JnZyGMjxj9f7AK74y6Cbu"
     },
     {
       "album": {

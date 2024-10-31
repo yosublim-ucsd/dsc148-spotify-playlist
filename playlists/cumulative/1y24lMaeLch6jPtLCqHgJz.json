@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 166406,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/7I4KVxwDeZhlnCh15ckCWY"
@@ -6236,6 +6236,32 @@
       "duration_ms": 253110,
       "name": "Secrets Of The Dark",
       "url": "https://open.spotify.com/track/6w5gCextRvG72Rkfpy95wf"
+    },
+    {
+      "album": {
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/63fjHFUZrbPfD4IpBrAzNl"
+      },
+      "artists": [
+        {
+          "name": "Cuebrick",
+          "url": "https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM"
+        },
+        {
+          "name": "Manse",
+          "url": "https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y"
+        },
+        {
+          "name": "Betty Bloom",
+          "url": "https://open.spotify.com/artist/028AENVWICmqAiAj5xXncO"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/2A0CnLV1i9wfuQZ3fa4LN4"
     },
     {
       "album": {

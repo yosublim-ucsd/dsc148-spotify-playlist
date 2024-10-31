@@ -5174,7 +5174,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 185786,
       "name": "De\u011fi\u015fmene Ra\u011fmen",
       "url": "https://open.spotify.com/track/5pEpvR03HbLxkBtK73EeJw"
@@ -5196,7 +5196,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 185957,
       "name": "De\u011fi\u015fmene Ra\u011fmen",
       "url": "https://open.spotify.com/track/1czWk1T5x9q9PSPMgKuxza"
@@ -5294,7 +5294,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
@@ -5686,7 +5686,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 221159,
       "name": "Duydun Mu?",
       "url": "https://open.spotify.com/track/4v8LZr4pYJFo3lnB5BJBAc"
@@ -5704,7 +5704,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 221159,
       "name": "Duydun Mu?",
       "url": "https://open.spotify.com/track/5Jpln46zz6l9KSMw1kLDPP"
@@ -11165,6 +11165,24 @@
     },
     {
       "album": {
+        "name": "Ben Bug\u00fcn",
+        "url": "https://open.spotify.com/album/2DSJUoBRmGMWjyVNEIhJ9U"
+      },
+      "artists": [
+        {
+          "name": "Yal\u0131n",
+          "url": "https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247536,
+      "name": "Ki Sen",
+      "url": "https://open.spotify.com/track/1HcbuJlFXlXaYw1S1M04KG"
+    },
+    {
+      "album": {
         "name": "Kim",
         "url": "https://open.spotify.com/album/0MMYCbunVdOBW3A2BLDEIz"
       },
@@ -14010,7 +14028,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 217000,
       "name": "Olmazlara Vuruluyorum",
       "url": "https://open.spotify.com/track/72Zc1OvPqpZUqxArlAS0QW"
@@ -14578,7 +14596,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 166355,
       "name": "Parla - 100. Y\u0131l Mar\u015f\u0131",
       "url": "https://open.spotify.com/track/3n0VsLOc3n9wU8KNJUU0Ws"
@@ -19668,7 +19686,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 176833,
       "name": "ZEH\u0130RL\u0130 G\u00dcL",
       "url": "https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW"
@@ -20116,7 +20134,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 183896,
       "name": "\u00d6l\u00fcyorum Anla",
       "url": "https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1"

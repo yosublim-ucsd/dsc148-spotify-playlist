@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Ziproom
 
-695 songs - 1 day 8 hr 2 min
+696 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [Woo](https://open.spotify.com/track/0SFC7yepY2rUEmo49E9iu8) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [YELLASOMA](https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb) | [Woo](https://open.spotify.com/album/48097gzXtMOhswZ4DmfMs8) | 2:10 | 2024-07-30 | 2024-09-11 |
 | [World is Ours \(feat\. 初音ミク\)](https://open.spotify.com/track/0OP6Dathz06t8zRCmf5Knv) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [World is Ours \(feat\. 初音ミク\)](https://open.spotify.com/album/43V9AkPqhqEv3lrOEdja9s) | 3:32 | 2024-09-03 |  |
 | [Xchain](https://open.spotify.com/track/6BNrTHvibxIU6rbx3mypMJ) | [Leisu](https://open.spotify.com/artist/2mGiNGTMNfU16D4PbtWFOj), [yamadagalzing](https://open.spotify.com/artist/5e1LtaEddZkGx57OPtYON5), [izolma](https://open.spotify.com/artist/5Cjc9g0qHNWfuQJlpCpAKM) | [Revive](https://open.spotify.com/album/1p5xD637v6Q6NEXSrXoL1B) | 2:54 | 2023-12-07 | 2024-03-06 |
+| [Yagi](https://open.spotify.com/track/2MNYR7CXddNZMZbKrYKK29) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Yagi](https://open.spotify.com/album/0GcEbuyNTrPHbk5073xChy) | 2:57 | 2024-10-29 |  |
 | [YAKINIKU, SUSHI](https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [PLAY PURE 3](https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ) | 3:02 | 2024-01-11 | 2024-02-16 |
 | [Yaminouchi](https://open.spotify.com/track/5lJocOmXtCH53DYMzNG8NH) | [NoukunDollar](https://open.spotify.com/artist/7DdSOoyQz8PsjJCYOYQl0Y), [Yaminouchi](https://open.spotify.com/artist/04SKpBwIB2DVqhUEUAeSin) | [Yaminouchi](https://open.spotify.com/album/2blVqSq2fjV5q4cFDGdPUk) | 3:43 | 2023-12-07 | 2023-12-27 |
 | [Yap Yap](https://open.spotify.com/track/5XbunWE0rvjeiMmtc2v5Pa) | [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Deech Got Yukichi 2](https://open.spotify.com/album/0EiGGW2OaqBb2NeM8qJ1xJ) | 2:27 | 2023-12-22 | 2024-01-24 |

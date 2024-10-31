@@ -4,7 +4,7 @@
 
 > This Is STAYC\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 26 min
+50 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Find \( Sieun & Seeun & J \)](https://open.spotify.com/track/1L0WXikXzwL95TDHTUuWQE) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:14 | 2024-07-03 |  |
 | [Flexing On My Ex](https://open.spotify.com/track/44iPFLk5ZdXu8wivdlTcJB) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 3:04 | 2024-07-03 |  |
 | [Give It 2 Me](https://open.spotify.com/track/0wiliykhEfTSmGaJvYmEe3) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:43 | 2024-07-03 |  |
+| [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 | 2024-10-30 |  |
 | [Gummy Bear](https://open.spotify.com/track/0QRx48SDQDGJ6QKT0qMRbm) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 3:30 | 2024-07-03 |  |
 | [I LIKE IT](https://open.spotify.com/track/4o84FbQ0YB6F3AWfxTGRHG) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 2:38 | 2023-08-17 |  |
 | [I WANT U BABY](https://open.spotify.com/track/4wqvBkHI3a75Fmlirlq3uD) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 2:53 | 2023-08-17 |  |
@@ -31,6 +32,7 @@
 | [LIKE THIS](https://open.spotify.com/track/1RdDIsdbpioXZzadE5MLOG) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Star To A Young Culture](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) | 3:06 | 2023-08-17 |  |
 | [LOVE](https://open.spotify.com/track/30VA0uReR9jKiFU7ddriN6) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:06 | 2023-08-17 |  |
 | [LOVE FOOL](https://open.spotify.com/track/2OhOkew9BkkLTGBG9cFOz5) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:38 | 2023-08-17 |  |
+| [Meant To Be](https://open.spotify.com/track/6o43jr5fDTiNeMkcgR42I4) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:42 | 2024-10-30 |  |
 | [Nada](https://open.spotify.com/track/2nZFLtfsBxQWHkFCHkepTH) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 3:05 | 2024-07-03 |  |
 | [Poppy \(Korean Ver.\)](https://open.spotify.com/track/7KqISJoXbapng18bmmG0oa) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 2:58 | 2023-08-17 |  |
 | [POPPY \- Japanese Ver.](https://open.spotify.com/track/7aQOA3ggmKpjleEtabVYbI) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/7GAgQKzoFrEo0ijpW88se8) | 2:59 | 2023-08-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Leon Fanourakis & Taka Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,381 likes - 84 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,384 likes - 84 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 26 | [Leave Me Alone](https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:23 |
 | 27 | [Late Checkout \(feat\. Hunxho\)](https://open.spotify.com/track/6peNzc5BT61OxAzsFaTH2v) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Late Checkout \(feat\. Hunxho\)](https://open.spotify.com/album/6OAWVN9cVOsf2iTM9bt9Mp) | 3:45 |
 | 28 | [lOvE LeTtEr \(feat\. Don Toliver\)](https://open.spotify.com/track/6uff47vGupqiJHswiEiIW3) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [In Silly We Trust](https://open.spotify.com/album/1BuAXWfCXHeQVRDYiUDCUg) | 3:02 |
-| 29 | [Immaculate \(feat\. Saweetie\)](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate \(feat\. Saweetie\)](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 |
+| 29 | [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 |
 | 30 | [Cracc Era](https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cracc Era](https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC) | 1:55 |
 | 31 | [Off White Rozay \(feat\. Voice of Harlem\)](https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Off White Rozay \(feat\. Voice of Harlem\)](https://open.spotify.com/album/18I4Bx1FCtAeb9uUvtOYia) | 2:29 |
 | 32 | [Doodleverse](https://open.spotify.com/track/5QEySPpoBpiCFq8L1ZxeBh) | [Doodles](https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Doodleverse](https://open.spotify.com/album/1Kzhk9pMJOCFUGeTTO1GuW) | 2:49 |

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Souldia
 
-2,922 songs - 6 day 11 hr 26 min
+2,923 songs - 6 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1923,7 +1923,7 @@
 | [On s'est compris](https://open.spotify.com/track/6CysmL5giqn1fGn3C6w8hi) | [Gotti Maras](https://open.spotify.com/artist/0IhPOW5cO2phSUCYqWuTTb), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [On s'est compris](https://open.spotify.com/album/4MlYPC6ZjhpsI6HulUG24w) | 3:02 | 2022-07-22 | 2022-08-20 |
 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:02 | 2023-01-20 | 2023-02-04 |
 | [On s'passe à côté](https://open.spotify.com/track/2luutsPAHOP7uHrlRDG5HJ) | [Damien Lauretta](https://open.spotify.com/artist/5XzUJg13VlUKJ97W9dp3Fh) | [French Riviera](https://open.spotify.com/album/7FvFGPiHSa12LO1UkgTk6d) | 2:51 | 2022-01-14 | 2022-01-29 |
-| [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 | 2024-09-20 |  |
+| [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 | 2024-09-20 | 2024-10-31 |
 | [On va\-tu prendre une marche?](https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [On va\-tu prendre une marche?](https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX) | 3:06 | 2023-09-08 | 2023-09-16 |
 | [ON VEUT DU ROCK AND ROLL](https://open.spotify.com/track/67t14XAtkgchkqWhYjlyTM) | [Stage Lacroix](https://open.spotify.com/artist/7tkE0AJ82mOghkNbBF1LpQ) | [ON VEUT DU ROCK AND ROLL](https://open.spotify.com/album/6WFtXnLkhAA0bM7AggOxTe) | 4:33 | 2022-10-14 | 2022-10-29 |
 | [On voudrait](https://open.spotify.com/track/353yen1tiVmrd5w49rFUQi) | [Richard Séguin](https://open.spotify.com/artist/4uaplzxgAkmohdv30bAFZo) | [Les liens les lieux](https://open.spotify.com/album/2Jj2Jqb4peRyI1xjflggkl) | 4:23 | 2022-09-09 | 2022-09-24 |
@@ -2430,6 +2430,7 @@
 | [SNATCH \(feat\. Koba LaD\)](https://open.spotify.com/track/088JreDbYFJB3aGgOqzSVV) | [Mac Tyer](https://open.spotify.com/artist/1PTl9q5EaEZejVGts7MBLN), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [LA VIE DU TRIPLE OG](https://open.spotify.com/album/5pPNBUeFdgmVQGVYFU89oM) | 3:08 | 2024-05-03 | 2024-05-05 |
 | [Sobre](https://open.spotify.com/track/0aRsawP9pAtoSVkhDa5mH2) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Sobre / Une main lave l'autre](https://open.spotify.com/album/44fuePoU9if0aWrnIzY58A) | 3:06 | 2024-08-16 | 2024-08-24 |
 | [Soldat Boy](https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 3:35 | 2022-04-01 | 2022-04-09 |
+| [soleil](https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [P3GASE](https://open.spotify.com/artist/5gp2bynafc2IgEWzOBAbIe) | [soleil](https://open.spotify.com/album/2Qekmf7UNnDE83P1waFV9x) | 2:39 | 2024-10-25 |  |
 | [Soleil](https://open.spotify.com/track/56bIoCRznztKCfrldIPcSR) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Soleil](https://open.spotify.com/album/0eRJixh4mMTzs4rTZklt2o) | 6:29 | 2024-03-22 | 2024-03-30 |
 | [Soleil cendre](https://open.spotify.com/track/2m5p3PHZfiFLWEaeSO8Byw) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Soleil cendre](https://open.spotify.com/album/4v5b5MhX9GAaBXZjFYM65s) | 2:43 | 2022-02-04 | 2022-02-12 |
 | [Soleil des loups](https://open.spotify.com/track/6gkRmf7ppfbNNTXpXSYhwp) | [Beau Nectar](https://open.spotify.com/artist/2XDuWdt7zEptAlDpeqfcMH), [Marie\-Clo](https://open.spotify.com/artist/09ubgSbt4gC7ZVF6xRRFb7), [éemi](https://open.spotify.com/artist/0xLZyJmPzIEMi7BIK4R46P) | [Soleil des loups](https://open.spotify.com/album/2FwQG8y5MlKSTWayPmqTzG) | 3:22 | 2023-02-10 | 2023-02-25 |

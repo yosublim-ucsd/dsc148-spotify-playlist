@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,998 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,006 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Нежная](https://open.spotify.com/track/1VFbCJBWO26Gv641kr8ZMQ) | [Цинк Уродов](https://open.spotify.com/artist/07yhHgEXwatfxDILltZiLe) | [Нежная](https://open.spotify.com/album/3bXpGZeDD7fvu1hh663d6M) | 2:36 |
 | 50 | [Drama Queen](https://open.spotify.com/track/46QIU54LJWMnBTJ01Ylhex) | [GAVRILINA](https://open.spotify.com/artist/2tPY4M43ZaHiY2HbcZIEze) | [Drama Queen](https://open.spotify.com/album/2tpNNKIxNZFAmaj1hzhL4C) | 2:11 |
 
-Snapshot ID: `LrRNSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LrW/mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

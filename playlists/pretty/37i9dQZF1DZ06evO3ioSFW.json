@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 468365,
+  "num_followers": 468500,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx7UAAAAAABhzKnEZZ8WjVG/TvT/Mtgr",
+  "snapshot_id": "ZyAlgAAAAAAu4DxkAutqRKGi6bRq8qF4",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Es Color De Rosa",
-        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Irremediable",
-      "url": "https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Mariposas",
         "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 217826,
       "name": "Yo por \u00c9l",
       "url": "https://open.spotify.com/track/4Wf7GYRnkySl3s9h5uKlhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Irremediable",
+      "url": "https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok"
     },
     {
       "added_at": null,

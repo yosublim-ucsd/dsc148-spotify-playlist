@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Gather your covens for the prelude to this Halloween, curated by The Last Dinner Party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,936 likes - 45 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,748 likes - 45 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

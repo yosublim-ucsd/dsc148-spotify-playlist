@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-324 songs - 17 hr 14 min
+325 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Groove Con Clase](https://open.spotify.com/track/7gCDFGLVES145SCNMTSwEv) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Groove Con Clase](https://open.spotify.com/album/00yyKypLfSiHZQsCakCXbz) | 3:02 | 2024-10-11 |  |
 | [Guataqui](https://open.spotify.com/track/1j5ocYQRNSZRoj7L5ekkqn) | [Jimmi Rider](https://open.spotify.com/artist/1cd0IMgYU4aMsi2fSh8jJV) | [Guataqui](https://open.spotify.com/album/6JfaLOnI9Q6K31FoHPADyY) | 2:16 | 2024-03-22 | 2024-10-26 |
 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2023-11-10 | 2023-12-09 |
-| [HAHAHA](https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [bewav](https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM), [Stizi](https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42) | [HAHAHA EP](https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC) | 2:36 | 2024-07-26 |  |
+| [HAHAHA](https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [bewav](https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM), [Stizi](https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42) | [HAHAHA EP](https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC) | 2:36 | 2024-07-26 | 2024-10-31 |
 | [HAVANA](https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s) | [Vince Morgana](https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8), [GLADYS](https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf) | [HAVANA](https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN) | 2:26 | 2024-01-05 | 2024-05-27 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-11-10 |  |
 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 | 2023-11-10 |  |
@@ -297,6 +297,7 @@
 | [Tomala \(Se Mueve Se Siente\)](https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73) | [Tomala \(Se Mueve Se Siente\)](https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2) | 2:40 | 2024-07-19 |  |
 | [Tranquilao](https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Tranquilao](https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS) | 3:00 | 2023-11-17 |  |
 | [Tranquilo](https://open.spotify.com/track/0wlRwjz9gsEE7e8yHR6Gl6) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Tranquilo](https://open.spotify.com/album/33stvG0aeAfYvDAluIoNy9) | 2:37 | 2024-05-10 | 2024-05-25 |
+| [Treme](https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Treme](https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P) | 3:30 | 2024-10-25 |  |
 | [Tribesmen \- Original Mix](https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Tribesmen](https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk) | 7:17 | 2021-10-08 | 2023-11-11 |
 | [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 | 2023-11-10 | 2024-03-16 |
 | [Tu Camino](https://open.spotify.com/track/4chazKXFBLQO6DFmv5hwj9) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Tu Camino](https://open.spotify.com/album/5mRwJTYVUwbDuvWung7Adv) | 2:45 | 2024-06-07 |  |

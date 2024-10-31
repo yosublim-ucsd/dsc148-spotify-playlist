@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 193118,
       "name": "Albi Elou",
       "url": "https://open.spotify.com/track/7uIdrMD04D7jsL7lI6ytTw"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 199076,
       "name": "Manga",
       "url": "https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4"
@@ -2022,6 +2022,28 @@
       "duration_ms": 307500,
       "name": "Sa Assiru Yawman",
       "url": "https://open.spotify.com/track/0iIQDfnA9g58xIQiaDtPg2"
+    },
+    {
+      "album": {
+        "name": "Sabb Farhety",
+        "url": "https://open.spotify.com/album/5u9MUiMx6rkuCrGgwzfGuq"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        },
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302365,
+      "name": "Sabb Farhety",
+      "url": "https://open.spotify.com/track/4e7lA8xFXF1Fw7v2nZqtro"
     },
     {
       "album": {
@@ -2722,7 +2744,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 245925,
       "name": "\u0628\u062d\u0627\u0631\u0628 \u0641\u064a\u0647\u0627",
       "url": "https://open.spotify.com/track/74dkAlEbjBPHK3HrLXiAmC"
@@ -3104,6 +3126,42 @@
       "duration_ms": 199148,
       "name": "\u0645\u064f\u0647\u0631\u0629 - MOHRA",
       "url": "https://open.spotify.com/track/4V5CPi2Z1amClPyxT24fgE"
+    },
+    {
+      "album": {
+        "name": "\u062a\u064a\u062c\u064a \u0646\u0633\u064a\u0628",
+        "url": "https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281052,
+      "name": "\u0647\u0648 \u0627\u0646\u062a \u0645\u064a\u0646",
+      "url": "https://open.spotify.com/track/1qGEGcxFCJ0LhBCBSeZmqO"
+    },
+    {
+      "album": {
+        "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
+        "url": "https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210714,
+      "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
+      "url": "https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn"
     },
     {
       "album": {

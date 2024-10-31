@@ -8067,6 +8067,24 @@
     },
     {
       "album": {
+        "name": "...l",
+        "url": "https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188790,
+      "name": "GPT",
+      "url": "https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu"
+    },
+    {
+      "album": {
         "name": "THE FUTURE IS OURS: FOUND",
         "url": "https://open.spotify.com/album/5iuOgrQuJFL4RgUBmF5ieO"
       },

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-862 songs - 2 day 7 hr 17 min
+863 songs - 2 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Debra](https://open.spotify.com/track/6aLmvz0CPeCNHCXK2H5QIC) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Midnite Vultures](https://open.spotify.com/album/5Mk8LGoWoPg0igqQXprzfR) | 5:43 | 2024-01-29 |  |
 | [Dedicated \(feat\. R.Kelly & Austin Mahone\)](https://open.spotify.com/track/16iHofweOVofNFKqni3QvK) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Climate Change](https://open.spotify.com/album/4jtKPpBQ5eneMwEI94f5Y0) | 3:56 | 2024-09-12 |  |
 | [Deep Down Body Thurst](https://open.spotify.com/track/5HBcMAMVgBVUWiLyiK7q4I) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 4:11 | 2024-01-29 |  |
+| [Dernier verre](https://open.spotify.com/track/0Vaqh10JzIrxfDCWJXwLa5) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:23 | 2024-10-30 |  |
 | [Despicable Me](https://open.spotify.com/track/2EOMe4XAS7U6UA1mhDs9tP) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 4:12 | 2024-01-29 |  |
 | [Değmen Benim Gamlı Yaslı Gönlüme](https://open.spotify.com/track/1QG9Rm1xK9uWH8BpS4hw5H) | [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [Avuntu \(Ağıt\)](https://open.spotify.com/album/7lPEGPskSm5d1wzcclIS0k) | 3:45 | 2024-01-29 |  |
 | [Diamonds On My Neck \- Dirty](https://open.spotify.com/track/4rxYQbnUvu5inhoGHK8JDt) | [Smitty](https://open.spotify.com/artist/39nFEPuVMGTZkMJP6RjYLF) | [Diamonds On My Neck](https://open.spotify.com/album/3ExyKNKuOTTfbXVEMu7RaB) | 3:36 | 2024-09-12 | 2024-09-29 |
@@ -373,7 +374,7 @@
 | [I'm a Slave 4 U](https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:23 | 2024-01-29 |  |
 | [I'm Beamin'](https://open.spotify.com/track/7GyOsqKOgNxxZ1zKWyaNNB) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lasers \(Deluxe Edition\)](https://open.spotify.com/album/4DP4IfbpAvbm9HyPnSboiX) | 4:48 | 2024-09-12 |  |
 | [I'm Good \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4dna9pp213lAcnSrbj3xGn) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Til The Casket Drops](https://open.spotify.com/album/3fFlGU0k3z7wle0gp4wNrU) | 4:21 | 2024-01-29 |  |
-| [I'm Just Me](https://open.spotify.com/track/3pWX4DtjaLucR6UMidqjmz) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:32 | 2024-09-12 |  |
+| [I'm Just Me](https://open.spotify.com/track/3pWX4DtjaLucR6UMidqjmz) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:32 | 2024-09-12 | 2024-10-31 |
 | [I'm Lovin' It](https://open.spotify.com/track/6PfXAlQQ9S8sas54JYre3G) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [I'm Lovin' It](https://open.spotify.com/album/5OhhchwlHVUgUEKpkthbU0) | 3:38 | 2024-09-12 |  |
 | [I'm Not You \(feat\. Jadakiss, Style P & Rosco P\. Coldchain\)](https://open.spotify.com/track/4h1xaUGnbHp867AZ4mBM3m) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Style P](https://open.spotify.com/artist/3S906h2bFM8tXtQWGUerHu), [Rosco P\. Coldchain](https://open.spotify.com/artist/7yVL74VzpkOiAEv2MVO7w1) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:18 | 2024-06-20 |  |
 | [I'm On A Roll](https://open.spotify.com/track/6wAuGl9OzAm0t3EfiWcQn4) | [Destinee & Paris](https://open.spotify.com/artist/0UJ0dQEzoMpMhFeP70hlhO) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 3:10 | 2024-08-06 |  |

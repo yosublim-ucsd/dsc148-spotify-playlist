@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: The La Planta & La T y La M.
 
-586 songs - 1 day 5 hr 16 min
+587 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [PR Sessions \#4](https://open.spotify.com/track/6dYUROj5Z5EV6PNOPUprhF) | [Panchito Records](https://open.spotify.com/artist/6U1nvY2YuhmVZ96Af8K6qb), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [PR Sessions \#4](https://open.spotify.com/album/4Ru3IxuOccecbtIEvDxMEF) | 2:28 | 2023-01-06 | 2023-04-16 |
 | [Primer Intento](https://open.spotify.com/track/67vyjFh225IRh9Z6y01Hnj) | [Agostina Pochi](https://open.spotify.com/artist/0CDZ8bsQtAYbCE9wUv3HLa), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT), [gonza maza](https://open.spotify.com/artist/16sCPb3OQ3HmvFLCcjWeyL) | [Primer Intento](https://open.spotify.com/album/5rz1frwFt2HnpB8al7onNA) | 2:21 | 2023-11-24 | 2023-12-09 |
 | [Procuro Olvidarte \- Remix](https://open.spotify.com/track/2650m8ktV7TWj076k8eER0) | [Dj Kairuz](https://open.spotify.com/artist/691W1gqZuTStArZXHw2fT5), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Procuro Olvidarte \(Remix\)](https://open.spotify.com/album/5CujO5mG3XYl7DR1QleI5G) | 3:19 | 2022-01-03 | 2022-07-25 |
-| [Prometiste Amor](https://open.spotify.com/track/444vRj4BYxrYalfAePwxRt) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Prometiste Amor](https://open.spotify.com/album/1sWE0CF50f2TzggG9txtoJ) | 2:15 | 2024-09-06 |  |
+| [Prometiste Amor](https://open.spotify.com/track/444vRj4BYxrYalfAePwxRt) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Prometiste Amor](https://open.spotify.com/album/1sWE0CF50f2TzggG9txtoJ) | 2:15 | 2024-09-06 | 2024-10-31 |
 | [Prometí](https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID), [Candu DomÍnguez](https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI), [ZHAE](https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9) | [Prometí](https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1) | 2:36 | 2024-06-28 |  |
 | [Puntos Suspensivos](https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW) | [Latam Sonora](https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa) | [Puntos Suspensivos](https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K) | 2:50 | 2022-01-07 | 2022-05-27 |
 | [Pupilas Lejanas](https://open.spotify.com/track/3WugePzirGROxAle1gMPXE) | [Fer Silvera](https://open.spotify.com/artist/5HUPhcBE9Bg1LLnFrhRcOy) | [Pupilas Lejanas](https://open.spotify.com/album/44uQsmxBqlA1Tj02XGlWU6) | 2:36 | 2022-11-11 | 2022-12-10 |
@@ -527,6 +527,7 @@
 | [Trátame Suavemente](https://open.spotify.com/track/2v7coZkORX56UIDXh6P1kU) | [Julián Bruno](https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2) | [Trátame Suavemente](https://open.spotify.com/album/1VNBVLeGu6cYMuJk4FqXdx) | 3:16 | 2023-03-04 | 2023-03-11 |
 | [Tu Error](https://open.spotify.com/track/0fLdDZsFAmCs5zOCj516UK) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Tu Error](https://open.spotify.com/album/0SOv5dYYLIHeXB7kiYe1jQ) | 2:24 | 2022-03-04 | 2022-04-28 |
 | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5) | 4:01 | 2021-12-23 | 2022-12-03 |
+| [Tu Flayte](https://open.spotify.com/track/1fEHUX18VdLbA3TeIEZx3q) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Tu Flayte](https://open.spotify.com/album/4hxcCrHfZSlHAhQbpoMHbX) | 2:54 | 2024-10-25 |  |
 | [Tu Versión De La Historia](https://open.spotify.com/track/5XBhEFome7Mfb1ovOJu8ez) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Tu Versión De La Historia](https://open.spotify.com/album/7vBIHRSMzLhJhya7Mx9fIg) | 3:00 | 2024-08-23 |  |
 | [Tu y Yo](https://open.spotify.com/track/1ySHxAgUvYb6EIZCcGK48s) | [Junior](https://open.spotify.com/artist/2y8W2PypLEsO0G02dDJVdx) | [En Silencio](https://open.spotify.com/album/5Gikppde4Ynz50U9syaU8X) | 2:44 | 2024-03-22 | 2024-03-30 |
 | [Turreame](https://open.spotify.com/track/1Hndm3zw6nb0oi34dEPbSA) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [Turreame](https://open.spotify.com/album/5sFXd3F9XOztgduMq2bYuf) | 2:11 | 2023-01-20 | 2023-01-24 |

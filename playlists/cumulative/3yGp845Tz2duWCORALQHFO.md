@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,299 songs - 2 day 22 hr 33 min
+1,301 songs - 2 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,6 +734,7 @@
 | [Mami](https://open.spotify.com/track/3AIsQI5RFVxzP3zWtWQsHr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Mami](https://open.spotify.com/album/4lNn3es3NqNZOPCt0bf0Fs) | 2:35 | 2024-09-05 | 2024-09-13 |
 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 | 2024-06-07 | 2024-06-17 |
 | [Mar Azul](https://open.spotify.com/track/2JcSVI70JR5NnWUgQdLF03) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Mar Azul](https://open.spotify.com/album/0MRSokSjJnyOOfxFbO4CsC) | 2:31 | 2024-07-05 | 2024-07-12 |
+| [Maritime](https://open.spotify.com/track/7tirnnScENuDg3QSU2KEqZ) | [MIRAMAR](https://open.spotify.com/artist/1cdAAVlSzE9pXHJQHDv2AK) | [Maritime](https://open.spotify.com/album/37nLxQF9JKN0WOfLuXZpnE) | 2:51 | 2024-10-30 |  |
 | [Marlboro Man](https://open.spotify.com/track/3Oh65kNgVezqIUCHd7EKiQ) | [Kaleb Sanders](https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB) | [Marlboro Man](https://open.spotify.com/album/0VcVOHmCyjFtbGuYu649fr) | 3:20 | 2024-06-17 | 2024-06-21 |
 | [Martian Basement Rave](https://open.spotify.com/track/663e09xdRZ0BXAhQmxrojJ) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Martian Basement Rave](https://open.spotify.com/album/75ctABlRTvJNvbCHvgiXT1) | 3:32 | 2024-07-12 | 2024-07-19 |
 | [Mash Up](https://open.spotify.com/track/3LqQ6B5pXEffThq9Qa4JwX) | [Cizzzla](https://open.spotify.com/artist/7H18N6EUyYiLI57t6H4DCt) | [Mash Up](https://open.spotify.com/album/1fmJ2pXaz6XroaLOOhEr9b) | 2:17 | 2024-06-07 | 2024-06-17 |
@@ -1286,6 +1287,7 @@
 | [Won't Let Go](https://open.spotify.com/track/5Mhv3rKTtmELGHbfjbsGvQ) | [STAN BIZZY](https://open.spotify.com/artist/4NFCT4Mfi89Y11lGnbF8qf) | [Won't Let Go](https://open.spotify.com/album/4XIi0sYVa7m4SMPuFbhya0) | 2:41 | 2024-08-02 | 2024-08-24 |
 | [Wonderful Life \- Kryder's Guilty Pleasure Mix](https://open.spotify.com/track/3yh2fWJ2Yi1Iu1jxJQRErJ) | [Yero](https://open.spotify.com/artist/6Sz80zYH0Fo5d5mT1gavlO), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY), [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Wonderful Life \(Kryder's Guilty Pleasure Mix\)](https://open.spotify.com/album/1wTaS4eBxLD3EsegS3kxxG) | 2:56 | 2024-06-16 | 2024-06-21 |
 | [Wondering \[Your Love Leaves Me\]](https://open.spotify.com/track/0inHq902JVcOzJcrk2m0a1) | [Factor B](https://open.spotify.com/artist/4OUavLWUepaSy6MNjkNS3g), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Wondering \[Your Love Leaves Me\]](https://open.spotify.com/album/2qz8oSUPifxUsbCuHASyaM) | 4:11 | 2024-07-25 | 2024-08-02 |
+| [Wonderland](https://open.spotify.com/track/2zt0GhjCmtyGcWBpxOYVCk) | [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2) | [Wonderland](https://open.spotify.com/album/1Nd3R3IzckDa6btg3GCSb5) | 2:57 | 2024-10-30 |  |
 | [Woof \(feat\. Kah\-Lo\)](https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:12 | 2024-08-23 | 2024-08-31 |
 | [WOOK WHISTLE](https://open.spotify.com/track/3I1wg4f8LQB5Pl0NjUm0zT) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [LSZEE](https://open.spotify.com/album/3hzUq786dmch2KTVixU9Tb) | 3:40 | 2024-09-26 | 2024-10-05 |
 | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt) | 2:26 | 2024-10-11 | 2024-10-22 |

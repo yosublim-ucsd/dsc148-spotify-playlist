@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 141095,
+  "num_followers": 141101,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Burning Bright",
         "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 304654,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Souda Bay",
+        "url": "https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt"
+      },
+      "artists": [
+        {
+          "name": "DJ Telefkas",
+          "url": "https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8"
+        }
+      ],
+      "duration_ms": 210509,
+      "name": "Souda Bay",
+      "url": "https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "L'amour, l'amour, l'amour",
         "url": "https://open.spotify.com/album/6oj9nooSiowSdAl3Qhg66u"
       },
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Souda Bay",
-        "url": "https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt"
-      },
-      "artists": [
-        {
-          "name": "DJ Telefkas",
-          "url": "https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8"
-        }
-      ],
-      "duration_ms": 210509,
-      "name": "Souda Bay",
-      "url": "https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Last Dream",
         "url": "https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9"
       },
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Zaim",
-        "url": "https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU"
-      },
-      "artists": [
-        {
-          "name": "Butia",
-          "url": "https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h"
-        }
-      ],
-      "duration_ms": 236136,
-      "name": "Zaim",
-      "url": "https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Looking for the Sea",
         "url": "https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 213133,
       "name": "Fou de toi",
       "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Zaim",
+        "url": "https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU"
+      },
+      "artists": [
+        {
+          "name": "Butia",
+          "url": "https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h"
+        }
+      ],
+      "duration_ms": 236136,
+      "name": "Zaim",
+      "url": "https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Backdrops",
-        "url": "https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC"
+        "name": "Lupino",
+        "url": "https://open.spotify.com/album/6LNyTa0FtB9YYohiEACjhW"
       },
       "artists": [
         {
-          "name": "Walientinho",
-          "url": "https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or"
+          "name": "Magnofield",
+          "url": "https://open.spotify.com/artist/4wNM69xY7xVOi8WK46t4tT"
         }
       ],
-      "duration_ms": 186123,
-      "name": "Backdrops",
-      "url": "https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp"
+      "duration_ms": 200697,
+      "name": "Lupino",
+      "url": "https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

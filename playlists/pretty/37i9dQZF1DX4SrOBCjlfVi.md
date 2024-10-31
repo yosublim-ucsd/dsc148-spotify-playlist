@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Hunxho, Polo G, Megan Thee Stallion and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,921 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,995 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 21 | [CA$HMERE TEAR$](https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [CA$HMERE TEAR$](https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs) | 4:02 |
 | 22 | [Dead Flowers](https://open.spotify.com/track/16GGfhlRk60bRAy64GG2QR) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Antt Beatz](https://open.spotify.com/artist/3HySPBanVbKZsn6bOZSZl8) | [Dead Flowers](https://open.spotify.com/album/5QGC83kl3rf64o5HJTbOhX) | 2:53 |
 | 23 | [HAHA](https://open.spotify.com/track/6QKsXlPrbg39EHLGoXGRsr) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [HAHA](https://open.spotify.com/album/0nLPy1MZOTSsDaY76gdMJI) | 3:09 |
-| 24 | [Crip Blue Hundreds](https://open.spotify.com/track/1x77Qq8Wd2zDSt1Yq5J8KO) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Crip Blue Hundreds](https://open.spotify.com/album/0MtY9Lw2bbv8cv2bgVNi8h) | 2:50 |
+| 24 | [Crip Blue Hundreds](https://open.spotify.com/track/1x77Qq8Wd2zDSt1Yq5J8KO) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Crip Blue Hundreds](https://open.spotify.com/album/0MtY9Lw2bbv8cv2bgVNi8h) | 2:49 |
 | 25 | [CAN YOU BREATHE?](https://open.spotify.com/track/08dhHm7TCUsbiPLQgUro5n) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Hello Forever](https://open.spotify.com/artist/0WDAQAjHsUAQviHGWRLrGH) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 2:58 |
 | 26 | [WTFO](https://open.spotify.com/track/6F5g5wyan1J0k0vXuscBSX) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [WTFO](https://open.spotify.com/album/2TiinfW9n75HG9dpUt5Plr) | 2:59 |
 | 27 | [Lie](https://open.spotify.com/track/7HyxdgMWiKj81S1TVrKBhk) | [Lg Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p) | [Living Gold](https://open.spotify.com/album/6HsN5UdQ1ugjQZEWru0Ij3) | 2:27 |

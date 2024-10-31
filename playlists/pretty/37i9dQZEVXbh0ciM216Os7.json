@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD6rt/0wMr/CbYpp5q4k1em",
+  "snapshot_id": "AAAAAAAAAADeUF54oAkETVxh69oKwaCh",
   "tracks": [
     {
       "added_at": "2024-10-25 04:00:00",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/3EmpiBiVuoGvd2WI0lD4ZY"
-      },
-      "artists": [
-        {
-          "name": "Qveen Herby",
-          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 146957,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/0PL8Noq0tGCl4NJPjwSvTR"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 256328,
       "name": "Survive The Night",
       "url": "https://open.spotify.com/track/25YJpVrQBDAh6Zu8frDwgp"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/3EmpiBiVuoGvd2WI0lD4ZY"
+      },
+      "artists": [
+        {
+          "name": "Qveen Herby",
+          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 146957,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/0PL8Noq0tGCl4NJPjwSvTR"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Warm Beers",
-        "url": "https://open.spotify.com/album/1mIdRCx9KImyMAu2buKWX5"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 216067,
-      "name": "Warm Beers",
-      "url": "https://open.spotify.com/track/2TeZBRA9l5ueios4jpCbf6"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/1Aa7IJ0XzdyMISGbORyIHO"
       },
@@ -635,26 +619,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "3:AM (feat. Erykah Badu) [Slowed and Throwed in Dallas]",
-        "url": "https://open.spotify.com/album/5NKcgx9HBSdS2xwqUbQf3F"
+        "name": "Warm Beers",
+        "url": "https://open.spotify.com/album/1mIdRCx9KImyMAu2buKWX5"
       },
       "artists": [
         {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "Lonestarrmuzik",
-          "url": "https://open.spotify.com/artist/6NpNOOo68SV2RtnI2JYgFm"
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],
-      "duration_ms": 243237,
-      "name": "3:AM (feat. Erykah Badu) - Slowed and Throwed in Dallas",
-      "url": "https://open.spotify.com/track/7bXseaPk89BFH69ZRO0oPC"
+      "duration_ms": 216067,
+      "name": "Warm Beers",
+      "url": "https://open.spotify.com/track/2TeZBRA9l5ueios4jpCbf6"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -679,6 +655,30 @@
       "duration_ms": 182340,
       "name": "You & Me - SG Lewis Remix",
       "url": "https://open.spotify.com/track/2RadfxTUE036JNHuxM6MYW"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "3:AM (feat. Erykah Badu) [Slowed and Throwed in Dallas]",
+        "url": "https://open.spotify.com/album/5NKcgx9HBSdS2xwqUbQf3F"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Lonestarrmuzik",
+          "url": "https://open.spotify.com/artist/6NpNOOo68SV2RtnI2JYgFm"
+        }
+      ],
+      "duration_ms": 243237,
+      "name": "3:AM (feat. Erykah Badu) - Slowed and Throwed in Dallas",
+      "url": "https://open.spotify.com/track/7bXseaPk89BFH69ZRO0oPC"
     },
     {
       "added_at": "2024-10-25 04:00:00",

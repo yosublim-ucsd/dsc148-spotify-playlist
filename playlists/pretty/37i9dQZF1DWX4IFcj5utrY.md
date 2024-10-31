@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: KMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,402 likes - 59 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,408 likes - 59 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 40 | [Nothing That I Need](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Nothing That I Need](https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo) | 3:18 |
 | 41 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 |
 | 42 | [Parachute \(feat\. Rachel Chinouriri\)](https://open.spotify.com/track/0BlxpYD81CZucSEvCS11Ed) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Parachute \(feat\. Rachel Chinouriri\)](https://open.spotify.com/album/6TRdgdNykVKxmg4GAoyGfl) | 3:53 |
-| 43 | [Magic](https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [Aubs](https://open.spotify.com/artist/7xFMyWEhRwAXmnhr6dMVm3), [Kabomo Vilakazi](https://open.spotify.com/artist/69rY36Byo3mIOBnaUt9lYb) | [Mmino Wa Batho](https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ) | 5:54 |
+| 43 | [Magic](https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [Aubs](https://open.spotify.com/artist/7xFMyWEhRwAXmnhr6dMVm3), [Kabomo](https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f) | [Mmino Wa Batho](https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ) | 5:54 |
 | 44 | [Amanxeba](https://open.spotify.com/track/0WGcw62a3tCniUTFP50lWt) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Indalo](https://open.spotify.com/album/7kx9yTATM8wc4c1u4fmwQc) | 7:32 |
 | 45 | [Love Generation \- Reimagined](https://open.spotify.com/track/0XNmVc3Q1wVIgY4hRAYaTv) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [Love Generation \(Reimagined\)](https://open.spotify.com/album/1ulfBxeNo0QvBBgkO8mALO) | 3:41 |
 | 46 | [Things you Love](https://open.spotify.com/track/1HDJlzNrCXrspyHmynZNMN) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [DR CATCHER](https://open.spotify.com/artist/3qCdsKtQZvP21TYHeynyYX) | [Things you Love](https://open.spotify.com/album/5EugR2Veit91H04zSLf6lN) | 6:41 |

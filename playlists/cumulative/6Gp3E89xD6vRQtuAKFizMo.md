@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-368 songs - 17 hr 43 min
+369 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Midnight \(feat\. LINK\)](https://open.spotify.com/track/5HpRQNBXWdFdXcLCNS5Niv) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [LINK](https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb) | [Midnight \(feat\. LINK\)](https://open.spotify.com/album/2jSolctatBqVTEUDJ6lRyD) | 2:12 | 2023-02-17 | 2023-04-09 |
 | [Miedo](https://open.spotify.com/track/5QyP1mCvTyBasfWC8Qdp9i) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Miedo](https://open.spotify.com/album/5Q7ygUBxpsQpQowIBdwLBF) | 3:00 | 2022-05-06 | 2022-07-09 |
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-05-06 | 2022-10-18 |
+| [Money On The Line](https://open.spotify.com/track/7BYOJ9urVhhq6DVOb38Mj1) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Money On The Line](https://open.spotify.com/album/5S48I4R8aNkh2fGZw5O91m) | 3:00 | 2024-10-30 |  |
 | [MOON](https://open.spotify.com/track/0wsPWksjRwQkYofsre9rMD) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [MOON](https://open.spotify.com/album/77E1Q1IxMPpC96tLpXzrvy) | 3:27 | 2024-07-26 |  |
 | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [GIANNI TAYLOR](https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i) | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt) | 2:53 | 2023-01-27 | 2023-04-09 |
 | [MOTION](https://open.spotify.com/track/4EzW52mbVR93yJVnHYi710) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [MOTION](https://open.spotify.com/album/7wLPe5WdB6xkxmEEQV1kqy) | 2:13 | 2023-04-07 |  |

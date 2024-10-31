@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LEE SEUNG YOON(\uc774\uc2b9\uc724)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: HAN RORO(\ud55c\ub85c\ub85c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 215093,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv"
@@ -3700,6 +3700,24 @@
       "duration_ms": 162000,
       "name": "For Pure Pleasure Only",
       "url": "https://open.spotify.com/track/7m4RetwzZtQICsuQyDRJE6"
+    },
+    {
+      "album": {
+        "name": "XYRUP",
+        "url": "https://open.spotify.com/album/45oAZWRJJkpHdGK1Ys8dly"
+      },
+      "artists": [
+        {
+          "name": "SURL",
+          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "FOREST (Mountain and Elevator)",
+      "url": "https://open.spotify.com/track/1wmaEbWBvNltPwF8dZepw6"
     },
     {
       "album": {
@@ -11461,6 +11479,24 @@
     },
     {
       "album": {
+        "name": "The Compass",
+        "url": "https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "The Compass",
+      "url": "https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC"
+    },
+    {
+      "album": {
         "name": "The knight who can't die and the silk cradle",
         "url": "https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG"
       },
@@ -12994,7 +13030,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 196140,
       "name": "Yes (feat. James Reid)",
       "url": "https://open.spotify.com/track/7rXgJUG1dp42FJMjYsD7EW"

@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: ISSUGI & GRADIS NICE
 
-1,175 songs - 2 day 12 hr 14 min
+1,176 songs - 2 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1046,6 +1046,7 @@
 | [Working Class King](https://open.spotify.com/track/17Ypcbt0VoqFLCJcX1Pxo5) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [Working Class King](https://open.spotify.com/album/7CyKNS7JJXFlv0YvoSCmiz) | 4:54 | 2024-08-21 |  |
 | [World is Ours](https://open.spotify.com/track/0OP6Dathz06t8zRCmf5Knv) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [World is Ours](https://open.spotify.com/album/43V9AkPqhqEv3lrOEdja9s) | 3:32 | 2024-08-30 | 2024-09-25 |
 | [Xchain](https://open.spotify.com/track/6BNrTHvibxIU6rbx3mypMJ) | [Leisu](https://open.spotify.com/artist/2mGiNGTMNfU16D4PbtWFOj), [yamadagalzing](https://open.spotify.com/artist/5e1LtaEddZkGx57OPtYON5), [izolma](https://open.spotify.com/artist/5Cjc9g0qHNWfuQJlpCpAKM) | [Revive](https://open.spotify.com/album/1p5xD637v6Q6NEXSrXoL1B) | 2:54 | 2023-11-29 | 2023-12-15 |
+| [Yagi](https://open.spotify.com/track/2MNYR7CXddNZMZbKrYKK29) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Yagi](https://open.spotify.com/album/0GcEbuyNTrPHbk5073xChy) | 2:57 | 2024-10-29 |  |
 | [YAKINIKU, SUSHI](https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [PLAY PURE 3](https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ) | 3:02 | 2024-01-11 | 2024-01-24 |
 | [YAMABIKO](https://open.spotify.com/track/1uoElRW0DpvkbJVuekB6ZO) | [EVO THE ANTHEM](https://open.spotify.com/artist/6OEjdeXs03ngNceH18qGKB), [EFTRA](https://open.spotify.com/artist/2FFeEVjiLR6B31hyfEa8JY), [NASTY K](https://open.spotify.com/artist/1OqUsd65HNytaqLRLa4cWP) | [YAMABIKO](https://open.spotify.com/album/7zPJhpQzkQuE7wM7Xtl4aO) | 3:35 | 2024-06-04 | 2024-06-15 |
 | [Yap Yap](https://open.spotify.com/track/5XbunWE0rvjeiMmtc2v5Pa) | [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Deech Got Yukichi 2](https://open.spotify.com/album/0EiGGW2OaqBb2NeM8qJ1xJ) | 2:27 | 2023-12-22 | 2024-01-17 |

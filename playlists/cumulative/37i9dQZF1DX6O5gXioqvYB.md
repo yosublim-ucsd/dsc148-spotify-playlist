@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Alek
 
-193 songs - 9 hr 30 min
+195 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [AMORE DISPERATO](https://open.spotify.com/track/2ghQwXaYq4nembNG5vhN4X) | [Fettuccine](https://open.spotify.com/artist/2ObpF6jimPBMsJuD7UHn7m) | [PUTTO](https://open.spotify.com/album/0OUhI3GBCCVIbzezqJDL54) | 2:10 | 2024-06-27 | 2024-07-05 |
 | [Amore fai presto!](https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Amore fai presto!](https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei) | 2:47 | 2024-07-04 | 2024-10-25 |
 | [Anche i Cowboy Piangono](https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA) | [nonpiangere](https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7) | [Anche i Cowboy Piangono](https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2) | 2:54 | 2024-09-26 |  |
+| [Ancora](https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW) | [Mediterraneo](https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489) | [Ancora](https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v) | 2:59 | 2024-10-24 |  |
 | [Andando Molto Piano](https://open.spotify.com/track/5cxkweImoqytdiJ2GF3SB4) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Andando Molto Piano](https://open.spotify.com/album/7uW2mwzJ2fvg8iFWRLWJPg) | 2:41 | 2024-06-27 | 2024-07-12 |
 | [andateafanculotutti](https://open.spotify.com/track/17TBj8gZYSBGSeoD9TBKpo) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [TUTTOSBAGLIATO](https://open.spotify.com/album/74x1PwNA0C6CrMb74PhSd6) | 2:37 | 2024-06-27 | 2024-07-05 |
 | [Appeso](https://open.spotify.com/track/7oQ5HBhVM1u5qsoyPkenGh) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Appeso](https://open.spotify.com/album/3NcnHCFnHCbZcUO6bglpqn) | 2:05 | 2024-06-27 | 2024-07-12 |
@@ -79,6 +80,7 @@
 | [i miei fiumi](https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [i miei fiumi](https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6) | 3:04 | 2024-09-19 |  |
 | [I mostri sotto al letto](https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SCUSA X IL DISORDINE](https://open.spotify.com/album/2N7C1CNutpky17Mc2isnlX) | 2:32 | 2024-06-27 | 2024-10-21 |
 | [Indiementicata](https://open.spotify.com/track/5hUm1XjNijoRYw7VoSM6i0) | [Psyche](https://open.spotify.com/artist/0074TFvDGpuZ5tBTszIEh3) | [INDIEMENTICATA](https://open.spotify.com/album/1hgRtyaK05hpvM8uEnpczY) | 2:30 | 2024-08-22 | 2024-09-27 |
+| [insonnia](https://open.spotify.com/track/5xaII2RPf9KXPwPSbIdhKK) | [Neverbh](https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN) | [insonnia](https://open.spotify.com/album/7FZyxHxuNHP81BGI4FrYnn) | 2:41 | 2024-10-24 |  |
 | [L'ETÀ D'ORO](https://open.spotify.com/track/1BIYMcbLkm9Wo9NKudb3jn) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [L'ETÀ D'ORO](https://open.spotify.com/album/0CcJbA8NY3XXl4xozCPg3Z) | 3:03 | 2024-06-27 | 2024-07-12 |
 | [LA DOMANDA GIUSTA](https://open.spotify.com/track/6pOuWoEdYpBw74fP42F1Tv) | [Giulia Leone](https://open.spotify.com/artist/5xyfvolNQ8DukvHXKjHxRd) | [LA DOMANDA GIUSTA](https://open.spotify.com/album/0Nt0bzksswpMespk6o895G) | 2:58 | 2024-06-27 | 2024-07-05 |
 | [La metà](https://open.spotify.com/track/2mxb9ZHTc9BL1lwOcqmE9B) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [BUIO](https://open.spotify.com/album/4iZjs32KpHJmRKduhU5Zar) | 3:24 | 2024-06-27 | 2024-07-05 |
@@ -125,7 +127,7 @@
 | [odio l'estate.](https://open.spotify.com/track/2SX5vNtHYFuEs8P3rYUQHy) | [petra](https://open.spotify.com/artist/3yzgT3hMTtjPZ9GgmeFnCt) | [odio l'estate.](https://open.spotify.com/album/5xcCj6E31B8EL4028AshAl) | 2:36 | 2024-07-04 | 2024-08-23 |
 | [Ogni maledetta domenica](https://open.spotify.com/track/0HS43s0nNeGFsnn1ZKlrxa) | [Sir Giove](https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i) | [Ogni maledetta domenica](https://open.spotify.com/album/74CMUCMtcxy97UijT94WGP) | 2:34 | 2024-06-27 | 2024-07-27 |
 | [Ogni mezz'ora](https://open.spotify.com/track/0xgNfO7phNkoWxCg7QdsQO) | [Evan](https://open.spotify.com/artist/5hZo9rZE0Tn6j7NPqxAYoE) | [Ogni mezz'ora](https://open.spotify.com/album/1biKlqwOF57CzP15mwgrnz) | 2:47 | 2024-07-18 | 2024-09-27 |
-| [Olio e sale](https://open.spotify.com/track/3q0mHQFdcJtx8eQYiYCUNz) | [Nelea](https://open.spotify.com/artist/1aTfJXQZb2gZf2FyooWust) | [Olio e sale](https://open.spotify.com/album/58gLtG2Y46pi8iW7MQPRQp) | 3:01 | 2024-10-24 |  |
+| [Olio e sale](https://open.spotify.com/track/3q0mHQFdcJtx8eQYiYCUNz) | [Nelea](https://open.spotify.com/artist/1aTfJXQZb2gZf2FyooWust) | [Olio e sale](https://open.spotify.com/album/58gLtG2Y46pi8iW7MQPRQp) | 3:01 | 2024-10-24 | 2024-10-31 |
 | [Ondeggiando](https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Ondeggiando](https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y) | 2:34 | 2024-09-26 |  |
 | [ora che è tutto ok](https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7) | [ora che è tutto ok](https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn) | 2:45 | 2024-08-01 |  |
 | [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 | 2024-08-29 | 2024-10-30 |
@@ -199,7 +201,7 @@
 | [vita lenta](https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [vita lenta](https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN) | 3:01 | 2024-06-27 | 2024-10-25 |
 | [Vocine](https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Vocine](https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B) | 3:04 | 2024-07-11 | 2024-10-04 |
 | [yo\-yo](https://open.spotify.com/track/7H2aXtVGFRkbk8faB8qAgI) | [nube](https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i) | [yo\-yo](https://open.spotify.com/album/4rtWcaZdsuVQ9tT41TWNeY) | 2:49 | 2024-06-27 | 2024-09-27 |
-| [zagara](https://open.spotify.com/track/6LJes6Kj0wkA6PWiKNQMGG) | [CALLIOPE](https://open.spotify.com/artist/4gUnnJ8JMuSQjd0oyDmbDt) | [zagara](https://open.spotify.com/album/6fdtPEoQCNrpLje2JnzD35) | 2:39 | 2024-09-05 |  |
+| [zagara](https://open.spotify.com/track/6LJes6Kj0wkA6PWiKNQMGG) | [CALLIOPE](https://open.spotify.com/artist/4gUnnJ8JMuSQjd0oyDmbDt) | [zagara](https://open.spotify.com/album/6fdtPEoQCNrpLje2JnzD35) | 2:39 | 2024-09-05 | 2024-10-31 |
 | [È uscita la carta del diavolo \(feat\. MILLE\)](https://open.spotify.com/track/0jOUmxv7YZgZEZRjTlhUJx) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ), [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [È uscita la carta del diavolo \(feat\. MILLE\)](https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z) | 4:06 | 2024-07-25 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

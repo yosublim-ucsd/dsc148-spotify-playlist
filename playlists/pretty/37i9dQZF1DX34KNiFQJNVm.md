@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Maiara & Maraísa, Vulgo FK, Maru2D e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,947,798 likes - 77 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,948,118 likes - 77 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 29 | [Alô @](https://open.spotify.com/track/1JSp8uiG1k95yCpK2SXISZ) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [Alô @](https://open.spotify.com/album/0juPlUwADxgt0ZiuDLB6oc) | 2:55 |
 | 30 | [200 Anos \- Ao Vivo](https://open.spotify.com/track/1i7dqz0Ijc2Q1kPyEj8uvk) | [Marquinhos Sensação](https://open.spotify.com/artist/1uN4dou3TaR8hMTIqAlrc6), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Marquinhos Sensação Convida Thiaguinho \(Ao Vivo\)](https://open.spotify.com/album/3UBAe7BLAjZ24PIqLP0QlZ) | 3:02 |
 | 31 | [Vou Chutar Meu Balde](https://open.spotify.com/track/1kRa1iFKcJrbsQ1HUrQPpv) | [Guga Nandes](https://open.spotify.com/artist/3vqgT6FvYBxEFbipoT9nYH), [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp) | [Vou Chutar Meu Balde](https://open.spotify.com/album/2Ms8C0l7PLKIb2WyQz6nos) | 2:46 |
-| 32 | [Na Nossa Casa](https://open.spotify.com/track/6b0ar4mjHc9urGxcy7URDB) | [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Testando, Vol\. 1](https://open.spotify.com/album/0HL6Ulbqx5fVpJOPpxeV79) | 3:14 |
+| 32 | [Na Nossa Casa](https://open.spotify.com/track/6b0ar4mjHc9urGxcy7URDB) | [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Testando, Vol\. 1](https://open.spotify.com/album/0HL6Ulbqx5fVpJOPpxeV79) | 3:14 |
 | 33 | [Palmeras en el jardín](https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Palmeras en el jardín](https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX) | 3:00 |
 | 34 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |
 | 35 | [Bigger In Texas](https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:32 |

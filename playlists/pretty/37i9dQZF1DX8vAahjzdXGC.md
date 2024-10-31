@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: RAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,090 likes - 110 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,128 likes - 110 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 45 | [Ragam](https://open.spotify.com/track/7CVqqeMG0CEiHJ1yV8zsKs) | [Geeks on Gig](https://open.spotify.com/artist/64uRnwRCGoaaMXw4ywhG2L) | [Ragam](https://open.spotify.com/album/1n5otCIQE7bjaFwStQ3AQO) | 3:38 |
 | 46 | [ねっこ](https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [ねっこ](https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR) | 3:59 |
 | 47 | [アウトライン](https://open.spotify.com/track/1rrI0xYaXYTyWtgf5ZtGPg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [アウトライン](https://open.spotify.com/album/1eYYfunGohknNjEJxwBsej) | 3:59 |
-| 48 | [Sakura Biyori and Time Machine with Hatsune Miku](https://open.spotify.com/track/6gX8ADfHTphQg4h2FiOAlB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [初音ミク](https://open.spotify.com/artist/5yRZVGcu9VCt8L1Bjzhi5R) | [Sakura Biyori and Time Machine with Hatsune Miku / Shoka](https://open.spotify.com/album/0CN8S0o5lA55IK8IMwxnVg) | 5:31 |
+| 48 | [Sakura Biyori and Time Machine with Hatsune Miku](https://open.spotify.com/track/6gX8ADfHTphQg4h2FiOAlB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Sakura Biyori and Time Machine with Hatsune Miku / Shoka](https://open.spotify.com/album/0CN8S0o5lA55IK8IMwxnVg) | 5:31 |
 | 49 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 |
 | 50 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 |
 | 51 | [Bukan Seleramu](https://open.spotify.com/track/7qN0tY5CMFCOt5K4F2tT0H) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Nanti Malam Ku Pikir Lagi](https://open.spotify.com/album/2aezgmGM8XSNfdxJ6IU9Kc) | 3:08 |

@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 239560,
+  "num_followers": 239628,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Talk to me.",
+        "url": "https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "duration_ms": 103333,
+      "name": "Talk to me.",
+      "url": "https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Howling (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Talk to me.",
-        "url": "https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb"
-      },
-      "artists": [
-        {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
-        }
-      ],
-      "duration_ms": 103333,
-      "name": "Talk to me.",
-      "url": "https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9"
     },
     {
       "added_at": "2024-09-19 23:00:00",

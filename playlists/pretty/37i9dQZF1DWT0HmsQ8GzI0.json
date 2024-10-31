@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Analog Balaton",
-  "num_followers": 13837,
+  "num_followers": 13840,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "kavicsok k\u00f6vek",
+      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
         "name": "024",
         "url": "https://open.spotify.com/album/2SOLffWVX0HiKfHHWAIpAb"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 211636,
       "name": "024",
       "url": "https://open.spotify.com/track/4cUIRhXmcBsI3JdP18Ld8f"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
-      },
-      "artists": [
-        {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "kavicsok k\u00f6vek",
-      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1047,38 +1047,6 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "pontnem",
-        "url": "https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 205980,
-      "name": "pontnem",
-      "url": "https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
-        "name": "Ahogy szeretn\u00e9m",
-        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
-      },
-      "artists": [
-        {
-          "name": "KACAJ",
-          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "Ahogy szeretn\u00e9m",
-      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
         "name": "Elment\u00e9l",
         "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
       },
@@ -1095,18 +1063,18 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "KEIKO",
-        "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
+        "name": "pontnem",
+        "url": "https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX"
       },
       "artists": [
         {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
         }
       ],
-      "duration_ms": 302538,
-      "name": "Bez\u00e1rul",
-      "url": "https://open.spotify.com/track/25DDjxsLkZzWvJkodzPF8s"
+      "duration_ms": 205980,
+      "name": "pontnem",
+      "url": "https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1127,6 +1095,38 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
+        "name": "Ahogy szeretn\u00e9m",
+        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
+      },
+      "artists": [
+        {
+          "name": "KACAJ",
+          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "Ahogy szeretn\u00e9m",
+      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "KEIKO",
+        "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 302538,
+      "name": "Bez\u00e1rul",
+      "url": "https://open.spotify.com/track/25DDjxsLkZzWvJkodzPF8s"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
         "name": "Sz\u00f6rny vagyok",
         "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 182952,
       "name": "Sz\u00f6rny vagyok",
       "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
-        "name": "Reszket a Bokor",
-        "url": "https://open.spotify.com/album/0wggm6nm1gVgVpLKZ4AM9Z"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 157924,
-      "name": "Reszket a Bokor",
-      "url": "https://open.spotify.com/track/46qNg2Vjrfn7O0lmgplCvU"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1187,6 +1171,22 @@
       "duration_ms": 232293,
       "name": "Alb\u00e9rlet",
       "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "Reszket a Bokor",
+        "url": "https://open.spotify.com/album/0wggm6nm1gVgVpLKZ4AM9Z"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 157924,
+      "name": "Reszket a Bokor",
+      "url": "https://open.spotify.com/track/46qNg2Vjrfn7O0lmgplCvU"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
+        "name": "beleszakad",
+        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
+      },
+      "artists": [
+        {
+          "name": "Pand\u00f3ra Projekt",
+          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "beleszakad",
+      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
         "name": "Still Dreamin'",
         "url": "https://open.spotify.com/album/68NLCJBXQCfpp3Y8TsRg8F"
       },
@@ -1343,34 +1359,18 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "J\u00f6v\u0151tlen",
-        "url": "https://open.spotify.com/album/56lAb6CHWL3KYLQdf05pAT"
+        "name": "Megbolond\u00edtott\u00e1l",
+        "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
       },
       "artists": [
         {
-          "name": "Hang\u00e1csi M\u00e1rton",
-          "url": "https://open.spotify.com/artist/4JyE85JOW4QRzvUaJqQciU"
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
         }
       ],
-      "duration_ms": 137261,
-      "name": "J\u00f6v\u0151tlen",
-      "url": "https://open.spotify.com/track/0P5tXx04B1cB02LDYOaLn3"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
-        "name": "beleszakad",
-        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
-      },
-      "artists": [
-        {
-          "name": "Pand\u00f3ra Projekt",
-          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "beleszakad",
-      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
+      "duration_ms": 198665,
+      "name": "Megbolond\u00edtott\u00e1l",
+      "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "Megbolond\u00edtott\u00e1l",
-        "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
+        "name": "J\u00f6v\u0151tlen",
+        "url": "https://open.spotify.com/album/56lAb6CHWL3KYLQdf05pAT"
       },
       "artists": [
         {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+          "name": "Hang\u00e1csi M\u00e1rton",
+          "url": "https://open.spotify.com/artist/4JyE85JOW4QRzvUaJqQciU"
         }
       ],
-      "duration_ms": 198665,
-      "name": "Megbolond\u00edtott\u00e1l",
-      "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
+      "duration_ms": 137261,
+      "name": "J\u00f6v\u0151tlen",
+      "url": "https://open.spotify.com/track/0P5tXx04B1cB02LDYOaLn3"
     }
   ],
   "unique_name": "Nemazapop",

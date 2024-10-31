@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,635 likes - 76 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,642 likes - 76 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 3 | [Sitaara](https://open.spotify.com/track/2KP8VAuJiugv5UTUYcYSjo) | [Jagdish Chintala](https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC), [Ayaan](https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Shashank Alamuru](https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh) | [Sitaara](https://open.spotify.com/album/1NFMWGcu3uV7TtvNwStETI) | 2:45 |
 | 4 | [Palike Bangarama](https://open.spotify.com/track/3YpyoS5iuxNWf6HpAtoMKU) | [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM), [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH) | [Palike Bangarama](https://open.spotify.com/album/6uDgrSulYlHxXOCl0MT8xF) | 3:57 |
 | 5 | [Fake Friends](https://open.spotify.com/track/5cut2IXPLaYEA4m66TFDiC) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Fake Friends](https://open.spotify.com/album/7IOrnoDVBydJ2TSbbffDRR) | 2:57 |
-| 6 | [Style](https://open.spotify.com/track/19KVxEylhMbJ0tF4HSTZGs) | [Ajay Jayanthi](https://open.spotify.com/artist/3t7ETdfx920byltqt7vKI1), [Prateek Naganatham](https://open.spotify.com/artist/7x5gokOMGW3Ipsyh7AMdQT), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Style](https://open.spotify.com/album/76lV7F4gIKw9rY14cI89FO) | 3:04 |
+| 6 | [Style \- Maati S1](https://open.spotify.com/track/19KVxEylhMbJ0tF4HSTZGs) | [Ajay Jayanthi](https://open.spotify.com/artist/3t7ETdfx920byltqt7vKI1), [Prateek Naganatham](https://open.spotify.com/artist/7x5gokOMGW3Ipsyh7AMdQT), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Style \(Maati S1\)](https://open.spotify.com/album/76lV7F4gIKw9rY14cI89FO) | 3:04 |
 | 7 | [Naa Kannula Mungitlo](https://open.spotify.com/track/0AkJ9Jxl5maFX52ObFimk4) | [Yamini Gowribhatla](https://open.spotify.com/artist/09eHXlBRFrtxi4kSKTnJUl), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Naa Kannula Mungitlo](https://open.spotify.com/album/2bMW2uDJtNrGiHVoWxZ7OA) | 4:25 |
 | 8 | [SIT6](https://open.spotify.com/track/5ndaoJCdoTpy55Hn90OPOF) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Pandurang Mutalik](https://open.spotify.com/artist/05JPHnIGzkOlRHWAClPMzQ) | [SIT6](https://open.spotify.com/album/4hYsvraU5vUtrRMR0rt9Gn) | 4:27 |
 | 9 | [Cheliya](https://open.spotify.com/track/7xclHxsTj8f3dy3Lco3Az6) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Abhiram Lolla](https://open.spotify.com/artist/6j0aLuBGUR4MNx9HAJcrwc) | [Cheliya](https://open.spotify.com/album/58zyOpghhBrhFRud0zubO8) | 3:19 |

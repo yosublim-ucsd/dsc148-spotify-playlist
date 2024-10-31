@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Clarissa Connelly",
-  "num_followers": 1625250,
+  "num_followers": 1625380,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB"
     },
     {
+      "added_at": "2024-07-25 23:48:26",
+      "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 192961,
+      "name": "Bruises Off The Peach",
+      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
+    },
+    {
       "added_at": "2024-09-06 15:55:54",
       "album": {
         "name": "For Sure",
@@ -943,22 +959,6 @@
       "duration_ms": 300432,
       "name": "You And I",
       "url": "https://open.spotify.com/track/248XJMcsowzZrF1APvILhF"
-    },
-    {
-      "added_at": "2024-07-25 23:48:26",
-      "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 192961,
-      "name": "Bruises Off The Peach",
-      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
     },
     {
       "added_at": "2024-07-25 23:48:26",
@@ -1105,20 +1105,20 @@
       "url": "https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk"
     },
     {
-      "added_at": "2024-09-20 04:36:31",
+      "added_at": "2024-10-21 22:43:00",
       "album": {
-        "name": "family and friends",
-        "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
+        "name": "Elevating",
+        "url": "https://open.spotify.com/album/5ewAXFvMgQvO9QhQH9Z8lw"
       },
       "artists": [
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
         }
       ],
-      "duration_ms": 176730,
-      "name": "family and friends",
-      "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
+      "duration_ms": 182985,
+      "name": "Elevating",
+      "url": "https://open.spotify.com/track/7fkEMMSyajfzHz3fBPoQvA"
     },
     {
       "added_at": "2024-07-25 23:48:26",
@@ -1165,20 +1165,20 @@
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
     },
     {
-      "added_at": "2024-10-21 22:43:00",
+      "added_at": "2024-09-20 04:36:31",
       "album": {
-        "name": "Elevating",
-        "url": "https://open.spotify.com/album/5ewAXFvMgQvO9QhQH9Z8lw"
+        "name": "family and friends",
+        "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
       },
       "artists": [
         {
-          "name": "Lonely in the Rain",
-          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
         }
       ],
-      "duration_ms": 182985,
-      "name": "Elevating",
-      "url": "https://open.spotify.com/track/7fkEMMSyajfzHz3fBPoQvA"
+      "duration_ms": 176730,
+      "name": "family and friends",
+      "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
     },
     {
       "added_at": "2024-07-25 23:48:26",

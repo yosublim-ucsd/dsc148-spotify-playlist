@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Me Canso Ganso",
+        "url": "https://open.spotify.com/album/4ZBaYIEFWuf0OO3znCifyA"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195326,
+      "name": "Me Canso Ganso",
+      "url": "https://open.spotify.com/track/1bgUJSTzLGPH9jBAKqVEpz"
+    },
+    {
+      "album": {
         "name": "Mi Lechita Mam\u00e1",
         "url": "https://open.spotify.com/album/68ito3ueML8rxZOtfAG98y"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover:  Jeff Lamb
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,846 likes - 106 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,023 likes - 106 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 15 | [Get It From You](https://open.spotify.com/track/40AFA40AIpZz4w8w7qMlFE) | [roman around](https://open.spotify.com/artist/18pfB891JbZKKn0bCueMvY) | [The Toll of Unconditional Love](https://open.spotify.com/album/0gYNjuUvV8g8rGZszU2PON) | 3:31 |
 | 16 | [Matchstick](https://open.spotify.com/track/6TPAncYSpDjtG2o5gYV93X) | [Hank Heaven](https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf) | [Matchstick](https://open.spotify.com/album/7s1BvjgslY5CaFdhAc6pBh) | 3:19 |
 | 17 | [Range](https://open.spotify.com/track/28whIVpag49bP1GVhALRS0) | [Stephen Becker](https://open.spotify.com/artist/7FCkbxma6Ih561lCVJIrlq) | [Range](https://open.spotify.com/album/2E4ybC2rF5j5h6ZKTGhtpW) | 4:02 |
-| 18 | [RADIO INTERRUPTIONS ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 |
+| 18 | [RADIO INTERRUPTION ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 |
 | 19 | [Afternoons \(emory remix\)](https://open.spotify.com/track/6kis0Xg4yoiC9jY0jT1KWJ) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS), [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [You Could Stay In One Spot, and I’d Love You The Same \(Deluxe\)](https://open.spotify.com/album/4yqK0jpYVi4vgSLfscpNIf) | 2:41 |
 | 20 | [Ultraviolet](https://open.spotify.com/track/6DMxLT4C2n1Iilvb6a01Ic) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Ultraviolet](https://open.spotify.com/album/5nxiqAwXcEsBkKmsouCMKk) | 3:17 |
 | 21 | [face to face](https://open.spotify.com/track/1faZdE6q27lJH2GnhFuhBP) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [face to face](https://open.spotify.com/album/76lVUNdjwPIhsQTMJrzmMn) | 3:01 |

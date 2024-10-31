@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Momma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,367 likes - 127 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,442 likes - 127 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 108 | [allison](https://open.spotify.com/track/1uATR41sC0AYpjhMG1MJmM) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [allison](https://open.spotify.com/album/7aHnHaze6kWryj7EFWZBma) | 3:01 |
 | 109 | [Bleeding Out](https://open.spotify.com/track/34pz84YLiruFe7K20HE0a1) | [Dylan Cotrone](https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU) | [Bleeding Out](https://open.spotify.com/album/7IMogO4r3fIOwrESxdxQND) | 2:00 |
 | 110 | [REPTILIAN](https://open.spotify.com/track/1KOAG6KxLh30RtqM31rjsI) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [F.I.L.T.H.](https://open.spotify.com/album/4k5z8ssWpDmFuPdz73iNtV) | 2:27 |
-| 111 | [Final Nail](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 |
+| 111 | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 |
 | 112 | [Good Vibrations \- Radio Edit](https://open.spotify.com/track/4psAwJ6lXrgE1iHUX0CYvY) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Wes Borland](https://open.spotify.com/artist/3Uzo5Y5sjGlwxNjfZDtGLF) | [Good Vibrations \(Radio Edit\)](https://open.spotify.com/album/3rSvc4M3uJiAupLtmnTy6L) | 3:42 |
 | 113 | [Paper Cuts](https://open.spotify.com/track/7nY3CZV7HTHJa2MpDPJDmo) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Sink Your Teeth](https://open.spotify.com/album/6NyO1yc1mnts9THdkEQATz) | 3:30 |
 | 114 | [This Time](https://open.spotify.com/track/7pRl0Q9w1UEfl2PzmNt2oC) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [This Time](https://open.spotify.com/album/0hLb63Y2ltYj3NpXX4DM6M) | 3:54 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx7UAAAAAABUAxQ2EaUZD6wuiXix7Udp",
+  "snapshot_id": "ZyAlgAAAAADHQ56LY5AJfc2F1OfU1KH/",
   "tracks": [
     {
       "added_at": null,
@@ -803,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
+        "name": "Rage Unplugged",
+        "url": "https://open.spotify.com/album/0uw8iYxkyP0pZJRkwvrr6i"
       },
       "artists": [
+        {
+          "name": "Eric Slick",
+          "url": "https://open.spotify.com/artist/5odtYnxUvkfTC6wmwR53aI"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 268053,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
+      "duration_ms": 216493,
+      "name": "The Moment - Acoustic",
+      "url": "https://open.spotify.com/track/5TL9oxmDIsT0KIFEvAZo5n"
     },
     {
       "added_at": null,
@@ -835,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 268053,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No One Else To Blame",
         "url": "https://open.spotify.com/album/4RrYiD9kEUbyPYaWBmgVy8"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 182480,
       "name": "No One Else To Blame",
       "url": "https://open.spotify.com/track/3tICJ9T0zJHV9NRakK8PHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rage Unplugged",
-        "url": "https://open.spotify.com/album/0uw8iYxkyP0pZJRkwvrr6i"
-      },
-      "artists": [
-        {
-          "name": "Eric Slick",
-          "url": "https://open.spotify.com/artist/5odtYnxUvkfTC6wmwR53aI"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 216493,
-      "name": "The Moment - Acoustic",
-      "url": "https://open.spotify.com/track/5TL9oxmDIsT0KIFEvAZo5n"
     },
     {
       "added_at": null,

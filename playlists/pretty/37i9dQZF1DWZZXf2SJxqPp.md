@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,095 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,101 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 41 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
 | 42 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 |
 | 43 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 |
-| 44 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 |
-| 45 | [Told You So](https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK) | [Cameo Culture](https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh) | [Burning Bright](https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih) | 5:04 |
+| 44 | [Told You So](https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK) | [Cameo Culture](https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh) | [Burning Bright](https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih) | 5:04 |
+| 45 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 |
 | 46 | [How Much \(You Want Her\) 2017](https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Rust & Gold](https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU) | 3:40 |
 | 47 | [Profite \- Kazy Lambist Remix](https://open.spotify.com/track/7fbdTbr12vcmJhWgp58dvO) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW), [Antoine Lartigue](https://open.spotify.com/artist/5XAKNFhA5yCx6rdbWAsbtd), [Simon Berard](https://open.spotify.com/artist/6HR09922Xdqqnv6OKLeTRO), [Loïc Lassablière](https://open.spotify.com/artist/2Z0Eh6F3CbtFaYfxaBVMGj), [Babil Lachheb](https://open.spotify.com/artist/2oNBkWyfvINaEBFIhTHIxW), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Profite \(Remixes\)](https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6) | 3:18 |
 | 48 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 91 | [El Sabor del Viejo Mar](https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [El Sabor del Viejo Mar](https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1) | 4:23 |
 | 92 | [Station Romance](https://open.spotify.com/track/5sh4Ro1zrlpTrh07dVDTIn) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Station Romance](https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV) | 7:39 |
 | 93 | [Don't Stop Me Now](https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd) | [Nathan Behrens](https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc) | [Don't Stop Me Now](https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1) | 3:28 |
-| 94 | [L'amour, l'amour, l'amour](https://open.spotify.com/track/1wMjKNDoHNZxTfPlGTfPA5) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [L'amour, l'amour, l'amour](https://open.spotify.com/album/6oj9nooSiowSdAl3Qhg66u) | 3:08 |
-| 95 | [Souda Bay](https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb) | [DJ Telefkas](https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8) | [Souda Bay](https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt) | 3:30 |
+| 94 | [Souda Bay](https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb) | [DJ Telefkas](https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8) | [Souda Bay](https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt) | 3:30 |
+| 95 | [L'amour, l'amour, l'amour](https://open.spotify.com/track/1wMjKNDoHNZxTfPlGTfPA5) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [L'amour, l'amour, l'amour](https://open.spotify.com/album/6oj9nooSiowSdAl3Qhg66u) | 3:08 |
 | 96 | [Shut Down](https://open.spotify.com/track/4voScCHrWmAGe5iAHrFMmk) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Last Dream](https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9) | 4:02 |
-| 97 | [Zaim](https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4) | [Butia](https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h) | [Zaim](https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU) | 3:56 |
-| 98 | [Fou de toi](https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K) | [Looking for the Sea](https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z) | 3:33 |
+| 97 | [Fou de toi](https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K) | [Looking for the Sea](https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z) | 3:33 |
+| 98 | [Zaim](https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4) | [Butia](https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h) | [Zaim](https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU) | 3:56 |
 | 99 | [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 |
-| 100 | [Backdrops](https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp) | [Walientinho](https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or) | [Backdrops](https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC) | 3:06 |
+| 100 | [Lupino](https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0) | [Magnofield](https://open.spotify.com/artist/4wNM69xY7xVOi8WK46t4tT) | [Lupino](https://open.spotify.com/album/6LNyTa0FtB9YYohiEACjhW) | 3:20 |
 
 Snapshot ID: `ZwdHWgAAAABrEkfn5WTwwitqe9lVjUMp`

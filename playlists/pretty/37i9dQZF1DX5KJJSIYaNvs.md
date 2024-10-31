@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Shreya Ghoshal & Sunidhi Chauhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,547 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,560 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chhaila](https://open.spotify.com/track/5AI0ggBid3MhMhsFQDyRwk) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Chhaila](https://open.spotify.com/album/7jt9ta30emHh5myR2YButg) | 3:50 |
+| 1 | [Chhaila \(From "Bhoomi 2024"\)](https://open.spotify.com/track/5AI0ggBid3MhMhsFQDyRwk) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Chhaila \(From "Bhoomi 2024"\)](https://open.spotify.com/album/7jt9ta30emHh5myR2YButg) | 3:50 |
 | 2 | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/album/2P2orRpVU0F2Z1HGTi7AiS) | 3:48 |
 | 3 | [Sajna Ve Sajna \(From "Vicky Vidya Ka Woh Wala Video"\)](https://open.spotify.com/track/2EFi7ey45Za7sxgRZWdmWd) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5), [White Noise Collectives](https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Sajna Ve Sajna \(From "Vicky Vidya Ka Woh Wala Video"\)](https://open.spotify.com/album/4B7opkgPTtlTieFAoJ22u6) | 3:04 |
 | 4 | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW) | 4:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 79 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 79 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 11 | [Spend It](https://open.spotify.com/track/2L92bpT2vGWnvsFvnJMvM8) | [Dae Dae](https://open.spotify.com/artist/41LfjfTCcTCUdykJqNyFw8) | [Spend It](https://open.spotify.com/album/4Rk0pkogoaHVtCMTNU5aV0) | 3:27 |
 | 12 | [Thot Box \(Remix\) \[feat\. Young MA, Dreezy, Latto, DreamDoll, Chinese Kitty\]](https://open.spotify.com/track/1XhNV4snLHYwZVeaUoT0R3) | [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l), [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Thot Box \(Remix\) \[feat\. Young MA, Dreezy, Latto, DreamDoll, Chinese Kitty\]](https://open.spotify.com/album/1RNzlYmBepniA5kndpAbcb) | 3:01 |
 | 13 | [Move Like a Boss \(feat\. Young M.A\)](https://open.spotify.com/track/3T3SeUjR8NhTzSE3NSDxkK) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Move Like a Boss \(feat\. Young M.A\)](https://open.spotify.com/album/5sYO0qm9aoDF76AkcmG9Ez) | 2:55 |
-| 14 | [Stubborn Ass](https://open.spotify.com/track/1Rbd7I1oCXx4LIIRtlykSE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:20 |
-| 15 | [Trap or Cap](https://open.spotify.com/track/04WcxfTz7qwm2DZ1F3bTTt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:21 |
+| 14 | [Trap or Cap](https://open.spotify.com/track/04WcxfTz7qwm2DZ1F3bTTt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:21 |
+| 15 | [Stubborn Ass](https://open.spotify.com/track/1Rbd7I1oCXx4LIIRtlykSE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:20 |
 | 16 | [Bad Bitch Anthem](https://open.spotify.com/track/0pq5dsJfIhJ7G5jMWcl5GP) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 2:39 |
 | 17 | [She Like I'm Like](https://open.spotify.com/track/2W2txJXyjPO61rD7xAxwAp) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:11 |
 | 18 | [HennyNHoes](https://open.spotify.com/track/4zcIlqs1iK1ZVnPfgl2TNv) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 2:43 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 78 | [Trim](https://open.spotify.com/track/3jYjgpmhz8QhvREcSzeWMc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trim](https://open.spotify.com/album/4f6ckq0JBmR4SzzZIlHhAn) | 3:25 |
 | 79 | [Money Counter](https://open.spotify.com/track/6RWGBw7EvCEtRunRQSMqP2) | [DJ Megan Ryte](https://open.spotify.com/artist/74ZbNtN0o4zPxTZpaWV4Q1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [DJ Megan Ryte](https://open.spotify.com/album/4eKwiwwSHFfsrgjxGzHdd3) | 2:48 |
 
-Snapshot ID: `AbgG9AAAAADG881AuxI7Nd3RzqQDcUvz`
+Snapshot ID: `AbgNDAAAAAAD53F74AZrdEjos/UZfTwm`

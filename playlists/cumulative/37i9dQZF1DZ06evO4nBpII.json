@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 144626,
       "name": "2000 Light Years Away",
       "url": "https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI"
@@ -632,6 +632,24 @@
       "duration_ms": 135293,
       "name": "Geek Stink Breath",
       "url": "https://open.spotify.com/track/4mI4HF4OVBg3tl2IWzSaoX"
+    },
+    {
+      "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206004,
+      "name": "Give Me Novacaine",
+      "url": "https://open.spotify.com/track/1usftPV8tzkWQmjwofR2ke"
     },
     {
       "album": {

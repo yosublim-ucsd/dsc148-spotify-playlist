@@ -2709,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Infinite Icon",
+        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Stay Young",
+      "url": "https://open.spotify.com/track/3rUevPDCsGVbgJW2dOYnHj"
+    },
+    {
+      "album": {
         "name": "Reflection (Japan Deluxe Edition)",
         "url": "https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI"
       },

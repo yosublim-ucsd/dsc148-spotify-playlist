@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Süßes sonst gibt's Saures! 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,132 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,522 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 45 | [Monster & Zombies \(mit Junge\)](https://open.spotify.com/track/3GavNDotWsTxNMJ2Sd8nV5) | [Gorilla Club](https://open.spotify.com/artist/4hAPuIu9SQSwlbRODKdmUz) | [Gorilla Club 1\-2\-3\-4!](https://open.spotify.com/album/7qsecPhwdbB236OPCRcS36) | 2:44 |
 | 46 | [Flattermaus](https://open.spotify.com/track/1P2KltPsS5Y2uC06zMgdtS) | [Die schwarzen Tasten \(mit Tobias Siebert von Klez.e\)](https://open.spotify.com/artist/2zebFEEqLv5mUOhyU7KWvn) | [Unter meinem Bett 4](https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4) | 4:30 |
 | 47 | [Monsterparty](https://open.spotify.com/track/0EBbhEhkxnz4Wvy7A5RP2c) | [Anton](https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte) | [ertappt](https://open.spotify.com/album/1PGo84U9SPdOiHJVTlgciU) | 2:30 |
-| 48 | [Dracula \- Remastered 2004](https://open.spotify.com/track/2qNDy6bmZyVnWJS8UeqbtA) | [Iris Gruttmann](https://open.spotify.com/artist/7ePL5iRMTwMrgA6DyFDA4l) | [Das große Felix Liederalbum 2](https://open.spotify.com/album/6UCseiCljsu6wn0tQuT5sq) | 4:49 |
-| 49 | [Wenn die Fledermäuse tanzen](https://open.spotify.com/track/4MeA9SGzhfPXmwYOJGolZo) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena Und Die Bambus Bären Bande](https://open.spotify.com/album/5zMipqCNwLqTYXMSo3qJpa) | 2:42 |
+| 48 | [Wenn die Fledermäuse tanzen](https://open.spotify.com/track/4MeA9SGzhfPXmwYOJGolZo) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena Und Die Bambus Bären Bande](https://open.spotify.com/album/5zMipqCNwLqTYXMSo3qJpa) | 2:42 |
+| 49 | [Dracula \- Remastered 2004](https://open.spotify.com/track/2qNDy6bmZyVnWJS8UeqbtA) | [Iris Gruttmann](https://open.spotify.com/artist/7ePL5iRMTwMrgA6DyFDA4l) | [Das große Felix Liederalbum 2](https://open.spotify.com/album/6UCseiCljsu6wn0tQuT5sq) | 4:49 |
 | 50 | [Halloween](https://open.spotify.com/track/7m39SmkQUZvFwcqsbeoiyV) | [GroßstadtEngel](https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG) | [Halloween](https://open.spotify.com/album/4cRPlJQgUtC5Gdnq9IeYIL) | 3:33 |
 | 51 | [Mo\-Mo\-Monster](https://open.spotify.com/track/47r3zekBd9J7z9NZkw3Cmm) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für Halloween](https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji) | 2:31 |
 | 52 | [Hexentanz](https://open.spotify.com/track/1neJ0rILtJuhFx6qFQM14S) | [Kinderchor Canzonetta Berlin](https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R), [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Schau meine Hexe: Die schönsten Hexenlieder](https://open.spotify.com/album/0JEGG0YOqBir077LMClwRp) | 3:03 |
 | 53 | [Süßes oder Saures](https://open.spotify.com/track/0GyexL03XUTTS6ZTvA0yhE) | [Frank und seine Freunde](https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y), [Heaven](https://open.spotify.com/artist/1RK4OMEBHGTo020SOfEeUp) | [Beste Freunde](https://open.spotify.com/album/1lOIwXJTrg3ql9gA886XRn) | 4:34 |
-| 54 | [Der Geisterbahnkartenverkäufer](https://open.spotify.com/track/00AslKYgiZV4874OTzIM7V) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH) | [Für Alle!](https://open.spotify.com/album/1qeC46YljMqrPYpc7oFHB4) | 3:23 |
-| 55 | [Drei kleine Hexen](https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T) | [Rainer Wenzel](https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh) | [Au Backe!](https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I) | 2:48 |
+| 54 | [Drei kleine Hexen](https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T) | [Rainer Wenzel](https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh) | [Au Backe!](https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I) | 2:48 |
+| 55 | [Der Geisterbahnkartenverkäufer](https://open.spotify.com/track/00AslKYgiZV4874OTzIM7V) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH) | [Für Alle!](https://open.spotify.com/album/1qeC46YljMqrPYpc7oFHB4) | 3:23 |
 | 56 | [Die Mumie](https://open.spotify.com/track/7j2XZGP8gc8Yx0JWUwj5vs) | [Randale](https://open.spotify.com/artist/4W5SdFkLM45RQ1cD09LfjN) | [Die Mumie](https://open.spotify.com/album/3ul7iuQaVi85FwdXHAcBBI) | 3:55 |
 | 57 | [Monster sind furchtbar](https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9) | [Lauras Stern](https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD) | [Und die Traummonster \(Das Liederalbum zum Kinofilm\)](https://open.spotify.com/album/5rOYhAMUVFcoQSSRvhzEGe) | 3:28 |
 | 58 | [Halloweenparty im Kinderhaus](https://open.spotify.com/track/1YfNhJPhbmjhYsAfWU580m) | [Bettina Göschl](https://open.spotify.com/artist/2251fylYeBdwEiMHin6jeA), [Ulrich Maske](https://open.spotify.com/artist/1sW5adZ5VrzGmAZMIY0VSG), [Klaus\-Peter Wolf](https://open.spotify.com/artist/4uJ3i5zuKgoTPuz0pSZreo), [Matthias Meyer\-Göllner](https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC) | [Wir tanzen mit den Drachen im Wind \(Lieder, Geschichten und Gedichte zur Herbstzeit\)](https://open.spotify.com/album/1q5GB9X82GVAQTrTYVghkU) | 2:13 |

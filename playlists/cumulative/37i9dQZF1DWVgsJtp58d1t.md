@@ -2,7 +2,7 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> All Black like the cover of Essence\. Cover: <a href="spotify:artist:7sP4SQ0WY6jfps1I19Ot7i">Fridayy</a>
+> All Black like the cover of Essence\. Cover: <a href="spotify:artist:6qgnBH6iDM91ipVXv28OMu">KAYTRANADA</a>
 
 3,919 songs - 8 day 5 hr 35 min
 

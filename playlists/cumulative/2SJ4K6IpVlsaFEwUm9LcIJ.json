@@ -1929,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Give it Back",
+        "url": "https://open.spotify.com/album/3qkkYie1eINh4qk4XJUzEW"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401125,
+      "name": "Give it Back",
+      "url": "https://open.spotify.com/track/7y7GePCjc1mqoLAvbjmAvK"
+    },
+    {
+      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
       },
@@ -2326,6 +2344,24 @@
       "duration_ms": 206931,
       "name": "How To Teleport",
       "url": "https://open.spotify.com/track/45oY7hPnh7KvH7lGfVehsb"
+    },
+    {
+      "album": {
+        "name": "I'm the One You Love...",
+        "url": "https://open.spotify.com/album/4KhCaWzxeX8qIMlv6Xpwc0"
+      },
+      "artists": [
+        {
+          "name": "The Motifs",
+          "url": "https://open.spotify.com/artist/4DMtkuaW5UoOXwNLJey0r3"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156995,
+      "name": "How Will We Turn Out?",
+      "url": "https://open.spotify.com/track/4ERRwUZX0RlrRqOfsZdCJE"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Cho Yong Pil(\uc870\uc6a9\ud544)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kim Dong Ryul(\uae40\ub3d9\ub960)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 221946,
       "name": "Dear",
       "url": "https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9"
@@ -3556,6 +3556,24 @@
       "duration_ms": 234069,
       "name": "Honest",
       "url": "https://open.spotify.com/track/6DzDRbPXIOajCimqmqSzfm"
+    },
+    {
+      "album": {
+        "name": "746 - The 1st Album",
+        "url": "https://open.spotify.com/album/1CjtCdzlNuBj9wxIJJEeAZ"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165093,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/7c8SxUnmm12ihKXN28lrHU"
     },
     {
       "album": {
@@ -5831,6 +5849,24 @@
     },
     {
       "album": {
+        "name": "CLICH\u00c9",
+        "url": "https://open.spotify.com/album/7piEh9immnLWa85U4uh5Gz"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255906,
+      "name": "Monologue (Acoustic Version)",
+      "url": "https://open.spotify.com/track/7pTxVFyoJq4jv2kCdxhj68"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ"
       },
@@ -6156,7 +6192,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 283186,
       "name": "Nameless",
       "url": "https://open.spotify.com/track/43DGpdzL6un8gtOVbyRsld"
@@ -6698,7 +6734,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
@@ -7830,6 +7866,24 @@
       "duration_ms": 240773,
       "name": "Still Yours",
       "url": "https://open.spotify.com/track/6pRvEUhwOX3s6jcJeGumML"
+    },
+    {
+      "album": {
+        "name": "Stroll",
+        "url": "https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306733,
+      "name": "Stroll",
+      "url": "https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK"
     },
     {
       "album": {

@@ -6,8 +6,32 @@
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHiG6Fc53NSa9/2jNFWwxXt2lAtuEX",
+  "snapshot_id": "AAAHjL19IP8e0uE89rR0sONqFu3JjDsJ",
   "tracks": [
+    {
+      "added_at": "2024-10-30 13:33:09",
+      "album": {
+        "name": "Merci",
+        "url": "https://open.spotify.com/album/6elZDCjnrPGBvIVfdKYLDw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "duration_ms": 206346,
+      "name": "Berceuse, Op. 16",
+      "url": "https://open.spotify.com/track/4FwIwI5NGVUP4DrPwrweMz"
+    },
     {
       "added_at": "2024-10-16 13:40:07",
       "album": {
@@ -43,6 +67,42 @@
       "duration_ms": 152746,
       "name": "The Heart Asks Pleasure First",
       "url": "https://open.spotify.com/track/62iBffOFF4zXLVYnPWqquo"
+    },
+    {
+      "added_at": "2024-10-30 13:34:34",
+      "album": {
+        "name": "Respiro 5",
+        "url": "https://open.spotify.com/album/34y2HYWG7ISiYQoa1hJU1W"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 141041,
+      "name": "Respiro 5",
+      "url": "https://open.spotify.com/track/0j0HOYUKuufklmuzsyXdtA"
+    },
+    {
+      "added_at": "2024-10-30 13:36:10",
+      "album": {
+        "name": "Bavaria",
+        "url": "https://open.spotify.com/album/3bgV7saRotc51WR0hpZD5d"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        },
+        {
+          "name": "Seeger Saitenmusik",
+          "url": "https://open.spotify.com/artist/49vNlUzHXtsMN8wkP7mnRb"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Bavaria",
+      "url": "https://open.spotify.com/track/0bOMuuNQqTAYtF66blkwUF"
     },
     {
       "added_at": "2024-10-16 13:30:22",
@@ -119,6 +179,22 @@
       "duration_ms": 157666,
       "name": "Abendlied",
       "url": "https://open.spotify.com/track/5k9dKkIkRoQ4GrVTFIYAyR"
+    },
+    {
+      "added_at": "2024-10-30 13:34:52",
+      "album": {
+        "name": "Blackbirds and the Sun of October",
+        "url": "https://open.spotify.com/album/6yAbi2JXGfbQFRUPcBTi79"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "duration_ms": 272003,
+      "name": "Blackbirds and the Sun of October",
+      "url": "https://open.spotify.com/track/2UC0Gw9ltAjH738AhEtWgw"
     },
     {
       "added_at": "2024-10-16 13:31:01",

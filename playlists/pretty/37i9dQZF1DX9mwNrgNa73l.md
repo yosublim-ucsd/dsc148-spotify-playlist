@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,949 likes - 72 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,996 likes - 72 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 19 | [Bhar Do Jholi Meri](https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 8:19 |
 | 20 | [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/track/05rGKExmwZcwIvia1YVr8C) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/album/45xKWqxlWWRdb3rk3jHjHz) | 8:44 |
 | 21 | [Khabram Raseed Imshab](https://open.spotify.com/track/7DCNxzlo5IPcMRxo7ac8JP) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 11:28 |
-| 22 | [Allah Ke Pyaare Nabi](https://open.spotify.com/track/1GIS9zEABZ38gTcj9a6nvz) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Allah Ke Pyaare Nabi](https://open.spotify.com/album/4zY0wj0LYdVETMqTuTfnFY) | 4:55 |
+| 22 | [Allah Ke Pyaare Nabi \(From "Bhoomi 2024"\)](https://open.spotify.com/track/1GIS9zEABZ38gTcj9a6nvz) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Allah Ke Pyaare Nabi \(From "Bhoomi 2024"\)](https://open.spotify.com/album/4zY0wj0LYdVETMqTuTfnFY) | 4:55 |
 | 23 | [Bhar Do Jholi Meri](https://open.spotify.com/track/5etuDMYaAMqK2mREqcTpep) | [Sabri Brothers](https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI) | [50 Greatest Sufi Hits](https://open.spotify.com/album/0Zk3ZjRiCKB0wizNHmm7CI) | 19:53 |
 | 24 | [Sanu Ek Pal Chain Na Aawe](https://open.spotify.com/track/46QBWRo5ar8B3pGjgAOANI) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [30 Greatest Hits Rahat and Nusrat Fateh Ali Khan](https://open.spotify.com/album/3NGs9Qp17dqWazKfqrkZMs) | 12:45 |
 | 25 | [Noor E Khuda](https://open.spotify.com/track/0tY8ZIArzjkH6dbXp42ohg) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa) | 6:37 |

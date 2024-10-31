@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,733 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,739 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 27 | [ひとりごと](https://open.spotify.com/track/3QfXAbk4kib1WfdZFyNA5i) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [ひとりごと](https://open.spotify.com/album/5wF4or7vHssoYx4xMFd0m3) | 2:27 |
 | 28 | [hope](https://open.spotify.com/track/6yo55ZNOunB9i6DefU38fa) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [意地](https://open.spotify.com/album/0DplxxtXVyi6xLp8y4k46k) | 3:48 |
 | 29 | [愛に恋](https://open.spotify.com/track/0cSENaLujJL9pWl2HJddpm) | [雨と理科室](https://open.spotify.com/artist/70O6uc9xfAcqaFqLjCaXU2) | [愛に恋](https://open.spotify.com/album/05EPQQXs7J7FMSqogilrl2) | 2:54 |
-| 30 | [If You](https://open.spotify.com/track/5gQgBqxs8rVEIob3S954SV) | [峰清](https://open.spotify.com/artist/52rJAjMjyHHV4fQds4PBmt) | [If You](https://open.spotify.com/album/4JnER6rfzr5glC3yY9eGQe) | 4:21 |
+| 30 | [If You](https://open.spotify.com/track/5gQgBqxs8rVEIob3S954SV) | [峰清](https://open.spotify.com/artist/4VjS1iEsHgVYyQ73dMqZYt) | [If You](https://open.spotify.com/album/4JnER6rfzr5glC3yY9eGQe) | 4:21 |
 | 31 | [ねこぜ](https://open.spotify.com/track/1r8nJq5fts70IXtcJ6bspz) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ねこぜ](https://open.spotify.com/album/0BqMxJ7ZEekEIry8kQLinC) | 3:23 |
 | 32 | [三千世界](https://open.spotify.com/track/2QK5LIhNmDeKkRomo5Rgae) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [三千世界](https://open.spotify.com/album/34ZkPS3xKOZZttBDgYuSZ5) | 4:55 |
 | 33 | [ティーンエイジブルー](https://open.spotify.com/track/1VX0XkhIHTO2CuZo1FbYp6) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ティーンエイジブルー](https://open.spotify.com/album/4LDyey8znnd2Y6jLr5Vjtj) | 3:45 |

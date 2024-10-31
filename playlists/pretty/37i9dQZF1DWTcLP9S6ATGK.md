@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: SAMSONS
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,002 likes - 110 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,008 likes - 110 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 99 | [Selesai](https://open.spotify.com/track/3V7Br8sR2JdSXkLgGtPYDz) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Selesai](https://open.spotify.com/album/1gwNHxgYWZLoPi2K9aWcaQ) | 4:19 |
 | 100 | [Bintang Cahaya](https://open.spotify.com/track/2zipmLRR46pFWwBfsAzytp) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj), [Cacha Scholastica](https://open.spotify.com/artist/4lA0kkdCi2U5KxSq49dvMO), [GFRN](https://open.spotify.com/artist/6R8uzu1AcNhc7IgwzCqSsP) | [Bintang Cahaya](https://open.spotify.com/album/4fQUIAiCWb9KThUR7bm1G9) | 3:36 |
 | 101 | [Mengenal Lebih Jauh](https://open.spotify.com/track/3SnTh7hIYJzB4J6zyJ17OA) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Mengenal Lebih Jauh](https://open.spotify.com/album/5FXGHXWAcNMvgjfEzNb5eT) | 3:48 |
-| 102 | [Wahai Tuan](https://open.spotify.com/track/5MNUpUqsp1pj8rpQrktIg1) | [Bunga Reyza](https://open.spotify.com/artist/2nrrmd4fE5DMWinkBZ0xX7) | [Wahai Tuan](https://open.spotify.com/album/7mzOdhe8Huo3uWF2RIJ6Kz) | 3:14 |
+| 102 | [Wahai Tuan](https://open.spotify.com/track/5MNUpUqsp1pj8rpQrktIg1) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ) | [Wahai Tuan](https://open.spotify.com/album/7mzOdhe8Huo3uWF2RIJ6Kz) | 3:14 |
 | 103 | [Mungkin Belum Sekarang \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4yrsCwGmG5SqraKGoHwE53) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Mungkin Belum Sekarang \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Tz9cik7fBpYXrDemIH7S5) | 3:57 |
 | 104 | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck) | 4:11 |
 | 105 | [Siapa yang Salah](https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [\(Masih\) Kalah](https://open.spotify.com/album/6r2HtvSWwhAU4b74a3OcT3) | 2:58 |

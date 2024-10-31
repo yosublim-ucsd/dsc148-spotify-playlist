@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 1,473 likes - 90 songs - 5 hr 14 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 1,476 likes - 90 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 75 | [The Punch!](https://open.spotify.com/track/1vo9EPWmPSw0AgEVRvvo8O) | [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [KESSWA](https://open.spotify.com/artist/3PY0VHvnfFPNkUug7STno3) | [Cherry Blossom Baby](https://open.spotify.com/album/12nrw3ZgVqiLe9TnEmkQ4n) | 5:28 |
 | 76 | [EN](https://open.spotify.com/track/1cDM28OPcb56s1EwR14QcY) | [Shoko Igarashi](https://open.spotify.com/artist/0rhogygCtWJLauB3rYvQsK) | [EN](https://open.spotify.com/album/0vbE2BL3VyKeHB1JuaeogS) | 4:13 |
 | 77 | [wish u well](https://open.spotify.com/track/4TZOVk3IPsfYQTiCGyRauf) | [Shower Curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:33 |
-| 78 | [Immaculate \(feat\. Saweetie\)](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate \(feat\. Saweetie\)](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 |
+| 78 | [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 |
 | 79 | [Love Enemy](https://open.spotify.com/track/1w8l4gl6K6f058btfRUVj8) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Love Enemy](https://open.spotify.com/album/4MKGeejGJTYDZFHSDvK1od) | 3:42 |
 | 80 | [Troll 3](https://open.spotify.com/track/2bR3GRz4xQtYb55C5LC39q) | [Sleeping Bag](https://open.spotify.com/artist/2Sq6b9s05OcV3UvAL7wjDa) | [Beam Me Up](https://open.spotify.com/album/5mQqFV8g4b16z3xgKIgpBI) | 2:01 |
 | 81 | [Driver](https://open.spotify.com/track/7n8Q0KwanjDMOiqejTb8lI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Evergreen](https://open.spotify.com/album/1IN1QBfV9tNR6fFgR7PsUl) | 4:12 |

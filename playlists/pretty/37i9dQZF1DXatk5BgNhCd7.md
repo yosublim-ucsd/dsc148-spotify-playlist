@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Zoe Gotusso
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,279 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,308 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 29 | [MUJERIEGO](https://open.spotify.com/track/45EsIB5oG5gZMNpRsfo1ku) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [MUJERIEGO](https://open.spotify.com/album/28jEMEOFx4BFa7PnG7Pyvt) | 3:16 |
 | 30 | [A la luz de la luna](https://open.spotify.com/track/4b9ZJYE4He1r2aH9aVs76I) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Si molesto, os vais](https://open.spotify.com/album/41EFYkiiDgiOg44Ekx2fg0) | 4:11 |
 | 31 | [mambito sad](https://open.spotify.com/track/53qo3hf3z9SjH1CMUzoZ8G) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [veranito no tan sad](https://open.spotify.com/album/6l1WzgkRvPkAOTzV2GLBxi) | 2:18 |
-| 32 | [La vida sigue igual](https://open.spotify.com/track/1cnWAIoczrQKm4HnZLMg3e) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Álvaro Tadeo](https://open.spotify.com/artist/4lFL1u6Cu3OxFe5idzZjJg) | [Algo de Mí](https://open.spotify.com/album/75AI3e3A7m8XU74z4Epgov) | 4:34 |
+| 32 | [La vida sigue igual](https://open.spotify.com/track/1cnWAIoczrQKm4HnZLMg3e) | [Álvaro Tadeo](https://open.spotify.com/artist/4lFL1u6Cu3OxFe5idzZjJg) | [Algo de Mí](https://open.spotify.com/album/75AI3e3A7m8XU74z4Epgov) | 4:34 |
 | 33 | [Pa´Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pa´ Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC) | 2:52 |
 | 34 | [Princesa](https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa](https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC) | 2:46 |
 | 35 | [Contigo](https://open.spotify.com/track/1snWQ8fSjZvsRGAkZi8oV5) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Contigo](https://open.spotify.com/album/1dCMBfYszbdOFuVoqhMFli) | 2:44 |

@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 48104,
+  "num_followers": 48119,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx7UAAAAAAD8+d5jqHb6ij9VWbUDu4cq",
+  "snapshot_id": "ZyAlgAAAAAA7SNobN+L8CmgXCpep3ET5",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Mueran de Envidia",
-        "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 214038,
-      "name": "Que Se Mueran de Envidia",
-      "url": "https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Decretos",
         "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 176666,
       "name": "Quisiera Ser Un Mago",
       "url": "https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Se Mueran de Envidia",
+        "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 214038,
+      "name": "Que Se Mueran de Envidia",
+      "url": "https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hola Mi Amor (Version Banda)",
         "url": "https://open.spotify.com/album/33CX3GLSZlALBIkTeVQWDR"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 181816,
       "name": "Hola Mi Amor (Version Banda)",
       "url": "https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
     },
     {
       "added_at": null,

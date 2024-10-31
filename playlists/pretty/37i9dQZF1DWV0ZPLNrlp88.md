@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,017 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,022 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 31 | [My Mutant Ride \(feat\. 柴田聡子 & TAKU INOUE\)](https://open.spotify.com/track/7DdebbwGivllBhtFLpzWMA) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [My Mutant Ride \(feat\. 柴田聡子 & TAKU INOUE\)](https://open.spotify.com/album/7oz9fCuT7KZb32fn3d1j0C) | 3:03 |
 | 32 | [三千世界](https://open.spotify.com/track/2QK5LIhNmDeKkRomo5Rgae) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [三千世界](https://open.spotify.com/album/34ZkPS3xKOZZttBDgYuSZ5) | 4:55 |
 | 33 | [illusion](https://open.spotify.com/track/6m53DkRrzvS8oZWHs9oiz0) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [illusion](https://open.spotify.com/album/0wimYbq1Bt4h831oilomYX) | 2:49 |
-| 34 | [If You](https://open.spotify.com/track/5gQgBqxs8rVEIob3S954SV) | [峰清](https://open.spotify.com/artist/52rJAjMjyHHV4fQds4PBmt) | [If You](https://open.spotify.com/album/4JnER6rfzr5glC3yY9eGQe) | 4:21 |
+| 34 | [If You](https://open.spotify.com/track/5gQgBqxs8rVEIob3S954SV) | [峰清](https://open.spotify.com/artist/4VjS1iEsHgVYyQ73dMqZYt) | [If You](https://open.spotify.com/album/4JnER6rfzr5glC3yY9eGQe) | 4:21 |
 | 35 | [Who's that?](https://open.spotify.com/track/6D5sDok80Z6DpLjKUNxbIg) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [Who's that?](https://open.spotify.com/album/18ou6TtV1Hz9xdlJXpqFbu) | 3:26 |
 | 36 | [ともだちのともだち](https://open.spotify.com/track/0FHl6BA9clDy4veHdnLluT) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [ともだちのともだち](https://open.spotify.com/album/7muhp1KYk40adRwwAmoyBV) | 2:18 |
 | 37 | [怪人](https://open.spotify.com/track/5hgFHHbWQia2Nw1lQFAJFN) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [怪人](https://open.spotify.com/album/6PoB1qOhcOlDot2QMXRbjD) | 3:07 |

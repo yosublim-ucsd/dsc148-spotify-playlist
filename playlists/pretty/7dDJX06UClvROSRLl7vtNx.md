@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 74,653 likes - 195 songs - 8 hr 33 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 74,662 likes - 195 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 53 | [Where Did You Go](https://open.spotify.com/track/7IgtNA3fFMnTHD0ZluzBOi) | [Menza](https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Where Did You Go](https://open.spotify.com/album/2i7RzsHlqxeOg9am4xUYzg) | 2:31 |
 | 54 | [Shine Like Gold](https://open.spotify.com/track/7LhsKfFMbEkLwZGAefMTmI) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Shine Like Gold](https://open.spotify.com/album/2K2sWjACV0v1Wc0iF9A2rn) | 2:24 |
 | 55 | [Reminds Me of You](https://open.spotify.com/track/0haD37qstW10hmwFzdC2wr) | [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [Reminds Me of You](https://open.spotify.com/album/0hE0P5D6LBCIsaWlhdoCiF) | 2:02 |
-| 56 | [Too Hot For You To Hold](https://open.spotify.com/track/3nZBJJT2efeQ89JRK50lDC) | [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Jessie Villa](https://open.spotify.com/artist/5oB768y4mFlz3zGSaugfDb) | [Too Hot For You To Hold](https://open.spotify.com/album/2JRLofOR1HIZjXMfh7dntu) | 2:23 |
+| 56 | [Too Hot For You To Hold](https://open.spotify.com/track/3nZBJJT2efeQ89JRK50lDC) | [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Jessie Villa](https://open.spotify.com/artist/17f6GZLFTD3ImVTQGyA9gX) | [Too Hot For You To Hold](https://open.spotify.com/album/2JRLofOR1HIZjXMfh7dntu) | 2:23 |
 | 57 | [Here With Me](https://open.spotify.com/track/0HjNqrrvoC31sgClbIxxGe) | [Youngmin](https://open.spotify.com/artist/2w271WbWiCuYjWGz92Dzwb), [LAUWE](https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK) | [Here With Me](https://open.spotify.com/album/6MV8mr8GR3CIXTspozExdd) | 2:48 |
 | 58 | [Your Love's Not Wasted](https://open.spotify.com/track/1at0ZV2iOErop550JQLyZR) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Jakke](https://open.spotify.com/artist/4J2F2H9mhFcaXDs64WCMxQ) | [Your Love's Not Wasted](https://open.spotify.com/album/6a92sVEH9NRJWTpLbJfO9L) | 4:00 |
 | 59 | [Better Than Me](https://open.spotify.com/track/221YfSBqhocIartpTjwhx0) | [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [phil's ok.](https://open.spotify.com/artist/5HdoLuXD0KtSA3gECZqkty) | [Better Than Me](https://open.spotify.com/album/6pm3dEBD5VZtGetJwvywWt) | 2:56 |

@@ -1,6 +1,6 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 49952,
+  "num_followers": 49997,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
+      "duration_ms": 246493,
+      "name": "Let's Make It",
+      "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 246493,
-      "name": "Let's Make It",
-      "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Let's Work Together",
-        "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
-      },
-      "artists": [
-        {
-          "name": "Wilbert Harrison",
-          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "Let's Work Together",
-      "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 175466,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Let's Work Together",
+        "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Harrison",
+          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Let's Work Together",
+      "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Spider in My Stew",
-        "url": "https://open.spotify.com/album/1QLaueGOJPQnXPnV7ZZP0h"
+        "name": "The Howlin' Wolf Album",
+        "url": "https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT"
       },
       "artists": [
         {
-          "name": "Buster Benton",
-          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 298706,
-      "name": "Love Like I Wanna",
-      "url": "https://open.spotify.com/track/1YmXV80xrumomhpnSai6GS"
+      "duration_ms": 311240,
+      "name": "Built For Comfort",
+      "url": "https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "The Howlin' Wolf Album",
-        "url": "https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT"
+        "name": "Spider in My Stew",
+        "url": "https://open.spotify.com/album/1QLaueGOJPQnXPnV7ZZP0h"
       },
       "artists": [
         {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+          "name": "Buster Benton",
+          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
         }
       ],
-      "duration_ms": 311240,
-      "name": "Built For Comfort",
-      "url": "https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs"
+      "duration_ms": 298706,
+      "name": "Love Like I Wanna",
+      "url": "https://open.spotify.com/track/1YmXV80xrumomhpnSai6GS"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
         }
       ],
-      "duration_ms": 195400,
-      "name": "Don't Need No Horse",
-      "url": "https://open.spotify.com/track/44f9KFtJb0tdnqJ7RFBqLN"
+      "duration_ms": 175693,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 175693,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
+      "duration_ms": 195400,
+      "name": "Don't Need No Horse",
+      "url": "https://open.spotify.com/track/44f9KFtJb0tdnqJ7RFBqLN"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "duration_ms": 266413,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/4cCSqQBd2b6Uu0ErT4zXvd"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Retrospective 1957-62",
         "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
+        "name": "Martin Scorsese Presents The Blues: Taj Mahal",
+        "url": "https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC"
       },
       "artists": [
         {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 266413,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/4cCSqQBd2b6Uu0ErT4zXvd"
+      "duration_ms": 295400,
+      "name": "Checkin' Up On My Baby",
+      "url": "https://open.spotify.com/track/7nVzX42eKMcI2XZcO1YOPL"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1399,22 +1415,6 @@
       "duration_ms": 160853,
       "name": "You Put the Heart on Me",
       "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Martin Scorsese Presents The Blues: Taj Mahal",
-        "url": "https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "Checkin' Up On My Baby",
-      "url": "https://open.spotify.com/track/7nVzX42eKMcI2XZcO1YOPL"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "BD Music & Toppi Present the Blues",
-        "url": "https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 131946,
-      "name": "Confessin' the Blues",
-      "url": "https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 181640,
       "name": "Lonesome Whistle Blues",
       "url": "https://open.spotify.com/track/6FlElscpn0N3PwA2RVFbG2"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "BD Music & Toppi Present the Blues",
+        "url": "https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 131946,
+      "name": "Confessin' the Blues",
+      "url": "https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "R&B From The Marquee",
-        "url": "https://open.spotify.com/album/2Uv8U2JwRRbeqBfk8OS4Na"
-      },
-      "artists": [
-        {
-          "name": "Alexis Korner",
-          "url": "https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Down Town",
-      "url": "https://open.spotify.com/track/0uty39dFnwtbMGpdN4nxz0"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Rockin' The Blues",
         "url": "https://open.spotify.com/album/1Ki8xQv0w2lu8yaLBHOivq"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 314746,
       "name": "Rocky Mountain Way",
       "url": "https://open.spotify.com/track/79hKqXCyqIUXhdTFEs4ePo"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "R&B From The Marquee",
+        "url": "https://open.spotify.com/album/2Uv8U2JwRRbeqBfk8OS4Na"
+      },
+      "artists": [
+        {
+          "name": "Alexis Korner",
+          "url": "https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Down Town",
+      "url": "https://open.spotify.com/track/0uty39dFnwtbMGpdN4nxz0"
     },
     {
       "added_at": "2024-05-29 07:10:09",

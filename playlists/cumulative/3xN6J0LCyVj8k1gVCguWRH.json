@@ -66681,6 +66681,24 @@
     },
     {
       "album": {
+        "name": "The Devil Knows",
+        "url": "https://open.spotify.com/album/1oCOhTeH1fzBVquSIaHETv"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220411,
+      "name": "The Devil Knows",
+      "url": "https://open.spotify.com/track/4VaYLaWyF9LOzrVVqyigU6"
+    },
+    {
+      "album": {
         "name": "the end",
         "url": "https://open.spotify.com/album/340jrpG3hFzItsnLp2T2Tg"
       },

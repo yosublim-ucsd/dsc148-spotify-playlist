@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30360,
+  "num_followers": 30364,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPn0M1Ow/WytENJQq/Ce3dIPUFsP5H",
+  "snapshot_id": "AAAPotuslq7hl/Phui3kZAFnRQ6T5oBe",
   "tracks": [
     {
       "added_at": "2024-10-25 16:57:45",
@@ -23,6 +23,26 @@
       "duration_ms": 164774,
       "name": "HABITS",
       "url": "https://open.spotify.com/track/5L8dahm9afHErsFh5vsiUo"
+    },
+    {
+      "added_at": "2024-10-30 12:27:08",
+      "album": {
+        "name": "Round n Round (KAVARI Remix)",
+        "url": "https://open.spotify.com/album/6afCeXY86iJqZU0wnqyzds"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "KAVARI",
+          "url": "https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv"
+        }
+      ],
+      "duration_ms": 247741,
+      "name": "Round n Round - KAVARI Remix",
+      "url": "https://open.spotify.com/track/0MhjM43Fa0ytthA4JiXTUq"
     },
     {
       "added_at": "2024-10-24 15:53:23",
@@ -735,22 +755,6 @@
       "duration_ms": 310560,
       "name": "Devices",
       "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
-    },
-    {
-      "added_at": "2024-08-21 10:05:27",
-      "album": {
-        "name": "Tommy",
-        "url": "https://open.spotify.com/album/6ypPEd46mjBNn9NsfpxWKT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Tommy",
-      "url": "https://open.spotify.com/track/38piSUlzLXLqHqgrxSO4zE"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

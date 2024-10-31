@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,525 likes - 215 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,632 likes - 215 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 21 | [Roses \- 2015](https://open.spotify.com/track/1PfnCBM7D6qdNm5XpMRRb6) | [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd), [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Lost Cargo](https://open.spotify.com/album/3hvOyWTH6lftZifKHqUlLT) | 2:53 |
 | 22 | [Just Another Day](https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Auryln](https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79) | [Just Another Day](https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk) | 2:40 |
 | 23 | [Memory of You](https://open.spotify.com/track/5wahC50RZOhPBbjSxtXZkK) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Memory of You](https://open.spotify.com/album/1pydX8gTFJzu8UOWXRPIer) | 2:53 |
-| 24 | [I Do](https://open.spotify.com/track/4rXwsc8gGDFC0FusS3A4WF) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb), [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [I Do](https://open.spotify.com/album/4J95JB06LbaXMdyYANzCZG) | 3:54 |
+| 24 | [I DO](https://open.spotify.com/track/4rXwsc8gGDFC0FusS3A4WF) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb), [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [I DO](https://open.spotify.com/album/4J95JB06LbaXMdyYANzCZG) | 3:54 |
 | 25 | [Nostalgia](https://open.spotify.com/track/0AVJqxP92URE44WBzBHryV) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Nostalgia](https://open.spotify.com/album/5xpn1PhgoDhgn6c5rPDDLO) | 3:04 |
 | 26 | [Gimme](https://open.spotify.com/track/29UVDzlLXTtwEz3wccF7ae) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Gimme](https://open.spotify.com/album/1HYaSoCcZu3TOI452oFV0K) | 2:53 |
 | 27 | [Vicariously](https://open.spotify.com/track/5IDKzzwnv30FxvgRqAPtqO) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Vicariously](https://open.spotify.com/album/5VWooS2kG1dyfwB1xRPHwN) | 3:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 338 likes - 239 songs - 14 hr 2 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 338 likes - 240 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,5 +247,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 237 | [SEEN IT ALL](https://open.spotify.com/track/1idBzRMtBpmduqoa2WavLC) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [II Tone](https://open.spotify.com/artist/1XcaJZLayue2wv5axNkqJS) | [SEEN IT ALL](https://open.spotify.com/album/3amHmTIZj8MBqHBTCFMeyN) | 2:43 |
 | 238 | [STRATOSPHERE](https://open.spotify.com/track/2TXuKQBEMAgewrG0VFJngq) | [Lestmor](https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK), [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [STRATOSPHERE](https://open.spotify.com/album/26UklZWmkfdZq26X8wrRRg) | 2:15 |
 | 239 | [realise!](https://open.spotify.com/track/1bms4iDzAEk121H6rA44jV) | [FXRR](https://open.spotify.com/artist/18Aa5fsiPr4pXRAwezZN6i) | [realise!](https://open.spotify.com/album/7w75uefsFnNzxEkZ5PNuX6) | 2:14 |
+| 240 | [Iced Hearts](https://open.spotify.com/track/1OQmASmbZktMZIwC5poBVF) | [Petsmpi](https://open.spotify.com/artist/3jJsiA3cTxnvjE0G7ihxLc), [KVSTET](https://open.spotify.com/artist/606IuW05n19DWODtW9jbWo) | [Iced Hearts](https://open.spotify.com/album/4G7z4z4xE1L1vog3tkm5XN) | 2:29 |
 
-Snapshot ID: `AAAA/ynhuyzkM0TxOsOrp26Zx0T9k2PS`
+Snapshot ID: `AAABALqk9xiLqNirC1khgwk6h20l0K96`

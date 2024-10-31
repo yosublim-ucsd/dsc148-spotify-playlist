@@ -661,6 +661,28 @@
     },
     {
       "album": {
+        "name": "looking for something",
+        "url": "https://open.spotify.com/album/30c4YWZhA9V9umtvaY1Bcr"
+      },
+      "artists": [
+        {
+          "name": "marcos g",
+          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
+        },
+        {
+          "name": "ELLIE",
+          "url": "https://open.spotify.com/artist/1Ue5nT1WigAErXYaYdzFCP"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "cold feet",
+      "url": "https://open.spotify.com/track/0MeBo8bpeORIBuJvUZwvnc"
+    },
+    {
+      "album": {
         "name": "College",
         "url": "https://open.spotify.com/album/3e3WDTE1fIivEwz8ibmFQT"
       },
@@ -2020,10 +2042,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 211626,
       "name": "My Future",
       "url": "https://open.spotify.com/track/1VTwC3ckWtSWzNwCvWz1pT"
+    },
+    {
+      "album": {
+        "name": "My Future",
+        "url": "https://open.spotify.com/album/5UYMRq0acjM6O8FGVPQKka"
+      },
+      "artists": [
+        {
+          "name": "Shirley Adamson",
+          "url": "https://open.spotify.com/artist/7ywDFbZlIr7lF1kvKlENXp"
+        },
+        {
+          "name": "George White Group",
+          "url": "https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152533,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/4VIYTieBvN8PvCAqnyLj6Y"
     },
     {
       "album": {

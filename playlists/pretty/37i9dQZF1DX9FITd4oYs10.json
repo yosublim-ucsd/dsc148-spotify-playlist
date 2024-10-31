@@ -515,38 +515,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "A Milenar Arte De Meter O Louco",
-        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 274482,
-      "name": "Muleque De Vila",
-      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Oriente (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 529597,
-      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "Nao Sei Mais",
         "url": "https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 145185,
       "name": "Nao Sei Mais",
       "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Oriente (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 529597,
+      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 274482,
+      "name": "Muleque De Vila",
+      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Foco, For\u00e7a E F\u00e9",
+        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 224546,
+      "name": "Foco, For\u00e7a E F\u00e9",
+      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Falc\u00e3o - O Bagulho \u00c9 Doido",
         "url": "https://open.spotify.com/album/4YP56WByoqlCMW2AhxDMjc"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 300200,
       "name": "Estilo Vagabundo",
       "url": "https://open.spotify.com/track/3hn7hzXAbrOjUXN8XNwy5M"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Foco, For\u00e7a E F\u00e9",
-        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 224546,
-      "name": "Foco, For\u00e7a E F\u00e9",
-      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Sem Cortesia (Vagando na Babil\u00f4nia / Em Busca de Cana\u00e3)",
-        "url": "https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK"
-      },
-      "artists": [
-        {
-          "name": "S\u00edntese",
-          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
-        }
-      ],
-      "duration_ms": 165903,
-      "name": "Se Escute",
-      "url": "https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "No Dia dos Nossos",
         "url": "https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 164166,
       "name": "NDDN",
       "url": "https://open.spotify.com/track/0XlWJ5zP4hZ2ynsLIJYXaW"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Sem Cortesia (Vagando na Babil\u00f4nia / Em Busca de Cana\u00e3)",
+        "url": "https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK"
+      },
+      "artists": [
+        {
+          "name": "S\u00edntese",
+          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
+        }
+      ],
+      "duration_ms": 165903,
+      "name": "Se Escute",
+      "url": "https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -1183,30 +1183,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Sensa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        }
-      ],
-      "duration_ms": 272004,
-      "name": "Sensa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "Azul Piscina",
         "url": "https://open.spotify.com/album/3cKqztFXTxCESGT7lmATPS"
       },
@@ -1247,6 +1223,26 @@
       "duration_ms": 174725,
       "name": "Eu Tiro \u00c9 Onda - Remix",
       "url": "https://open.spotify.com/track/7rY8HdRaxTUcJIP5ZV3Y5A"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "\"...Entre...\"",
+        "url": "https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "L\u00e1grimas do Palha\u00e7o",
+      "url": "https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp"
     },
     {
       "added_at": "2024-08-16 20:28:24",

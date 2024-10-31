@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 8 hr 33 min
+143 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [I Want It All \(Remix\)](https://open.spotify.com/track/59KCneEvdDLNpfw79mckFW) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [I Want It All \(Remix\)](https://open.spotify.com/album/5vLPZZoxQoe3kpuixNRpSh) | 3:43 | 2024-02-27 |  |
 | [In My Foreign \(feat\. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana\)](https://open.spotify.com/track/1ZX8uNsvwzdDoszb0UCBnM) | [The Americanos](https://open.spotify.com/artist/4XxgN35ZzxIrzUH9Fz8e1y), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [In My Foreign \(feat\. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana\)](https://open.spotify.com/album/4DZb3yX9PFxtIzgWgfhTck) | 3:37 | 2024-02-27 |  |
 | [Inside Out](https://open.spotify.com/track/1MXmaCZEtfPrCbtYjJIbzl) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:38 | 2024-02-27 |  |
+| [Inside Out](https://open.spotify.com/track/3dqe8FDx7F1yxNY4LldJ7R) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Inside Out](https://open.spotify.com/album/4TKuzR1FrlmM05FeRloCzY) | 3:08 | 2024-10-30 |  |
 | [January](https://open.spotify.com/track/4Vc6f3K8mXoMwZDICJPPAw) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:07 | 2024-02-27 |  |
 | [Jenny's Got a Boyfriend](https://open.spotify.com/track/2LFs5g1oRjTihMarELyONl) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:13 | 2024-06-02 |  |
 | [Jenny's Got a Boyfriend](https://open.spotify.com/track/7Eo5lYaWdWryD6uhZT7aZb) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Jenny's Got a Boyfriend](https://open.spotify.com/album/0A2n5x2LuzK2wX8YvO0JaA) | 3:13 | 2024-05-31 | 2024-06-03 |

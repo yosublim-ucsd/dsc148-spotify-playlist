@@ -877,6 +877,28 @@
     },
     {
       "album": {
+        "name": "Bavaria",
+        "url": "https://open.spotify.com/album/3bgV7saRotc51WR0hpZD5d"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        },
+        {
+          "name": "Seeger Saitenmusik",
+          "url": "https://open.spotify.com/artist/49vNlUzHXtsMN8wkP7mnRb"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190213,
+      "name": "Bavaria",
+      "url": "https://open.spotify.com/track/0bOMuuNQqTAYtF66blkwUF"
+    },
+    {
+      "album": {
         "name": "Berceuse",
         "url": "https://open.spotify.com/album/71ey9Q6ZMIjIbkQV76nqIr"
       },
@@ -913,6 +935,32 @@
     },
     {
       "album": {
+        "name": "Merci",
+        "url": "https://open.spotify.com/album/6elZDCjnrPGBvIVfdKYLDw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206346,
+      "name": "Berceuse, Op. 16",
+      "url": "https://open.spotify.com/track/4FwIwI5NGVUP4DrPwrweMz"
+    },
+    {
+      "album": {
         "name": "Billow Gently",
         "url": "https://open.spotify.com/album/12A7tN2PisImkNMTb7es9f"
       },
@@ -932,6 +980,24 @@
       "duration_ms": 195429,
       "name": "Billow Gently",
       "url": "https://open.spotify.com/track/0y35QjZtAK3bGxwsiKmssf"
+    },
+    {
+      "album": {
+        "name": "Blackbirds and the Sun of October",
+        "url": "https://open.spotify.com/album/6yAbi2JXGfbQFRUPcBTi79"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272003,
+      "name": "Blackbirds and the Sun of October",
+      "url": "https://open.spotify.com/track/2UC0Gw9ltAjH738AhEtWgw"
     },
     {
       "album": {
@@ -4174,6 +4240,24 @@
       "duration_ms": 158689,
       "name": "Respiro 3",
       "url": "https://open.spotify.com/track/15y6K1TTpceurenY3mnIcD"
+    },
+    {
+      "album": {
+        "name": "Respiro 5",
+        "url": "https://open.spotify.com/album/34y2HYWG7ISiYQoa1hJU1W"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141041,
+      "name": "Respiro 5",
+      "url": "https://open.spotify.com/track/0j0HOYUKuufklmuzsyXdtA"
     },
     {
       "album": {

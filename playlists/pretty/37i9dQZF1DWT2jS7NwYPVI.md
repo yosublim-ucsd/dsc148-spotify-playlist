@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: chokecherry
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,088 likes - 110 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,135 likes - 110 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 97 | [Love Songs \(feat\. L.A\. Exes\)](https://open.spotify.com/track/3yrjVmFHxf3773eHr9Y9kY) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9), [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Love Songs](https://open.spotify.com/album/5jzDbnh75dTmdFNBnNpN7Y) | 3:12 |
 | 98 | [The Cue](https://open.spotify.com/track/0SYrkhoxv7KujqhxO2PD5k) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [The Cue](https://open.spotify.com/album/5diKbTj8sEwkVZ6mDD2k5a) | 4:27 |
 | 99 | [Spit](https://open.spotify.com/track/44xD4zP01YmFpNEn12Pv4k) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Foxing](https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3) | 4:17 |
-| 100 | [Final Nail](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 |
+| 100 | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 |
 | 101 | [Usurper](https://open.spotify.com/track/4KeKMDxuBO6hlwGIJtRpxS) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [ENDLESS](https://open.spotify.com/album/7aByOZkdJqsGvIplvnNrq1) | 3:35 |
 | 102 | [feeL](https://open.spotify.com/track/5DyWv22uBarGeTDh8Hji0a) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [feeL](https://open.spotify.com/album/4EUbD9eZXFT8R0idZ4a4hT) | 4:08 |
 | 103 | [Room 341](https://open.spotify.com/track/3Rx4kOvXwVWxfs0sDk4o1F) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Room 341](https://open.spotify.com/album/5vC4OlYTJuc9MlygNuHwV1) | 3:03 |

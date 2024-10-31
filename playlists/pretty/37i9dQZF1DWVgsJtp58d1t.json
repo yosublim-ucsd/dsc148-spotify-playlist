@@ -1,13 +1,33 @@
 {
-  "description": "All Black like the cover of Essence. Cover: <a href=\"spotify:artist:7sP4SQ0WY6jfps1I19Ot7i\">Fridayy</a> ",
-  "num_followers": 1028255,
+  "description": "All Black like the cover of Essence. Cover: <a href=\"spotify:artist:6qgnBH6iDM91ipVXv28OMu\">KAYTRANADA</a> ",
+  "num_followers": 1028311,
   "original_name": "This Is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx9goAAAAAANJCrP7Z8vtonhy2SqrQl8",
+  "snapshot_id": "ZyJhswAAAADPH0m4dTm6xl53Fc/zGCuR",
   "tracks": [
+    {
+      "added_at": "2024-10-28 10:00:00",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Witchy (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
+    },
     {
       "added_at": "2024-10-28 10:00:00",
       "album": {
@@ -363,26 +383,6 @@
       "duration_ms": 176121,
       "name": "Temptress",
       "url": "https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp"
-    },
-    {
-      "added_at": "2024-10-28 10:00:00",
-      "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Witchy (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
     },
     {
       "added_at": "2024-10-28 10:00:00",

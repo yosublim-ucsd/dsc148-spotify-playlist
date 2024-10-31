@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-136 songs - 8 hr 3 min
+137 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Squid Play](https://open.spotify.com/track/5zPFhnPNbdhhOLMTeqZT5C) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM) | [Squid Play](https://open.spotify.com/album/062CSYkbPxbFT6apgGEdxH) | 2:45 | 2021-10-28 | 2024-10-02 |
 | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/track/1axYKkAUrZbB1axBahVM2J) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/album/2X04eOH1El0sUzp5Ivvp2a) | 4:28 | 2021-10-28 |  |
 | [Sweet Dreams \(VIP\)](https://open.spotify.com/track/4IQQB4PTQfvW1x7iioOeK9) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Wodd](https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG) | [Sweet Dreams \(VIP\)](https://open.spotify.com/album/5beTuDZOcwTbSBEBhA6pT1) | 4:06 | 2021-10-28 |  |
+| [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/4UmpZwWh99V5JMSrGsacFP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/5dH89SWty2zwQkpLtPI2Lv) | 5:01 | 2024-10-31 |  |
 | [Terror Squad](https://open.spotify.com/track/3iua7Qv6SauKb6AIRErIDE) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Reanimated EP](https://open.spotify.com/album/0pvo5DotmMpj4hvnWAYkwJ) | 4:17 | 2021-10-28 |  |
 | [The Evil Folk](https://open.spotify.com/track/2Hdz3K7Nj21JyKdgtOvGIY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [The Evil Folk](https://open.spotify.com/album/1RpZGs7XhczTcZJzduxD0k) | 2:37 | 2021-10-28 | 2024-04-19 |
 | [The Evil Folk](https://open.spotify.com/track/5SV1LzjQQxm9od88K3kwio) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [The Evil Folk](https://open.spotify.com/album/2IjPgn4eJwVQMH6Cm9xWnA) | 2:37 | 2021-10-28 |  |
@@ -124,7 +125,7 @@
 | [Till the Day I Die](https://open.spotify.com/track/0XqKT7AwL333oEjBCMwHxp) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Wicked EP](https://open.spotify.com/album/3aMecYq0Q67u6uwMjm4bPN) | 2:30 | 2022-10-28 | 2024-02-16 |
 | [Till The Day I Die](https://open.spotify.com/track/3FFgPDS6xgi9NYkU09e17N) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/039zrJj7qLwMd9IdQDaoaV) | 2:30 | 2023-10-31 | 2024-04-19 |
 | [Till The Day I Die](https://open.spotify.com/track/5SpA4lQsheBoigqIEgE2bX) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/3jnwP47WGWGwop55Uvj0S7) | 2:30 | 2021-10-28 | 2023-06-02 |
-| [Till the Day I Die](https://open.spotify.com/track/5TDQ3wiyuBgvSa6HQ1RFcy) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Wicked EP](https://open.spotify.com/album/4PM29w4J6uoDhYSuup97vD) | 2:30 | 2021-10-28 |  |
+| [Till the Day I Die](https://open.spotify.com/track/5TDQ3wiyuBgvSa6HQ1RFcy) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Wicked EP](https://open.spotify.com/album/4PM29w4J6uoDhYSuup97vD) | 2:30 | 2021-10-28 | 2024-10-31 |
 | [Tower](https://open.spotify.com/track/5Ek9fda1mgxvVS92lCE7Qn) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Tower](https://open.spotify.com/album/3ow68IUvYEltOQb9Jqco1H) | 3:30 | 2021-10-28 |  |
 | [Tower](https://open.spotify.com/track/5UF4WRcP63K6xCuP7EALuS) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/00ascaJUZ2aaXQiivvSxdv) | 3:30 | 2023-10-31 | 2024-04-19 |
 | [Tower](https://open.spotify.com/track/6wLAT2NTrpH9z5gnFo7LPJ) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5I2O21KYRUk31NBV2k6Xe5) | 3:30 | 2023-10-31 | 2024-02-05 |

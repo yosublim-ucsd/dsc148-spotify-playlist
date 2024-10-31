@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 61255,
+  "num_followers": 61270,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx7UAAAAAAALkWtfcxUAH8G0Mbpp1Vt7",
+  "snapshot_id": "ZyAlgAAAAAAS6TlJMiavwAroiL2jSv97",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 20 Poderosas (USA)",
-        "url": "https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF"
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 198800,
-      "name": "La suegra",
-      "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
+      "duration_ms": 165106,
+      "name": "G\u00fcerita",
+      "url": "https://open.spotify.com/track/6fkhelPceMGuArIxYKyagL"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "G\u00fcerita",
-      "url": "https://open.spotify.com/track/6fkhelPceMGuArIxYKyagL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Historia sin fin",
         "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
       },
@@ -299,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+        "name": "Las 20 Poderosas (USA)",
+        "url": "https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF"
       },
       "artists": [
         {
@@ -308,25 +292,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Casimira",
-      "url": "https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Escuadras del sur",
-      "url": "https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa"
+      "duration_ms": 198800,
+      "name": "La suegra",
+      "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
     },
     {
       "added_at": null,
@@ -347,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pesar de Todo",
-        "url": "https://open.spotify.com/album/2yVyjnqGVXytCjfMqe1lp9"
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
       "artists": [
         {
@@ -356,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 182133,
-      "name": "Cuatro Meses (Que Se Te Quite Ese Orgullo)",
-      "url": "https://open.spotify.com/track/7nBdxRmU1GvUf4ZbOLKQEx"
+      "duration_ms": 190200,
+      "name": "Escuadras del sur",
+      "url": "https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa"
     },
     {
       "added_at": null,
@@ -372,15 +340,15 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 158080,
-      "name": "El viejo joven",
-      "url": "https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp"
+      "duration_ms": 172266,
+      "name": "Casimira",
+      "url": "https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+        "name": "A Pesar de Todo",
+        "url": "https://open.spotify.com/album/2yVyjnqGVXytCjfMqe1lp9"
       },
       "artists": [
         {
@@ -388,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 155400,
-      "name": "Y la quiere Paco",
-      "url": "https://open.spotify.com/track/0SuXH0Nw1RxS6MFC3RB5oi"
+      "duration_ms": 182133,
+      "name": "Cuatro Meses (Que Se Te Quite Ese Orgullo)",
+      "url": "https://open.spotify.com/track/7nBdxRmU1GvUf4ZbOLKQEx"
     },
     {
       "added_at": null,
@@ -411,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La reina de las bandas Vol. I",
-        "url": "https://open.spotify.com/album/78dh7yHMwbb3dPUqmEDxj2"
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
       "artists": [
         {
@@ -420,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 154546,
-      "name": "Mi chica ideal",
-      "url": "https://open.spotify.com/track/3QukO1TbU8SvQQrkwFoKWF"
+      "duration_ms": 155400,
+      "name": "Y la quiere Paco",
+      "url": "https://open.spotify.com/track/0SuXH0Nw1RxS6MFC3RB5oi"
     },
     {
       "added_at": null,
@@ -436,9 +404,25 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 152973,
-      "name": "Mi tesoro",
-      "url": "https://open.spotify.com/track/6i9F5U7UTfpA2BurGZ9FYd"
+      "duration_ms": 158080,
+      "name": "El viejo joven",
+      "url": "https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La reina de las bandas Vol. I",
+        "url": "https://open.spotify.com/album/78dh7yHMwbb3dPUqmEDxj2"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 154546,
+      "name": "Mi chica ideal",
+      "url": "https://open.spotify.com/track/3QukO1TbU8SvQQrkwFoKWF"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 185866,
       "name": "Si la miro ma\u00f1ana",
       "url": "https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Mi tesoro",
+      "url": "https://open.spotify.com/track/6i9F5U7UTfpA2BurGZ9FYd"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentimientos",
-        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+        "name": "Est\u00e1s Seleccionada",
+        "url": "https://open.spotify.com/album/3ZVscmJ2sG4GsR7ymRSKO7"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 181106,
-      "name": "Tu otro dios - Tu dios de poder",
-      "url": "https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn"
+      "duration_ms": 176093,
+      "name": "Te Lavaste la Cara y el Mono No (El Mono de Marciana)",
+      "url": "https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH"
     },
     {
       "added_at": null,
@@ -644,15 +644,15 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 174866,
-      "name": "Gracias mujer",
-      "url": "https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica"
+      "duration_ms": 178546,
+      "name": "Mi otra mitad",
+      "url": "https://open.spotify.com/track/1KWSYDvZaPJMB3YYTgRWEj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Est\u00e1s Seleccionada",
-        "url": "https://open.spotify.com/album/3ZVscmJ2sG4GsR7ymRSKO7"
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 176093,
-      "name": "Te Lavaste la Cara y el Mono No (El Mono de Marciana)",
-      "url": "https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH"
+      "duration_ms": 181106,
+      "name": "Tu otro dios - Tu dios de poder",
+      "url": "https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn"
     },
     {
       "added_at": null,

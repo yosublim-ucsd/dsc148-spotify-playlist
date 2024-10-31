@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-370 songs - 18 hr 48 min
+371 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Ain't Gonna Break](https://open.spotify.com/track/4cRCQ8wLnWKkLpUVijmp0J) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Ain't Gonna Break](https://open.spotify.com/album/2nueTq2RzhiXpqrUcGDfY9) | 3:04 | 2022-07-29 | 2023-06-24 |
 | [Alarm](https://open.spotify.com/track/33J9duYFGuYDolFULpYgi8) | [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [RALYFF](https://open.spotify.com/artist/2O5kshWyTHGk7xv2FCxEbh), [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [Alarm](https://open.spotify.com/album/09vMh7mmRqPCewaBjBnJeC) | 3:22 | 2024-03-14 |  |
 | [Alive \- Edit](https://open.spotify.com/track/0GtkzHw73XXHn4rZJFqcxh) | [JAT](https://open.spotify.com/artist/1XJPIFp92YDeTJW1SEbvg6) | [Alive \(Edit\)](https://open.spotify.com/album/2UaVJ8I7jP3j5F69gby1bt) | 3:13 | 2022-09-02 | 2022-09-24 |
-| [All Mine](https://open.spotify.com/track/7I4KVxwDeZhlnCh15ckCWY) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [All Mine](https://open.spotify.com/album/2RitojyB3zQdkYEodRA7Fw) | 2:46 | 2024-09-27 |  |
+| [All Mine](https://open.spotify.com/track/7I4KVxwDeZhlnCh15ckCWY) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [All Mine](https://open.spotify.com/album/2RitojyB3zQdkYEodRA7Fw) | 2:46 | 2024-09-27 | 2024-10-31 |
 | [All My Life](https://open.spotify.com/track/7pSIzHh4E7v5TBa6DHEPba) | [Somero](https://open.spotify.com/artist/25QwEFukGdirO64kwGIwTR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [All My Life](https://open.spotify.com/album/63wRjrPw2IHWN53aeFLhQM) | 2:24 | 2022-07-29 | 2022-11-05 |
 | [All My Life \- Airscape Remix](https://open.spotify.com/track/0VAVj1GEv2oVcz6Vkgf1WN) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP), [Airscape](https://open.spotify.com/artist/2tTZL2CE2Z190UPlHsjzym) | [All My Life \(Airscape Remix\)](https://open.spotify.com/album/7oikZCI1DlS43oNBYXxHc2) | 3:15 | 2024-02-22 |  |
 | [All We Needed](https://open.spotify.com/track/7iUsaptyO0uLIcQYGL0MQw) | [West Collins](https://open.spotify.com/artist/4m0eQpwwsV0XZITCzWOnfm) | [All We Needed](https://open.spotify.com/album/1c7dFeOERHYJa1aEyWzFql) | 3:05 | 2023-04-21 | 2023-08-11 |
@@ -287,6 +287,7 @@
 | [Savage](https://open.spotify.com/track/5OA5McDQjDbDvHVWONhVgH) | [Aurelios](https://open.spotify.com/artist/3hYxIpjaE52Bn3EZ8hDSxa) | [Savage](https://open.spotify.com/album/3woE6NOcQe3NAFPbHRSzqS) | 2:16 | 2023-08-10 | 2024-06-22 |
 | [Save Me \- HAVOQ Remix](https://open.spotify.com/track/106NUdEpeKc6viVKe4Dejr) | [Maori](https://open.spotify.com/artist/3WgX9Ioo1Qcug9H0tNmmUH), [Hunter Falls](https://open.spotify.com/artist/1eYaa3AJoGw6LVJNi5XSNZ), [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C) | [Save Me \(HAVOQ Remix\)](https://open.spotify.com/album/6tt2AsnVVe6Kq7BNfZ6sYH) | 2:41 | 2022-07-29 | 2023-06-17 |
 | [Secrets Of The Dark](https://open.spotify.com/track/6w5gCextRvG72Rkfpy95wf) | [This Culture](https://open.spotify.com/artist/6tCfruTJZuo3hKJHyfvBvr), [GURLI](https://open.spotify.com/artist/3gGhgzj2JBJnEhnDdMJQHw) | [Secrets Of The Dark](https://open.spotify.com/album/32BDKqBR2U32ouopD2cZIP) | 4:13 | 2023-10-26 |  |
+| [See You Again](https://open.spotify.com/track/2A0CnLV1i9wfuQZ3fa4LN4) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Betty Bloom](https://open.spotify.com/artist/028AENVWICmqAiAj5xXncO) | [See You Again](https://open.spotify.com/album/63fjHFUZrbPfD4IpBrAzNl) | 3:11 | 2024-10-30 |  |
 | [Serenity](https://open.spotify.com/track/0SK8K3M1UCiU2wYHjcgEVA) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Serenity](https://open.spotify.com/album/42LvHKQwNCugCjXFiEmlP4) | 3:39 | 2024-03-21 | 2024-10-23 |
 | [Set You Free](https://open.spotify.com/track/6fnUzzyNuW2oiOMifSXy53) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [MC Stretch](https://open.spotify.com/artist/6oIpax63yT9ajyekkcqv0L) | [Set You Free](https://open.spotify.com/album/0xSwrfdhoiHGUi9JTV2Cq8) | 3:01 | 2023-09-07 | 2024-09-26 |
 | [Setting Like The Sun](https://open.spotify.com/track/4NrQGc4bfqtuGphg1IC3k6) | [Leo Teran](https://open.spotify.com/artist/6mlMi2DC8c3GFdkL0vhIJz), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Revealed Recordings presents Miami Sampler 2022](https://open.spotify.com/album/4hErAjGzfUodxqKgaxFkhi) | 3:09 | 2022-07-29 | 2023-09-09 |

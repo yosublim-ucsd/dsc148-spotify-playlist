@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: YdBB(\uc720\ub2e4\ube48\ubc34\ub4dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: SURL(\uc124)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 198000,
       "name": "BURN",
       "url": "https://open.spotify.com/track/6lhkk6BanA5aIc7FMIu8kN"
@@ -2522,6 +2522,24 @@
       "duration_ms": 161250,
       "name": "Dear My All",
       "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
+    },
+    {
+      "album": {
+        "name": "Dear, Barcelona",
+        "url": "https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Dear, Barcelona",
+      "url": "https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G"
     },
     {
       "album": {
@@ -4082,6 +4100,24 @@
       "duration_ms": 208773,
       "name": "Forest (feat. Claire Young)",
       "url": "https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G"
+    },
+    {
+      "album": {
+        "name": "XYRUP",
+        "url": "https://open.spotify.com/album/45oAZWRJJkpHdGK1Ys8dly"
+      },
+      "artists": [
+        {
+          "name": "SURL",
+          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "FOREST (Mountain and Elevator)",
+      "url": "https://open.spotify.com/track/1wmaEbWBvNltPwF8dZepw6"
     },
     {
       "album": {
@@ -7160,7 +7196,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 250400,
       "name": "Love letter",
       "url": "https://open.spotify.com/track/6ilYsOd0s4HLgUWmByEb8b"
@@ -12093,6 +12129,24 @@
     },
     {
       "album": {
+        "name": "The Compass",
+        "url": "https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "The Compass",
+      "url": "https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC"
+    },
+    {
+      "album": {
         "name": "The hand that's out to you",
         "url": "https://open.spotify.com/album/3Zlaon3fpaAjhwzZLYbIYv"
       },
@@ -12346,7 +12400,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 156680,
       "name": "Three Leaf Clover",
       "url": "https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI"

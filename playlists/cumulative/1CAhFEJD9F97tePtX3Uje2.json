@@ -1827,6 +1827,28 @@
     },
     {
       "album": {
+        "name": "Iced Hearts",
+        "url": "https://open.spotify.com/album/4G7z4z4xE1L1vog3tkm5XN"
+      },
+      "artists": [
+        {
+          "name": "Petsmpi",
+          "url": "https://open.spotify.com/artist/3jJsiA3cTxnvjE0G7ihxLc"
+        },
+        {
+          "name": "KVSTET",
+          "url": "https://open.spotify.com/artist/606IuW05n19DWODtW9jbWo"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Iced Hearts",
+      "url": "https://open.spotify.com/track/1OQmASmbZktMZIwC5poBVF"
+    },
+    {
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/2tYfKFkl3ChReL3VKKF5Us"
       },

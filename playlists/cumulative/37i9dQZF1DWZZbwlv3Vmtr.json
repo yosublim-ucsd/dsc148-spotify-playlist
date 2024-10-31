@@ -2551,6 +2551,24 @@
     },
     {
       "album": {
+        "name": "clear my mind",
+        "url": "https://open.spotify.com/album/77b3Tv4gmHGz7kMOZQmaH4"
+      },
+      "artists": [
+        {
+          "name": "Nokawa",
+          "url": "https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140224,
+      "name": "clear my mind",
+      "url": "https://open.spotify.com/track/7rP9HuRgLcz174Kvh3RDwS"
+    },
+    {
+      "album": {
         "name": "Climbing",
         "url": "https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K"
       },
@@ -7818,7 +7836,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 187317,
       "name": "Last Mission",
       "url": "https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw?si=I9dDiSTZSGakTlE9s38b\_g>Pastor Emmanuel Iren</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,648 likes - 97 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,658 likes - 97 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 49 | [Amen / Moya ongcwele](https://open.spotify.com/track/2MFOFPmxaHNhIuYiVKYX5H) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Amen / Moya ongcwele](https://open.spotify.com/album/1ghmZE9jAHU4b2Srof3eOU) | 5:48 |
 | 50 | [Lover Lover \(Company\)](https://open.spotify.com/track/6txfVLN4ygg1LiESLZa7km) | [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Bukky](https://open.spotify.com/artist/3RwMOztfM0CEJl0JTmMa4F) | [Lover Lover \(Company\)](https://open.spotify.com/album/7dhG4NkuvCx4Rl79zNO7Eh) | 2:56 |
 | 51 | [A Thousand Songs \- Live](https://open.spotify.com/track/71Fcup3i04vNIxVuFJycPQ) | [Moss Amu](https://open.spotify.com/artist/6mrxzArPDnpgku7hKIE4Zz) | [A Thousand Songs \(Live\)](https://open.spotify.com/album/0QJ2yCtiYcyOpEapNx62h1) | 8:03 |
-| 52 | [We Go Make Am! \- Afrobeat](https://open.spotify.com/track/4AtedbRY7jjxBOeMCiOOJl) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN), [Aduberks](https://open.spotify.com/artist/1lO3ux5dnXw6emOHsrgoEX) | [We Go Make Am!](https://open.spotify.com/album/0emlMW3EYwi6zrlIHrC66D) | 2:37 |
+| 52 | [We Go Make Am! \- Afrobeat](https://open.spotify.com/track/4AtedbRY7jjxBOeMCiOOJl) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [We Go Make Am!](https://open.spotify.com/album/0emlMW3EYwi6zrlIHrC66D) | 2:37 |
 | 53 | [Have Your Peace](https://open.spotify.com/track/6HIhrilGA4ckhAgUGtzjz9) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [KamiKwazi](https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw) | [Have Your Peace](https://open.spotify.com/album/58ViAJEM1JIZ1CyMtrlkWI) | 3:15 |
 | 54 | [Talk to me nice](https://open.spotify.com/track/1YAomLTFXAIPAnKKh7c5Xx) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Talk to me nice](https://open.spotify.com/album/0TGKRZWXv7RqrgDsCVgPYY) | 2:33 |
 | 55 | [Take Me Deeper \(Acoustic\)](https://open.spotify.com/track/1TczfeJbtb3uXFaineh0a4) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Take Me Deeper \(Acoustic\)](https://open.spotify.com/album/1dKIzoW6J1FRFQt4x09Ox8) | 2:51 |

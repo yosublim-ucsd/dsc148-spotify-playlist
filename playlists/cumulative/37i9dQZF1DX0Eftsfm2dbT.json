@@ -23445,6 +23445,24 @@
     },
     {
       "album": {
+        "name": "Yagi",
+        "url": "https://open.spotify.com/album/0GcEbuyNTrPHbk5073xChy"
+      },
+      "artists": [
+        {
+          "name": "Tete",
+          "url": "https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Yagi",
+      "url": "https://open.spotify.com/track/2MNYR7CXddNZMZbKrYKK29"
+    },
+    {
+      "album": {
         "name": "PLAY PURE 3",
         "url": "https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ"
       },

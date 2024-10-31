@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: g0nny\(거니\)\)
 
-441 songs - 1 day 0 hr 2 min
+442 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Let me know \(Feat\. YEOHO\)](https://open.spotify.com/track/2canhObXy3qADDzIDMqtf5) | [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX), [YEOHO](https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V) | [Trello](https://open.spotify.com/album/1TSNJCcZXubDO54usy3hQ6) | 2:59 | 2023-08-16 | 2023-11-29 |
 | [Light \(Feat\. Junguk\)](https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp) | [minzunki](https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65), [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [Light \(Feat\. Junguk\)](https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5) | 3:49 | 2023-10-16 | 2024-02-23 |
 | [Light Shower](https://open.spotify.com/track/1AOLchfVKydXghmKWP0I1C) | [Muhwa](https://open.spotify.com/artist/09Mu0GD1XDpi7VZ2Tn6dvA), [noin](https://open.spotify.com/artist/6pWCQK8N23ZmydVBLSZsGH) | [Light Shower](https://open.spotify.com/album/6gdlrX9eFU9c3Ufb05TU7s) | 3:29 | 2024-10-27 |  |
+| [LIKE A DREAM](https://open.spotify.com/track/6oFKhdrV0J4uuwMQYe7SO6) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [PSST!](https://open.spotify.com/album/4tbCHgg9qoTS3dEhpdDTUj) | 4:16 | 2024-10-30 |  |
 | [Like a Dream \(Feat\. Mingginyu, TRADE L, Touch the Sky\)](https://open.spotify.com/track/1wKoQyKMKXnjkkMlNuZA14) | [HD BL4CK](https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Touch the Sky](https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk) | [Like a Dream \(Feat\. Mingginyu, TRADE L, Touch the Sky\)](https://open.spotify.com/album/7o3eV7XuFrYI4TxmSWk2cT) | 3:03 | 2024-04-17 | 2024-08-07 |
 | [Like A Movie \(feat\. Yoon Da Hye\)](https://open.spotify.com/track/0mFnFLBINP6wZCdloosrTF) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [Yoon Da Hye](https://open.spotify.com/artist/1MMvp9AK4S9WKByz3xt83F) | [Like A Movie \(feat\. Yoon Da Hye\)](https://open.spotify.com/album/2I8Vo8kBkHsvEv09BBuTKd) | 3:10 | 2024-02-22 | 2024-06-18 |
 | [Like a Star](https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like a Star](https://open.spotify.com/album/3OAhXlOsjPDLvOMNwJQa9F) | 3:28 | 2024-04-17 | 2024-08-07 |

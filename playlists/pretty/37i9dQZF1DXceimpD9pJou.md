@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:202VnAr2CvQpJJrYXK78jk">Sarai Rivera</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,018 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,059 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 14 | [Amigos](https://open.spotify.com/track/1387fIoConD7n6dzzlAtM3) | [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [Amigos](https://open.spotify.com/album/5jY0SitoF8nv7dGz0iPJjl) | 2:39 |
 | 15 | [VXTG](https://open.spotify.com/track/5KvkqJ9SlLA2Vd4OJdkMsf) | [El Varón Jonatan](https://open.spotify.com/artist/5t31e0PQ4BNPmxs29YHj7t), [Eliezer Daniels](https://open.spotify.com/artist/0XSbTfozK3F8xeYpPneVO9), [Esteban Music](https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH) | [CUENTA SALDA](https://open.spotify.com/album/6EZzZjDL5iQmUxTI5dyenk) | 4:02 |
 | 16 | [Fuego de Dios](https://open.spotify.com/track/5dDbglFNJllWVKnT6GreUx) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [Con Amigos II](https://open.spotify.com/album/4ardqxEBKoZ9V0Id6s4rvp) | 3:19 |
-| 17 | [Volverá](https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ) | [Maca Andres](https://open.spotify.com/artist/3qsdKtayHSK4rFC0sBymj7), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN) | [Volverá](https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7) | 2:48 |
+| 17 | [Volverá](https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ) | [Maca Andres](https://open.spotify.com/artist/3qsdKtayHSK4rFC0sBymj7), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN), [Snail Lake](https://open.spotify.com/artist/4ykoG2iZk0tSbojpH88lSP) | [Volverá](https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7) | 2:48 |
 | 18 | [Me Voy Pal Cielo](https://open.spotify.com/track/37yF6nTJkMBs0mmcKBqoa4) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz) | [Me Voy Pal Cielo](https://open.spotify.com/album/6rICL3wY6R9lQRalcZEE1g) | 2:44 |
 | 19 | [Cartelera](https://open.spotify.com/track/3uvhWYdSLmUjoqfhxPSwO2) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Itz waidi](https://open.spotify.com/artist/3nWKHkpIooRuZDrxQt2mJt) | [Cartelera](https://open.spotify.com/album/16YrR9ckx8ouuoq7pzOqlF) | 3:15 |
 | 20 | [Renuevame](https://open.spotify.com/track/7DXwmfNsY39IlYfDpJd4al) | [Los Herederos](https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx), [HeartBeat Music](https://open.spotify.com/artist/1r9xLwoX9cNdZQL1Weekrd) | [Renuevame](https://open.spotify.com/album/0e0BFtu0wURr9OgACcyeCU) | 3:14 |

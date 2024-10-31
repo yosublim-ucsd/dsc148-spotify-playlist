@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 127137,
+  "num_followers": 127148,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-10-24 16:00:00",
       "album": {
-        "name": "Say You\u2019re Sorry",
-        "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
-      },
-      "artists": [
-        {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Say You\u2019re Sorry",
-      "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
-    },
-    {
-      "added_at": "2024-10-24 16:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6yjyYKA3hVLAIMRi5rsDdk"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 233380,
       "name": "Love You & Your Friends - Spotify Singles",
       "url": "https://open.spotify.com/track/07KCePnVuhVdwrKIZGt1RS"
+    },
+    {
+      "added_at": "2024-10-24 16:00:00",
+      "album": {
+        "name": "Say You\u2019re Sorry",
+        "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Say You\u2019re Sorry",
+      "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
     },
     {
       "added_at": "2024-10-24 16:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-10-24 16:00:00",
       "album": {
-        "name": "\u6c92\u4e86\u6211\u4f60\u4f9d\u7136\u64c1\u6709\u592a\u967d",
-        "url": "https://open.spotify.com/album/7L76pG9DApHkvbfl4UVp3t"
-      },
-      "artists": [
-        {
-          "name": "\u9ec4\u9704\u96f2",
-          "url": "https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU"
-        }
-      ],
-      "duration_ms": 272686,
-      "name": "\u6c92\u4e86\u6211\u4f60\u4f9d\u7136\u64c1\u6709\u592a\u967d",
-      "url": "https://open.spotify.com/track/1kdorEa0Fro4lvhFWvQIqN"
-    },
-    {
-      "added_at": "2024-10-24 16:00:00",
-      "album": {
         "name": "\u592a\u68d2\u4e86 ! \u6211\u4e00\u7121\u662f\u8655\u7684\u4eba\u751f",
         "url": "https://open.spotify.com/album/3WgivObPb5FqUn6GahQlkC"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 192463,
       "name": "\u9670\u6697\u9762",
       "url": "https://open.spotify.com/track/1Vys2tZ88SvPb3dQoBPDz7"
+    },
+    {
+      "added_at": "2024-10-24 16:00:00",
+      "album": {
+        "name": "\u6c92\u4e86\u6211\u4f60\u4f9d\u7136\u64c1\u6709\u592a\u967d",
+        "url": "https://open.spotify.com/album/7L76pG9DApHkvbfl4UVp3t"
+      },
+      "artists": [
+        {
+          "name": "\u9ec4\u9704\u96f2",
+          "url": "https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU"
+        }
+      ],
+      "duration_ms": 272686,
+      "name": "\u6c92\u4e86\u6211\u4f60\u4f9d\u7136\u64c1\u6709\u592a\u967d",
+      "url": "https://open.spotify.com/track/1kdorEa0Fro4lvhFWvQIqN"
     },
     {
       "added_at": "2024-10-24 16:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-10-24 16:00:00",
       "album": {
-        "name": "\u5199\u7ed9\u5c0f\u738b\u5b50\u7684",
-        "url": "https://open.spotify.com/album/2zcb8Uz3hRNanHUQ3jCAjF"
-      },
-      "artists": [
-        {
-          "name": "\u65b0\u88e4\u5b50\u4e50\u961f",
-          "url": "https://open.spotify.com/artist/3asy14alGCZBDd3Y6pbBbp"
-        }
-      ],
-      "duration_ms": 228042,
-      "name": "\u5199\u7ed9\u5c0f\u738b\u5b50\u7684",
-      "url": "https://open.spotify.com/track/1JYNcQCK6FmCmZIIXymh2v"
-    },
-    {
-      "added_at": "2024-10-24 16:00:00",
-      "album": {
         "name": "\u96d9\u68f2\u52d5\u7269",
         "url": "https://open.spotify.com/album/6g9c1fHNzNIVHZPP9YpDaF"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 293833,
       "name": "\u96d9\u68f2\u52d5\u7269",
       "url": "https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d"
+    },
+    {
+      "added_at": "2024-10-24 16:00:00",
+      "album": {
+        "name": "\u5199\u7ed9\u5c0f\u738b\u5b50\u7684",
+        "url": "https://open.spotify.com/album/2zcb8Uz3hRNanHUQ3jCAjF"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u88e4\u5b50\u4e50\u961f",
+          "url": "https://open.spotify.com/artist/3asy14alGCZBDd3Y6pbBbp"
+        }
+      ],
+      "duration_ms": 228042,
+      "name": "\u5199\u7ed9\u5c0f\u738b\u5b50\u7684",
+      "url": "https://open.spotify.com/track/1JYNcQCK6FmCmZIIXymh2v"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

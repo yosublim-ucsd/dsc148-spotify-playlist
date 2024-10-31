@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Chinese American Bear, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,033 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,366 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 120 | [Guanábana](https://open.spotify.com/track/0fcstqCLW7NLjqfsIgD1fw) | [dj +1](https://open.spotify.com/artist/2EYsSfAr9d8pLxpjrMoHvP) | [Guanábana](https://open.spotify.com/album/4RMbv4W1jZucUYZSY8MTJA) | 3:33 |
 | 121 | [Sin Conocerte](https://open.spotify.com/track/1y3seLsC1w19Ru04jY07Vd) | [Uma German](https://open.spotify.com/artist/3Rj6B86iG3fWRROLge1OnY), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [Sin Conocerte](https://open.spotify.com/album/7kNrtm0LZdfH8hq3Qybvry) | 3:09 |
 | 122 | [ON THE MOVE](https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY), [Tiana Khasi](https://open.spotify.com/artist/6kM1b2Ze9w94VPfq4KhJF3) | [ON THE MOVE](https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU) | 3:42 |
-| 123 | [RADIO INTERRUPTIONS ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 |
+| 123 | [RADIO INTERRUPTION ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 |
 | 124 | [Pase Lo Que Pase](https://open.spotify.com/track/60qPcH0i1d3VGE0D4VfNvC) | [Christopher Uckermann](https://open.spotify.com/artist/1e1kozSBXGDbaKHnwApmFU) | [Pase Lo Que Pase](https://open.spotify.com/album/0IkmjZNczEQhiIySz5SdiS) | 2:46 |
 | 125 | [Too Slow \(feat\. STAR BANDZ\)](https://open.spotify.com/track/1opgZsZPJJhZuEytACUaKH) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:30 |
 | 126 | [Roses](https://open.spotify.com/track/72kRR8GL5QeXctah4pTR7W) | [Caroline Says](https://open.spotify.com/artist/10U1DbsjhgAqUMcouK267Q) | [Roses](https://open.spotify.com/album/6iy4bOqR6w3Ge7ctbrEXF0) | 4:11 |

@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Mikey McCleary, Sushant Divgikar, Parth Parekh & Khan Brothers",
-  "num_followers": 71234,
+  "num_followers": 71266,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-10-24 10:07:37",
       "album": {
+        "name": "Chanakya",
+        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 163071,
+      "name": "Chanakya",
+      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
+    },
+    {
+      "added_at": "2024-10-24 10:07:37",
+      "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 532300,
       "name": "Chaap Tilak",
       "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
-    },
-    {
-      "added_at": "2024-10-24 10:07:37",
-      "album": {
-        "name": "Chanakya",
-        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 163071,
-      "name": "Chanakya",
-      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
     },
     {
       "added_at": "2024-10-24 10:07:37",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-10-24 10:07:37",
       "album": {
+        "name": "Text me when you reach",
+        "url": "https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Raj",
+          "url": "https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF"
+        }
+      ],
+      "duration_ms": 91325,
+      "name": "Text me when you reach",
+      "url": "https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR"
+    },
+    {
+      "added_at": "2024-10-24 10:07:37",
+      "album": {
         "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 161333,
       "name": "Nadiya Bairi Bhayi",
       "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
-    },
-    {
-      "added_at": "2024-10-24 10:07:37",
-      "album": {
-        "name": "Text me when you reach",
-        "url": "https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        },
-        {
-          "name": "Raj",
-          "url": "https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF"
-        }
-      ],
-      "duration_ms": 91325,
-      "name": "Text me when you reach",
-      "url": "https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR"
     },
     {
       "added_at": "2024-10-24 10:07:37",

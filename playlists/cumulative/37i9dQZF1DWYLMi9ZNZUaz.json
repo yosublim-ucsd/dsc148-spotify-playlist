@@ -354,7 +354,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 212732,
       "name": "Anh Lu\u00f4n Nh\u01b0 V\u1eady",
       "url": "https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs"
@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Love is",
+        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266758,
+      "name": "Love is",
+      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
+    },
+    {
+      "album": {
         "name": "ANH TRAI \"SAY HI\", T\u1eadp 4",
         "url": "https://open.spotify.com/album/58EKJDBEuoQjjTXxVAjhwk"
       },
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 247843,
       "name": "L\u1ef1a Ch\u1ecdn C\u1ee7a Em",
       "url": "https://open.spotify.com/track/5S1qhBgTprx5CFkLmmU95i"
@@ -5316,7 +5334,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 252539,
       "name": "\u0111\u1ee9a n\u00e0o l\u00e0m em bu\u1ed3n?",
       "url": "https://open.spotify.com/track/3CqtQwaoQTdgDWLHyv7Twr"

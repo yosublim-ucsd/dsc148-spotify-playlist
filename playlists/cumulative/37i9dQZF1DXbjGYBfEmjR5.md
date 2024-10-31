@@ -232,7 +232,7 @@
 | [Jo](https://open.spotify.com/track/067CPk2xvXSVTx9NWAJfhL) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/4ohrh73JQMZU6XwjQgbyXl) | 2:16 | 2022-04-12 | 2022-07-28 |
 | [Jo](https://open.spotify.com/track/1SgsRoIXRSsLxT6fkG3DkZ) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:16 | 2022-07-15 | 2022-08-13 |
 | [Journey](https://open.spotify.com/track/3zdzuZCTpZUzWXEggYzVJN) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Journey](https://open.spotify.com/album/4yCmeh4MPTugT67AgoxXph) | 4:20 | 2021-12-08 | 2022-07-28 |
-| [Just a Little](https://open.spotify.com/track/4CqwRPsNgnrs05KGY2MXks) | [Amherst](https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU) | [Kudatah, Vol\. 1](https://open.spotify.com/album/0j21NLeNyi3QtU1Y8XJE7l) | 3:13 | 2022-03-11 | 2024-07-12 |
+| [Just a Little](https://open.spotify.com/track/4CqwRPsNgnrs05KGY2MXks) | [Amherst](https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU) | [Kudatah, Vol\. 1](https://open.spotify.com/album/0j21NLeNyi3QtU1Y8XJE7l) | 3:13 | 2022-03-11 |  |
 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 | 2022-04-12 |  |
 | [Knights](https://open.spotify.com/track/0QzY4pMzEuJhql5eTHjUW7) | [Bazz](https://open.spotify.com/artist/7L2KG4aO0ik742ux5CFgVp) | [Montaime, Vol\. 1](https://open.spotify.com/album/0Ijy3uJnjyyyahnUgykdDY) | 6:09 | 2021-12-08 | 2022-07-27 |
 | [Knights](https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68) | [Bazz](https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr) | [Montaime, Vol\. 1](https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP) | 6:09 | 2022-11-04 | 2023-07-05 |
@@ -524,6 +524,6 @@
 | [バイ少女時代](https://open.spotify.com/track/3XfKumvamwW49nvWeOAYex) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J), [Brayan Rojitas](https://open.spotify.com/artist/5sslm1HcMsBXOetapPkm7S) | [バイ少女時代](https://open.spotify.com/album/5ztplMUYXwzrs5hUEIu7Mn) | 4:19 | 2021-12-08 | 2022-07-16 |
 | [君Kimi \(You Came Along\)](https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 4:20 | 2021-12-08 |  |
 | [泣かないで](https://open.spotify.com/track/156AIu6rmcyLpyWQ3slAZz) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [泣かないで](https://open.spotify.com/album/7xlbg2ythTaalHcpJbRIDp) | 3:12 | 2022-03-11 | 2022-04-21 |
-| [違う](https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz) | [違う](https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S) | 2:33 | 2021-12-08 |  |
+| [違う](https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz) | [違う](https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S) | 2:33 | 2021-12-08 | 2024-10-31 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

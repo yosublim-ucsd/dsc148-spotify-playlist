@@ -1,12 +1,12 @@
 {
   "description": "Scary monsters and filthy drops.",
-  "num_followers": 40513,
+  "num_followers": 40668,
   "original_name": "The Graveyard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvtzwAAAAAAIbWgUFTAGab1vOPQtHA7U",
+  "snapshot_id": "ZyMAwAAAAAAKDOrWqMtoGfmjYvspmKwA",
   "tracks": [
     {
       "added_at": "2024-10-01 04:00:00",
@@ -63,6 +63,26 @@
       "duration_ms": 243353,
       "name": "Scary Monsters and Nice Sprites",
       "url": "https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0"
+    },
+    {
+      "added_at": "2024-10-31 04:00:00",
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/5dH89SWty2zwQkpLtPI2Lv"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/4UmpZwWh99V5JMSrGsacFP"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -1547,22 +1567,6 @@
       "duration_ms": 268965,
       "name": "Supernatural (feat. Anjulie)",
       "url": "https://open.spotify.com/track/1axYKkAUrZbB1axBahVM2J"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
-        "name": "Wicked EP",
-        "url": "https://open.spotify.com/album/4PM29w4J6uoDhYSuup97vD"
-      },
-      "artists": [
-        {
-          "name": "Luci",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Till the Day I Die",
-      "url": "https://open.spotify.com/track/5TDQ3wiyuBgvSa6HQ1RFcy"
     },
     {
       "added_at": "2024-10-01 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: AV AV AV
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,640 likes - 103 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,646 likes - 103 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 41 | [Warm Embrace](https://open.spotify.com/track/0Wcy2hkCRASGxDvE0Spq8j) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [FourKDaze](https://open.spotify.com/artist/5utqDAybty1khNO3ohljml) | [Warm Embrace](https://open.spotify.com/album/1p0JTIR7fkIX7JAoQFmphv) | 2:48 |
 | 42 | [Middle Man](https://open.spotify.com/track/650Gl0mOtKdKFeA84LnapZ) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Middle Man](https://open.spotify.com/album/5hPhlLsFJFtyG5Ylr3YLsP) | 6:00 |
 | 43 | [Gundam](https://open.spotify.com/track/5q5KRMmj8TIIm3FNzs16Cw) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Gundam](https://open.spotify.com/album/7HUD2ph11CBmesjPmCZXsp) | 3:53 |
-| 44 | [RADIO INTERRUPTIONS ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 |
+| 44 | [RADIO INTERRUPTION ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 |
 | 45 | [Cute Little Spore](https://open.spotify.com/track/509zMFnWGIlbhnISg2CAa2) | [Velvy](https://open.spotify.com/artist/3QOzYZsjM7lKys2jAyg9JV) | [Cute Little Spore](https://open.spotify.com/album/3KPcc9b9UHUbVK0QmbMoOE) | 3:12 |
 | 46 | [Be More](https://open.spotify.com/track/4yn88vEzieKnmlxCgblsln) | [Killrude](https://open.spotify.com/artist/7vu6qFoScUCTbhWxtwN59O), [C Adct](https://open.spotify.com/artist/5ici3YJkrmWvr4rNCzBPcC) | [Be More](https://open.spotify.com/album/7HE3RdqFTQ6SS3wV5NHQPv) | 2:20 |
 | 47 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 |

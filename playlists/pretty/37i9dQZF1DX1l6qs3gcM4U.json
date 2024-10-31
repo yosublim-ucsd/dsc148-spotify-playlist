@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Nice Life ",
-  "num_followers": 210497,
+  "num_followers": 210538,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Batom",
+        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Batom",
+      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "F\u00e9",
         "url": "https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 152410,
       "name": "F\u00e9",
       "url": "https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Batom",
-        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "Batom",
-      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1027,30 +1027,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/6SVKMkDQ0JfEQ8n1ZibYLZ"
-      },
-      "artists": [
-        {
-          "name": "J Levy",
-          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
-        },
-        {
-          "name": "Labo Music",
-          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
-        },
-        {
-          "name": "Dj kalisboy",
-          "url": "https://open.spotify.com/artist/1JrVnCOJahRA4PeqsnOocV"
-        }
-      ],
-      "duration_ms": 186524,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/3g6nTTgyH0IZ459ca8XtuO"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Menta",
         "url": "https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk"
       },
@@ -1071,6 +1047,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Menina Mulher",
+        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
+      },
+      "artists": [
+        {
+          "name": "Liriany",
+          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Fa\u00e7o Como",
+      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
       },
@@ -1087,18 +1079,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Menina Mulher",
-        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/6SVKMkDQ0JfEQ8n1ZibYLZ"
       },
       "artists": [
         {
-          "name": "Liriany",
-          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+          "name": "J Levy",
+          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
+        },
+        {
+          "name": "Labo Music",
+          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
+        },
+        {
+          "name": "Dj kalisboy",
+          "url": "https://open.spotify.com/artist/1JrVnCOJahRA4PeqsnOocV"
         }
       ],
-      "duration_ms": 201253,
-      "name": "Fa\u00e7o Como",
-      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
+      "duration_ms": 186524,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3g6nTTgyH0IZ459ca8XtuO"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1131,42 +1131,6 @@
       "duration_ms": 248000,
       "name": "Voc\u00ea Me Kuia",
       "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Meu Marido",
-        "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
-      },
-      "artists": [
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        }
-      ],
-      "duration_ms": 219218,
-      "name": "Meu Marido",
-      "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Monarquia",
-        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Mylson",
-          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
-        }
-      ],
-      "duration_ms": 202032,
-      "name": "Monarquia",
-      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1207,18 +1171,58 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Te Amo Tanto",
-        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
+        "name": "Meu Marido",
+        "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
       },
       "artists": [
         {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
         }
       ],
-      "duration_ms": 182608,
-      "name": "Te Amo Tanto",
-      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
+      "duration_ms": 219218,
+      "name": "Meu Marido",
+      "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Monarquia",
+        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Mylson",
+          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
+        }
+      ],
+      "duration_ms": 202032,
+      "name": "Monarquia",
+      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Lobo da Labo",
+        "url": "https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9"
+      },
+      "artists": [
+        {
+          "name": "Labo Music",
+          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
+        },
+        {
+          "name": "J Levy",
+          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
+        }
+      ],
+      "duration_ms": 204721,
+      "name": "Companhia",
+      "url": "https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1235,6 +1239,22 @@
       "duration_ms": 167180,
       "name": "Hey Odja",
       "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Te Amo Tanto",
+        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Te Amo Tanto",
+      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1287,26 +1307,6 @@
       "duration_ms": 263906,
       "name": "Puro",
       "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Lobo da Labo",
-        "url": "https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9"
-      },
-      "artists": [
-        {
-          "name": "Labo Music",
-          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
-        },
-        {
-          "name": "J Levy",
-          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
-        }
-      ],
-      "duration_ms": 204721,
-      "name": "Companhia",
-      "url": "https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Benka Benka",
+        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        },
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Benka Benka",
+      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Tarraxinha",
         "url": "https://open.spotify.com/album/74ausXGM4e3XqEi8Ew7wda"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 144255,
       "name": "Tarraxinha",
       "url": "https://open.spotify.com/track/5zFiKis35K7y8G4H5Y1A9j"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Benka Benka",
-        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
-        },
-        {
-          "name": "SOS MUCCI",
-          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Benka Benka",
-      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Si Ki Min Kr\u00e8",
-        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "Si Ki Min Kr\u00e8",
-      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 286093,
       "name": "Teu Ego",
       "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Si Ki Min Kr\u00e8",
+        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "Si Ki Min Kr\u00e8",
+      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1807,22 +1807,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Sentimento",
-        "url": "https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3"
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
       },
       "artists": [
         {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
         },
         {
-          "name": "Filho do Zua",
-          "url": "https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm"
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
         }
       ],
-      "duration_ms": 192702,
-      "name": "Sentimento",
-      "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
+      "duration_ms": 217301,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Filho do Zua",
+          "url": "https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm"
+        }
+      ],
+      "duration_ms": 192702,
+      "name": "Sentimento",
+      "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Apaxonado",
         "url": "https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 291960,
       "name": "Belissima",
       "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Alice",
-        "url": "https://open.spotify.com/album/0bqU2C6XuX8vM8ryvDTp2M"
-      },
-      "artists": [
-        {
-          "name": "Joelson JB",
-          "url": "https://open.spotify.com/artist/5RK5GOWNUzzjJBUVmOAiQ8"
-        },
-        {
-          "name": "Dam\u00e1sio Brothers",
-          "url": "https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/1slZ4CnuSiCp3xfq766Fce"
     }
   ],
   "unique_name": "Dancing Kizomba",

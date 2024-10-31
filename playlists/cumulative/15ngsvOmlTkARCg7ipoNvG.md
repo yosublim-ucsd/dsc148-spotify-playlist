@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,831 songs - 1 day 13 hr 36 min
+1,832 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,6 +719,7 @@
 | [Gifts Arr\. For Strings](https://open.spotify.com/track/14rLJX8NIWMTcGe89h3DO6) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Gifts Arr\. For Strings](https://open.spotify.com/album/4kyEpcip0NOTEj4th4V57L) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Gifts Revisited \- Cello Version](https://open.spotify.com/track/0YXK4MiV4FZ9PAsGIJfZfh) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Echoes In Time \(Cello Version\)](https://open.spotify.com/album/2sELlm2BckpPszTqN2H4BY) | 1:06 | 2022-02-17 | 2024-02-13 |
 | [Giving](https://open.spotify.com/track/0PJuUAsl2jGMtw6ZiGKYzR) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Giving](https://open.spotify.com/album/4dl1GEckFhiGxyi4cCfBUg) | 1:00 | 2024-04-02 |  |
+| [Giving \- Reimagined Strings Version](https://open.spotify.com/track/1GIG1gb0dKUumDM2GizGAr) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Giving \(Reimagined Strings Version\)](https://open.spotify.com/album/0p3bLgZ8BvGA6PeMTcypWT) | 1:00 | 2024-10-30 |  |
 | [Gliding](https://open.spotify.com/track/2pAUjS1Nh3cJ4tXnaOZAB5) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Surroundings](https://open.spotify.com/album/62DPhgHEQoHwj3ujb1DGGQ) | 1:18 | 2024-01-29 |  |
 | [Gliding In Spring](https://open.spotify.com/track/1PilpHZcm9by6JlyEUr6NN) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calming Moments](https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z) | 1:01 | 2022-05-15 |  |
 | [Glimmer](https://open.spotify.com/track/213VQrbegCNAM6RAujcN4E) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:35 | 2024-01-29 |  |

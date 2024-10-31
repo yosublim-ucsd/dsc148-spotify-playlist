@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 188 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 188 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 77 | [Roses Red, Violets Blue \- Remastered Version](https://open.spotify.com/track/2Vjw8cQQYuNFiiEUP5qush) | [Gay Purr\-ee \- Judy Garland](https://open.spotify.com/artist/3GszhfhNYHgpvh1kYQv884) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 2:02 |
 | 78 | [Bubbles](https://open.spotify.com/track/1Z3HciVgsl8530cJk8lNjL) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Bubbles & Ballads](https://open.spotify.com/album/46eVO60uaj6O5XwnI2KuaZ) | 4:09 |
 | 79 | [Take My Hand Paree](https://open.spotify.com/track/780dLsCO313bNS7k9J2Jeg) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [City History](https://open.spotify.com/artist/6yNWNQ9HxFBAOFEHcRQN5Z) | [PARIS CITY HISTORY 1927 \- 1962](https://open.spotify.com/album/3HXPR1gcbyHOJ4zlQBFoQJ) | 2:56 |
-| 80 | [Green Eyes](https://open.spotify.com/track/32TC1Ay0ccXZz8zSTHq5Jx) | [Tommy Dorsey / Jimmy Dorsey](https://open.spotify.com/artist/4gRI1O2PDMRfIV1pFShRcj) | [The Dorsey Brothers](https://open.spotify.com/album/2UfILZ3cxaEgaXYjeikYEe) | 3:15 |
-| 81 | [Free and Equal Blues](https://open.spotify.com/track/6lhdFMZRCRwPGvwYe4bXcP) | [Josh White](https://open.spotify.com/artist/0nZxdWJcomHivMW1UwCKQb) | [The Story Of John Henry..\. A Musical Narrative](https://open.spotify.com/album/66z5jhUnq0p2Nh1ChBoYdu) | 3:51 |
+| 80 | [Free and Equal Blues](https://open.spotify.com/track/6lhdFMZRCRwPGvwYe4bXcP) | [Josh White](https://open.spotify.com/artist/0nZxdWJcomHivMW1UwCKQb) | [The Story Of John Henry..\. A Musical Narrative](https://open.spotify.com/album/66z5jhUnq0p2Nh1ChBoYdu) | 3:51 |
+| 81 | [Green Eyes](https://open.spotify.com/track/32TC1Ay0ccXZz8zSTHq5Jx) | [Tommy Dorsey / Jimmy Dorsey](https://open.spotify.com/artist/4gRI1O2PDMRfIV1pFShRcj) | [The Dorsey Brothers](https://open.spotify.com/album/2UfILZ3cxaEgaXYjeikYEe) | 3:15 |
 | 82 | [The End Of A Beutiful Friendship \- Live](https://open.spotify.com/track/4FdZGAT4noVSMUwTK0s3WM) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Unforgettable](https://open.spotify.com/album/2iTU0F5TbfWfYMk9ZVK8ui) | 3:35 |
 | 83 | [Never Trust A Friend](https://open.spotify.com/track/7KMFVVwIeNEocj1xMjcFQY) | [Chaotic Dischord](https://open.spotify.com/artist/3wtA3NrxZk9no4ltkbTEVb) | [Now! That's What I Call A Fuckin' Racket, Vol\. 1](https://open.spotify.com/album/7qvBQEwrVzZyjACSVVSIo8) | 2:08 |
 | 84 | [Mewette \- Remastered Version](https://open.spotify.com/track/3y3zhrwmKd9T5oIOu4DGJR) | [Gay Purr\-ee \- Robert Goulet](https://open.spotify.com/artist/3VvHG57lT5KbYI8ZIMGTh9) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 1:09 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 105 | [Little Biscuit](https://open.spotify.com/track/5u9L0jeyoN4ri0x3mWWg3t) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 3:03 |
 | 106 | [Paging Mr\. Greenback \(from "Presenting Lily Mars"\) \- 2022 Remaster](https://open.spotify.com/track/0P0kFkvKLrBFg6EJ3VTOGR) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [MGM Studio Chorus](https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 4:52 |
 | 107 | [Any Moment Now](https://open.spotify.com/track/2UzbkZBVvQCjwPZTwKoPde) | [Deanna Durbin](https://open.spotify.com/artist/3DgG8fJMf9FZlbRXIwfu2a) | [The Golden Voice Of Denna Durbin](https://open.spotify.com/album/3zIcrbNSY6ovfsun3oddFb) | 3:09 |
-| 108 | [Flahooley](https://open.spotify.com/track/6EBbGJgMeDJCp5IBgCa3gB) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:10 |
-| 109 | [The World Is Your Balloon](https://open.spotify.com/track/2NJ3L8rG3vlpSzm4T95x1M) | [Pinky Winters](https://open.spotify.com/artist/2nrMrwUyFoMwp1IOLDsYqt) | [Pinky](https://open.spotify.com/album/0yFTC80tBV39h5vivVA4Vf) | 2:43 |
+| 108 | [The World Is Your Balloon](https://open.spotify.com/track/2NJ3L8rG3vlpSzm4T95x1M) | [Pinky Winters](https://open.spotify.com/artist/2nrMrwUyFoMwp1IOLDsYqt) | [Pinky](https://open.spotify.com/album/0yFTC80tBV39h5vivVA4Vf) | 2:43 |
+| 109 | [Flahooley](https://open.spotify.com/track/6EBbGJgMeDJCp5IBgCa3gB) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:10 |
 | 110 | [Don't Let It Get You Down](https://open.spotify.com/track/1a9rx3CzfPT4M0g1iEmGu3) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Sing Me A Swing Song](https://open.spotify.com/album/0IPTjh7ZZB3jL8WWS78wqw) | 2:13 |
 | 111 | [Let's Put Our Heads Together](https://open.spotify.com/track/55eZdjrzbSDCdyGldVjeXW) | [Dick Powell](https://open.spotify.com/artist/5hGZNLPNm2t3W0v28geOIK) | [There's Two Sides to Every Story](https://open.spotify.com/album/2h0guLYfqx2MfiusyEW3Hw) | 2:29 |
 | 112 | [Noah](https://open.spotify.com/track/0ntszQBXc1b3ycd7JIl0Lk) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:21 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 187 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 | 188 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 
-Snapshot ID: `AbgG9AAAAAASp/Yrrt+OgCMsKlfK1ngl`
+Snapshot ID: `AbgNDAAAAADG2PZMUg67VIN66oYnCHs4`

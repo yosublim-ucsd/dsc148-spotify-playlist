@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:5GymgO2A0NDEhmRk5RwCi3">Asia Nawojska</a>\. Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,395 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,405 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 32 | [Błąd](https://open.spotify.com/track/1tru4WmugIFpk9HIfPmOMI) | [Heima](https://open.spotify.com/artist/1aYeYHF941WNJDRlII88WD) | [Świat z tektury](https://open.spotify.com/album/2egiBLjV3arrBLkrqecl9T) | 3:26 |
 | 33 | [WIDOW](https://open.spotify.com/track/3AhXmFtZt7Jk1pN8vJo13o) | [UTL](https://open.spotify.com/artist/4yWXJaxWoTKLzR86teHy1Y), [Lia](https://open.spotify.com/artist/6T0F3nXTTEc0TICSiRB9p3), [Populous](https://open.spotify.com/artist/2cZBZKGUnlYJEVQBk1q50U) | [WIDOW](https://open.spotify.com/album/1xdBBnGmQfnlMdGszA3UrP) | 2:28 |
 | 34 | [strach](https://open.spotify.com/track/6NGryOAkRaLH0jfTEquqs2) | [daysdaysdays](https://open.spotify.com/artist/2QLQnuxBwO6XzrUt0wcl9Z) | [strach](https://open.spotify.com/album/6KMDDPl5LpmEwQYJXuRYco) | 2:10 |
-| 35 | [Unosić](https://open.spotify.com/track/2ZpNBYeBRkMS9BxUskNGu5) | [Anchey Nocon](https://open.spotify.com/artist/1zV4xbIXsPwb86opVmYZAt) | [Unosić](https://open.spotify.com/album/1JWmwyRrT0TNcDd2iZ8jjW) | 4:57 |
+| 35 | [Unosić](https://open.spotify.com/track/2ZpNBYeBRkMS9BxUskNGu5) | [Anchey Nocon](https://open.spotify.com/artist/1zV4xbIXsPwb86opVmYZAt) | [Unosić](https://open.spotify.com/album/1JWmwyRrT0TNcDd2iZ8jjW) | 4:38 |
 | 36 | [Narkotyk](https://open.spotify.com/track/5AO9dmRl4XCb0iW6ZP3fQb) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Narkotyk](https://open.spotify.com/album/1eVrFxiHAjO66n5JsXF7CQ) | 2:07 |
 | 37 | [Problemy](https://open.spotify.com/track/6SFWx74pyGp6vvku6E8yAM) | [Potwory I Ludzie](https://open.spotify.com/artist/3uGSP7rdG5TZ8UAaFEfpMf) | [Problemy](https://open.spotify.com/album/5T7ZECIYp37MAMRNjfBcwH) | 1:26 |
 | 38 | [narkotyk](https://open.spotify.com/track/04RzWg0y8xj7PAfmRUUv3u) | [Erwik](https://open.spotify.com/artist/1IiRcsh4LaL0NVGv4eOV3r) | [narkotyk](https://open.spotify.com/album/15P2RlWopDH4vWdv7yPkis) | 1:50 |

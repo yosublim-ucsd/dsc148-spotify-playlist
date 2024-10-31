@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 25888,
+  "num_followers": 25892,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx7UAAAAAAAMmSEaYc+jnebGZWpu3PiS",
+  "snapshot_id": "ZyAlgAAAAAAmOXfDJU/b6rCMBEbsU+iE",
   "tracks": [
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Mi Tierra",
-        "url": "https://open.spotify.com/album/0raXaTso2qdOhLbiopH14V"
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 217040,
-      "name": "El Corrido De Amado Carrillo",
-      "url": "https://open.spotify.com/track/0XPviPLJvtGHBuSALz9NPY"
+      "duration_ms": 151506,
+      "name": "La Trailerita",
+      "url": "https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn"
+        "name": "Corridos De Mi Tierra",
+        "url": "https://open.spotify.com/album/0raXaTso2qdOhLbiopH14V"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 151506,
-      "name": "La Trailerita",
-      "url": "https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f"
+      "duration_ms": 217040,
+      "name": "El Corrido De Amado Carrillo",
+      "url": "https://open.spotify.com/track/0XPviPLJvtGHBuSALz9NPY"
     },
     {
       "added_at": null,

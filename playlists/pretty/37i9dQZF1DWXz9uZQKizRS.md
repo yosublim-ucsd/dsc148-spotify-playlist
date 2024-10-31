@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Jea Mira
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,795 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,798 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 56 | [cel! pal!](https://open.spotify.com/track/22Lkyyx75WrFkZiSF7PLPe) | [nic nic](https://open.spotify.com/artist/3iXF1TPd2ydHapLJ6uPqUi) | [cel! pal!](https://open.spotify.com/album/2ib6Kjk5Gr01Jk6YkshQG1) | 3:07 |
 | 57 | [Wracam do lat](https://open.spotify.com/track/3eFYkEE0ULI91K9qrCslQ4) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Wracam do lat](https://open.spotify.com/album/4P3zxHx9vFFkgHNjc3z5br) | 3:18 |
 | 58 | [urywki](https://open.spotify.com/track/2IvqPWjG59ay9UAl0G9oVE) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [urywki](https://open.spotify.com/album/4aE6ZaFWZNhSpg2fDgWORu) | 3:26 |
-| 59 | [Tańcz](https://open.spotify.com/track/023jtrvcdBsIfsVfMTQjXT) | [Marika](https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR), [NUN](https://open.spotify.com/artist/3Rtpj61FzWPV5CAw0npZEn) | [Tańcz](https://open.spotify.com/album/6BqgCKCTWOYXNHHSrpfAAh) | 2:52 |
+| 59 | [Tańcz](https://open.spotify.com/track/023jtrvcdBsIfsVfMTQjXT) | [Marika](https://open.spotify.com/artist/7kGI97irN79ioVapZR3cI3), [NUN](https://open.spotify.com/artist/3Rtpj61FzWPV5CAw0npZEn) | [Tańcz](https://open.spotify.com/album/6BqgCKCTWOYXNHHSrpfAAh) | 2:52 |
 | 60 | [Winogradzki](https://open.spotify.com/track/7wkzbnmpRNrVvj4HArHPES) | [Winogradzki Lew](https://open.spotify.com/artist/3x0dWLbZj9iSuIdXFDY3dy), [Julia Rover](https://open.spotify.com/artist/70zXFyFXCecgOndjLIbQ1P) | [Winogradzki](https://open.spotify.com/album/4PsKUJIXZGSNWak1qtjjDW) | 3:16 |
 | 61 | [W kwietniu się nie umiera](https://open.spotify.com/track/7uOYx1FNQQao9iwYTRxuOn) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0) | [W kwietniu się nie umiera](https://open.spotify.com/album/5HsOaA8jlC6RgtFAwkJO7b) | 3:06 |
 | 62 | [Ten wielki świat](https://open.spotify.com/track/7AgOGSygYUODiZTM9VypTS) | [Szefner](https://open.spotify.com/artist/3M9n9VCc39QFqVzU9guLjf) | [Ten wielki świat](https://open.spotify.com/album/6rCbAZ8iZKe7cLmPX79LaR) | 2:50 |

@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Sonder (2023)",
+        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162482,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6x1I3zQyA5cUCsxPrGHHrP"
+    },
+    {
+      "album": {
         "name": "For Love EP",
         "url": "https://open.spotify.com/album/2iScKyaNw1LL46ZYuJt4fD"
       },
@@ -194,7 +212,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 238941,
       "name": "Already Gone (feat. Emily Warren)",
       "url": "https://open.spotify.com/track/2PQxXvYHGCGF6qXx2xL24V"
@@ -1094,6 +1112,24 @@
       "duration_ms": 169369,
       "name": "High Five",
       "url": "https://open.spotify.com/track/1oIWorI4t6H6Dv2hU5fEH8"
+    },
+    {
+      "album": {
+        "name": "Good Looks",
+        "url": "https://open.spotify.com/album/1NcKu9EZkyHLshZ9HK6zlG"
+      },
+      "artists": [
+        {
+          "name": "A Story Told",
+          "url": "https://open.spotify.com/artist/0kMSrud2q1lDBgp43LwU54"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197281,
+      "name": "Hit and Run",
+      "url": "https://open.spotify.com/track/59tcOaj5qlNdGRpGzCzYOc"
     },
     {
       "album": {

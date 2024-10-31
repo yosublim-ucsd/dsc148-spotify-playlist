@@ -4,7 +4,7 @@
 
 > 
 
-496 songs - 1 day 7 hr 36 min
+497 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Helvegen](https://open.spotify.com/track/596DO7Czmqib9aHtYNkE3I) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Helvegen](https://open.spotify.com/album/4GAnaV24pqGxfGhzP9dJvZ) | 6:52 | 2024-07-16 |  |
 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 | 2024-07-04 |  |
 | [Hey Cowboy](https://open.spotify.com/track/5FfgLIooERZ7rcNcwxAcdF) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Hey Cowboy](https://open.spotify.com/album/17wY9BVWaZncYiZBleCcJX) | 3:07 | 2024-07-19 |  |
+| [Hi Ren](https://open.spotify.com/track/0FLwYQoXvX8q5iRZnFX59u) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Hi Ren](https://open.spotify.com/album/2wXIwZRV93MS5en0FQuDMA) | 8:35 | 2024-10-30 |  |
 | [Hidden Place](https://open.spotify.com/track/4c6LgotpKGB791EsNeu9gr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 5:29 | 2024-07-16 |  |
 | [Hobbit Drinking Songs, Pt\. 2](https://open.spotify.com/track/6DKr8MVHS9oABzNppambXL) | [Colm R\. McGuinness](https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U) | [Hobbit Drinking Songs, Pt\. 2](https://open.spotify.com/album/73ntWBnLYWEeNJPBWkpdsc) | 1:57 | 2024-07-17 |  |
 | [Hold on I'm Coming](https://open.spotify.com/track/4XCCPbusK5oaQ8ANJHwwYA) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Covers](https://open.spotify.com/album/44GYYLIA5ewf41KOqA0C1u) | 3:53 | 2024-07-16 |  |

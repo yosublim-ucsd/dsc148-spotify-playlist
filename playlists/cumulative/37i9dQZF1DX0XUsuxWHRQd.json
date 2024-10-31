@@ -11897,6 +11897,24 @@
     },
     {
       "album": {
+        "name": "Back from the Dead 2",
+        "url": "https://open.spotify.com/album/4ofXNc9mk1eIeXSqHoYd1h"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206654,
+      "name": "Faneto",
+      "url": "https://open.spotify.com/track/6fL8iaSdwmSTQiUv9K6L4h"
+    },
+    {
+      "album": {
         "name": "It Takes a Thief",
         "url": "https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb"
       },

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,196 songs - 1 day 21 hr 35 min
+1,197 songs - 1 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Colorful Leaves](https://open.spotify.com/track/56zclYajeHI9U3KDWmFwwE) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Colorful Leaves](https://open.spotify.com/album/3xCpC0Mda19tESAUFUnO2t) | 1:50 | 2021-11-10 | 2022-09-03 |
 | [comeback!](https://open.spotify.com/track/1dpsUbVZVsSqeHU9LIXpsU) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [comeback!](https://open.spotify.com/album/4Bq3HgXr0hUdO0st01IVsf) | 2:17 | 2023-07-13 | 2024-08-24 |
 | [Comfortable](https://open.spotify.com/track/4tReGzA7E6SRrqmWhUbnvu) | [Red Lekk](https://open.spotify.com/artist/5luaCdQ4VxA8NcuLTu5Y89) | [Comfortable](https://open.spotify.com/album/43y8tCWXbrSwXjqglWt0Yt) | 2:18 | 2022-12-09 | 2024-05-14 |
-| [Composure](https://open.spotify.com/track/7hCe1hmwNJX9eSbsAPU4kF) | [Node Park](https://open.spotify.com/artist/3BHFkHYwu4ZxfghindI4WO) | [Composure](https://open.spotify.com/album/4Uqz908hYJevgGm2Q0PhKp) | 2:30 | 2023-01-20 |  |
+| [Composure](https://open.spotify.com/track/7hCe1hmwNJX9eSbsAPU4kF) | [Node Park](https://open.spotify.com/artist/3BHFkHYwu4ZxfghindI4WO) | [Composure](https://open.spotify.com/album/4Uqz908hYJevgGm2Q0PhKp) | 2:30 | 2023-01-20 | 2024-10-31 |
 | [Concrete](https://open.spotify.com/track/1RzoLQJAzGjqpzUDZFuhUV) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Concrete](https://open.spotify.com/album/2hs7bgiqTR39429D3eIoke) | 1:15 | 2021-11-10 | 2022-06-10 |
 | [Confident strut](https://open.spotify.com/track/3Ck5Jt3L0UxacmAT5iqndF) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Confident strut](https://open.spotify.com/album/6fEKV9ocCQdawVJNj8wTkQ) | 2:11 | 2022-10-01 |  |
 | [console](https://open.spotify.com/track/3d5i2qbIYsLe8EyhTdq54z) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [console](https://open.spotify.com/album/62YLiYuFn2KLRKf2k9CkDw) | 3:38 | 2022-11-25 | 2023-03-18 |
@@ -669,6 +669,7 @@
 | [Mind The Gap](https://open.spotify.com/track/6uTQFfranV3N08C6H3M2PU) | [Jeya Mira](https://open.spotify.com/artist/24ec9e0WVfG0YKY1ODiBAr) | [Mind The Gap](https://open.spotify.com/album/7MktGxa4bx7lLU4WHmlxcB) | 2:08 | 2023-03-16 | 2024-05-14 |
 | [Mindfeed](https://open.spotify.com/track/3DCTfQKjqFkLOH6h3RsviA) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Mindfeed](https://open.spotify.com/album/0qgpvMEpFqBZncu6mDlCwI) | 2:11 | 2023-09-15 |  |
 | [Miracle Seed](https://open.spotify.com/track/2mkPfkWMCzMCgRAVoIOxA3) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Miracle Seed](https://open.spotify.com/album/53oO5j6Y0ZBpFp8FNu8Rof) | 2:52 | 2022-08-05 | 2022-10-29 |
+| [Miradouro](https://open.spotify.com/track/5J93bj0EUX4pa61sPbfz11) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Miradouro](https://open.spotify.com/album/5yuH6LbyWS5Y23KUxumDiw) | 2:03 | 2024-10-16 |  |
 | [Mirage](https://open.spotify.com/track/4wiHqJ6vko9KNaWpwi8IKc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Mirage](https://open.spotify.com/album/7t4rx6Q0dN2mYIuD9LcXt0) | 2:11 | 2023-07-13 |  |
 | [Missing You](https://open.spotify.com/track/0UAX9Dg0SpDQPiZNWa4ahx) | [Calm Chapter](https://open.spotify.com/artist/7Bqsbmh24Qjg1sugGDNUoh) | [Missing You](https://open.spotify.com/album/3j9iOzvM8C4w3lYzaCC1gu) | 1:58 | 2022-09-23 | 2023-08-04 |
 | [Mister Mystery](https://open.spotify.com/track/0zz9qrOuBk37livkJlBhUW) | [DJ Derelict](https://open.spotify.com/artist/6PNQOoYRp29weY01VojtOd) | [Mister Mystery](https://open.spotify.com/album/6G02TCHRlVZ52bBMlOgtYc) | 2:38 | 2022-03-21 | 2022-05-20 |

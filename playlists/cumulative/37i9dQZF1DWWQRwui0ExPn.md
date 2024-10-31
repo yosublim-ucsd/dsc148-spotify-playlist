@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,042 songs - 11 day 3 hr 0 min
+7,043 songs - 11 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1777,6 +1777,7 @@
 | [Easy](https://open.spotify.com/track/3tsA89ew9UKnNL1O5PAOL2) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Easy](https://open.spotify.com/album/2HJonL9q1xMZA8dXxMR9bH) | 1:34 | 2022-04-23 | 2022-09-16 |
 | [Easy Lovin](https://open.spotify.com/track/6ah6UtxQwaMdQFq78GuMI7) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Easy Lovin](https://open.spotify.com/album/15TxEnIDYL4JVjDZ7r3gzh) | 2:33 | 2022-03-11 | 2022-08-12 |
 | [Easy Rider](https://open.spotify.com/track/4WsHADxCg9B1o0T4fN6o3D) | [77th Man](https://open.spotify.com/artist/11CjITY8hsWlR0zdx7WGOI) | [Headlights](https://open.spotify.com/album/1qU0BYsqhkxp3nnwEDcV5q) | 2:12 | 2021-09-11 | 2022-04-08 |
+| [Eatme](https://open.spotify.com/track/6DnPJtIzURTDpvHts3tZaQ) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Eatme](https://open.spotify.com/album/48xcHcAqiNcaCdGlExb0jA) | 2:15 | 2024-10-25 |  |
 | [ECCO](https://open.spotify.com/track/3F4bz8Pfgapot1GYvA95oH) | [DREΔM CHOIR](https://open.spotify.com/artist/1vReEXi6bP0sxauVVQY6g7) | [ECCO](https://open.spotify.com/album/1EKwRo2pIh6si3JIIHBeBR) | 3:12 | 2022-07-22 | 2022-11-11 |
 | [Echoes](https://open.spotify.com/track/1McwpIWl8DYFRbH4SRyb5c) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB) | [Dreamweavers](https://open.spotify.com/album/4LctpsK1PeTvAOS35NWIoE) | 2:24 | 2022-11-25 | 2023-05-19 |
 | [Echoes](https://open.spotify.com/track/387Wd4KfP3V1qUmMetFE4Z) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB) | [Dreamweavers](https://open.spotify.com/album/4Ror6nexQCEvKRt5cWJBx1) | 2:24 | 2022-11-11 | 2022-11-25 |
@@ -2353,7 +2354,7 @@
 | [Getting Dawn](https://open.spotify.com/track/3sV1oufAUOgDqU6MyofWXe) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Getting Dawn](https://open.spotify.com/album/34AMQc0czXXvxvxuZJl82e) | 2:30 | 2023-09-15 | 2024-03-08 |
 | [Getting Drxnk](https://open.spotify.com/track/2jmYQJQ7DmWPxddCjJljy3) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Getting Drxnk](https://open.spotify.com/album/5zqSM0ljEFmjMAHiEgroyA) | 2:21 | 2022-02-14 | 2022-07-22 |
 | [Getting Drxnk, Pt\. 2 \(Falling Into Oblivion\)](https://open.spotify.com/track/23DN6mSSTo4eUPrVquLcrp) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Getting Drxnk, Pt\. 2 \(Falling Into Oblivion\)](https://open.spotify.com/album/6QzGK9up81ob8Gk3JiEfZo) | 2:23 | 2022-07-29 | 2022-11-11 |
-| [Getting Higher](https://open.spotify.com/track/4sS1G2SEX7SL8Uu0A1facA) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4) | [Getting Higher](https://open.spotify.com/album/2Frku1XNo1DvT5aqvGZohZ) | 2:30 | 2024-04-26 |  |
+| [Getting Higher](https://open.spotify.com/track/4sS1G2SEX7SL8Uu0A1facA) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4) | [Getting Higher](https://open.spotify.com/album/2Frku1XNo1DvT5aqvGZohZ) | 2:30 | 2024-04-26 | 2024-10-31 |
 | [Getting Married](https://open.spotify.com/track/2640vLhigFlqFwsXFPYSQH) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Getting Married](https://open.spotify.com/album/4B0xncyzXBpw4FPAy23V3M) | 2:17 | 2024-09-27 |  |
 | [Ghetto Crypto](https://open.spotify.com/track/6Q8uBP6NyAM1wYxNojAtya) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Ghetto Crypto](https://open.spotify.com/album/55zgKaAnLWDZaJlayJWs4e) | 2:41 | 2021-10-20 | 2022-04-24 |
 | [Ghettos Worldwide](https://open.spotify.com/track/1RmlB5FlFYWQkP8BrveswR) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [waitwait](https://open.spotify.com/album/1yWsCKu5GgKx8RcddQZmgc) | 2:53 | 2021-01-11 | 2021-11-05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
-  "num_followers": 418119,
+  "num_followers": 418230,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx7UAAAAAADjqsKtNy0Jt/hJS4YDsTiL",
+  "snapshot_id": "ZyAlgAAAAAA9MpGwMHfUqEcqhnEgFb/1",
   "tracks": [
     {
       "added_at": null,
@@ -287,38 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Quiere Salir Que Salga",
-        "url": "https://open.spotify.com/album/5JHYvs5iF8NBrkdp6q0XJ1"
+        "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
       },
       "artists": [
         {
-          "name": "Los Bohemios de Sinaloa",
-          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
-        },
-        {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        },
-        {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
-        },
-        {
-          "name": "Jes\u00fas Ojeda y Sus Parientes",
-          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
-        },
-        {
-          "name": "Los Grandes Del Pardito",
-          "url": "https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb"
-        },
-        {
-          "name": "Los Mayitos De Sinaloa",
-          "url": "https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R"
         }
       ],
-      "duration_ms": 154305,
-      "name": "Si Quiere Salir Que Salga",
-      "url": "https://open.spotify.com/track/1tfBkTno29y7zPR6EQvO2B"
+      "duration_ms": 151640,
+      "name": "Pedro Antrax",
+      "url": "https://open.spotify.com/track/3tnNw3TIZGjaj4vyAUUytO"
     },
     {
       "added_at": null,
@@ -355,18 +335,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta En El Cielo Vol 1",
-        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
+        "name": "Si Quiere Salir Que Salga",
+        "url": "https://open.spotify.com/album/5JHYvs5iF8NBrkdp6q0XJ1"
       },
       "artists": [
         {
+          "name": "Los Bohemios de Sinaloa",
+          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
+        },
+        {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        },
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        },
+        {
+          "name": "Jes\u00fas Ojeda y Sus Parientes",
+          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
+        },
+        {
+          "name": "Los Grandes Del Pardito",
+          "url": "https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb"
+        },
+        {
+          "name": "Los Mayitos De Sinaloa",
+          "url": "https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R"
         }
       ],
-      "duration_ms": 151640,
-      "name": "Pedro Antrax",
-      "url": "https://open.spotify.com/track/3tnNw3TIZGjaj4vyAUUytO"
+      "duration_ms": 154305,
+      "name": "Si Quiere Salir Que Salga",
+      "url": "https://open.spotify.com/track/1tfBkTno29y7zPR6EQvO2B"
     },
     {
       "added_at": null,

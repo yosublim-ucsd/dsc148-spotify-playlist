@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ずっと真夜中でいいのに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,797 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,827 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 28 | [A.R.T.](https://open.spotify.com/track/2JSoS5tQ6gL7Uzn3NJv8Zv) | [UN1CON](https://open.spotify.com/artist/0oPBa7n3rNMADVnvUiwp8d) | [A.R.T.](https://open.spotify.com/album/6NRFrl4LB9Wxdhp7LbpIoB) | 3:13 |
 | 29 | [OVER RAP feat\. Kizuna, eyha](https://open.spotify.com/track/1tx5LtaEktvuNnA61LMLzU) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH), [キズナ](https://open.spotify.com/artist/3ivoNDU9tOTa2R7XqiIFFk), [eyha](https://open.spotify.com/artist/1TjWwxW2fsahg8m4lIMBxE) | [OVER RAP feat\. Kizuna, eyha](https://open.spotify.com/album/25JTooNRdgCzpZN0LInLuq) | 2:49 |
 | 30 | [Neverland](https://open.spotify.com/track/5aDUBw8yfIIB694lCS1zJl) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Neverland](https://open.spotify.com/album/5esdjxqilznu13mS3K1Fta) | 3:30 |
-| 31 | [桜日和とタイムマシン with 初音ミク](https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [初音ミク](https://open.spotify.com/artist/5yRZVGcu9VCt8L1Bjzhi5R) | [桜日和とタイムマシン with 初音ミク／初夏](https://open.spotify.com/album/2vxWLmD9gv9RDgL4SM71Wg) | 5:31 |
+| 31 | [桜日和とタイムマシン with 初音ミク](https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [桜日和とタイムマシン with 初音ミク／初夏](https://open.spotify.com/album/2vxWLmD9gv9RDgL4SM71Wg) | 5:31 |
 | 32 | [Hard work](https://open.spotify.com/track/21LClr5fRDBJSEnArdK18P) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Ai no Ubugoe, Ai no Nakigoe](https://open.spotify.com/album/5xfP0RaptOkznxJ2gcpyKz) | 3:03 |
 | 33 | [ゴーストタウン](https://open.spotify.com/track/5kBZipGhR4RxvVNLUQhMti) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [ゴーストタウン](https://open.spotify.com/album/1SOx7oafeIKws2x7ixtDqj) | 3:00 |
 | 34 | [Broke Boy Rich](https://open.spotify.com/track/0dSbZGtxtsbvB6SQNafgmG) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Broke Boy Rich](https://open.spotify.com/album/28FUxgcSQ8dtx1tSf1ZEPS) | 2:16 |

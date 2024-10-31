@@ -12426,7 +12426,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-31",
       "duration_ms": 157585,
       "name": "Neva Play (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/4vEE3lzBLXBN3RxyGtZNir"
@@ -13086,6 +13086,36 @@
       "duration_ms": 198520,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
+    },
+    {
+      "album": {
+        "name": "OMG (Remix)",
+        "url": "https://open.spotify.com/album/0EXfIJ4nlIWMfgMpSt8Xxe"
+      },
+      "artists": [
+        {
+          "name": "Candelita",
+          "url": "https://open.spotify.com/artist/4WzBqbc7fxl2y8XrznMSqf"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Jose iglesia",
+          "url": "https://open.spotify.com/artist/6NVVcu2j3GlTJwVUnNh27B"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131144,
+      "name": "OMG - Remix",
+      "url": "https://open.spotify.com/track/46y7qVfQdcDCeo2pA868Ra"
     },
     {
       "album": {

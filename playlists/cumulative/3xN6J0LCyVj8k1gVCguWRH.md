@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,103 songs - 9 day 14 hr 24 min
+4,104 songs - 9 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3510,6 +3510,7 @@
 | [the cycle](https://open.spotify.com/track/5Qb7N4W7wWCWQx42ZUpBwc) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [the cycle](https://open.spotify.com/album/3GBGtB6ZqoloBakmYpQiwA) | 2:27 | 2024-02-03 | 2024-02-17 |
 | [The Dark](https://open.spotify.com/track/06b9t1OXzvmdVk6MWRjozU) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [The Dark](https://open.spotify.com/album/1qfu5qBDO9n6S5tovKYQ1X) | 2:51 | 2024-08-03 | 2024-08-15 |
 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 | 2023-07-20 |  |
+| [The Devil Knows](https://open.spotify.com/track/4VaYLaWyF9LOzrVVqyigU6) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [The Devil Knows](https://open.spotify.com/album/1oCOhTeH1fzBVquSIaHETv) | 3:40 | 2024-10-30 |  |
 | [the end](https://open.spotify.com/track/4FZRbD4xC7uloaMWCp6NFR) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [the end](https://open.spotify.com/album/340jrpG3hFzItsnLp2T2Tg) | 2:37 | 2024-05-28 | 2024-06-10 |
 | [The End of the World](https://open.spotify.com/track/5pWwP9NAvaFd27rGT9djsG) | [Olive Riggio](https://open.spotify.com/artist/1IgrZkMft3xR8eSuzzatQr) | [Eden](https://open.spotify.com/album/4i5Q8MIhiTzluwWX0dIHQm) | 4:32 | 2024-09-14 | 2024-09-26 |
 | [The Faithful](https://open.spotify.com/track/4EFW29QDYbpOZLYnH6H3GU) | [The Famillian](https://open.spotify.com/artist/0xxeA8tQmQtYpCe2IHmi2a), [Calixte](https://open.spotify.com/artist/5PYXKU2PUFplxNjbE3pYU5) | [The Faithful](https://open.spotify.com/album/7gxaL0UFrpUtHreIc01fyb) | 3:12 | 2020-11-23 | 2020-12-20 |

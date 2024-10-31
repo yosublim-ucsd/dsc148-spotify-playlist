@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GbAfn40W9w.md) - [plain]
 
 > Een greep uit ESNS 2024\. Cover: Joost.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,808 likes - 92 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,809 likes - 92 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GbAfn40W9w.md) - [plain]
 | 88 | [Power \(feat\. Carpenter Brut\)](https://open.spotify.com/track/4TZe6GeAaUOldUZKJf5fbN) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4), [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [A Story Of Anger](https://open.spotify.com/album/60HOLSCbVx5gnRZ5tAwobz) | 4:10 |
 | 89 | [RIDE IT](https://open.spotify.com/track/2WhugaeaAmlt3vq27svNK8) | [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [RIDE IT](https://open.spotify.com/album/0ov66LsPBdJTui9Emmu0Nx) | 2:53 |
 | 90 | [Feel The Connection](https://open.spotify.com/track/1JprC94NtaQOgXD1nNTB3o) | [Brass Rave Unit](https://open.spotify.com/artist/6kSBoybpCu01c6jenhFO0J) | [It Burns The Midnight Oil](https://open.spotify.com/album/4FqwXKw50fG8udt0K0yp5g) | 6:54 |
-| 91 | [Cara Feia \(feat\. Pité, RAISSA\)](https://open.spotify.com/track/76u8kjUg4YEEQ30Kvho6PF) | [Bateu Matou](https://open.spotify.com/artist/13PM7jFuPib2KDjzsnVD4q), [Pité](https://open.spotify.com/artist/52Fj3lqVOLeYI0LyN148CQ), [RAISSA](https://open.spotify.com/artist/5caIPgFbs8W7Wt8mFOftxA) | [Cara Feia \(feat\. Pité, RAISSA\)](https://open.spotify.com/album/4875g89LkcVCOoblEANqSA) | 3:03 |
+| 91 | [Cara Feia \(feat\. Pité, RAISSA\)](https://open.spotify.com/track/76u8kjUg4YEEQ30Kvho6PF) | [Bateu Matou](https://open.spotify.com/artist/13PM7jFuPib2KDjzsnVD4q), [Pité](https://open.spotify.com/artist/52Fj3lqVOLeYI0LyN148CQ), [RAISSA](https://open.spotify.com/artist/44zte6km7DPWrgPJqOLu0m) | [Cara Feia \(feat\. Pité, RAISSA\)](https://open.spotify.com/album/4875g89LkcVCOoblEANqSA) | 3:03 |
 | 92 | [My Father](https://open.spotify.com/track/1BJNZkmIVjxC5NGsRwdO3q) | [LÓN](https://open.spotify.com/artist/2vBlRBcTmCYA9wwF6maE3i) | [Thankfully Distracted](https://open.spotify.com/album/4hnK0PL8CRX0aWpABDp5NG) | 4:13 |
 
 Snapshot ID: `ZaZOQAAAAABiDrBd4CTWE0+5/EanZgdE`
