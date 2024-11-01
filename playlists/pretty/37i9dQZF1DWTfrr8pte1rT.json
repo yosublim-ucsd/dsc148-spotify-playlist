@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: HVDES \\m/",
-  "num_followers": 334140,
+  "num_followers": 334205,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,30 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "DOMINATION",
+        "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "DOMINATION",
+      "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Never Come Back",
         "url": "https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk"
       },
@@ -1191,30 +1215,6 @@
       "duration_ms": 142714,
       "name": "Never Come Back",
       "url": "https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "DOMINATION",
-        "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "DOMINATION",
-      "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1263,22 +1263,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+        "name": "CHOKE",
+        "url": "https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         },
         {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        },
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+      "duration_ms": 160457,
+      "name": "CHOKE (with grandson & Zero 9:36)",
+      "url": "https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1327,26 +1331,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "CHOKE",
-        "url": "https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z"
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
       },
       "artists": [
         {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        },
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 160457,
-      "name": "CHOKE (with grandson & Zero 9:36)",
-      "url": "https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl"
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Colourfast",
+        "url": "https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 224009,
+      "name": "Colourfast",
+      "url": "https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Signal",
         "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 194823,
       "name": "Signal",
       "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Colourfast",
-        "url": "https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 224009,
-      "name": "Colourfast",
-      "url": "https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Church Outfit",
+        "url": "https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 114351,
+      "name": "Church Outfit",
+      "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 189721,
       "name": "Embers",
       "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Church Outfit",
-        "url": "https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 114351,
-      "name": "Church Outfit",
-      "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Dark Void EP",
-        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Dark Void - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "F\u00d8\u00d8L (INHUMAN Remix)",
         "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
       },
@@ -2167,6 +2147,26 @@
       "duration_ms": 188730,
       "name": "F\u00d8\u00d8L - INHUMAN Remix",
       "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Dark Void EP",
+        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Dark Void - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2383,34 +2383,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/6CvJxJUhIWV4f40OCi5D3g"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Hi I'm Ghost",
-          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
-        },
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/2WAlZZSQ9WQQQLPS4oVHEH"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
@@ -2443,6 +2415,34 @@
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/6CvJxJUhIWV4f40OCi5D3g"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Hi I'm Ghost",
+          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
+        },
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/2WAlZZSQ9WQQQLPS4oVHEH"
     },
     {
       "added_at": "2024-10-25 04:00:00",

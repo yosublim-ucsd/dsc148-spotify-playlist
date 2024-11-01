@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: La Polla Records.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,102 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,126 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 59 | [Vieja Guardia](https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Vieja Guardia](https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl) | 2:50 |
 | 60 | [No es la primera vez que pasa](https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs) | [mis amigas fuman todas](https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me) | [No es la primera vez que pasa](https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU) | 2:07 |
 | 61 | [Esta es una Noche de Rock & Roll](https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Esta es una Noche de Rock & Roll](https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D) | 3:00 |
-| 62 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |
-| 63 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
+| 62 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
+| 63 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |
 | 64 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
 | 65 | [Narco](https://open.spotify.com/track/64I6KsFDkGNg639k69Yt4D) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Narco](https://open.spotify.com/album/6C6NaXzXrBnAHaa9orpiFS) | 1:04 |
 | 66 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |

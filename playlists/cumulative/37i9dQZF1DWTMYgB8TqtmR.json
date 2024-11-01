@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 146260,
       "name": "Aiko",
       "url": "https://open.spotify.com/track/3jEU1V6aIJR8cQWiKT8BNT"
@@ -1842,6 +1842,24 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "album": {
+        "name": "Bless Meg",
+        "url": "https://open.spotify.com/album/37LSdJ7yCR1AbnOuID6fOq"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Bless Meg",
+      "url": "https://open.spotify.com/track/0bQ6SuPWpMSFXXP3yVlexZ"
     },
     {
       "album": {

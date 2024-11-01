@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 117375,
+  "num_followers": 117381,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAAgJh8KqcFZ/BAcv2ISGswu",
+  "snapshot_id": "ZyF3AAAAAAB1dDQ36gyy483IPyGm8xW4",
   "tracks": [
     {
       "added_at": null,
@@ -82,11 +82,15 @@
         {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 195533,
-      "name": "Courtesy Of The Red, White And Blue (The Angry American)",
-      "url": "https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa"
+      "duration_ms": 204000,
+      "name": "Beer For My Horses",
+      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
     },
     {
       "added_at": null,
@@ -146,15 +150,11 @@
         {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Beer For My Horses",
-      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
+      "duration_ms": 195533,
+      "name": "Courtesy Of The Red, White And Blue (The Angry American)",
+      "url": "https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pull My Chain",
+        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "My List",
+      "url": "https://open.spotify.com/track/5WFDseVq6n2LnKQMByCYnj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "License to Chill",
         "url": "https://open.spotify.com/album/2NXJVffjFFrlAKHQtoUXmg"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 183293,
       "name": "Hey Good Lookin'",
       "url": "https://open.spotify.com/track/2TSc7ee1OQPb4tuXsi2X7W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pull My Chain",
-        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "My List",
-      "url": "https://open.spotify.com/track/5WFDseVq6n2LnKQMByCYnj"
     },
     {
       "added_at": null,
@@ -714,15 +714,11 @@
         {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 188413,
-      "name": "Sailboat for Sale",
-      "url": "https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz"
+      "duration_ms": 257120,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg"
     },
     {
       "added_at": null,
@@ -782,11 +778,15 @@
         {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 257120,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg"
+      "duration_ms": 188413,
+      "name": "Sailboat for Sale",
+      "url": "https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+        "name": "White Trash With Money",
+        "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 214920,
-      "name": "Honkytonk U",
-      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
+      "duration_ms": 246320,
+      "name": "A Little Too Late",
+      "url": "https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU"
     },
     {
       "added_at": null,
@@ -852,9 +852,25 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 188920,
-      "name": "She's A Hottie - Single Version",
-      "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
+      "duration_ms": 197560,
+      "name": "Getcha Some",
+      "url": "https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Honkytonk U",
+      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
     },
     {
       "added_at": null,
@@ -891,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "She's A Hottie - Single Version",
+      "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hope on the Rocks",
         "url": "https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs"
       },
@@ -907,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Getcha Some",
-      "url": "https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drinks After Work",
         "url": "https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 212466,
       "name": "Drinks After Work",
       "url": "https://open.spotify.com/track/3Q74BN3z8lQIkiBC80zd07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Ride",
-        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 285506,
-      "name": "Cryin' for Me (Wayman's Song)",
-      "url": "https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X"
     }
   ],
   "unique_name": "This Is Toby Keith",

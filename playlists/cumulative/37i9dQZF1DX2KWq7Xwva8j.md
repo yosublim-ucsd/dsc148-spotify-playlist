@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro está aquí\. Foto: shego.
+> El futuro está aquí\. Foto: Samuraï.
 
-247 songs - 12 hr 5 min
+248 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [El Disfraz](https://open.spotify.com/track/0qU5wZaYxNHtBVPDtpuPkv) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [El Disfraz](https://open.spotify.com/album/3mGHU6Au7nS9rOZoDlCvAP) | 2:44 | 2024-03-28 | 2024-04-01 |
 | [El Disfraz](https://open.spotify.com/track/5dVDa4Ruk93IdiuiDz6D8w) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0) | 2:44 | 2024-03-28 | 2024-04-19 |
 | [En Dos](https://open.spotify.com/track/13Pe624JlpZ8c7Ktjybzav) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [En Dos](https://open.spotify.com/album/7AMe9ECyROJ6z0mQCQUjQ2) | 3:07 | 2022-01-06 | 2022-06-07 |
+| [En El Aire](https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [En El Aire](https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6) | 3:23 | 2024-10-31 |  |
 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 | 2022-06-06 | 2023-02-22 |
 | [En Los Espejos](https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [En Los Espejos](https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc) | 3:17 | 2024-09-12 |  |
 | [en ningún lugar](https://open.spotify.com/track/09fMLOWC1wK7DtHRRr1deO) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [en ningún lugar](https://open.spotify.com/album/7fo1vAt1nKL7jUOka8w1At) | 2:42 | 2022-02-17 | 2022-07-29 |

@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Rafael Orozco... Vive",
+        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277266,
+      "name": "Qu\u00e9 Sera de M\u00ed",
+      "url": "https://open.spotify.com/track/2ER4g5nBnn2ZE7s9nRRWxB"
+    },
+    {
+      "album": {
         "name": "Internacional",
         "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 264733,
       "name": "Sombra Perdida",
       "url": "https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy"

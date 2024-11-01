@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,427,487 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,427,947 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 38 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 |
 | 39 | [3:15 \- Slowed Down + Reverb](https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(OG, Slowed Down + Reverb, Sped Up\)](https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV) | 3:15 |
 | 40 | [Fangs \- Slowed Down](https://open.spotify.com/track/30l31DirTxcg4NaAY1BHlS) | [Dionnysuss](https://open.spotify.com/artist/0XfguwtX2k7wn8cJvkdjT9) | [Fangs](https://open.spotify.com/album/0gPfImCSCdXyMPRGjWw9oQ) | 3:06 |
-| 41 | [CUTE DEPRESSED \- SLOWED VERSION](https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED \(ALL VERSIONS\)](https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c) | 2:01 |
-| 42 | [Flare \- Slowed](https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Flare \(Remixes\)](https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I) | 2:41 |
+| 41 | [Flare \- Slowed](https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Flare \(Remixes\)](https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I) | 2:41 |
+| 42 | [CUTE DEPRESSED \- SLOWED VERSION](https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED \(ALL VERSIONS\)](https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c) | 2:01 |
 | 43 | [CRYSTALS \(Slowed\)](https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:15 |
 | 44 | [Hands up! \- Slowed](https://open.spotify.com/track/1cbDFtFwFk3iyYOgnuxNT4) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Hands up! \(The Remix\)](https://open.spotify.com/album/07YCL9cU3GuKxXQucJsKap) | 2:38 |
 | 45 | [Love Game \- Slowed](https://open.spotify.com/track/2PUKF7oK4yIONZfu5XQ14t) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Love Game \(Slowed\)](https://open.spotify.com/album/0Vh1m0GMK9olIO1DmYC3I4) | 2:37 |

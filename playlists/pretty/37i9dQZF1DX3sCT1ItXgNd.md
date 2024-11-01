@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Kapo, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,832 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,827 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 20 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
 | 21 | [Que Me Lleve el Aire](https://open.spotify.com/track/5ticDLxAM5Y5r0mkGO1AHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Que Me Lleve el Aire](https://open.spotify.com/album/66r7fi6L2StfAxnkCr32qm) | 2:50 |
 | 22 | [haz lo que quieras conmigo](https://open.spotify.com/track/635oxQ6Vn3ynUUg6EfQKw9) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [haz lo que quieras conmigo](https://open.spotify.com/album/6l369kFprCQHueQaZ3sBTQ) | 3:28 |
-| 23 | [Los Domingos](https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Los Domingos](https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ) | 3:34 |
-| 24 | [I Miss You](https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [I Miss You](https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0) | 2:53 |
+| 23 | [I Miss You](https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [I Miss You](https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0) | 2:53 |
+| 24 | [Los Domingos](https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Los Domingos](https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ) | 3:34 |
 | 25 | [Espacio en Tu Corazón \- Remix](https://open.spotify.com/track/7umNc6U2AVcL0RwQIi7xZG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Espacio en Tu Corazón \(Remix\)](https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco) | 2:59 |
 | 26 | [FICHAJE DEL AÑO](https://open.spotify.com/track/4zOvp2BysciDInodYHUtOJ) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [FICHAJE DEL AÑO](https://open.spotify.com/album/3ti3UTU7nuhuAZfO27lz2q) | 3:13 |
 | 27 | [Like I Can \(feat\. Aitana\)](https://open.spotify.com/track/76DAOP9X3FuBHlVEBkr5Jl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Like I Can \(feat\. Aitana\)](https://open.spotify.com/album/5CdGQuW80JtOwCSBML58vf) | 2:46 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 41 | [A Las 12](https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [A Las 12](https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f) | 3:08 |
 | 42 | [no te deseo lo peor :\)](https://open.spotify.com/track/5fVa9nTKfq2Hy15jnOrer0) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y), [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [no te deseo lo peor :\)](https://open.spotify.com/album/3z0TbCpug2bRGgWmODsWi5) | 3:09 |
 | 43 | [Morenita del sur](https://open.spotify.com/track/4pKhyJRka0RvlDKGi9RJCv) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Morenita del sur](https://open.spotify.com/album/53VfRv0BRcEb5d9XG1keWJ) | 3:44 |
-| 44 | [Puede K Nos Liemos](https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d) | [Almacor](https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Puede K Nos Liemos](https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX) | 2:36 |
-| 45 | [Volverte a Querer](https://open.spotify.com/track/6118gUtirfjFpTPWyDwMbj) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Volverte a Querer](https://open.spotify.com/album/33rki7QSD9lUoefJ7Yer9O) | 3:27 |
+| 44 | [Volverte a Querer](https://open.spotify.com/track/6118gUtirfjFpTPWyDwMbj) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Volverte a Querer](https://open.spotify.com/album/33rki7QSD9lUoefJ7Yer9O) | 3:27 |
+| 45 | [Puede K Nos Liemos](https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d) | [Almacor](https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Puede K Nos Liemos](https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX) | 2:36 |
 | 46 | [SERENATA](https://open.spotify.com/track/4suTBZ521uqrgLsOWwY8sg) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [UNA CASA CON JARDÍN](https://open.spotify.com/album/1GXaqoSw6PDqRuXDAZ3VnF) | 2:09 |
 | 47 | [UNA VIDA A TU LADO](https://open.spotify.com/track/3mpIFqv8YSjiFgGdfaZ0u3) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [UNA VIDA A TU LADO](https://open.spotify.com/album/3V3L0sYnmcEmzFS4ogRoVx) | 2:44 |
 | 48 | [Otro Huevón](https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Otro Huevón](https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU) | 3:26 |

@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: JADE",
-  "num_followers": 461341,
+  "num_followers": 461344,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-08-07 11:05:06",
       "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
         "name": "Alibi (feat. Rudimental) [Joel Corry Remix]",
         "url": "https://open.spotify.com/album/5dY7Ol2aeGlG0LdeIkIrdG"
       },
@@ -807,46 +827,6 @@
     {
       "added_at": "2024-08-07 11:05:06",
       "album": {
-        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
-    },
-    {
-      "added_at": "2024-08-07 11:05:06",
-      "album": {
-        "name": "Whatever (The Remixes)",
-        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
-    },
-    {
-      "added_at": "2024-08-07 11:05:06",
-      "album": {
         "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
         "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 234411,
       "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
+        "name": "Whatever (The Remixes)",
+        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
     },
     {
       "added_at": "2024-08-07 11:05:06",

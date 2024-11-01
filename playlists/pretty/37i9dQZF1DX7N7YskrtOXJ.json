@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 99168,
+  "num_followers": 99215,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
-        "name": "Plato \u00danico Bailable",
-        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
-    },
-    {
-      "added_at": "2024-10-18 13:15:14",
-      "album": {
         "name": "Cumbia Nena",
         "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 187546,
       "name": "Yo Me Enamore",
       "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
+    },
+    {
+      "added_at": "2024-10-18 13:15:14",
+      "album": {
+        "name": "Plato \u00danico Bailable",
+        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
     },
     {
       "added_at": "2024-10-18 13:15:14",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "La Vecina",
-      "url": "https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm"
-    },
-    {
-      "added_at": "2024-10-18 13:15:14",
-      "album": {
         "name": "Toque",
         "url": "https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
-        "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
-        "url": "https://open.spotify.com/album/0aEZ4jdVNNT8seRRa28vKX"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
       "artists": [
         {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 319787,
-      "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
-      "url": "https://open.spotify.com/track/1XB6uprTK9QOmgkUtmiDYX"
+      "duration_ms": 179813,
+      "name": "La Vecina",
+      "url": "https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm"
     },
     {
       "added_at": "2024-10-18 13:15:14",
@@ -987,6 +971,22 @@
       "duration_ms": 193636,
       "name": "Feliz Con Verte",
       "url": "https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM"
+    },
+    {
+      "added_at": "2024-10-18 13:15:14",
+      "album": {
+        "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
+        "url": "https://open.spotify.com/album/0aEZ4jdVNNT8seRRa28vKX"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 319787,
+      "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
+      "url": "https://open.spotify.com/track/1XB6uprTK9QOmgkUtmiDYX"
     },
     {
       "added_at": "2024-10-18 13:15:14",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
-      },
-      "artists": [
-        {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "Y Me Beb\u00ed Tu Recuerdo",
-      "url": "https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr"
-    },
-    {
-      "added_at": "2024-10-18 13:15:14",
-      "album": {
         "name": "Si Te Vas (Vivo)",
         "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+      },
+      "artists": [
+        {
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Y Me Beb\u00ed Tu Recuerdo",
+      "url": "https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr"
+    },
+    {
+      "added_at": "2024-10-18 13:15:14",
+      "album": {
         "name": "Te Mueve",
         "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
-        "name": "Plato \u00danico Bailable",
-        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 156520,
-      "name": "Cosecha de Mujeres",
-      "url": "https://open.spotify.com/track/1lMxEHxFMSbwr6nVxlzQ1G"
-    },
-    {
-      "added_at": "2024-10-18 13:15:14",
-      "album": {
         "name": "Si Tu No Estas",
         "url": "https://open.spotify.com/album/0R2QOzo02NBpqQ5QFkBl2J"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 220369,
       "name": "Si Tu No Estas",
       "url": "https://open.spotify.com/track/45xDNypuZ1tv3JEkCXRFxG"
+    },
+    {
+      "added_at": "2024-10-18 13:15:14",
+      "album": {
+        "name": "Plato \u00danico Bailable",
+        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 156520,
+      "name": "Cosecha de Mujeres",
+      "url": "https://open.spotify.com/track/1lMxEHxFMSbwr6nVxlzQ1G"
     },
     {
       "added_at": "2024-10-18 13:15:14",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
-        "name": "Bebe Dame / Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
+        "name": "Plato \u00danico Bailable",
+        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
       "artists": [
         {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 268518,
-      "name": "Bebe Dame / Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
+      "duration_ms": 298480,
+      "name": "Ahora Qui\u00e9n",
+      "url": "https://open.spotify.com/track/6orkKcLFfNacnV5J0xnFjJ"
     },
     {
       "added_at": "2024-10-18 13:15:14",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
-        "name": "Plato \u00danico Bailable",
-        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
+        "name": "Bebe Dame / Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ"
       },
       "artists": [
         {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
         }
       ],
-      "duration_ms": 298480,
-      "name": "Ahora Qui\u00e9n",
-      "url": "https://open.spotify.com/track/6orkKcLFfNacnV5J0xnFjJ"
+      "duration_ms": 268518,
+      "name": "Bebe Dame / Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0"
     },
     {
       "added_at": "2024-10-18 13:15:14",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
+        "name": "Ahora Que Te Vas",
+        "url": "https://open.spotify.com/album/2pajddBhVxUas3ioYXCyHL"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Ahora Que Te Vas",
+      "url": "https://open.spotify.com/track/4A0PE9JT69DyzVkFZLTEeq"
+    },
+    {
+      "added_at": "2024-10-18 13:15:14",
+      "album": {
         "name": "Compa\u00f1eros",
         "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 245581,
       "name": "Compa\u00f1eros",
       "url": "https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk"
-    },
-    {
-      "added_at": "2024-10-18 13:15:14",
-      "album": {
-        "name": "Ahora Que Te Vas",
-        "url": "https://open.spotify.com/album/2pajddBhVxUas3ioYXCyHL"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Ahora Que Te Vas",
-      "url": "https://open.spotify.com/track/4A0PE9JT69DyzVkFZLTEeq"
     },
     {
       "added_at": "2024-10-18 13:15:14",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
+        "name": "Vive El Momento",
+        "url": "https://open.spotify.com/album/6HpMKbdPtycogKmuBHerl4"
+      },
+      "artists": [
+        {
+          "name": "Ojos de Luna",
+          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
+        }
+      ],
+      "duration_ms": 223877,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/48oS8fgEqBEZKZwKQUJlIx"
+    },
+    {
+      "added_at": "2024-10-18 13:15:14",
+      "album": {
         "name": "Teatro Monumental (En Vivo)",
         "url": "https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk"
       },
@@ -1479,54 +1495,6 @@
       "duration_ms": 516187,
       "name": "Palomita / Olguita / Enga\u00f1adora / Mi Gran Amor (En Vivo)",
       "url": "https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD"
-    },
-    {
-      "added_at": "2024-10-18 13:15:14",
-      "album": {
-        "name": "Amor y Caos",
-        "url": "https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX"
-      },
-      "artists": [
-        {
-          "name": "El Bloque 8",
-          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
-        }
-      ],
-      "duration_ms": 194895,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup"
-    },
-    {
-      "added_at": "2024-10-18 13:15:14",
-      "album": {
-        "name": "Despu\u00e9s De Ti",
-        "url": "https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO"
-      },
-      "artists": [
-        {
-          "name": "Ojos de Luna",
-          "url": "https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp"
-        }
-      ],
-      "duration_ms": 192073,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM"
-    },
-    {
-      "added_at": "2024-10-18 13:15:14",
-      "album": {
-        "name": "Mil Amores",
-        "url": "https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy"
-      },
-      "artists": [
-        {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
-        }
-      ],
-      "duration_ms": 181308,
-      "name": "Mil Amores",
-      "url": "https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp"
     },
     {
       "added_at": "2024-10-18 13:15:14",
@@ -1547,18 +1515,34 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
-        "name": "Rap Guachaca & Cumbia Reflexiva",
-        "url": "https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o"
+        "name": "Mil Amores",
+        "url": "https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy"
       },
       "artists": [
         {
-          "name": "Sondelvalle",
-          "url": "https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl"
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
         }
       ],
-      "duration_ms": 154846,
-      "name": "Maracuy\u00e1 Con Mango",
-      "url": "https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK"
+      "duration_ms": 181308,
+      "name": "Mil Amores",
+      "url": "https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp"
+    },
+    {
+      "added_at": "2024-10-18 13:15:14",
+      "album": {
+        "name": "Amor y Caos",
+        "url": "https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX"
+      },
+      "artists": [
+        {
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+        }
+      ],
+      "duration_ms": 194895,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup"
     },
     {
       "added_at": "2024-10-18 13:15:14",
@@ -1575,6 +1559,22 @@
       "duration_ms": 186848,
       "name": "Bailando Como Mono",
       "url": "https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6"
+    },
+    {
+      "added_at": "2024-10-18 13:15:14",
+      "album": {
+        "name": "Rap Guachaca & Cumbia Reflexiva",
+        "url": "https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o"
+      },
+      "artists": [
+        {
+          "name": "Sondelvalle",
+          "url": "https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl"
+        }
+      ],
+      "duration_ms": 154846,
+      "name": "Maracuy\u00e1 Con Mango",
+      "url": "https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK"
     },
     {
       "added_at": "2024-10-18 13:15:14",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-10-18 13:15:14",
       "album": {
-        "name": "Saca La Casa Pal Mambo",
-        "url": "https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG"
-      },
-      "artists": [
-        {
-          "name": "El Bloque 8",
-          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
-        }
-      ],
-      "duration_ms": 162084,
-      "name": "Saca La Casa Pal Mambo",
-      "url": "https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W"
-    },
-    {
-      "added_at": "2024-10-18 13:15:14",
-      "album": {
         "name": "La Makinita",
         "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 284875,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/6gUUERbRME9MKaAMIAa1I3"
+    },
+    {
+      "added_at": "2024-10-18 13:15:14",
+      "album": {
+        "name": "Saca La Casa Pal Mambo",
+        "url": "https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG"
+      },
+      "artists": [
+        {
+          "name": "El Bloque 8",
+          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
+        }
+      ],
+      "duration_ms": 162084,
+      "name": "Saca La Casa Pal Mambo",
+      "url": "https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W"
     },
     {
       "added_at": "2024-10-18 13:15:14",

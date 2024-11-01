@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,129 likes - 44 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,135 likes - 44 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 14 | [Waiting](https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Waiting](https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ) | 2:53 |
 | 15 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 |
 | 16 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 |
-| 17 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 |
-| 18 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
+| 17 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
+| 18 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 |
 | 19 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 |
 | 20 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
 | 21 | [Cinco De Mayhem](https://open.spotify.com/track/6Ry0A0Le86i8vEqIk4cBXx) | [Van Damn](https://open.spotify.com/artist/3saUCw9rxdrL4Bn7pGolNO) | [Cinco De Mayhem](https://open.spotify.com/album/0BLJMmmp68xNFY3wvOJ5qa) | 3:17 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 39 | [As The Beat Goes Onnn](https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [As The Beat Goes Onnn](https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6) | 2:39 |
 | 40 | [ENERGY](https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [ENERGY](https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8) | 2:20 |
 | 41 | [Bass Up To The Top](https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Bass Up To The Top](https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV) | 3:16 |
-| 42 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 |
-| 43 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 |
+| 42 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 |
+| 43 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 |
 | 44 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 |
 
 Snapshot ID: `ZxrfgAAAAACEjXns+ADDhW+74NShhTQl`

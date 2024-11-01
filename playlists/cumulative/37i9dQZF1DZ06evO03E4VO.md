@@ -4,7 +4,7 @@
 
 > This is Alaina Castillo\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 7 min
+42 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [saboteo](https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 3:32 | 2023-12-18 |  |
 | [sad girl](https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 3:55 | 2023-12-18 |  |
 | [sad girls always finish first](https://open.spotify.com/track/5eBL4nPwEnlQSmjX6zCeOu) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [sad girls always finish first](https://open.spotify.com/album/1uOzpySeBwLPkB26QGURgS) | 3:15 | 2023-12-18 |  |
+| [starz](https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [starz](https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf) | 3:29 | 2024-11-01 |  |
 | [stfu \(i got u\)](https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:01 | 2023-12-18 |  |
 | [tell the one u love](https://open.spotify.com/track/5eDGzNXmLrtdKq2NsFLn5F) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [fantasies](https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3) | 3:17 | 2023-12-18 |  |
 | [tonight](https://open.spotify.com/track/4WGFnr5oQ7JzIORYDWwA4S) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [tonight](https://open.spotify.com/album/6S99rpqeEMctqNEs43xmOW) | 3:20 | 2023-12-18 |  |

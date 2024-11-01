@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 301605,
+  "num_followers": 301634,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-07-05 21:08:11",
       "album": {
-        "name": "Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
       "added_at": "2024-07-05 21:08:11",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-07-05 21:08:11",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 171653,
-      "name": "Every Which Way but Loose - 2009 Remaster",
-      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
+      "duration_ms": 200493,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2024-07-05 21:08:11",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-07-05 21:08:11",
       "album": {
-        "name": "Hello, I'm Johnny Cash",
-        "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "June Carter Cash",
-          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "If I Were a Carpenter",
-      "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
-    },
-    {
-      "added_at": "2024-07-05 21:08:11",
-      "album": {
         "name": "Phases And Stages",
         "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
       },
@@ -1095,22 +1075,6 @@
       "duration_ms": 168933,
       "name": "Bloody Mary Morning",
       "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
-    },
-    {
-      "added_at": "2024-07-05 21:08:11",
-      "album": {
-        "name": "The Essential Dolly Parton",
-        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "Love Is Like a Butterfly",
-      "url": "https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM"
     },
     {
       "added_at": "2024-07-05 21:08:11",
@@ -1131,6 +1095,42 @@
       "duration_ms": 189786,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
+    },
+    {
+      "added_at": "2024-07-05 21:08:11",
+      "album": {
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "Love Is Like a Butterfly",
+      "url": "https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM"
+    },
+    {
+      "added_at": "2024-07-05 21:08:11",
+      "album": {
+        "name": "Hello, I'm Johnny Cash",
+        "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "June Carter Cash",
+          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "If I Were a Carpenter",
+      "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
     },
     {
       "added_at": "2024-07-05 21:08:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,632 likes - 215 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,696 likes - 215 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 26 | [Gimme](https://open.spotify.com/track/29UVDzlLXTtwEz3wccF7ae) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Gimme](https://open.spotify.com/album/1HYaSoCcZu3TOI452oFV0K) | 2:53 |
 | 27 | [Vicariously](https://open.spotify.com/track/5IDKzzwnv30FxvgRqAPtqO) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Vicariously](https://open.spotify.com/album/5VWooS2kG1dyfwB1xRPHwN) | 3:09 |
 | 28 | [Habesha Ting](https://open.spotify.com/track/5zEYDCABSPAZ7UWN0iFPr4) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Rap Sanga](https://open.spotify.com/album/31f2gzAAjaRc9TM9JwznD0) | 1:41 |
-| 29 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
+| 29 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 30 | [Pretty & Bouji](https://open.spotify.com/track/1PYDD9APjyk0rByimDl5F0) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Pretty & Bouji](https://open.spotify.com/album/4VmYH0OOZkV3AOoGyVhFgZ) | 2:24 |
 | 31 | [No Makeup](https://open.spotify.com/track/3UCh9fDwvdkBJAeIKDA3Uh) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [No Makeup](https://open.spotify.com/album/5NusMdGyZy7IYCeDok7OsB) | 2:44 |
 | 32 | [Soul On Fire](https://open.spotify.com/track/6xEkgmEvZMwkyPNTjeVKL3) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Soul On Fire](https://open.spotify.com/album/76MCbADCF4wMTika7FpgZK) | 2:13 |

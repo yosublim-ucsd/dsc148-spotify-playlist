@@ -1,13 +1,37 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81537,
+  "num_followers": 81539,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADnqQAXjUafG4R6Cc4Mtkr3",
+  "snapshot_id": "ZyF3AAAAAAAxMoTmysUqW5eSEhkkUlDQ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ciclo Vicioso (Deluxe)",
+        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Saffi",
+          "url": "https://open.spotify.com/artist/5TPmdgtQDTntLIj5VWWtsb"
+        },
+        {
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+        }
+      ],
+      "duration_ms": 173562,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3Wb5YWd4OQDGzPejuCMDpX"
+    },
     {
       "added_at": null,
       "album": {
@@ -199,6 +223,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poesia Ac\u00fastica",
+        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        },
+        {
+          "name": "Kayu\u00e1",
+          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Bob do Contra",
+          "url": "https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 614615,
+      "name": "Poesia Ac\u00fastica #8 Amor e SambaCan\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/229GXUzH1baYzaLgqc3PDo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Pior Disco do Ano",
         "url": "https://open.spotify.com/album/65ddZj6nMC8ypPvzoTxVli"
       },
@@ -271,58 +347,6 @@
       "duration_ms": 213997,
       "name": "S\u00f3 Quero Viajar",
       "url": "https://open.spotify.com/track/1isFUjTray08USSUwd5pTh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poesia Ac\u00fastica",
-        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        },
-        {
-          "name": "Kayu\u00e1",
-          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Bob do Contra",
-          "url": "https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 614615,
-      "name": "Poesia Ac\u00fastica #8 Amor e SambaCan\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/229GXUzH1baYzaLgqc3PDo"
     },
     {
       "added_at": null,
@@ -587,6 +611,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ciclo Vicioso (Deluxe)",
+        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        }
+      ],
+      "duration_ms": 136935,
+      "name": "Coisas Que Eu Aprendi",
+      "url": "https://open.spotify.com/track/4pR2Jy5fPdMKt2ACIX1Int"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -631,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora\u00e7\u00e3o Bandido",
-        "url": "https://open.spotify.com/album/7oxrFadcJ3SOAhBv0zKpr3"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 164949,
-      "name": "Cora\u00e7\u00e3o Bandido",
-      "url": "https://open.spotify.com/track/6YVFrJWMyoJH9CgV36vpcT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica Ep. Jeri",
         "url": "https://open.spotify.com/album/1MgfsdHI8sIaBcw97NhwBi"
       },
@@ -687,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ciclo Vicioso (Deluxe)",
+        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Dama da Noite",
+      "url": "https://open.spotify.com/track/7B0HOg6L2vpFooDAls4Wed"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
         "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
       },
@@ -707,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cora\u00e7\u00e3o Bandido",
+        "url": "https://open.spotify.com/album/7oxrFadcJ3SOAhBv0zKpr3"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 164949,
+      "name": "Cora\u00e7\u00e3o Bandido",
+      "url": "https://open.spotify.com/track/6YVFrJWMyoJH9CgV36vpcT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beira Mar",
         "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
       },
@@ -719,6 +787,26 @@
       "duration_ms": 180032,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ciclo Vicioso (Deluxe)",
+        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 151237,
+      "name": "Nunca Se Cansa",
+      "url": "https://open.spotify.com/track/1obVIpfagcqUx8sGR8NfBk"
     },
     {
       "added_at": null,
@@ -743,46 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efeito Violeta",
-        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 177800,
-      "name": "Vai Partir",
-      "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Culpa \u00c9 Minha",
-        "url": "https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO"
-      },
-      "artists": [
-        {
-          "name": "Matheusinho",
-          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 197114,
-      "name": "A Culpa \u00c9 Minha",
-      "url": "https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Subirusdoistiozin",
         "url": "https://open.spotify.com/album/1bQIRQRTxfnLjBvkPZbavU"
       },
@@ -803,6 +851,70 @@
       "duration_ms": 271658,
       "name": "Subirusdoistiozin",
       "url": "https://open.spotify.com/track/5F6VXrAcAC0fQ9G6D2S646"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Efeito Violeta",
+        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 177800,
+      "name": "Vai Partir",
+      "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ciclo Vicioso (Deluxe)",
+        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Minha Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4LxgzNjETKuC1YlwVSUEIb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Culpa \u00c9 Minha",
+        "url": "https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO"
+      },
+      "artists": [
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 197114,
+      "name": "A Culpa \u00c9 Minha",
+      "url": "https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR"
     },
     {
       "added_at": null,
@@ -855,6 +967,38 @@
       "duration_ms": 173989,
       "name": "Dan\u00e7ar Com Voc\u00ea",
       "url": "https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ciclo Vicioso (Deluxe)",
+        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Duani",
+          "url": "https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ"
+        }
+      ],
+      "duration_ms": 135125,
+      "name": "Na Sua Pele",
+      "url": "https://open.spotify.com/track/1lziUR0sSziU5CYT3MbZEO"
     },
     {
       "added_at": null,
@@ -919,6 +1063,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ciclo Vicioso (Deluxe)",
+        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Billy Billy",
+          "url": "https://open.spotify.com/artist/25x5X4kbKfxCJSK9alVVnB"
+        }
+      ],
+      "duration_ms": 164475,
+      "name": "N\u00e3o \u00c9 Fake",
+      "url": "https://open.spotify.com/track/16MVbbdCXJamjegZEIsrhN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -963,22 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Que Voc\u00ea Faz",
-        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "O Que Voc\u00ea Faz",
-      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -1015,6 +1167,22 @@
       "duration_ms": 247975,
       "name": "A Culpa \u00c9 das Igrejas / Sinais",
       "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Que Voc\u00ea Faz",
+        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "O Que Voc\u00ea Faz",
+      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
     },
     {
       "added_at": null,
@@ -1083,142 +1251,6 @@
       "duration_ms": 190720,
       "name": "Nosso Jeito",
       "url": "https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
-        }
-      ],
-      "duration_ms": 206632,
-      "name": "Ins\u00f4nia",
-      "url": "https://open.spotify.com/track/2k6GseLRHaO4UcUBlTMORl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "No Cais",
-      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ch\u00e3o de Vidro",
-        "url": "https://open.spotify.com/album/6rOgL3alQJ2UQj8BkfZW4r"
-      },
-      "artists": [
-        {
-          "name": "Konai",
-          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 135322,
-      "name": "Ch\u00e3o de Vidro",
-      "url": "https://open.spotify.com/track/3TkVm1xeOfmc0M7ZAkXeT7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 213863,
-      "name": "Regai",
-      "url": "https://open.spotify.com/track/4S3Ek7UvV9rMEaR6Xo5m9a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "T\u00e3o Forte",
-      "url": "https://open.spotify.com/track/1hbmVcjivTpi9i72mywUD0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meus Olhos",
-        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 188548,
-      "name": "Meus Olhos",
-      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

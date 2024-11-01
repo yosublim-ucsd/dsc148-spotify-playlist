@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 10743,
+  "num_followers": 10749,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAACGH025Y0uVnF93rkjfOe7A",
+  "snapshot_id": "ZyF3AAAAAABqNp4q09jiDefHaNtqTPa8",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 167589,
+      "name": "fresh white tee",
+      "url": "https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "day dream",
         "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry (deluxe)",
-        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 167589,
-      "name": "fresh white tee",
-      "url": "https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -679,6 +679,26 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 169143,
+      "name": "butterflies (feat. Rexx Life Raj)",
+      "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
     },
     {
       "added_at": null,
@@ -711,26 +731,6 @@
       "duration_ms": 163846,
       "name": "Tied Down",
       "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "girls like me don't cry (deluxe)",
-        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        }
-      ],
-      "duration_ms": 169143,
-      "name": "butterflies (feat. Rexx Life Raj)",
-      "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
     },
     {
       "added_at": null,

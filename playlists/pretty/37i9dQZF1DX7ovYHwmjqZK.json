@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 234896,
+  "num_followers": 234963,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Blue Bossa",
+        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
+      },
+      "artists": [
+        {
+          "name": "Denisinho",
+          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
+        }
+      ],
+      "duration_ms": 160850,
+      "name": "Blue Bossa",
+      "url": "https://open.spotify.com/track/1K4zSQ6U1gU9JCHFMKqcAC"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 246136,
       "name": "Estrela",
       "url": "https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Blue Bossa",
-        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
-      },
-      "artists": [
-        {
-          "name": "Denisinho",
-          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
-        }
-      ],
-      "duration_ms": 160850,
-      "name": "Blue Bossa",
-      "url": "https://open.spotify.com/track/1K4zSQ6U1gU9JCHFMKqcAC"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Fub\u00e1 Mimoso",
-        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
-      },
-      "artists": [
-        {
-          "name": "Seu Elias",
-          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
-        }
-      ],
-      "duration_ms": 160458,
-      "name": "Tantas Coisas",
-      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
         "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Fub\u00e1 Mimoso",
+        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
+      },
+      "artists": [
+        {
+          "name": "Seu Elias",
+          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
+        }
+      ],
+      "duration_ms": 160458,
+      "name": "Tantas Coisas",
+      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Navegante - Dudu Sperb Recebe Guinga",
         "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 285613,
       "name": "Choro Pro Z\u00e9",
       "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Samba Doce",
+        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
+      },
+      "artists": [
+        {
+          "name": "Jorge Helder",
+          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Samba Doce",
+      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Samba Doce",
-        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
-      },
-      "artists": [
-        {
-          "name": "Jorge Helder",
-          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Samba Doce",
-      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "A Bossa De Caetano",
         "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 172506,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Even Bossa If I Have To",
-        "url": "https://open.spotify.com/album/1Q434rYaSU2Fw7frAXnOfQ"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Even Bossa If I Have To",
-      "url": "https://open.spotify.com/track/4vvicjEsYdmbUsTi4RiJs6"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 248000,
       "name": "Eu Sambo Mesmo",
       "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Even Bossa If I Have To",
+        "url": "https://open.spotify.com/album/1Q434rYaSU2Fw7frAXnOfQ"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Even Bossa If I Have To",
+      "url": "https://open.spotify.com/track/4vvicjEsYdmbUsTi4RiJs6"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Saudade Demais",
+        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
+      },
+      "artists": [
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        },
+        {
+          "name": "Sanny Alves",
+          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Isabel Tchau",
+      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Al\u00e9m da Bossa",
         "url": "https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 173213,
       "name": "Pega Esse Sambete A\u00ed",
       "url": "https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Saudade Demais",
-        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
-      },
-      "artists": [
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        },
-        {
-          "name": "Sanny Alves",
-          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Isabel Tchau",
-      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1171,6 +1171,22 @@
       "duration_ms": 169760,
       "name": "Chuvas De Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Garoa",
+        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Voa",
+      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1383,58 +1399,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "No Jeito",
-        "url": "https://open.spotify.com/album/2s9LJjJJgI3WskTqhu9wx8"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Lessa",
-          "url": "https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG"
-        },
-        {
-          "name": "Celsinho Silva",
-          "url": "https://open.spotify.com/artist/4JdO9dhvvCt7GeaTuta1aR"
-        },
-        {
-          "name": "Edu Neves",
-          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
-        },
-        {
-          "name": "Everson Moraes",
-          "url": "https://open.spotify.com/artist/6HX0YIU3MInb2cWswmGXZW"
-        },
-        {
-          "name": "Lucas Brito",
-          "url": "https://open.spotify.com/artist/1AMghPiVVQlIpgRAC7xqKi"
-        },
-        {
-          "name": "Rog\u00e9rio Souza",
-          "url": "https://open.spotify.com/artist/3VMrYFbtHX3uXrdP1ZuZp1"
-        }
-      ],
-      "duration_ms": 221300,
-      "name": "No Gurufim do Tio Sam",
-      "url": "https://open.spotify.com/track/4GbVxEoS43Q8TfmvLveiuP"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Garoa",
-        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Voa",
-      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Garoto - Wanderson Lopez Ensemble (Ao Vivo)",
         "url": "https://open.spotify.com/album/56Qvs3eXRYJhbZhXBZSWJT"
       },
@@ -1483,6 +1447,42 @@
       "duration_ms": 209983,
       "name": "Garoto - Ao Vivo",
       "url": "https://open.spotify.com/track/6O2l61ZGgLo2X4jk37L62k"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "No Jeito",
+        "url": "https://open.spotify.com/album/2s9LJjJJgI3WskTqhu9wx8"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Lessa",
+          "url": "https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG"
+        },
+        {
+          "name": "Celsinho Silva",
+          "url": "https://open.spotify.com/artist/4JdO9dhvvCt7GeaTuta1aR"
+        },
+        {
+          "name": "Edu Neves",
+          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
+        },
+        {
+          "name": "Everson Moraes",
+          "url": "https://open.spotify.com/artist/6HX0YIU3MInb2cWswmGXZW"
+        },
+        {
+          "name": "Lucas Brito",
+          "url": "https://open.spotify.com/artist/1AMghPiVVQlIpgRAC7xqKi"
+        },
+        {
+          "name": "Rog\u00e9rio Souza",
+          "url": "https://open.spotify.com/artist/3VMrYFbtHX3uXrdP1ZuZp1"
+        }
+      ],
+      "duration_ms": 221300,
+      "name": "No Gurufim do Tio Sam",
+      "url": "https://open.spotify.com/track/4GbVxEoS43Q8TfmvLveiuP"
     },
     {
       "added_at": "2024-10-18 03:00:00",

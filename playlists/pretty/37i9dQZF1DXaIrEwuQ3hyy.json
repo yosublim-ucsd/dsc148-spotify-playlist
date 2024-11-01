@@ -1,6 +1,6 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1051080,
+  "num_followers": 1051143,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190464,
-      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -623,18 +623,22 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "God Said No",
-        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 158093,
-      "name": "Done With You",
-      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+      "duration_ms": 279573,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -655,22 +659,18 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 279573,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
+      "duration_ms": 158093,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
-      },
-      "artists": [
-        {
-          "name": "Cordelia",
-          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
-        }
-      ],
-      "duration_ms": 270315,
-      "name": "Little Life",
-      "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "she goes",
         "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 189706,
       "name": "she goes",
       "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "Little Life",
+      "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -991,6 +991,26 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
+        "name": "i don't mind floating",
+        "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        },
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "september lightning",
+      "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
         "name": "Nur",
         "url": "https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 216093,
       "name": "Bau mich auseinander (Piano Version)",
       "url": "https://open.spotify.com/track/0Ok8KfWfiI84vEYHbtX4TE"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
-        "name": "i don't mind floating",
-        "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
-      },
-      "artists": [
-        {
-          "name": "Humble the Great",
-          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
-        },
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "september lightning",
-      "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "getting used to",
-        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 227141,
-      "name": "getting used to",
-      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "April May July",
         "url": "https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 233893,
       "name": "April May July",
       "url": "https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "getting used to",
+        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 227141,
+      "name": "getting used to",
+      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
-      },
-      "artists": [
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 187795,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "when i close my eyes",
         "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 187795,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
         "name": "Ha Ha Heartbreak",
         "url": "https://open.spotify.com/album/6LuOPb9O7o8nrUvARf1SDb"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 337700,
       "name": "When I Am With You",
       "url": "https://open.spotify.com/track/1lRyZDsGGOm8fFRhaz0un4"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/7gFpWJWAqevc68PkrStDOW"
-      },
-      "artists": [
-        {
-          "name": "The American Dawn",
-          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
-        }
-      ],
-      "duration_ms": 214098,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/35GgAB0EsyT9hpk0FnGdhU"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "Airplanes",
-        "url": "https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ"
+        "name": "Her",
+        "url": "https://open.spotify.com/album/7gFpWJWAqevc68PkrStDOW"
       },
       "artists": [
         {
-          "name": "Tomas Ferdinand",
-          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
         }
       ],
-      "duration_ms": 157232,
-      "name": "Airplanes",
-      "url": "https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz"
+      "duration_ms": 214098,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/35GgAB0EsyT9hpk0FnGdhU"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -1359,6 +1343,22 @@
       "duration_ms": 123297,
       "name": "wo bin ich",
       "url": "https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "Airplanes",
+        "url": "https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ferdinand",
+          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
+        }
+      ],
+      "duration_ms": 157232,
+      "name": "Airplanes",
+      "url": "https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz"
     }
   ],
   "unique_name": "Herbst Chillout",

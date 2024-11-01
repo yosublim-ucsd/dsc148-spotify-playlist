@@ -1,12 +1,12 @@
 {
   "description": "All new music with an Indie twist. Cover: Tamino",
-  "num_followers": 102337,
+  "num_followers": 102343,
   "original_name": "Indie Update",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyI0ggAAAAD1ViBCIo8pgdj/FkKwEyiy",
+  "snapshot_id": "ZyOnxQAAAAD7g8C5i+9ZjWtpYmDjWYVc",
   "tracks": [
     {
       "added_at": "2024-10-23 11:51:06",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-10-23 11:51:06",
       "album": {
+        "name": "Brick Houses",
+        "url": "https://open.spotify.com/album/4ZgDC3RMyDFX65CVjYWz23"
+      },
+      "artists": [
+        {
+          "name": "Few Bits",
+          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Brick Houses",
+      "url": "https://open.spotify.com/track/29ewkYh7Tw1hWthUUxjxho"
+    },
+    {
+      "added_at": "2024-10-23 11:51:06",
+      "album": {
         "name": "Wake Up With You (WUWU)",
         "url": "https://open.spotify.com/album/6DORT5jfOBMzqZFC6634cU"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 220786,
       "name": "Swimming in the Garden",
       "url": "https://open.spotify.com/track/4qAWtO9SxAfH23y98EezVc"
-    },
-    {
-      "added_at": "2024-10-23 11:51:06",
-      "album": {
-        "name": "Brick Houses",
-        "url": "https://open.spotify.com/album/4ZgDC3RMyDFX65CVjYWz23"
-      },
-      "artists": [
-        {
-          "name": "Few Bits",
-          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Brick Houses",
-      "url": "https://open.spotify.com/track/29ewkYh7Tw1hWthUUxjxho"
     },
     {
       "added_at": "2024-10-23 11:51:06",

@@ -2,9 +2,9 @@
 
 ### [Livet på Bøgda!](https://open.spotify.com/playlist/37i9dQZF1DXa5zM0UrfG4s)
 
-> ble det en hvit sommer?
+> rølp og sånt
 
-379 songs - 17 hr 19 min
+380 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Ei tid \- Akustisk versjon](https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT), [Synne](https://open.spotify.com/artist/68UvCzlIOr87VYF5icJd2d) | [Ei tid \(Akustisk versjon\)](https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF) | 4:02 | 2021-12-16 | 2024-10-20 |
 | [En birra har aldrig](https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En birra har aldrig](https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r) | 2:27 | 2023-12-08 | 2024-06-17 |
 | [En drikkesang](https://open.spotify.com/track/2z12HXARpuQP9teW2tGyz0) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [En drikkesang](https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl) | 2:14 | 2023-04-06 | 2023-06-29 |
+| [En dårlig idé](https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [En dårlig idé](https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy) | 2:37 | 2024-10-31 |  |
 | [EN GAMMAL AMAZON](https://open.spotify.com/track/4910aDasJAeKxAAo5fNHll) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [EN GAMMAL AMAZON](https://open.spotify.com/album/1Vi6Fpf8sGX9PAFY0q2bz6) | 2:16 | 2023-09-21 | 2024-02-16 |
 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 | 2022-07-07 |  |
 | [En gång till](https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En gång till](https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy) | 2:43 | 2022-06-02 |  |
@@ -113,7 +114,7 @@
 | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/track/11By0UO1ssT4kJ4eXhwRVb) | [PAT49](https://open.spotify.com/artist/6p3M0KTYqaOs3aOmQ6iVMs), [Kappa Laks](https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj) | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/album/3LxA06EibvV4UMSVhL1EgO) | 2:09 | 2022-04-14 | 2022-08-25 |
 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 | 2021-12-16 | 2024-02-21 |
 | [Et Sted På Montebello](https://open.spotify.com/track/1CLFHU0oSSepQGeVPnaVHq) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Et Sted På Montebello](https://open.spotify.com/album/7kLuZ5vmzHc5i23SANRI6J) | 3:07 | 2021-12-16 | 2022-07-29 |
-| [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 | 2021-12-16 |  |
+| [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 | 2021-12-16 | 2024-11-01 |
 | [Evig Ung](https://open.spotify.com/track/1JW9yOhRC3FKfaxTBcibQF) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Evig Ung](https://open.spotify.com/album/4qTGCjhUEuScaKYoHPq7k5) | 2:57 | 2021-12-16 | 2022-04-20 |
 | [Evig vandring](https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr) | [Kjetil Nordfjeld](https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO), [Christiania](https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu) | [Evig vandring](https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE) | 2:50 | 2022-07-28 |  |
 | [Evig Vandring](https://open.spotify.com/track/7IeBamArdqkA6YnqBaMHFj) | [Kjetil Nordfjeld](https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO), [Christiania](https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu) | [Evig Vandring](https://open.spotify.com/album/0nGtfoQ6FXtdjWQ6xudk7a) | 2:50 | 2021-12-16 | 2022-07-29 |

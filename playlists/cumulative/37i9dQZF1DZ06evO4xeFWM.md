@@ -4,7 +4,7 @@
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 56 min
+104 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,11 @@
 | [Drawbridge & The Baroness](https://open.spotify.com/track/0S0wpBa0ZOK1fW1dfPZsX2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6eSdz2cBX7j23bxXonSqA2) | 3:41 | 2024-10-27 |  |
 | [Dreams](https://open.spotify.com/track/4SDp6x8UZP2xjI4JDCzwho) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Bad Blood X \(10th Anniversary Edition\)](https://open.spotify.com/album/74E7ppPrtoui2EO0Qi3QKz) | 4:20 | 2023-07-28 | 2023-08-05 |
 | [Eight Hours](https://open.spotify.com/track/5rO5unCSIjPlKdwNxroqcx) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Tyde](https://open.spotify.com/artist/0chEYcnxOGTcwHRfmoEOYH) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:28 | 2022-10-26 | 2024-07-24 |
-| [Emily & Her Penthouse In The Sky](https://open.spotify.com/track/7Ec3LPxy4LI4FPIFKu7It4) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:20 | 2024-10-31 |  |
+| [Emily & Her Penthouse In The Sky](https://open.spotify.com/track/7Ec3LPxy4LI4FPIFKu7It4) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:20 | 2024-10-31 | 2024-11-01 |
 | [Emily & Her Penthouse In The Sky](https://open.spotify.com/track/5BKgP3WXYSyLoRa0MaPU5c) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/0fqhKnVC87t0zG5i0Mba6S) | 3:22 | 2024-07-29 | 2024-10-31 |
 | [Essie & Paul](https://open.spotify.com/track/0CjGEiQSSzaewLVuvKTj1d) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:37 | 2024-10-28 |  |
-| [Eve & Paradise Lost](https://open.spotify.com/track/7fTd0qCtA3ihBR1aF9mhSP) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/0fqhKnVC87t0zG5i0Mba6S) | 3:13 | 2024-07-27 |  |
+| [Eve & Paradise Lost](https://open.spotify.com/track/0c3VjNgGU2wOidmg71UsdC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:10 | 2024-11-01 |  |
+| [Eve & Paradise Lost](https://open.spotify.com/track/7fTd0qCtA3ihBR1aF9mhSP) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/0fqhKnVC87t0zG5i0Mba6S) | 3:13 | 2024-07-27 | 2024-11-01 |
 | [Fake It](https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 4:04 | 2022-10-26 |  |
 | [Family Ties](https://open.spotify.com/track/1HZfTE8QCq1adwblnuo9Uw) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 2:46 | 2022-10-26 | 2024-07-25 |
 | [Flaws](https://open.spotify.com/track/14qPtxNN9MBdqKpP6l5q6G) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:38 | 2022-10-26 |  |
@@ -106,7 +107,7 @@
 | [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 | 2024-05-17 | 2024-07-17 |
 | [Warmth \- Outro](https://open.spotify.com/track/41LPNdZSw4hyZm1ZUVZfTu) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 1:06 | 2023-02-03 | 2024-07-17 |
 | [What Would You Do](https://open.spotify.com/track/2WwzQJt4hG7YC6x16ZTYFM) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:03 | 2024-06-15 | 2024-06-16 |
-| [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 | 2022-10-26 | 2024-10-28 |
+| [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 | 2022-10-26 |  |
 | [When I Watch The World Burn All I Think About Is You \- Demo](https://open.spotify.com/track/2Db90T16NxFtJyqiICooVu) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days \(This Got Out Of Hand Edition\)](https://open.spotify.com/album/2ZTutAjJEBw4mA5t4Edg1d) | 3:12 | 2024-06-24 | 2024-07-23 |
 | [Won't Let You Go](https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Vacation](https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz) | 3:54 | 2022-10-26 |  |
 | [World Gone Mad](https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [World Gone Mad \(From Bright: The Album\)](https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw) | 3:15 | 2022-10-26 |  |

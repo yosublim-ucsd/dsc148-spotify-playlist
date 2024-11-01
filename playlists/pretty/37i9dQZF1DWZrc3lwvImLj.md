@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,214 likes - 179 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,292 likes - 179 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 23 | [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 |
 | 24 | [How to remember?](https://open.spotify.com/track/3TJpAfD2dog7sxn0KMVqj0) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [How to remember?](https://open.spotify.com/album/45v0xf9l3ah7uNRaHveTyj) | 2:41 |
 | 25 | [Pax](https://open.spotify.com/track/6ma8HDfAK7yjLJxBc5LkE2) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Pax](https://open.spotify.com/album/3mvjKn2ciwtyMWl8pTklzW) | 5:28 |
-| 26 | [alone at sea](https://open.spotify.com/track/67q1BKoOkW3leD5BJE6nuT) | [Nadav Cohen](https://open.spotify.com/artist/5B2PgPtljWBKCEpdtd9CKg) | [alone at sea](https://open.spotify.com/album/4zCf8DzpHkY8II4oNPYaS6) | 2:31 |
+| 26 | [alone at sea](https://open.spotify.com/track/67q1BKoOkW3leD5BJE6nuT) | [Nadav Cohen](https://open.spotify.com/artist/7MVwyy7j6wKwEPFPT3RpjV) | [alone at sea](https://open.spotify.com/album/4zCf8DzpHkY8II4oNPYaS6) | 2:31 |
 | 27 | [Hidden poetry](https://open.spotify.com/track/3KlDABftWLOMxlQUTkRmJI) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Hidden poetry](https://open.spotify.com/album/3hn4kKodyid2wx4agXY3rM) | 2:19 |
 | 28 | [Viento En Calma](https://open.spotify.com/track/6uBL5gwVhfPMHic7YcD6TX) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Viento En Calma](https://open.spotify.com/album/6S1AdQWqcStwMkxklMTQ7V) | 2:16 |
 | 29 | [Syllables Flow](https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Syllables Flow](https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0) | 2:06 |

@@ -4,7 +4,7 @@
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 48 min
+84 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Guiding Light](https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 3:37 | 2022-09-16 |  |
 | [Hold on to What You Believe \- Live from Shepherd's Bush Empire, 2010](https://open.spotify.com/track/13UaKj7X8zno0QHa0sQ4lR) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/2BSWogsmKbWv9zmTAjjgpH) | 4:04 | 2022-10-27 | 2024-10-30 |
 | [Hold on to What You Believe \- Live from Shepherd's Bush Empire, 2010](https://open.spotify.com/track/2va7x2PRDMO8wRDvkK5hwV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/0HeTCm08wXQGyPv3qjc9O9) | 4:04 | 2022-09-16 | 2022-10-27 |
+| [Hopeless Wanderer](https://open.spotify.com/track/15Mn23dCmLw75foEgfBIOp) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn) | 5:07 | 2024-11-01 |  |
 | [Hopeless Wanderer](https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:07 | 2022-11-06 | 2024-10-15 |
-| [Hopeless Wanderer](https://open.spotify.com/track/4dfLrcSJpjvoRlgkHZEqz1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 5:07 | 2022-10-24 |  |
+| [Hopeless Wanderer](https://open.spotify.com/track/4dfLrcSJpjvoRlgkHZEqz1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 5:07 | 2022-10-24 | 2024-11-01 |
 | [Hopeless Wanderer](https://open.spotify.com/track/7rME25EmgXGVPQqKtU4CIK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:07 | 2022-09-16 | 2022-10-24 |
 | [House Of The Rising Sun \- Live From New Orleans Jazz Fest](https://open.spotify.com/track/4YfdnrjrSOHL8udlZ9tPyP) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Celisse](https://open.spotify.com/artist/0SJrFoAb35fTLKCLWcXJYu), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Gentlemen of the Road](https://open.spotify.com/album/6JR7iNiAhaqDfgNGQwkdCE) | 7:49 | 2024-09-16 |  |
 | [Hurt \(Live from Werchter\)](https://open.spotify.com/track/7owiVG8UaTtTkcErdgyHet) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta Tour EP](https://open.spotify.com/album/0Mdbs380PEaE81bScwSlBB) | 4:59 | 2022-09-16 | 2023-05-03 |

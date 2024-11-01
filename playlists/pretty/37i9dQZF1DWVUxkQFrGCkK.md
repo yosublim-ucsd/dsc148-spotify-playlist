@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Cesara Linaaaaaaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,979 likes - 351 songs - 1 day 0 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,095 likes - 351 songs - 1 day 0 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 140 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 |
 | 141 | [Soso \- Diego Narvaez Remix](https://open.spotify.com/track/51proKhEA8a2OlqCvJhQKw) | [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj), [Diego Narvaez](https://open.spotify.com/artist/6V1nADQeVq9Bu2YoP6Ej5S) | [Soso \(Remixes Summer Edition\)](https://open.spotify.com/album/7dlQzi9HdpowqAlb41cxZs) | 6:51 |
 | 142 | [LIFETIME](https://open.spotify.com/track/1eO0SE3sEubF64JYIMUkOC) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [LIFETIME](https://open.spotify.com/album/7vCihcZvgFZJTWeGHmFsZY) | 5:36 |
-| 143 | [Alegria \- Chris IDH Remix](https://open.spotify.com/track/51VCDKHeqFtu5hUDFI4uwv) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [Osfur](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO), [Chris IDH](https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9) | [Alegria \(Chris IDH Remix\)](https://open.spotify.com/album/4MssIEKfNy9Afv00q35Jkt) | 4:20 |
+| 143 | [Alegria \- Chris IDH Remix](https://open.spotify.com/track/51VCDKHeqFtu5hUDFI4uwv) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [OSFUR](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO), [Chris IDH](https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9) | [Alegria \(Chris IDH Remix\)](https://open.spotify.com/album/4MssIEKfNy9Afv00q35Jkt) | 4:20 |
 | 144 | [Candela](https://open.spotify.com/track/7M0D7OLM7tRPweFLlCPPS9) | [Crisologo](https://open.spotify.com/artist/0y6hhrueb8GqfhuPScVLxT) | [Candela](https://open.spotify.com/album/7LMSP1r4GtEJ7MINxpy16B) | 5:58 |
 | 145 | [Love Is Only Fun with You](https://open.spotify.com/track/0CdR8LkcVr8YJEoLrTJ1Bh) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Love Is Only Fun with You](https://open.spotify.com/album/2Ag5VFOHDYXaBODmVbO1Y7) | 3:21 |
 | 146 | [Karibu](https://open.spotify.com/track/01BjQ7kJDzs7JEVSF1ZHHL) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/3bffYGq3XpK2TMgoe0itJV) | 4:02 |
@@ -254,7 +254,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 244 | [Milkshake 20 \- Alex Wann Remix](https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9) | 2:56 |
 | 245 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
 | 246 | [Houdini \- Adam Port Mix](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Houdini \(Adam Port Mix\)](https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG) | 3:22 |
-| 247 | [Alegria](https://open.spotify.com/track/6THD0HpXvLeHy8kdiK4NQg) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [Osfur](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO) | [Alegria](https://open.spotify.com/album/7jLacsfzdGbhbfwE5EH455) | 2:24 |
+| 247 | [Alegria](https://open.spotify.com/track/6THD0HpXvLeHy8kdiK4NQg) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [OSFUR](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO) | [Alegria](https://open.spotify.com/album/7jLacsfzdGbhbfwE5EH455) | 2:24 |
 | 248 | [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 4:53 |
 | 249 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 |
 | 250 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
@@ -360,4 +360,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 350 | [People](https://open.spotify.com/track/5Z7K4nCutR02UrKIDjY35k) | [MLiR](https://open.spotify.com/artist/1deVrxjIl8NdenVpoSUiKi) | [Swedish Lo\-Life EP](https://open.spotify.com/album/1tJnTAZH3tCdoniVCB4nPD) | 6:07 |
 | 351 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \(Austin Millz Remix\)](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
 
-Snapshot ID: `ZxrDYAAAAAA0czFnPKGTKkby3wtMSdlP`
+Snapshot ID: `ZyQL8AAAAACqAeNfliDBoeyUJvsTfUl8`

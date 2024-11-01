@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2024.",
-  "num_followers": 190797,
+  "num_followers": 190839,
   "original_name": "Glastonbury 2024",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Relax My Eyes",
-        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 192150,
-      "name": "Relax My Eyes",
-      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "Praise You EP",
+        "url": "https://open.spotify.com/album/7zApUw7AHTFQQ6tUkDr5KD"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Praise You (Radio Edit)",
+      "url": "https://open.spotify.com/track/1j8GQQGyC26O1TeW4LLvjk"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "Praise You EP",
-        "url": "https://open.spotify.com/album/7zApUw7AHTFQQ6tUkDr5KD"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "Praise You (Radio Edit)",
-      "url": "https://open.spotify.com/track/1j8GQQGyC26O1TeW4LLvjk"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "MADRA",
-        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 199220,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 237826,
       "name": "Kong",
       "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "MADRA",
+        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 199220,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "Light, Dark, Light Again",
+        "url": "https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 210381,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "The Yearbook",
         "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 178933,
       "name": "I Got Heaven",
       "url": "https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "Light, Dark, Light Again",
-        "url": "https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Through 2 You",
-        "url": "https://open.spotify.com/album/3Efj2YOlPbnm2Bz3m3KmwZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
-        }
-      ],
-      "duration_ms": 198363,
-      "name": "Through 2 You",
-      "url": "https://open.spotify.com/track/0evAtYjWJMnNQrdzgNvqvF"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Made In The Dark",
         "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 234240,
       "name": "Ready For The Floor",
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Through 2 You",
+        "url": "https://open.spotify.com/album/3Efj2YOlPbnm2Bz3m3KmwZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        }
+      ],
+      "duration_ms": 198363,
+      "name": "Through 2 You",
+      "url": "https://open.spotify.com/track/0evAtYjWJMnNQrdzgNvqvF"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -1897,6 +1897,22 @@
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
+      "added_at": "2024-06-04 13:29:57",
+      "album": {
+        "name": "W.L. (Deluxe)",
+        "url": "https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 203949,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/77eb7DGxwuA3ID69HQeDsE"
+    },
+    {
       "added_at": "2024-05-31 13:56:16",
       "album": {
         "name": "If We Ever (Unglued Remix)",
@@ -1915,22 +1931,6 @@
       "duration_ms": 317974,
       "name": "If We Ever - Unglued Remix",
       "url": "https://open.spotify.com/track/2QUVsQu7ESIXqOuLTE4r0A"
-    },
-    {
-      "added_at": "2024-06-04 13:29:57",
-      "album": {
-        "name": "W.L. (Deluxe)",
-        "url": "https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 203949,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/77eb7DGxwuA3ID69HQeDsE"
     },
     {
       "added_at": "2024-06-04 13:29:57",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 194686,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/7DoNtK2gVFRwJh0hkHe5wQ"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Flyte",
         "url": "https://open.spotify.com/album/1HGUCTBuqr8TU9Z9m4xh1k"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 181763,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/4FG86wYpIjIl5NrOr79Fxf"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 194686,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/7DoNtK2gVFRwJh0hkHe5wQ"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Where\u2019s My Utopia?",
-        "url": "https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 159341,
-      "name": "Dream Job",
-      "url": "https://open.spotify.com/track/3u7PMsVBQ1viIm8tlhotl6"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Club classics / B2b",
         "url": "https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 153526,
       "name": "Club classics",
       "url": "https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Where\u2019s My Utopia?",
+        "url": "https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 159341,
+      "name": "Dream Job",
+      "url": "https://open.spotify.com/track/3u7PMsVBQ1viIm8tlhotl6"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2579,6 +2579,22 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        }
+      ],
+      "duration_ms": 181724,
+      "name": "Good to Me",
+      "url": "https://open.spotify.com/track/0kELHMzyLThrJN1ZJetQDB"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
         "name": "Von dutch remix with skream and benga",
         "url": "https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF"
       },
@@ -2599,22 +2615,6 @@
       "duration_ms": 281142,
       "name": "Von dutch remix with skream and benga",
       "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        }
-      ],
-      "duration_ms": 181724,
-      "name": "Good to Me",
-      "url": "https://open.spotify.com/track/0kELHMzyLThrJN1ZJetQDB"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2719,22 +2719,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Terms and Conditions",
-        "url": "https://open.spotify.com/album/2EZi1lwRNBMZlIKCNIdppT"
-      },
-      "artists": [
-        {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
-        }
-      ],
-      "duration_ms": 202485,
-      "name": "Terms and Conditions",
-      "url": "https://open.spotify.com/track/5Dj6O4NKfznlav1xo9TCX1"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Baby Face",
         "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
       },
@@ -2747,6 +2731,22 @@
       "duration_ms": 219083,
       "name": "Nobody Scared",
       "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "Terms and Conditions",
+        "url": "https://open.spotify.com/album/2EZi1lwRNBMZlIKCNIdppT"
+      },
+      "artists": [
+        {
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+        }
+      ],
+      "duration_ms": 202485,
+      "name": "Terms and Conditions",
+      "url": "https://open.spotify.com/track/5Dj6O4NKfznlav1xo9TCX1"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2879,22 +2879,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "JOY (God Only Knows)",
-        "url": "https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "JOY (God Only Knows)",
-      "url": "https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Love Lost",
         "url": "https://open.spotify.com/album/2TFjqyVzdKjNnNxoiR1VFN"
       },
@@ -2907,6 +2891,22 @@
       "duration_ms": 179889,
       "name": "Love Lost",
       "url": "https://open.spotify.com/track/6AP8Ttpx7tCVd8EqflkkR0"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "JOY (God Only Knows)",
+        "url": "https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "JOY (God Only Knows)",
+      "url": "https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -2963,22 +2963,6 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Roadents",
-        "url": "https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII"
-      },
-      "artists": [
-        {
-          "name": "Cristale",
-          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
-        }
-      ],
-      "duration_ms": 137291,
-      "name": "Roadents",
-      "url": "https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4"
-    },
-    {
-      "added_at": "2024-05-31 13:56:16",
-      "album": {
         "name": "Still Learning",
         "url": "https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh"
       },
@@ -3011,18 +2995,18 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "Vulture Prince",
-        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
+        "name": "Roadents",
+        "url": "https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII"
       },
       "artists": [
         {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
         }
       ],
-      "duration_ms": 462500,
-      "name": "Mohabbat",
-      "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
+      "duration_ms": 137291,
+      "name": "Roadents",
+      "url": "https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3043,18 +3027,18 @@
     {
       "added_at": "2024-05-31 13:56:16",
       "album": {
-        "name": "One For The Lad's",
-        "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
+        "name": "Vulture Prince",
+        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
       "artists": [
         {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
+      "duration_ms": 462500,
+      "name": "Mohabbat",
+      "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3071,6 +3055,22 @@
       "duration_ms": 198442,
       "name": "Burnt Toast & Coffee",
       "url": "https://open.spotify.com/track/0Am98XXjdvVo1O3fYpjaTs"
+    },
+    {
+      "added_at": "2024-05-31 13:56:16",
+      "album": {
+        "name": "One For The Lad's",
+        "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
     },
     {
       "added_at": "2024-05-31 13:56:16",
@@ -3253,6 +3253,22 @@
       "url": "https://open.spotify.com/track/0CIUacqGuohdes8fdIP4K3"
     },
     {
+      "added_at": "2024-06-04 13:29:57",
+      "album": {
+        "name": "You Can't Teach An Old Dog New Tricks",
+        "url": "https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "You Can't Teach An Old Dog New Tricks",
+      "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
+    },
+    {
       "added_at": "2024-05-31 13:56:16",
       "album": {
         "name": "I Need A Dollar",
@@ -3271,22 +3287,6 @@
       "duration_ms": 311728,
       "name": "I Need A Dollar",
       "url": "https://open.spotify.com/track/1mWVesRiDMgR5v7Umv1DBC"
-    },
-    {
-      "added_at": "2024-06-04 13:29:57",
-      "album": {
-        "name": "You Can't Teach An Old Dog New Tricks",
-        "url": "https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "You Can't Teach An Old Dog New Tricks",
-      "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
     },
     {
       "added_at": "2024-05-31 13:56:16",

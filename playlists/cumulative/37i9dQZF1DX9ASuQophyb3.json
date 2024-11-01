@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Afra  ",
+  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Emir Can \u0130\u011frek",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "kapkara",
+        "url": "https://open.spotify.com/album/3gHChYYRQh3K9U2Waz87xZ"
+      },
+      "artists": [
+        {
+          "name": "S\u0131la",
+          "url": "https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243900,
+      "name": "kapkara",
+      "url": "https://open.spotify.com/track/17ZlQdhdC3h3bkzfNdWrGr"
+    },
+    {
+      "album": {
         "name": "Kar\u0131\u015ft\u0131r\u0131cam O Uykular\u0131n\u0131",
         "url": "https://open.spotify.com/album/7mXPzLgQeTzUsw4c7RySNy"
       },
@@ -1126,6 +1144,24 @@
       "duration_ms": 175000,
       "name": "Mevzu Derin",
       "url": "https://open.spotify.com/track/5VGWEPtPUKqjQwGO1Pyz2r"
+    },
+    {
+      "album": {
+        "name": "Mevzu Derin",
+        "url": "https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7"
+      },
+      "artists": [
+        {
+          "name": "Soner Sar\u0131kabaday\u0131",
+          "url": "https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209866,
+      "name": "Mevzu Derin",
+      "url": "https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV"
     },
     {
       "album": {
@@ -1350,7 +1386,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 203358,
       "name": "Sen \u0130ste",
       "url": "https://open.spotify.com/track/1s42fdgiINV0t72XimbLdJ"
@@ -1517,6 +1553,42 @@
     },
     {
       "album": {
+        "name": "Teselli P\u0131nar\u0131m",
+        "url": "https://open.spotify.com/album/4EElJzc2mB278wYxmxuv53"
+      },
+      "artists": [
+        {
+          "name": "Can Kazaz",
+          "url": "https://open.spotify.com/artist/4YLcK0MEyqFkdyyzbPTWrs"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Teselli P\u0131nar\u0131m",
+      "url": "https://open.spotify.com/track/25lRCgouVFztOjjqc2WvGL"
+    },
+    {
+      "album": {
+        "name": "T\u0131rna\u011f\u0131n K\u0131r\u0131lmas\u0131n",
+        "url": "https://open.spotify.com/album/3X5k2n8X0KaJF2GBFfvVBl"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "T\u0131rna\u011f\u0131n K\u0131r\u0131lmas\u0131n",
+      "url": "https://open.spotify.com/track/36SKXwHlE1zYin3xwPRDnU"
+    },
+    {
+      "album": {
         "name": "Ufak Ufak ( Prod\u00fckt\u00f6r Genco Ar\u0131 )",
         "url": "https://open.spotify.com/album/7ymv9rExQjWkW0QfrVMoJ4"
       },
@@ -1576,7 +1648,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 163353,
       "name": "Yaban \u00c7i\u00e7e\u011fim",
       "url": "https://open.spotify.com/track/13R7NdClDXi78isqTa5rGz"
@@ -1634,7 +1706,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 194933,
       "name": "Yang\u0131n Yang\u0131n",
       "url": "https://open.spotify.com/track/4O8BIvo3juWpcCASM9pbNK"
@@ -1808,7 +1880,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 153613,
       "name": "Yeri Var",
       "url": "https://open.spotify.com/track/6WTnCHQKG1fbuKbMKzgMW5"

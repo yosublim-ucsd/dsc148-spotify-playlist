@@ -2,16 +2,18 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover: Luby Sparks\)
+> Noise distortion amongst the hazy clouds ☁️  \(Cover: Milledenials\)
 
-134 songs - 9 hr 21 min
+138 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Always](https://open.spotify.com/track/7frdnV62ZVTt6HOqtHadnk) | [Ozzga](https://open.spotify.com/artist/4LoxjSTESClUkXDI7mP6t4) | [When You're Away](https://open.spotify.com/album/4BvY1NnxqLpigHsghwhVuU) | 4:34 | 2024-06-27 |  |
+| [ASMR](https://open.spotify.com/track/1ylVyukbCICBWuJkn1yECY) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [ASMR](https://open.spotify.com/album/6SuUI7PvgHMDTpFLXvWgiK) | 2:18 | 2024-10-31 |  |
 | [back when you were still mine](https://open.spotify.com/track/5wI9KXhCQbD4hXCUO1z0Lz) | [pleasant](https://open.spotify.com/artist/4Fq5JqpAfQ5FEuKHuAapJT) | [back when you were still mine](https://open.spotify.com/album/0pK44xLppZd02wRASZvAOb) | 2:56 | 2024-06-27 |  |
 | [Beauty Little Eyes](https://open.spotify.com/track/08eCVhr2ka4SPw79tXPC4h) | [vievv](https://open.spotify.com/artist/3W3rTSU10U0mAlzJwFEXkn) | [Beauty Little Eyes](https://open.spotify.com/album/5up5XKBnZLcCQoGoKLUys0) | 3:56 | 2024-06-27 | 2024-08-31 |
 | [Bitterness](https://open.spotify.com/track/0QnAfmv5CwrotxI8W1ZsGQ) | [Yasu Cub](https://open.spotify.com/artist/01q4aGaA44cHbbv3bY8P1i) | [Bitterness](https://open.spotify.com/album/4vU22oFOy1LjDvipzgwim7) | 3:53 | 2024-06-27 | 2024-10-18 |
+| [Blind](https://open.spotify.com/track/2vl6muvMqOel3VCmfVkS7R) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [Blind](https://open.spotify.com/album/6nblYc0KDe1v0KsfOtNIEn) | 4:21 | 2024-10-31 |  |
 | [BLUE WINE](https://open.spotify.com/track/6fFz6JYo9IHvgVLmmFNcci) | [EÄZZ.](https://open.spotify.com/artist/1ybobnnnwcuBzeWoae5LEY) | [Soft,Frail and Blue](https://open.spotify.com/album/1bM9Qt42jRnIlZIIMqkxdb) | 4:13 | 2024-06-27 |  |
 | [Boring Train](https://open.spotify.com/track/5QRgEuPneXDEQjiVuNzTnv) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Marble Town](https://open.spotify.com/album/4mF2gRfHof8jXkW3ay0Ggu) | 4:48 | 2024-06-27 |  |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-04 | 2024-08-09 |
@@ -69,6 +71,7 @@
 | [Leave](https://open.spotify.com/track/6YENNctHxnfa4U2AXD8h8Q) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [Fade](https://open.spotify.com/album/3tBmyjfGvGRPPZV32BeGF7) | 4:01 | 2024-06-27 |  |
 | [Lily](https://open.spotify.com/track/66sSLulLtyGjwt33C4XE2n) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Lily](https://open.spotify.com/album/1elWcJyr9tqhnpt8uZXUFR) | 4:27 | 2024-06-27 | 2024-08-09 |
 | [Lost](https://open.spotify.com/track/3Op63ZmpzYIpF92J3y5m9u) | [My Violainé Morning](https://open.spotify.com/artist/7fAZaqZKCfkyMnZpNLb2bR) | [Lost](https://open.spotify.com/album/5bQBMuWP3fq8UERgeq3oAB) | 6:25 | 2024-06-27 | 2024-10-11 |
+| [Lost](https://open.spotify.com/track/59AUz2usEfAG5a23Q3JIwP) | [Withered Whispers](https://open.spotify.com/artist/3uG0BjYEeeRvTRm75rWJD7) | [Lost](https://open.spotify.com/album/5NAiE3XSwBl0NicxOjpnOK) | 4:26 | 2024-10-31 |  |
 | [Loving You \(Isn't So Hard\)](https://open.spotify.com/track/4p4yq2tUiF5GBGhjxwE80t) | [Betre](https://open.spotify.com/artist/0LFjqFsBRILZ1usRkfwa6l) | [Loving You \(Isn't So Hard\)](https://open.spotify.com/album/2LpBEqfnEMjHRc9Laxems8) | 2:59 | 2024-06-27 |  |
 | [Mad](https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6) | [aunt robert](https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9) | [Mad](https://open.spotify.com/album/7xr4n4xmcaLFEhlc76fjn4) | 2:34 | 2024-08-08 |  |
 | [Malaise](https://open.spotify.com/track/68d70gUAWGHroKOssw94kj) | [Rebecca Theodora](https://open.spotify.com/artist/3gOsk0RYhnK0G4rhaCmvef) | [Malaise](https://open.spotify.com/album/6eKkUNG5HF10UtnSqN5oyt) | 5:31 | 2024-06-27 |  |
@@ -100,6 +103,7 @@
 | [Perfect Girl](https://open.spotify.com/track/5pO90RA1mYHHrTzVr3Y7AL) | [Yoko City Ghost](https://open.spotify.com/artist/6cD8bO5ylH8FlE3IGqDXfQ) | [Sputnik\-1](https://open.spotify.com/album/6XwUVQWw83K5KU4PZ8Nzys) | 3:38 | 2024-06-27 |  |
 | [Pesan](https://open.spotify.com/track/0UAVfS0bpWoDt6rlBDzmhI) | [whisperdesire](https://open.spotify.com/artist/0jSvusx01G0VWBt14G0AEK) | [Pesan](https://open.spotify.com/album/5jFc5r6vMg8wavsHHYEk0Y) | 5:25 | 2024-06-27 |  |
 | [Placid Mind](https://open.spotify.com/track/10TXhniXWvdify6A5mze8c) | [Shrine](https://open.spotify.com/artist/7oYkFph1CNSKnx7kYLgS3j) | [Placid Mind](https://open.spotify.com/album/6OnytK89zTWyodQxpBeFS1) | 5:17 | 2024-06-27 |  |
+| [Plane Crash](https://open.spotify.com/track/6rkyyg2HZzZBikUJEV5LLO) | [BUBBLE TEA AND CIGARETTES](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [we should've killed each other](https://open.spotify.com/album/06a64F1q3p9gMlvuiEcume) | 4:09 | 2024-10-31 |  |
 | [Precious Me](https://open.spotify.com/track/1gyIGh5Zqjc7BG0xUfTjP9) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Precious Me / Feel Any Pain](https://open.spotify.com/album/4pQOw5OThpX8wjRKyk8Ypf) | 3:42 | 2024-06-27 | 2024-08-09 |
 | [Pudar](https://open.spotify.com/track/6UlVDJKmiqJ29Ut5lutkpX) | [eyesun](https://open.spotify.com/artist/29PELbih4pFV1CfXeHfrXF) | [Feel Something](https://open.spotify.com/album/0TW6qkK2DLqtiDBDceTTyv) | 5:28 | 2024-06-27 |  |
 | [Realize](https://open.spotify.com/track/7qVKgHJDWENFmqtnvr6Tzq) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [Fault](https://open.spotify.com/album/4vl7hn0TDJg3GJPeAOGFhS) | 3:55 | 2024-06-27 | 2024-08-09 |

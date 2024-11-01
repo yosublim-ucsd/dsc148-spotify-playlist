@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Halsey
 
-6,689 songs - 13 day 21 hr 12 min
+6,690 songs - 13 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [A\-List](https://open.spotify.com/track/3aLMnL5LOmwMXYgnWWPJid) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [I Found Love at 23](https://open.spotify.com/album/1yZ7o3rLx5tSzMNQOe7FMy) | 2:24 | 2023-10-27 | 2023-11-18 |
 | [A2B](https://open.spotify.com/track/0tpFnS7urlRsXFnAjYmfpw) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6CM5H3hwKPAeGZ1lxOArj6) | 2:10 | 2023-11-24 | 2023-12-06 |
 | [A2B](https://open.spotify.com/track/26RIaYLm31QkMg4vkigStp) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6gvw0F8qkG8VA03z1U8eCN) | 2:10 | 2023-12-02 | 2023-12-23 |
+| [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 | 2024-10-25 |  |
 | [Aaja Baby](https://open.spotify.com/track/2M4iSOZiosyPBgcjirEnrm) | [Ridi](https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81) | [Aaja Baby](https://open.spotify.com/album/4apRp8Kc1wx3FlxcJMKfmM) | 3:11 | 2023-07-07 | 2023-07-22 |
 | [Abandonment Issues](https://open.spotify.com/track/5wtt3CxEQYPcnY13aXtRfV) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Abandonment Issues](https://open.spotify.com/album/4sxJ9NpZDYuTg2HdFaq7rM) | 2:57 | 2022-08-26 | 2022-09-10 |
 | [ABCD](https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 2:42 | 2024-06-14 | 2024-06-29 |

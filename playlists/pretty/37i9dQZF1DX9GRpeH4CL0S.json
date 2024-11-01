@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Phoenix",
-  "num_followers": 755331,
+  "num_followers": 755403,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-08-09 17:22:17",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2024-08-09 17:22:17",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 293960,
       "name": "Like a Stone",
       "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+    },
+    {
+      "added_at": "2024-08-09 17:22:17",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2024-08-09 17:22:17",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-08-09 17:22:17",
       "album": {
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+    },
+    {
+      "added_at": "2024-08-09 17:22:17",
+      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 318586,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
-    },
-    {
-      "added_at": "2024-08-09 17:22:17",
-      "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
       "added_at": "2024-08-09 17:22:17",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-08-09 17:22:17",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Lonely Boy",
-      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
-    },
-    {
-      "added_at": "2024-08-09 17:22:17",
-      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+    },
+    {
+      "added_at": "2024-08-09 17:22:17",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
       "added_at": "2024-08-09 17:22:17",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-08-09 17:22:17",
       "album": {
-        "name": "Blind Melon",
-        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
       "artists": [
         {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
         }
       ],
-      "duration_ms": 217106,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2024-08-09 17:22:17",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-08-09 17:22:17",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+        "name": "Blind Melon",
+        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
       },
       "artists": [
         {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+      "duration_ms": 217106,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
     },
     {
       "added_at": "2024-08-09 17:22:17",
@@ -2783,22 +2783,6 @@
     {
       "added_at": "2024-08-09 17:22:17",
       "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
-    },
-    {
-      "added_at": "2024-08-09 17:22:17",
-      "album": {
         "name": "Bleed American (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV"
       },
@@ -2811,6 +2795,22 @@
       "duration_ms": 168253,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA"
+    },
+    {
+      "added_at": "2024-08-09 17:22:17",
+      "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
     },
     {
       "added_at": "2024-08-09 17:22:17",
@@ -2879,22 +2879,6 @@
     {
       "added_at": "2024-08-09 17:22:17",
       "album": {
-        "name": "Everything All The Time",
-        "url": "https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 322173,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr"
-    },
-    {
-      "added_at": "2024-08-09 17:22:17",
-      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob"
       },
@@ -2907,6 +2891,22 @@
       "duration_ms": 193613,
       "name": "Interstate Love Song",
       "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
+    },
+    {
+      "added_at": "2024-08-09 17:22:17",
+      "album": {
+        "name": "Everything All The Time",
+        "url": "https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 322173,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr"
     },
     {
       "added_at": "2024-08-09 17:22:17",
@@ -3071,18 +3071,18 @@
     {
       "added_at": "2024-08-09 17:22:17",
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6ivqUxtSPTljd9Frfdyxbg"
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
       },
       "artists": [
         {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+          "name": "The Knife",
+          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
         }
       ],
-      "duration_ms": 110093,
-      "name": "Fell In Love With A Girl",
-      "url": "https://open.spotify.com/track/33ytgjBqchYHhhRfKWMCvH"
+      "duration_ms": 231853,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4"
     },
     {
       "added_at": "2024-08-09 17:22:17",
@@ -3103,18 +3103,18 @@
     {
       "added_at": "2024-08-09 17:22:17",
       "album": {
-        "name": "Deep Cuts",
-        "url": "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6ivqUxtSPTljd9Frfdyxbg"
       },
       "artists": [
         {
-          "name": "The Knife",
-          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 231853,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4"
+      "duration_ms": 110093,
+      "name": "Fell In Love With A Girl",
+      "url": "https://open.spotify.com/track/33ytgjBqchYHhhRfKWMCvH"
     },
     {
       "added_at": "2024-08-09 17:22:17",
@@ -3135,22 +3135,6 @@
     {
       "added_at": "2024-08-09 17:22:17",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
-        "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289559,
-      "name": "Don't Look Back In Anger (Remastered)",
-      "url": "https://open.spotify.com/track/7CVYxHq1L0Z4G84jTDS6Jl"
-    },
-    {
-      "added_at": "2024-08-09 17:22:17",
-      "album": {
         "name": "Don't Look Back into the Sun",
         "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
       },
@@ -3163,6 +3147,22 @@
       "duration_ms": 179960,
       "name": "Don't Look Back into the Sun",
       "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
+    },
+    {
+      "added_at": "2024-08-09 17:22:17",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
+        "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289559,
+      "name": "Don't Look Back In Anger (Remastered)",
+      "url": "https://open.spotify.com/track/7CVYxHq1L0Z4G84jTDS6Jl"
     },
     {
       "added_at": "2024-08-09 17:22:17",

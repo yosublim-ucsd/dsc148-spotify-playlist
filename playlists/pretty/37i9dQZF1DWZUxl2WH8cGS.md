@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUxl2WH8cGS.md) - [plain]
 
 > Dance to the tunes from your favorite Netflix family\-friendly series and movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,345 likes - 42 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,348 likes - 42 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUxl2WH8cGS.md) - [plain]
 | 32 | [Hey Boy](https://open.spotify.com/track/4xTGusVtTVFmKLRaUNRD7w) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Robert G\. Chiu](https://open.spotify.com/artist/7w1guDBNeJPNishwQ8qJAv) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:47 |
 | 33 | [Hair In The Air \(Trolls: The Beat Goes On Theme\)](https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg), [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:14 |
 | 34 | [Vacation Boogie](https://open.spotify.com/track/4GJmtcFGBktZqGDRNg116X) | [Dr\. Fang and The Gang](https://open.spotify.com/artist/3jXRb6lCRced5A1w4pikFh) | [Kid Cosmic and the Sonic Courage \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tTsRAyDRVi7NMqNSqxSbR) | 2:55 |
-| 35 | [Can't Stop Us](https://open.spotify.com/track/0X2Bcy3ugmEME89KTyckMQ) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Barbie It Takes Two \(Original Series Soundtrack\)](https://open.spotify.com/album/2mXF94JoueENMjvZFVhzth) | 2:27 |
+| 35 | [Can't Stop Us](https://open.spotify.com/track/0X2Bcy3ugmEME89KTyckMQ) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Barbie It Takes Two \(Original Series Soundtrack\)](https://open.spotify.com/album/2mXF94JoueENMjvZFVhzth) | 2:27 |
 | 36 | [For Once In My Life](https://open.spotify.com/track/1aa4uizAfJZQJKycxZCWLo) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Motown Magic \(Original Soundtrack\)](https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL) | 2:54 |
 | 37 | [Full Speed Fun](https://open.spotify.com/track/34f9yqSTA9dkoyjmfwOSNF) | [True and the Rainbow Kingdom](https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl) | [Dance and Sing with True](https://open.spotify.com/album/3rGOpK27aWBo1U9HIa17FW) | 2:10 |
 | 38 | [Beautiful Ugly \(feat\. Evie Irie\) \- from "Back to the Outback" soundtrack](https://open.spotify.com/track/2JgijDhCqmKlIzA4mJqy4p) | [Tim Minchin](https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2), [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Back to the Outback \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5X85NobmlyfXSt649o21Y6) | 2:44 |

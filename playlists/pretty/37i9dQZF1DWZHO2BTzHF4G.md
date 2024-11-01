@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 
 > Rock on repeat during the summers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,821 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,822 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 78 | [Elevation](https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:46 |
 | 79 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 |
 | 80 | [No Surprise](https://open.spotify.com/track/6q4XLE5WeOBWftoc9gTl2P) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [It's Not Over....The Hits So Far](https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE) | 4:30 |
-| 81 | [Meant to Live](https://open.spotify.com/track/79cAPxneo5AvbNgR6ch3Cj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Best Yet](https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc) | 3:19 |
-| 82 | [Forever](https://open.spotify.com/track/4oJ4XZwQA2cLMBnRtYSSIb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA) | 4:06 |
+| 81 | [Forever](https://open.spotify.com/track/4oJ4XZwQA2cLMBnRtYSSIb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA) | 4:06 |
+| 82 | [Meant to Live](https://open.spotify.com/track/79cAPxneo5AvbNgR6ch3Cj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Best Yet](https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc) | 3:19 |
 | 83 | [In Love With a Girl](https://open.spotify.com/track/3zcmWxxUA7Em7X3IBqZGUo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Gavin DeGraw](https://open.spotify.com/album/5FbUXif3rTa8DX7TTwxegZ) | 3:26 |
 | 84 | [Pork And Beans](https://open.spotify.com/track/5txH6topQylTHnb4lZMdQ1) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/58UmKPMguFuYtGMVNol95V) | 3:09 |
 | 85 | [Champagne](https://open.spotify.com/track/3C5cvFzAklAzMffGjirEVw) | [Cavo](https://open.spotify.com/artist/7a06JYLmZG3txQqr9uzvbg) | [Bright Nights \* Dark Days](https://open.spotify.com/album/6VxhmV2m5nlaVS0aF8VItG) | 3:07 |

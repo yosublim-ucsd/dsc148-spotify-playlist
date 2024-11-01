@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=wdppI-fhS1qjt9pyyAggSQ>Judikay</a>",
-  "num_followers": 78637,
+  "num_followers": 78700,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfvAAAAABKv0sPV8lnwGlbDgplrGVq",
+  "snapshot_id": "ZyQaPAAAAACar/avbH0FViZXzlrAXcID",
   "tracks": [
     {
       "added_at": "2024-10-11 00:01:00",
@@ -873,6 +873,26 @@
       "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
     },
     {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "Shekinah",
+        "url": "https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 420025,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Kingdom Now",
@@ -907,26 +927,6 @@
       "duration_ms": 487711,
       "name": "TOBECHUKWU",
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
-    },
-    {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "Shekinah",
-        "url": "https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj"
-      },
-      "artists": [
-        {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 420025,
-      "name": "Shekinah",
-      "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -989,6 +989,26 @@
       "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
     },
     {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Grace Story",
+        "url": "https://open.spotify.com/album/5SnU87GPAGjPvYNMFsknCQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        },
+        {
+          "name": "Ellie Scotte",
+          "url": "https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM"
+        }
+      ],
+      "duration_ms": 423093,
+      "name": "Grace Story",
+      "url": "https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "The King Is Coming",
@@ -1013,26 +1033,6 @@
       "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
     },
     {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Grace Story",
-        "url": "https://open.spotify.com/album/5SnU87GPAGjPvYNMFsknCQ"
-      },
-      "artists": [
-        {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
-        },
-        {
-          "name": "Ellie Scotte",
-          "url": "https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM"
-        }
-      ],
-      "duration_ms": 423093,
-      "name": "Grace Story",
-      "url": "https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Daddy wey dey Pamper",
@@ -1051,6 +1051,22 @@
       "duration_ms": 760597,
       "name": "Daddy wey dey Pamper",
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+    },
+    {
+      "added_at": "2024-10-18 00:01:00",
+      "album": {
+        "name": "tethered",
+        "url": "https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 225009,
+      "name": "tethered",
+      "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
     },
     {
       "added_at": "2024-08-23 00:01:00",
@@ -1089,22 +1105,6 @@
       "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
     },
     {
-      "added_at": "2024-10-18 00:01:00",
-      "album": {
-        "name": "tethered",
-        "url": "https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA"
-      },
-      "artists": [
-        {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        }
-      ],
-      "duration_ms": 225009,
-      "name": "tethered",
-      "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "The Glory Experience (Songs of Zion)",
@@ -1119,22 +1119,6 @@
       "duration_ms": 577592,
       "name": "Kaabo",
       "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Lion of Judah",
-        "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        }
-      ],
-      "duration_ms": 316280,
-      "name": "Lion of Judah",
-      "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
     },
     {
       "added_at": "2024-08-30 00:01:00",
@@ -1153,20 +1137,36 @@
       "url": "https://open.spotify.com/track/0qsUgNIZ4gJ2AeEUjBmUv8"
     },
     {
-      "added_at": "2024-09-27 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Lai Lai",
-        "url": "https://open.spotify.com/album/5YXPJ5JBpAxrIGx81Pmyyn"
+        "name": "Lion of Judah",
+        "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
       },
       "artists": [
         {
-          "name": "Aremmic",
-          "url": "https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN"
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
         }
       ],
-      "duration_ms": 167094,
-      "name": "Lai Lai",
-      "url": "https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC"
+      "duration_ms": 316280,
+      "name": "Lion of Judah",
+      "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "NO TURNING BACK",
+        "url": "https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "duration_ms": 127317,
+      "name": "NO TURNING BACK",
+      "url": "https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1185,20 +1185,20 @@
       "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
     },
     {
-      "added_at": "2024-08-16 00:01:00",
+      "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "NO TURNING BACK",
-        "url": "https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID"
+        "name": "Lai Lai",
+        "url": "https://open.spotify.com/album/5YXPJ5JBpAxrIGx81Pmyyn"
       },
       "artists": [
         {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+          "name": "Aremmic",
+          "url": "https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN"
         }
       ],
-      "duration_ms": 127317,
-      "name": "NO TURNING BACK",
-      "url": "https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ"
+      "duration_ms": 167094,
+      "name": "Lai Lai",
+      "url": "https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1317,6 +1317,22 @@
       "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
     },
     {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4DSH6OSqbLCQv8t6cfQp6f"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 163007,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5PEWr3EyHJPp0Ii8OpmT1B"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Frankincense",
@@ -1335,22 +1351,6 @@
       "duration_ms": 209653,
       "name": "Ka Anyi Bulie (feat. Don Moen)",
       "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4DSH6OSqbLCQv8t6cfQp6f"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 163007,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5PEWr3EyHJPp0Ii8OpmT1B"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/0UidF9z25XgNCEsTwHNi5B"
     },
     {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
-        "name": "Definitely",
-        "url": "https://open.spotify.com/album/1N3vhfw1XG6hRVvrJsDRYV"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "Definitely",
-      "url": "https://open.spotify.com/track/6UeeHWPfpgo6wArO2H9KQL"
-    },
-    {
       "added_at": "2024-05-03 00:01:00",
       "album": {
         "name": "Higher",
@@ -1447,6 +1431,22 @@
       "duration_ms": 162223,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
+        "name": "Definitely",
+        "url": "https://open.spotify.com/album/1N3vhfw1XG6hRVvrJsDRYV"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 228893,
+      "name": "Definitely",
+      "url": "https://open.spotify.com/track/6UeeHWPfpgo6wArO2H9KQL"
     },
     {
       "added_at": "2023-12-15 00:01:00",

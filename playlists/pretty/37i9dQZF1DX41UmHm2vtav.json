@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 472105,
+  "num_followers": 472158,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -743,30 +743,6 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
-        "name": "E Depois (Que Sorte A Minha)",
-        "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        }
-      ],
-      "duration_ms": 220125,
-      "name": "E Depois (Que Sorte A Minha)",
-      "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
         "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
         "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 376680,
       "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
       "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
+        "name": "E Depois (Que Sorte A Minha)",
+        "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "E Depois (Que Sorte A Minha)",
+      "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
     },
     {
       "added_at": "2024-09-20 03:03:00",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
-        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
-        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
-      },
-      "artists": [
-        {
-          "name": "Zeca Veloso",
-          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 269015,
-      "name": "Todo Homem - Bhaskar, Mojjo Remix",
-      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
         "name": "Carla (Remix)",
         "url": "https://open.spotify.com/album/2ZBMQ8LmhC17Ft6aeg6Dyh"
       },
@@ -1435,6 +1411,30 @@
       "duration_ms": 219000,
       "name": "Perdi\u00e7\u00e3o (feat. L7NNON) - Remix",
       "url": "https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
+        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
+        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
+      },
+      "artists": [
+        {
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Todo Homem - Bhaskar, Mojjo Remix",
+      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
     },
     {
       "added_at": "2024-09-20 03:03:00",

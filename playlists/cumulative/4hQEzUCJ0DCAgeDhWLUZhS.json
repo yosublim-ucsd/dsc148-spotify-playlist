@@ -3273,6 +3273,28 @@
     },
     {
       "album": {
+        "name": "I'm With The Band (feat. Beck)",
+        "url": "https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175190,
+      "name": "I'm With The Band (feat. Beck)",
+      "url": "https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS"
+    },
+    {
+      "album": {
         "name": "Ice Cold / New California",
         "url": "https://open.spotify.com/album/0khqKuc8ozdalZU75PJS4Q"
       },

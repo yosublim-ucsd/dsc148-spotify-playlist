@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 15149,
+  "num_followers": 15157,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Dulcinea",
+        "url": "https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La mejor noche d mi vida <3",
+      "url": "https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Tatequieto",
         "url": "https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 152210,
       "name": "Tatequieto",
       "url": "https://open.spotify.com/track/5ZOqDC4hB0Ce1WGbuqmoiA"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Dulcinea",
-        "url": "https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La mejor noche d mi vida <3",
-      "url": "https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 185088,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "No Pidas Tanto",
         "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 152441,
       "name": "No Pidas Tanto",
       "url": "https://open.spotify.com/track/35AK8srOaFTQBnwN2RxQTJ"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 185088,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1139,22 +1139,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Tiempo y Espacio",
-        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
+        "name": "ANOMAL\u00cdA",
+        "url": "https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy"
       },
       "artists": [
         {
-          "name": "Soul AM",
-          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
-        },
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+          "name": "N4NO",
+          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
         }
       ],
-      "duration_ms": 177756,
-      "name": "Tiempo y Espacio",
-      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
+      "duration_ms": 210833,
+      "name": "LOOP \u221e",
+      "url": "https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1179,18 +1175,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "ANOMAL\u00cdA",
-        "url": "https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy"
+        "name": "Tiempo y Espacio",
+        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
       },
       "artists": [
         {
-          "name": "N4NO",
-          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
         }
       ],
-      "duration_ms": 210833,
-      "name": "LOOP \u221e",
-      "url": "https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK"
+      "duration_ms": 177756,
+      "name": "Tiempo y Espacio",
+      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "You Know",
-        "url": "https://open.spotify.com/album/5aign2FhwyRkicO7SO0Xrq"
-      },
-      "artists": [
-        {
-          "name": "Pielroja",
-          "url": "https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/5XH4xq8TTe9yRoldMjyDlh"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "NEZA",
         "url": "https://open.spotify.com/album/6QryhfUs8EDXS3nw2SPnME"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 167746,
       "name": "NEZA",
       "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/5aign2FhwyRkicO7SO0Xrq"
+      },
+      "artists": [
+        {
+          "name": "Pielroja",
+          "url": "https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5XH4xq8TTe9yRoldMjyDlh"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Sideral",
-        "url": "https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Gabanna",
-          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
-        },
-        {
-          "name": "Lupita's Friends",
-          "url": "https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Tasmania",
-      "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Remakia",
         "url": "https://open.spotify.com/album/4MI0nOimReCzR7Zszqy5lH"
       },
@@ -1543,22 +1523,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3"
+        "name": "Sideral",
+        "url": "https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M"
       },
       "artists": [
         {
-          "name": "AEME",
-          "url": "https://open.spotify.com/artist/1BvuliS0keIKrgH8dvvJQM"
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
         },
         {
-          "name": "Juan Sinatra",
-          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+          "name": "Lupita's Friends",
+          "url": "https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW"
         }
       ],
-      "duration_ms": 194558,
-      "name": "Manantial",
-      "url": "https://open.spotify.com/track/5Tv8NKokEXGMfgAGNGdVgu"
+      "duration_ms": 189486,
+      "name": "Tasmania",
+      "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1603,6 +1583,42 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "El Juanito Y El Mu\u00f1equia",
+        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
+      },
+      "artists": [
+        {
+          "name": "Baby Syko",
+          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
+        }
+      ],
+      "duration_ms": 214569,
+      "name": "El Juanito Y El Mu\u00f1equia",
+      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3"
+      },
+      "artists": [
+        {
+          "name": "AEME",
+          "url": "https://open.spotify.com/artist/1BvuliS0keIKrgH8dvvJQM"
+        },
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        }
+      ],
+      "duration_ms": 194558,
+      "name": "Manantial",
+      "url": "https://open.spotify.com/track/5Tv8NKokEXGMfgAGNGdVgu"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "SORRY (REMIX)",
         "url": "https://open.spotify.com/album/3NHd7mQIBLGcOFwx1xSV9C"
       },
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "El Juanito Y El Mu\u00f1equia",
-        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
       },
       "artists": [
         {
-          "name": "Baby Syko",
-          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
         }
       ],
-      "duration_ms": 214569,
-      "name": "El Juanito Y El Mu\u00f1equia",
-      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
-      },
-      "artists": [
-        {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Just in Case",
         "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
       },
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Rap Garuya",
+        "url": "https://open.spotify.com/album/35V0U9At1mBK8CvgQiRBbC"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        },
+        {
+          "name": "El sonido del javier",
+          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
+        }
+      ],
+      "duration_ms": 166119,
+      "name": "Para Salvar Vidas",
+      "url": "https://open.spotify.com/track/6vL82sT8JgMdEZIUr80SK1"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "La Fuente",
         "url": "https://open.spotify.com/album/2zXIcPrU2UF0McYhgInyaK"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 167127,
       "name": "La Fuente",
       "url": "https://open.spotify.com/track/3ysOIJAqg29lkdRAKAelAZ"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Rap Garuya",
-        "url": "https://open.spotify.com/album/35V0U9At1mBK8CvgQiRBbC"
-      },
-      "artists": [
-        {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        },
-        {
-          "name": "El sonido del javier",
-          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
-        }
-      ],
-      "duration_ms": 166119,
-      "name": "Para Salvar Vidas",
-      "url": "https://open.spotify.com/track/6vL82sT8JgMdEZIUr80SK1"
     },
     {
       "added_at": "2024-10-11 06:00:00",

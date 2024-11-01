@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Meaddy El Nas",
+        "url": "https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250478,
+      "name": "Alby Etmannah",
+      "url": "https://open.spotify.com/track/26UNapCN9Gu2z4ZdW8sPRj"
+    },
+    {
+      "album": {
         "name": "Alby Habak Gedan",
         "url": "https://open.spotify.com/album/6C4b7LphPB912ZLNdO6AuU"
       },
@@ -2704,7 +2722,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 224113,
       "name": "Lela",
       "url": "https://open.spotify.com/track/2QAi4scKA8gb5QdbFPHpa6"
@@ -3846,7 +3864,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 237296,
       "name": "Wahashtiny",
       "url": "https://open.spotify.com/track/0VvgXZ8N5JZziGhvzdRZDo"
@@ -4272,6 +4290,24 @@
       "duration_ms": 179016,
       "name": "Zay El Wara2",
       "url": "https://open.spotify.com/track/2J1NzFZ91MgX6Mexv2K6Si"
+    },
+    {
+      "album": {
+        "name": "Sahran",
+        "url": "https://open.spotify.com/album/3DMfCdII2G5codB2vqbWZv"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Zay Manty",
+      "url": "https://open.spotify.com/track/1s48CUcei5Rlt8103DTQcu"
     },
     {
       "album": {

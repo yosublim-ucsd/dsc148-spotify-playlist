@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1346982,
+  "num_followers": 1347434,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADEAh810FMv713axxCMt2UT",
+  "snapshot_id": "ZyF3AAAAAAApmyr/zmw/q0eCEWzCwF98",
   "tracks": [
     {
       "added_at": null,
@@ -607,30 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 158980,
-      "name": "PROMOTION",
-      "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 323960,
       "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
       "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 158980,
+      "name": "PROMOTION",
+      "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
     },
     {
       "added_at": null,
@@ -967,26 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/185Tm1g5U7eMOrm3m9SQUh"
       },
       "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
         }
       ],
-      "duration_ms": 247272,
-      "name": "RIVER",
-      "url": "https://open.spotify.com/track/5RzSnxqTx4vYEp9re5E0ud"
+      "duration_ms": 127946,
+      "name": "I Love It (& Lil Pump)",
+      "url": "https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"
     }
   ],
   "unique_name": "This Is Kanye West",

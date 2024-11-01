@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: JAEHYUN",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Rangga Jones",
   "name": "mood.",
   "tracks": [
     {
@@ -420,6 +420,24 @@
       "duration_ms": 189586,
       "name": "A Night of Van Gogh (feat. Ashley Alisha)",
       "url": "https://open.spotify.com/track/7HqJqVGzUh8dh0Sensdphf"
+    },
+    {
+      "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204447,
+      "name": "AAA",
+      "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
     },
     {
       "album": {
@@ -898,6 +916,24 @@
       "duration_ms": 148517,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "album": {
+        "name": "as our world begins to die",
+        "url": "https://open.spotify.com/album/5bXK6mmmoKvUWth8Qklq2c"
+      },
+      "artists": [
+        {
+          "name": "twlips",
+          "url": "https://open.spotify.com/artist/44oBe1r8Bp8z8ARJOWcfHP"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249142,
+      "name": "as our world begins to die",
+      "url": "https://open.spotify.com/track/5x9z0OoeuD7VPuOQ35rLxN"
     },
     {
       "album": {
@@ -2210,7 +2246,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 158821,
       "name": "Call You Mine",
       "url": "https://open.spotify.com/track/71JJBvDh1CnqEpupd4DKIV"
@@ -3396,7 +3432,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 194181,
       "name": "DANGEROUS",
       "url": "https://open.spotify.com/track/3WgAkOIUjpF01sZnrEn1Xz"
@@ -7075,6 +7111,24 @@
     },
     {
       "album": {
+        "name": "Honey Shot",
+        "url": "https://open.spotify.com/album/0HZexVVZV58MOwCroWKtQQ"
+      },
+      "artists": [
+        {
+          "name": "PYC",
+          "url": "https://open.spotify.com/artist/2LFV9Tsf12CuTSAlGhS48D"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151153,
+      "name": "Honey Shot",
+      "url": "https://open.spotify.com/track/6i3WbJ4RX4wc3SCZggQJ87"
+    },
+    {
+      "album": {
         "name": "hostage",
         "url": "https://open.spotify.com/album/6PhyLVVPnjbiQwGsk6wwlL"
       },
@@ -7822,7 +7876,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 155378,
       "name": "ICE",
       "url": "https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy"
@@ -8646,7 +8700,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 179743,
       "name": "Know U Like I Do",
       "url": "https://open.spotify.com/track/6bZhtPzWbXLEsGDZFg5seY"
@@ -9120,6 +9174,24 @@
       "duration_ms": 216258,
       "name": "Lifetime (Dimension)",
       "url": "https://open.spotify.com/track/4xI9phV5erN5I7cMC00VTU"
+    },
+    {
+      "album": {
+        "name": "PSST!",
+        "url": "https://open.spotify.com/album/4tbCHgg9qoTS3dEhpdDTUj"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256247,
+      "name": "LIKE A DREAM",
+      "url": "https://open.spotify.com/track/6oFKhdrV0J4uuwMQYe7SO6"
     },
     {
       "album": {
@@ -10746,7 +10818,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 194184,
       "name": "Mystery ft. PJ Morton",
       "url": "https://open.spotify.com/track/638o7Aaf8sENHW1febUFZE"
@@ -11084,7 +11156,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 170204,
       "name": "No Control (feat. E.V.P & Charlu)",
       "url": "https://open.spotify.com/track/69ksQGShgIZPQbt7Bm9Yqx"
@@ -11790,7 +11862,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 166736,
       "name": "OTW",
       "url": "https://open.spotify.com/track/1z06EFZw57FScJTILcSRDR"
@@ -12340,7 +12412,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 259354,
       "name": "Piece of My Heart (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
@@ -12663,6 +12735,24 @@
     },
     {
       "album": {
+        "name": "Princess",
+        "url": "https://open.spotify.com/album/5vDv4UJnz5cdsdnBeFEqEk"
+      },
+      "artists": [
+        {
+          "name": "Kai Yannis",
+          "url": "https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187170,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/31ZUIxf4j6ed67eNtw823B"
+    },
+    {
+      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
@@ -12784,7 +12874,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 201173,
       "name": "Rapid",
       "url": "https://open.spotify.com/track/3LJ2YTtizpuTOIscqZMtPR"
@@ -14502,7 +14592,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 209062,
       "name": "Sober",
       "url": "https://open.spotify.com/track/63XOmEjKXpqP6D8Xgn9Gf4"
@@ -16757,6 +16847,24 @@
     },
     {
       "album": {
+        "name": "Cut Ties",
+        "url": "https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191752,
+      "name": "Too Many Strings",
+      "url": "https://open.spotify.com/track/123kCRJe2ufrrZI5iJ8rhr"
+    },
+    {
+      "album": {
         "name": "Top Bop",
         "url": "https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0"
       },
@@ -16964,6 +17072,28 @@
       "duration_ms": 213933,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
+    },
+    {
+      "album": {
+        "name": "Tryin'",
+        "url": "https://open.spotify.com/album/6I4PvWhpFsSxJ2GjzZMLtF"
+      },
+      "artists": [
+        {
+          "name": "Garry Armando",
+          "url": "https://open.spotify.com/artist/00XstgVsmOg2wmk12ecdKE"
+        },
+        {
+          "name": "Jaybag",
+          "url": "https://open.spotify.com/artist/6fVPj9LNi7dgkG1luLMOCx"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Tryin'",
+      "url": "https://open.spotify.com/track/0pIzdIIkhBlMGD2YzeV3ny"
     },
     {
       "album": {
@@ -17574,7 +17704,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 228675,
       "name": "Walk Out The Door",
       "url": "https://open.spotify.com/track/5porLmcbUZHU0sTD4J8FLR"
@@ -18565,6 +18695,24 @@
     },
     {
       "album": {
+        "name": "I LIKE THE IDEA OF US.",
+        "url": "https://open.spotify.com/album/7dAdZvlVIUEEo7fpLz4lLG"
+      },
+      "artists": [
+        {
+          "name": "Joogi",
+          "url": "https://open.spotify.com/artist/5KK7a8MlnPK04dZCq0IXXs"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198125,
+      "name": "WON'T YOU STAY?",
+      "url": "https://open.spotify.com/track/2VZHESlTQAmNTvsF1OeOHZ"
+    },
+    {
+      "album": {
         "name": "MIRAGE",
         "url": "https://open.spotify.com/album/47Ka0xbPhPTpuW55OZREu7"
       },
@@ -18938,7 +19086,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 172081,
       "name": "Your Love Keeps Me",
       "url": "https://open.spotify.com/track/5pmnNR2hGlk5KgkTqswmcO"

@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Avril Lavigne",
-  "num_followers": 209570,
+  "num_followers": 209725,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -1155,18 +1155,22 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Dreaming Out Loud",
-        "url": "https://open.spotify.com/album/5KIGFE6IFlVQPA4Vsl15nV"
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/4ZY9wbPTIFpX5IdFemqIyZ"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        },
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
         }
       ],
-      "duration_ms": 223853,
-      "name": "Stop And Stare",
-      "url": "https://open.spotify.com/track/0pg4ptWsO9eMH6nEhrM9fD"
+      "duration_ms": 226826,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/5fztgDIt1Nq32VHJrAHq0Y"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1187,22 +1191,18 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/4ZY9wbPTIFpX5IdFemqIyZ"
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/5KIGFE6IFlVQPA4Vsl15nV"
       },
       "artists": [
         {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        },
-        {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 226826,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/5fztgDIt1Nq32VHJrAHq0Y"
+      "duration_ms": 223853,
+      "name": "Stop And Stare",
+      "url": "https://open.spotify.com/track/0pg4ptWsO9eMH6nEhrM9fD"
     },
     {
       "added_at": "2024-07-02 21:20:51",

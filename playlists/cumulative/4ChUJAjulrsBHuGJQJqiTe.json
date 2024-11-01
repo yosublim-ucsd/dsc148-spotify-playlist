@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Take This to Your Grave",
+        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "Grenade Jumper",
+      "url": "https://open.spotify.com/track/3jsNPTt6LUyB2srOcZaq47"
+    },
+    {
+      "album": {
         "name": "Animal Kingdom: Jackson",
         "url": "https://open.spotify.com/album/7f1gs84I839Rth0WNdGhz1"
       },

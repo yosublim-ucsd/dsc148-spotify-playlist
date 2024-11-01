@@ -4,7 +4,7 @@
 
 > Perfect music for perfect food.
 
-477 songs - 1 day 6 hr 50 min
+478 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Betcha by Golly Wow \(Live\)](https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Betcha by Golly Wow \(Live\)](https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws) | 4:13 | 2023-01-09 | 2023-06-28 |
 | [Better Be Home Soon](https://open.spotify.com/track/3b68h9ti9sdMo4rTrEvijZ) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE), [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Better Be Home Soon](https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ) | 3:00 | 2024-04-11 |  |
 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 | 2023-01-09 | 2023-06-28 |
-| [Beware](https://open.spotify.com/track/3M0OsLCcAqbVl9obHq2UxO) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Ann Peebles Greatest Hits](https://open.spotify.com/album/1EsCY7YEm37qBsNiKwImbj) | 3:03 | 2024-10-25 |  |
+| [Beware](https://open.spotify.com/track/3M0OsLCcAqbVl9obHq2UxO) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Ann Peebles Greatest Hits](https://open.spotify.com/album/1EsCY7YEm37qBsNiKwImbj) | 3:03 | 2024-10-25 | 2024-11-01 |
 | [Beware](https://open.spotify.com/track/5j4DOzCdYv62mueHs6kezI) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Tellin' It](https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ) | 3:09 | 2023-06-27 | 2024-04-19 |
 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 | 2023-01-09 |  |
 | [Black Gold](https://open.spotify.com/track/0Y1qnAow1UCOZuVfK47sPl) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Algebra Blessett](https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Radio Music Society](https://open.spotify.com/album/50ZGiAqYPxQpDVs7QT2ys8) | 5:16 | 2024-04-16 |  |
@@ -420,6 +420,7 @@
 | [This Girl \(feat\. Kylie Auldist\)](https://open.spotify.com/track/5rjPINVemhJJL3JUiXLeV1) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4) | [Soul Messin](https://open.spotify.com/album/24msxYdYJGlhXZhbMdz9iY) | 3:44 | 2024-04-16 |  |
 | [This Land Is Your Land](https://open.spotify.com/track/3PiHGEbBLYuBPFdP9tihF0) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:30 | 2023-06-27 | 2024-04-19 |
 | [This Land Is Your Land](https://open.spotify.com/track/1FE45v3BxmGjFiDwuSpeDJ) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1ARyfw246YulT9j3B2qfXl) | 4:31 | 2024-04-16 |  |
+| [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5H7DAa7FLrKRYDrxShVaHA) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Motown 50 \(International Version 2\)](https://open.spotify.com/album/6UNkbrgj4ZIsAOnJJxb4Ta) | 2:45 | 2024-10-25 |  |
 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN) | 2:52 | 2023-01-09 | 2024-04-19 |
 | [Through the Fire](https://open.spotify.com/track/4fZDZMgyWBxTg2Rc4OHVtB) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:48 | 2023-01-09 | 2023-06-28 |
 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 | 2023-01-09 |  |

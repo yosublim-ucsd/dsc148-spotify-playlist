@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1980s. Cover: Cyndi Lauper",
-  "num_followers": 911408,
+  "num_followers": 912096,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Ready For Romance",
-        "url": "https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Brother Louie",
-      "url": "https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Dirty Cash (Money Talks)",
         "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 243133,
       "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
       "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Ready For Romance",
+        "url": "https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Brother Louie",
+      "url": "https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "She Drives Me Crazy",
-      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Atomic/Atomix",
         "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 212600,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "She Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Freeze Frame",
-        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Centerfold",
-      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Tiffany",
         "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 228840,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Bambol\u00e9o",
-      "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "In Square Circle",
         "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 252560,
       "name": "Part-Time Lover",
       "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Back In The High Life",
         "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 351506,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Very Best of Billy Ocean",
-        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "When the Going Gets Tough, The Tough Get Going",
-      "url": "https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "On The Radio: Greatest Hits Volumes I & II",
         "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 241506,
       "name": "On The Radio",
       "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "The Very Best of Billy Ocean",
+        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "When the Going Gets Tough, The Tough Get Going",
+      "url": "https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "Arista Heritage Series: Ray Parker",
+        "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Crazy Nights",
         "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 320573,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Arista Heritage Series: Ray Parker",
-        "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
     },
     {
       "added_at": "2024-07-09 02:34:23",

@@ -2503,6 +2503,28 @@
     },
     {
       "album": {
+        "name": "Dotr",
+        "url": "https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237235,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6g9LmVrQJPVYSeBdPVxrrr"
+    },
+    {
+      "album": {
         "name": "It's That Time (FISHER Remix)",
         "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
       },
@@ -5014,7 +5036,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 206320,
       "name": "Take Me Home (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"

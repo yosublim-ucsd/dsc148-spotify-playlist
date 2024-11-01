@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,040 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,045 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 41 | [No Me Quiero Doler](https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj), [Carlos Rizzi](https://open.spotify.com/artist/4dxrLUGRaBANAZdDXKt9I7) | [No Me Quiero Doler](https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ) | 5:26 |
 | 42 | [Sol de los Andes](https://open.spotify.com/track/03FqjvZvLyITRlrVkpgscu) | [Apurimac](https://open.spotify.com/artist/4yRx3awKST6iw13Oy84kFi) | [Melodias Andinas \- Musica Instrumental](https://open.spotify.com/album/6uO1WhrVQiOOEmpoA3QYxz) | 2:29 |
 | 43 | [Caminar en Belleza](https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Caminar en Belleza](https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu) | 3:39 |
-| 44 | [Temporal](https://open.spotify.com/track/4XuDgMcyzLFaBAeRFx1MK0) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Temporal](https://open.spotify.com/album/6oh8cAjnjKEG9VukgrxHAQ) | 4:40 |
-| 45 | [La Estrella y la Isla](https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo) | [Andrés Correa](https://open.spotify.com/artist/5HLeoxDDkwdthuonhgIH96), [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7) | [La Estrella y la Isla](https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93) | 4:01 |
+| 44 | [La Estrella y la Isla](https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo) | [Andrés Correa](https://open.spotify.com/artist/5HLeoxDDkwdthuonhgIH96), [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7) | [La Estrella y la Isla](https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93) | 4:01 |
+| 45 | [Temporal](https://open.spotify.com/track/4XuDgMcyzLFaBAeRFx1MK0) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Temporal](https://open.spotify.com/album/6oh8cAjnjKEG9VukgrxHAQ) | 4:40 |
 | 46 | [Tiempo Atrás](https://open.spotify.com/track/5LJnR5ogdDceRdb0G039HD) | [Urdaneta](https://open.spotify.com/artist/5XAvWDyOxZ5TjPDQTrynFB) | [Tiempo Atrás](https://open.spotify.com/album/1de6lhpWxYRivS5xSM83gK) | 3:45 |
 | 47 | [Chica Cascada \(feat\. Mariana Päraway\)](https://open.spotify.com/track/7bPZBm7Wr6poE49MRWO30V) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ), [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Vol\. 2](https://open.spotify.com/album/4ue3QgybkfMuFP2sFk2zBP) | 5:28 |
 | 48 | [La Niña Blanca](https://open.spotify.com/track/2HQfE6rpHZnbXZUtUtO9RL) | [Atrato](https://open.spotify.com/artist/3WDYOIY25xdmi3RXp9sXrn) | [La Niña Blanca](https://open.spotify.com/album/4eTyTbkSsLAM0pwR7Uex5s) | 3:55 |
 | 49 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 |
-| 50 | [Alma mía](https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Alma mía](https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ) | 3:12 |
+| 50 | [Canto \#7](https://open.spotify.com/track/7qIRptEor1ow6u0WFty8Ej) | [Frailejones](https://open.spotify.com/artist/6i766JnQDXpjZ1Kedhjf3h) | [Canto \#7](https://open.spotify.com/album/7GIhm57UKjqGTVpLkF9pKl) | 4:04 |
 
 Snapshot ID: `ZRceUgAAAAAwnd3lgbMP4MkMDODtI9Kk`

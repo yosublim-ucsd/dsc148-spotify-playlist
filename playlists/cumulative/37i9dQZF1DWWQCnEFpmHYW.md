@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-157 songs - 7 hr 27 min
+158 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Dreamy Rainfall Sanctuary](https://open.spotify.com/track/3N7ULf1gblZ4a5vPgKkrfF) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Dreamy Rainfall Sanctuary](https://open.spotify.com/album/7b4PM1EEftuYszBXYpFvNw) | 3:01 | 2023-10-11 | 2023-12-21 |
 | [Dreary Weather](https://open.spotify.com/track/6DAspKyJW32ShusALvQqFu) | [Drip\-Drop](https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA) | [Dreary Weather](https://open.spotify.com/album/26G4udMHPZWF3C6PkqVR5G) | 3:14 | 2023-02-13 |  |
 | [Drenched in Rain](https://open.spotify.com/track/4i2VVGBH376FkZOlYXnnlX) | [Atmospheric Rivers](https://open.spotify.com/artist/3szZThecJLcLc88TcXALuU) | [Drenched In Night's Embrace](https://open.spotify.com/album/0fkIeNmkrKitbNez1LPfyf) | 2:31 | 2024-03-11 |  |
-| [Dripping Rain on Garden Stones](https://open.spotify.com/track/7dp8pBAleE7jU3sxwif8Wm) | [Stormy Dreams \(Rain\)](https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2) | [Even More Stormy Rain](https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve) | 3:28 | 2022-11-21 |  |
+| [Dripping Rain on Garden Stones](https://open.spotify.com/track/7dp8pBAleE7jU3sxwif8Wm) | [Stormy Dreams \(Rain\)](https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2) | [Even More Stormy Rain](https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve) | 3:28 | 2022-11-21 | 2024-11-01 |
 | [Drizzling](https://open.spotify.com/track/2czlzoPXzidrNnJ1vLdqV8) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Lightrise \(Rain\)](https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6) | 3:00 | 2022-11-21 |  |
 | [Drop By Drop](https://open.spotify.com/track/4yrGzEFy7YYNyoSsKe1tRQ) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Rain over Cornwall](https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy) | 3:28 | 2022-11-21 | 2022-12-17 |
 | [Droplet Town](https://open.spotify.com/track/0bh2pEC2JtYLTRvFfk6Y1H) | [Nimbostratus](https://open.spotify.com/artist/5BvEMjeBwQ9W4CLqZPue8Q) | [Rainy Lake](https://open.spotify.com/album/5EUqSpKY5X9WIOlIM29gxo) | 2:48 | 2023-10-11 |  |
@@ -119,6 +119,7 @@
 | [Rainy Street In Dublin](https://open.spotify.com/track/4IAsQO2w2UgSlyIKXMwkl6) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol 8](https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D) | 2:38 | 2022-11-21 |  |
 | [Rainy Village](https://open.spotify.com/track/73FyKzJoLaYr5FIimh3Puz) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 3:01 | 2022-11-21 |  |
 | [Rainy Window](https://open.spotify.com/track/48Kg51amgURPSM2gEVaKCS) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:10 | 2023-10-11 |  |
+| [Refreshing Shower](https://open.spotify.com/track/4NUgzavYWwjz5Yv4NuPgbG) | [XTR Soundscapes](https://open.spotify.com/artist/4UhzSHdjRfhfUjGkuUObzY) | [Nature's Rainfall](https://open.spotify.com/album/6nUcHV0uRMGxxpaa5GfZUx) | 2:00 | 2024-08-23 |  |
 | [Regnerischer Tag](https://open.spotify.com/track/4JygmIxvY2CWmJGvgBe00J) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 | 2022-11-21 |  |
 | [Relaxing Rain Patter](https://open.spotify.com/track/2UrXYvVXb8Cn1FoGZpQdSI) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Dreamy Rainfall Sanctuary](https://open.spotify.com/album/7b4PM1EEftuYszBXYpFvNw) | 3:01 | 2023-10-11 | 2024-10-14 |
 | [Rest In A Rainforest](https://open.spotify.com/track/3irHoiM1C9EUMbUhsXmcGe) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Rest In A Rainforest](https://open.spotify.com/album/6qaL64xAGf4ya89P94G97H) | 3:15 | 2023-06-16 |  |

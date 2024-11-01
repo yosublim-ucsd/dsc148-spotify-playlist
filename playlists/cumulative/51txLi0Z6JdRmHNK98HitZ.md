@@ -4,7 +4,7 @@
 
 > A playlist of all our songs released so far\. Our new album Faith Crisis Pt 1 is out now! <a href="https://www.instagram.com/middlekidsmusic/">Instagram</a>, <a href="https://www.tiktok.com/@middlekids.music">TikTok</a> &amp; <a href="https://www.facebook.com/middlekidsmusic">Facebook</a>
 
-81 songs - 4 hr 15 min
+82 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cellophane \(Brain\)](https://open.spotify.com/track/3VjgAcJMk7x1QRZrA5UJlw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:30 | 2021-03-19 |  |
 | [Cellophane \(Brain\)](https://open.spotify.com/track/4dVAjdLba7P8K5gtAc2Slt) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane \(Brain\)](https://open.spotify.com/album/6s2KPuyqgG5sZvKrQenE8U) | 3:30 | 2021-02-11 | 2021-03-19 |
 | [Cellophane \(Brain\) \- triple j Live At The Wireless](https://open.spotify.com/track/2wcFAJ7nl9tpnTBzj7Clor) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [triple j Live At The Wireless \- Enmore Theatre, Sydney 2024](https://open.spotify.com/album/6rWlU09TK79Q52VzLmUpSv) | 3:27 | 2024-10-03 |  |
+| [Champagne Supernova \- triple j Like A Version](https://open.spotify.com/track/41x47Hf0rucn4Gu3zr3vJb) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Champagne Supernova \(triple j Like A Version\)](https://open.spotify.com/album/4Xu9kSHblEaQGwChCrs2cl) | 3:22 | 2024-11-01 |  |
 | [Doing It Right](https://open.spotify.com/track/0BJVbOwmNlHscHVR91L50B) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:07 | 2020-10-14 |  |
 | [Don’t Be Hiding](https://open.spotify.com/track/17S0GkAdznE2Ms4M2dY2h5) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:04 | 2020-10-14 |  |
 | [Dramamine](https://open.spotify.com/track/0z0xgpdkvzjJdylAlILbzE) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/6dUKX72wa2AEqAAb7psXIs) | 2:57 | 2023-10-18 | 2024-02-17 |

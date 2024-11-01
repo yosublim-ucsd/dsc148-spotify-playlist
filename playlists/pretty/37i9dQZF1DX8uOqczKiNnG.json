@@ -1,6 +1,6 @@
 {
   "description": "Los m\u00e1s grandes \u00e9xitos de los 70 en Argentina.",
-  "num_followers": 97801,
+  "num_followers": 97804,
   "original_name": "Los 70 Argentina",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Begin the Beguine",
-        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 292573,
-      "name": "Me Olvide De Vivir",
-      "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "Como un Le\u00f3n",
         "url": "https://open.spotify.com/album/2xkmMiyxa7mp0kjX2OYH9P"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 222573,
       "name": "P\u00eddeme la Luna",
       "url": "https://open.spotify.com/track/3DDtJh2PeHXUQ90uSZOoyg"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "Begin the Beguine",
+        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "Me Olvide De Vivir",
+      "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Piano Man",
-        "url": "https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 336200,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 215906,
       "name": "Canci\u00f3n para Mi Muerte",
       "url": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "Piano Man",
+        "url": "https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 336200,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 132973,
+      "name": "Quiz\u00e1s, Porque",
+      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
         "name": "No soy de aqu\u00ed",
         "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 208866,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 132973,
-      "name": "Quiz\u00e1s, Porque",
-      "url": "https://open.spotify.com/track/1qa1RJbrfCOZ8ptY73DzS1"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Durazno Sangrando",
-        "url": "https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7"
-      },
-      "artists": [
-        {
-          "name": "Invisible",
-          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
-        }
-      ],
-      "duration_ms": 219186,
-      "name": "Durazno Sangrando",
-      "url": "https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr"
-    },
-    {
-      "added_at": "2024-06-12 23:42:51",
-      "album": {
         "name": "Los Gatos",
         "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 176000,
       "name": "La Balsa",
       "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
+    },
+    {
+      "added_at": "2024-06-12 23:42:51",
+      "album": {
+        "name": "Durazno Sangrando",
+        "url": "https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7"
+      },
+      "artists": [
+        {
+          "name": "Invisible",
+          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
+        }
+      ],
+      "duration_ms": 219186,
+      "name": "Durazno Sangrando",
+      "url": "https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/7sAcgDVt6sHEAp4ERmy29g"
+        "name": "Viento Dile a la Lluvia",
+        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
       },
       "artists": [
         {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
         }
       ],
-      "duration_ms": 207093,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/19IbRV5sxX9HLcz7tOWGsi"
+      "duration_ms": 169120,
+      "name": "Viento, Dile a la Lluvia",
+      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
     },
     {
       "added_at": "2024-06-12 23:42:51",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-06-12 23:42:51",
       "album": {
-        "name": "Viento Dile a la Lluvia",
-        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/7sAcgDVt6sHEAp4ERmy29g"
       },
       "artists": [
         {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
         }
       ],
-      "duration_ms": 169120,
-      "name": "Viento, Dile a la Lluvia",
-      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
+      "duration_ms": 207093,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/19IbRV5sxX9HLcz7tOWGsi"
     },
     {
       "added_at": "2024-06-12 23:42:51",

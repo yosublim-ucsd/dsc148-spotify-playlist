@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 41381,
+  "num_followers": 41407,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1091,18 +1091,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0Oo3LfhY3trbIWZFB7tBNc"
+        "name": "Escaping It (feat. Tania Foster)",
+        "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
       },
       "artists": [
         {
-          "name": "Gaskin",
-          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Tania Foster",
+          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
         }
       ],
-      "duration_ms": 365458,
-      "name": "Nutralize",
-      "url": "https://open.spotify.com/track/3dmCMsu4EvIKhExHIjiRBp"
+      "duration_ms": 192656,
+      "name": "Escaping It (feat. Tania Foster)",
+      "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Escaping It (feat. Tania Foster)",
-        "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0Oo3LfhY3trbIWZFB7tBNc"
       },
       "artists": [
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "Tania Foster",
-          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
         }
       ],
-      "duration_ms": 192656,
-      "name": "Escaping It (feat. Tania Foster)",
-      "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
+      "duration_ms": 365458,
+      "name": "Nutralize",
+      "url": "https://open.spotify.com/track/3dmCMsu4EvIKhExHIjiRBp"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "SIMPLE ONE",
+        "url": "https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV"
+      },
+      "artists": [
+        {
+          "name": "ChaseWest",
+          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "SIMPLE ONE",
+      "url": "https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Get Jiggy",
         "url": "https://open.spotify.com/album/3blQTlvr2R5qeJzTaBCkBb"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 150644,
       "name": "Wyle Up",
       "url": "https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "SIMPLE ONE",
-        "url": "https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV"
-      },
-      "artists": [
-        {
-          "name": "ChaseWest",
-          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "SIMPLE ONE",
-      "url": "https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf"
     },
     {
       "added_at": "2024-10-25 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=GOJerxRRSFaYUZOGS0tQBg\">Dodo Nyoka</a> &  <a href=\"https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=Dau7p9ANSo6tFeHQdYfRjw\">Karlien Van Jaarsveld</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=Poj98ckjTtSZxXsW33M1GQ\">Barto</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Die Brug",
+        "url": "https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Die Brug",
+      "url": "https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj"
+    },
+    {
+      "album": {
         "name": "Die Dansvloer",
         "url": "https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx"
       },
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 177600,
       "name": "Hasie Hop",
       "url": "https://open.spotify.com/track/7mJEgMNaCnwUx4Y4jcP2rd"
@@ -2221,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "Koos Wye Voete",
+        "url": "https://open.spotify.com/album/27PyNOkOLh3yaFkz7wugZX"
+      },
+      "artists": [
+        {
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196193,
+      "name": "Koos Wye Voete",
+      "url": "https://open.spotify.com/track/0fXZzePp4nG3t34VziBTYh"
+    },
+    {
+      "album": {
         "name": "Kortbroek",
         "url": "https://open.spotify.com/album/0OTo3ycGnUOP1AEVTn20vH"
       },
@@ -2286,7 +2322,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 188124,
       "name": "Kwaaitjie",
       "url": "https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq"
@@ -2522,6 +2558,24 @@
       "duration_ms": 205384,
       "name": "Lief",
       "url": "https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz"
+    },
+    {
+      "album": {
+        "name": "Liefde Koop Nie Brood Nie",
+        "url": "https://open.spotify.com/album/38TQCChizTtMzHAwQ96tz4"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Liefde Koop Nie Brood Nie",
+      "url": "https://open.spotify.com/track/17sYTxAm9Kh0Nl4BwfPriG"
     },
     {
       "album": {
@@ -4020,7 +4074,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 180348,
       "name": "Tannie Katesbes",
       "url": "https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x"

@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 136590,
+  "num_followers": 136607,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAABB9SXkYIXab49jJkAf5Odk",
+  "snapshot_id": "ZyF3AAAAAAAT355YPfgyj8Isr76XPggW",
   "tracks": [
     {
       "added_at": null,
@@ -804,49 +804,17 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         },
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Bear Rinehart",
+          "url": "https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh"
         },
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 166880,
-      "name": "Sing (feat. Russell Dickerson, Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 288720,
-      "name": "Jesus Messiah",
-      "url": "https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ"
+      "duration_ms": 193240,
+      "name": "Power (feat. Bear Rinehart of NEEDTOBREATHE)",
+      "url": "https://open.spotify.com/track/0AGM3L1E346dTkLcGMaEdv"
     },
     {
       "added_at": null,
@@ -871,6 +839,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Jesus Messiah",
+      "url": "https://open.spotify.com/track/1MpJ8XHlbOsUdrCWIjmweZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chris Tomlin & Friends",
         "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
       },
@@ -880,17 +880,17 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         },
         {
-          "name": "Bear Rinehart",
-          "url": "https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         },
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 193240,
-      "name": "Power (feat. Bear Rinehart of NEEDTOBREATHE)",
-      "url": "https://open.spotify.com/track/0AGM3L1E346dTkLcGMaEdv"
+      "duration_ms": 166880,
+      "name": "Sing (feat. Russell Dickerson, Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G"
     },
     {
       "added_at": null,

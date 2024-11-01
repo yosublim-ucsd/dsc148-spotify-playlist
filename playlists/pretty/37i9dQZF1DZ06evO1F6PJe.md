@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,559 likes - 49 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,576 likes - 49 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 22 | [Living On The Moon](https://open.spotify.com/track/6Im052EnAuJJHDTKYcxciQ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 3:21 |
 | 23 | [Mountain Climbing](https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:43 |
 | 24 | [When Will I Let Her Go](https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 4:06 |
-| 25 | [Hold On Loosely](https://open.spotify.com/track/3Vq8wBBUJgatW2fQKyfs4n) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Hold On Loosely](https://open.spotify.com/album/3sW8zDAYpgztuFiQQpr9H4) | 4:44 |
+| 25 | [I'll Play The Blues For You \(Live\)](https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 6:14 |
 | 26 | [Hey Baby \(New Rising Sun\)](https://open.spotify.com/track/7jXnX1JaHzrhbC56N5VwlX) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 1:19 |
-| 27 | [I'll Play The Blues For You \(Live\)](https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 6:14 |
+| 27 | [Hold On Loosely](https://open.spotify.com/track/3Vq8wBBUJgatW2fQKyfs4n) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Hold On Loosely](https://open.spotify.com/album/3sW8zDAYpgztuFiQQpr9H4) | 4:44 |
 | 28 | [I Got All You Need](https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Driving Towards The Daylight](https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R) | 3:03 |
 | 29 | [Woke Up Dreaming](https://open.spotify.com/track/6jI6VHcbFUqDDAelgPXWzp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 2:51 |
 | 30 | [I Gave Up Everything For You, 'Cept The Blues](https://open.spotify.com/track/7eDWh4BsLvdNjy8aHcHezR) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 4:39 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 32 | [Happier Times](https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:40 |
 | 33 | [Driving Wheel](https://open.spotify.com/track/4Lvby06863caCqrmISPYp3) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:33 |
 | 34 | [Black Night](https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 4:20 |
-| 35 | [Dear Mr\. Fantasy](https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dear Mr\. Fantasy](https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai) | 4:34 |
-| 36 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 |
+| 35 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 |
+| 36 | [Dear Mr\. Fantasy](https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dear Mr\. Fantasy](https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai) | 4:34 |
 | 37 | [Broken & Blue](https://open.spotify.com/track/2aKN9fAyK08Ym70oMgfvwh) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6) | 4:22 |
 | 38 | [Four Day Creep](https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Four Day Creep](https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW) | 3:52 |
 | 39 | [Twenty\-Four Hour Blues](https://open.spotify.com/track/1GIkTBgTJYpWmvLYz2Nxrp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 4:32 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 48 | [Ball Peen Hammer \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/04zlD4XLqclgxmRmjHPzm4) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 3:57 |
 | 49 | [Further On Up the Road \- Live](https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Joe Bonamassa Live from the Royal Albert Hall](https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd) | 5:44 |
 
-Snapshot ID: `ZyAlgAAAAADOoXC1t9j634nMAX4knzS5`
+Snapshot ID: `ZyF3AAAAAAAHybVCKwhMAq5pDiyZ55QE`

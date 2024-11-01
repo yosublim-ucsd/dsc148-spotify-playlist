@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Barnaba
+> What is your love language? Say it in Swahili\.  Cover: Nasha Travis & Barnaba
 
-236 songs - 13 hr 29 min
+239 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Mapenzi](https://open.spotify.com/track/3aLDDpMZhXKMfIFzd5nTfP) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 3:14 | 2022-12-09 | 2023-09-22 |
 | [Mapenzi Hisia](https://open.spotify.com/track/2NUmT9bkWTOKwXyphQgm1I) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Mapenzi Hisia](https://open.spotify.com/album/5swq13J3dliwnstBBplZ3I) | 3:42 | 2022-05-26 | 2023-06-09 |
 | [Mapoz \(feat\. Mr\. Blue & Jay Melody\)](https://open.spotify.com/track/7kJujeE4Zi8e22ohmHFqEF) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70), [Mr Blue](https://open.spotify.com/artist/4MBbQTNGuU79xD84szvt0a) | [Mapoz \(feat\. Mr\. Blue & Jay Melody\)](https://open.spotify.com/album/52cracIwbALowujVVS3onE) | 4:08 | 2024-01-25 |  |
-| [Mar Gaya](https://open.spotify.com/track/05Wz87UDG1UaWf9DnlbZLb) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Mar Gaya](https://open.spotify.com/album/6T4f3NNgFGBCaH3FNTGYgM) | 3:04 | 2024-06-27 |  |
+| [Mar Gaya](https://open.spotify.com/track/05Wz87UDG1UaWf9DnlbZLb) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Mar Gaya](https://open.spotify.com/album/6T4f3NNgFGBCaH3FNTGYgM) | 3:04 | 2024-06-27 | 2024-11-01 |
 | [Maradonna](https://open.spotify.com/track/4KTHSeSyn3oo4dOqxheLPn) | [Tanasha Donna](https://open.spotify.com/artist/4pCGeC6vPX6UaEZhLSucym) | [Maradonna](https://open.spotify.com/album/2FWGVLe0Dk9jmc5upTmZs2) | 3:33 | 2022-07-07 | 2022-12-10 |
 | [Marry Me \(feat\. Marioo\)](https://open.spotify.com/track/0TS6oda4nNVHwn8k9V7SJu) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 3:45 | 2022-08-25 | 2023-07-28 |
 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 | 2023-05-11 | 2023-07-21 |
@@ -160,6 +160,7 @@
 | [Nikilala](https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikilala](https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL) | 2:30 | 2023-03-10 | 2023-07-07 |
 | [Nikupende](https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:24 | 2022-05-26 | 2022-09-23 |
 | [Nimekoma](https://open.spotify.com/track/4blFS6KD6jqGs8BlA2MGGo) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Nimekoma](https://open.spotify.com/album/1Go8LYTNXNRO02aWTh4dvM) | 3:33 | 2024-09-20 |  |
+| [Nimepatikana](https://open.spotify.com/track/2iZ0SlISjg9i0zkEEeRzzo) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Nimepatikana](https://open.spotify.com/album/4ZBApehQPw0RRhNMVvEtdp) | 2:43 | 2024-10-31 |  |
 | [Nimepona](https://open.spotify.com/track/5QBOkEw7DDaZ8PQ2TuGxrY) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Nimepona](https://open.spotify.com/album/2rxqrKuaUCUkV4kej5LlJQ) | 3:23 | 2023-03-02 | 2023-09-22 |
 | [Nini Mapenzi](https://open.spotify.com/track/6DZbkBCNOJCrdeelhTt11E) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Nini Mapenzi](https://open.spotify.com/album/5s6OQh8EnErELs3qq0YMoY) | 3:24 | 2024-06-07 | 2024-09-13 |
 | [Ninogeshe](https://open.spotify.com/track/2OKwqx3CX9dpU43iW6ycVP) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The African Princess](https://open.spotify.com/album/4xkMgoIBjnVjk4Vj8YCjD2) | 3:53 | 2022-05-26 | 2023-07-14 |
@@ -209,11 +210,13 @@
 | [Sweet](https://open.spotify.com/track/3JwIlZFxkPtRukbvRp9mcC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Sweet](https://open.spotify.com/album/1GosMCPkYYZnd4m4cN54RS) | 3:07 | 2023-05-04 | 2023-08-18 |
 | [Taabani](https://open.spotify.com/track/4hi1oM7sf47cnLsCXchphD) | [D Love](https://open.spotify.com/artist/6X3Lq8GTJirf9y3mfvDoPU) | [Taabani](https://open.spotify.com/album/6qtWXNeeJaQkkVkbVcf0To) | 2:50 | 2024-05-16 | 2024-06-07 |
 | [Tajiri](https://open.spotify.com/track/4m6fKxNk1aJG8qY7eSX5CG) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Tajiri](https://open.spotify.com/album/3NfSoXOGS1wtJAXgM1Mjwd) | 2:55 | 2024-03-14 | 2024-03-22 |
+| [Tamu](https://open.spotify.com/track/7bJA74cBQZ3Chx6MzZ5aoW) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW), [DJ Milva](https://open.spotify.com/artist/7JM5XqnpDyRcE4SbndcIDq) | [Tamu](https://open.spotify.com/album/7nKpi7fJXplk551KdOE213) | 3:29 | 2024-10-31 |  |
 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 | 2022-05-26 | 2023-06-16 |
 | [This Love](https://open.spotify.com/track/2qMwrsE1QFVCHlKGgs49Y0) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [This Love](https://open.spotify.com/album/5QBvP8LsJEAVTp4dohusx2) | 3:09 | 2023-12-22 | 2024-07-27 |
 | [Till I Die](https://open.spotify.com/track/5q5kRdpB5sNYXuvTbCZUZR) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Till I Die](https://open.spotify.com/album/5gPQrFRHCI19mzvfzCJlYL) | 1:58 | 2024-04-04 | 2024-07-05 |
 | [Tina](https://open.spotify.com/track/2XgoqCgvCYzOZDw7HvSoxn) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Tina](https://open.spotify.com/album/0PenAHs174BfKImPfisGti) | 3:06 | 2024-09-20 |  |
 | [Tiririka](https://open.spotify.com/track/0cjQ4PR7bYMXl2GWMIRlAm) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Tiririka](https://open.spotify.com/album/2KQwOdsGxPTILQpk5ny7nB) | 3:47 | 2024-03-14 | 2024-03-22 |
+| [Toto \(feat\. Barnaba\)](https://open.spotify.com/track/29ZyUgbWQpQOoF0j9PPBiH) | [Nasha Travis](https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Toto \(feat\. Barnaba\)](https://open.spotify.com/album/0j9QtYqhQwm5fcjgwFfK0A) | 3:39 | 2024-10-31 |  |
 | [Trouble](https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Trouble](https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS) | 3:25 | 2023-06-15 | 2023-11-07 |
 | [Two](https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Two](https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX) | 3:33 | 2023-03-09 | 2023-09-22 |
 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-06-16 | 2023-01-27 |
@@ -243,6 +246,6 @@
 | [You Better Go](https://open.spotify.com/track/0kZoAZDJMIz1nObifhVNWC) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [You Better Go](https://open.spotify.com/album/6uVWT5KW2uov5KNYHpM4Mj) | 3:19 | 2024-08-29 |  |
 | [Yule \- Remix](https://open.spotify.com/track/7t4SpN8c927O7Y3ymBsXnG) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yule \(Remix\)](https://open.spotify.com/album/5wfD1q45IeSUz5Tq8aQ42e) | 3:11 | 2024-06-07 |  |
 | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Dadiposlim](https://open.spotify.com/artist/4D30TuRCTNiJhSXIVwDELy) | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou) | 3:30 | 2024-02-15 |  |
-| [Zoba](https://open.spotify.com/track/6x3liByFkS6SWGUWHUKsjL) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Zoba](https://open.spotify.com/album/5uML55NyKv8bCQRHhROyqh) | 3:36 | 2024-05-30 |  |
+| [Zoba](https://open.spotify.com/track/6x3liByFkS6SWGUWHUKsjL) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Zoba](https://open.spotify.com/album/5uML55NyKv8bCQRHhROyqh) | 3:36 | 2024-05-30 | 2024-11-01 |
 
 \*This playlist was first scraped on 2022-09-22. Prior content cannot be recovered.

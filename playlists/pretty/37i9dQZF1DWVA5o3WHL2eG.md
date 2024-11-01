@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,173 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,172 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 33 | [Hardcore Workout Queen](https://open.spotify.com/track/7K01ebFNRoaVAogSU8gPiM) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hardcore Workout Queen](https://open.spotify.com/album/68pRFIG5YFIYuMkDmApgg1) | 4:54 |
 | 34 | [Catch The Rain](https://open.spotify.com/track/6kkiSenLxDFmqhPlwhxbjA) | [RAHEL](https://open.spotify.com/artist/1PiAhtDO04aDUU9VKEi1j7) | [Catch The Rain](https://open.spotify.com/album/4HaWTik9SSWStlldD21OEd) | 3:20 |
 | 35 | [Wie geht gut alleine sein?](https://open.spotify.com/track/7C0qqfYWwBfKLa45Z6zKSv) | [Ana Kohler](https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw) | [Wie geht gut alleine sein?](https://open.spotify.com/album/0GcqIY3kjrQ7cCCxSzbECv) | 2:06 |
-| 36 | [Heaven is Magnetic](https://open.spotify.com/track/0ZbayZ31moMGhRl3BLW0s6) | [Ella Eliza](https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ) | [Heaven is Magnetic](https://open.spotify.com/album/2VAuT1hLRuyV9qRgMUByxx) | 2:50 |
+| 36 | [Das Barlach\-Lied](https://open.spotify.com/track/5UrqDV1gpr0nstP1LzqcoK) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk) | [Das Barlach\-Lied](https://open.spotify.com/album/6yWgsXbjLxGhclqocPwtkr) | 3:21 |
 | 37 | [In the Mood](https://open.spotify.com/track/0tIJQNaGHFGhcZGEHJHc9l) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [In the Mood](https://open.spotify.com/album/0dJHNU5d3Jdr2JXeuqenx5) | 4:12 |
-| 38 | [Das Barlach\-Lied](https://open.spotify.com/track/5UrqDV1gpr0nstP1LzqcoK) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk) | [Das Barlach\-Lied](https://open.spotify.com/album/6yWgsXbjLxGhclqocPwtkr) | 3:21 |
+| 38 | [Heaven is Magnetic](https://open.spotify.com/track/0ZbayZ31moMGhRl3BLW0s6) | [Ella Eliza](https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ) | [Heaven is Magnetic](https://open.spotify.com/album/2VAuT1hLRuyV9qRgMUByxx) | 2:50 |
 | 39 | [Set Me Free](https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Set Me Free](https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U) | 7:06 |
 | 40 | [Heavens Will Fall \- JOPLYN Remix](https://open.spotify.com/track/6UpWIK4IUttKIaeeTqUiuD) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Heavens Will Fall \(JOPLYN Remix\)](https://open.spotify.com/album/7gk025jTyBruevpYUTukVw) | 5:48 |
 | 41 | [Hot Family](https://open.spotify.com/track/0nMcIvLqvZUm5DHnCxmK9A) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Botanical Garden](https://open.spotify.com/album/2po5bjsbRdLRxQ13H14eGt) | 3:39 |

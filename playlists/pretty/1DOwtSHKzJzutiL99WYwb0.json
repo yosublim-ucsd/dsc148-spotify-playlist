@@ -1,13 +1,93 @@
 {
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: KISS OF LIFE",
-  "num_followers": 754,
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: G-DRAGON",
+  "num_followers": 755,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAHQbqwXCTWZlb/3IQ1o41P7fgOivjE",
+  "snapshot_id": "AAAHSTGJqMOfmDwmNzT0mjkjoiemRCxC",
   "tracks": [
+    {
+      "added_at": "2024-11-01 01:49:04",
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 143242,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
+    },
+    {
+      "added_at": "2024-11-01 01:49:22",
+      "album": {
+        "name": "...l",
+        "url": "https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 188790,
+      "name": "GPT",
+      "url": "https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu"
+    },
+    {
+      "added_at": "2024-11-01 01:49:29",
+      "album": {
+        "name": "THE BOYZ 9th MINI ALBUM [\u5c0e\u706b\u7dda (TRIGGER)]",
+        "url": "https://open.spotify.com/album/2UsJY5vQEYesJJ9iTnm9UW"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "TRIGGER",
+      "url": "https://open.spotify.com/track/0KSkclPEYcFuBIC0SOGXLp"
+    },
+    {
+      "added_at": "2024-11-01 01:49:42",
+      "album": {
+        "name": "Visionary Vision <Performante>",
+        "url": "https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "Hit the Floor",
+      "url": "https://open.spotify.com/track/5DQc9DipgMf8sTBmW20rb7"
+    },
+    {
+      "added_at": "2024-11-01 01:49:51",
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+    },
     {
       "added_at": "2024-10-18 01:14:06",
       "album": {
@@ -1555,86 +1635,6 @@
       "duration_ms": 210811,
       "name": "DO or DIE",
       "url": "https://open.spotify.com/track/6brb7SXjhqHOxsj0jkyQVH"
-    },
-    {
-      "added_at": "2023-08-21 09:02:47",
-      "album": {
-        "name": "13egin",
-        "url": "https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W"
-      },
-      "artists": [
-        {
-          "name": "INFINITE",
-          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
-        }
-      ],
-      "duration_ms": 164706,
-      "name": "New Emotions",
-      "url": "https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0"
-    },
-    {
-      "added_at": "2023-08-21 09:02:41",
-      "album": {
-        "name": "THE UNSEEN",
-        "url": "https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh"
-      },
-      "artists": [
-        {
-          "name": "SHOWNU X HYUNGWON (MONSTA X)",
-          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Love Me A Little",
-      "url": "https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal"
-    },
-    {
-      "added_at": "2023-08-21 09:02:28",
-      "album": {
-        "name": "KISS OF LIFE",
-        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8"
-    },
-    {
-      "added_at": "2023-08-21 09:02:06",
-      "album": {
-        "name": "Love Pt.3 : Eternally",
-        "url": "https://open.spotify.com/album/2mrCu8xKF0ExIqExAmae9f"
-      },
-      "artists": [
-        {
-          "name": "WEi",
-          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "OVERDRIVE",
-      "url": "https://open.spotify.com/track/1iiQ6wFdJz4uGn2a2cGjaG"
-    },
-    {
-      "added_at": "2023-08-21 09:01:54",
-      "album": {
-        "name": "CONTINUE?",
-        "url": "https://open.spotify.com/album/38naOKNOPofTwerOOejf2N"
-      },
-      "artists": [
-        {
-          "name": "LUN8",
-          "url": "https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Wild Heart",
-      "url": "https://open.spotify.com/track/3GXLBTk7l1Bc7bZp18sqZD"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

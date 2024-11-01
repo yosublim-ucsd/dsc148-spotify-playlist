@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Lady Gaga, Tyler, The Creator, Addison Rae, Claudia Bouvette and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,779 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,805 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 45 | [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 |
 | 46 | [Paintings of the Past](https://open.spotify.com/track/3Es629HCBEMextnQ4uZT0K) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Swim Slowly \(Expanded Edition\)](https://open.spotify.com/album/14DJyKjYzTNBw9JQIOCWlm) | 3:52 |
 | 47 | [You Don’t Love Me](https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [You Don’t Love Me](https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9) | 2:37 |
-| 48 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
+| 48 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 49 | [Presidente](https://open.spotify.com/track/2q0wKlSmIWLdpCwwKjLPxZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Presidente](https://open.spotify.com/album/0jVUqz5x4VgFMYIof4Q64d) | 3:01 |
 | 50 | [Kiss To Forget](https://open.spotify.com/track/4D5xizvX1nScgcu257lUu8) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Kiss To Forget](https://open.spotify.com/album/5zencxbgsvea22S6GeKNwi) | 2:44 |
 | 51 | [Where I'm Coming From](https://open.spotify.com/track/0QhwvzrkLWjjPgvwHfqQvG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Where I'm Coming From](https://open.spotify.com/album/73GUvMVNRDdaowmVUQSfcN) | 3:49 |

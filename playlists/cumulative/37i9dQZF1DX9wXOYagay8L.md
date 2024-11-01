@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/1RAmAUTyapevk2ViYBPcCM?si=0FgdfrUZRLmnQDyNC57oiw">Naima Kay</a>
 
-607 songs - 1 day 19 hr 28 min
+608 songs - 1 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Dream About You](https://open.spotify.com/track/05lM7Ep8UESoe3LV5yrew5) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Dream About You](https://open.spotify.com/album/01feIntmkFDFp5WXym3hHs) | 3:20 | 2021-07-01 | 2023-06-23 |
 | [dream about you](https://open.spotify.com/track/4d1KlYbovwaUlpP5yjXvgL) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [dream about you](https://open.spotify.com/album/0Grz9An4utW2oAod9pYBvz) | 3:20 | 2021-07-01 | 2022-07-29 |
 | [Dream Girl](https://open.spotify.com/track/5dH4VQKpBTtuq4JZL4joP4) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Dream Girl](https://open.spotify.com/album/5AtFRiXhghMTRCc1OzdNvL) | 3:53 | 2022-01-20 | 2022-02-18 |
+| [Dubai 2.0](https://open.spotify.com/track/7Bi0Rt3lUshalz9sHFunqf) | [Aya Msani](https://open.spotify.com/artist/4msIq1xJndm9p6DE6nBSKB), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Dubai 2.0](https://open.spotify.com/album/4h79EIDCtBOnVrH7fO8f5x) | 4:09 | 2024-10-31 |  |
 | [Dzena Mo](https://open.spotify.com/track/251LBGYWRXfpjIp4CAu5zQ) | [King Monada](https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP) | [Dzena Mo](https://open.spotify.com/album/3fqdBLUIhUu2SYASEKpOj9) | 4:06 | 2021-09-02 | 2022-07-29 |
 | [Eazyy](https://open.spotify.com/track/2yRMqyMtirFnaMZbNT2wdH) | [Irysh Da Princess](https://open.spotify.com/artist/1Vhxd4Vp4qL039MHLynbnm) | [Honour Array EP](https://open.spotify.com/album/5yXEvvUBbJe4wPkgg0lV0T) | 3:09 | 2022-05-19 | 2022-06-24 |
 | [ekuphileni, \(feat\. J'Something\)](https://open.spotify.com/track/6Ynwhp39hofsG13VYr1qDj) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG) | [Mnyama](https://open.spotify.com/album/77hkpxS5qos4EGt4miSjsi) | 3:35 | 2021-08-10 | 2022-01-21 |

@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204447,
+      "name": "AAA",
+      "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
+    },
+    {
+      "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 120975,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1rtUGB9XxwnX64t1k34ldu"
@@ -386,6 +404,28 @@
       "duration_ms": 159537,
       "name": "Asereje (Airplane Mode)",
       "url": "https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa"
+    },
+    {
+      "album": {
+        "name": "brent iii",
+        "url": "https://open.spotify.com/album/35tILwApqYtN9fTJq2v7M3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "ashes & rust",
+      "url": "https://open.spotify.com/track/0ynwM8MdgPqbSfII51PP3e"
     },
     {
       "album": {
@@ -1100,7 +1140,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
@@ -1746,7 +1786,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -1768,6 +1808,32 @@
       "duration_ms": 156053,
       "name": "good old days",
       "url": "https://open.spotify.com/track/1XcPFhBIMCUgXlBC5CuBOM"
+    },
+    {
+      "album": {
+        "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176034,
+      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
     },
     {
       "album": {
@@ -1844,7 +1910,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK"
@@ -1964,6 +2030,24 @@
       "duration_ms": 181840,
       "name": "HE KNOWS (feat. Lil Nas X)",
       "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
+    },
+    {
+      "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171607,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
     },
     {
       "album": {
@@ -2130,7 +2214,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 245647,
       "name": "hey, i'm tired",
       "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
@@ -2202,7 +2286,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 173949,
       "name": "honeymoon - Spotify Singles",
       "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
@@ -2384,6 +2468,24 @@
       "duration_ms": 143211,
       "name": "I Wanna Thank Me (feat. Niecy Nash)",
       "url": "https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr"
+    },
+    {
+      "album": {
+        "name": "Dear Big Santa",
+        "url": "https://open.spotify.com/album/2HaS5g0VjsXf93yy7TNf6c"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175951,
+      "name": "I Want You This Christmas",
+      "url": "https://open.spotify.com/track/1JHsB2E0FWEEBVdFV2W6w8"
     },
     {
       "album": {
@@ -2784,7 +2886,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 192000,
       "name": "LIFETIMES",
       "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
@@ -2838,7 +2940,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 231506,
       "name": "Lotus Eater",
       "url": "https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8"
@@ -4223,6 +4325,28 @@
     },
     {
       "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197019,
+      "name": "St. Chroma (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
+    },
+    {
+      "album": {
         "name": "ROOM UNDER THE STAIRS",
         "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
       },
@@ -4362,6 +4486,50 @@
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "album": {
+        "name": "Take Me to the Beach (feat. Jungeli)",
+        "url": "https://open.spotify.com/album/1eFuf3Xkm3XiiPRVX9ambn"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Take Me to the Beach (feat. Jungeli)",
+      "url": "https://open.spotify.com/track/299bs3nx4r3zcmLD8tRPi3"
     },
     {
       "album": {
@@ -4575,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "The little things",
+        "url": "https://open.spotify.com/album/3iSYAtnCFUwR0RsYp9CO5m"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "The little things",
+      "url": "https://open.spotify.com/track/5aW7LC1eLXsmKEdeBdE1Kx"
+    },
+    {
+      "album": {
         "name": "biting my tongue",
         "url": "https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK"
       },
@@ -4590,6 +4776,24 @@
       "duration_ms": 180816,
       "name": "the me i was",
       "url": "https://open.spotify.com/track/5CPsaOIdRdBROb4dvIfKfM"
+    },
+    {
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/5BXnrbIlvtlkMbZiHSejJD"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/37B0eQac4jqfwgFItCgzma"
     },
     {
       "album": {
@@ -4684,7 +4888,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 199720,
       "name": "Thick Of It All",
       "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
@@ -5224,7 +5428,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 233406,
       "name": "WE PRAY - Single Version",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
@@ -5268,7 +5472,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 268401,
       "name": "When He\u2019s Not There (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10"
@@ -5438,6 +5642,36 @@
       "duration_ms": 282464,
       "name": "Zarame",
       "url": "https://open.spotify.com/track/15IHSmxnMk2lp2bg2GzifB"
+    },
+    {
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/7vyywKqNuOsQ0UveBQPhRn"
+      },
+      "artists": [
+        {
+          "name": "BMSG POSSE",
+          "url": "https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk"
+        },
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184853,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/0kLktoAjZQczngphPbfq52"
     },
     {
       "album": {

@@ -1,13 +1,141 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: The Samoyeds Artwork: Isu Kim\n",
-  "num_followers": 62256,
+  "description": "Fresh releases from your future favorite artists. Cover: BJ Esporma Artwork: Isu Kim\n",
+  "num_followers": 62283,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxpvAAAAAAAkMSXSxyEgeLLz5+XLn9hx",
+  "snapshot_id": "ZyOpgAAAAAC7iQTaRyEmIaP6lzLIkaQr",
   "tracks": [
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "Dalangin",
+        "url": "https://open.spotify.com/album/3Pq25SeH0qD2DZEbRPFaj9"
+      },
+      "artists": [
+        {
+          "name": "BJ Esporma",
+          "url": "https://open.spotify.com/artist/5RT5e3yj9Ap4eAJ3iMyXS5"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Dalangin",
+      "url": "https://open.spotify.com/track/4HpjluxkUl4SJKWLE5uOvd"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "Give Me Love.",
+        "url": "https://open.spotify.com/album/7euCmBWYm21yAf3bJDzZhI"
+      },
+      "artists": [
+        {
+          "name": "AMAR\u00c8",
+          "url": "https://open.spotify.com/artist/75eX2T9abrYbhp6NEL7sGn"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Give Me Love.",
+      "url": "https://open.spotify.com/track/2uZYAKhoEMJGFqPlmMQoiG"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "SABI-SABI",
+        "url": "https://open.spotify.com/album/4714DK33y9WAlz4TI9JnjZ"
+      },
+      "artists": [
+        {
+          "name": "Mooz PH",
+          "url": "https://open.spotify.com/artist/3AOdFw44iEpHiRNKpIevAm"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "SABI-SABI",
+      "url": "https://open.spotify.com/track/5NV9v42KmuU1DcWij6Op9P"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "sa may kabilang dulo",
+        "url": "https://open.spotify.com/album/7LSzbI97OPoA7fq4vnWJs4"
+      },
+      "artists": [
+        {
+          "name": "tot\u00e2",
+          "url": "https://open.spotify.com/artist/7lR4az0FXjQsoLUf6UiBq3"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Minsan",
+      "url": "https://open.spotify.com/track/34QFomrv1nopXpM87UQ8dI"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/6dwnpbkGxJgQq5ZdaYpYYY"
+      },
+      "artists": [
+        {
+          "name": "Gem Largo",
+          "url": "https://open.spotify.com/artist/5yCfOWjEqPcrXCP2LyVkLr"
+        }
+      ],
+      "duration_ms": 187540,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6fzQiUEX8zdKw0XZnqg6ZM"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "Divine Poetry",
+        "url": "https://open.spotify.com/album/7sWHlwDg6F40M28WZv0daQ"
+      },
+      "artists": [
+        {
+          "name": "aaron + the royal priests",
+          "url": "https://open.spotify.com/artist/1n8p2WUa6NzituttyCO2ZT"
+        }
+      ],
+      "duration_ms": 305023,
+      "name": "Divine Poetry",
+      "url": "https://open.spotify.com/track/0MZ4SWp9bGmMj7ci8POjn0"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "Sa'yo Lang Uuwi",
+        "url": "https://open.spotify.com/album/1qxhbjTsFPuVaCCbCEEhTC"
+      },
+      "artists": [
+        {
+          "name": "Feel Like Magic.",
+          "url": "https://open.spotify.com/artist/76jXcZMh2U6XcoqspfMXX5"
+        }
+      ],
+      "duration_ms": 210945,
+      "name": "Sa'yo Lang Uuwi",
+      "url": "https://open.spotify.com/track/2TaZxVMIDA4LhHJG751wgu"
+    },
+    {
+      "added_at": "2024-10-31 16:00:00",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/44P5jXRG5QXmSHw96YJtzr"
+      },
+      "artists": [
+        {
+          "name": "Enza",
+          "url": "https://open.spotify.com/artist/0hrUo8cgH1chdCfXiVu8jW"
+        }
+      ],
+      "duration_ms": 208617,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0qQknMNPUiF9nBwISjGupe"
+    },
     {
       "added_at": "2024-10-24 16:00:00",
       "album": {

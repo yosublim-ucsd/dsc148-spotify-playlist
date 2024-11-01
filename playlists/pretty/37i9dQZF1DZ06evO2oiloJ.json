@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 214398,
+  "num_followers": 214477,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAACxWIwnZlclDyxBvWVveisl",
+  "snapshot_id": "ZyF3AAAAAABQi/SlOK+FtwyrD7do0Y4X",
   "tracks": [
     {
       "added_at": null,
@@ -210,11 +210,15 @@
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 160714,
-      "name": "Fight The Feeling",
-      "url": "https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU"
+      "duration_ms": 203345,
+      "name": "Turks & Caicos (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
     },
     {
       "added_at": null,
@@ -278,15 +282,11 @@
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 203345,
-      "name": "Turks & Caicos (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
+      "duration_ms": 160714,
+      "name": "Fight The Feeling",
+      "url": "https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU"
     },
     {
       "added_at": null,

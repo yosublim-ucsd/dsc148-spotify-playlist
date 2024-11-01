@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-819 songs - 1 day 17 hr 12 min
+820 songs - 1 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-10 | 2023-08-25 |
 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-09-21 | 2023-09-23 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-22 | 2023-09-29 |
-| [Aiko](https://open.spotify.com/track/3jEU1V6aIJR8cQWiKT8BNT) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Aiko](https://open.spotify.com/album/4HXJUqCo77UmYUR4USxu3F) | 2:26 | 2024-09-05 |  |
+| [Aiko](https://open.spotify.com/track/3jEU1V6aIJR8cQWiKT8BNT) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Aiko](https://open.spotify.com/album/4HXJUqCo77UmYUR4USxu3F) | 2:26 | 2024-09-05 | 2024-11-01 |
 | [Air](https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Air](https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy) | 2:52 | 2023-04-27 | 2023-05-18 |
 | [Aktiv](https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Spår av BLod](https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK) | 2:40 | 2023-11-09 | 2024-01-23 |
 | [Aktiverad](https://open.spotify.com/track/1fFPsFvak7nFZa354u7H1r) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/62hMMhEg7v6zLLyaYzU9Ng) | 2:34 | 2022-09-29 | 2022-10-02 |
@@ -100,6 +100,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-16 |  |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-04-05 | 2022-05-07 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-27 | 2023-11-14 |
+| [Bless Meg](https://open.spotify.com/track/0bQ6SuPWpMSFXXP3yVlexZ) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bless Meg](https://open.spotify.com/album/37LSdJ7yCR1AbnOuID6fOq) | 2:24 | 2024-10-31 |  |
 | [Blicky](https://open.spotify.com/track/5U0ndjpjzmT1aoLr3pB4zO) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Blicky](https://open.spotify.com/album/5k2auh0NC6uVPr1HsxHlTl) | 2:28 | 2023-01-31 | 2023-02-10 |
 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-02-24 | 2023-04-28 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-03-18 | 2022-04-08 |

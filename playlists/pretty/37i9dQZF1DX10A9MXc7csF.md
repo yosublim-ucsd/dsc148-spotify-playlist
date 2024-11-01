@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Hans El Oso, T3R Elemento
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,034 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,073 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 74 | [Invéntame](https://open.spotify.com/track/0bSROeKA6bFtnYWuDeUD2F) | [Mauricio Flores](https://open.spotify.com/artist/1TrsOYuLoKesPD9T231y35) | [Invéntame](https://open.spotify.com/album/5YuPrqBs7OfwsEGQMc32oN) | 3:28 |
 | 75 | [Sello Guzman](https://open.spotify.com/track/3YnQHOMao1i7xdiIQbeMoL) | [La Gavilla](https://open.spotify.com/artist/3DtemVNgP2pwgHLLUbkbST) | [Sello Guzman](https://open.spotify.com/album/4DF9hlQJQllB8f2m9kypfh) | 2:28 |
 | 76 | [Deluxe](https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [CORRIDOS FELICES \(DELUXE\)](https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo) | 2:10 |
-| 77 | [DCURE4U](https://open.spotify.com/track/229HlGLQQBJi1eycNh6kqZ) | [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k), [Toríne Loarte](https://open.spotify.com/artist/501ReUYK7tMPTBrfukGIKj) | [DCURE4U](https://open.spotify.com/album/59Id3DKotl1xKunwVnv0Ye) | 3:42 |
+| 77 | [DCURE4U](https://open.spotify.com/track/229HlGLQQBJi1eycNh6kqZ) | [Toríne Loarte](https://open.spotify.com/artist/501ReUYK7tMPTBrfukGIKj) | [DCURE4U](https://open.spotify.com/album/59Id3DKotl1xKunwVnv0Ye) | 3:42 |
 | 78 | [Un Inmigrante](https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [MEMORIAS](https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf) | 3:35 |
 | 79 | [Suena el Cel](https://open.spotify.com/track/4FJj8x1mlla7Zupq3Y0kCD) | [Irving Iniguez](https://open.spotify.com/artist/7FkIiQKmzQEWFgpmZCvcg7), [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Suena el Cel](https://open.spotify.com/album/3yqKG9ZCzVzc4hrdrO5DPu) | 3:05 |
 | 80 | [Loko y Malandron](https://open.spotify.com/track/3t1fpixtTYS9qLAJDOrghi) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Loko y Malandron](https://open.spotify.com/album/5tkeerNPkWQMc3lMsiDMG4) | 2:47 |

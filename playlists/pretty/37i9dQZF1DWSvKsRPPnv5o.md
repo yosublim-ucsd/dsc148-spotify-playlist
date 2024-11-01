@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,717 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,790 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 38 | [Temper](https://open.spotify.com/track/0nipB4z5fkwPSn8MH41jxe) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Temper](https://open.spotify.com/album/6AFY7V5XgRyoJB8U6whrYr) | 2:25 |
 | 39 | [Got It on Me](https://open.spotify.com/track/0yvu1rKHRw7r4zaW73P24K) | [Conradfrmdaaves](https://open.spotify.com/artist/6wrQP6EAQRd8GLl9tilJdH), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Got It on Me](https://open.spotify.com/album/0VTSXHWNWY9OQOUMfi4Ttk) | 2:14 |
 | 40 | [Say Luv](https://open.spotify.com/track/3a3Tz1TtYuwTJMqbc6IeD1) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Say Luv](https://open.spotify.com/album/1jxdGY4MuFGOzgoUTWslet) | 2:20 |
-| 41 | [Millon](https://open.spotify.com/track/3PzFwEi9XUCUTOgqu8LXdF) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Millon](https://open.spotify.com/album/3FBAnpX4T4yIqwW2WObVMV) | 2:17 |
+| 41 | [Million](https://open.spotify.com/track/3PzFwEi9XUCUTOgqu8LXdF) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Million](https://open.spotify.com/album/3FBAnpX4T4yIqwW2WObVMV) | 2:17 |
 | 42 | [Slow It Down \(feat\. 310babii\) \- Remix](https://open.spotify.com/track/4ZBAIrRUGcRnTWWNEVlnWi) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Slow It Down \(feat\. 310babii\) \[Remix\]](https://open.spotify.com/album/07nA13Tm7sd6fnjQtcUWHM) | 2:51 |
 | 43 | [Want You To Know](https://open.spotify.com/track/6IVLiauRmCuD8m3po0iIgN) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 2:48 |
 | 44 | [too many distractions](https://open.spotify.com/track/3y3FcLdVM3pmRcxCr1ZvEM) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [too many distractions](https://open.spotify.com/album/7tTDsYGks3QNQjapjTKKlN) | 2:18 |

@@ -3913,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/1NVXFnpdszTez8PHw65c7N"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "I Hope It Hurts",
+      "url": "https://open.spotify.com/track/4baf3XBeEdPUTXFMGa77vv"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -4444,7 +4462,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 198274,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM"

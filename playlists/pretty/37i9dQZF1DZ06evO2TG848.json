@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 22103,
+  "num_followers": 22109,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADjrZCHQYS8FX51/BosjkQV",
+  "snapshot_id": "ZyF3AAAAAAC3KL28MQ5Nuz9hfWSf52dR",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magnetismo",
-        "url": "https://open.spotify.com/album/5h6es3HPWeIkaF5YALh3yp"
+        "name": "Qhapaq \u00d1an",
+        "url": "https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce"
       },
       "artists": [
-        {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
-        },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 185265,
-      "name": "Chicha Roja",
-      "url": "https://open.spotify.com/track/2DgzBlX9HecudC3rowLkXa"
+      "duration_ms": 132973,
+      "name": "De Ushuaia a la Quiaca",
+      "url": "https://open.spotify.com/track/1GaqUDpOrQvU9i2OF6jH9n"
     },
     {
       "added_at": null,
@@ -483,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qhapaq \u00d1an",
-        "url": "https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce"
+        "name": "Magnetismo",
+        "url": "https://open.spotify.com/album/5h6es3HPWeIkaF5YALh3yp"
       },
       "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 132973,
-      "name": "De Ushuaia a la Quiaca",
-      "url": "https://open.spotify.com/track/1GaqUDpOrQvU9i2OF6jH9n"
+      "duration_ms": 185265,
+      "name": "Chicha Roja",
+      "url": "https://open.spotify.com/track/2DgzBlX9HecudC3rowLkXa"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+        "name": "Babel - Music From And Inspired By The Motion Picture",
+        "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 91480,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"
+      "duration_ms": 289320,
+      "name": "Deportation/Iguazu",
+      "url": "https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 91480,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUR",
         "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 170919,
       "name": "Yarar\u00e1",
       "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babel - Music From And Inspired By The Motion Picture",
-        "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "Deportation/Iguazu",
-      "url": "https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl"
     },
     {
       "added_at": null,

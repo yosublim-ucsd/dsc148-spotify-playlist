@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Shermanology \ud83d\udc7d\ud83d\udc7d  50% techno, 50% house",
-  "num_followers": 637388,
+  "num_followers": 637422,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1009,24 +1009,20 @@
       "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp"
     },
     {
-      "added_at": "2024-07-30 19:49:50",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Feel My Needs",
-        "url": "https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn"
+        "name": "So H\u00ef",
+        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
       },
       "artists": [
         {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Feel My Needs",
-      "url": "https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae"
+      "duration_ms": 212139,
+      "name": "So H\u00ef",
+      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1061,20 +1057,24 @@
       "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-07-30 19:49:50",
       "album": {
-        "name": "So H\u00ef",
-        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
+        "name": "Feel My Needs",
+        "url": "https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         }
       ],
-      "duration_ms": 212139,
-      "name": "So H\u00ef",
-      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
+      "duration_ms": 150000,
+      "name": "Feel My Needs",
+      "url": "https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1409,30 +1409,6 @@
       "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "In The Yuma (Cloonee's At The Sahara Remix)",
-        "url": "https://open.spotify.com/album/7B8RIt9iwSpvDpdaFjWfFM"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "In The Yuma (Cloonee's At The Sahara Remix)",
-      "url": "https://open.spotify.com/track/48f4gFvgXOMx6p5DjkIipF"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Somedays (Dombresky Remix)",
@@ -1459,6 +1435,30 @@
       "duration_ms": 197582,
       "name": "Somedays - Dombresky Remix",
       "url": "https://open.spotify.com/track/751KIBXXbsEoaHGvIVLRRn"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "In The Yuma (Cloonee's At The Sahara Remix)",
+        "url": "https://open.spotify.com/album/7B8RIt9iwSpvDpdaFjWfFM"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "In The Yuma (Cloonee's At The Sahara Remix)",
+      "url": "https://open.spotify.com/track/48f4gFvgXOMx6p5DjkIipF"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1653,26 +1653,6 @@
       "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Addiction / Yapper",
-        "url": "https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "Oscar L",
-          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/7eJFz62eqPdmSooYHZWsip"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Let's Go Dancing (Matroda Remix)",
@@ -1695,6 +1675,26 @@
       "duration_ms": 195473,
       "name": "Let's Go Dancing - Matroda Remix",
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Addiction / Yapper",
+        "url": "https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/7eJFz62eqPdmSooYHZWsip"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1793,22 +1793,6 @@
       "url": "https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 218437,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "To The Club",
@@ -1865,26 +1849,6 @@
       "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 190232,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Dominator",
@@ -1911,6 +1875,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 218437,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Heard About Me",
         "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 183711,
       "name": "Heard About Me",
       "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 190232,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1985,20 +1985,20 @@
       "url": "https://open.spotify.com/track/01Mw7ketwRgjUxkzyFogiI"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "While The Record Spins",
-        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
+        "name": "In The Place",
+        "url": "https://open.spotify.com/album/5UTK104Mg5ov1lBWFIirRh"
       },
       "artists": [
         {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 187840,
-      "name": "While The Record Spins",
-      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
+      "duration_ms": 183383,
+      "name": "In The Place",
+      "url": "https://open.spotify.com/track/74h1irRDFwE22VUTPX25oR"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -2025,24 +2025,20 @@
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/1O4lERAS7dRSaJkV3zN1mM"
+        "name": "While The Record Spins",
+        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
       },
       "artists": [
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "NEZ",
-          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
         }
       ],
-      "duration_ms": 175730,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/5DqY3RLK5Vl6zvTc1vv06A"
+      "duration_ms": 187840,
+      "name": "While The Record Spins",
+      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2059,22 +2055,6 @@
       "duration_ms": 150000,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "In The Place",
-        "url": "https://open.spotify.com/album/5UTK104Mg5ov1lBWFIirRh"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 183383,
-      "name": "In The Place",
-      "url": "https://open.spotify.com/track/74h1irRDFwE22VUTPX25oR"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2111,6 +2091,26 @@
       "duration_ms": 153281,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/1O4lERAS7dRSaJkV3zN1mM"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "duration_ms": 175730,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5DqY3RLK5Vl6zvTc1vv06A"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Rattlesnake",
-        "url": "https://open.spotify.com/album/3fziyDAl65gYPtuQVS5r2X"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/1M9VKp4ztBpgT0H2asoY6b"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "D.A.N.C.E",
         "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 157142,
       "name": "D.A.N.C.E",
       "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Rattlesnake",
+        "url": "https://open.spotify.com/album/3fziyDAl65gYPtuQVS5r2X"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/1M9VKp4ztBpgT0H2asoY6b"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -2329,6 +2329,26 @@
       "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Freakquency",
+        "url": "https://open.spotify.com/album/0Ow8u9nyecPbgJZ5eXrnj3"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Freakquency",
+      "url": "https://open.spotify.com/track/3Xu8Qppxx1UYyGxAmr14aG"
+    },
+    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "EYAH (You'll Be Alright)",
@@ -2351,26 +2371,6 @@
       "duration_ms": 175748,
       "name": "EYAH (You'll Be Alright)",
       "url": "https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Freakquency",
-        "url": "https://open.spotify.com/album/0Ow8u9nyecPbgJZ5eXrnj3"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "Dances",
-          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Freakquency",
-      "url": "https://open.spotify.com/track/3Xu8Qppxx1UYyGxAmr14aG"
     }
   ],
   "unique_name": "Tech House Operator",

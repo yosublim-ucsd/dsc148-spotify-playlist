@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,565 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,580 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 6 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/75pxraYiRRhRn68Kwk4sT3) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:08 |
 | 7 | [Chasing Yesterdays](https://open.spotify.com/track/6WvRiJeHUddJnkQuZTMdDG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:38 |
 | 8 | [A Time of Wonder](https://open.spotify.com/track/2SiUDrcdc9iewegA0TmH6s) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:49 |
-| 9 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 2:56 |
-| 10 | [Dreamland](https://open.spotify.com/track/1lP5gmOcL7PxGodcw6rX04) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 2:41 |
+| 9 | [Dreamland](https://open.spotify.com/track/1lP5gmOcL7PxGodcw6rX04) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 2:41 |
+| 10 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 2:56 |
 | 11 | [Killing Me Softly With His Song](https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0) | [Norman Gimbel](https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM), [Charles Fox](https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 1:03 |
 | 12 | [Last Song](https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Secret Piano](https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA) | 1:55 |
 | 13 | [Miracles](https://open.spotify.com/track/1YeIOEwRR1F7fYy4rqBYPs) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Memories](https://open.spotify.com/album/4vmESFAVyHzzBSzA6CjQMj) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 49 | [Coming Home](https://open.spotify.com/track/4gBREULjdyg3EQlxGpJ9C9) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:33 |
 | 50 | [September Song](https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 3:57 |
 
-Snapshot ID: `ZyAlgAAAAAB346kyryufaKbNSDtxQeLm`
+Snapshot ID: `ZyF3AAAAAABECsGiz8FSJw8UcDPS4mjb`

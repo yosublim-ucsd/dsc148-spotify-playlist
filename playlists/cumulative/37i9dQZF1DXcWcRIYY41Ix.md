@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lhasa de Sela.
 
-693 songs - 1 day 17 hr 15 min
+694 songs - 1 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Canción para morir](https://open.spotify.com/track/7dPsBfSXOJ2cacwuhj1T4H) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a), [Mansalva](https://open.spotify.com/artist/27LrllSSvBViU6I1Kg7qS5) | [Canciones de tapa blanca y negra](https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS) | 2:02 | 2023-06-16 | 2023-07-01 |
 | [Candor](https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui) | [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Laura Chinelli](https://open.spotify.com/artist/5vtYPQtCS5vJwVJmXKKx71) | [Candor](https://open.spotify.com/album/4MCb4pGkHE5uQmIzSse1fX) | 4:52 | 2023-06-23 | 2024-01-27 |
 | [Canta, miña compañeira](https://open.spotify.com/track/7sEO7d6ToY5C2ObEkeJAVA) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Canta, miña compañeira](https://open.spotify.com/album/3oqLUn4jbB7olSampyHXfb) | 3:35 | 2022-10-15 | 2022-11-26 |
+| [Cantaría](https://open.spotify.com/track/20HCtD3crDnUe2Hc4aKPbs) | [Amanda Verdú](https://open.spotify.com/artist/3jL1j1GM43wF52RSNi2KP8) | [Cantaría](https://open.spotify.com/album/6VrDcrxU9nMX9kg0bqv7sh) | 4:00 | 2024-10-25 |  |
 | [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 | 2023-05-29 | 2023-06-03 |
 | [Canto al cansancio](https://open.spotify.com/track/5tfhPCqCpOURWrQq8MTjG8) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF), [Bewis de la Rosa](https://open.spotify.com/artist/2EzJ4708hLLqw7nPHJ9MSK) | [Canto al cansancio](https://open.spotify.com/album/5fJQ2Y7Shbhs5Y0HpPsRLI) | 3:30 | 2024-05-30 | 2024-10-05 |
 | [Caparazón](https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Caparazón](https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp) | 3:07 | 2024-10-01 |  |
@@ -139,7 +140,7 @@
 | [Como la Primavera](https://open.spotify.com/track/5C2VTZ3VN8xE04UViMEavj) | [Moreira](https://open.spotify.com/artist/7oprBrcyjELdAALY8hK9pr), [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [De Mi Pena Nacen Flores](https://open.spotify.com/album/14AlQbVJZBcPehbS4Ud8Xx) | 4:01 | 2024-03-22 | 2024-04-29 |
 | [Como Un Amuleto](https://open.spotify.com/track/2nRjw9V6oQmueOWsaoymJ4) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [Como Un Amuleto](https://open.spotify.com/album/2qln21nT8RxwJWyJOhSgGU) | 3:11 | 2022-05-13 | 2024-10-12 |
 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 | 2021-12-24 |  |
-| [Compostaje](https://open.spotify.com/track/3AJKDVldCDfyOPlEH2rXEz) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Compostaje](https://open.spotify.com/album/0CFAjH7BZwFxZ8SgXpgYjS) | 3:12 | 2024-07-26 |  |
+| [Compostaje](https://open.spotify.com/track/3AJKDVldCDfyOPlEH2rXEz) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Compostaje](https://open.spotify.com/album/0CFAjH7BZwFxZ8SgXpgYjS) | 3:12 | 2024-07-26 | 2024-11-01 |
 | [Condenada](https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Condenada](https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d) | 2:49 | 2023-12-11 | 2024-03-02 |
 | [configuracionesonduladas\_17.11.23\_nicetoclub\_bsas](https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Las Luces Que Estaban Ocultas \[en vivo\]](https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo) | 5:24 | 2024-04-26 | 2024-10-12 |
 | [Contacto Directo](https://open.spotify.com/track/5dZ4bUdscVr4lr3iNVfvYW) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [P A L A B R A](https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds) | 3:21 | 2021-12-24 | 2022-12-03 |

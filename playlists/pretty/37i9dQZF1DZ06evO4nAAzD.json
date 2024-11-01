@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADBJw/xGGfZH7qC+8dU7aq8",
+  "snapshot_id": "ZyF3AAAAAAAX/VV/osG9zinVx/ACjFNb",
   "tracks": [
     {
       "added_at": null,
@@ -43,30 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tira as Crian\u00e7as da Sala",
-        "url": "https://open.spotify.com/album/37LLdoWsXVDA8oH54l2DGZ"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "MC Pipokinha",
-          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
-        },
-        {
-          "name": "Thammy",
-          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
-        }
-      ],
-      "duration_ms": 221368,
-      "name": "Tira as Crian\u00e7as da Sala",
-      "url": "https://open.spotify.com/track/5L5bJ9Wkheu7ixAW7SdOSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Xeque-Mate (feat. Paiva Prod)",
         "url": "https://open.spotify.com/album/5z6BDql4k4zPWOAUjI73Ns"
       },
@@ -91,6 +67,30 @@
       "duration_ms": 171789,
       "name": "Xeque-Mate (feat. Paiva Prod)",
       "url": "https://open.spotify.com/track/3grsMTKtSZt93yuC76W2U9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tira as Crian\u00e7as da Sala",
+        "url": "https://open.spotify.com/album/37LLdoWsXVDA8oH54l2DGZ"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        },
+        {
+          "name": "Thammy",
+          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
+        }
+      ],
+      "duration_ms": 221368,
+      "name": "Tira as Crian\u00e7as da Sala",
+      "url": "https://open.spotify.com/track/5L5bJ9Wkheu7ixAW7SdOSB"
     },
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby o Que C\u00ea Quer de Mim?",
-        "url": "https://open.spotify.com/album/7oUAZc143JfrGcrR9GNA4f"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Baby o Que C\u00ea Quer de Mim?",
-      "url": "https://open.spotify.com/track/0cCm55RwSqypxDVy8xpC3e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surtou",
         "url": "https://open.spotify.com/album/2yZb13O8WdkBnsA4VMNNoW"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 152343,
       "name": "Surtou",
       "url": "https://open.spotify.com/track/3Rn06bf6UmHALTqa2S5dXW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby o Que C\u00ea Quer de Mim?",
+        "url": "https://open.spotify.com/album/7oUAZc143JfrGcrR9GNA4f"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Baby o Que C\u00ea Quer de Mim?",
+      "url": "https://open.spotify.com/track/0cCm55RwSqypxDVy8xpC3e"
     },
     {
       "added_at": null,
@@ -331,30 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reca\u00edda",
-        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Reca\u00edda",
-      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SP NIGHTS",
         "url": "https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb"
       },
@@ -375,6 +351,30 @@
       "duration_ms": 258665,
       "name": "SP NIGHTS",
       "url": "https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reca\u00edda",
+        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
     },
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 183380,
+      "name": "APOCAL\u00cdPTIKA",
+      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faixa Anjo",
         "url": "https://open.spotify.com/album/6mXBXROsepez0WD2YBnCZV"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 246620,
       "name": "Faixa Anjo",
       "url": "https://open.spotify.com/track/2sH7zkMT5mtKNEK2j4Oqgy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "V\u00caNUS\u2260netuno",
-        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 183380,
-      "name": "APOCAL\u00cdPTIKA",
-      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
     },
     {
       "added_at": null,
@@ -1179,30 +1179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Firma \u00e9 Forte",
-        "url": "https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "LOUD",
-          "url": "https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 163278,
-      "name": "A Firma \u00e9 Forte",
-      "url": "https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Festa na Piscina",
         "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
       },
@@ -1227,6 +1203,30 @@
       "duration_ms": 268085,
       "name": "Festa na Piscina",
       "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Firma \u00e9 Forte",
+        "url": "https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "LOUD",
+          "url": "https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 163278,
+      "name": "A Firma \u00e9 Forte",
+      "url": "https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Ein Prosit der Gemütlichkeit
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,756 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,757 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 3 | [Atemlos durch die Nacht](https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Farbenspiel](https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx) | 3:39 |
 | 4 | [Handwerker](https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Handwerker](https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4) | 3:25 |
 | 5 | [Verdammt Ich lieb' dich](https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Déjà Vu \- Das Beste Von Matthias Reim](https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f) | 3:37 |
-| 6 | [Hulapalu](https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK) | [Andreas Gabalier](https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD) | [Mountain Man](https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a) | 3:00 |
-| 7 | [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 |
+| 6 | [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 |
+| 7 | [Hulapalu](https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK) | [Andreas Gabalier](https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD) | [Mountain Man](https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a) | 3:00 |
 | 8 | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7) | [MXM](https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC) | 4:00 |
 | 9 | [VAMOS](https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [VAMOS](https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO) | 2:29 |
 | 10 | [Oben ohne](https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Oben ohne](https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M) | 2:59 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 75 | [Regenbogenfarben](https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD) | [Kerstin Ott](https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7) | [Mut zur Katastrophe \(Gold Edition\)](https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU) | 3:46 |
 | 76 | [Freitag, Samstag](https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Freitag, Samstag](https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL) | 2:36 |
 | 77 | [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 |
-| 78 | [Ciao 3 Tage Blau](https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS) | [David Dichter](https://open.spotify.com/artist/74h8vjazetNDShaoBT7Oxj), [Inki Nici](https://open.spotify.com/artist/6XImI4RFNKNPL82h8eRTxP), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Ciao 3 Tage Blau](https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw) | 3:08 |
+| 78 | [Ich bleib hier](https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Ich bleib hier](https://open.spotify.com/album/2whxURNncAj78xYqErLbFP) | 2:42 |
 | 79 | [Sorry](https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [Sorry](https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u) | 2:24 |
-| 80 | [Ich bleib hier](https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Ich bleib hier](https://open.spotify.com/album/2whxURNncAj78xYqErLbFP) | 2:42 |
+| 80 | [Ciao 3 Tage Blau](https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS) | [David Dichter](https://open.spotify.com/artist/74h8vjazetNDShaoBT7Oxj), [Inki Nici](https://open.spotify.com/artist/6XImI4RFNKNPL82h8eRTxP), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Ciao 3 Tage Blau](https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw) | 3:08 |
 
 Snapshot ID: `ZxJqOgAAAAAxY6WDL3ysMs5NCuYWaf/n`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,978 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,994 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 24 | [Sin Pijama \- Kumbia Remix](https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama \(Kumbia Remix\)](https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7) | 3:24 |
 | 25 | [Desvelado](https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Desvelado](https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4) | 3:51 |
 | 26 | [Yo Te Pido Amor](https://open.spotify.com/track/4dbQHs5xcUXdA2ZOF2Cf8M) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Un Poco Locos \(Edición De Lujo\)](https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v) | 3:29 |
-| 27 | [Corazón Partío](https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Corazón Partío](https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi) | 3:19 |
-| 28 | [Lo Siento](https://open.spotify.com/track/3Aa0e22YhtYdeZEch2RyET) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Lo Siento](https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW) | 3:19 |
+| 27 | [Lo Siento](https://open.spotify.com/track/3Aa0e22YhtYdeZEch2RyET) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Lo Siento](https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW) | 3:19 |
+| 28 | [Corazón Partío](https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Corazón Partío](https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi) | 3:19 |
 | 29 | [Los Caminos de la Vida](https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL) | [Los Caminos de la Vida](https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT) | 3:41 |
 | 30 | [Traicionero](https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [Media Naranja](https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme) | [Traicionero](https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD) | 3:24 |
 | 31 | [El Color de Tus Ojos](https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [El Color de Tus Ojos](https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO) | 2:36 |

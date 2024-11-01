@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Champagne Supernova (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/4Xu9kSHblEaQGwChCrs2cl"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202291,
+      "name": "Champagne Supernova - triple j Like A Version",
+      "url": "https://open.spotify.com/track/41x47Hf0rucn4Gu3zr3vJb"
+    },
+    {
+      "album": {
         "name": "Middle Kids",
         "url": "https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv"
       },

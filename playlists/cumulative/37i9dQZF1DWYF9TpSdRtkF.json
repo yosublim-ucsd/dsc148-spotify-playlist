@@ -1645,6 +1645,28 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 06",
+        "url": "https://open.spotify.com/album/2ZZRcVg8G2U1HWNw8PxFAP"
+      },
+      "artists": [
+        {
+          "name": "\u5cf6\u539f\u30a8\u30ec\u30ca (CV.\u89d2\u5143\u660e\u65e5\u9999)",
+          "url": "https://open.spotify.com/artist/5qK6C6COeVNyWWCiaBBJ12"
+        },
+        {
+          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
+          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232293,
+      "name": "Emergence Vibe",
+      "url": "https://open.spotify.com/track/7B2caDIcNyKwLZuWmVyjyD"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 04",
         "url": "https://open.spotify.com/album/7fbgOJKABo75Cjpa529vgU"
       },
@@ -1656,7 +1678,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 271120,
       "name": "ENTER PLEASURE",
       "url": "https://open.spotify.com/track/02qhpRpoQwUC4wI2VOM7Tq"
@@ -7038,7 +7060,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 274120,
       "name": "\u6c38\u9060\u306e\u82b1",
       "url": "https://open.spotify.com/track/120COv4CRhfbXKydI1Ngs7"
@@ -7526,7 +7548,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 249268,
       "name": "\u8ffd\u61b6\u306e\u30b5\u30f3\u30c9\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9"

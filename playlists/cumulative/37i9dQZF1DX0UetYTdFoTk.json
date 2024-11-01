@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 144137,
       "name": "Khaleeki",
       "url": "https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h"
@@ -2336,6 +2336,24 @@
       "duration_ms": 341187,
       "name": "Ya Wafiya",
       "url": "https://open.spotify.com/track/2OfewEJuqAVkt56n0qaiqS"
+    },
+    {
+      "album": {
+        "name": "Kol Hayaty",
+        "url": "https://open.spotify.com/album/3L0hXZN4rDa9VTslS1qBLC"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236559,
+      "name": "Yetalemo",
+      "url": "https://open.spotify.com/track/7FgBRZYvvEqyRNvnMX8QHE"
     },
     {
       "album": {

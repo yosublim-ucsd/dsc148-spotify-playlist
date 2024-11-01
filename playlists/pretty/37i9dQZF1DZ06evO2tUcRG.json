@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 264240,
+  "num_followers": 264261,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAACzAYhKv3RbMFqHt0jMTeD5",
+  "snapshot_id": "ZyF3AAAAAABH4YgdLHx8Oap7hXeQpXb4",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hino da Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/3iqDWbdZPucI0xh6JFe8jB"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 297378,
-      "name": "Hino da Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/6YdwvVHRupTTI4tLPNaKvL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 506122,
       "name": "\u00danico - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hino da Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/3iqDWbdZPucI0xh6JFe8jB"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 297378,
+      "name": "Hino da Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/6YdwvVHRupTTI4tLPNaKvL"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 338218,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Altar (Altar) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 408720,
       "name": "Altar (Altar) - Ao Vivo",
       "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 338218,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
+        "url": "https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 309537,
+      "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
+      "url": "https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o H\u00e1 Nome Maior",
         "url": "https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 309890,
       "name": "N\u00e3o H\u00e1 Nome Maior",
       "url": "https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
-        "url": "https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 309537,
-      "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
-      "url": "https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/60xlTAgIuBNdZxaCbPkjZt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 255297,
+      "name": "A B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1E4SbVflqQFJFRSOrLWU7J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hosana (Ao Vivo)",
         "url": "https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A B\u00ean\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/60xlTAgIuBNdZxaCbPkjZt"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 255297,
-      "name": "A B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1E4SbVflqQFJFRSOrLWU7J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 416640,
-      "name": "Santo Esp\u00edrito Vem",
-      "url": "https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Vou Calar Meus L\u00e1bios",
         "url": "https://open.spotify.com/album/2HLQRl4hX19lciv1rJUWAD"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 195011,
       "name": "N\u00e3o Vou Calar Meus L\u00e1bios",
       "url": "https://open.spotify.com/track/1mbrpFshkUSfbqgCdgawwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 416640,
+      "name": "Santo Esp\u00edrito Vem",
+      "url": "https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB"
     },
     {
       "added_at": null,

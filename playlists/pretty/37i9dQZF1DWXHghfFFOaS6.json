@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 346690,
+  "num_followers": 346727,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "urban lounge",
-        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
-      },
-      "artists": [
-        {
-          "name": "Young Disciples",
-          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Apparently Nothin' - Edit",
-      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 327133,
       "name": "Good Luck Shore",
       "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "urban lounge",
+        "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
+      },
+      "artists": [
+        {
+          "name": "Young Disciples",
+          "url": "https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Apparently Nothin' - Edit",
+      "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Pizza Pie",
-        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
-      },
-      "artists": [
-        {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Pizza Pie",
-      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
-    },
-    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "Playing my piano",
@@ -1163,6 +1147,22 @@
       "duration_ms": 381594,
       "name": "Playing my piano",
       "url": "https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Pizza Pie",
+        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
+      },
+      "artists": [
+        {
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+        }
+      ],
+      "duration_ms": 186324,
+      "name": "Pizza Pie",
+      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "On The One",
-        "url": "https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk"
-      },
-      "artists": [
-        {
-          "name": "All Good Funk Alliance",
-          "url": "https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s"
-        }
-      ],
-      "duration_ms": 332933,
-      "name": "Pete's Sake",
-      "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
-    },
-    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "Black Rhythm Happening",
@@ -1299,6 +1283,22 @@
       "duration_ms": 214880,
       "name": "Black Rhythm Happening",
       "url": "https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "On The One",
+        "url": "https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk"
+      },
+      "artists": [
+        {
+          "name": "All Good Funk Alliance",
+          "url": "https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s"
+        }
+      ],
+      "duration_ms": 332933,
+      "name": "Pete's Sake",
+      "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
     },
     {
       "added_at": "2024-08-12 13:49:26",

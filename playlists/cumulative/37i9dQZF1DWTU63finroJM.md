@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Joaquina.
 
-1,725 songs - 3 day 21 hr 53 min
+1,726 songs - 3 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Cô Nàng Khác Người](https://open.spotify.com/track/0lXtQXwhZImnpjmpze8ykX) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Cô Nàng Khác Người](https://open.spotify.com/album/5G0VCs90WtjTJV3CaRBbL1) | 3:06 | 2022-03-24 | 2022-06-13 |
 | [Da Lau Roi](https://open.spotify.com/track/6SiVDtUuESkBzjUl2raZkN) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Da Lau Roi](https://open.spotify.com/album/4BIytzT0MGjXs8nfrkF2FO) | 4:10 | 2022-02-03 | 2022-12-15 |
 | [DADADA](https://open.spotify.com/track/7M3uNP8R8pedoK11D2K1iI) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [SOLAR : rise](https://open.spotify.com/album/45gnAAEGm2lmq8DPhoZfum) | 3:01 | 2022-03-24 | 2022-04-19 |
+| [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2024-10-25 |  |
 | [Dalawa](https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Dalawa](https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF) | 3:53 | 2023-05-30 | 2023-11-18 |
 | [Dame Tu Amor](https://open.spotify.com/track/6A6PdoI3SPaM81hkMkK3jd) | [Milena Sanchez](https://open.spotify.com/artist/0VjiomvbhEWVUJJucZKQ2n) | [Dame Tu Amor](https://open.spotify.com/album/6htMOqhIVhbycSQvLaQKDb) | 2:55 | 2024-07-05 | 2024-10-28 |
 | [Dance at the Function](https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Dance at the Function](https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd) | 3:25 | 2024-08-02 | 2024-10-19 |
@@ -1287,7 +1288,7 @@
 | [Something About You and Me](https://open.spotify.com/track/6ZqGNMqd1fjv6NDOETJui8) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Something About You and Me](https://open.spotify.com/album/1l8zKcGI0fpTpLT1UmdgGG) | 3:42 | 2023-05-30 | 2024-02-03 |
 | [Something I Can't Have](https://open.spotify.com/track/6PDiZpqgb1vr2cwShq4wKb) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Something I Can't Have](https://open.spotify.com/album/2ADJ24FY84dYOphLYnrZ7i) | 2:32 | 2024-08-02 |  |
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-10-05 | 2024-03-16 |
-| [Sorry](https://open.spotify.com/track/5qaCnFvjHw3P4qL02pFSlR) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Still Nervous](https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh) | 3:02 | 2024-05-31 |  |
+| [Sorry](https://open.spotify.com/track/5qaCnFvjHw3P4qL02pFSlR) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Still Nervous](https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh) | 3:02 | 2024-05-31 | 2024-11-01 |
 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 | 2022-06-29 | 2022-08-02 |
 | [SOTTOVUOTO](https://open.spotify.com/track/199Svha19bRqiXZZmjELF6) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [SOTTOVUOTO](https://open.spotify.com/album/4rlD5BCaW8ZybnIcxsrOx1) | 3:23 | 2022-03-24 | 2022-04-17 |
 | [SOUL](https://open.spotify.com/track/6AzLKOoOuDELNmLFW9LUQi) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [HIGHLY SPIRITUAL](https://open.spotify.com/album/1CwzOslLfNRXhVX84btF7B) | 2:44 | 2024-04-19 | 2024-08-31 |

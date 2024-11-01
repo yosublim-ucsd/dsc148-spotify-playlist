@@ -27722,7 +27722,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 67833,
       "name": "Curtis",
       "url": "https://open.spotify.com/track/1UAjBK0H7OFZy1dxxnW95B"
@@ -64356,7 +64356,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 104289,
       "name": "Late Flight",
       "url": "https://open.spotify.com/track/6DcweauFxkGQs9wHr7bcxb"
@@ -71484,6 +71484,28 @@
       "duration_ms": 118479,
       "name": "MacAllan",
       "url": "https://open.spotify.com/track/0euz0lVXNMFmQq6tijYD1Z"
+    },
+    {
+      "album": {
+        "name": "Macchiato",
+        "url": "https://open.spotify.com/album/1vrc6twcNejVKGHMMGKkfD"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "tenkousei.",
+          "url": "https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112272,
+      "name": "Macchiato",
+      "url": "https://open.spotify.com/track/0wtXAu3sb3uJin9uzKB2XW"
     },
     {
       "album": {
@@ -81232,7 +81254,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Never Going Back",
       "url": "https://open.spotify.com/track/1EPgfVfxPaaispfsgXBXcs"
@@ -101780,7 +101802,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 149647,
       "name": "Seagull Blues",
       "url": "https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv"
@@ -106344,7 +106366,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 98863,
       "name": "slowly",
       "url": "https://open.spotify.com/track/0OQycB6AjHHMbGii30Mo56"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Binomio de Oro de Am\u00e9rica",
+  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Elder Day\u00e1n D\u00edaz",
   "name": "Lo + del Vallenato",
   "tracks": [
     {
@@ -1012,6 +1012,28 @@
       "duration_ms": 223360,
       "name": "El Encarte",
       "url": "https://open.spotify.com/track/2M4GHQUCurlGyb9FVAdCUd"
+    },
+    {
+      "album": {
+        "name": "EL CANTOR",
+        "url": "https://open.spotify.com/album/7BaZ0Qg89LRnOwSqLIylNp"
+      },
+      "artists": [
+        {
+          "name": "Elder Day\u00e1n D\u00edaz",
+          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
+        },
+        {
+          "name": "Lucas Dangond",
+          "url": "https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223943,
+      "name": "El Picantico",
+      "url": "https://open.spotify.com/track/0N3AaRr6eQ0vBoepAN1Yzy"
     },
     {
       "album": {
@@ -2616,7 +2638,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 257570,
       "name": "Rojo Manzana",
       "url": "https://open.spotify.com/track/0hFZqhaJ9h4VGrYiTrcArn"

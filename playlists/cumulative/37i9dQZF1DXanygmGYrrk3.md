@@ -4,7 +4,7 @@
 
 > Tus canciones favoritas de Música Mexicana, all in one place! Cover: Intocable
 
-493 songs - 1 day 2 hr 32 min
+494 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 | 2022-05-12 | 2022-07-29 |
 | [Gracias a Ti](https://open.spotify.com/track/44PK0PRRKlF16JbXx6erQB) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Gracias a Ti](https://open.spotify.com/album/6KLyjUQiHec4t9KtcQFeph) | 3:25 | 2022-05-12 | 2022-07-29 |
 | [Hablemos](https://open.spotify.com/track/71aT33Muvsuim800OqZ0st) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD) | 3:08 | 2022-09-23 |  |
-| [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 | 2022-05-12 |  |
+| [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 | 2022-05-12 | 2024-11-01 |
 | [Hasta Que Me Duermo](https://open.spotify.com/track/4i8PN9NYspouYFlIqsskk3) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Hasta Que Me Duermo](https://open.spotify.com/album/1mLcet0qvEtwU5QnGpROrx) | 3:14 | 2024-02-16 | 2024-03-30 |
 | [Háblame De Ti](https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:10 | 2022-09-23 |  |
 | [Hermosa Experiencia](https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [10º Aniversario](https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk) | 2:33 | 2023-05-26 |  |
@@ -501,5 +501,6 @@
 | [¿Qué Se Siente?](https://open.spotify.com/track/4160uHuO33PVowET0ZZfON) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [¿Qué Se Siente?](https://open.spotify.com/album/3x4NKPyTMpjYDZqHAJEuY9) | 2:56 | 2024-02-23 |  |
 | [¿Qué Será De Mi Ex?](https://open.spotify.com/track/0gCfxoxgd6RhJdbHV48ft4) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [On The Road](https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ) | 2:32 | 2024-05-24 | 2024-08-03 |
 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2022-12-22 |  |
+| [Ándale Pues Terco](https://open.spotify.com/track/66ISFSawHj2Uf64yUUIIts) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Ándale Pues Terco](https://open.spotify.com/album/4LSWIFAb2zHbUkoUHgDsUk) | 3:11 | 2024-10-31 |  |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

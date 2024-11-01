@@ -4975,6 +4975,24 @@
     },
     {
       "album": {
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168780,
+      "name": "Divino",
+      "url": "https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy"
+    },
+    {
+      "album": {
         "name": "O Bagulho \u00c9 Trap",
         "url": "https://open.spotify.com/album/7sRNPfZfQ9RB3DtMffLPo3"
       },
@@ -10280,7 +10298,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 144000,
       "name": "M\u00e9nage",
       "url": "https://open.spotify.com/track/0OEWGeGcJXGLI7UMdvhWx4"

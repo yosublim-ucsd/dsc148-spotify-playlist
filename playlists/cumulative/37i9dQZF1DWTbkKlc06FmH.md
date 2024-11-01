@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-893 songs - 2 day 5 hr 13 min
+894 songs - 2 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 | 2022-10-20 |  |
 | [Gradate](https://open.spotify.com/track/04GV8JLkGPs2AOSrJjiOCX) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [issei](https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ) | [Gradate](https://open.spotify.com/album/1LY3jOgcsqqu0cRFnWSMvj) | 3:49 | 2022-10-20 | 2022-11-30 |
 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2022-10-20 | 2022-10-26 |
-| [Ground](https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ground](https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw) | 3:02 | 2024-07-24 |  |
+| [Ground](https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ground](https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw) | 3:02 | 2024-07-24 | 2024-11-01 |
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2023-01-12 | 2023-01-15 |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-24 | 2024-10-20 |
 | [habilabi](https://open.spotify.com/track/4EQx8YujNNZETd1LBhGKo5) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [habilabi](https://open.spotify.com/album/14dw7FgjqtHRCeV2MaL6Mp) | 3:52 | 2023-07-18 | 2023-08-16 |
@@ -530,6 +530,7 @@
 | [Pendulum](https://open.spotify.com/track/4qkA3TdeAxhSebHHxIHUO6) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [Pendulum](https://open.spotify.com/album/60lMnicqMNrjCRlJxL289C) | 4:21 | 2024-02-27 | 2024-03-01 |
 | [People 365](https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 4:36 | 2024-04-16 | 2024-05-15 |
 | [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-25 | 2022-11-01 |
+| [Pieces Of A Dream](https://open.spotify.com/track/2HBjPMwy9yAoMkUB1cSg2p) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Pieces Of A Dream](https://open.spotify.com/album/7uCnCAztzPYMtlNOEBLjqM) | 2:38 | 2024-10-23 |  |
 | [Pink Hair](https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Pink Hair](https://open.spotify.com/album/2M6ubuh4ne6Vjvrx8MUs2t) | 2:57 | 2023-02-14 | 2023-04-19 |
 | [Plastic Romance](https://open.spotify.com/track/7AxZFaSZFX9QhTiWHwh06g) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Plastic Romance](https://open.spotify.com/album/2zOwVX7gdy7Ufc8BxAqKux) | 4:53 | 2024-05-14 | 2024-06-05 |
 | [Point of View](https://open.spotify.com/track/7t1RsXYNkgYUtxyJ2sLqsz) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Cut the Collar](https://open.spotify.com/album/0qOsWpmV9ALT6q1jlgTAlt) | 3:39 | 2024-10-09 | 2024-10-16 |

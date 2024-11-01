@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Angel Pol",
+        "url": "https://open.spotify.com/album/0hAQlfLRoKzzCIUSqdFLrV"
+      },
+      "artists": [
+        {
+          "name": "Michelle Ziudith",
+          "url": "https://open.spotify.com/artist/3bUtlTJugBUFNlyoVVFqhd"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306141,
+      "name": "Angel Pol",
+      "url": "https://open.spotify.com/track/0bGU5vDSFhtfXMW4Hjjnmx"
+    },
+    {
+      "album": {
         "name": "angin dalu",
         "url": "https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs"
       },
@@ -824,6 +842,24 @@
       "duration_ms": 268000,
       "name": "Buruh Cod",
       "url": "https://open.spotify.com/track/5nNtFgYU63ARLesoZpvqu2"
+    },
+    {
+      "album": {
+        "name": "Candu",
+        "url": "https://open.spotify.com/album/6EXCNl6W9ZSj2CZ4r7sfYm"
+      },
+      "artists": [
+        {
+          "name": "Lamunan",
+          "url": "https://open.spotify.com/artist/4V21B91KK3Mx2IrDbbDZMf"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291751,
+      "name": "Candu",
+      "url": "https://open.spotify.com/track/1ZeyqWBDfQT3FREDYcU78f"
     },
     {
       "album": {
@@ -5405,6 +5441,24 @@
     },
     {
       "album": {
+        "name": "Pupus",
+        "url": "https://open.spotify.com/album/1btDc2Ec1fnYrdMsf0VeRc"
+      },
+      "artists": [
+        {
+          "name": "Evan Sanders",
+          "url": "https://open.spotify.com/artist/1qiBflbBz0FZdGLkoTH0uM"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267998,
+      "name": "Pupus",
+      "url": "https://open.spotify.com/track/1B03UqsH5VJ5YQSO1ew0aP"
+    },
+    {
+      "album": {
         "name": "Putri Shanghai",
         "url": "https://open.spotify.com/album/1XEzXnnc6uPNV3a7OkXzX5"
       },
@@ -6162,6 +6216,32 @@
       "duration_ms": 303078,
       "name": "Sampek Tuwek",
       "url": "https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO"
+    },
+    {
+      "album": {
+        "name": "Sampun Lilo",
+        "url": "https://open.spotify.com/album/5TJlO0TYHMq8IP5xek2feC"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        },
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368372,
+      "name": "Sampun Lilo",
+      "url": "https://open.spotify.com/track/2k7x48UjvHeutTU8D7Oxrt"
     },
     {
       "album": {

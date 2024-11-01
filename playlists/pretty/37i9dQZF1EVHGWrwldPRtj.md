@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIVNX3XbvPimn>The Neighbourhood</a> and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 49 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | 49 | [Sunbeams](https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Sunbeams](https://open.spotify.com/album/3GKSanPZhzbDXOgo9dY3pY) | 2:27 |
 | 50 | [Sau Cơn Mưa](https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Sau Cơn Mưa](https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2) | 2:34 |
 
-Snapshot ID: `AAAAAAAAAAAdRfeWxjUOWM+CaHFZ3jw8`
+Snapshot ID: `AAAAAAAAAABseZ2jkfGaMGcrfjBGzAt3`

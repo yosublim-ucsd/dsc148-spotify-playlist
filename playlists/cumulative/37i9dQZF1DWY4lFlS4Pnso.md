@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: ROSÉ, Bruno Mars
+> The UK's biggest playlist\. Cover: Lady Gaga
 
 234 songs - 12 hr 16 min
 

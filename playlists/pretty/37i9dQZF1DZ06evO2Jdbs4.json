@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 27838,
+  "num_followers": 27843,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAACJO7qhMWY41o209cuNC2C1",
+  "snapshot_id": "ZyF3AAAAAABdRYiesUmtZ6say9Qymui5",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Medley Bobby Pulido",
+        "url": "https://open.spotify.com/album/6ntUeB7eJe8NmIOoVRlyZq"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Medley Bobby Pulido",
+      "url": "https://open.spotify.com/track/7cEOxE57doPnSVWArGWu76"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Soledad (feat. Monica Saldivar)",
         "url": "https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 235539,
       "name": "La Soledad (feat. Monica Saldivar)",
       "url": "https://open.spotify.com/track/6vZcycMT3468uKoSbXVJc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medley Bobby Pulido",
-        "url": "https://open.spotify.com/album/6ntUeB7eJe8NmIOoVRlyZq"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 238280,
-      "name": "Medley Bobby Pulido",
-      "url": "https://open.spotify.com/track/7cEOxE57doPnSVWArGWu76"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 169000,
-      "name": "No S\u00e9 Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
+      "duration_ms": 212893,
+      "name": "La Plancha",
+      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 212893,
-      "name": "La Plancha",
-      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
+      "duration_ms": 218733,
+      "name": "Cindy Don't Know",
+      "url": "https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 218733,
-      "name": "Cindy Don't Know",
-      "url": "https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg"
+      "duration_ms": 237826,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 237826,
-      "name": "Margarita",
-      "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
+      "duration_ms": 169000,
+      "name": "No S\u00e9 Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
     },
     {
       "added_at": null,

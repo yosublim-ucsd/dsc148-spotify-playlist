@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 103559,
+  "num_followers": 103576,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADOoXC1t9j634nMAX4knzS5",
+  "snapshot_id": "ZyF3AAAAAAAHybVCKwhMAq5pDiyZ55QE",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold On Loosely",
-        "url": "https://open.spotify.com/album/3sW8zDAYpgztuFiQQpr9H4"
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
       },
       "artists": [
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 284975,
-      "name": "Hold On Loosely",
-      "url": "https://open.spotify.com/track/3Vq8wBBUJgatW2fQKyfs4n"
+      "duration_ms": 374846,
+      "name": "I'll Play The Blues For You (Live)",
+      "url": "https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB"
     },
     {
       "added_at": null,
@@ -443,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Greek Theatre",
-        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+        "name": "Hold On Loosely",
+        "url": "https://open.spotify.com/album/3sW8zDAYpgztuFiQQpr9H4"
       },
       "artists": [
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 374846,
-      "name": "I'll Play The Blues For You (Live)",
-      "url": "https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB"
+      "duration_ms": 284975,
+      "name": "Hold On Loosely",
+      "url": "https://open.spotify.com/track/3Vq8wBBUJgatW2fQKyfs4n"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Long Distance Blues",
+      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dear Mr. Fantasy",
         "url": "https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 274081,
       "name": "Dear Mr. Fantasy",
       "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Long Distance Blues",
-      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
     },
     {
       "added_at": null,

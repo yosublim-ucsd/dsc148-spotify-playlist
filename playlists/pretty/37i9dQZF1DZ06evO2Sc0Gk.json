@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19571,
+  "num_followers": 19575,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADBn2kX7KgpGAcOze5EY0zK",
+  "snapshot_id": "ZyF3AAAAAAAOsl2FFnZvBBtJEyGMI7xu",
   "tracks": [
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162102,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
       },
@@ -503,22 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dpos D' Quarentena",
-        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
       "artists": [
         {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 167875,
-      "name": "Tellin Me Something",
-      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
+      "duration_ms": 162102,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65"
     },
     {
       "added_at": null,
@@ -543,6 +523,26 @@
       "duration_ms": 262219,
       "name": "Dame Un Break - Remix",
       "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Waiting",
-        "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
       "artists": [
         {
@@ -832,21 +832,13 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "emPawa Africa",
-          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
         }
       ],
-      "duration_ms": 150702,
-      "name": "Call Waiting",
-      "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
+      "duration_ms": 145174,
+      "name": "Property",
+      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
     },
     {
       "added_at": null,
@@ -871,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+        "name": "Call Waiting",
+        "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
       "artists": [
         {
@@ -880,13 +872,21 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Mo-T",
-          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Property",
-      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
+      "duration_ms": 150702,
+      "name": "Call Waiting",
+      "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
     },
     {
       "added_at": null,
@@ -1095,18 +1095,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Advice",
-        "url": "https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM"
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL"
       },
       "artists": [
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 165995,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
+      "duration_ms": 153992,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC"
     }
   ],
   "unique_name": "This Is Mr Eazi",

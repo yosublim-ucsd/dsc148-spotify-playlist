@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Although In Tears",
+        "url": "https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209921,
+      "name": "Although In Tears",
+      "url": "https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ"
+    },
+    {
+      "album": {
         "name": "Bravo, My Life OST Part.6",
         "url": "https://open.spotify.com/album/5ZHtWTj9GoPviSKDpmNw4A"
       },
@@ -15802,6 +15820,24 @@
       "duration_ms": 213600,
       "name": "Please look at me",
       "url": "https://open.spotify.com/track/7oIsG96tN4l7v7i9VIBSyx"
+    },
+    {
+      "album": {
+        "name": "Please Stay",
+        "url": "https://open.spotify.com/album/3x7Vyuc09YxeEwQ75Kiz0c"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/4NpJ91T1d41WxnWdyAcl4Q"
     },
     {
       "album": {

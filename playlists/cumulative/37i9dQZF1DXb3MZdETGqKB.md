@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-325 songs - 19 hr 7 min
+326 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 | 2022-04-08 | 2023-12-18 |
 | [Sunshine Blue](https://open.spotify.com/track/6m1g7OX6k0CFK9y9LTFwQc) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/41AYEHSwnXU7Gmrw4DVrKC) | 2:40 | 2022-04-08 | 2024-03-16 |
 | [Suntan Woman](https://open.spotify.com/track/1OUnlmlJ6FT4PpJMAqlVyc) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Suntan Woman](https://open.spotify.com/album/1Th1Fn7Cm4UiXZDOKJUazZ) | 3:41 | 2024-02-16 | 2024-06-15 |
+| [Sure Thang](https://open.spotify.com/track/5S0mtfxpYaj0uNdlfsMOxR) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Sure Thang](https://open.spotify.com/album/50iJ7EiM7X4TxU062Mus3M) | 3:23 | 2024-10-25 |  |
 | [Surrender](https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t) | 3:36 | 2022-03-11 | 2022-06-19 |
 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 | 2022-05-06 | 2024-04-19 |
 | [Sweet Hitchhiker](https://open.spotify.com/track/1kZpY4ykTAUrrQfoKdDJll) | [Tommy Womack](https://open.spotify.com/artist/3AeSz3QNO4DSmtyEZhICje) | [30 Years Shot To Hell: A Tommy Womack Anthology](https://open.spotify.com/album/6YvLsP228sBx60XmzK0DH9) | 3:25 | 2022-08-05 | 2024-04-19 |

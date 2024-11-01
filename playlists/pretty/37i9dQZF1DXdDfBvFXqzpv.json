@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106801,
+  "num_followers": 106802,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Konk",
+        "url": "https://open.spotify.com/album/37he52Ye10gETvnot9bC2t"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 161720,
+      "name": "Always Where I Need To Be",
+      "url": "https://open.spotify.com/track/6gGSSrKMiV2yec1DrqGhhy"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Omen (Radio Edit)",
         "url": "https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 196817,
       "name": "Omen - Radio Edit",
       "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Konk",
-        "url": "https://open.spotify.com/album/37he52Ye10gETvnot9bC2t"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 161720,
-      "name": "Always Where I Need To Be",
-      "url": "https://open.spotify.com/track/6gGSSrKMiV2yec1DrqGhhy"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -703,6 +703,30 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Dimension (feat. Skepta & Rema)",
+        "url": "https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Dimension (feat. Skepta & Rema)",
+      "url": "https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "BIEN O MAL",
         "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 274426,
       "name": "Black & Gold",
       "url": "https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Dimension (feat. Skepta & Rema)",
-        "url": "https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF"
-      },
-      "artists": [
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Dimension (feat. Skepta & Rema)",
-      "url": "https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 139293,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 220040,
       "name": "papi bones (feat. shygirl)",
       "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 139293,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 168654,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Don't You Worry, Honey",
         "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 226587,
       "name": "&Run",
       "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 168654,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "International Love",
+      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "The Trick To Life",
         "url": "https://open.spotify.com/album/5sScGdiKDLwMPQMO688baH"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "International Love",
-      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Black Star Elephant",
-        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
-      },
-      "artists": [
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        }
-      ],
-      "duration_ms": 227318,
-      "name": "When the Day Comes",
-      "url": "https://open.spotify.com/track/0P2HAFu7RnkfPnkimNi7I5"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Voodoo (with J Balvin & Tainy)",
         "url": "https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 198130,
       "name": "Voodoo (with J Balvin & Tainy)",
       "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Black Star Elephant",
+        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
+      },
+      "artists": [
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 227318,
+      "name": "When the Day Comes",
+      "url": "https://open.spotify.com/track/0P2HAFu7RnkfPnkimNi7I5"
     }
   ],
   "unique_name": "EA SPORTS FIFA Mix",

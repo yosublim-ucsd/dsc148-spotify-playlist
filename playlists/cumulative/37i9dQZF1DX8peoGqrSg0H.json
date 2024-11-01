@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Billkin",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP Krit",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -602,6 +602,24 @@
       "duration_ms": 208655,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/1wcdlx2wRHr9v2dROco63B"
+    },
+    {
+      "album": {
+        "name": "CHOP CHOP - Single",
+        "url": "https://open.spotify.com/album/1Kfkj5kbTspOsC7iaBAK3o"
+      },
+      "artists": [
+        {
+          "name": "VIIS (\u0e27\u0e34\u0e2a)",
+          "url": "https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198371,
+      "name": "CHOP CHOP",
+      "url": "https://open.spotify.com/track/6MddYU6NXdECFYsShs6q5L"
     },
     {
       "album": {
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 157009,
       "name": "OH MY!",
       "url": "https://open.spotify.com/track/6NYVzwQKU6mBNrnlNDX6Eu"
@@ -2529,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "TEEDEE TADA - Single",
+        "url": "https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML"
+      },
+      "artists": [
+        {
+          "name": "\u0e44\u0e14\u0e21\u0e2d\u0e19\u0e14\u0e4c \u0e13\u0e23\u0e01\u0e23",
+          "url": "https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195130,
+      "name": "TEEDEE TADA",
+      "url": "https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2"
+    },
+    {
+      "album": {
         "name": "TOUCHDOWN (\u0e43\u0e01\u0e25\u0e49\u0e14\u0e32\u0e27)",
         "url": "https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy"
       },
@@ -2594,7 +2630,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 264566,
       "name": "TRAP U",
       "url": "https://open.spotify.com/track/5kHdaxW4aC2iTu6rhz7ocV"
@@ -3092,7 +3128,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 216000,
       "name": "\u0e01\u0e31\u0e01\u0e01\u0e31\u0e4a\u0e01 (GUGGUG) [feat. GEE]",
       "url": "https://open.spotify.com/track/14slHajs1oLT7ZjZ2zuRZB"
@@ -5130,7 +5166,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 229333,
       "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21\u0e43\u0e19\u0e10\u0e32\u0e19\u0e30\u0e44\u0e1f\u0e41\u0e14\u0e07\u0e01\u0e47\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/6hvciRAtzlJ4Hl1LYCbC3J"
@@ -6071,6 +6107,24 @@
     },
     {
       "album": {
+        "name": "\u0e1d\u0e19\u0e14\u0e32\u0e27\u0e15\u0e01",
+        "url": "https://open.spotify.com/album/5WLrhrVLL20txhJZyLZJls"
+      },
+      "artists": [
+        {
+          "name": "TYTAN",
+          "url": "https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229218,
+      "name": "\u0e1d\u0e19\u0e14\u0e32\u0e27\u0e15\u0e01",
+      "url": "https://open.spotify.com/track/4cwPcUeVHICTN9PN8EvNoa"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs"
       },
@@ -6658,7 +6712,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 222519,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e25\u0e32 (jasmine)",
       "url": "https://open.spotify.com/track/42kVAXHScwppQdPPGsygb2"
@@ -7867,6 +7921,24 @@
     },
     {
       "album": {
+        "name": "MINE",
+        "url": "https://open.spotify.com/album/5Jumy6sJNFo2F6cFacLs7k"
+      },
+      "artists": [
+        {
+          "name": "Ice Paris",
+          "url": "https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234330,
+      "name": "\u0e2a\u0e48\u0e27\u0e19\u0e25\u0e36\u0e01",
+      "url": "https://open.spotify.com/track/0pTVv3OK76OpnISr7hTlUn"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e21\u0e32\u0e0a\u0e49\u0e32",
         "url": "https://open.spotify.com/album/3I09i71ENf6fZSnRmjj7L3"
       },
@@ -7944,6 +8016,28 @@
       "duration_ms": 179375,
       "name": "\u0e2b\u0e22\u0e2d\u0e01 \u0e2b\u0e22\u0e2d\u0e01",
       "url": "https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e22\u0e2d\u0e01\u0e44\u0e21\u0e48\u0e2b\u0e25\u0e2d\u0e01 (TRICK OR TREAT) - Single",
+        "url": "https://open.spotify.com/album/0KX3FdLHvQZtbKwri44BmX"
+      },
+      "artists": [
+        {
+          "name": "LYKN",
+          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
+        },
+        {
+          "name": "Chrrissa",
+          "url": "https://open.spotify.com/artist/3HbdAO1uUXLMo1FRXJWdYt"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217981,
+      "name": "\u0e2b\u0e22\u0e2d\u0e01\u0e44\u0e21\u0e48\u0e2b\u0e25\u0e2d\u0e01 (TRICK OR TREAT)",
+      "url": "https://open.spotify.com/track/1QJpqMMm9kB8IcmZHtHPNR"
     },
     {
       "album": {
@@ -10326,7 +10420,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 246666,
       "name": "\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e22\u0e2d\u0e2d\u0e01 (Truth or Dare)",
       "url": "https://open.spotify.com/track/3JDHYk07aecvjfD0sGtSw5"

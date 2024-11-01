@@ -150,10 +150,32 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 237160,
       "name": "Find The Way",
       "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
+    },
+    {
+      "album": {
+        "name": "Find The Way (DJ Q Remix)",
+        "url": "https://open.spotify.com/album/798ipPSqEJLh6uIRCqAtcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Find The Way - DJ Q Remix",
+      "url": "https://open.spotify.com/track/29zooAFKpMqvxHQkvdGwNk"
     },
     {
       "album": {

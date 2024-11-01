@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Fast Animals and Slow Kids sulla cover della playlist con il meglio dell’indie italiano!
+> chiello sulla cover della playlist con il meglio dell’indie italiano!
 
-127 songs - 6 hr 30 min
+129 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Give me love](https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:34 | 2024-10-17 |  |
 | [GUAGLIONA \(feat\. Lil Jolie\)](https://open.spotify.com/track/2KufQMHOclDkVO3WT5L91j) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [GUAGLIONA](https://open.spotify.com/album/6ssZZ0r8YDAFO8NMcLNmMP) | 2:45 | 2024-06-27 | 2024-08-16 |
 | [Hiroshima \(feat\. piazzabologna\)](https://open.spotify.com/track/4YlYUNwfcrjro882XpvEJ9) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [DISCO DEFAULT](https://open.spotify.com/album/0fzEQdXr2Z9r5VvnskQUkz) | 2:55 | 2024-06-27 | 2024-07-19 |
+| [HO SBAGLIATO ANCORA](https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [HO SBAGLIATO ANCORA](https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA) | 3:10 | 2024-10-31 |  |
 | [Innamorarsi perdutamente non è mai un affare](https://open.spotify.com/track/3AvWA6n798ACuSjwYdBL2v) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Innamorarsi perdutamente non è mai un affare](https://open.spotify.com/album/4gw3DQuwQBgdhqHSZB0Ld5) | 3:00 | 2024-06-27 | 2024-10-25 |
 | [Invisibile](https://open.spotify.com/track/2Arm5lPwb1mUayrzYy6EZN) | [I Segreti](https://open.spotify.com/artist/3e70MTQQxvShEhc1UQcPbL) | [Bellissimo](https://open.spotify.com/album/2cMx57lE3A6GYMOpUnUJtm) | 3:14 | 2024-10-03 | 2024-10-18 |
 | [Karaoke](https://open.spotify.com/track/3qj1SVOn5avhbcBrgkrTv7) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Giorni Felici](https://open.spotify.com/album/6iQVTMWUzVeIYFnH9LGEFO) | 2:46 | 2024-10-24 |  |
@@ -99,7 +100,7 @@
 | [Piccolo Tornado](https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Piccolo Tornado](https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I) | 3:18 | 2024-10-17 |  |
 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 | 2024-08-29 | 2024-09-27 |
 | [POSTI VUOTI](https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [POSTI VUOTI](https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC) | 3:16 | 2024-10-24 |  |
-| [PREFERIREI](https://open.spotify.com/track/4nysRMbEV59xna3xREH6i1) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 3:22 | 2024-06-27 |  |
+| [PREFERIREI](https://open.spotify.com/track/4nysRMbEV59xna3xREH6i1) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 3:22 | 2024-06-27 | 2024-11-01 |
 | [Puoi](https://open.spotify.com/track/7woxXKezUmdjGuHtR75nCT) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Infinito +1](https://open.spotify.com/album/0n7dd40ERs4ucG5KarwZxM) | 2:46 | 2024-06-27 |  |
 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 |  |
 | [Rey Mysterio](https://open.spotify.com/track/0jFXK09KbehR0Ycc09fgWU) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051), [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [Rey Mysterio](https://open.spotify.com/album/2QxPncmtj8rwUvT28k5KEo) | 3:06 | 2024-09-26 | 2024-10-18 |
@@ -130,6 +131,7 @@
 | [Tuttoscorre](https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Tuttoscorre](https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH) | 2:54 | 2024-09-26 |  |
 | [U mari](https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [U mari](https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec) | 2:46 | 2024-08-15 | 2024-08-30 |
 | [Un Altro Universo](https://open.spotify.com/track/235IH4fO2EjnQuZmGjBg6c) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Un Altro Universo](https://open.spotify.com/album/6jBiHku5XSMNvJpoJuTRLQ) | 3:20 | 2024-06-27 |  |
+| [Un'ora di sole](https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Un'ora di sole](https://open.spotify.com/album/3FzC9bahybfQ8RoaIrKKol) | 2:36 | 2024-10-31 |  |
 | [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 | 2024-06-27 | 2024-07-12 |
 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 | 2024-07-18 | 2024-10-11 |
 | [Una vita normale](https://open.spotify.com/track/7KXiNcodDshozttV90Ensd) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Hotel esistenza](https://open.spotify.com/album/1Vwliljh15ZM7gv0PdLZCE) | 3:26 | 2024-10-24 |  |

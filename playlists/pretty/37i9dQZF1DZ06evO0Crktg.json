@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 256416,
+  "num_followers": 256580,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAABq+JpS5yucT+vgprRapyv0",
+  "snapshot_id": "ZyF3AAAAAAAdNVwb7YzLny8LhEPYYnPn",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ballads of the Broken",
         "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 184173,
       "name": "Chevrolet (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/0L7WPQBymCeeXmbWiWQBxX"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/0BKLYnngsUyaEwWPOJjGxc"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 160160,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Help Me God",
         "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 179253,
       "name": "Son Of The Dirty South",
       "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautifully Broken",
-        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 160160,
-      "name": "Get By",
-      "url": "https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Therapeutic Music 5",
-        "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Smoking Section",
-      "url": "https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautifully Broken",
         "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 181773,
       "name": "Heart of Stone",
       "url": "https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Therapeutic Music 5",
+        "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Smoking Section",
+      "url": "https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crosses and Crossroads",
-        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 206285,
-      "name": "Same Asshole",
-      "url": "https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautifully Broken",
         "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 171226,
       "name": "Burning",
       "url": "https://open.spotify.com/track/5igokYVbhyNMdZc7urch9j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 206285,
+      "name": "Same Asshole",
+      "url": "https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "She",
-      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautifully Broken",
         "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "She",
+      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Addiction Kills",
         "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 207269,
       "name": "Wheels Fall Off",
       "url": "https://open.spotify.com/track/4yGeJP63Z6gLEOZNHjkNnW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
       },
       "artists": [
         {
@@ -636,13 +636,13 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         },
         {
-          "name": "Brix",
-          "url": "https://open.spotify.com/artist/4LsrAQY9ShOYMMZEhZ2tN2"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 254277,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
+      "duration_ms": 185480,
+      "name": "Really Gone (with Russ)",
+      "url": "https://open.spotify.com/track/3m5skOgX8UizlHiTTduVvA"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautifully Broken",
-        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
       "artists": [
         {
@@ -676,33 +676,13 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         },
         {
-          "name": "Ilsey Juber",
-          "url": "https://open.spotify.com/artist/0tmGIER853klXo2OFVmKQ9"
+          "name": "Brix",
+          "url": "https://open.spotify.com/artist/4LsrAQY9ShOYMMZEhZ2tN2"
         }
       ],
-      "duration_ms": 203346,
-      "name": "When The Drugs Don't Work (with Ilsey)",
-      "url": "https://open.spotify.com/track/4MJik4CCxNQjP2irCUO1YM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Really Gone (with Russ)",
-      "url": "https://open.spotify.com/track/3m5skOgX8UizlHiTTduVvA"
+      "duration_ms": 254277,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
     },
     {
       "added_at": null,
@@ -903,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time of Day",
-        "url": "https://open.spotify.com/album/7tSKwiJ1kF0oyMhnPlmeOv"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Time of Day (with mgk)",
-      "url": "https://open.spotify.com/track/23a1vJJU2QsbhakR7jPR3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Medicated",
         "url": "https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw"
       },
@@ -935,6 +895,42 @@
       "duration_ms": 167635,
       "name": "Johnny and June",
       "url": "https://open.spotify.com/track/5CViEqt2O688DBBlr4dBNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 202675,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx"
     }
   ],
   "unique_name": "This Is Jelly Roll",

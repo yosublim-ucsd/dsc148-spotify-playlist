@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: PP Krit
+> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: Billkin
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,223 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,288 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
-| 2 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
-| 3 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
-| 4 | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/track/0cvETHNq3ZkPHdYCqRXhzk) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/album/7allI9XRc8YqcO1TO3Gsyi) | 2:46 |
+| 2 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
+| 3 | [Golden Hour](https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Golden Hour](https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB) | 3:44 |
+| 4 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
 | 5 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
 | 6 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
 | 7 | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 |
-| 8 | [Golden Hour](https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Golden Hour](https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB) | 3:44 |
-| 9 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
+| 8 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
+| 9 | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/track/0cvETHNq3ZkPHdYCqRXhzk) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/album/7allI9XRc8YqcO1TO3Gsyi) | 2:46 |
 | 10 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 |
 | 11 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
 | 12 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [ผูกพันต้องลา](https://open.spotify.com/track/2HC3jRQilGWyFlvICAqCaP) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ผูกพันต้องลา](https://open.spotify.com/album/0cwGiZR0Gm9vIlbLORcjyk) | 3:20 |
 | 50 | [ที่รักใจเย็น](https://open.spotify.com/track/6rgF7lJWhf0jR5ZEJk3cY5) | [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Williams](https://open.spotify.com/artist/0rnxDMQvlw7WzIofQuaXmT) | [URDAWG](https://open.spotify.com/album/1ZQJQ3EAzClG99jCmLefKh) | 3:23 |
 
-Snapshot ID: `Zxqv/gAAAABiHvqoQF0siK9hwBV8DhAs`
+Snapshot ID: `ZyPLugAAAAAl2l33MnYBrB+hmGoPLzly`

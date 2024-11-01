@@ -6,7 +6,7 @@
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKDvaZoUulU9rJ9qidIv2z7rTtsTtV",
+  "snapshot_id": "AAAKEZG2driF4psTAg+wJs4E8WCnRGi7",
   "tracks": [
     {
       "added_at": "2024-04-26 12:50:00",
@@ -1399,6 +1399,62 @@
       "duration_ms": 171428,
       "name": "Bassline Odyssey",
       "url": "https://open.spotify.com/track/5vzs8QzeY9h2BTCdPefein"
+    },
+    {
+      "added_at": "2024-10-31 18:44:58",
+      "album": {
+        "name": "girl$ (Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 184477,
+      "name": "girl$ - Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
+    },
+    {
+      "added_at": "2024-10-31 20:29:49",
+      "album": {
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Alto",
+          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T"
+    },
+    {
+      "added_at": "2024-10-31 20:31:25",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     }
   ],
   "unique_name": "Ultra Club Hits",

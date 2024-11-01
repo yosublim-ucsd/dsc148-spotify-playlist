@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 287513,
+  "num_followers": 287662,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -853,6 +853,22 @@
       "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
     },
     {
+      "added_at": "2022-11-18 17:46:22",
+      "album": {
+        "name": "Chichala",
+        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 173148,
+      "name": "Chichala",
+      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Out of This World",
@@ -905,30 +921,6 @@
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
     },
     {
-      "added_at": "2022-11-03 18:27:44",
-      "album": {
-        "name": "Mientras Tanto",
-        "url": "https://open.spotify.com/album/5GgeCHEvsDIpUR5AzHkYxK"
-      },
-      "artists": [
-        {
-          "name": "Los Eclipses",
-          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Mientras Tanto",
-      "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Na Procura",
@@ -977,20 +969,28 @@
       "url": "https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK"
     },
     {
-      "added_at": "2022-11-18 17:46:22",
+      "added_at": "2022-11-03 18:27:44",
       "album": {
-        "name": "Chichala",
-        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
+        "name": "Mientras Tanto",
+        "url": "https://open.spotify.com/album/5GgeCHEvsDIpUR5AzHkYxK"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
         }
       ],
-      "duration_ms": 173148,
-      "name": "Chichala",
-      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
+      "duration_ms": 135000,
+      "name": "Mientras Tanto",
+      "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
     },
     {
       "added_at": "2022-06-15 04:26:09",

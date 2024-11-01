@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: RedHook",
+  "description": "The best in new rock. Cover: King Gizzard & The Lizard Wizard",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 258596,
       "name": "All",
       "url": "https://open.spotify.com/track/4ma7pLckA3BHTb2STtAMrc"
+    },
+    {
+      "album": {
+        "name": "Songs Of A Lost World",
+        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321101,
+      "name": "All I Ever Am",
+      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
     },
     {
       "album": {
@@ -556,7 +574,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 259626,
       "name": "Come To Brazil",
       "url": "https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC"
@@ -719,6 +737,24 @@
     },
     {
       "album": {
+        "name": "(un)adored",
+        "url": "https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd"
+      },
+      "artists": [
+        {
+          "name": "Le Shiv",
+          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186487,
+      "name": "Don't Try To Talk",
+      "url": "https://open.spotify.com/track/3Kc48KnKB0EQKaplpW2qYV"
+    },
+    {
+      "album": {
         "name": "In The Shade",
         "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
       },
@@ -842,7 +878,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 246487,
       "name": "Everything's Here And Nothing's Lost",
       "url": "https://open.spotify.com/track/73Dz3M1a3bWmwosBBB08xD"
@@ -1016,6 +1052,24 @@
       "duration_ms": 265165,
       "name": "Guided Tour",
       "url": "https://open.spotify.com/track/5libQaNWi39sL1255ivVwK"
+    },
+    {
+      "album": {
+        "name": "Fever Longing Still",
+        "url": "https://open.spotify.com/album/7xXCwjDZiNd5dMr00ANHM0"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201907,
+      "name": "Harpoon To The Heart",
+      "url": "https://open.spotify.com/track/2yqqdUqEExDHW3aCFDOdBb"
     },
     {
       "album": {
@@ -1365,6 +1419,28 @@
     },
     {
       "album": {
+        "name": "I'm With The Band (feat. Beck)",
+        "url": "https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175190,
+      "name": "I'm With The Band (feat. Beck)",
+      "url": "https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS"
+    },
+    {
+      "album": {
         "name": "Imminent Redemption",
         "url": "https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi"
       },
@@ -1538,7 +1614,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 158870,
       "name": "La fiesta",
       "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
@@ -1582,7 +1658,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 214125,
       "name": "Le Risque",
       "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
@@ -2058,7 +2134,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 203774,
       "name": "Nothing Would Change",
       "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
@@ -2120,6 +2196,24 @@
       "duration_ms": 273520,
       "name": "Oh Well (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/6iX3H2Gxm2F0YFLm5UuG1U"
+    },
+    {
+      "album": {
+        "name": "Ohio All The Time",
+        "url": "https://open.spotify.com/album/6RgZwiFk9c2zY1BOR3JT7Y"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184820,
+      "name": "Ohio All The Time",
+      "url": "https://open.spotify.com/track/4MZfdXX0OnqH3tGxEsm1nU"
     },
     {
       "album": {
@@ -2318,7 +2412,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 268421,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
@@ -2376,6 +2470,24 @@
       "duration_ms": 150066,
       "name": "Pest",
       "url": "https://open.spotify.com/track/495LiUjJ61sqBzDQv0msJ6"
+    },
+    {
+      "album": {
+        "name": "Phantom Island",
+        "url": "https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316137,
+      "name": "Phantom Island",
+      "url": "https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp"
     },
     {
       "album": {
@@ -2554,7 +2666,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 198173,
       "name": "Sex Drugs Whatever",
       "url": "https://open.spotify.com/track/0CsYbDQXRAVZ6kHn4rDakN"
@@ -3474,6 +3586,24 @@
       "duration_ms": 231521,
       "name": "You've Got To Move",
       "url": "https://open.spotify.com/track/19jIWKn3jNaSA2yOQ0NU86"
+    },
+    {
+      "album": {
+        "name": "Your House",
+        "url": "https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227308,
+      "name": "Your House",
+      "url": "https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z"

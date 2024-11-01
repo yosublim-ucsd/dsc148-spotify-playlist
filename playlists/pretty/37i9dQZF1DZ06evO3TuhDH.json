@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 17004,
+  "num_followers": 17010,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAABezCEYRW+MSx7aTCke4YSz",
+  "snapshot_id": "ZyF3AAAAAACuVXXiNrS4CkLwG5azRADq",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blick Blick",
+        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 178413,
+      "name": "Blick Blick (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
         "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 190104,
       "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
       "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blick Blick",
-        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 178413,
-      "name": "Blick Blick (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Sh!t",
-        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Fly Sh!t",
-      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
       },
@@ -763,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mixed Emotions",
-        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+        "name": "Fly Sh!t",
+        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
       },
       "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 195464,
-      "name": "Hate Me (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
+      "duration_ms": 135133,
+      "name": "Fly Sh!t",
+      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
       "duration_ms": 150413,
       "name": "No Angels (with Lola Brooke)",
       "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 195464,
+      "name": "Hate Me (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
       "added_at": null,
@@ -995,26 +995,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Language 2",
-        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+        "name": "Involved",
+        "url": "https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv"
       },
       "artists": [
-        {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Karlae",
-          "url": "https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp"
-        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 189813,
-      "name": "I Like (feat. Karlae & Coi Leray)",
-      "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
+      "duration_ms": 180880,
+      "name": "Involved",
+      "url": "https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt"
     }
   ],
   "unique_name": "This Is Coi Leray",

@@ -744,7 +744,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 150453,
       "name": "La Javanaise",
       "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
@@ -1518,6 +1518,28 @@
       "duration_ms": 366896,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
+    },
+    {
+      "album": {
+        "name": "Skull Ring",
+        "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181880,
+      "name": "Supermarket",
+      "url": "https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o"
     },
     {
       "album": {

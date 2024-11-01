@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover:  Raisa",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover:  Rizky Febian",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Biru",
+        "url": "https://open.spotify.com/album/12zVW8fZOGguy0hoB0fEtW"
+      },
+      "artists": [
+        {
+          "name": "Dere",
+          "url": "https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221027,
+      "name": "Biru",
+      "url": "https://open.spotify.com/track/41bBs1jtHrLVVQofSMKAgT"
+    },
+    {
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5"
       },
@@ -700,6 +718,28 @@
       "duration_ms": 241236,
       "name": "Bukan Dengan Dia",
       "url": "https://open.spotify.com/track/03mQ3i9vPCEYO9KVi9qjHb"
+    },
+    {
+      "album": {
+        "name": "Bukan Hati Yang Kutunggu",
+        "url": "https://open.spotify.com/album/0uLmrILkMpzlwLNAtNyCKW"
+      },
+      "artists": [
+        {
+          "name": "Dudy Oris",
+          "url": "https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT"
+        },
+        {
+          "name": "Pika Iskandar",
+          "url": "https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Bukan Hati Yang Kutunggu",
+      "url": "https://open.spotify.com/track/41e8w4f1X5ynQvrjBbaEXP"
     },
     {
       "album": {
@@ -1246,6 +1286,24 @@
       "duration_ms": 228708,
       "name": "Fight Some More",
       "url": "https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0"
+    },
+    {
+      "album": {
+        "name": "Firasat Berbicara",
+        "url": "https://open.spotify.com/album/53QtC3DsAS9dHNvtunOWaK"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231282,
+      "name": "Firasat Berbicara",
+      "url": "https://open.spotify.com/track/6vJnVHRW3CJycI3ufWmU86"
     },
     {
       "album": {
@@ -4032,6 +4090,24 @@
       "duration_ms": 220185,
       "name": "sorry i phone you",
       "url": "https://open.spotify.com/track/5RE0AB2tC2XzzvV4UIgFR9"
+    },
+    {
+      "album": {
+        "name": "Sarwa Renjana",
+        "url": "https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC"
+      },
+      "artists": [
+        {
+          "name": "Armand Maulana",
+          "url": "https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206848,
+      "name": "Surga",
+      "url": "https://open.spotify.com/track/4cbtN78MM14iygONiGKkXN"
     },
     {
       "album": {

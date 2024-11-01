@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 
 > Al cien en la mamalona!
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,622 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,739 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 75 | [TENDIDO](https://open.spotify.com/track/6coFuGT9MX2iptViTbMiU1) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [TENDIDO](https://open.spotify.com/album/46i4abJlERWTOoySWensFT) | 2:44 |
 | 76 | [MAKABELICOS](https://open.spotify.com/track/0mGa1uq1JPqmTvFzN1fMpF) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [MAKABELICOS](https://open.spotify.com/album/4P1pjWEiQGkzBap2NLa0ei) | 3:07 |
 | 77 | [Fuga Del Jefe](https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Contrato A La Vida](https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD) | 2:43 |
-| 78 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C) | 2:57 |
-| 79 | [Me Recordará El Cartel](https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Recordará El Cartel](https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt) | 3:41 |
+| 78 | [Me Recordará El Cartel](https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Recordará El Cartel](https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt) | 3:41 |
+| 79 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C) | 2:57 |
 | 80 | [Dicen Y Dicen](https://open.spotify.com/track/4VLl5U59czwlduQCcJ6Jkp) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen Y Dicen](https://open.spotify.com/album/4EyOfEfGnA7YSuTFA9CJ49) | 2:53 |
 | 81 | [Los Brothers \(09/19\)](https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Los Brothers \(09/19\)](https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI) | 3:36 |
 | 82 | [Comandante 09](https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Comandante 09](https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf) | 3:56 |

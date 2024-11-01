@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-230 songs - 12 hr 30 min
+232 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [I WANT YOU BACK](https://open.spotify.com/track/54w5JUSWCJu64pnw8alImP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:23 | 2022-03-24 |  |
 | [ICON](https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 2:56 | 2022-07-19 | 2024-04-19 |
 | [ICON](https://open.spotify.com/track/78vV5Ww5jmY2BF8lHzAN3A) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 2:56 | 2022-03-24 |  |
+| [Identity](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Identity](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) | 2:20 | 2024-10-31 |  |
 | [In the summer](https://open.spotify.com/track/04LlwbQp31hLQ6meYbP19t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:30 | 2022-03-24 |  |
 | [Jelly Jelly](https://open.spotify.com/track/2GJxT761mGTQocouI2oLTe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 3:30 | 2022-03-24 |  |
 | [Jelly Jelly](https://open.spotify.com/track/7a2QLFestFOeQ03xBBX6E0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 3:30 | 2022-07-19 | 2024-04-19 |
@@ -140,6 +141,7 @@
 | [MORE & MORE](https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:19 | 2022-03-24 |  |
 | [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 | 2022-07-19 | 2024-04-19 |
 | [MORE & MORE \(LEE HAE SOL Sped Up Remix\)](https://open.spotify.com/track/3PeqOlET4ZX6CKGwrlAX7u) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [LEE HAE SOL](https://open.spotify.com/artist/5xZzq9Bk8IociNfF0TfHdf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:25 | 2023-12-12 |  |
+| [NEW LOOK](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [NEW LOOK](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) | 3:16 | 2024-10-31 |  |
 | [NEW NEW](https://open.spotify.com/track/1z2vNmmIFLSw7zfhr2hxWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:01 | 2024-02-23 |  |
 | [One In A Million](https://open.spotify.com/track/2YTzBBMPkf2mETq2FyzoUs) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 2:55 | 2022-03-24 |  |
 | [One In A Million](https://open.spotify.com/track/2WWUozUXaj0XY8MKmFHvYp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 2](https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W) | 2:55 | 2022-08-26 | 2022-11-13 |

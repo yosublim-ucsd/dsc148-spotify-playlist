@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 128646,
+  "num_followers": 128674,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,26 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 70786,
+      "name": "Water Music, Suite No. 1, HWV 348: No. 8, Bourr\u00e9e",
+      "url": "https://open.spotify.com/track/6jzEwUfXtY2tlZj9O158b8"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Nuove Invenzioni",
         "url": "https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 353720,
       "name": "Eternal Source of Light Divine, HWV 74 (Arrangement)",
       "url": "https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
-      "duration_ms": 70786,
-      "name": "Water Music, Suite No. 1, HWV 348: No. 8, Bourr\u00e9e",
-      "url": "https://open.spotify.com/track/6jzEwUfXtY2tlZj9O158b8"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -475,30 +475,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Organ Concertos, Op. 4",
-        "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Richard Egarr",
-          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
-        },
-        {
-          "name": "Academy of Ancient Music",
-          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
-        }
-      ],
-      "duration_ms": 434333,
-      "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
-      "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Water & Fireworks Music",
         "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 318720,
       "name": "Apollo e Dafne, HWV 122: Aria: Felicissima quest'alma (Most fortunate is this soul) (Dafne)",
       "url": "https://open.spotify.com/track/3KHh3k2Ty3XQ2iRzklx6H3"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Organ Concertos, Op. 4",
+        "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Richard Egarr",
+          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        }
+      ],
+      "duration_ms": 434333,
+      "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
+      "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
     },
     {
       "added_at": "2022-06-28 08:56:25",

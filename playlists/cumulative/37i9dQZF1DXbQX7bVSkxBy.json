@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ?si=USJt32zsRgCkN7bfZyv2_w>Tjsarx</a>",
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR?si=OOaayHN6SPqa0YnD0BDfKw>Rotimikeys</a>",
   "name": "Testify",
   "tracks": [
     {
@@ -412,6 +412,24 @@
       "duration_ms": 715008,
       "name": "Ayaaaa",
       "url": "https://open.spotify.com/track/7kNSQbZwZU6hhkFyuq98PH"
+    },
+    {
+      "album": {
+        "name": "AYO",
+        "url": "https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223408,
+      "name": "AYO",
+      "url": "https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac"
     },
     {
       "album": {
@@ -1864,7 +1882,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 126315,
       "name": "Find Me Here (Blessings Find Me)",
       "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"

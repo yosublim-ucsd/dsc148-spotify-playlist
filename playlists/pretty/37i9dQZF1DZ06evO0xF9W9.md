@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,089 likes - 28 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,096 likes - 28 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 11 | [A 120 \- Discoteca](https://open.spotify.com/track/1dfTVY4CU5yCDxdpQlpTNY) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [A 120 \(discoteca\)](https://open.spotify.com/album/15ewhwJhFea1l3tqzUx6lx) | 2:24 |
 | 12 | [El Puto Amo](https://open.spotify.com/track/1WLIqSVfUhrcgguFW7fgLp) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [DJ 22](https://open.spotify.com/artist/34awN2WoMVzgNPPjD1UgNT) | [El Puto Amo](https://open.spotify.com/album/1xMFZBrLV4pHPRg9c035ig) | 2:06 |
 | 13 | [Culiacan](https://open.spotify.com/track/4B5G10aokuWdgVkgD5m6d7) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:51 |
-| 14 | [Quedate \(feat\. King Jeff\) \- Discoteca](https://open.spotify.com/track/78AfS03RiKgjvT8TuJGeX0) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [King Jeff](https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d) | [Quedate \(feat\. King Jeff\) \[Discoteca\]](https://open.spotify.com/album/7F7FaH5zf0Et8gW2AI3d5a) | 3:20 |
-| 15 | [Una Noche Tranquila](https://open.spotify.com/track/5poZeWxDKAiIrx6Rlw833M) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Jhon king](https://open.spotify.com/artist/1ctoTm3eWDymF5xx4oVte3) | [Una Noche Tranquila](https://open.spotify.com/album/2BJXmZP7DMzIVIgn498OiI) | 3:04 |
+| 14 | [Una Noche Tranquila](https://open.spotify.com/track/5poZeWxDKAiIrx6Rlw833M) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Jhon king](https://open.spotify.com/artist/1ctoTm3eWDymF5xx4oVte3) | [Una Noche Tranquila](https://open.spotify.com/album/2BJXmZP7DMzIVIgn498OiI) | 3:04 |
+| 15 | [Quedate \(feat\. King Jeff\) \- Discoteca](https://open.spotify.com/track/78AfS03RiKgjvT8TuJGeX0) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [King Jeff](https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d) | [Quedate \(feat\. King Jeff\) \[Discoteca\]](https://open.spotify.com/album/7F7FaH5zf0Et8gW2AI3d5a) | 3:20 |
 | 16 | [Soledad \(feat\. Freko & Koko\)](https://open.spotify.com/track/0P0UXb0T8dCqIBsecprmuG) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Freko](https://open.spotify.com/artist/3WZWxJh1UzDONnI7kl4tNl), [Koko](https://open.spotify.com/artist/2D1sHU8nG2WKvlMoHFwzg0) | [Soledad \(feat\. Freko & Koko\)](https://open.spotify.com/album/5QAH4iiU2w1aam9WMm1MRS) | 3:15 |
 | 17 | [Si Estoy Contigo \- Bachata](https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:36 |
 | 18 | [Ruta](https://open.spotify.com/track/4rNX5hOw4IAPuSlEZ71m5i) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/7cwZSJ1S17yteGVQpML2Bx) | 2:30 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 27 | [Pilita \- Remix](https://open.spotify.com/track/6Hk3cm82arTFxwfooQU1c6) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Paola Houghton](https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Pilita \(feat\. Paola Houghton & DJ Nanow\) \[Remix\]](https://open.spotify.com/album/7JWwcgZWtVS3fdx1RiwTRg) | 3:06 |
 | 28 | [Actua](https://open.spotify.com/track/5Cj9ntxxzkR1ci1qcPe7Tw) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/4yroQYEsNxeBwERQ1KRqPt) | 3:58 |
 
-Snapshot ID: `ZyAlgAAAAABzwkfIF10FhUR1Pncskf71`
+Snapshot ID: `ZyF3AAAAAAAa5fqCR2j3K/FtdW6Qfgls`

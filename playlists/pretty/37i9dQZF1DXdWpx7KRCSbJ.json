@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 333716,
+  "num_followers": 333713,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Ao Vivo Em Campo Grande",
+        "url": "https://open.spotify.com/album/49Ld3XINIFTquvEMioXhBu"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 151826,
+      "name": "Sorte Que C\u00ea Beija Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YV827A7aWVswtyt0eWoWM"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 161444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Ao Vivo Em Campo Grande",
-        "url": "https://open.spotify.com/album/49Ld3XINIFTquvEMioXhBu"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 151826,
-      "name": "Sorte Que C\u00ea Beija Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YV827A7aWVswtyt0eWoWM"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -307,22 +307,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
+        "name": "Saudade N\u00edvel Hard",
+        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
       },
       "artists": [
         {
-          "name": "Ra\u00e7a Negra",
-          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
         }
       ],
-      "duration_ms": 277125,
-      "name": "Cheia de Manias - Ao Vivo",
-      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
+      "duration_ms": 181846,
+      "name": "Saudade N\u00edvel Hard",
+      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -347,18 +343,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Saudade N\u00edvel Hard",
-        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
+        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
       },
       "artists": [
         {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+          "name": "Ra\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 181846,
-      "name": "Saudade N\u00edvel Hard",
-      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+      "duration_ms": 277125,
+      "name": "Cheia de Manias - Ao Vivo",
+      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Deixa Eu Te Fazer Feliz",
-        "url": "https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Aldair Playboy",
-          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
-        }
-      ],
-      "duration_ms": 161287,
-      "name": "Deixa Eu Te Fazer Feliz",
-      "url": "https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Deixe-Me Ir (Kiko Franco e Woak Remix)",
         "url": "https://open.spotify.com/album/6zG3uIr7njYZBzXe2s2juU"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 214462,
       "name": "Deixe-Me Ir - Kiko Franco e Woak Remix",
       "url": "https://open.spotify.com/track/19kNNsdVTF4Bq06Oxv8WhT"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Deixa Eu Te Fazer Feliz",
+        "url": "https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+        }
+      ],
+      "duration_ms": 161287,
+      "name": "Deixa Eu Te Fazer Feliz",
+      "url": "https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ"
     }
   ],
   "unique_name": "Festa na Piscina",

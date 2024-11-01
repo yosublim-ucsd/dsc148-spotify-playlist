@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 183560,
       "name": "Beware",
       "url": "https://open.spotify.com/track/3M0OsLCcAqbVl9obHq2UxO"
@@ -7602,6 +7602,24 @@
       "duration_ms": 271440,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/1FE45v3BxmGjFiDwuSpeDJ"
+    },
+    {
+      "album": {
+        "name": "Motown 50 (International Version 2)",
+        "url": "https://open.spotify.com/album/6UNkbrgj4ZIsAOnJJxb4Ta"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165360,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5H7DAa7FLrKRYDrxShVaHA"
     },
     {
       "album": {

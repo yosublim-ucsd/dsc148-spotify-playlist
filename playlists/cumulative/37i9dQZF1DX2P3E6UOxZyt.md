@@ -2,9 +2,9 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 派偉俊 \(Patrick Brasca\) x Tyson Yoshi x 林潔心 \(ddkogi88\) x 斑恩 \(Ben\)
+> 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: PIZZALI
 
-600 songs - 1 day 10 hr 37 min
+601 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 out of 10](https://open.spotify.com/track/3fTpEVNXla3OEavoAqXmF0) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [10 out of 10](https://open.spotify.com/album/6MVYiE2oxVEPBVTrG9xo9D) | 2:57 | 2024-07-25 | 2024-08-23 |
 | [3am \- Demo Ver.](https://open.spotify.com/track/70R10GZEIyNaOsltKW5kli) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [3am \(Demo Ver.\)](https://open.spotify.com/album/4RAme39y8E1VMWkuFYrnqM) | 2:36 | 2024-03-28 | 2024-04-19 |
 | [3am \- Demo Ver.](https://open.spotify.com/track/7u8RM7nUKUk93CYsEp8Krr) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [3am \- Demo Ver.](https://open.spotify.com/album/2C5ob9OfPO3J5wMETcOD5R) | 2:36 | 2024-04-18 | 2024-06-14 |
+| [4AM](https://open.spotify.com/track/4P4jgUywR8q9nmHl4LeoW8) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [赤子](https://open.spotify.com/album/6ndSyvZbLKewKv2uFOSOxu) | 3:05 | 2024-10-31 |  |
 | [94在靠杯](https://open.spotify.com/track/1KTIjCV8N4ozMaP30WK2eD) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [94在靠杯](https://open.spotify.com/album/0MHpDBlkQmraKJ64yyjtWj) | 4:14 | 2023-10-26 | 2024-01-12 |
 | [99 chocolate](https://open.spotify.com/track/0C4F3PRqJv5sNQnRl4vq5q) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV) | [99 chocolate](https://open.spotify.com/album/7HfbS848JHu1J1KbiOFNjv) | 2:27 | 2024-06-20 | 2024-07-19 |
 | [Alexis](https://open.spotify.com/track/5P5Xe5Mgv9jCSKE8ZBWoBi) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [Alexis](https://open.spotify.com/album/77h7uZNa1mhsB3tOJ7aCWJ) | 2:16 | 2024-03-28 |  |
@@ -414,7 +415,7 @@
 | [把我帶走 \- 影集《美食無間》片尾曲](https://open.spotify.com/track/5sF0M9iWC6s7rCU6ffCH7N) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [把我帶走 \(影集《美食無間》片尾曲\)](https://open.spotify.com/album/2PnBnBufHtr6DHqtq2wyFA) | 4:10 | 2023-11-16 | 2024-01-26 |
 | [把所有的愛都揮霍](https://open.spotify.com/track/2bkU3k04LPBUzFSgPJvsB3) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [把所有的愛都揮霍](https://open.spotify.com/album/0wG64jKhXBFqzQ6yclsx7N) | 3:03 | 2023-09-28 | 2024-03-08 |
 | [把水開著](https://open.spotify.com/track/57lRcHjnhAEeYfwFlXsUmk) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0), [吳仲棋](https://open.spotify.com/artist/0Tf1nznzmugla1yD8vqjRo) | [把水開著](https://open.spotify.com/album/37vIh6I03bNlWKlVMjGRK3) | 3:53 | 2024-07-25 | 2024-08-02 |
-| [指針](https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [指針](https://open.spotify.com/album/199fdqkmbpLutKUAshUUdQ) | 2:14 | 2024-03-28 |  |
+| [指針](https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [指針](https://open.spotify.com/album/199fdqkmbpLutKUAshUUdQ) | 2:14 | 2024-03-28 | 2024-11-01 |
 | [挨你一枪](https://open.spotify.com/track/2pYc1VfhWKv1vzOgrJEdgS) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [挨你一枪](https://open.spotify.com/album/7jwuZcuW6pK95pUTa06gxi) | 3:51 | 2022-02-03 | 2022-10-28 |
 | [捉摸不定 \(prod.Allen Flex\)](https://open.spotify.com/track/2RakDenD3BItPvykz6qh51) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [紙飛機](https://open.spotify.com/album/6ihVhJds67m09BksN2MGKW) | 2:49 | 2024-05-09 | 2024-08-02 |
 | [排隊](https://open.spotify.com/track/3eZyBeP7MKYSfeapkq5RcL) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [排隊](https://open.spotify.com/album/4XeMBwFZbyaTpsoUdn4qFX) | 3:57 | 2024-02-15 | 2024-03-29 |

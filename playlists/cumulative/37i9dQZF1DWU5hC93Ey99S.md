@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-690 songs - 1 day 12 hr 53 min
+692 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [All my life](https://open.spotify.com/track/43oxw0Qh1iGEy58PV0ppl4) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [All my life](https://open.spotify.com/album/7yMeoIHEJ161J1q1t1LjCL) | 2:42 | 2024-08-08 |  |
 | [All Night](https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:34 | 2023-07-07 | 2024-04-19 |
 | [All Night](https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All Night](https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry) | 3:34 | 2023-04-13 |  |
+| [All Night On My Own](https://open.spotify.com/track/4hd01RIHFRlBLh0sfOyjT2) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [All Night On My Own](https://open.spotify.com/album/6xbEGQEczwqCG7g9sqvq50) | 2:12 | 2024-10-31 |  |
 | [all over my body](https://open.spotify.com/track/3TEKXl5Wdhi5oWrFbOoTF6) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [all over my body](https://open.spotify.com/album/614zD2PkAmJiq1kgmIztzn) | 2:16 | 2023-06-08 | 2024-01-06 |
 | [all these little words](https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [all these little words](https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ) | 2:17 | 2024-06-20 |  |
 | [ALL U ARE \- Just A Gent Remix](https://open.spotify.com/track/6lqt3XeLmeGfg8osgFql0z) | [LYNAR](https://open.spotify.com/artist/66vddhU28sW74nhLR0sssV), [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [ALL U ARE \(Remixes\)](https://open.spotify.com/album/0BtzOEpyCAzHPiG4UqW0po) | 3:07 | 2023-08-10 | 2023-08-18 |
@@ -363,6 +364,7 @@
 | [Lost](https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Lost](https://open.spotify.com/album/2qzCGspVB8DdrxAmZVzTKO) | 3:44 | 2024-02-15 |  |
 | [Lost](https://open.spotify.com/track/2gPlXEZuNmKwbS6GGcfsJ9) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [Lind](https://open.spotify.com/artist/6ZQBXGkfsnDOQjTnb2lGMI) | [Lost](https://open.spotify.com/album/7oxGGHmcPDXDWxnRnnoQCv) | 2:17 | 2024-07-25 |  |
 | [Lost In The Melody](https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Lost In The Melody](https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj) | 3:02 | 2024-01-11 |  |
+| [Lost My Mind](https://open.spotify.com/track/3egNACX53COC9uKcjJQGdv) | [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Lost My Mind](https://open.spotify.com/album/6fmzWk1gb1HqDP17PgNpch) | 2:24 | 2024-10-31 |  |
 | [Lost My Mind \(Wake Up\)](https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Lost My Mind \(Wake Up\)](https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw) | 2:27 | 2023-04-13 |  |
 | [Love](https://open.spotify.com/track/2JCFm7pOuEP0cItCq6t3bd) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Love](https://open.spotify.com/album/31UkJWhnRd88KsL0PiD4G2) | 2:50 | 2023-09-07 | 2024-01-06 |
 | [Love Again](https://open.spotify.com/track/6tjRkYHGxEHqlS4eOrRQpX) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [Marco Lollis](https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI) | [Love Again](https://open.spotify.com/album/5S5JLPWD3TcdpJ6EUKY5Qr) | 2:59 | 2023-10-27 | 2024-01-06 |

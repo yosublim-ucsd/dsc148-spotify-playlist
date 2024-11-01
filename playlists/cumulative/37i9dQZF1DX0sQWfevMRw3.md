@@ -4,7 +4,7 @@
 
 > DET GÅR UPP O NER!!
 
-1,228 songs - 2 day 3 hr 19 min
+1,230 songs - 2 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Dum](https://open.spotify.com/track/0XyW3J1Qq8w3fZZ45WvvVP) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Dum](https://open.spotify.com/album/5aLLKeuqEPvo1bq1Ph6VtT) | 2:48 | 2021-12-16 | 2022-04-22 |
 | [Dum](https://open.spotify.com/track/3fd8cxZvehZNFD8KUri30T) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Dum](https://open.spotify.com/album/0zGsicnETkTL5A9UIqwXeG) | 2:48 | 2022-08-25 | 2023-02-17 |
 | [Dum](https://open.spotify.com/track/3fneVsIBA5RkkXsQhOW7pn) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Dum](https://open.spotify.com/album/7sx7OC97FRNt0jg097FHRH) | 2:48 | 2023-02-16 | 2023-04-01 |
+| [Dum av dig](https://open.spotify.com/track/6fn0GbVwx3wKQOAfda70H4) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Dum av dig](https://open.spotify.com/album/6bKGQJGtKmKZro0QnCuia4) | 2:51 | 2024-10-31 |  |
 | [Dum Dum Dum](https://open.spotify.com/track/0kOqNYRae0oSmreMGCfyPe) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm) | [Dum Dum Dum](https://open.spotify.com/album/0OzU6KRb88BHeBPpkPYqVc) | 2:45 | 2021-12-16 | 2022-04-15 |
 | [Dum i haue](https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Dum i haue](https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU) | 2:24 | 2023-08-17 | 2024-04-26 |
 | [DUM I HUVET](https://open.spotify.com/track/2JjQCaKmPM0oNkZdftKV8m) | [Coola Kids](https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq), [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Kiran](https://open.spotify.com/artist/5zYIHfWBraSUpUZvJX34xX) | [DUM I HUVET](https://open.spotify.com/album/5Q81CbNdICrpq0KMrNKCts) | 2:20 | 2024-01-01 | 2024-09-27 |
@@ -606,6 +607,7 @@
 | [Kill Me Slow](https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [New Rave](https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml) | 3:28 | 2021-12-16 | 2022-04-16 |
 | [KLAMYDIA](https://open.spotify.com/track/5B1DtTYmgPEuGN26kPhE43) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [KLAMYDIA](https://open.spotify.com/album/5mIF1TlZRyKw7RqZpfCN7w) | 2:39 | 2022-08-25 | 2022-12-16 |
 | [KNÖX WHITE](https://open.spotify.com/track/3k8M5AGx0L4sfWqhNyZAj7) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [KNÖX WHITE](https://open.spotify.com/album/4NiRSHFaO23np4CplJgNlX) | 2:10 | 2023-02-02 | 2023-04-14 |
+| [Kom](https://open.spotify.com/track/6nzee0djBZjerVVRXP70iR) | [Dolores](https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP) | [Kom](https://open.spotify.com/album/61wGDDLTHC9UAbZ7NYh08R) | 2:32 | 2024-10-31 |  |
 | [Kom hem](https://open.spotify.com/track/19teyCxcTkj1HsjvczHi1n) | [Jonzon](https://open.spotify.com/artist/3f0cvh2BMxrJp4Aiirm5jZ) | [Kom hem](https://open.spotify.com/album/04Oc7w9rIfdX2GApRFAST8) | 2:53 | 2023-06-15 | 2023-08-04 |
 | [Kom Igjen](https://open.spotify.com/track/1Utgcoca22whjbg5uVozdJ) | [Smörebua](https://open.spotify.com/artist/3choMl26IyqK5yBJPwN2Qk) | [Kom Igjen](https://open.spotify.com/album/6OgQHLuIRtL2BNvxxDcrql) | 2:35 | 2023-08-10 | 2023-09-01 |
 | [Kom och rulla i mitt rullande hus](https://open.spotify.com/track/2Wf26qAnW8SeB2GsXRMITN) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Kom och rulla i mitt rullande hus](https://open.spotify.com/album/6gh9xUtJViqf6FpM0J2DgF) | 2:49 | 2023-02-16 | 2023-04-07 |

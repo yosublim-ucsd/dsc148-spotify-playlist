@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396,440 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396,427 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 47 | [Death by Rock and Roll](https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death by Rock and Roll](https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX) | 3:54 |
 | 48 | [Open Your Eyes](https://open.spotify.com/track/5315Z6xurVwPxLivHKCidH) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 3:50 |
 | 49 | [Alarm](https://open.spotify.com/track/0xXDWZre8pbWXG6ERdVPof) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Alarm](https://open.spotify.com/album/4C1YUIIGfDYulvbNzHNWXJ) | 2:28 |
-| 50 | [Sugar](https://open.spotify.com/track/71H2SB2sNLUuGvZ8iV02cT) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Sugar](https://open.spotify.com/album/5C7ycA5j67dfbzOGcIWXWl) | 3:29 |
-| 51 | [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 |
-| 52 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 |
+| 50 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 |
+| 51 | [Sugar](https://open.spotify.com/track/71H2SB2sNLUuGvZ8iV02cT) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Sugar](https://open.spotify.com/album/5C7ycA5j67dfbzOGcIWXWl) | 3:29 |
+| 52 | [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 |
 | 53 | [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 |
 | 54 | [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 |
 | 55 | [Love Bites \(So Do I\)](https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Hello, It's Mz\. Hyde](https://open.spotify.com/album/1b9y3Jp9B2BllmRLMFcFXE) | 3:12 |
 | 56 | [Get out of My Head](https://open.spotify.com/track/3RZXQB6zCmH4isPCM5nY4n) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Brain Pain](https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1) | 3:10 |
-| 57 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 |
-| 58 | [HEADSPACE FT\. POORSTACY](https://open.spotify.com/track/2DS4qUfuEvFljkXZXka2pu) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [HEADSPACE FT\. POORSTACY](https://open.spotify.com/album/2EewozkWB7xAUMFCRgwgyd) | 3:11 |
-| 59 | [Hourglass \(feat\. Dani Winter\-Bates\)](https://open.spotify.com/track/7CrI4vI7wOk3ydMrmANGan) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6), [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Hourglass \(feat\. Dani Winter\-Bates\)](https://open.spotify.com/album/1HB9v2MwL7oRqI4LTa89iw) | 5:01 |
-| 60 | [Echoes](https://open.spotify.com/track/56JR97o31WY8Z985KZpqvJ) | [Sundazer](https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ) | [Echoes](https://open.spotify.com/album/1enn06oSOlRXnLCXeOIkSi) | 3:41 |
+| 57 | [HEADSPACE FT\. POORSTACY](https://open.spotify.com/track/2DS4qUfuEvFljkXZXka2pu) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [HEADSPACE FT\. POORSTACY](https://open.spotify.com/album/2EewozkWB7xAUMFCRgwgyd) | 3:11 |
+| 58 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 |
+| 59 | [Echoes](https://open.spotify.com/track/56JR97o31WY8Z985KZpqvJ) | [Sundazer](https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ) | [Echoes](https://open.spotify.com/album/1enn06oSOlRXnLCXeOIkSi) | 3:41 |
+| 60 | [Hourglass \(feat\. Dani Winter\-Bates\)](https://open.spotify.com/track/7CrI4vI7wOk3ydMrmANGan) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6), [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Hourglass \(feat\. Dani Winter\-Bates\)](https://open.spotify.com/album/1HB9v2MwL7oRqI4LTa89iw) | 5:01 |
 
 Snapshot ID: `ZwUfiwAAAADBETqfSnDO/juntC08acoo`

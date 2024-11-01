@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,887 likes - 150 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,890 likes - 150 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 30 | [Frobidden Fruit](https://open.spotify.com/track/1YYtVHoUXAs5QmUhNhaHFV) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Elixir](https://open.spotify.com/album/57IqUSKa4OY7PPhrMcTVyb) | 3:22 |
 | 31 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/62UvwY9URklShrC79EU8GJ) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/68PYCuVALrVfM9a6RcuQgN) | 5:07 |
 | 32 | [Warm \- Album Mix](https://open.spotify.com/track/6QvJtPAuUWtPzC87raT6x3) | [Brad Rambur](https://open.spotify.com/artist/5qc0Q7HXExyq5FHLe3Hbo7) | [Can't Put It Down](https://open.spotify.com/album/4SPSHIRgAoDxwWAr0K03Ln) | 4:35 |
-| 33 | [Hard Work \(feat\. Michael O'Hara\)](https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Michael O'Hara](https://open.spotify.com/artist/7snMO6N0CoAKYdO3wJQzHQ) | [I'm Back](https://open.spotify.com/album/35LyXPSnkCbeQ6aYIHpIFi) | 4:12 |
+| 33 | [Hard Work](https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Michael O'Hara](https://open.spotify.com/artist/7snMO6N0CoAKYdO3wJQzHQ) | [I'm Back](https://open.spotify.com/album/35LyXPSnkCbeQ6aYIHpIFi) | 4:12 |
 | 34 | [Slam Dunk](https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 4:40 |
 | 35 | [Skinny Dippin'](https://open.spotify.com/track/5pzOW4Bw5BKWx3I5yYiY0I) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/5e7v05kF0hFrTtLnZ57WxJ) | 4:33 |
 | 36 | [Stone Groove](https://open.spotify.com/track/2yrXGvn1lnySUjrniThAWS) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Pure](https://open.spotify.com/album/2UBOcVHIGEXwaZgBMifGhK) | 4:45 |

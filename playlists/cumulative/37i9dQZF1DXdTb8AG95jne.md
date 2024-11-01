@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: SURL\(설\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-787 songs - 2 day 0 hr 6 min
+788 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [All My Friends Kill Me](https://open.spotify.com/track/4C8qPNCHXKTYD56KrPzKQP) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [All My Friends Kill Me](https://open.spotify.com/album/12oTig0EoVdptk5abXIcJ9) | 3:02 | 2022-07-04 | 2022-07-09 |
 | [Aloha 알로하](https://open.spotify.com/track/5493pPnFuPUaivtqso3NJo) | [ourlingo](https://open.spotify.com/artist/7zXov1xoHzEmIcnA83HjIR) | [Aloha 알로하](https://open.spotify.com/album/1bUgeTDXvqO8D3TESAhot7) | 4:05 | 2022-03-31 | 2022-07-06 |
 | [Alone](https://open.spotify.com/track/3gdNDVytyAtgqSCRNWgqMw) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:57 | 2022-03-31 | 2022-04-11 |
+| [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 | 2024-10-31 |  |
 | [AMEN](https://open.spotify.com/track/1b32HPWdqHd2Io2KazkQmX) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [AMEN](https://open.spotify.com/album/4dwIdY0b2fBND9ozn1t7ui) | 2:17 | 2021-12-21 | 2022-04-16 |
 | [An Empiricist](https://open.spotify.com/track/1jjfnYIMlvmzna7yZmXgGx) | [JAE BEE POP KEY](https://open.spotify.com/artist/4FBZVYeGQnd6OWH8hPdioM) | [We](https://open.spotify.com/album/4nmgB5pSZhxKsLEoSrI9Gf) | 3:04 | 2022-03-21 | 2022-04-11 |
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-05-03 | 2024-05-15 |
@@ -743,7 +744,7 @@
 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 | 2022-07-27 | 2024-04-19 |
 | [Wonder](https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:55 | 2021-12-21 | 2022-07-29 |
 | [WOODLAND 푸르던](https://open.spotify.com/track/7hSpkFR4umYfTdwAbGlkUb) | [Besweet](https://open.spotify.com/artist/0grUBAiZwYyGykIxK6UjW8) | [WOODLAND 푸르던](https://open.spotify.com/album/7ItB3jPiPLGAeARn3YzSHp) | 3:54 | 2022-04-12 | 2022-04-21 |
-| [work, shit, sleep](https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [work, shit, sleep](https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0) | 3:22 | 2023-12-18 |  |
+| [work, shit, sleep](https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [work, shit, sleep](https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0) | 3:22 | 2023-12-18 | 2024-11-01 |
 | [Worries 걱정](https://open.spotify.com/track/5dBREAFlHitnu99IHDQi4l) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/4juD3p5xvgts6zCQzlQYKl) | 7:47 | 2022-03-31 | 2022-04-21 |
 | [written on a leaf](https://open.spotify.com/track/4DdynawjdYLn81mdfaqZKM) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [written on a leaf](https://open.spotify.com/album/5EbUl4ypzZl5YmRfqIdjin) | 3:45 | 2022-03-18 | 2022-07-15 |
 | [Wrong question](https://open.spotify.com/track/6wzGqTvlpSpnr1qgSZSQ2O) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [THIRSTY](https://open.spotify.com/album/7dSqbQ9mGpHdlkLk7rBFuO) | 3:15 | 2022-03-31 | 2022-06-21 |

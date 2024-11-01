@@ -1,15 +1,15 @@
 {
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak:  Aksan x UZI",
-  "num_followers": 1377482,
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive",
+  "num_followers": 1377683,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxq2oQAAAABWtO2T7tRmQ7q0XO4bjSF7",
+  "snapshot_id": "ZyPv0AAAAACCb9OrGGfp5H6fPj91eu4j",
   "tracks": [
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Kan\u0131tland\u0131k",
         "url": "https://open.spotify.com/album/17lncZtNv43ABznkL46Eia"
@@ -29,23 +29,7 @@
       "url": "https://open.spotify.com/track/5VjH7PZSH1CH0YtDSAkDk1"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "S\u00f6nen Sigaralar",
-      "url": "https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Bridges",
         "url": "https://open.spotify.com/album/5H6tDCCQ2QK3OftBeWT0Ze"
@@ -65,7 +49,7 @@
       "url": "https://open.spotify.com/track/1TP5FtFJoaQkL1k0FOfizI"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
@@ -81,7 +65,23 @@
       "url": "https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
+      "album": {
+        "name": "bir",
+        "url": "https://open.spotify.com/album/4S37FYWdzEt0yJivzUIZFg"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "bir",
+      "url": "https://open.spotify.com/track/1n8qmohilJOAog1PmMCTZM"
+    },
+    {
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "PRENSES",
         "url": "https://open.spotify.com/album/44BLCsDbownvFI59OzlBgX"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "P\u0130\u015eT",
         "url": "https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/2ugG3itPOpM9IANApt473B"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "9mm",
         "url": "https://open.spotify.com/album/48z19Z1hAbwHucnqX1UemL"
@@ -133,7 +133,43 @@
       "url": "https://open.spotify.com/track/4X5si99I9YSbJ12g2yL6gh"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
+      "album": {
+        "name": "\u00d6nemi Yok",
+        "url": "https://open.spotify.com/album/2mQIXoB47tJoCpVvW0gbQY"
+      },
+      "artists": [
+        {
+          "name": "Da Poet",
+          "url": "https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk"
+        },
+        {
+          "name": "Kayra",
+          "url": "https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3"
+        }
+      ],
+      "duration_ms": 209028,
+      "name": "\u00d6nemi Yok",
+      "url": "https://open.spotify.com/track/5UMJHh4pgSgArc2As21D5n"
+    },
+    {
+      "added_at": "2024-10-31 21:00:00",
+      "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "S\u00f6nen Sigaralar",
+      "url": "https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93"
+    },
+    {
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "HER YER FAVELA",
         "url": "https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb"
@@ -161,7 +197,7 @@
       "url": "https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "G\u00f6rev Gibi Ya\u015fa",
         "url": "https://open.spotify.com/album/2F9y4BHmsOVHeOhddw3QqF"
@@ -177,7 +213,23 @@
       "url": "https://open.spotify.com/track/2RATsCDoBcGqG9iZNT9qQQ"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
+      "album": {
+        "name": "FAMILIA FOCUS",
+        "url": "https://open.spotify.com/album/66mMlnR0TkNu8AONRXtvow"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        }
+      ],
+      "duration_ms": 169726,
+      "name": "FAMILIA FOCUS",
+      "url": "https://open.spotify.com/track/1VLFjwYSbn8ItaRdQQg45K"
+    },
+    {
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "D\u00fc\u015fmez Kalkmaz",
         "url": "https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer"
@@ -193,7 +245,7 @@
       "url": "https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "ELJF",
         "url": "https://open.spotify.com/album/1XBzpP2NxTZxBVQxGoF188"
@@ -209,7 +261,7 @@
       "url": "https://open.spotify.com/track/7buaashi0m3aWO90fRreVh"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "DOLDURDUM TABANCAMI",
         "url": "https://open.spotify.com/album/0JGt0C0lfBsn2hY0HZAB1J"
@@ -229,7 +281,7 @@
       "url": "https://open.spotify.com/track/6fn6Us7sHiBY2kanqgub8D"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Pus*y Magnet",
         "url": "https://open.spotify.com/album/1rqS6TcjErjXnddaNhfUkg"
@@ -245,7 +297,7 @@
       "url": "https://open.spotify.com/track/7nllCYpEu99mu8T6mlqUOz"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "KASA ORIJINAL",
         "url": "https://open.spotify.com/album/1kIKNCYnhNNVSfE6E7U4fT"
@@ -269,7 +321,27 @@
       "url": "https://open.spotify.com/track/6sVqMxZnOMyZrATLR6v5Ft"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
+      "album": {
+        "name": "Ant",
+        "url": "https://open.spotify.com/album/2NyQx8G24Ss4tFGbrKdNCE"
+      },
+      "artists": [
+        {
+          "name": "Rota",
+          "url": "https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB"
+        },
+        {
+          "name": "Defkhan",
+          "url": "https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "D.\u0130.G",
+      "url": "https://open.spotify.com/track/4IvsbfYiKiM7jXSkvczSVh"
+    },
+    {
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Ucubeler",
         "url": "https://open.spotify.com/album/1XWZW11ohfj9iFYwHYz6NH"
@@ -285,7 +357,7 @@
       "url": "https://open.spotify.com/track/0MzO6ISeqQsHCSEtyzck2m"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "OBSESIF",
         "url": "https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic"
@@ -301,7 +373,7 @@
       "url": "https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Senle Ben",
         "url": "https://open.spotify.com/album/1EHtaUDiYBycqYDhHyPZog"
@@ -317,7 +389,7 @@
       "url": "https://open.spotify.com/track/0APrifqDZH9Ip6Nnmitin6"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "MONA LISA",
         "url": "https://open.spotify.com/album/5Gm2EfvHhNu1Nkd1WMMfUW"
@@ -337,7 +409,7 @@
       "url": "https://open.spotify.com/track/5iv8MCBz7UVcxRN670N4aX"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Karard\u0131 Bulutlar",
         "url": "https://open.spotify.com/album/5QhPb4USrsjUD3i5PWJjqk"
@@ -353,7 +425,7 @@
       "url": "https://open.spotify.com/track/1fxl1Lf3URpDDQFBOeEMlD"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "IZOLE LIFE",
         "url": "https://open.spotify.com/album/5JTOxclRe8i4rZaftOnkhT"
@@ -369,7 +441,7 @@
       "url": "https://open.spotify.com/track/4QsiJ5td5T5r201CaO359S"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "I WANNA DANCE",
         "url": "https://open.spotify.com/album/3wnbZnVv0zchJ5fGOVn21d"
@@ -389,7 +461,7 @@
       "url": "https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "OBSESIF",
         "url": "https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic"
@@ -405,7 +477,7 @@
       "url": "https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "OF OF OF",
         "url": "https://open.spotify.com/album/0WEq08VBCgEfPh3Hw6dlav"
@@ -425,7 +497,7 @@
       "url": "https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "DOMDOM",
         "url": "https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X"
@@ -441,23 +513,7 @@
       "url": "https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "pVg",
-        "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
-      },
-      "artists": [
-        {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        }
-      ],
-      "duration_ms": 243779,
-      "name": "pVg",
-      "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "De\u011fi\u015fmene Ra\u011fmen",
         "url": "https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz"
@@ -473,7 +529,7 @@
       "url": "https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "D\u00fc\u011f\u00fcn Dernek",
         "url": "https://open.spotify.com/album/6TFX8uJkgHnoZ37GNoFoEg"
@@ -489,7 +545,7 @@
       "url": "https://open.spotify.com/track/6dQJfND64RJy6xJQMsc3ij"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Yetmedi",
         "url": "https://open.spotify.com/album/3V0ymncsPOu1uK4ufGV2zt"
@@ -509,7 +565,7 @@
       "url": "https://open.spotify.com/track/5TxqI3DLEbMVJkyVgentxd"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "7EDI",
         "url": "https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7"
@@ -529,7 +585,7 @@
       "url": "https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "ESC*BAR",
         "url": "https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI"
@@ -545,7 +601,7 @@
       "url": "https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "TEMPO",
         "url": "https://open.spotify.com/album/1GftyXEspbaRxHj6lA2s1f"
@@ -565,7 +621,7 @@
       "url": "https://open.spotify.com/track/076Dr6X4H6hoAML95QVlhn"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/3v5bQhGBimvJJrvmhb2mR8"
@@ -581,7 +637,7 @@
       "url": "https://open.spotify.com/track/3blRKhNNedjdZFR0b9Wtxw"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Kadehimi Bo\u015f B\u0131rakma",
         "url": "https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH"
@@ -597,7 +653,7 @@
       "url": "https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "CISTAK",
         "url": "https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb"
@@ -621,7 +677,7 @@
       "url": "https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "behzat \u00e7",
         "url": "https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW"
@@ -641,7 +697,7 @@
       "url": "https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Shoote Shoote",
         "url": "https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC"
@@ -657,7 +713,7 @@
       "url": "https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "SAGOLUYORUM (BIG TERORISTA)",
         "url": "https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9"
@@ -673,23 +729,7 @@
       "url": "https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Dale Don Dale",
-        "url": "https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV"
-      },
-      "artists": [
-        {
-          "name": "ElMusto",
-          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
-        }
-      ],
-      "duration_ms": 118104,
-      "name": "Dale Don Dale",
-      "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ"
@@ -709,7 +749,7 @@
       "url": "https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Kaptan",
         "url": "https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "LAF",
         "url": "https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O"
@@ -741,7 +781,7 @@
       "url": "https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Kennedy'i Ben Vurdum",
         "url": "https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq"
@@ -757,7 +797,7 @@
       "url": "https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Ho\u015f\u00e7akal",
         "url": "https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps"
@@ -773,31 +813,7 @@
       "url": "https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "A La Carte",
-        "url": "https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD"
-      },
-      "artists": [
-        {
-          "name": "Kleo",
-          "url": "https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm"
-        },
-        {
-          "name": "Segah",
-          "url": "https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P"
-        },
-        {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        }
-      ],
-      "duration_ms": 155833,
-      "name": "A La Carte",
-      "url": "https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Asosyal",
         "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "JET BABA",
         "url": "https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Kalbim Yan\u0131mda",
         "url": "https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "ROMANT\u0130K",
         "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
@@ -865,27 +881,7 @@
       "url": "https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Cesaret",
-        "url": "https://open.spotify.com/album/00HFD6omZZg5Fj1zH4QRMT"
-      },
-      "artists": [
-        {
-          "name": "Muti",
-          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
-        },
-        {
-          "name": "Heijan",
-          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
-        }
-      ],
-      "duration_ms": 158099,
-      "name": "Cesaret",
-      "url": "https://open.spotify.com/track/4LPfP8XzAp7OESNP28AUFB"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 21:00:00",
       "album": {
         "name": "Telefon",
         "url": "https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz"

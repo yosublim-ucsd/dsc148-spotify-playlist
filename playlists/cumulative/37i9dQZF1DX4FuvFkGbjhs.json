@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Mk.gee",
+  "description": "Beyond titles, beyond genre. Cover: Joesef",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 226000,
       "name": "2018",
       "url": "https://open.spotify.com/track/6S9sqqVGCau6PzteziaEIn"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 157120,
       "name": "Behind The Curtain",
       "url": "https://open.spotify.com/track/6I4qOLo0kWFbCXRsJtU8vz"
@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "Charlie (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291536,
+      "name": "Charlie (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa"
+    },
+    {
+      "album": {
         "name": "Chicago Town",
         "url": "https://open.spotify.com/album/1s7bTGiLQ3Rk37FD7Zicqf"
       },
@@ -1044,6 +1066,24 @@
       "duration_ms": 310361,
       "name": "cutting grass",
       "url": "https://open.spotify.com/track/0ppaXTvuIgsCIEws6shvAX"
+    },
+    {
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0"
     },
     {
       "album": {
@@ -1444,6 +1484,24 @@
       "duration_ms": 223904,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2"
+    },
+    {
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/55DFqfotSUPU7MSv6NuK8m"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Palladino",
+          "url": "https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202735,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0"
     },
     {
       "album": {
@@ -1995,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Gold Smile",
+        "url": "https://open.spotify.com/album/1YEqevtN9SNTalSEaB5KNn"
+      },
+      "artists": [
+        {
+          "name": "Marti Perramon",
+          "url": "https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Gold Smile",
+      "url": "https://open.spotify.com/track/0vjObNruhRFeBgNxe3gtAa"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
       },
@@ -2006,7 +2082,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 201111,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
@@ -2158,7 +2234,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 172458,
       "name": "HEADSPIN",
       "url": "https://open.spotify.com/track/6Q9IDjXL9XRy7TXY1oTjHF"
@@ -2220,7 +2296,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
@@ -2314,7 +2390,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 183846,
       "name": "I am the King",
       "url": "https://open.spotify.com/track/5BD2sRwZBmAcS649vipoAq"
@@ -2536,6 +2612,28 @@
       "duration_ms": 212866,
       "name": "Image",
       "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
+    },
+    {
+      "album": {
+        "name": "Image (Grimes Special)",
+        "url": "https://open.spotify.com/album/5GrbD3XhTH6jyvLTwRJpji"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215454,
+      "name": "Image - Grimes Special",
+      "url": "https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT"
     },
     {
       "album": {
@@ -2799,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Kiss the Sky",
+        "url": "https://open.spotify.com/album/6KIv0vhfV7zoeIFJrEXZou"
+      },
+      "artists": [
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202243,
+      "name": "Kiss the Sky",
+      "url": "https://open.spotify.com/track/3KoqvqNTmRpOpDhhzpWUmD"
+    },
+    {
+      "album": {
         "name": "kisses (Daniel Avery Remix) b/w kisses - sky ii",
         "url": "https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD"
       },
@@ -2818,6 +2934,24 @@
       "duration_ms": 211629,
       "name": "kisses - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw"
+    },
+    {
+      "album": {
+        "name": "Heaven's A Lonely Place",
+        "url": "https://open.spotify.com/album/14bpn72iaC3QTtva2PYoQm"
+      },
+      "artists": [
+        {
+          "name": "Koteri",
+          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160908,
+      "name": "Know It All",
+      "url": "https://open.spotify.com/track/6T1mTUx2LKIw1INNOwFFhG"
     },
     {
       "album": {
@@ -2983,6 +3117,28 @@
     },
     {
       "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278014,
+      "name": "Like Him (feat. Lola Young)",
+      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
+    },
+    {
+      "album": {
         "name": "Lonely Fight",
         "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
       },
@@ -2994,7 +3150,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 229169,
       "name": "Lonely Fight",
       "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
@@ -3470,7 +3626,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 269334,
       "name": "Night Green, Heavy Love",
       "url": "https://open.spotify.com/track/24YL0yluuZMXFraR2AI35c"
@@ -3676,7 +3832,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 182500,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/1TkEWeHCOXZF9Y7m54Qwcf"
@@ -3814,6 +3970,24 @@
       "duration_ms": 189268,
       "name": "Petit Boy",
       "url": "https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E"
+    },
+    {
+      "album": {
+        "name": "Phantom Island",
+        "url": "https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316137,
+      "name": "Phantom Island",
+      "url": "https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp"
     },
     {
       "album": {
@@ -4124,7 +4298,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 154072,
       "name": "Running Around (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/7ltvxs2OBCccy0p7Ka4PIj"
@@ -4305,6 +4479,24 @@
     },
     {
       "album": {
+        "name": "YAFA",
+        "url": "https://open.spotify.com/album/5MT6po8jCHwMfZWuBpsTim"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140067,
+      "name": "SET HER FREE!",
+      "url": "https://open.spotify.com/track/2am3CrIbWoGJBAkgq6GaBY"
+    },
+    {
+      "album": {
         "name": "Set It Free [Feat. Richie]",
         "url": "https://open.spotify.com/album/4cHbKnuwv6Y9EmEWvefqgY"
       },
@@ -4360,7 +4552,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 171141,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1keltSbtxb5JeAiCfcVYeh"
@@ -4472,6 +4664,28 @@
       "duration_ms": 186133,
       "name": "SNL",
       "url": "https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV"
+    },
+    {
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197019,
+      "name": "St. Chroma (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
     },
     {
       "album": {
@@ -5569,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "x-ray eyes",
+        "url": "https://open.spotify.com/album/0NXggkTAhL1M8NOz7tfzAt"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291506,
+      "name": "x-ray eyes",
+      "url": "https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY"
+    },
+    {
+      "album": {
         "name": "INTRO",
         "url": "https://open.spotify.com/album/6nLhO0HjISaaG6Snxi8nMF"
       },
@@ -5616,7 +5848,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 121884,
       "name": "You're the Best",
       "url": "https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE"
@@ -5634,7 +5866,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 282926,
       "name": "Your Future Self",
       "url": "https://open.spotify.com/track/0GWFtOdfZhtpq2dimXZrLr"

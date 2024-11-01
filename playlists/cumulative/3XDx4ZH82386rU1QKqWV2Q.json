@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 160000,
       "name": "808s On The Beach",
       "url": "https://open.spotify.com/track/1EUUPqKP0hxfwNecMxcljR"
@@ -2347,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "DAN\u00c7A DA ALMA",
+        "url": "https://open.spotify.com/album/320fG5aYlkc0JKJAqZG78l"
+      },
+      "artists": [
+        {
+          "name": "Mannequin",
+          "url": "https://open.spotify.com/artist/3btewOJD9jMKKrn5IV7nFj"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84932,
+      "name": "DAN\u00c7A DA ALMA",
+      "url": "https://open.spotify.com/track/3E9EgHIzlQ5QslHf5SU15t"
+    },
+    {
+      "album": {
         "name": "DAN\u00c7ANDO COM A MORTE",
         "url": "https://open.spotify.com/album/5Th4Pj1CdxtLcsx8m2bbSb"
       },
@@ -3469,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "EXTREME",
+        "url": "https://open.spotify.com/album/4Qr5DxJAutEizkzGRwX2Gw"
+      },
+      "artists": [
+        {
+          "name": "WND",
+          "url": "https://open.spotify.com/artist/6HVlywds2o16c84d0GkNsD"
+        },
+        {
+          "name": "\u00f8neshot",
+          "url": "https://open.spotify.com/artist/06hiUsbapyJAvldk2biUVV"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110514,
+      "name": "EXTREME",
+      "url": "https://open.spotify.com/track/5OifKo2LQnBFsl7PpP69hk"
+    },
+    {
+      "album": {
         "name": "EYE",
         "url": "https://open.spotify.com/album/1nzT6TLIT8QmZyrwl7sNfM"
       },
@@ -3576,6 +3616,24 @@
       "duration_ms": 154000,
       "name": "FALL DREAM",
       "url": "https://open.spotify.com/track/4koI6waW7ZxX7A736yvTtO"
+    },
+    {
+      "album": {
+        "name": "falling",
+        "url": "https://open.spotify.com/album/0mXNGZn6XQfyLjfdTycMQ7"
+      },
+      "artists": [
+        {
+          "name": "n$vd",
+          "url": "https://open.spotify.com/artist/3Ze7UFWG1gRIQncEmOdf25"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "falling",
+      "url": "https://open.spotify.com/track/0eE7XC9zTrPkXRjwWp0Mvx"
     },
     {
       "album": {
@@ -4460,7 +4518,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 139354,
       "name": "GOOD THINGS",
       "url": "https://open.spotify.com/track/4611m6Jm22ubazDBLiumYF"
@@ -10830,7 +10888,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 183829,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1gJEzjFqTmceZhByC5quw3"

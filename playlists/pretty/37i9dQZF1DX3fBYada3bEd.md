@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fBYada3bEd.md) - [plain]
 
 > Sing along to these tunes about everything you can find on the farm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,758 likes - 59 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,757 likes - 59 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fBYada3bEd.md) - [plain]
 | 27 | [Four Little Duckies](https://open.spotify.com/track/0wgqHDiVFNBM4eevAF2SEp) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Ralph's World](https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa) | 2:47 |
 | 28 | [This Little Piggy](https://open.spotify.com/track/0Dj0uuiaI5F9OGMARaWUqz) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 2](https://open.spotify.com/album/0Dke1pYG9ej0mSl7VyTBUP) | 1:37 |
 | 29 | [My Poor Farmer Friend](https://open.spotify.com/track/7N373BaOXa9UjPfLXwM9EG) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [My Poor Farmer Friend](https://open.spotify.com/album/1d6pWovkkDfxc5wzLMW56h) | 2:55 |
-| 30 | [Live Love Farming](https://open.spotify.com/track/7AZkJgq5zlPcZycHWGIVkc) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Barbie Dream Jobs](https://open.spotify.com/album/185HaDUdT8Sc5Z7lZzfjPR) | 2:40 |
+| 30 | [Live Love Farming](https://open.spotify.com/track/7AZkJgq5zlPcZycHWGIVkc) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Barbie Dream Jobs](https://open.spotify.com/album/185HaDUdT8Sc5Z7lZzfjPR) | 2:40 |
 | 31 | [Counting Ducks Song](https://open.spotify.com/track/2XGBwiSqhsW9q8pW4AidEg) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs and Nursery Rhymes for Children, Vol\. 3 \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/2wHrjY2KwfaFSKpZgnvILo) | 1:31 |
 | 32 | [Working on the Farm](https://open.spotify.com/track/06HgOwvBfxzUC0VVyNaOMO) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Working on the Farm](https://open.spotify.com/album/5FuEOoSK6p139wV3fegYhZ) | 3:21 |
 | 33 | [The Scarecrow Song](https://open.spotify.com/track/0P5xO1ryLq5VINGHO2jejo) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR), [Emma Hutchinson](https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya) | [Nature With Me](https://open.spotify.com/album/194T0fURuku2acIhl62a6S) | 1:50 |

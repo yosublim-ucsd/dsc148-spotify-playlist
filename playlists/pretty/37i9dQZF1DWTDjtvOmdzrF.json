@@ -679,22 +679,6 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Melukis Senja",
-        "url": "https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 251119,
-      "name": "Melukis Senja",
-      "url": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
         "name": "Tuhan Sebut Sia-Sia",
         "url": "https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 317453,
       "name": "Tuhan Sebut Sia-Sia",
       "url": "https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
+        "name": "Melukis Senja",
+        "url": "https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 251119,
+      "name": "Melukis Senja",
+      "url": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Nanti Kita Seperti Ini",
-        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
-      },
-      "artists": [
-        {
-          "name": "Batas Senja",
-          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
-        }
-      ],
-      "duration_ms": 209647,
-      "name": "Nanti Kita Seperti Ini",
-      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
         "name": "Seamin Tak Seiman",
         "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 216448,
       "name": "Seamin Tak Seiman",
       "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
+        "name": "Nanti Kita Seperti Ini",
+        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "duration_ms": 209647,
+      "name": "Nanti Kita Seperti Ini",
+      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Ego & Fungsi Otak",
-        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 260003,
-      "name": "Kusut",
-      "url": "https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
         "name": "MARKERS AND SUCH",
         "url": "https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 211244,
       "name": "Kita usahakan rumah itu",
       "url": "https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
+        "name": "Ego & Fungsi Otak",
+        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 260003,
+      "name": "Kusut",
+      "url": "https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Terus Bersinar",
-        "url": "https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG"
+        "name": "Cerita Hanin Dhiya",
+        "url": "https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH"
       },
       "artists": [
         {
-          "name": "Lobow",
-          "url": "https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib"
+          "name": "Hanin Dhiya",
+          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
         }
       ],
-      "duration_ms": 284946,
-      "name": "Kau Cantik Hari Ini",
-      "url": "https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr"
+      "duration_ms": 234914,
+      "name": "Pupus",
+      "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Cerita Hanin Dhiya",
-        "url": "https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH"
+        "name": "Terus Bersinar",
+        "url": "https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG"
       },
       "artists": [
         {
-          "name": "Hanin Dhiya",
-          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
+          "name": "Lobow",
+          "url": "https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib"
         }
       ],
-      "duration_ms": 234914,
-      "name": "Pupus",
-      "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
+      "duration_ms": 284946,
+      "name": "Kau Cantik Hari Ini",
+      "url": "https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr"
     },
     {
       "added_at": "2024-10-18 08:51:26",

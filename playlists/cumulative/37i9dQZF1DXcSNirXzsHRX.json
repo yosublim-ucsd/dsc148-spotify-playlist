@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 269920,
       "name": "Born to Run",
       "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
@@ -406,6 +406,24 @@
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
+    },
+    {
+      "album": {
+        "name": "Dancing With My Ghost",
+        "url": "https://open.spotify.com/album/0CZKywDmlVR1iZ3rHBIkEg"
+      },
+      "artists": [
+        {
+          "name": "Carpark North",
+          "url": "https://open.spotify.com/artist/6v8pFbihIDnlV6freVYMmZ"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225229,
+      "name": "Dancing With My Ghost",
+      "url": "https://open.spotify.com/track/69ocosqOP3VkFnNMmwUG2x"
     },
     {
       "album": {
@@ -762,7 +780,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 297946,
       "name": "Hearts Burst into Fire",
       "url": "https://open.spotify.com/track/6DsILuMLGYN6QqPXlhGHWo"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 217120,
       "name": "Keep That Mother Down",
       "url": "https://open.spotify.com/track/2jq5dKjxpv2cwr3jsRSSQg"
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 270080,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
@@ -1610,6 +1628,24 @@
       "duration_ms": 315120,
       "name": "Walk",
       "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
+    },
+    {
+      "album": {
+        "name": "Friend Of A Phantom",
+        "url": "https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265066,
+      "name": "We Will Not Disband",
+      "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"
     },
     {
       "album": {

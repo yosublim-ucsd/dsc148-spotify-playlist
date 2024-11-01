@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-246 songs - 10 hr 58 min
+247 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bad Guy](https://open.spotify.com/track/4V9KNW6NCaFTHmgo85Punq) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 2:33 | 2023-10-02 |  |
 | [Batman Theme](https://open.spotify.com/track/6NVI8uSMMbVAjt0FzL4GFL) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [Kids Halloween Party Music](https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA) | 2:43 | 2021-08-30 |  |
 | [Bones! Bones! Bones!](https://open.spotify.com/track/0eVGZSVkdxVfrtoIZsUDq7) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [Bones! Bones! Bones!](https://open.spotify.com/album/5V8VkDTGBoTIkxrIywqlda) | 1:37 | 2023-10-02 |  |
+| [Boo Ya!](https://open.spotify.com/track/1x1yovHjSWgXkzZrCFjEY1) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Boo Ya!](https://open.spotify.com/album/4yhVNql0ImtQJlGLSdsfXu) | 2:36 | 2024-10-22 |  |
 | [BOO!](https://open.spotify.com/track/2mCzGRsiuMYDZnc9q7N7Hu) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Play Along With Sam: BOO!](https://open.spotify.com/album/7mxuyTQ5lj6KFelI8zv8EW) | 2:04 | 2023-10-02 | 2024-10-05 |
 | [Bump in the Night](https://open.spotify.com/track/7ax40vh2zp5UIwDzGf1cop) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [The Best Halloween Stories for Kids](https://open.spotify.com/album/1ksHEut4cKxzLXLBJemmrO) | 2:30 | 2021-09-10 | 2024-10-21 |
 | [Bumps in the Night](https://open.spotify.com/track/5JzhuMnBiO3GEG7dZ5RVIK) | [KB Whirly](https://open.spotify.com/artist/7B2JoMPGHMLWXKfuhLa892) | [Bumps in the Night](https://open.spotify.com/album/22T70YwMgTaTl9saldJGDO) | 2:36 | 2021-09-10 | 2024-09-21 |
@@ -71,7 +72,7 @@
 | [Halloween at School](https://open.spotify.com/track/5PqCCOKBN8JVtF2tqoHD8N) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 3:30 | 2022-10-11 | 2024-10-09 |
 | [Halloween Boogie Dance](https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:05 | 2022-10-11 | 2024-10-22 |
 | [Halloween Costume Party](https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 2](https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS) | 1:50 | 2021-08-30 |  |
-| [Halloween Costume Party](https://open.spotify.com/track/3swsatQ81Gp6ZNv7vDWIwU) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Hogi Halloween Sing Along](https://open.spotify.com/album/29VITVgfijNrLfpNHmZwzT) | 2:59 | 2024-10-11 |  |
+| [Halloween Costume Party](https://open.spotify.com/track/3swsatQ81Gp6ZNv7vDWIwU) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Hogi Halloween Sing Along](https://open.spotify.com/album/29VITVgfijNrLfpNHmZwzT) | 2:59 | 2024-10-11 | 2024-11-01 |
 | [Halloween Dance](https://open.spotify.com/track/3o57ENGvRezgIaKidBNynE) | [Susie Tallman](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) | [Halloween Pre\-School & Kindergarten Songs](https://open.spotify.com/album/3Z93uUSg7uDYIPc0huYRoR) | 2:25 | 2024-10-04 | 2024-10-19 |
 | [Halloween Floor is Lava](https://open.spotify.com/track/0qeUh1qhHUyBWEUfQhp67I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Floor is Lava](https://open.spotify.com/album/401zoIGOIdNruRAcb9jhiz) | 3:39 | 2022-10-11 | 2024-09-21 |
 | [Halloween Holla Holla](https://open.spotify.com/track/2ygNgr95QTfXLXPK3scUEr) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Halloween Holla Holla](https://open.spotify.com/album/3XyWPvY1V1TCEHjlzO94yI) | 2:25 | 2024-10-22 |  |
@@ -229,7 +230,7 @@
 | [Troll Under My Bed](https://open.spotify.com/track/1fyxDcPKVgOgtpuQoxVae5) | [Pixel Kids](https://open.spotify.com/artist/6aa2NIHq5o1ebL8BbGkUDW) | [Halloween With Friends](https://open.spotify.com/album/4gQb4THy0jw2Y0iH11q6ap) | 1:53 | 2022-10-11 | 2022-11-13 |
 | [Troll Under My Bed](https://open.spotify.com/track/6Fm9c4RsLkazwV37PYhqjc) | [Pixel Kids](https://open.spotify.com/artist/6aa2NIHq5o1ebL8BbGkUDW) | [Cocomelon & Friends Halloween](https://open.spotify.com/album/4Ka27MLLbmj1IcjVyens72) | 1:53 | 2021-09-10 | 2024-09-21 |
 | [Vampire Wedding](https://open.spotify.com/track/2hH8xQrEH39WJ2cOckewvQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 3](https://open.spotify.com/album/3JoS9KsDBydpJuxJ0YFbKV) | 1:21 | 2021-08-30 |  |
-| [We Haunt These Halls](https://open.spotify.com/track/1ZNUHl1HRIIIczZuko0qaj) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV) | [We Haunt These Halls](https://open.spotify.com/album/41ktHCJaSL8UXGFIt3CI47) | 2:01 | 2024-10-04 |  |
+| [We Haunt These Halls](https://open.spotify.com/track/1ZNUHl1HRIIIczZuko0qaj) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [We Haunt These Halls](https://open.spotify.com/album/41ktHCJaSL8UXGFIt3CI47) | 2:01 | 2024-10-04 |  |
 | [We Love Halloween](https://open.spotify.com/track/40WjfvGm7cMJHdElsDwAVG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Boo! It's Halloween](https://open.spotify.com/album/6fWfpZA7c3puk13L7YfIt2) | 2:00 | 2022-09-27 | 2024-04-19 |
 | [We Love Halloween](https://open.spotify.com/track/4opsqf7Z84kvVFYto5XnrV) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [We Love Halloween](https://open.spotify.com/album/0TCjVZ1r377txbCgGLfhA3) | 2:00 | 2021-09-10 | 2022-10-10 |
 | [We Love Halloween](https://open.spotify.com/track/5pPfdRgCuJhvlZy1L9kMGE) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [We Love Halloween](https://open.spotify.com/album/1OlgNg367Vh1lDWc32cwCs) | 2:00 | 2021-09-10 | 2024-09-21 |

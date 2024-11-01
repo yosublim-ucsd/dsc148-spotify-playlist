@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Faye Webster
 
-1,991 songs - 4 day 9 hr 14 min
+1,992 songs - 4 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-09-23 | 2022-10-14 |
 | [Cellophane \(Brain\)](https://open.spotify.com/track/14uO4OgGwGBg5VxbAiRhL7) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane \(Brain\)](https://open.spotify.com/album/2BAlop08zZqQ2mxGHGqxlw) | 3:30 | 2021-02-22 | 2021-10-11 |
 | [Certified Fool](https://open.spotify.com/track/3TSSJEpfQo6AbtvxlmUyVe) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [Certified Fool](https://open.spotify.com/album/0NbqJMh9LSvt3dmqwiotYK) | 4:06 | 2021-11-12 | 2022-04-13 |
+| [Champagne](https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Champagne / That's Life](https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q) | 5:27 | 2024-10-25 |  |
 | [Chance](https://open.spotify.com/track/25raxlYX65MJqdjoSKIPI0) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 2:59 | 2021-02-22 | 2021-05-28 |
 | [chance with you](https://open.spotify.com/track/0Mdpgse4iIjQOpWJGTh3VS) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [chance with you](https://open.spotify.com/album/4mAH2ykv8vuz5ZWXg1vUT5) | 3:35 | 2021-02-28 | 2022-04-15 |
 | [Change](https://open.spotify.com/track/12RrfFKWOOzbhjt1LtQgxj) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Change](https://open.spotify.com/album/5JE4ZgzdwYRbyEU6QUj1xO) | 2:52 | 2020-11-13 | 2022-04-16 |
@@ -1158,7 +1159,7 @@
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-05-31 |  |
 | [Metamorphosis](https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 4:30 | 2023-11-06 | 2024-05-11 |
 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 | 2022-05-13 | 2022-10-18 |
-| [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 | 2024-05-10 |  |
+| [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 | 2024-05-10 | 2024-11-01 |
 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 | 2024-03-15 |  |
 | [MIA](https://open.spotify.com/track/31qUvtwOcX1OW4rTblwOcy) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [MIA](https://open.spotify.com/album/5OaiKNTvYpTMJIAj4mgATt) | 2:44 | 2021-10-02 | 2022-04-12 |
 | [MICHELLE](https://open.spotify.com/track/25CsbJSuItQQnhyC02vnnk) | [G Luné](https://open.spotify.com/artist/11IkPAEv36afGTiydLyDI0) | [MICHELLE](https://open.spotify.com/album/3ConwnTDycEVM2S0bnYMf1) | 2:34 | 2022-04-11 | 2022-04-26 |

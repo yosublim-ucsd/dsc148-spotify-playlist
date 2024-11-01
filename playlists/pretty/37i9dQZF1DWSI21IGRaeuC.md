@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,381 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,407 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 60 | [Flawless](https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Flawless](https://open.spotify.com/album/6rEA4FyIVN0s5pTj8M8d0R) | 3:20 |
 | 61 | [Dimension](https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dimension](https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg) | 8:01 |
 | 62 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 |
-| 63 | [Nutralize](https://open.spotify.com/track/3dmCMsu4EvIKhExHIjiRBp) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Closer](https://open.spotify.com/album/0Oo3LfhY3trbIWZFB7tBNc) | 6:05 |
+| 63 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 |
 | 64 | [Reso Riddim](https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Reso Riddim EP](https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0) | 3:06 |
-| 65 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 |
+| 65 | [Nutralize](https://open.spotify.com/track/3dmCMsu4EvIKhExHIjiRBp) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Closer](https://open.spotify.com/album/0Oo3LfhY3trbIWZFB7tBNc) | 6:05 |
 | 66 | [Estribeira](https://open.spotify.com/track/2GhTcfg03sFW9FxOeCqayc) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Artisian](https://open.spotify.com/artist/2qO4AfWBnBCnbaNxZIR1I7) | [Locomotiva Ibiza 2099 II](https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm) | 5:03 |
 | 67 | [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 |
 | 68 | [Handle This](https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Handle This](https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N) | 6:30 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 85 | [Origins \- 3AM Tusi Mix](https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Origins EP](https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN) | 3:56 |
 | 86 | [Nuthin' On](https://open.spotify.com/track/2iSKzMK0aNxmNAzdBVN6jp) | [Chicks Luv Us](https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02), [EdiP](https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE) | [Nuthin' On EP](https://open.spotify.com/album/0xHCfboVdtsec7vOiammF5) | 3:30 |
 | 87 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
-| 88 | [Get Jiggy](https://open.spotify.com/track/7BblhpOcUhX30R3mgDNC9U) | [EVIE \(UK\)](https://open.spotify.com/artist/6TZ1sUeiF3vUvOeGcFOFVJ) | [Get Jiggy](https://open.spotify.com/album/3blQTlvr2R5qeJzTaBCkBb) | 5:32 |
-| 89 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |
-| 90 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
-| 91 | [SIMPLE ONE](https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [SIMPLE ONE](https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV) | 3:56 |
+| 88 | [SIMPLE ONE](https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [SIMPLE ONE](https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV) | 3:56 |
+| 89 | [Get Jiggy](https://open.spotify.com/track/7BblhpOcUhX30R3mgDNC9U) | [EVIE \(UK\)](https://open.spotify.com/artist/6TZ1sUeiF3vUvOeGcFOFVJ) | [Get Jiggy](https://open.spotify.com/album/3blQTlvr2R5qeJzTaBCkBb) | 5:32 |
+| 90 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |
+| 91 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
 | 92 | [Un Beso](https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [Un Beso](https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ) | 3:45 |
 | 93 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 |
 | 94 | [Don't Stahp \- Edit](https://open.spotify.com/track/5UVwqwrWsVLjjPvOOZkHem) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [Don't Stahp \(Edit\)](https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D) | 3:48 |

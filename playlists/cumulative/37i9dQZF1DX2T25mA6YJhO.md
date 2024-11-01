@@ -2,16 +2,16 @@
 
 ### [Rock 2024](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: Carolina Durante.
+> Súbete a la nueva ola del rock español\. Foto: LA MILAGROSA.
 
-203 songs - 10 hr 31 min
+205 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 wasap](https://open.spotify.com/track/6OvnWc6lKWBSp5Tk1RDCTh) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [1 wasap](https://open.spotify.com/album/3lyjPH7nxCqadApjxnmQr8) | 3:00 | 2024-09-12 | 2024-10-11 |
 | [1900](https://open.spotify.com/track/3ipA6qIgx7ycMxj8EI2grU) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Gran Hostal](https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9) | 2:47 | 2024-10-10 |  |
 | [4 Impulsos Más](https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2) | [Erin Memento](https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp) | [4 Impulsos Más](https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo) | 3:27 | 2024-10-03 |  |
-| [47 segundos](https://open.spotify.com/track/3Syzg1YcZtlafx4hTtNrLu) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [47 segundos](https://open.spotify.com/album/0UMnyvVJoeUq2bq5B7zIli) | 0:47 | 2024-10-24 |  |
+| [47 segundos](https://open.spotify.com/track/3Syzg1YcZtlafx4hTtNrLu) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [47 segundos](https://open.spotify.com/album/0UMnyvVJoeUq2bq5B7zIli) | 0:47 | 2024-10-24 | 2024-11-01 |
 | [5 meses](https://open.spotify.com/track/2yNYMqWDnZ6Z8cvE1H5D8o) | [Agudo](https://open.spotify.com/artist/7AV6djETiJOxkb38gsU3Y6) | [5 MESES](https://open.spotify.com/album/5qN6vm6Z4nW90l4m072RoY) | 3:11 | 2024-06-27 | 2024-07-12 |
 | [6 AM](https://open.spotify.com/track/2O9IemDWvMSVmBnhjX3zxe) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Plaza patines](https://open.spotify.com/album/1Z3X0sHBk9tZClCS3yc3NE) | 3:19 | 2024-09-12 |  |
 | [A la luz de la luna](https://open.spotify.com/track/4b9ZJYE4He1r2aH9aVs76I) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Si molesto, os vais](https://open.spotify.com/album/41EFYkiiDgiOg44Ekx2fg0) | 4:11 | 2024-10-24 |  |
@@ -46,6 +46,7 @@
 | [Cortes](https://open.spotify.com/track/3T5j1FC3UIu7kjGHarjIkk) | [CORTE!](https://open.spotify.com/artist/63TI51KRa1nPKmh0xF9ydT) | [Cortes](https://open.spotify.com/album/1MtxZXS19obXUaeST7ecDv) | 1:52 | 2024-07-04 | 2024-07-27 |
 | [Cruz Invertida ft\. Rojuu](https://open.spotify.com/track/4MzZhicdTzuhnY9fSDhMeL) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov), [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [Cruz Invertida](https://open.spotify.com/album/0AKJqDM2XiycnJmGVSWbA8) | 2:19 | 2024-09-05 | 2024-09-27 |
 | [Cruz y Sed](https://open.spotify.com/track/6pXDM2hIRST00HzhiZ92UD) | [Los Acebos](https://open.spotify.com/artist/5XHVcSAgMdrDfxw4WwsZB0) | [Cruz y Sed](https://open.spotify.com/album/4ctZfa5GYo1hHwznerseaq) | 3:03 | 2024-10-10 |  |
+| [Danza de la muerte](https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Danza de la muerte](https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc) | 2:44 | 2024-10-31 |  |
 | [Darveider](https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Darveider](https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT) | 2:36 | 2024-06-27 | 2024-10-11 |
 | [De aquí a un mes](https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL) | [Error 97](https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1) | [De aquí a un mes](https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w) | 2:21 | 2024-08-29 |  |
 | [Decidí Desaparecer](https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Decidí Desaparecer](https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO) | 2:43 | 2024-06-27 |  |
@@ -117,9 +118,10 @@
 | [Me lapidaría](https://open.spotify.com/track/52oaBSXjnO6tqxokFwusnM) | [El Buen Hijo](https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr) | [Me lapidaría](https://open.spotify.com/album/5VhTBt1MQNiDmr8f3znldy) | 2:49 | 2024-06-27 | 2024-08-02 |
 | [Me paso por tu zona](https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Me paso por tu zona](https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO) | 2:11 | 2024-06-27 |  |
 | [Medalla De Oro A La Mejor Canción de Amor](https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3) | [Erin Memento](https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Medalla De Oro A La Mejor Canción De Amor](https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN) | 3:27 | 2024-07-25 |  |
+| [Mercerías las justas](https://open.spotify.com/track/1QJguXsnk8xBaGNA4ScnRA) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Mercerías las justas](https://open.spotify.com/album/0wEyMh8gXEv9F9eWn0zLBE) | 3:13 | 2024-10-31 |  |
 | [Mi Barrio](https://open.spotify.com/track/1dw2PZHbL7HXcbM97S9BdM) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Mi Barrio](https://open.spotify.com/album/57E7nwWxTOuc3WirxePwmc) | 3:10 | 2024-06-27 | 2024-07-05 |
 | [Mi fábrica de baile Rock](https://open.spotify.com/track/61qYmqAXyKU0wjgIwxOMUL) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn), [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Mi fábrica de baile Rock](https://open.spotify.com/album/0Eqz8IR76mmUbqY3eSSqpQ) | 3:15 | 2024-06-27 |  |
-| [Mi vecino](https://open.spotify.com/track/0HCDbkncaw8CJ4ZGXDGKX7) | [Cumpleaños Un Martes](https://open.spotify.com/artist/2up9boIYhnzyJMXtrHRc7Q) | [Mi vecino](https://open.spotify.com/album/4NRgvc0LkXuOWQAhvhxJHi) | 2:48 | 2024-07-25 |  |
+| [Mi vecino](https://open.spotify.com/track/0HCDbkncaw8CJ4ZGXDGKX7) | [Cumpleaños Un Martes](https://open.spotify.com/artist/2up9boIYhnzyJMXtrHRc7Q) | [Mi vecino](https://open.spotify.com/album/4NRgvc0LkXuOWQAhvhxJHi) | 2:48 | 2024-07-25 | 2024-11-01 |
 | [Misil](https://open.spotify.com/track/6M6ucWnHHexdjFYx1whr2M) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Misil](https://open.spotify.com/album/31dexdfSL262BCQPRBZrMq) | 2:53 | 2024-09-26 | 2024-10-18 |
 | [Momento PULP](https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx), [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [Momento PULP](https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U) | 2:12 | 2024-07-11 | 2024-09-20 |
 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 | 2024-06-27 |  |

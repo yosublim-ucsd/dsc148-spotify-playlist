@@ -1,15 +1,71 @@
 {
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Olivia Addms, Cabron ",
-  "num_followers": 56588,
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Killa Fonic, Andra",
+  "num_followers": 56606,
   "original_name": "Hiturile de azi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxq1UAAAAACMSTshDTnT90yZnQb/Z5A6",
+  "snapshot_id": "ZyP94AAAAAAAVOD8xNzjJHTA8PKsrLxN",
   "tracks": [
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Parfum de dam\u0103",
+        "url": "https://open.spotify.com/album/6gwMS6wfSfdfqRBZBtmnVE"
+      },
+      "artists": [
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        },
+        {
+          "name": "Andra",
+          "url": "https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Parfum de dam\u0103",
+      "url": "https://open.spotify.com/track/3UPJ2sj2n7TW3yP5MYC2G2"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "A venit poli\u021bia (From \"Candidatul perfect\" The Movie)",
+        "url": "https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "duration_ms": 144303,
+      "name": "A venit poli\u021bia - From \"Candidatul perfect\" The Movie",
+      "url": "https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Lini\u0219te",
+        "url": "https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 190263,
+      "name": "Lini\u0219te",
+      "url": "https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Cerule",
         "url": "https://open.spotify.com/album/13AqB7Um8RDiGbqIHHeMdg"
@@ -29,23 +85,7 @@
       "url": "https://open.spotify.com/track/4ZeSr0aitBN1EizbCRSJAM"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "A venit poli\u021bia (From \"Candidatul perfect\" The Movie)",
-        "url": "https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY"
-      },
-      "artists": [
-        {
-          "name": "Theo Rose",
-          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
-        }
-      ],
-      "duration_ms": 144303,
-      "name": "A venit poli\u021bia - From \"Candidatul perfect\" The Movie",
-      "url": "https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Viitorul sun\u0103 bine",
         "url": "https://open.spotify.com/album/3OqXA73LBp14vlaHRYuMTF"
@@ -61,7 +101,7 @@
       "url": "https://open.spotify.com/track/3EMLxl3UmEUi27hkXcKLkZ"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Ratat",
         "url": "https://open.spotify.com/album/6cHl7jHIJnUSJ5BG82ZQRR"
@@ -81,7 +121,7 @@
       "url": "https://open.spotify.com/track/3FLkFHEz6dQZwW9L5Vasew"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u00cenc\u0103 Ne Iubim",
         "url": "https://open.spotify.com/album/4DEzKPDY8wGsp1topuKhUi"
@@ -101,7 +141,7 @@
       "url": "https://open.spotify.com/track/2Bl23cSczNlRSRJUkCLBqy"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Cum te vad eu",
         "url": "https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5"
@@ -117,7 +157,7 @@
       "url": "https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "eRAI",
         "url": "https://open.spotify.com/album/6AFcecVwR9s8aVgGfqk7o7"
@@ -137,7 +177,7 @@
       "url": "https://open.spotify.com/track/3k28bAA3GB9Y64DmplOoS8"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Puerto Rico",
         "url": "https://open.spotify.com/album/0fUCdNSe2YMzCAbe0Faznx"
@@ -153,7 +193,7 @@
       "url": "https://open.spotify.com/track/4SqWdHtamU1qTOuBeVj1Yi"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "P\u0103m\u00e2ntul",
         "url": "https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x"
@@ -169,7 +209,27 @@
       "url": "https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Bahebek",
+        "url": "https://open.spotify.com/album/7wwHJYVoehYIp6IZvopzjy"
+      },
+      "artists": [
+        {
+          "name": "Faydee",
+          "url": "https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g"
+        },
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        }
+      ],
+      "duration_ms": 133398,
+      "name": "Bahebek",
+      "url": "https://open.spotify.com/track/5Ks0xMrdqAQhzTEoRKrDDv"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Nu Pl\u00e2nge",
         "url": "https://open.spotify.com/album/5EVVqHzYKTCA1uwi4vNJB6"
@@ -185,7 +245,7 @@
       "url": "https://open.spotify.com/track/4EGWCCAlL0k85BHMhNqnxv"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Las-o a\u0219a",
         "url": "https://open.spotify.com/album/2flsDPjDVpyrv62IByLCcj"
@@ -205,363 +265,7 @@
       "url": "https://open.spotify.com/track/0I0hHI96Gl0Q7xE3EWeZLG"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "7 zile de 8 ori",
-        "url": "https://open.spotify.com/album/0cMi3lBoihkgoc2M6GqE0B"
-      },
-      "artists": [
-        {
-          "name": "Manuel Riva",
-          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
-        },
-        {
-          "name": "IRAIDA",
-          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "7 zile de 8 ori",
-      "url": "https://open.spotify.com/track/4r8QP0r8oEWjNRiqRa1JyC"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Dudadu",
-        "url": "https://open.spotify.com/album/1R6lbA0eS3rw4wSetdUIhk"
-      },
-      "artists": [
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 156253,
-      "name": "Dudadu",
-      "url": "https://open.spotify.com/track/7A0foIRFpCRMXutDU9vDsQ"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Luna \u0219i Stelele",
-        "url": "https://open.spotify.com/album/7INqZNhTaZEl8rcNWzXo2k"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
-        },
-        {
-          "name": "Andrei Banuta",
-          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Luna \u0219i Stelele",
-      "url": "https://open.spotify.com/track/56Oz8aheDELcGHiAEr4NSy"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Ador, Ador",
-        "url": "https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K"
-      },
-      "artists": [
-        {
-          "name": "AMI",
-          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
-        }
-      ],
-      "duration_ms": 150965,
-      "name": "Ador, Ador",
-      "url": "https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Am fost",
-        "url": "https://open.spotify.com/album/7DW2hiwY664iXJsSotCA2G"
-      },
-      "artists": [
-        {
-          "name": "Ronna Riva",
-          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
-        },
-        {
-          "name": "Tostogan's",
-          "url": "https://open.spotify.com/artist/4FR2mH4PHFMDE5kYj0v1WR"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Am fost",
-      "url": "https://open.spotify.com/track/0Zse8E4z0xT7r0EIpvlLBh"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "S\u0103 Fii Tu",
-        "url": "https://open.spotify.com/album/6I4zfBx882UTwS6OtuC64X"
-      },
-      "artists": [
-        {
-          "name": "MIRA",
-          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
-        },
-        {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
-        }
-      ],
-      "duration_ms": 200592,
-      "name": "S\u0103 Fii Tu",
-      "url": "https://open.spotify.com/track/4lDQR1LAHAx0wGR2VlgP0A"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Buzele tale",
-        "url": "https://open.spotify.com/album/4ojQgcsrLZBFxDjzoZfRFT"
-      },
-      "artists": [
-        {
-          "name": "Lidia Buble",
-          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Buzele tale",
-      "url": "https://open.spotify.com/track/0kuZXHUFy8ijidzfuKVui4"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Ploi de Tequila",
-        "url": "https://open.spotify.com/album/2T5vkNSWya1yLgmzD57QQk"
-      },
-      "artists": [
-        {
-          "name": "Antonia",
-          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
-        }
-      ],
-      "duration_ms": 146646,
-      "name": "Ploi de Tequila",
-      "url": "https://open.spotify.com/track/58RcJ7zq7TbTKMmPH0vFzT"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Imuni la bine",
-        "url": "https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk"
-      },
-      "artists": [
-        {
-          "name": "Eva Timush",
-          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
-        },
-        {
-          "name": "Juno",
-          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
-        }
-      ],
-      "duration_ms": 159699,
-      "name": "Imuni la bine",
-      "url": "https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Prima",
-        "url": "https://open.spotify.com/album/6LxdybTWDkQE9uoMdhI7GX"
-      },
-      "artists": [
-        {
-          "name": "Yuka",
-          "url": "https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Prima",
-      "url": "https://open.spotify.com/track/7EFYXFaEUy3zDdOwswRABH"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Soarele",
-        "url": "https://open.spotify.com/album/2STRuouXSKx44WAvolBCvw"
-      },
-      "artists": [
-        {
-          "name": "Spike",
-          "url": "https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp"
-        },
-        {
-          "name": "Andia",
-          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Soarele",
-      "url": "https://open.spotify.com/track/3FuoK7AJsoiREE68u177Np"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "S\u0103 te iubeasca cineva",
-        "url": "https://open.spotify.com/album/3gELYpkcWHvRCf2knFCtw8"
-      },
-      "artists": [
-        {
-          "name": "Andra",
-          "url": "https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "S\u0103 te iubeasca cineva",
-      "url": "https://open.spotify.com/track/1rTuIL65PDHgTCAlmGY0jb"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Ai gre\u0219it",
-        "url": "https://open.spotify.com/album/5zGlVaN0cYPsj21qCndxxg"
-      },
-      "artists": [
-        {
-          "name": "Andreea Banica",
-          "url": "https://open.spotify.com/artist/1MRQV5l5n4ax84U6CQljVq"
-        },
-        {
-          "name": "Andrei Banuta",
-          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
-        }
-      ],
-      "duration_ms": 185223,
-      "name": "Ai gre\u0219it",
-      "url": "https://open.spotify.com/track/0wORaL1EhDo4Quewj9LSua"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "De m\u0103 la\u0219i",
-        "url": "https://open.spotify.com/album/6LJDT2bwtbVjp3R5qht6ct"
-      },
-      "artists": [
-        {
-          "name": "Olivia Addams",
-          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
-        },
-        {
-          "name": "Albwho",
-          "url": "https://open.spotify.com/artist/1gKMA54tfPeStFBKsNl2t2"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "De m\u0103 la\u0219i",
-      "url": "https://open.spotify.com/track/2EWDzxXpPn5EiGOyAbPZry"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Momentu\u2019",
-        "url": "https://open.spotify.com/album/5dSKoJTuGSFsrVBv9U6Ov0"
-      },
-      "artists": [
-        {
-          "name": "PETRA",
-          "url": "https://open.spotify.com/artist/1LDfQtGPCUSccCi58TsM2t"
-        },
-        {
-          "name": "Cabron",
-          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Momentu\u2019",
-      "url": "https://open.spotify.com/track/52kDCWnqVOwnU9weX3Khj7"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Dis-Moi",
-        "url": "https://open.spotify.com/album/1QFLN6x5nSvsLHoTLvGVsh"
-      },
-      "artists": [
-        {
-          "name": "Stefania",
-          "url": "https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy"
-        }
-      ],
-      "duration_ms": 137491,
-      "name": "Dis-Moi",
-      "url": "https://open.spotify.com/track/32s8ACQKnQVci7c5hpIv5R"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Love Is Harder",
-        "url": "https://open.spotify.com/album/1oZEw4wsKHqNxpVCIzifvB"
-      },
-      "artists": [
-        {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
-        }
-      ],
-      "duration_ms": 129570,
-      "name": "Love Is Harder",
-      "url": "https://open.spotify.com/track/1g07YHuWwMdjqlrWcVp2ie"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Ap\u0103 \u0219i P\u0103m\u00e2nt",
-        "url": "https://open.spotify.com/album/6gtAXlAUBM9gt9uLECMfqG"
-      },
-      "artists": [
-        {
-          "name": "Feli",
-          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
-        }
-      ],
-      "duration_ms": 160793,
-      "name": "Ap\u0103 \u0219i P\u0103m\u00e2nt",
-      "url": "https://open.spotify.com/track/0BW2Gto1cME7HTmn6NlPjW"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Gura ta",
-        "url": "https://open.spotify.com/album/17lqp453x6qa1MBfipsn4s"
-      },
-      "artists": [
-        {
-          "name": "Alina Eremia",
-          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
-        }
-      ],
-      "duration_ms": 165820,
-      "name": "Gura ta",
-      "url": "https://open.spotify.com/track/48wTHlWCJjJwgYWyjAFaqg"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Iubirile din liceu",
-        "url": "https://open.spotify.com/album/4LNuAusexX5dlRpqTHNrWS"
-      },
-      "artists": [
-        {
-          "name": "Liviu Teodorescu",
-          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
-        }
-      ],
-      "duration_ms": 204043,
-      "name": "Iubirile din liceu",
-      "url": "https://open.spotify.com/track/2elnblz6YE4uUgi3geYmqD"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "RADICAL DIN NOI",
         "url": "https://open.spotify.com/album/4BguA6kGPMtSFzApSU4oUI"
@@ -581,7 +285,379 @@
       "url": "https://open.spotify.com/track/454Y2Qn0uOBIHgJvl2vN9f"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Plou\u0103 cu \u0219erve\u021bele",
+        "url": "https://open.spotify.com/album/2i7pbCFSueTLJfNPOCTYtS"
+      },
+      "artists": [
+        {
+          "name": "Alexia",
+          "url": "https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz"
+        }
+      ],
+      "duration_ms": 204562,
+      "name": "Plou\u0103 cu \u0219erve\u021bele",
+      "url": "https://open.spotify.com/track/48DgeRTC8dVtUIw24o1RGD"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "7 zile de 8 ori",
+        "url": "https://open.spotify.com/album/0cMi3lBoihkgoc2M6GqE0B"
+      },
+      "artists": [
+        {
+          "name": "Manuel Riva",
+          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
+        },
+        {
+          "name": "IRAIDA",
+          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "7 zile de 8 ori",
+      "url": "https://open.spotify.com/track/4r8QP0r8oEWjNRiqRa1JyC"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Dudadu",
+        "url": "https://open.spotify.com/album/1R6lbA0eS3rw4wSetdUIhk"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 156253,
+      "name": "Dudadu",
+      "url": "https://open.spotify.com/track/7A0foIRFpCRMXutDU9vDsQ"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Luna \u0219i Stelele",
+        "url": "https://open.spotify.com/album/7INqZNhTaZEl8rcNWzXo2k"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
+        },
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Luna \u0219i Stelele",
+      "url": "https://open.spotify.com/track/56Oz8aheDELcGHiAEr4NSy"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Ador, Ador",
+        "url": "https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K"
+      },
+      "artists": [
+        {
+          "name": "AMI",
+          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
+        }
+      ],
+      "duration_ms": 150965,
+      "name": "Ador, Ador",
+      "url": "https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Am fost",
+        "url": "https://open.spotify.com/album/7DW2hiwY664iXJsSotCA2G"
+      },
+      "artists": [
+        {
+          "name": "Ronna Riva",
+          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
+        },
+        {
+          "name": "Tostogan's",
+          "url": "https://open.spotify.com/artist/4FR2mH4PHFMDE5kYj0v1WR"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Am fost",
+      "url": "https://open.spotify.com/track/0Zse8E4z0xT7r0EIpvlLBh"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "S\u0103 Fii Tu",
+        "url": "https://open.spotify.com/album/6I4zfBx882UTwS6OtuC64X"
+      },
+      "artists": [
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        },
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        }
+      ],
+      "duration_ms": 200592,
+      "name": "S\u0103 Fii Tu",
+      "url": "https://open.spotify.com/track/4lDQR1LAHAx0wGR2VlgP0A"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Buzele tale",
+        "url": "https://open.spotify.com/album/4ojQgcsrLZBFxDjzoZfRFT"
+      },
+      "artists": [
+        {
+          "name": "Lidia Buble",
+          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Buzele tale",
+      "url": "https://open.spotify.com/track/0kuZXHUFy8ijidzfuKVui4"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Ploi de Tequila",
+        "url": "https://open.spotify.com/album/2T5vkNSWya1yLgmzD57QQk"
+      },
+      "artists": [
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        }
+      ],
+      "duration_ms": 146646,
+      "name": "Ploi de Tequila",
+      "url": "https://open.spotify.com/track/58RcJ7zq7TbTKMmPH0vFzT"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Imuni la bine",
+        "url": "https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk"
+      },
+      "artists": [
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        },
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
+        }
+      ],
+      "duration_ms": 159699,
+      "name": "Imuni la bine",
+      "url": "https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Prima",
+        "url": "https://open.spotify.com/album/6LxdybTWDkQE9uoMdhI7GX"
+      },
+      "artists": [
+        {
+          "name": "Yuka",
+          "url": "https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Prima",
+      "url": "https://open.spotify.com/track/7EFYXFaEUy3zDdOwswRABH"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Soarele",
+        "url": "https://open.spotify.com/album/2STRuouXSKx44WAvolBCvw"
+      },
+      "artists": [
+        {
+          "name": "Spike",
+          "url": "https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp"
+        },
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Soarele",
+      "url": "https://open.spotify.com/track/3FuoK7AJsoiREE68u177Np"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "S\u0103 te iubeasca cineva",
+        "url": "https://open.spotify.com/album/3gELYpkcWHvRCf2knFCtw8"
+      },
+      "artists": [
+        {
+          "name": "Andra",
+          "url": "https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "S\u0103 te iubeasca cineva",
+      "url": "https://open.spotify.com/track/1rTuIL65PDHgTCAlmGY0jb"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Ai gre\u0219it",
+        "url": "https://open.spotify.com/album/5zGlVaN0cYPsj21qCndxxg"
+      },
+      "artists": [
+        {
+          "name": "Andreea Banica",
+          "url": "https://open.spotify.com/artist/1MRQV5l5n4ax84U6CQljVq"
+        },
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        }
+      ],
+      "duration_ms": 185223,
+      "name": "Ai gre\u0219it",
+      "url": "https://open.spotify.com/track/0wORaL1EhDo4Quewj9LSua"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "De m\u0103 la\u0219i",
+        "url": "https://open.spotify.com/album/6LJDT2bwtbVjp3R5qht6ct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        },
+        {
+          "name": "Albwho",
+          "url": "https://open.spotify.com/artist/1gKMA54tfPeStFBKsNl2t2"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "De m\u0103 la\u0219i",
+      "url": "https://open.spotify.com/track/2EWDzxXpPn5EiGOyAbPZry"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Momentu\u2019",
+        "url": "https://open.spotify.com/album/5dSKoJTuGSFsrVBv9U6Ov0"
+      },
+      "artists": [
+        {
+          "name": "PETRA",
+          "url": "https://open.spotify.com/artist/1LDfQtGPCUSccCi58TsM2t"
+        },
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Momentu\u2019",
+      "url": "https://open.spotify.com/track/52kDCWnqVOwnU9weX3Khj7"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Dis-Moi",
+        "url": "https://open.spotify.com/album/1QFLN6x5nSvsLHoTLvGVsh"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy"
+        }
+      ],
+      "duration_ms": 137491,
+      "name": "Dis-Moi",
+      "url": "https://open.spotify.com/track/32s8ACQKnQVci7c5hpIv5R"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Love Is Harder",
+        "url": "https://open.spotify.com/album/1oZEw4wsKHqNxpVCIzifvB"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        }
+      ],
+      "duration_ms": 129570,
+      "name": "Love Is Harder",
+      "url": "https://open.spotify.com/track/1g07YHuWwMdjqlrWcVp2ie"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Ap\u0103 \u0219i P\u0103m\u00e2nt",
+        "url": "https://open.spotify.com/album/6gtAXlAUBM9gt9uLECMfqG"
+      },
+      "artists": [
+        {
+          "name": "Feli",
+          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+        }
+      ],
+      "duration_ms": 160793,
+      "name": "Ap\u0103 \u0219i P\u0103m\u00e2nt",
+      "url": "https://open.spotify.com/track/0BW2Gto1cME7HTmn6NlPjW"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Gura ta",
+        "url": "https://open.spotify.com/album/17lqp453x6qa1MBfipsn4s"
+      },
+      "artists": [
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        }
+      ],
+      "duration_ms": 165820,
+      "name": "Gura ta",
+      "url": "https://open.spotify.com/track/48wTHlWCJjJwgYWyjAFaqg"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "Iubirile din liceu",
+        "url": "https://open.spotify.com/album/4LNuAusexX5dlRpqTHNrWS"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        }
+      ],
+      "duration_ms": 204043,
+      "name": "Iubirile din liceu",
+      "url": "https://open.spotify.com/track/2elnblz6YE4uUgi3geYmqD"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "MY LOVE",
         "url": "https://open.spotify.com/album/2o2LAhKCCaQZmtruPQEdKh"
@@ -597,7 +673,7 @@
       "url": "https://open.spotify.com/track/1MBnhHSNh5MgiTcDlOnuMW"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "S\u0103 curg\u0103 \u0219ampania",
         "url": "https://open.spotify.com/album/5qbuhRXNNuH1QdBNiyGX4k"
@@ -613,27 +689,7 @@
       "url": "https://open.spotify.com/track/7AOQGl6KHXylqTqrvszSie"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "E Rom\u00e2nc\u0103",
-        "url": "https://open.spotify.com/album/5zoPt9fepkgmTZfPspLMta"
-      },
-      "artists": [
-        {
-          "name": "MIRA",
-          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
-        },
-        {
-          "name": "Juno",
-          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "E Rom\u00e2nc\u0103",
-      "url": "https://open.spotify.com/track/3NQB3bz9WQS1uItTsheAxL"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "UNDEVA",
         "url": "https://open.spotify.com/album/06pEYOIeKPAxKPbJkhWSJj"
@@ -653,7 +709,7 @@
       "url": "https://open.spotify.com/track/3Puwiup8Zx3QecTPv7Cmnn"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Nimic mai mult",
         "url": "https://open.spotify.com/album/4Opx2erfG2SADIomOPqX2x"
@@ -673,7 +729,7 @@
       "url": "https://open.spotify.com/track/3jEcZYufraOGueJ5hT946b"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Dans nocturn",
         "url": "https://open.spotify.com/album/3hSwbrhEZ1C02EfWHQ52gL"
@@ -689,27 +745,7 @@
       "url": "https://open.spotify.com/track/2pWVkrRjBySXqQloRsi9sk"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Pas cu pas",
-        "url": "https://open.spotify.com/album/7iB87hMsRM7bWkPnvUTVT0"
-      },
-      "artists": [
-        {
-          "name": "Iuliana Beregoi",
-          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
-        },
-        {
-          "name": "Cristian Porcari",
-          "url": "https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Vecinii de bloc",
-      "url": "https://open.spotify.com/track/6UnAmT7n43XJGIWd8tRfwu"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Vreau",
         "url": "https://open.spotify.com/album/1CTnPDqSqReiVCcEv51RPs"
@@ -725,23 +761,7 @@
       "url": "https://open.spotify.com/track/6ghiYBEodEMT9PMWEmk2Lv"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "INTERSTELAR",
-        "url": "https://open.spotify.com/album/6SIVlUkMCTjaCN2rDzFn4R"
-      },
-      "artists": [
-        {
-          "name": "AMI",
-          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "INTERSTELAR",
-      "url": "https://open.spotify.com/track/1rC08i64aW1FyWpOsqVr4q"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Anii mei",
         "url": "https://open.spotify.com/album/42ER6DwZiXzS6aalAoXxaR"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/50nayboEdFGs2Ql0qxFLD9"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Pentru Inimi Frante",
         "url": "https://open.spotify.com/album/2N97K2JsZf9HKCh4Mnup5V"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/2Vte9P5aMap0rBZrB47stv"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Mai frumoas\u0103",
         "url": "https://open.spotify.com/album/1Q1NpQ3hluy4lde1v0fvwx"
@@ -789,23 +809,7 @@
       "url": "https://open.spotify.com/track/2vE8U48UhRlLKyQvNM9Kqp"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Energia ta",
-        "url": "https://open.spotify.com/album/4jCNgztTaJLqgCW0K5TEVe"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "Energia ta",
-      "url": "https://open.spotify.com/track/12lADUOFdAtvQw9io0tYbH"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Iubire cu parfum de lavand\u0103",
         "url": "https://open.spotify.com/album/4uxK4MDS3eUXtZAZI8WU9L"
@@ -821,7 +825,7 @@
       "url": "https://open.spotify.com/track/24uvX3TV4BpxgGvaIDWdzT"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Nu pleca",
         "url": "https://open.spotify.com/album/0wfXJt5KoGNJJCgjXBHbjZ"
@@ -841,7 +845,7 @@
       "url": "https://open.spotify.com/track/7mcsrraNgG3ixoKkfk91ne"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "No Plan (Yo)",
         "url": "https://open.spotify.com/album/6ohx9fQRjPxDphtPwgGyob"
@@ -857,7 +861,7 @@
       "url": "https://open.spotify.com/track/426EQYakBJ0OxDqpODtBiB"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Ioana Ignat (Deluxe Version)",
         "url": "https://open.spotify.com/album/1RyvcQhHL8M6fzVbUTD6Ra"
@@ -873,7 +877,7 @@
       "url": "https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Scena vie\u021bii",
         "url": "https://open.spotify.com/album/1XV1IN3uTrgbYY0BwibwiH"

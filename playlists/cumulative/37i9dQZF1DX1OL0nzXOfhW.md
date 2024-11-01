@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: OJ Reambillo
+> 2024 RADAR登場！持續發掘世一超新聲！Cover: Goo Chan
 
-213 songs - 12 hr 23 min
+214 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [physicaltouch](https://open.spotify.com/track/0gyABf30UplLQPRFCiPj6j) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 0:32 | 2024-03-28 | 2024-04-05 |
 | [RIDE](https://open.spotify.com/track/0fUFyXhlo9VOXAky3rFWhu) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [RIDE](https://open.spotify.com/album/5OHjroUvvNuhV8cwxHK6UV) | 3:11 | 2024-10-17 |  |
 | [saturday night](https://open.spotify.com/track/6jl35iYUR4IMQ96o8aWSy2) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [saturday night](https://open.spotify.com/album/3skcQqVKnlKiG4TGqrQVin) | 2:55 | 2022-08-18 | 2023-04-14 |
+| [Say No 2024](https://open.spotify.com/track/24hIgVRp6AVfknZnF3aAXm) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn), [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx) | [Say No 2024](https://open.spotify.com/album/7qdC7yJrGml0MOpmU7cTuZ) | 3:40 | 2024-10-31 |  |
 | [Sick](https://open.spotify.com/track/4nctLtLZhJA3hoQPvHAqcq) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0), [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Sick](https://open.spotify.com/album/4BwPOa14byzLRhi2YAC9w9) | 2:30 | 2023-04-13 | 2024-03-29 |
 | [Someday My Prince Will Come](https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Someday My Prince Will Come](https://open.spotify.com/album/3vj37vVVTW7Fn3V982rq4T) | 4:12 | 2022-05-26 | 2022-10-05 |
 | [Someday My Prince Will Come](https://open.spotify.com/track/66TcAzggm7K6qGrp5e82c3) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 4:12 | 2022-09-15 | 2023-04-14 |

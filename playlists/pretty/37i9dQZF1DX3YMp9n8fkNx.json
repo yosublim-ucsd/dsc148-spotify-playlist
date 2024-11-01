@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1361591,
+  "num_followers": 1361762,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy"
-      },
-      "artists": [
-        {
-          "name": "Del Amitri",
-          "url": "https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K"
-        }
-      ],
-      "duration_ms": 132306,
-      "name": "Roll To Me",
-      "url": "https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Pet Your Friends",
         "url": "https://open.spotify.com/album/2h1bf0d6LNtyoEugJYLFdy"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 291906,
       "name": "Counting Blue Cars (Tell Me Your Thoughts On God)",
       "url": "https://open.spotify.com/track/6B618H5CuCdEzcVs0NKTlt"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy"
+      },
+      "artists": [
+        {
+          "name": "Del Amitri",
+          "url": "https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K"
+        }
+      ],
+      "duration_ms": 132306,
+      "name": "Roll To Me",
+      "url": "https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Bandwagonesque",
-        "url": "https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ"
-      },
-      "artists": [
-        {
-          "name": "Teenage Fanclub",
-          "url": "https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW"
-        }
-      ],
-      "duration_ms": 120706,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 422600,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Bandwagonesque",
+        "url": "https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ"
+      },
+      "artists": [
+        {
+          "name": "Teenage Fanclub",
+          "url": "https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW"
+        }
+      ],
+      "duration_ms": 120706,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh"
     }
   ],
   "unique_name": "90s Pop Rock",

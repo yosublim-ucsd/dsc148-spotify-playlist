@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 15407,
+  "num_followers": 15406,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAAywC1bLvm3pJ7yQEcxpPgc",
+  "snapshot_id": "ZyF3AAAAAAC1NqStKG2hhTEAWHpD4D/S",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "High Note [Feat. Stax Music Academy]",
+        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Stax Music Academy",
+          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
+        }
+      ],
+      "duration_ms": 182099,
+      "name": "High Note [Feat. Stax Music Academy]",
+      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Friendship [Feat. Carla Thomas and Stax Music Academy]",
         "url": "https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3"
       },
@@ -195,26 +215,6 @@
       "duration_ms": 219961,
       "name": "Friendship [Feat. Carla Thomas, Stax Music Academy]",
       "url": "https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Note [Feat. Stax Music Academy]",
-        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Stax Music Academy",
-          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
-        }
-      ],
-      "duration_ms": 182099,
-      "name": "High Note [Feat. Stax Music Academy]",
-      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Order Of Time",
         "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 244146,
       "name": "Slip Slide On By",
       "url": "https://open.spotify.com/track/3TEojRdSXcNyaDXZDqlr31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fade Into You",
-        "url": "https://open.spotify.com/album/0rBigYSvUtkuE4C8qvVg0L"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 285813,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/2SF4jGzFzrTdOm7ivfIDqY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Under Cover",
         "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 205760,
       "name": "Look At Miss Ohio",
       "url": "https://open.spotify.com/track/37PBWFvPnrdKaz9tiI24EI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fade Into You",
+        "url": "https://open.spotify.com/album/0rBigYSvUtkuE4C8qvVg0L"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 285813,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/2SF4jGzFzrTdOm7ivfIDqY"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
       "artists": [
         {
@@ -440,9 +440,25 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Why The Bright Stars Glow",
-      "url": "https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8"
+      "duration_ms": 182093,
+      "name": "Trials, Troubles, Tribulations",
+      "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 250960,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
     },
     {
       "added_at": null,
@@ -471,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
       "artists": [
         {
@@ -480,25 +496,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 250960,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Trials, Troubles, Tribulations",
-      "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"
+      "duration_ms": 205506,
+      "name": "Why The Bright Stars Glow",
+      "url": "https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pushin' against a Stone",
+        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "The Hour",
+      "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goodtime Charlie",
         "url": "https://open.spotify.com/album/58WR5ej6EJFRGjQp1qrfpN"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 207500,
       "name": "The Fact",
       "url": "https://open.spotify.com/track/1Xq0XTjQVQkLNrOgDQ7hrf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pushin' against a Stone",
-        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 229668,
-      "name": "The Hour",
-      "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 279106,
+      "name": "Don\u2019t It Make You Want To Go Home",
+      "url": "https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 245066,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Tonight I\u2019ll Be Staying Here With You",
-      "url": "https://open.spotify.com/track/4BVuRNBQgO2XDhAQxC7c8z"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Tonight I\u2019ll Be Staying Here With You",
+      "url": "https://open.spotify.com/track/4BVuRNBQgO2XDhAQxC7c8z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way of the Weeping Willow",
         "url": "https://open.spotify.com/album/4zKQRxjvBRMEOJ02Y7nD3o"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 119093,
       "name": "Home",
       "url": "https://open.spotify.com/track/6RuO4PLupkQlIVWz0S0Hid"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 279106,
-      "name": "Don\u2019t It Make You Want To Go Home",
-      "url": "https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z"
     },
     {
       "added_at": null,

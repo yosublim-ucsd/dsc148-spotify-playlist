@@ -1,12 +1,12 @@
 {
   "description": "This is \u65b0\u3057\u3044\u5b66\u6821\u306e\u30ea\u30fc\u30c0\u30fc\u30ba. The essential tracks, all in one playlist.",
-  "num_followers": 52203,
+  "num_followers": 52220,
   "original_name": "This Is \u65b0\u3057\u3044\u5b66\u6821\u306e\u30ea\u30fc\u30c0\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAABjVipEv2ahicEXCi+AGkYs",
+  "snapshot_id": "ZyF3AAAAAABBSn18lsVltWF/RIW/fK+N",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
+        "name": "HANAKO",
+        "url": "https://open.spotify.com/album/5d3BzQ6GQQqBa8y92I7hT5"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Fantastico",
-      "url": "https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR"
+      "duration_ms": 221676,
+      "name": "HANAKO",
+      "url": "https://open.spotify.com/track/4hlkSKWZBIv4f4sWmWCM56"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HANAKO",
-        "url": "https://open.spotify.com/album/5d3BzQ6GQQqBa8y92I7hT5"
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 221676,
-      "name": "HANAKO",
-      "url": "https://open.spotify.com/track/4hlkSKWZBIv4f4sWmWCM56"
+      "duration_ms": 173466,
+      "name": "Fantastico",
+      "url": "https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR"
     },
     {
       "added_at": null,

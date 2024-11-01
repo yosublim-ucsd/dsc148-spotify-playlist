@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 130171,
+  "num_followers": 130251,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-10-17 17:00:00",
       "album": {
+        "name": "Berakhir di Aku (Original Soundtrack From \"Home Sweet Loan\")",
+        "url": "https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "duration_ms": 236784,
+      "name": "Berakhir di Aku - Original Soundtrack From \"Home Sweet Loan\"",
+      "url": "https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL"
+    },
+    {
+      "added_at": "2024-10-17 17:00:00",
+      "album": {
         "name": "Bermuara",
         "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
-    },
-    {
-      "added_at": "2024-10-17 17:00:00",
-      "album": {
-        "name": "Berakhir di Aku (Original Soundtrack From \"Home Sweet Loan\")",
-        "url": "https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd"
-      },
-      "artists": [
-        {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
-        }
-      ],
-      "duration_ms": 236784,
-      "name": "Berakhir di Aku - Original Soundtrack From \"Home Sweet Loan\"",
-      "url": "https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL"
     },
     {
       "added_at": "2024-10-17 17:00:00",

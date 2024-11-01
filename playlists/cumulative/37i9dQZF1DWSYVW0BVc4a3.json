@@ -7347,6 +7347,28 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/4Zzp3MGr2M5rMF1oDxZ8mz"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196850,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/1EFyjeVs4hetSVMc28Y9r6"
+    },
+    {
+      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/592z69I0rGTgPotWgEXe9b"
       },
@@ -17593,6 +17615,32 @@
     },
     {
       "album": {
+        "name": "Somethin Bout You (with Betsy)",
+        "url": "https://open.spotify.com/album/66hZQRJwU2C2IAw0EP5yYJ"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+        },
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "Somethin Bout You (feat. Betsy) - Korn\u00e9l Kov\u00e1cs Remix",
+      "url": "https://open.spotify.com/track/4qOa6vs4ov95ePvABgU0PL"
+    },
+    {
+      "album": {
         "name": "Something On My Mind (feat. Nothing But Thieves) [Solomun Remix]",
         "url": "https://open.spotify.com/album/1zOqU8588YJjw3eRYQHugG"
       },
@@ -18060,6 +18108,24 @@
       "duration_ms": 438169,
       "name": "Steps - OLING Remix",
       "url": "https://open.spotify.com/track/14MpB9oE978rSFY3erHTPK"
+    },
+    {
+      "album": {
+        "name": "Sthlm In My <3",
+        "url": "https://open.spotify.com/album/4GHkgOqbKjs7YqQ8qADO23"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206865,
+      "name": "Sthlm In My <3",
+      "url": "https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M"
     },
     {
       "album": {
@@ -18760,6 +18826,36 @@
       "duration_ms": 231659,
       "name": "Tales Of Balagan",
       "url": "https://open.spotify.com/track/38Z4JwNboXrTDpgAqN6XKb"
+    },
+    {
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Naisha",
+          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232984,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
     },
     {
       "album": {

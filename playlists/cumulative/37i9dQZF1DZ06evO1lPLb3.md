@@ -4,7 +4,7 @@
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-46 songs - 3 hr 52 min
+47 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 | 2023-05-02 |  |
 | [Day Without Yesterday](https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3) | 5:39 | 2023-12-13 |  |
 | [Day Without Yesterday \- Original Mix](https://open.spotify.com/track/3XZkzkdXOiw2DjvB6X50vV) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/3bxRoWmQKerV0JjO0TxfDa) | 5:39 | 2023-05-02 | 2023-12-14 |
-| [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 | 2024-08-18 |  |
+| [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 | 2024-08-18 | 2024-11-01 |
+| [Find The Way \- DJ Q Remix](https://open.spotify.com/track/29zooAFKpMqvxHQkvdGwNk) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Find The Way \(DJ Q Remix\)](https://open.spotify.com/album/798ipPSqEJLh6uIRCqAtcK) | 3:42 | 2024-11-01 |  |
 | [Gou Talk](https://open.spotify.com/track/2sTP6ghDk046UnBZqsLyyO) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 5:46 | 2023-05-02 |  |
 | [Han Jan \- Edit](https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Han Jan](https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc) | 4:02 | 2023-05-02 |  |
 | [Han Pan](https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Moment EP](https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1) | 6:41 | 2023-12-13 |  |

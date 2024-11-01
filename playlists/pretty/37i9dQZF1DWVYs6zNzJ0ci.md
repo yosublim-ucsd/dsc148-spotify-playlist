@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204,243 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,273 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 43 | [Parece](https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:38 |
 | 44 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
 | 45 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 |
-| 46 | [Olor a Café](https://open.spotify.com/track/0xFl4mBckGs5lJhaYArtCZ) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ) | [Olor a Café](https://open.spotify.com/album/220c55Iv1KN8TjLQGbdir9) | 3:33 |
-| 47 | [Te Robaste Mi Corazón](https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:03 |
+| 46 | [Te Robaste Mi Corazón](https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:03 |
+| 47 | [Olor a Café](https://open.spotify.com/track/0xFl4mBckGs5lJhaYArtCZ) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ) | [Olor a Café](https://open.spotify.com/album/220c55Iv1KN8TjLQGbdir9) | 3:33 |
 | 48 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
 | 49 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 |
 | 50 | [Fuiste Cruel](https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Fuiste Cruel](https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo) | 4:57 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 91 | [A Los Ojos](https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Calamaro Querido!! Cantando Al Salmón Parte 1](https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT) | 4:06 |
 | 92 | [Llegaste A Mí](https://open.spotify.com/track/5grcUqpWzP1TPr4cmTGGnR) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Llegaste A Mí](https://open.spotify.com/album/29bASZaLBI3n4wfIh9dren) | 3:32 |
 | 93 | [Antonia](https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:14 |
-| 94 | [Yo Quiero Amarte](https://open.spotify.com/track/4Gm3g3GDAF6lsZhvTyPqXk) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [Yo Quiero Amarte](https://open.spotify.com/album/704qw7cLHhllYhwbe7xosf) | 3:00 |
-| 95 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
+| 94 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
+| 95 | [Yo Quiero Amarte](https://open.spotify.com/track/4Gm3g3GDAF6lsZhvTyPqXk) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [Yo Quiero Amarte](https://open.spotify.com/album/704qw7cLHhllYhwbe7xosf) | 3:00 |
 | 96 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
 | 97 | [La Musica](https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Codigos Del Alma](https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS) | 5:07 |
 | 98 | [Entre Sueños y Raíces](https://open.spotify.com/track/5nq2HHQtaXvLmzzPRtYjCQ) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Entre Sueños y Raíces](https://open.spotify.com/album/54P5ka3t8iz5aQJ87WjWih) | 5:18 |
-| 99 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 |
-| 100 | [Como Un Volcán](https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Como Un Volcán](https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL) | 3:47 |
+| 99 | [Como Un Volcán](https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Como Un Volcán](https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL) | 3:47 |
+| 100 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 |
 
 Snapshot ID: `ZxHdQAAAAABTKDy2ald5j1b/LI7xdZ2W`

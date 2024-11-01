@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,405 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,434 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 58 | [Khayaal](https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khayaal](https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN) | 2:42 |
 | 59 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
 | 60 | [Der Lagi Lekin](https://open.spotify.com/track/78HEXs4YB5SE9JgTHOUdDw) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 5:55 |
-| 61 | [Dhaaga](https://open.spotify.com/track/4wUtptr1RLnHyTlkbUKutH) | [Nilotpal Bora](https://open.spotify.com/artist/2JexWjjyHRNgAiDXNn7rsV), [Hussain Haidry](https://open.spotify.com/artist/2iABRD4RXxrhfiO1TPdFvy) | [Aspirants: Season 1 \(Music From the TVF Original Series\)](https://open.spotify.com/album/3hFz046pdpJkSIGSXtG5jE) | 3:52 |
-| 62 | [Aaj Kal Zindagi](https://open.spotify.com/track/4MnDLNhqL6HuSzFO4b4rvJ) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:14 |
+| 61 | [Aaj Kal Zindagi](https://open.spotify.com/track/4MnDLNhqL6HuSzFO4b4rvJ) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:14 |
+| 62 | [Dhaaga](https://open.spotify.com/track/4wUtptr1RLnHyTlkbUKutH) | [Nilotpal Bora](https://open.spotify.com/artist/2JexWjjyHRNgAiDXNn7rsV), [Hussain Haidry](https://open.spotify.com/artist/2iABRD4RXxrhfiO1TPdFvy) | [Aspirants: Season 1 \(Music From the TVF Original Series\)](https://open.spotify.com/album/3hFz046pdpJkSIGSXtG5jE) | 3:52 |
 | 63 | [Chal Chaliye](https://open.spotify.com/track/0Wr1k0Fm8PQvjnSiYReNGC) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Farheen Raza Jaffry](https://open.spotify.com/artist/6pyNI5UnUNUotfiJiybFuc) | [Chal Chaliye](https://open.spotify.com/album/0lkJiX0MNdmSw4aSK0tvgB) | 3:54 |
 | 64 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
 | 65 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |

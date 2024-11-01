@@ -1,15 +1,15 @@
 {
   "description": "\u05db\u05dc \u05d4\u05e4\u05d5\u05e4 \u05d4\u05d9\u05e4\u05d4 \u05d5\u05d4\u05de\u05e8\u05d2\u05e9 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05e0\u05d5\u05e2\u05dd \u05e7\u05dc\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
-  "num_followers": 56174,
+  "num_followers": 56180,
   "original_name": "\u05e4\u05d5\u05e4 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 \u05d7\u05d3\u05e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxq1UAAAAAAZoLZu6Q1ipELnAdEkgxkm",
+  "snapshot_id": "ZyP94AAAAAC3O13pPIZjHE3t13TpDvo+",
   "tracks": [
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e4\u05d0\u05e0\u05d9\u05e7\u05d4",
         "url": "https://open.spotify.com/album/1cfVcMDRAVDGjKd8E8BNO3"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0MKr02VxAtIfmmUk38x0qk"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/3tYn2LxCIv2Ua1swrN6qNe"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/3IcTWtg1wQ7S72ddgkyZHq"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
+      "album": {
+        "name": "\u05dc\u05d0 \u05dc\u05d4\u05ea\u05d0\u05d1\u05e1\u05e1",
+        "url": "https://open.spotify.com/album/4ysjijkPNHQF1BFl4apRa6"
+      },
+      "artists": [
+        {
+          "name": "Anna Zak",
+          "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "\u05dc\u05d0 \u05dc\u05d4\u05ea\u05d0\u05d1\u05e1\u05e1",
+      "url": "https://open.spotify.com/track/2xkXWaRUUn4phPu3QgiEA5"
+    },
+    {
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e2\u05d8\u05dc\u05e3",
         "url": "https://open.spotify.com/album/4POElxlEJHnOJ1sL0aiNTV"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/196lkHGqjAKd2gwAGGt9XG"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d0\u05d9\u05e8\u05d5\u05e0\u05d9\u05d4",
         "url": "https://open.spotify.com/album/4YxV5bWQEh0GVlHywqWapl"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/2FKem4JxQdH0nhkqS2kkql"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e0\u05e2\u05de\u05d9",
         "url": "https://open.spotify.com/album/6krbGIrujgu33MeIRCKa77"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/0Yzc1XTlltIkgOXdPXTp3h"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e0\u05d9\u05e6\u05d7\u05d5\u05e0\u05d5\u05ea \u05e7\u05d8\u05e0\u05d9\u05dd",
         "url": "https://open.spotify.com/album/3HkLSBUqzUdr7S3Aqu6bS3"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/66LQkHS38PqBwy97zJZuGY"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d4\u05e1\u05d5\u05d3 \u05e9\u05dc\u05d9 \u05de\u05de\u05da (\u05d9\u05e9\u05e8\u05d0\u05dc \u05de\u05d9\u05d5\u05d6\u05d9\u05e7)",
         "url": "https://open.spotify.com/album/4lkgTJCSSQRS7vH1Ge3ZEb"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/6x9vvVtySmtQRh16pqd8f7"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e7\u05d5\u05de\u05e0\u05d3\u05d5",
         "url": "https://open.spotify.com/album/4WthoX9yTR2xawxJuh2ydH"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/5HZ1LedZCchX1utwTggBGe"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05de\u05d5\u05e2\u05d3\u05d5\u05df \u05d4\u05dc\u05d1\u05d1\u05d5\u05ea \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/4C4H3ZUO25XWcGKzApymNy"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/1RWuBpz8G6SpqClfU4eP4W"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d3\u05d0\u05de",
         "url": "https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05dc\u05d5\u05e4",
         "url": "https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d4\u05d8\u05d5\u05d1 \u05d4\u05e8\u05e2 \u05d5\u05e2\u05d5\u05d3\u05d9\u05d4",
         "url": "https://open.spotify.com/album/5kqDGzLWmnFuFoYkENRyKL"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/5OfxLzOuLlkfnzLQGPpVeQ"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d4\u05e9\u05d9\u05d1\u05d4 \u05dc\u05d0\u05d5\u05e7\u05d8\u05d5\u05d1\u05e8",
         "url": "https://open.spotify.com/album/4kXVIH5V3l0B1WwJbGJDCL"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/0Tcg2DOTuPJp0m0lVHqyzq"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e9\u05d9\u05d4\u05d9\u05d4 \u05dc\u05da \u05d8\u05d5\u05d1",
         "url": "https://open.spotify.com/album/0XWaaK1BCM8XALiyio8vQM"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/6Uk0HOyZ3MVw0Mg55Gvxj8"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e1\u05d5\u05e3 \u05d7\u05de\u05d4 \u05dc\u05d1\u05d5\u05d0",
         "url": "https://open.spotify.com/album/2SyQETIiAGH9ZnXVoG91oD"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/4ERPLdXEg2WqLoKNKnV7Vi"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e0\u05d9\u05e6\u05d7\u05d5\u05e0\u05d5\u05ea \u05e7\u05d8\u05e0\u05d9\u05dd",
         "url": "https://open.spotify.com/album/3HkLSBUqzUdr7S3Aqu6bS3"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/54cnTAWl7hZQx5AmgV2Wq8"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "10,000 Faces",
         "url": "https://open.spotify.com/album/6EdrwPIWH0WV1CNDRCz4ly"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/0CuWhNNup3O1iAmXvPNx9S"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "BA DA BING",
         "url": "https://open.spotify.com/album/5UxGQi98FToYbLqzjNDtpz"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/0WAMFZu9JKJ4HN3dzzPUgI"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e6'\u05d9\u05e7 \u05e6'\u05e7",
         "url": "https://open.spotify.com/album/6CPaapRNDzWiDB80rxJ2cn"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/78FrkrO3KgizjXDObyFvzW"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e0\u05d9\u05e1\u05e2 \u05e8\u05d7\u05d5\u05e7",
         "url": "https://open.spotify.com/album/3Num1bNG3qwucBOlWXw1um"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/6oeOKfiSiOf2kf5aSJdnQw"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d0\u05e0\u05d9",
         "url": "https://open.spotify.com/album/4hFFI8ktLislAMxG6b9Qdn"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05dc\u05dc\u05de\u05d5\u05d3 \u05dc\u05e2\u05d5\u05e3",
         "url": "https://open.spotify.com/album/7DyjXvf8jINRWV5mhxa83d"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/2hmKpvdywJSBEqHjIilPrE"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
         "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e1\u05d9\u05de\u05e0\u05d9\u05dd \u05de\u05dc\u05de\u05e2\u05dc\u05d4",
         "url": "https://open.spotify.com/album/1LQM5QiA2jDUmOb8MoCLAo"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/09pchIRVARhn5CncJ0ovH1"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e8\u05e7 \u05d4\u05d6\u05de\u05df",
         "url": "https://open.spotify.com/album/63bIatX9uWOdWXiq0lxTQl"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/1KMT5j1608afIjko14UBNP"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d0\u05d7\u05d3 \u05d5\u05d7\u05e6\u05d9",
         "url": "https://open.spotify.com/album/5mTo3wIujipSOX5q1URyWA"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/5xIBVAVyib1Lqmck1dn92N"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e7\u05d5\u05de\u05d4 34",
         "url": "https://open.spotify.com/album/24ePr0zzmUxutpvRnjXEmJ"
@@ -469,7 +485,7 @@
       "url": "https://open.spotify.com/track/7iEh0pSRgmMElOHjUeICUg"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "GODMOTHER (feat. Eden Ben Zaken)",
         "url": "https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05dc\u05d0 \u05dc\u05d1\u05d3",
         "url": "https://open.spotify.com/album/678NpQ9HYELExtlytmT3yZ"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/0nuP9nCHHPhjm9RtOdVh6O"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05db\u05de\u05d4 \u05d6\u05d4 \u05d9\u05e4\u05d4",
         "url": "https://open.spotify.com/album/15tAdynVlKViE6dlzHgKeU"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/49MdzRvQXZ9yJzaqzfAW5Y"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05dc\u05d0 \u05de\u05e2\u05e0\u05d9\u05d9\u05df \u05d0\u05d5\u05ea\u05d9",
         "url": "https://open.spotify.com/album/2XfUQjhpCuoqCY7lZryj34"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/3O28cHGMzaF9VYIPEJQRYb"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e8\u05d5\u05e7\u05d3\u05ea \u05d1\u05e9\u05e7\u05d9\u05e2\u05d4",
         "url": "https://open.spotify.com/album/3ofLyqRcjIOtU2oLGzz9Wo"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/0SH0QjZhzbsrgEHNmuO0wy"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05de\u05e8\u05d2\u05d9\u05e9 \u05d7\u05d3\u05e9",
         "url": "https://open.spotify.com/album/0JakFDhvKxHRYVFsut6GIY"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/0Kx1a50zYjkZJKx3lpR2ln"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d4\u05db\u05dc \u05e2\u05dc\u05d9\u05d9",
         "url": "https://open.spotify.com/album/3RoR6MRJa04nPmWn2w8UeW"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/6o2XPcnkxM9m9TPWozkQXn"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Pass U By",
         "url": "https://open.spotify.com/album/1GNrcBRDyHm8ryGreISHG8"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/4WAeKtWuQ1otWjpJE1l19I"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d7\u05d9\u05d9\u05dd \u05e9\u05e9\u05d5\u05d5\u05d4 \u05dc\u05d7\u05d9\u05d5\u05ea",
         "url": "https://open.spotify.com/album/6tKp6np3PrbKZtRz9DKYv4"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/7vXKcgkWP0iizZGUdCwTQQ"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05dc\u05d0 \u05e6\u05e8\u05d9\u05db\u05d4 \u05d0\u05e8\u05de\u05d5\u05df",
         "url": "https://open.spotify.com/album/4aQLxgfh3CILAQI1ppiEpD"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/7LUXcugqNbrfIiGtbnsCET"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/3BlK4IApUM1DGluMPaq5rN"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/4X6XWqlx1BA8vd4YKQvQol"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "DOCTOR",
         "url": "https://open.spotify.com/album/3cVm0FnIMMu6QORjxEcQmS"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/4klACZmMGG4qrBoKtcmOS9"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d0\u05d5\u05e8",
         "url": "https://open.spotify.com/album/5STvo8gcAPRfnyl0UBICgG"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/1HNItVZCGypC82tE0M82NP"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "Out of Reach",
         "url": "https://open.spotify.com/album/0BSoCHrlcG0P6n9tRHOFdz"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/7hOQIADSK0zU0FEuZJUoi7"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e8\u05d5\u05e7\u05d3\u05ea \u05d1\u05e9\u05e7\u05d9\u05e2\u05d4",
         "url": "https://open.spotify.com/album/2VgIKrfdFGjvQoIvfRzWJK"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/1cS2rYefcXlWEZ415IBv3a"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d4\u05db\u05dc \u05e2\u05dc\u05d9\u05d9",
         "url": "https://open.spotify.com/album/4GU3NU1mKc3DUZKDvmWCz8"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/07avaGrhcpGlhr47OrYJPj"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e9\u05dc\u05d5\u05d5\u05d4 \u05d1\u05d0\u05e8\u05de\u05d5\u05e0\u05d5\u05ea\u05d9\u05d9\u05da & \u05ea\u05e4\u05d9\u05dc\u05d5\u05ea",
         "url": "https://open.spotify.com/album/6S5pNTpoowgPTrAqdKe1l8"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/13tIYzackdZ8q8iiQXKOFO"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05db\u05dc \u05d9\u05d5\u05dd \u05de\u05d7\u05d3\u05e9",
         "url": "https://open.spotify.com/album/6ywfNDNXk1T1LYAJXYqJF6"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/6nxmm9rzACLHYAwwfAiFIp"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e2\u05de\u05de\u05d9\u05d4",
         "url": "https://open.spotify.com/album/1SJhgp2pQiNBEKpMpyb7Rt"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/52BDVbcJ37rWktwgdX4Asl"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05db\u05e4\u05e8\u05d4 \u05dc\u05e0\u05d3",
         "url": "https://open.spotify.com/album/2I1xx5j5N0yQhdSDAGsHZx"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/1Sw4FRafnTe0BLumLcpi3N"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05de\u05d7\u05db\u05d4 \u05dc\u05e0\u05e1",
         "url": "https://open.spotify.com/album/4Wb3f7FCYLFezTaUNlwpqX"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/3ELaVHTvk7FZLDbSWPXc1p"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e4\u05d5\u05e7\u05d7 \u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
         "url": "https://open.spotify.com/album/5FL5A4DCJ955I5vae7Mn7k"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/5veiCdquuriJk8S1SKs8zx"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05de\u05d4 \u05d4\u05d9\u05d9\u05e0\u05d5 \u05d1\u05d7\u05d9\u05d9\u05e0\u05d5",
         "url": "https://open.spotify.com/album/0kC0sxvu6dcPoDieuIMAQb"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/54uOGHUgbGIVhTWgR16yzM"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05de\u05d2\u05d3\u05dc\u05d5\u05e8",
         "url": "https://open.spotify.com/album/7fEKEDRFy7ypnRTD1oAC3N"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/4WDHvSm5IszIAW7GuQNVdF"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05de\u05d7\u05db\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0X9VqbFzEwFileNLRTO8vo"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/1Ppoa84gzdj9fEYfDPAozY"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u200e\u2068\u05db\u05e9\u05d6\u05d4 \u05e0\u05d2\u05de\u05e8",
         "url": "https://open.spotify.com/album/0Yfq0AxKYL7ZdnQu4xXSkh"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/6j8JqkDNLwuEJdsIaDf5D3"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e9\u05d9\u05e8 \u05dc\u05d0\u05d3\u05d9\u05e8",
         "url": "https://open.spotify.com/album/2W0HUkoZNF58ynX51OXMuz"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/5KtWKm2Js1HlJe7sICjEKS"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d2\u05d3\u05dc \u05e4\u05d4 \u05d3\u05d5\u05e8",
         "url": "https://open.spotify.com/album/1FFQW7fxw1hOg9UDhgmYtc"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/24u6yUc2ZMNxgmme53dbjQ"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "THE VANDALIST",
         "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
@@ -977,7 +993,7 @@
       "url": "https://open.spotify.com/track/41otZp9QAUXmj7e4g6Hqw1"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05e0\u05d2\u05d4",
         "url": "https://open.spotify.com/album/5192yySD6VHWjD7RfO6saY"
@@ -993,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4olpHwNTKgAncIajBtNJxT"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d4\u05d7\u05d5\u05de\u05e8 \u05d4\u05db\u05d7\u05d5\u05dc",
         "url": "https://open.spotify.com/album/3EmbyxWkGuC9tcTRTGGJzL"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/7dMyM3DhvQwrRnZ48C9iQF"
     },
     {
-      "added_at": "2024-10-24 21:00:00",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
         "name": "\u05d2\u05d9\u05d1\u05d5\u05e8\u05d4",
         "url": "https://open.spotify.com/album/7GLsPr27L5HOH6jC4kL9Rq"
@@ -1023,26 +1039,6 @@
       "duration_ms": 184178,
       "name": "\u05d2\u05d9\u05d1\u05d5\u05e8\u05d4",
       "url": "https://open.spotify.com/track/0KOkf0v3QXz60rjDOMMOK7"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "\u05de\u05d7\u05db\u05d9\u05dd \u05dc\u05e9\u05de\u05e9",
-        "url": "https://open.spotify.com/album/5yONsifEgFqS9pTgAiR7WY"
-      },
-      "artists": [
-        {
-          "name": "Gil Vain",
-          "url": "https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj"
-        },
-        {
-          "name": "\u05d4\u05d4\u05e8\u05db\u05d1 \u05e9\u05dc \u05d2\u05d9\u05dc \u05d5\u05d9\u05d9\u05df",
-          "url": "https://open.spotify.com/artist/3gkIfirLCeqrXJpODHDC82"
-        }
-      ],
-      "duration_ms": 196259,
-      "name": "\u05d0\u05d4\u05d5\u05d1\u05d9",
-      "url": "https://open.spotify.com/track/7ykOWQ2VZhM6yekfCLpaUy"
     }
   ],
   "unique_name": "\u05e4\u05d5\u05e4 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 \u05d7\u05d3\u05e9",

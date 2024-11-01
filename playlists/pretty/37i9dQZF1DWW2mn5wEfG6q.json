@@ -1,6 +1,6 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 82685,
+  "num_followers": 82705,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Cupid Deluxe",
-        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "You're Not Good Enough",
-      "url": "https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "If You Wait (Deluxe Version)",
         "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 204266,
       "name": "Wasting My Young Years",
       "url": "https://open.spotify.com/track/0CzKeBPCiBrGZRV9eLzzBo"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Cupid Deluxe",
+        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "You're Not Good Enough",
+      "url": "https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -575,6 +575,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "If You Wait (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/6k1I9gABiasGZiWWAosAEb"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Spreading Rumours",
         "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "If You Wait (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/6k1I9gABiasGZiWWAosAEb"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -687,18 +687,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Spreading Rumours",
-        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+        "name": "If You Wait (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 215520,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
+      "duration_ms": 205560,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/2ENgaBS5vLUpqUw8inkZZp"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -715,38 +715,6 @@
       "duration_ms": 254620,
       "name": "Girls",
       "url": "https://open.spotify.com/track/5WSdMcWTKRdN1QYVJHJWxz"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Don't Swallow the Cap",
-      "url": "https://open.spotify.com/track/3l3SbRkrK1aQ5Dk1h7vroV"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -783,6 +751,38 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "Spreading Rumours",
+        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "If You Wait (Deluxe Version)",
         "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
       },
@@ -792,9 +792,25 @@
           "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 205560,
-      "name": "Hey Now",
-      "url": "https://open.spotify.com/track/2ENgaBS5vLUpqUw8inkZZp"
+      "duration_ms": 270586,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/4MKO1xltVSQlMMZUfOMEA1"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Don't Swallow the Cap",
+      "url": "https://open.spotify.com/track/3l3SbRkrK1aQ5Dk1h7vroV"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -811,6 +827,22 @@
       "duration_ms": 163626,
       "name": "Harlem",
       "url": "https://open.spotify.com/track/573latfTMO7SpGtStVrQx5"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "Diane Young",
+      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -863,38 +895,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/1qFb85QhwOqpnAKh7ahsGQ"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 160066,
-      "name": "Diane Young",
-      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Trouble Will Find Me",
         "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 283386,
       "name": "This is the Last Time",
       "url": "https://open.spotify.com/track/70ZuQywnmOpqcIiEnUA5yV"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/1qFb85QhwOqpnAKh7ahsGQ"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -927,22 +943,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "If You Wait (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/4MKO1xltVSQlMMZUfOMEA1"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "6 Feet Beneath the Moon",
-        "url": "https://open.spotify.com/album/3nR8btC3svZmUktrXDBuRY"
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
       },
       "artists": [
         {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/1RRBuxXdsIB0yazqGDlKTj"
+      "duration_ms": 193853,
+      "name": "On Our Way",
+      "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+        "name": "6 Feet Beneath the Moon",
+        "url": "https://open.spotify.com/album/3nR8btC3svZmUktrXDBuRY"
       },
       "artists": [
         {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 193853,
-      "name": "On Our Way",
-      "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"
+      "duration_ms": 215506,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/1RRBuxXdsIB0yazqGDlKTj"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8"
+        "name": "Junip",
+        "url": "https://open.spotify.com/album/2dOk4AI8yVOTMjd6EQJgWP"
       },
       "artists": [
         {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7a6D9wPtTDFZs8gvVY7b6t"
+      "duration_ms": 339293,
+      "name": "Line of Fire",
+      "url": "https://open.spotify.com/track/6qnY4BjKuT0aFBdDSbXl2q"
     },
     {
       "added_at": "2021-09-02 08:24:19",

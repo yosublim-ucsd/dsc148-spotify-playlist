@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: THE JET BOY BANGERZ from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,195 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,197 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 31 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 |
 | 32 | [Memoria](https://open.spotify.com/track/5Ju33ZTll3Drgq3AM4H53P) | [BMSG MARINE](https://open.spotify.com/artist/22YAR42Q5EoaFW439kmIT8), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [KANON](https://open.spotify.com/artist/3n3mqnIcMjFF2ldvE5QRBo) | [Memoria](https://open.spotify.com/album/1BIu6t9BEGZWrLrL2AdcRF) | 4:01 |
 | 33 | [五月雨 \(Samidare\)](https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [五月雨 \(Samidare\)](https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE) | 3:11 |
-| 34 | [moooove!!](https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [moooove!!](https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx) | 3:00 |
-| 35 | [GOOD DAY](https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:52 |
-| 36 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
+| 34 | [ボーイミーツガール](https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Re:ERA](https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj) | 4:02 |
+| 35 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
+| 36 | [GOOD DAY](https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:52 |
 | 37 | [Believe in You](https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Believe in You](https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH) | 4:16 |
 | 38 | [Seaside Story](https://open.spotify.com/track/1ZMv8crk9nkfKhTyneEB5s) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Seaside Story](https://open.spotify.com/album/1tcQGv1r3PTF9H7igHDwWt) | 3:10 |
-| 39 | [ボーイミーツガール](https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Re:ERA](https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj) | 4:02 |
+| 39 | [moooove!!](https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [moooove!!](https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx) | 3:00 |
 | 40 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
 | 41 | [FIRST](https://open.spotify.com/track/6YlLUGKM1bsa3yioZHQ258) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [FIRST](https://open.spotify.com/album/1zcQeP14f6c0LuCRsMnil8) | 3:14 |
 | 42 | [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Parcels
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,276 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,279 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 56 | [Full Sight](https://open.spotify.com/track/7KT3LIx1RWjPT0xjrx5DME) | [Arbes](https://open.spotify.com/artist/4EJsm8GVADYCXpKNNrFjtu) | [Full Sight](https://open.spotify.com/album/3leDAA5JzBoFe0zfQedTsz) | 3:00 |
 | 57 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
 | 58 | [Passionfruit](https://open.spotify.com/track/1wrIvEXTRaA2FWDFYhgcNW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Happiness In A Place It Shouldn't Be](https://open.spotify.com/album/7bB8437Z2UvT6SSMFBWez2) | 2:49 |
-| 59 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
+| 59 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
 | 60 | [Love Enemy](https://open.spotify.com/track/1w8l4gl6K6f058btfRUVj8) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Love Enemy](https://open.spotify.com/album/4MKGeejGJTYDZFHSDvK1od) | 3:42 |
 | 61 | [MY RELEASE](https://open.spotify.com/track/45mL6vnjcXGGSZ1R4nQXFp) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [MY RELEASE](https://open.spotify.com/album/0D52WbamKzwFj3s3vhBkR8) | 3:08 |
 | 62 | [High Beaming](https://open.spotify.com/track/5FtasByO6sDnqnG3mSoVjH) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [High Beaming](https://open.spotify.com/album/3oHY7GXtZp2EDsCiBhEDvY) | 3:34 |

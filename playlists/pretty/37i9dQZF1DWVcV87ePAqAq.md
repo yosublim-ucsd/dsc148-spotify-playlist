@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,454 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,427 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 19 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 |
 | 20 | [Monster](https://open.spotify.com/track/0BHNkpGmcexaGyUHDZCQXG) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/6IpcyL6OyZJKm5DiHpk9ig) | 2:24 |
 | 21 | [Feeling Good](https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Feeling Good](https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk) | 3:23 |
-| 22 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
-| 23 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
+| 22 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
+| 23 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
 | 24 | [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 |
 | 25 | [Rockafeller Skank](https://open.spotify.com/track/2CeMzUrbykkE7QWA3qlXvx) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Rockafeller Skank](https://open.spotify.com/album/4VzJuJaV7gtjJhXMLEt9WD) | 2:25 |
 | 26 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 40 | [Kung för en dag](https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Uggla Box](https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx) | 3:18 |
 | 41 | [Din tid kommer \- Otto Knows Remix](https://open.spotify.com/track/04LHuPqOMSpnHFaziPq1qO) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Din tid kommer \(Otto Knows Remix\)](https://open.spotify.com/album/1L25xMsuDCuBcb0rJnggWr) | 4:46 |
 | 42 | [Heaven](https://open.spotify.com/track/70jAESz42ftg7bQsihU6hL) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Heaven](https://open.spotify.com/album/0wX0I9s2XCXV6IODVIwIkA) | 2:45 |
-| 43 | [Sun Goes Up](https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Sun Goes Up](https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT) | 2:13 |
-| 44 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
+| 43 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
+| 44 | [Sun Goes Up](https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Sun Goes Up](https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT) | 2:13 |
 | 45 | [PO PO PULL UP](https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [PO PO PULL UP](https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z) | 2:21 |
 | 46 | [Summer Dreaming](https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Summer Dreaming](https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R) | 3:02 |
 | 47 | [UNGA & FRIA REMIX](https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [UNGA & FRIA REMIX](https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX) | 3:04 |

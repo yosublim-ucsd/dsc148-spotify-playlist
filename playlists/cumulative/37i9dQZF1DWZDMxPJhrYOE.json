@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 190904,
       "name": "Allure (feat. Future & Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 135000,
       "name": "CLEOPATRA",
       "url": "https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB"
@@ -1168,6 +1168,24 @@
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "album": {
+        "name": "Disturbing The Peace",
+        "url": "https://open.spotify.com/album/0E50IVJ9SGUNRw6kaOK1Rq"
+      },
+      "artists": [
+        {
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153426,
+      "name": "Disturbing The Peace",
+      "url": "https://open.spotify.com/track/27gGalmVwyiHR7NDGMTd8c"
     },
     {
       "album": {
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 178624,
       "name": "Fri",
       "url": "https://open.spotify.com/track/5VQ2lgaLOhJKXwgqKaPR3w"
@@ -2278,6 +2296,28 @@
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
+    },
+    {
+      "album": {
+        "name": "Fri",
+        "url": "https://open.spotify.com/album/6IihVWau3jW3N1ho4ySKDk"
+      },
+      "artists": [
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162677,
+      "name": "Hjerte Til Salg",
+      "url": "https://open.spotify.com/track/4qHcg5avMz0IJdzvTMJimy"
     },
     {
       "album": {
@@ -3609,6 +3649,24 @@
     },
     {
       "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
+    },
+    {
+      "album": {
         "name": "One Call",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -4186,7 +4244,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 242926,
       "name": "Sortedam",
       "url": "https://open.spotify.com/track/3KKfy9c7s81AOoXbqd1obP"

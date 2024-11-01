@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 437999,
+  "num_followers": 438049,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Rite of Passage",
-        "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Deep Blue C",
         "url": "https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 266717,
       "name": "Deep Blue C",
       "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Rite of Passage",
+        "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Listen to This",
-        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
-      },
-      "artists": [
-        {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        }
-      ],
-      "duration_ms": 253577,
-      "name": "Listen to This",
-      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
+        "name": "Listen to This",
+        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
       },
       "artists": [
         {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
         }
       ],
-      "duration_ms": 264186,
-      "name": "When We Dance",
-      "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
+      "duration_ms": 253577,
+      "name": "Listen to This",
+      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -639,6 +623,22 @@
       "duration_ms": 238600,
       "name": "Avenue",
       "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 264186,
+      "name": "When We Dance",
+      "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Global Force",
-        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
-      },
-      "artists": [
-        {
-          "name": "3rd Force",
-          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Big Shot",
-      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Uptown Blues",
         "url": "https://open.spotify.com/album/1i5pM3abvuA6Kgw6eCjr0U"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 223473,
       "name": "Blues for Jeff",
       "url": "https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Global Force",
+        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
+      },
+      "artists": [
+        {
+          "name": "3rd Force",
+          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
+        "name": "Infinite Love",
+        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
+      },
+      "artists": [
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 257367,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 299626,
       "name": "The B Spot",
       "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
-        "name": "Infinite Love",
-        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 257367,
-      "name": "Infinite Love",
-      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "So Many Ways",
-        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 247440,
-      "name": "So Many Ways",
-      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Out Of The Shadows",
         "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 281413,
       "name": "In Key",
       "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "So Many Ways",
+        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 247440,
+      "name": "So Many Ways",
+      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Let's Get Away",
-        "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "Down Here On The Ground",
-      "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Mr. Kool",
         "url": "https://open.spotify.com/album/1gkxk0diBxNzEwqOwjiISl"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 269106,
       "name": "Mr Kool",
       "url": "https://open.spotify.com/track/5svERXp8eoh8MydumgnC0J"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Let's Get Away",
+        "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "Down Here On The Ground",
+      "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Tell Me Something",
-        "url": "https://open.spotify.com/album/6Aiu0gSiVwJiRN1VavzPP4"
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U"
       },
       "artists": [
         {
-          "name": "Quintin Gerard W.",
-          "url": "https://open.spotify.com/artist/6g4eHNkohXvvsUwagnrIeL"
+          "name": "Alex Bugnon",
+          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
         }
       ],
-      "duration_ms": 296666,
-      "name": "Tell Me Something",
-      "url": "https://open.spotify.com/track/6KIs2Q5C8kx3UqLKxm00PC"
+      "duration_ms": 324133,
+      "name": "His Coolness",
+      "url": "https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U"
+        "name": "Tell Me Something",
+        "url": "https://open.spotify.com/album/6Aiu0gSiVwJiRN1VavzPP4"
       },
       "artists": [
         {
-          "name": "Alex Bugnon",
-          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
+          "name": "Quintin Gerard W.",
+          "url": "https://open.spotify.com/artist/6g4eHNkohXvvsUwagnrIeL"
         }
       ],
-      "duration_ms": 324133,
-      "name": "His Coolness",
-      "url": "https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL"
+      "duration_ms": 296666,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/6KIs2Q5C8kx3UqLKxm00PC"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv"
-      },
-      "artists": [
-        {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "A Day In The Life",
         "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 264600,
       "name": "Only 4 One Moment",
       "url": "https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1955,8 +1955,8 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/35w3Ip2wbKcpkDgkFWs3VO"
+        "name": "Retrospect",
+        "url": "https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh"
       },
       "artists": [
         {
@@ -1964,9 +1964,9 @@
           "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
         }
       ],
-      "duration_ms": 224000,
-      "name": "BLUE MOON",
-      "url": "https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP"
+      "duration_ms": 260886,
+      "name": "Sample That",
+      "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -2131,8 +2131,8 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Retrospect",
-        "url": "https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/35w3Ip2wbKcpkDgkFWs3VO"
       },
       "artists": [
         {
@@ -2140,9 +2140,9 @@
           "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
         }
       ],
-      "duration_ms": 260886,
-      "name": "Sample That",
-      "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
+      "duration_ms": 224000,
+      "name": "BLUE MOON",
+      "url": "https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP"
     },
     {
       "added_at": "2024-07-29 02:46:44",

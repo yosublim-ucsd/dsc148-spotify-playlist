@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: CLAN QUEEN
 
-1,759 songs - 4 day 13 hr 20 min
+1,760 songs - 4 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [God of War](https://open.spotify.com/track/7GjM1GPfsJh5IxULu70vfb) | [Valhalla](https://open.spotify.com/artist/2GHydTraZoSOV4UNazq6AJ) | [God of War](https://open.spotify.com/album/5KyGsgZxIubN0KYXcGG4gj) | 6:09 | 2023-10-31 | 2023-11-08 |
 | [God Willing](https://open.spotify.com/track/6aQy9KENQWKlhqcHUax5ln) | [アルバ・セラ](https://open.spotify.com/artist/1fYq3V8T7IStSwwMth3chB) | [God Willing](https://open.spotify.com/album/7gSLS0JtHCihkRxEuZ2TOf) | 2:43 | 2023-06-22 | 2023-10-13 |
 | [GOKKO](https://open.spotify.com/track/1rhpSPzVqNW1m3FPwA1b2s) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [GOKKO](https://open.spotify.com/album/1lVJ1LWjQfnthPH3gbUZwJ) | 3:06 | 2023-04-18 | 2023-05-27 |
+| [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/track/5wpOZzvsXpZyM6yblEMRv9) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx), [くるま](https://open.spotify.com/artist/2A9KcnzAkVOiKKCE4VJJEf) | [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/album/6b6lvud6lpyUkay9YreLIq) | 3:09 | 2024-10-29 |  |
 | [golden drop](https://open.spotify.com/track/4skcyviAmJy1Ipf9kDcWxK) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [golden drop](https://open.spotify.com/album/6J7appOuXxe42HB9KhAl4k) | 1:24 | 2023-02-28 | 2023-03-15 |
 | [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 | 2024-06-18 |  |
 | [good time](https://open.spotify.com/track/0tVG7UROkKBgW2YtYvAkst) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [good time](https://open.spotify.com/album/54bVETGL4E3SpCt2ZWJz5s) | 3:12 | 2024-01-09 | 2024-02-01 |
@@ -774,7 +775,7 @@
 | [Through the dark](https://open.spotify.com/track/7xRoiPHUwgnnhlxxR8V2wp) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [On This Planet](https://open.spotify.com/album/50jTBdULiq1mR4B8DG5m6e) | 3:29 | 2022-05-26 | 2022-06-01 |
 | [TICK! TICK! TICK!](https://open.spotify.com/track/3PMbqLvKCQJNkfYhpZtFrf) | [Lay](https://open.spotify.com/artist/3vF4TbdonN1HctKxpynbZY) | [TICK! TICK! TICK!](https://open.spotify.com/album/1m0ct7xlIYyMV7KXYhDQyx) | 2:36 | 2022-11-01 | 2022-11-09 |
 | [Tightrope](https://open.spotify.com/track/19TNKUCodtNmuEnypDZe4u) | [UshioReira](https://open.spotify.com/artist/2oaEUOvg9jABxWwVPUsepm) | [Tightrope](https://open.spotify.com/album/62jFAbJiXtmcALmL7JMAOF) | 4:55 | 2022-07-19 | 2022-07-27 |
-| [Till We End The Day](https://open.spotify.com/track/7rTq86NSekRtejZb6XcbYA) | [Do As Infinity](https://open.spotify.com/artist/0gakJs5JAKmJZ4KnAHMh9i) | [Till We End The Day](https://open.spotify.com/album/06Qbx50LTTeGnZ5l8IDmYH) | 4:25 | 2024-10-01 |  |
+| [Till We End The Day](https://open.spotify.com/track/7rTq86NSekRtejZb6XcbYA) | [Do As Infinity](https://open.spotify.com/artist/0gakJs5JAKmJZ4KnAHMh9i) | [Till We End The Day](https://open.spotify.com/album/06Qbx50LTTeGnZ5l8IDmYH) | 4:25 | 2024-10-01 | 2024-11-01 |
 | [Time flies](https://open.spotify.com/track/3BfjuppnLZjP36VpTGPjpG) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Me!!!](https://open.spotify.com/album/0FcYcF9n17R6vDn11uLwD3) | 2:12 | 2023-10-24 | 2023-11-01 |
 | [Timeless Melody \- Album Ver.](https://open.spotify.com/track/6ZL95Gf3zyUx0PZrxbwZfX) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 2:09 | 2023-01-17 | 2023-03-08 |
 | [Tokeru](https://open.spotify.com/track/1Ebi6bpJyPf8iZcvyceTQE) | [Penguinrush](https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io) | [shin zen bi](https://open.spotify.com/album/3auUQy4uLMntgH8F71vHxR) | 5:46 | 2024-01-16 | 2024-02-01 |

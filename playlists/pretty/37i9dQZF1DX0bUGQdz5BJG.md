@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tyler Joe Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,970 likes - 206 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,017 likes - 206 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,7 +190,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 180 | [Start at the End](https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Start at the End](https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1) | 3:28 |
 | 181 | [Where I Belong](https://open.spotify.com/track/4QRjUthgpFqXH9X6SPYQee) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Where I Belong](https://open.spotify.com/album/5EyOjMrI5s4lvxX4QT63V0) | 2:48 |
 | 182 | [Better Than You Left Me](https://open.spotify.com/track/545YitlCTuEg7C3DU27n6H) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [PUZZLED](https://open.spotify.com/album/3pxSPXoAtymp2WjtmdgSyo) | 2:55 |
-| 183 | [Hate the Beer](https://open.spotify.com/track/2QYSTXzO4oMmQlDaFHYOcM) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Hate the Beer](https://open.spotify.com/album/1KAzPYmu6MrdkZGAtlj5aP) | 2:43 |
+| 183 | [Hate The Beer](https://open.spotify.com/track/2QYSTXzO4oMmQlDaFHYOcM) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Hate The Beer](https://open.spotify.com/album/1KAzPYmu6MrdkZGAtlj5aP) | 2:43 |
 | 184 | [Life Right Now](https://open.spotify.com/track/5CTXiBT0EsREot9fJI5cXm) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Life Right Now](https://open.spotify.com/album/2zviWYNoGeSzAD3mZzNFV7) | 3:10 |
 | 185 | [Luckier](https://open.spotify.com/track/2ZryPLqBfvls1yKC9wlqv0) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [Luckier](https://open.spotify.com/album/1Ej6Oap0FVOYsnvBQcWj2u) | 3:14 |
 | 186 | [I’ve Got Three](https://open.spotify.com/track/32VeKxlQMOOK4mv8bzgeAr) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again \(Again\)](https://open.spotify.com/album/3jR740UqwQpi3udaTRE55D) | 4:05 |

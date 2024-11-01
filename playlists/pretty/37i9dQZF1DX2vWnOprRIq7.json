@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Benito Cerati.",
-  "num_followers": 19340,
+  "num_followers": 19346,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "La virgen de los vientos",
-        "url": "https://open.spotify.com/album/2qQH4ZWuweoGsUbT2C4VH3"
-      },
-      "artists": [
-        {
-          "name": "Mariana P\u00e4raway",
-          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
-        }
-      ],
-      "duration_ms": 162232,
-      "name": "La virgen de los vientos",
-      "url": "https://open.spotify.com/track/451rzzYSclxKztbHJT1C5B"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "LOS AMANTES DIFERENTES",
         "url": "https://open.spotify.com/album/3d9wTAy036vvOmZPUH8qF9"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 227755,
       "name": "LOS AMANTES DIFERENTES",
       "url": "https://open.spotify.com/track/3jqoACT04nMZowIFsjw5VP"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "La virgen de los vientos",
+        "url": "https://open.spotify.com/album/2qQH4ZWuweoGsUbT2C4VH3"
+      },
+      "artists": [
+        {
+          "name": "Mariana P\u00e4raway",
+          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
+        }
+      ],
+      "duration_ms": 162232,
+      "name": "La virgen de los vientos",
+      "url": "https://open.spotify.com/track/451rzzYSclxKztbHJT1C5B"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Matanza",
-        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        },
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 249148,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Matanza",
+        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        },
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        }
+      ],
+      "duration_ms": 249148,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1067,8 +1067,8 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "p\u00e9talos",
-        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
+        "name": "anhelo",
+        "url": "https://open.spotify.com/album/0ycnaEHl68CAPA2Y4OC6vZ"
       },
       "artists": [
         {
@@ -1076,13 +1076,13 @@
           "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
         },
         {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 206586,
-      "name": "p\u00e9talos",
-      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
+      "duration_ms": 238546,
+      "name": "anhelo",
+      "url": "https://open.spotify.com/track/2082tbABLulK203QC2AXhB"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Nada que ver",
-        "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
-      },
-      "artists": [
-        {
-          "name": "Halpe",
-          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
-        },
-        {
-          "name": "Solo Juan",
-          "url": "https://open.spotify.com/artist/6RokCoxONJFwZ3myq6unmI"
-        }
-      ],
-      "duration_ms": 193971,
-      "name": "Nada que ver",
-      "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Voces",
         "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 192786,
       "name": "Voces",
       "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Nada que ver",
+        "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
+      },
+      "artists": [
+        {
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
+        },
+        {
+          "name": "Solo Juan",
+          "url": "https://open.spotify.com/artist/6RokCoxONJFwZ3myq6unmI"
+        }
+      ],
+      "duration_ms": 193971,
+      "name": "Nada que ver",
+      "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "anhelo",
-        "url": "https://open.spotify.com/album/0ycnaEHl68CAPA2Y4OC6vZ"
+        "name": "p\u00e9talos",
+        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
       },
       "artists": [
         {
@@ -1268,13 +1268,13 @@
           "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
         },
         {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
         }
       ],
-      "duration_ms": 238546,
-      "name": "anhelo",
-      "url": "https://open.spotify.com/track/2082tbABLulK203QC2AXhB"
+      "duration_ms": 206586,
+      "name": "p\u00e9talos",
+      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Bocado a Bocado",
-        "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
-      },
-      "artists": [
-        {
-          "name": "UMA",
-          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
-        },
-        {
-          "name": "Lucas Mart\u00ed",
-          "url": "https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP"
-        }
-      ],
-      "duration_ms": 187433,
-      "name": "Bocado a Bocado",
-      "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Pervertida",
         "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Bocado a Bocado",
+        "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
+      },
+      "artists": [
+        {
+          "name": "UMA",
+          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
+        },
+        {
+          "name": "Lucas Mart\u00ed",
+          "url": "https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Bocado a Bocado",
+      "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1700,7 +1700,7 @@
       },
       "artists": [
         {
-          "name": "In\u00e9s Mauri",
+          "name": "Se\u00f1orita Novio",
           "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
         },
         {
@@ -1832,7 +1832,7 @@
       },
       "artists": [
         {
-          "name": "In\u00e9s Mauri",
+          "name": "Se\u00f1orita Novio",
           "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
         }
       ],

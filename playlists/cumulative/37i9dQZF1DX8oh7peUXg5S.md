@@ -2,9 +2,9 @@
 
 ### [Cantautores](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Robe y Rupatrupa.
 
-308 songs - 19 hr 34 min
+309 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Fina Estampa](https://open.spotify.com/track/7COfZjseddNFUpZcONru4M) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM), [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Mujeres de Fina Estampa](https://open.spotify.com/album/5YmzTZ5AVgpJmKLTfSviCF) | 3:07 | 2022-06-09 |  |
 | [Final del viaje](https://open.spotify.com/track/08b230O93qX7fRdd1G7nXR) | [Hilario Camacho](https://open.spotify.com/artist/1cOxGAaoIcFJlo7WiuKciZ) | [La mirada del espejo](https://open.spotify.com/album/148d5ViwxyvIwKirvNTqBH) | 3:26 | 2022-06-09 | 2022-07-26 |
 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 | 2022-06-09 |  |
+| [Flores de Trinchera](https://open.spotify.com/track/5nEbSbGi12XatVVjeoTUU8) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei), [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Flores de Trinchera](https://open.spotify.com/album/09zUPBZdo5rK7gvVil5qj9) | 8:00 | 2024-10-31 |  |
 | [Frente a frente \(feat\. Tulsa\)](https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [Las Consecuencias](https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO) | 3:53 | 2022-06-30 | 2024-04-19 |
 | [Frente a frente \(feat\. Tulsa\)](https://open.spotify.com/track/73KNzyiG6xM6xguaLe4ICj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [Las Consecuencias](https://open.spotify.com/album/5xLCQx2sfojdolO0HQm4Et) | 3:53 | 2022-06-30 | 2022-07-16 |
 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 | 2022-06-09 |  |
@@ -129,7 +130,7 @@
 | [Interludio para mi Julita](https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Interludio para mi Julita](https://open.spotify.com/album/3C6poAVbvKcs2CY8P2SzwH) | 1:29 | 2023-08-10 | 2023-09-15 |
 | [Isla Mujeres](https://open.spotify.com/track/18uARsQnALp0MbkEXbR99v) | [Javier Ruibal](https://open.spotify.com/artist/2BGKgfF1cNY6KyfTfS3sVE) | [Las Damas Primero](https://open.spotify.com/album/4kg5YpAPT65X9ci6QVQl5t) | 4:46 | 2022-06-09 | 2022-07-28 |
 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 | 2022-06-30 | 2022-09-15 |
-| [L'estaca](https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa) | [Lluis Llach](https://open.spotify.com/artist/3zVGMz661UQBxwt04UIYV0) | [Les Seves Primeres Cançons](https://open.spotify.com/album/1tuHQ9D9yAyauHsmnWK3Ke) | 2:24 | 2024-05-21 |  |
+| [L'estaca](https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa) | [Lluis Llach](https://open.spotify.com/artist/3zVGMz661UQBxwt04UIYV0) | [Les Seves Primeres Cançons](https://open.spotify.com/album/1tuHQ9D9yAyauHsmnWK3Ke) | 2:24 | 2024-05-21 | 2024-11-01 |
 | [La Belleza](https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:53 | 2022-06-09 | 2022-07-29 |
 | [La Cara Amable del Mundo](https://open.spotify.com/track/5Ay3mcEIMGxYIIerQtO3Sh) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Abrazo](https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18) | 3:58 | 2024-04-25 | 2024-10-04 |
 | [la corriente](https://open.spotify.com/track/3wFJRE20CNfzL0CqRj45Vn) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 2:55 | 2022-06-09 | 2022-07-29 |

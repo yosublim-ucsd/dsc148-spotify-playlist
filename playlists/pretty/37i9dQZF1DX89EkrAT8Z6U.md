@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,908 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,378 likes - 75 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 63 | [BREATHE](https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx), [January RT](https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu) | [BREATHE](https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx) | 3:02 |
 | 64 | [Break Shit](https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Break Shit](https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA) | 1:35 |
 | 65 | [RUN UP!](https://open.spotify.com/track/7oDUCu36rMex65tc03C8er) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ), [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [RUN UP!](https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5) | 2:19 |
-| 66 | [March!](https://open.spotify.com/track/0G4uu3BzqOmgHW7sP5WHBN) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT), [AVGOTDRIP](https://open.spotify.com/artist/7igrDEryu1H8kwrg2jMP06) | [March!](https://open.spotify.com/album/2oKf1enSq9QsAoWqSWMtHa) | 2:14 |
-| 67 | [Dead on Arrival](https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Dead on Arrival](https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx) | 2:52 |
+| 66 | [Dead on Arrival](https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Dead on Arrival](https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx) | 2:52 |
+| 67 | [March!](https://open.spotify.com/track/0G4uu3BzqOmgHW7sP5WHBN) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT), [AVGOTDRIP](https://open.spotify.com/artist/7igrDEryu1H8kwrg2jMP06) | [March!](https://open.spotify.com/album/2oKf1enSq9QsAoWqSWMtHa) | 2:14 |
 | 68 | [5 by 5](https://open.spotify.com/track/0n3xqX2q2ioobUvPHcMpcH) | [lykia](https://open.spotify.com/artist/4ZIERQTvWH2EbE5kyQmQTy) | [5 by 5](https://open.spotify.com/album/61o4baUvcSo98fr0noiyRe) | 1:11 |
 | 69 | [Plenty Guns](https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Plenty Guns](https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS) | 1:26 |
 | 70 | [Lost It All](https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9) | [Lost It All](https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC) | 4:02 |
-| 71 | [MAMBO](https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MAMBO](https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7) | 2:07 |
-| 72 | [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 |
+| 71 | [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 |
+| 72 | [MAMBO](https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MAMBO](https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7) | 2:07 |
 | 73 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
 | 74 | [Dalai Lama](https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Dalai Lama](https://open.spotify.com/album/78gNxj2hj39is15hwP82IC) | 2:15 |
-| 75 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
+| 75 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 |
 
 Snapshot ID: `ZutCTgAAAAB9DhtM/iOVoWbJ71NLtU5X`

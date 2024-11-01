@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2174,
+  "num_followers": 2179,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAABShGhhTR7xWSk0g75AIE63",
+  "snapshot_id": "ZyF3AAAAAAD00bspRKlIODYoLz/hywDX",
   "tracks": [
     {
       "added_at": null,
@@ -326,11 +326,15 @@
         {
           "name": "Robert Aiki Aubrey Lowe",
           "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
+        },
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
         }
       ],
-      "duration_ms": 83315,
-      "name": "The Universal End",
-      "url": "https://open.spotify.com/track/66DXzaaWWCZGyq64Jp17Gs"
+      "duration_ms": 219515,
+      "name": "A Minor Astronomical Event",
+      "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
     },
     {
       "added_at": null,
@@ -376,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 74153,
-      "name": "Old Neighborhood",
-      "url": "https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k"
+      "duration_ms": 92376,
+      "name": "My Mother Had Me Committed",
+      "url": "https://open.spotify.com/track/61Mo11r2PTlNIMbTSbsZLJ"
     },
     {
       "added_at": null,
@@ -418,15 +422,11 @@
         {
           "name": "Robert Aiki Aubrey Lowe",
           "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
-        },
-        {
-          "name": "Colin Stetson",
-          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
         }
       ],
-      "duration_ms": 219515,
-      "name": "A Minor Astronomical Event",
-      "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
+      "duration_ms": 83315,
+      "name": "The Universal End",
+      "url": "https://open.spotify.com/track/66DXzaaWWCZGyq64Jp17Gs"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 92376,
-      "name": "My Mother Had Me Committed",
-      "url": "https://open.spotify.com/track/61Mo11r2PTlNIMbTSbsZLJ"
+      "duration_ms": 74153,
+      "name": "Old Neighborhood",
+      "url": "https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
       "duration_ms": 96893,
       "name": "The Execution",
       "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Haunting in Venice (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 494468,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz"
     },
     {
       "added_at": null,

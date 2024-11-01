@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: SICARIO
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Onirama
 
-90 songs - 4 hr 41 min
+92 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [FLX](https://open.spotify.com/track/5BGsV1OzGDMvtu15TC0fFU) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [FLX](https://open.spotify.com/album/7uLuTUvHNihuuKhZd7yGdO) | 2:24 | 2024-06-27 | 2024-09-27 |
 | [GAZI](https://open.spotify.com/track/3p5pRqTyhP2APMspQvccvA) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [GAZI](https://open.spotify.com/album/74esBZnAUIfyXFfsFJ6fF0) | 2:46 | 2024-10-17 |  |
 | [Gdysou](https://open.spotify.com/track/0jVTOnmmmhhbgriZBBV0JC) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Gdysou](https://open.spotify.com/album/3UTThh1dmkABnn4Jxq8AZs) | 2:55 | 2024-06-27 | 2024-07-12 |
+| [Gia Panta Kai Mia Mera](https://open.spotify.com/track/3SkCF5ITFZ4qEJ2QPjkY4L) | [Onirama](https://open.spotify.com/artist/0aFk1wZrmQnSHmbSMiZUes) | [Gia Panta Kai Mia Mera](https://open.spotify.com/album/4zY1YVxKhvJP2K7GFuDl3o) | 3:41 | 2024-10-31 |  |
 | [Halima](https://open.spotify.com/track/51IOc0jl3D1jzh9gxmYB0n) | [KONY](https://open.spotify.com/artist/0uf238oeLAQXNuy8WNKgce), [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Halima](https://open.spotify.com/album/2Zt6kRIh2TjWqEW1G4y8b7) | 2:49 | 2024-06-27 | 2024-09-13 |
 | [Iliggos](https://open.spotify.com/track/2UPMkklYJv15deUPc0a7YZ) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Iliggos](https://open.spotify.com/album/4GKz0pYvJiFWpdTlVaO8so) | 3:48 | 2024-06-27 |  |
 | [Irema To Leo](https://open.spotify.com/track/4L9tzIelOaND2gIkVVwK4M) | [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Irema To Leo](https://open.spotify.com/album/6WmI1u07BIgg1GuoF01Xtp) | 2:17 | 2024-09-12 |  |
@@ -64,11 +65,11 @@
 | [Mykonos \- Afro House Remix](https://open.spotify.com/track/6ojWvKOZz9V2dESo6KBotL) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Michael Tsaousopoulos](https://open.spotify.com/artist/5PqeqrwrU93NISsOPbYPHN) | [Mykonos \(Afro House Remix\)](https://open.spotify.com/album/3TPCyqLmLEa1i1ANxmHGpd) | 2:28 | 2024-07-18 | 2024-10-25 |
 | [Mythos](https://open.spotify.com/track/0fSun9srR8uNjfSMYkxVn5) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Mythos](https://open.spotify.com/album/58ot8gXv5rkCoHrsPKRENm) | 2:54 | 2024-09-12 |  |
 | [Na Minoume Panta Pedia](https://open.spotify.com/track/42rJEFQaMjNVa3ZMZQQXta) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A) | [Na Minoume Panta Pedia \(Original TV Series Soundtrack\)](https://open.spotify.com/album/52mLi5TJ7IkDvM0SMjZNdp) | 3:07 | 2024-10-24 |  |
-| [Neon Sky](https://open.spotify.com/track/2mw0Apayn8IKWyKwsaZ8mx) | [Kid Moxie](https://open.spotify.com/artist/4AK5FOk3Q4pkQV83DvYHJa) | [Neon Sky](https://open.spotify.com/album/7bhgW6xg1uvqhDzlUD14Vg) | 4:12 | 2024-10-17 |  |
+| [Neon Sky](https://open.spotify.com/track/2mw0Apayn8IKWyKwsaZ8mx) | [Kid Moxie](https://open.spotify.com/artist/4AK5FOk3Q4pkQV83DvYHJa) | [Neon Sky](https://open.spotify.com/album/7bhgW6xg1uvqhDzlUD14Vg) | 4:12 | 2024-10-17 | 2024-11-01 |
 | [Noumero 1](https://open.spotify.com/track/6ItU0GpYf2VkEmVZNdJ9o4) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Noumero 1](https://open.spotify.com/album/0IqPdSYN3oTYYx8PYlTWRq) | 2:33 | 2024-06-27 | 2024-07-12 |
 | [Ousia](https://open.spotify.com/track/2BsP53xyo5Nf3HrBbnF0tA) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Ousia](https://open.spotify.com/album/0RYLaTL1YzdDKtda4nX6Fc) | 2:22 | 2024-10-17 |  |
 | [Oute Ligo](https://open.spotify.com/track/70p1lyvyuFmWtX2ia1SxJJ) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Oute Ligo](https://open.spotify.com/album/2eNJFF5e7TT1ZVnxZIB6EB) | 2:33 | 2024-07-18 | 2024-10-18 |
-| [OXI \- 2024 Edition](https://open.spotify.com/track/22ZJ6ckRr5G0EaMt5gwwUC) | [Giorgos Papadopoulos](https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz) | [OXI \(2024 Edition\)](https://open.spotify.com/album/7FWNkIXb1Am6oXzs82cH3X) | 3:45 | 2024-06-27 |  |
+| [OXI \- 2024 Edition](https://open.spotify.com/track/22ZJ6ckRr5G0EaMt5gwwUC) | [Giorgos Papadopoulos](https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz) | [OXI \(2024 Edition\)](https://open.spotify.com/album/7FWNkIXb1Am6oXzs82cH3X) | 3:45 | 2024-06-27 | 2024-11-01 |
 | [Panselinos](https://open.spotify.com/track/230Aews21zrVVeaebAndZG) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Panselinos](https://open.spotify.com/album/2hJa2Xk7VGr3n2kT1FAv32) | 2:51 | 2024-06-27 |  |
 | [Papi](https://open.spotify.com/track/3teZ0cuoPDuhdtMwp0Rrqn) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH), [Ripen](https://open.spotify.com/artist/3swt0iznObwokupYHCnzUd) | [Papi](https://open.spotify.com/album/6i3nnoD9UhUnaAQhloSp3o) | 3:11 | 2024-10-24 |  |
 | [Paramilas](https://open.spotify.com/track/1lsGFSLF0dwnxUxCprXenV) | [Giorgos Tsalikis](https://open.spotify.com/artist/7wdFPENV7NBZ4o3tHqsWhD) | [Paramilas](https://open.spotify.com/album/3ajm7TEjneVnRDzhcCdWnx) | 3:37 | 2024-10-03 |  |
@@ -89,6 +90,7 @@
 | [To Kalokairi Mas](https://open.spotify.com/track/3bN75wJ7qY6WtUquJU9jJM) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [To Kalokairi Mas](https://open.spotify.com/album/0PAkYzbapD1m3ZsXv29ENg) | 3:21 | 2024-07-25 |  |
 | [To Tango Tis Nefelis \- ONEMANSHOW & Ralf Mag Remix](https://open.spotify.com/track/4dODtxnCE3YB7dP8lvK55d) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [Ralf Mag](https://open.spotify.com/artist/0z7vh522N8W5SBlvtRL2WR), [ONEMANSHOW](https://open.spotify.com/artist/65WejxJ3sDrhZqVZWeFAqR) | [To Tango Tis Nefelis](https://open.spotify.com/album/3l99PmvReKh8FgbxlcWGl9) | 6:10 | 2024-07-04 |  |
 | [Tsifteteli](https://open.spotify.com/track/5eMsUupeySNvfuC2eIuomA) | [Lydia](https://open.spotify.com/artist/2YTGRExtfqji1DoyvkPBeT), [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [ROPEX LATERIO](https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Tsifteteli](https://open.spotify.com/album/2yMBmHCQC8PCisFXG22b5q) | 3:17 | 2024-07-25 | 2024-10-11 |
+| [Vanilla](https://open.spotify.com/track/5FmklgNdNQUKAxXsM2p3Fz) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz) | [Vanilla](https://open.spotify.com/album/3HCWsLzI9KRt5dXFYcxDzZ) | 3:06 | 2024-10-31 |  |
 | [Vasanizomai](https://open.spotify.com/track/7Giak4qPHYpecBWHuhPrmg) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Vasanizomai](https://open.spotify.com/album/3FMGqWutUyvnOQXlWEczpj) | 3:16 | 2024-06-27 | 2024-08-16 |
 | [Vorias](https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Vorias](https://open.spotify.com/album/2Q5uwzmPFHSjpk9cSayhZp) | 3:09 | 2024-06-27 |  |
 | [we were](https://open.spotify.com/track/6aMfkyugXzPTmvuuVFuPf8) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [we were](https://open.spotify.com/album/6ckbiSTuokLPCIBlm7dxRL) | 2:58 | 2024-07-04 | 2024-07-27 |

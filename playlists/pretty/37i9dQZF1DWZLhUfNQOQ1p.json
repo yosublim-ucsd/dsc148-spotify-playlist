@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 250189,
+  "num_followers": 250215,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Roches blanches",
-        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
-      },
-      "artists": [
-        {
-          "name": "Mizmo",
-          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
-        }
-      ],
-      "duration_ms": 156298,
-      "name": "Roches blanches",
-      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "Time for a Change",
         "url": "https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 270405,
       "name": "Instant Need",
       "url": "https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Roches blanches",
+        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
+      },
+      "artists": [
+        {
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
+        }
+      ],
+      "duration_ms": 156298,
+      "name": "Roches blanches",
+      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
+        "name": "It'll All Be Over (DJ Koze Remix - Radio Edit)",
+        "url": "https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
         }
       ],
-      "duration_ms": 344593,
-      "name": "Pressure Makes Diamonds",
-      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
+      "duration_ms": 188048,
+      "name": "It'll All Be Over - DJ Koze Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "It'll All Be Over (DJ Koze Remix - Radio Edit)",
-        "url": "https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE"
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
       },
       "artists": [
         {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 188048,
-      "name": "It'll All Be Over - DJ Koze Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc"
+      "duration_ms": 344593,
+      "name": "Pressure Makes Diamonds",
+      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Born a Loser",
-        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
       },
       "artists": [
         {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
         }
       ],
-      "duration_ms": 167093,
-      "name": "Moving Men",
-      "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -1319,18 +1315,22 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
       },
       "artists": [
         {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
+      "duration_ms": 167093,
+      "name": "Moving Men",
+      "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -1687,30 +1687,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "All In A Dream",
-        "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Joseph Ashworth",
-          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
-        }
-      ],
-      "duration_ms": 230015,
-      "name": "All In A Dream",
-      "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -1735,6 +1711,30 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "All In A Dream",
+        "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
+        }
+      ],
+      "duration_ms": 230015,
+      "name": "All In A Dream",
+      "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
     },
     {
       "added_at": "2024-10-10 22:01:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-10-10 22:01:00",
       "album": {
-        "name": "Tropics",
-        "url": "https://open.spotify.com/album/5W8FmNUmLqGf14AcUkglJJ"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 209963,
-      "name": "Japanese Knives",
-      "url": "https://open.spotify.com/track/4gJl6h7igSVDqZ0eYhJ4NX"
-    },
-    {
-      "added_at": "2024-10-10 22:01:00",
-      "album": {
         "name": "Da Fonk (feat. Joni)",
         "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 351496,
       "name": "Da Fonk (feat. Joni) - [Dub]",
       "url": "https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp"
+    },
+    {
+      "added_at": "2024-10-10 22:01:00",
+      "album": {
+        "name": "Tropics",
+        "url": "https://open.spotify.com/album/5W8FmNUmLqGf14AcUkglJJ"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 209963,
+      "name": "Japanese Knives",
+      "url": "https://open.spotify.com/track/4gJl6h7igSVDqZ0eYhJ4NX"
     },
     {
       "added_at": "2024-10-10 22:01:00",

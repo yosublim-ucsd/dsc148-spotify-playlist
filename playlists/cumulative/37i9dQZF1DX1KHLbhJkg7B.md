@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Kane Brown
 
-405 songs - 1 day 1 hr 17 min
+406 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Flower Shops](https://open.spotify.com/track/5H51cBWdVVStrUl5ymGeqa) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Flower Shops](https://open.spotify.com/album/6a0snbHrAHLQXNHiAnmmAW) | 3:34 | 2022-04-08 | 2022-10-07 |
 | [Flowers \- Country Version](https://open.spotify.com/track/0QaCLt0Zgkuadn0seBouFh) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Flowers \(Country Version\)](https://open.spotify.com/album/5v4cqsC4ClbfO04ZeJLJhF) | 3:18 | 2023-02-17 | 2023-11-18 |
 | [Flying High Again \(feat\. Cody Jinks\)](https://open.spotify.com/track/5VRYOiXSnh8d4VNdaafLPr) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl), [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Flying High Again \(feat\. Cody Jinks\)](https://open.spotify.com/album/2R6wzyBxtmJqJ279S3cBts) | 4:39 | 2024-07-26 |  |
-| [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 | 2021-12-10 |  |
+| [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 | 2021-12-10 | 2024-11-01 |
 | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH) | 4:09 | 2021-12-10 |  |
 | [Footloose](https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Footloose](https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN) | 3:38 | 2022-03-25 | 2024-08-03 |
 | [For the Last Time](https://open.spotify.com/track/5raZrp6kafrmhNuYMGcUoM) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Let's Be Frank](https://open.spotify.com/album/62pT5GFAvi6n5RYrb7Yhkt) | 3:51 | 2021-12-10 | 2022-07-29 |
@@ -249,6 +249,7 @@
 | [Much Too Young To Feel This Damn Old \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/7DMm8vpHp1uC5jXRLXD1mz) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn) | 2:37 | 2023-11-24 | 2024-04-19 |
 | [My Girl](https://open.spotify.com/track/1yOCSAjEuF3qqT9GKqoJtj) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Dancin' On The Boulevard](https://open.spotify.com/album/5eFin2KdsXEYNrbdLE02wG) | 3:08 | 2021-12-10 | 2022-07-29 |
 | [Natural Woman / Tennessee Whiskey](https://open.spotify.com/track/0xuRUusdZbvVB3QFmmtXEB) | [Charlotte Ave](https://open.spotify.com/artist/2rcT3E2t3e3HYJUOMsG3UX) | [Natural Woman / Tennessee Whiskey](https://open.spotify.com/album/0pKoro4vHJvudMIxBk29WX) | 3:00 | 2022-02-04 | 2022-07-26 |
+| [Neon Moon](https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A) | [Charly Reynolds](https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp) | [Neon Moon](https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX) | 4:36 | 2024-10-18 |  |
 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 | 2021-12-10 |  |
 | [Night Life](https://open.spotify.com/track/0z73ztDPP0iDsCkvxxBPQf) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Night Life](https://open.spotify.com/album/5UbF3KhUkJBy3iYWdvrs5N) | 3:32 | 2023-04-28 | 2023-05-06 |
 | [Night Life \- \(Hot Country Artists to Watch\) \- Spotify Singles](https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Spotify Singles](https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm) | 4:29 | 2023-05-26 | 2024-01-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > se ver a luanna do 44 na dela, ctz q tá tramando AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,179,390 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,179,330 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 6 | [La Noche](https://open.spotify.com/track/0IEVEtKQ4kRgZehxyfUrKS) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [OPROPRIO](https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR) | 3:21 |
 | 7 | [Ficar Rico Esse Ano](https://open.spotify.com/track/44JWBoBnEGNMC8w95HQ1AR) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ficar Rico Esse Ano](https://open.spotify.com/album/5BTjYmN3eXdGV1uHKgeARb) | 2:57 |
 | 8 | [Porradão de Muay Thai](https://open.spotify.com/track/3eZ4Jh2Qv5oqu0ZmFrIQX1) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Porradão de Muay Thai](https://open.spotify.com/album/2e0HMDX8z57T8pfgsTB85w) | 2:24 |
-| 9 | [Feito à Mão](https://open.spotify.com/track/7y4DDeaZivEXjUkJbwaiel) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Fernanda Valadares](https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR) | [Feito à Mão](https://open.spotify.com/album/3ZgrISmo7iUD3dEMbmsS9g) | 3:16 |
+| 9 | [Feito à Mão](https://open.spotify.com/track/7y4DDeaZivEXjUkJbwaiel) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Fernanda Valadares](https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR) | [Feito à Mão](https://open.spotify.com/album/3ZgrISmo7iUD3dEMbmsS9g) | 3:16 |
 | 10 | [SKYLINE](https://open.spotify.com/track/2qn8UgOBzaKF3luvJxDWWp) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [SKYLINE](https://open.spotify.com/album/30vHn0s0oD01zHExU2JY2k) | 3:18 |
 | 11 | [Eu Tiro É Onda](https://open.spotify.com/track/0osb9qfKR4Trh80x7GmiZ9) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Eu Tiro É Onda](https://open.spotify.com/album/2vVnF0WNcbkW0YG7noVf2q) | 3:41 |
 | 12 | [Amanhecer](https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:31 |

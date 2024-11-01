@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1002329,
+  "num_followers": 1002442,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADTiP2rv+OI2tdsbDNfyRSk",
+  "snapshot_id": "ZyF3AAAAAACCJfJyiXAm3p1rykgqw9dy",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Ve\u00eda Venir",
+        "url": "https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 152135,
+      "name": "Se Ve\u00eda Venir",
+      "url": "https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Amor Como Este",
         "url": "https://open.spotify.com/album/77L9yBKHPAOXb9c8hPqWZy"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 185770,
       "name": "Un Amor Como Este",
       "url": "https://open.spotify.com/track/6OF8WZZI4QfmAKR5jcN1lt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Ve\u00eda Venir",
-        "url": "https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 152135,
-      "name": "Se Ve\u00eda Venir",
-      "url": "https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia De Mis Manos (En Vivo)",
-        "url": "https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 232597,
-      "name": "La Historia De Mis Manos (En Vivo)",
-      "url": "https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Patrocinador",
         "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 206960,
       "name": "El Patrocinador",
       "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Historia De Mis Manos (En Vivo)",
+        "url": "https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 232597,
+      "name": "La Historia De Mis Manos (En Vivo)",
+      "url": "https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT"
     },
     {
       "added_at": null,

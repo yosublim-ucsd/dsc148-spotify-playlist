@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
+  "description": "Dendang Dangdut teratas. Cover: Jirayut ",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -1134,6 +1134,28 @@
       "duration_ms": 338419,
       "name": "Gerhana Dalam Cinta - Live Ska Reggae",
       "url": "https://open.spotify.com/track/3MYekiBFtjZ7SwXskTznfP"
+    },
+    {
+      "album": {
+        "name": "Gerimis Mengundang (Ska Reggae)",
+        "url": "https://open.spotify.com/album/761clLaYSuG9COhmMyOZag"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        },
+        {
+          "name": "Naufal Azrin",
+          "url": "https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317898,
+      "name": "Gerimis Mengundang - Ska Reggae",
+      "url": "https://open.spotify.com/track/2FxX2nIJ8iqR13gcz96Gb0"
     },
     {
       "album": {
@@ -3374,6 +3396,24 @@
       "duration_ms": 346250,
       "name": "Tak Punya Hati",
       "url": "https://open.spotify.com/track/5GDPHPrTe5NwtQKKZASCT5"
+    },
+    {
+      "album": {
+        "name": "Tanda Bahaya Cinta",
+        "url": "https://open.spotify.com/album/44lB9hri6xlXug8Pt2TyW7"
+      },
+      "artists": [
+        {
+          "name": "Jirayut",
+          "url": "https://open.spotify.com/artist/1Iql7RUVcNTNZ1hlfhaKnd"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194284,
+      "name": "Tanda Bahaya Cinta",
+      "url": "https://open.spotify.com/track/6TfkcpYnZ8ZG8wMvW5rU4k"
     },
     {
       "album": {

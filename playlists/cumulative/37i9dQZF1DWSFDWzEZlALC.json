@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 174033,
       "name": "10 Sekunden",
       "url": "https://open.spotify.com/track/277uZsTtRCyTXlGyTGXjlR"
@@ -492,6 +492,24 @@
       "duration_ms": 161860,
       "name": "4 Minuten",
       "url": "https://open.spotify.com/track/4VTGQ7HOUbxICMLBnSI4bw"
+    },
+    {
+      "album": {
+        "name": "4 Uhr",
+        "url": "https://open.spotify.com/album/1PJdG5V66ybOSUHumjVoMf"
+      },
+      "artists": [
+        {
+          "name": "jaschu",
+          "url": "https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "4 Uhr",
+      "url": "https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv"
     },
     {
       "album": {
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 219760,
       "name": "Alles wieder gut",
       "url": "https://open.spotify.com/track/3Mcn1p3V3mn6ei20gqRYzy"
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 146088,
       "name": "AMNESIE AMNESIE",
       "url": "https://open.spotify.com/track/6FDXWV4OkQeu84JAxt8Vyw"
@@ -4476,7 +4494,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 198973,
       "name": "Es k\u00f6nnte sch\u00f6n sein",
       "url": "https://open.spotify.com/track/3tXkPtBGJ9a57T7JWWMtna"
@@ -4972,7 +4990,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 139911,
       "name": "fliegen",
       "url": "https://open.spotify.com/track/4Or1AiWX58dlO8mIfUTh2p"
@@ -6013,6 +6031,24 @@
     },
     {
       "album": {
+        "name": "Ich Glaub Dass Da Was Fehlt",
+        "url": "https://open.spotify.com/album/7GTVlCuT4yse4mkCmrCNAv"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Gschpusi",
+      "url": "https://open.spotify.com/track/7GeXLKwzAMLfld3bTBZUm0"
+    },
+    {
+      "album": {
         "name": "Maschinenmensch EP",
         "url": "https://open.spotify.com/album/0aB1rZ0lKJU3dIea7UkFrf"
       },
@@ -7008,7 +7044,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 131413,
       "name": "Immer nachts",
       "url": "https://open.spotify.com/track/7uiA0x9kM8WR59rPgGdxIB"
@@ -7663,6 +7699,24 @@
     },
     {
       "album": {
+        "name": "bulletholes",
+        "url": "https://open.spotify.com/album/3tOztFpIobGXqNv2a8J0DV"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "kaputt",
+      "url": "https://open.spotify.com/track/0dqyu1uge0tfnblPH9gFKp"
+    },
+    {
+      "album": {
         "name": "Kater",
         "url": "https://open.spotify.com/album/0XZTfLHBEDDCyxfL7vMYF1"
       },
@@ -7916,7 +7970,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 149090,
       "name": "Kind",
       "url": "https://open.spotify.com/track/2ijN6TEWfzlyHK8fbRvbcx"
@@ -8014,6 +8068,24 @@
       "duration_ms": 148000,
       "name": "Kleine Liebesgeschichte",
       "url": "https://open.spotify.com/track/5jsfiJZadojaLepCtYKoLv"
+    },
+    {
+      "album": {
+        "name": "Kleiner Junge",
+        "url": "https://open.spotify.com/album/1yDR9WQLlDnUewoQrR2z9p"
+      },
+      "artists": [
+        {
+          "name": "CONNY",
+          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132545,
+      "name": "Kleiner Junge",
+      "url": "https://open.spotify.com/track/08AOBOvP30Vuveoez6lnss"
     },
     {
       "album": {
@@ -8669,6 +8741,24 @@
     },
     {
       "album": {
+        "name": "lieb dich eigentlich :(",
+        "url": "https://open.spotify.com/album/7BT34zHobCPHlxAsgvxk5h"
+      },
+      "artists": [
+        {
+          "name": "Kayla Shyx",
+          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164413,
+      "name": "lieb dich eigentlich :(",
+      "url": "https://open.spotify.com/track/3xkLGMxuILomQ4kFACymnx"
+    },
+    {
+      "album": {
         "name": "liebe das",
         "url": "https://open.spotify.com/album/65Y5EIAFfPvFIjHJy9CgIX"
       },
@@ -9018,6 +9108,24 @@
       "duration_ms": 162345,
       "name": "Loser",
       "url": "https://open.spotify.com/track/17NovTR8dvHzbkddEX1bBQ"
+    },
+    {
+      "album": {
+        "name": "Loser/Neben mir",
+        "url": "https://open.spotify.com/album/2a5w4pIpdADfx3yzCQg5Lc"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171171,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3lqoSLATqLn1SNdhbkUMbx"
     },
     {
       "album": {
@@ -9984,6 +10092,28 @@
       "duration_ms": 181492,
       "name": "Namen in Beton",
       "url": "https://open.spotify.com/track/7blDCXJRdcj2fxICbqFcgj"
+    },
+    {
+      "album": {
+        "name": "Navigator",
+        "url": "https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx"
+      },
+      "artists": [
+        {
+          "name": "Fuffifufzich",
+          "url": "https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv"
+        },
+        {
+          "name": "Alli Neumann",
+          "url": "https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "Navigator",
+      "url": "https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D"
     },
     {
       "album": {
@@ -13289,6 +13419,28 @@
     },
     {
       "album": {
+        "name": "Stabil",
+        "url": "https://open.spotify.com/album/1XX3bFP2jetOXBMv7sDmze"
+      },
+      "artists": [
+        {
+          "name": "AB Syndrom",
+          "url": "https://open.spotify.com/artist/6L8qZVWC4sWuYRSDXMLpsc"
+        },
+        {
+          "name": "Roger Rekless",
+          "url": "https://open.spotify.com/artist/4RrMoKqTVd3FhpfoYU0DKb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244023,
+      "name": "Stabil",
+      "url": "https://open.spotify.com/track/6Ifx1tcIsAUV7Qqqu2pULB"
+    },
+    {
+      "album": {
         "name": "Stadtlabyrinth",
         "url": "https://open.spotify.com/album/1mKhLj2jcTu29yJdCA2zBv"
       },
@@ -14948,7 +15100,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 190588,
       "name": "War sch\u00f6n mit euch (feat. Haller)",
       "url": "https://open.spotify.com/track/6YcW4D35MXsKnqAVF2EyO1"

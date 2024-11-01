@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,373 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,381 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 15 | [Haut Contre Bas](https://open.spotify.com/track/7gjy5JBi17p56khgO0fN6Z) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [Rong Weicknes](https://open.spotify.com/album/6PPLCyHL015tBNHY0GQuc0) | 3:39 |
 | 16 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 |
 | 17 | [Sublimation](https://open.spotify.com/track/3ovzms5fWVT3cayO5fGZN4) | [Legendes Industries](https://open.spotify.com/artist/0DJutzzjro4AISmIYnzQKZ), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Sublimation](https://open.spotify.com/album/6dA3Y7WIjixKFCqflFgkFk) | 2:54 |
-| 18 | [Un peu](https://open.spotify.com/track/6VaFJoPFZrbbV5hrxeBpVA) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Un peu](https://open.spotify.com/album/2K8CZHlvMVaGblwBOMsOUc) | 2:57 |
+| 18 | [POP \(feat\. La Mano 1.9\)](https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [POP \(feat\. La Mano 1.9\)](https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM) | 3:36 |
 | 19 | [Trampoline](https://open.spotify.com/track/7ubzVOvyVAiPpA1ZWsrlhx) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Chut!](https://open.spotify.com/album/7ptadKkzUYJMKVhndvi4dc) | 3:19 |
-| 20 | [POP \(feat\. La Mano 1.9\)](https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [POP \(feat\. La Mano 1.9\)](https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM) | 3:36 |
+| 20 | [Un peu](https://open.spotify.com/track/6VaFJoPFZrbbV5hrxeBpVA) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Un peu](https://open.spotify.com/album/2K8CZHlvMVaGblwBOMsOUc) | 2:57 |
 | 21 | [Lovely To Call You](https://open.spotify.com/track/1sqdRnBwHuHsJoMaLKQ8J9) | [Renzo Rivolta](https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O) | [Lovely To Call You](https://open.spotify.com/album/69f1bQsx8q54c5nyt5G8u2) | 3:03 |
 | 22 | ['Ndrangheta](https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | ['Ndrangheta](https://open.spotify.com/album/4kw0UnPmDjw1m1kFhhmDWF) | 2:41 |
 | 23 | [Météore](https://open.spotify.com/track/3jYyJblq2rWkSXYJ7yiYFM) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Avant\-goût](https://open.spotify.com/album/3vcNSIeDVaWFD28l3eUAKx) | 2:38 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 33 | [Tout pour moi](https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:34 |
 | 34 | [Monde Nouveau](https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Monde Nouveau](https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA) | 2:37 |
 | 35 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 |
-| 36 | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR) | 3:51 |
-| 37 | [BIG BOSS](https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BIG BOSS](https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN) | 2:02 |
+| 36 | [BIG BOSS](https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BIG BOSS](https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN) | 2:02 |
+| 37 | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR) | 3:51 |
 | 38 | [Vie Viano \(\#STATION 1\)](https://open.spotify.com/track/1Rl3EOVuCPL0K6mYbPDlfa) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Vie Viano \(\#STATION 1\)](https://open.spotify.com/album/1KvqB3fVRasWGX3Rpseggc) | 1:42 |
 | 39 | [Chacun son chacun](https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Chacun son chacun](https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL) | 2:33 |
 | 40 | [NOUVEAU OPPS](https://open.spotify.com/track/1qsD8ypRfaWclvlng2acJQ) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [LA VIE CONTINUE](https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI) | 3:37 |
-| 41 | [Petit chaton](https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Petit chaton](https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5) | 2:24 |
-| 42 | [Le choix](https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 2:48 |
+| 41 | [Le choix](https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 2:48 |
+| 42 | [Petit chaton](https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Petit chaton](https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5) | 2:24 |
 | 43 | [Un vœu](https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Un vœu](https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL) | 3:58 |
 | 44 | [Ceci n'est pas une chanson triste](https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ceci n'est pas une chanson triste](https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX) | 3:50 |
 | 45 | [Ma Life](https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [TPLM](https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac) | 2:32 |

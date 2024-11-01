@@ -2593,6 +2593,28 @@
     },
     {
       "album": {
+        "name": "La fille aux cheveux de lin",
+        "url": "https://open.spotify.com/album/1ZjcrrdQb3pvhCAqWh62vy"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159299,
+      "name": "La fille aux cheveux de lin",
+      "url": "https://open.spotify.com/track/2McoMylVClF4w6HQOUnFrD"
+    },
+    {
+      "album": {
         "name": "La Sieste",
         "url": "https://open.spotify.com/album/65G4c39wr0Q63uPlowznPI"
       },
@@ -3492,6 +3514,24 @@
       "duration_ms": 259920,
       "name": "Only Now",
       "url": "https://open.spotify.com/track/0btXhDAkkZbSiFeahYGbpq"
+    },
+    {
+      "album": {
+        "name": "Open Fields",
+        "url": "https://open.spotify.com/album/3yoPPeVdApg8JuarnMbone"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213382,
+      "name": "Open Fields",
+      "url": "https://open.spotify.com/track/7zYnlqCePHqm34anuV9vM2"
     },
     {
       "album": {
@@ -4608,6 +4648,28 @@
       "duration_ms": 281688,
       "name": "Sibyl",
       "url": "https://open.spotify.com/track/5e7ZqygmgjXopvIjJmWOES"
+    },
+    {
+      "album": {
+        "name": "Sicilienne, Op. 78",
+        "url": "https://open.spotify.com/album/2IoVLFulhWtPfN7tYeWlo3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Sicilienne, Op. 78",
+      "url": "https://open.spotify.com/track/3Xf26eAAwTdHNNSMt8JX0N"
     },
     {
       "album": {

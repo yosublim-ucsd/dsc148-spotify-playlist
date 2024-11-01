@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,992 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,999 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 27 | [Otomo](https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 6:11 |
 | 28 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
 | 29 | [First Flight To Mars](https://open.spotify.com/track/6UKz34hAzN9swLxG4Fz9i4) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e) | [First Flight To Mars](https://open.spotify.com/album/450XgNiRqk6pdeKSIY504s) | 3:07 |
-| 30 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
-| 31 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 |
+| 30 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 |
+| 31 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
 | 32 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 |
 | 33 | [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 |
 | 34 | [40\-16 Building](https://open.spotify.com/track/7LbIccTR3F9yYaWmMGMKtn) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 2:55 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 72 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 |
 | 73 | [MAN NENNT MICH](https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [MAN NENNT MICH](https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e) | 2:15 |
 | 74 | [SHOWBIZ](https://open.spotify.com/track/1ZzE7bxApIhK9mnumXxUQy) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [SHOWBIZ](https://open.spotify.com/album/0iJFu1erjoKbUak1UdT5oi) | 2:44 |
-| 75 | [Work It Out](https://open.spotify.com/track/2B4wDjhtKmbSJKwb209zEO) | [Curtis Richa](https://open.spotify.com/artist/7cjZxsK1vjYtIHDE7heJXJ), [WayBetta](https://open.spotify.com/artist/37EsvqkoP3x9MLTRCG5Qp6) | [Work It Out](https://open.spotify.com/album/2MFNQ5T9dbuT8cNbcIp2yX) | 2:38 |
-| 76 | [THE REAPERS](https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [THE REAPERS](https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f) | 4:05 |
+| 75 | [THE REAPERS](https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [THE REAPERS](https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f) | 4:05 |
+| 76 | [Work It Out](https://open.spotify.com/track/2B4wDjhtKmbSJKwb209zEO) | [Curtis Richa](https://open.spotify.com/artist/7cjZxsK1vjYtIHDE7heJXJ), [WayBetta](https://open.spotify.com/artist/37EsvqkoP3x9MLTRCG5Qp6) | [Work It Out](https://open.spotify.com/album/2MFNQ5T9dbuT8cNbcIp2yX) | 2:38 |
 | 77 | [Green Light \(feat\. Kate Wild\) \- Moksi Remix](https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\) \[Moksi Remix\]](https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD) | 3:10 |
 | 78 | [I'm Gon' Get You](https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s) | [Tassia Zappia](https://open.spotify.com/artist/7bXqujdpOq3rBiEmUF6M5k) | [I'm Gon' Get You](https://open.spotify.com/album/4gGhnFi58lYP7rJyomWx1p) | 2:47 |
 | 79 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 |

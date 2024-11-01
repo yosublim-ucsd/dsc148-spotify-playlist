@@ -1,6 +1,6 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 640323,
+  "num_followers": 640395,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Armon\u00eda Serena",
-        "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
-      },
-      "artists": [
-        {
-          "name": "Abril Iluso",
-          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
-        }
-      ],
-      "duration_ms": 158823,
-      "name": "Armon\u00eda Serena",
-      "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Intrinsic Silence",
         "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 164017,
       "name": "Intrinsic Silence",
       "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Armon\u00eda Serena",
+        "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "duration_ms": 158823,
+      "name": "Armon\u00eda Serena",
+      "url": "https://open.spotify.com/track/3y0MUwXHh9qdDGsNPQ7msQ"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
+        "name": "Sweven",
+        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
+      },
+      "artists": [
+        {
+          "name": "Andy Kamman",
+          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Sweven",
+      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
         "name": "Drifting Together",
         "url": "https://open.spotify.com/album/4Fm2uRfIEx9fIjdVjsUOzu"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 193269,
       "name": "Drifting Together",
       "url": "https://open.spotify.com/track/1nhmqBkGh4FDraowHKxRNA"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
-        "name": "Sweven",
-        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
-      },
-      "artists": [
-        {
-          "name": "Andy Kamman",
-          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Sweven",
-      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Serum",
-        "url": "https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT"
+        "name": "Hvis du bare vidste",
+        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
       },
       "artists": [
         {
-          "name": "Cieri",
-          "url": "https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL"
+          "name": "Silas Mathiasen",
+          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Serum",
-      "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
+      "duration_ms": 162500,
+      "name": "Hvis du bare vidste",
+      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Hvis du bare vidste",
-        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
+        "name": "Serum",
+        "url": "https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT"
       },
       "artists": [
         {
-          "name": "Silas Mathiasen",
-          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
+          "name": "Cieri",
+          "url": "https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Hvis du bare vidste",
-      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
+      "duration_ms": 224000,
+      "name": "Serum",
+      "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Surface",
-        "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
-      },
-      "artists": [
-        {
-          "name": "Lerone Gios",
-          "url": "https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52"
-        }
-      ],
-      "duration_ms": 126774,
-      "name": "Surface",
-      "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Prevision",
         "url": "https://open.spotify.com/album/7xkou16CqQKZCHamqP2idQ"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
+        "name": "Surface",
+        "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
+      },
+      "artists": [
+        {
+          "name": "Lerone Gios",
+          "url": "https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52"
+        }
+      ],
+      "duration_ms": 126774,
+      "name": "Surface",
+      "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
         "name": "Rivers of Relief",
         "url": "https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 295714,
       "name": "Strings of Light",
       "url": "https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
-        "name": "Whispers of the forest",
-        "url": "https://open.spotify.com/album/2sTs78MEv2r4bz9uBhxsKH"
-      },
-      "artists": [
-        {
-          "name": "Ms DuPlessis",
-          "url": "https://open.spotify.com/artist/1scZrPuK5Gtsrrd8jepruk"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Whispers of the forest",
-      "url": "https://open.spotify.com/track/1HQJzi7Ra2AaCxfPxPJaG8"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1151,6 +1135,38 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
+        "name": "Whispers of the forest",
+        "url": "https://open.spotify.com/album/2sTs78MEv2r4bz9uBhxsKH"
+      },
+      "artists": [
+        {
+          "name": "Ms DuPlessis",
+          "url": "https://open.spotify.com/artist/1scZrPuK5Gtsrrd8jepruk"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Whispers of the forest",
+      "url": "https://open.spotify.com/track/1HQJzi7Ra2AaCxfPxPJaG8"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Sketches",
+        "url": "https://open.spotify.com/album/0R8pifsvqOqjnc5wAE3fbN"
+      },
+      "artists": [
+        {
+          "name": "Arico Mist",
+          "url": "https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "Sketches",
+      "url": "https://open.spotify.com/track/5ytbuBtoL3hHrhyuS6ATww"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
         "name": "Dreams of Mercury",
         "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 192748,
       "name": "Dreams of Mercury",
       "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
-        "name": "Open Sky",
-        "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
-      },
-      "artists": [
-        {
-          "name": "Drift Far Away",
-          "url": "https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2"
-        }
-      ],
-      "duration_ms": 267756,
-      "name": "Meditations",
-      "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Sketches",
-        "url": "https://open.spotify.com/album/0R8pifsvqOqjnc5wAE3fbN"
+        "name": "Open Sky",
+        "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
       },
       "artists": [
         {
-          "name": "Arico Mist",
-          "url": "https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu"
+          "name": "Drift Far Away",
+          "url": "https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2"
         }
       ],
-      "duration_ms": 172373,
-      "name": "Sketches",
-      "url": "https://open.spotify.com/track/5ytbuBtoL3hHrhyuS6ATww"
+      "duration_ms": 267756,
+      "name": "Meditations",
+      "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
+        "name": "The Land of the Sun",
+        "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
+      },
+      "artists": [
+        {
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        }
+      ],
+      "duration_ms": 238725,
+      "name": "The Land of the Sun",
+      "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
         "name": "Inch Of You",
         "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 137796,
       "name": "Sunny & Cloudy",
       "url": "https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
-        "name": "The Land of the Sun",
-        "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
-      },
-      "artists": [
-        {
-          "name": "Sami Yusuf",
-          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
-        }
-      ],
-      "duration_ms": 238725,
-      "name": "The Land of the Sun",
-      "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
+        "name": "Tenebris",
+        "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
+      },
+      "artists": [
+        {
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+        }
+      ],
+      "duration_ms": 233174,
+      "name": "Aragorn",
+      "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
         "name": "The Shed",
         "url": "https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 167522,
       "name": "Mysterium",
       "url": "https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
-        "name": "Tenebris",
-        "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
-      },
-      "artists": [
-        {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
-        }
-      ],
-      "duration_ms": 233174,
-      "name": "Aragorn",
-      "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "432 hz Frequency of Universe",
-        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
-      },
-      "artists": [
-        {
-          "name": "Binaural Landscapes",
-          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
-        }
-      ],
-      "duration_ms": 160345,
-      "name": "Precious 432 hz",
-      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 192309,
       "name": "Entirely",
       "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "432 hz Frequency of Universe",
+        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
+      },
+      "artists": [
+        {
+          "name": "Binaural Landscapes",
+          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
+        }
+      ],
+      "duration_ms": 160345,
+      "name": "Precious 432 hz",
+      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
     },
     {
       "added_at": "2024-09-19 15:00:11",

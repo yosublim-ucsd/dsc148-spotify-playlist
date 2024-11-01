@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=GOJerxRRSFaYUZOGS0tQBg">Dodo Nyoka</a> &  <a href="https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=Dau7p9ANSo6tFeHQdYfRjw">Karlien Van Jaarsveld</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=Poj98ckjTtSZxXsW33M1GQ">Barto</a>
 
-247 songs - 13 hr 45 min
+250 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Diana](https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Diana](https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE) | 3:30 | 2023-05-25 |  |
 | [Die Afrikaner Maak So](https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Die Afrikaner Maak So](https://open.spotify.com/album/7iIDK5smB90lIAw0mEpOSS) | 2:59 | 2024-02-01 |  |
 | [Die Bokmasjien](https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK) | [Leon Schuster](https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs) | [Die Bokmasjien](https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm) | 3:46 | 2023-09-15 | 2023-10-13 |
+| [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 | 2024-10-31 |  |
 | [Die Dansvloer](https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy) | [Janie Bay](https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM) | [Die Dansvloer](https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx) | 3:04 | 2023-02-02 | 2023-04-21 |
 | [Die Rower](https://open.spotify.com/track/2V2nGO3KiIXZunNZjIiPY4) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Die Rower](https://open.spotify.com/album/5MRXndYHbRTxLhROnjpeoO) | 4:15 | 2023-09-21 | 2023-10-27 |
 | [Diepseeduiker 17](https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Diepseeduiker 17](https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz) | 2:45 | 2024-02-29 |  |
@@ -91,7 +92,7 @@
 | [Hanrie Visagie](https://open.spotify.com/track/5XzRG1HP6iVtI9hfyInhRN) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Hanrie Visagie](https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc) | 2:38 | 2024-03-21 | 2024-08-02 |
 | [Hardekole](https://open.spotify.com/track/61StNZ96SCYNlM5l0IGdPl) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Adam Tas](https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Ouskool \- Boerseun](https://open.spotify.com/album/4uH7O3EodyvrNXyISbLf6F) | 4:29 | 2023-03-09 | 2023-09-01 |
 | [Hart Breek](https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Hart Breek](https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO) | 3:20 | 2023-12-08 |  |
-| [Hasie Hop](https://open.spotify.com/track/7mJEgMNaCnwUx4Y4jcP2rd) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Proe Soos Nog](https://open.spotify.com/album/3QFQnR9V6HOhs0tiMJVvOS) | 2:57 | 2024-08-15 |  |
+| [Hasie Hop](https://open.spotify.com/track/7mJEgMNaCnwUx4Y4jcP2rd) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Proe Soos Nog](https://open.spotify.com/album/3QFQnR9V6HOhs0tiMJVvOS) | 2:57 | 2024-08-15 | 2024-11-01 |
 | [Heito Potato](https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Heito Potato](https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e) | 3:37 | 2024-05-09 |  |
 | [Helemal](https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Helemal](https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR) | 3:47 | 2023-11-30 |  |
 | [Hey Jy](https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Hey Jy](https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC) | 3:20 | 2023-08-03 | 2023-11-03 |
@@ -128,10 +129,11 @@
 | [Koebaai aan my Hart](https://open.spotify.com/track/2rbsZ5fHjq81NpqWIPNMKj) | [Wilma Van Heerden](https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP) | [Koebaai aan my Hart](https://open.spotify.com/album/2JGaK4g5pR1tUmZw9txNnX) | 3:42 | 2024-05-30 | 2024-07-19 |
 | [Kom En Lê My Neer](https://open.spotify.com/track/5P6L2kPsrfqqXrKOHhELpW) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:25 | 2023-03-09 | 2023-10-20 |
 | [Komeet](https://open.spotify.com/track/69vbzbwI2vPXguduchibPl) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Komeet](https://open.spotify.com/album/06ih95tsmk1zXeVKMLUWo5) | 3:25 | 2024-04-26 | 2024-06-14 |
+| [Koos Wye Voete](https://open.spotify.com/track/0fXZzePp4nG3t34VziBTYh) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Koos Wye Voete](https://open.spotify.com/album/27PyNOkOLh3yaFkz7wugZX) | 3:16 | 2024-10-31 |  |
 | [Kortbroek](https://open.spotify.com/track/2BSoAJMG0fr4v9q8AIc8PY) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Kortbroek](https://open.spotify.com/album/0OTo3ycGnUOP1AEVTn20vH) | 2:56 | 2023-04-27 | 2023-08-25 |
 | [Koue Kole](https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Koue Kole](https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE) | 3:50 | 2023-05-11 |  |
 | [Koue Pizza](https://open.spotify.com/track/1fEZOVHd17gcqv0ND1fpcV) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Koue Pizza](https://open.spotify.com/album/0UE7Fs2XSTfjAtcwNKe439) | 3:01 | 2022-10-20 | 2022-11-11 |
-| [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 | 2022-08-04 |  |
+| [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 | 2022-08-04 | 2024-11-01 |
 | [Kwagga Karnaval](https://open.spotify.com/track/0YibPa1JNIDIvubnDjrDFF) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Kwagga Karnaval](https://open.spotify.com/album/7J8QRwCuKTylCzzhObMTTc) | 3:30 | 2023-08-24 | 2024-03-29 |
 | [Kyk Na My Hart](https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Die Onbekende](https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc) | 2:47 | 2023-03-09 | 2024-04-19 |
 | [Kyk Na My Hart](https://open.spotify.com/track/7tS40e1QqDUZl5bkINlkup) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Verewig Afrikaans](https://open.spotify.com/album/0M1TwvcUE0x5f6gdF2RbdE) | 2:47 | 2024-02-15 |  |
@@ -144,6 +146,7 @@
 | [Lenie Blou](https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Swaartekrag](https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt) | 2:58 | 2023-03-09 | 2023-06-09 |
 | [Lentekind \- Dans Remix](https://open.spotify.com/track/3jp5MWHkhUMNKvTcKoEC21) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Lentekind \(Dans Remix\)](https://open.spotify.com/album/29N4DMheHAM04FlffYEAoq) | 2:37 | 2022-09-01 | 2022-10-29 |
 | [Lief](https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5), [Jacob Swann](https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe) | [Lief](https://open.spotify.com/album/2qlqp7lrg0ZJtPrcdilOt2) | 3:25 | 2022-07-07 | 2023-03-18 |
+| [Liefde Koop Nie Brood Nie](https://open.spotify.com/track/17sYTxAm9Kh0Nl4BwfPriG) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Liefde Koop Nie Brood Nie](https://open.spotify.com/album/38TQCChizTtMzHAwQ96tz4) | 3:18 | 2024-10-31 |  |
 | [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 | 2022-08-04 | 2024-03-22 |
 | [Liewe Jinne!](https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Liewe Jinne!](https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm) | 3:31 | 2023-08-24 |  |
 | [Ligte Af](https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a) | [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO) | [Ligte Af](https://open.spotify.com/album/15v3zObf0eumyFqXxEQNFe) | 3:26 | 2023-07-20 | 2023-08-18 |
@@ -222,7 +225,7 @@
 | [Swipe Regs](https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:40 | 2023-02-23 | 2024-10-18 |
 | [SySoen](https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs) | [Wilma Van Heerden](https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP) | [SySoen](https://open.spotify.com/album/7LfX2CYX7o9jjDtqzxC8LI) | 3:33 | 2023-04-06 |  |
 | [Sêra Sê Ja!](https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sêra Sê Ja!](https://open.spotify.com/album/1Hky0XfrgZQSSyDBx3LB2V) | 3:24 | 2023-04-27 | 2023-06-23 |
-| [Tannie Katesbes](https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Tannie Katesbes](https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N) | 3:00 | 2023-10-26 |  |
+| [Tannie Katesbes](https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Tannie Katesbes](https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N) | 3:00 | 2023-10-26 | 2024-11-01 |
 | [Tassies Pak](https://open.spotify.com/track/6OoOPgl7o8OsbtzbW3ApE9) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36) | [Tassies Pak](https://open.spotify.com/album/7lh58VBSO1h1QldbP3C157) | 4:05 | 2023-06-15 | 2023-09-22 |
 | [Teiken](https://open.spotify.com/track/4L4BUQvSfWorVJApet8mYa) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Teiken](https://open.spotify.com/album/5iMH0jDldXRETC2gJJYHag) | 3:05 | 2024-04-26 | 2024-05-17 |
 | [Tekkies Brand](https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Tekkies Brand](https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD) | 3:28 | 2021-07-01 | 2024-04-19 |

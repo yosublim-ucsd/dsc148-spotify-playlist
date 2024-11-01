@@ -45589,6 +45589,24 @@
     },
     {
       "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144113,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
+    },
+    {
+      "album": {
         "name": "Rock and A Hard Place",
         "url": "https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0"
       },
@@ -55698,7 +55716,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"

@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "All Night On My Own",
+        "url": "https://open.spotify.com/album/6xbEGQEczwqCG7g9sqvq50"
+      },
+      "artists": [
+        {
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132328,
+      "name": "All Night On My Own",
+      "url": "https://open.spotify.com/track/4hd01RIHFRlBLh0sfOyjT2"
+    },
+    {
+      "album": {
         "name": "all over my body",
         "url": "https://open.spotify.com/album/614zD2PkAmJiq1kgmIztzn"
       },
@@ -7240,6 +7258,28 @@
       "duration_ms": 182444,
       "name": "Lost In The Melody",
       "url": "https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz"
+    },
+    {
+      "album": {
+        "name": "Lost My Mind",
+        "url": "https://open.spotify.com/album/6fmzWk1gb1HqDP17PgNpch"
+      },
+      "artists": [
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        },
+        {
+          "name": "Cappa",
+          "url": "https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144080,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/3egNACX53COC9uKcjJQGdv"
     },
     {
       "album": {

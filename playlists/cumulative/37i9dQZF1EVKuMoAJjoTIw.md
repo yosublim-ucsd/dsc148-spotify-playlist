@@ -2,7 +2,7 @@
 
 ### [Moody Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIXIanoPjZlfL>Gigi Perez</a>, <a href=spotify:playlist:37i9dQZF1EIVNX3XbvPimn>The Neighbourhood</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a>, <a href=spotify:playlist:37i9dQZF1EIZJJTb1DBgXj>Oscar Maydon</a>, <a href=spotify:playlist:37i9dQZF1EIXIanoPjZlfL>Gigi Perez</a> and more
 
 621 songs - 1 day 12 hr 7 min
 

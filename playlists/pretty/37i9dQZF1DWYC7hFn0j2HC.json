@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Antonio Aguilar en portada.",
-  "num_followers": 1122392,
+  "num_followers": 1122467,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
@@ -631,8 +631,8 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "Miguel Aceves Mej\u00eda",
-        "url": "https://open.spotify.com/album/1kT6rtJaVnbltJIRR8jbl6"
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 179840,
-      "name": "El Jinete",
-      "url": "https://open.spotify.com/track/7rvTNx03Rl9R9uO4wMqB9G"
+      "duration_ms": 209133,
+      "name": "Tata Dios",
+      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "Mi Gusto Es Con Tambora",
-        "url": "https://open.spotify.com/album/3Zjx5IAwDDMUfYagxBP4wg"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Mi Gusto Es",
-      "url": "https://open.spotify.com/track/59nRuCsjHNdHNrs6BMj3fR"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
         "name": "Antonio Aguilar Con Tambora",
         "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 215512,
       "name": "Cuatro Milpas",
       "url": "https://open.spotify.com/track/0vl7HCsQ8gDOKwgcBYEKYx"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Mi Gusto Es Con Tambora",
+        "url": "https://open.spotify.com/album/3Zjx5IAwDDMUfYagxBP4wg"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/59nRuCsjHNdHNrs6BMj3fR"
     },
     {
       "added_at": "2024-09-12 23:26:02",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "Payaso",
-        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Payaso",
-      "url": "https://open.spotify.com/track/4bvgQHmxuwOt251YF0FrUa"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
         "name": "15 Inmortales de Pedro Infante",
         "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
@@ -1095,8 +1079,24 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+        "name": "Payaso",
+        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/4bvgQHmxuwOt251YF0FrUa"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
+        "name": "Miguel Aceves Mej\u00eda",
+        "url": "https://open.spotify.com/album/1kT6rtJaVnbltJIRR8jbl6"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Tata Dios",
-      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
+      "duration_ms": 179840,
+      "name": "El Jinete",
+      "url": "https://open.spotify.com/track/7rvTNx03Rl9R9uO4wMqB9G"
     },
     {
       "added_at": "2024-09-12 23:26:02",

@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "Leap 96",
+        "url": "https://open.spotify.com/album/3Jam3earszAc16hNwRwQ0G"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        },
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        },
+        {
+          "name": "Leap96",
+          "url": "https://open.spotify.com/artist/29Ym8UOoUTlN7vvt7JXX4e"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146276,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/0YZPdvkJVe3qEhAQKT2BJV"
+    },
+    {
+      "album": {
         "name": "1ST VOWS miracle",
         "url": "https://open.spotify.com/album/1eNuSm3mRMxjgvFRd3iC0G"
       },
@@ -8288,7 +8314,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 226024,
       "name": "INTROSPECTIVE",
       "url": "https://open.spotify.com/track/5mxk3kAPTFubXtE6m5xKw2"
@@ -8564,6 +8590,24 @@
       "duration_ms": 247619,
       "name": "JIYO",
       "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
+    },
+    {
+      "album": {
+        "name": "Jump In The Ride",
+        "url": "https://open.spotify.com/album/7FBYSUIq54IzZF1puJpjw1"
+      },
+      "artists": [
+        {
+          "name": "Prof. Stranger",
+          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230137,
+      "name": "Jump In The Ride",
+      "url": "https://open.spotify.com/track/6yT0MPnwIpdCTe6UeaRSxz"
     },
     {
       "album": {
@@ -9302,7 +9346,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 240454,
       "name": "Lights Go Out",
       "url": "https://open.spotify.com/track/0FJ57QkOsbHFKJxwpiRgNP"
@@ -10038,7 +10082,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 234074,
       "name": "Mega Drive",
       "url": "https://open.spotify.com/track/1ED3VzuGpuch83efnmQytv"
@@ -11610,6 +11654,28 @@
       "duration_ms": 121982,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/1XUMDmAdV9MTgJfB14BXCW"
+    },
+    {
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/15eLeuJSRhdfsdGRlNCgDp"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        },
+        {
+          "name": "ALYSS",
+          "url": "https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/4mcxTNCmY4tbFCDkBHzw1j"
     },
     {
       "album": {
@@ -14507,6 +14573,28 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/4CvOG7uGorzGxS4mzAuGvj"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        },
+        {
+          "name": "Aya Anne",
+          "url": "https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229767,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/4LjotOn8sSIARFPSwSif6T"
+    },
+    {
+      "album": {
         "name": "Space4me",
         "url": "https://open.spotify.com/album/5biP4BoGFVVQ1tEUAc9ZGX"
       },
@@ -15461,6 +15549,36 @@
     },
     {
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Naisha",
+          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232984,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
+    },
+    {
+      "album": {
         "name": "Talking Too Much",
         "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
       },
@@ -15494,7 +15612,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 152380,
       "name": "TALKING WALLS",
       "url": "https://open.spotify.com/track/2EgVyvvuU95B3DqEZxbtj5"
@@ -17222,7 +17340,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 179999,
       "name": "Waver",
       "url": "https://open.spotify.com/track/6EhLGfnkaiTcdEVJxRuoxi"

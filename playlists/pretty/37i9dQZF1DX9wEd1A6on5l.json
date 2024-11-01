@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 68329,
+  "num_followers": 68437,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-10-25 06:38:17",
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 202958,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
+    },
+    {
+      "added_at": "2024-10-25 06:38:17",
+      "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
-    },
-    {
-      "added_at": "2024-10-25 06:38:17",
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 202958,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
     },
     {
       "added_at": "2024-10-25 06:38:17",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-10-25 06:38:17",
       "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
-    },
-    {
-      "added_at": "2024-10-25 06:38:17",
-      "album": {
         "name": "Xin Mao",
         "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 143882,
       "name": "Maria",
       "url": "https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG"
+    },
+    {
+      "added_at": "2024-10-25 06:38:17",
+      "album": {
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2024-10-25 06:38:17",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-10-25 06:38:17",
       "album": {
-        "name": "My Dealer (Remix)",
-        "url": "https://open.spotify.com/album/6SmlSpxgf52VpjjlCRxZZX"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 148235,
-      "name": "My Dealer (Remix)",
-      "url": "https://open.spotify.com/track/5wKKqwuoee1M9jhFcRpS1D"
-    },
-    {
-      "added_at": "2024-10-25 06:38:17",
-      "album": {
         "name": "Loseyi Professor",
         "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 177318,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
+    },
+    {
+      "added_at": "2024-10-25 06:38:17",
+      "album": {
+        "name": "My Dealer (Remix)",
+        "url": "https://open.spotify.com/album/6SmlSpxgf52VpjjlCRxZZX"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 148235,
+      "name": "My Dealer (Remix)",
+      "url": "https://open.spotify.com/track/5wKKqwuoee1M9jhFcRpS1D"
     },
     {
       "added_at": "2024-10-25 06:38:17",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-10-25 06:38:17",
       "album": {
+        "name": "Orobo",
+        "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 133285,
+      "name": "Orobo",
+      "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
+    },
+    {
+      "added_at": "2024-10-25 06:38:17",
+      "album": {
         "name": "ONOME",
         "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 149743,
       "name": "Till Thy Kingdom Come",
       "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
-    },
-    {
-      "added_at": "2024-10-25 06:38:17",
-      "album": {
-        "name": "Orobo",
-        "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 133285,
-      "name": "Orobo",
-      "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
     },
     {
       "added_at": "2024-10-25 06:38:17",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-10-25 06:38:17",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
-    },
-    {
-      "added_at": "2024-10-25 06:38:17",
-      "album": {
         "name": "\"Of Many Colors\": Orange",
         "url": "https://open.spotify.com/album/6QSAkZ4cM2bRSdPXF7HX2x"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 159360,
       "name": "Emeka Dance",
       "url": "https://open.spotify.com/track/0JPOsyqfQshF8ejvGCTBgG"
+    },
+    {
+      "added_at": "2024-10-25 06:38:17",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-10-25 06:38:17",
@@ -1323,38 +1323,6 @@
     {
       "added_at": "2024-10-25 06:38:17",
       "album": {
-        "name": "HAUSAPIANO",
-        "url": "https://open.spotify.com/album/3TeZuQ3I3cZyyZ6xITnYR5"
-      },
-      "artists": [
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 103507,
-      "name": "HAUSAPIANO",
-      "url": "https://open.spotify.com/track/45eArmaTp7V4cN4CJvRV72"
-    },
-    {
-      "added_at": "2024-10-25 06:38:17",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/1EFBHXQWEoTrB6eMzvq9hc"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX"
-    },
-    {
-      "added_at": "2024-10-25 06:38:17",
-      "album": {
         "name": "Ogo",
         "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
       },
@@ -1375,22 +1343,50 @@
     {
       "added_at": "2024-10-25 06:38:17",
       "album": {
-        "name": "Full Time Job",
-        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/1EFBHXQWEoTrB6eMzvq9hc"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 182979,
-      "name": "Men Don Show Face",
-      "url": "https://open.spotify.com/track/7LHFDvkmLUnPigyHDZpwIX"
+      "duration_ms": 133846,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX"
+    },
+    {
+      "added_at": "2024-10-25 06:38:17",
+      "album": {
+        "name": "HAUSAPIANO",
+        "url": "https://open.spotify.com/album/3TeZuQ3I3cZyyZ6xITnYR5"
+      },
+      "artists": [
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "duration_ms": 103507,
+      "name": "HAUSAPIANO",
+      "url": "https://open.spotify.com/track/45eArmaTp7V4cN4CJvRV72"
+    },
+    {
+      "added_at": "2024-10-25 06:38:17",
+      "album": {
+        "name": "Falling/Unleash",
+        "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
     },
     {
       "added_at": "2024-10-25 06:38:17",
@@ -1419,18 +1415,22 @@
     {
       "added_at": "2024-10-25 06:38:17",
       "album": {
-        "name": "Falling/Unleash",
-        "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
+        "name": "Full Time Job",
+        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
+      "duration_ms": 182979,
+      "name": "Men Don Show Face",
+      "url": "https://open.spotify.com/track/7LHFDvkmLUnPigyHDZpwIX"
     },
     {
       "added_at": "2024-10-25 06:38:17",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-10-25 06:38:17",
       "album": {
-        "name": "EGWU EJI",
-        "url": "https://open.spotify.com/album/4qHRBQjsGaIRqJOqPR2z1p"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "EGWU EJI",
-      "url": "https://open.spotify.com/track/1XjhPexco85M6Xzyxiqdwl"
-    },
-    {
-      "added_at": "2024-10-25 06:38:17",
-      "album": {
         "name": "Wara Wara Szn",
         "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
       },
@@ -1583,22 +1567,38 @@
     {
       "added_at": "2024-10-25 06:38:17",
       "album": {
-        "name": "Time Of My Life",
-        "url": "https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J"
+        "name": "EGWU EJI",
+        "url": "https://open.spotify.com/album/4qHRBQjsGaIRqJOqPR2z1p"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 155028,
-      "name": "Time Of My life",
-      "url": "https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0"
+      "duration_ms": 172640,
+      "name": "EGWU EJI",
+      "url": "https://open.spotify.com/track/1XjhPexco85M6Xzyxiqdwl"
+    },
+    {
+      "added_at": "2024-10-25 06:38:17",
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
     }
   ],
   "unique_name": "Party Dey!",

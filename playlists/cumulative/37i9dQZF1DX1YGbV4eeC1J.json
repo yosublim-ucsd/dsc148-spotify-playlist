@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Barnaba",
+  "description": "What is your love language? Say it in Swahili.  Cover: Nasha Travis & Barnaba",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 184000,
       "name": "Mar Gaya",
       "url": "https://open.spotify.com/track/05Wz87UDG1UaWf9DnlbZLb"
@@ -3022,6 +3022,24 @@
       "duration_ms": 213809,
       "name": "Nimekoma",
       "url": "https://open.spotify.com/track/4blFS6KD6jqGs8BlA2MGGo"
+    },
+    {
+      "album": {
+        "name": "Nimepatikana",
+        "url": "https://open.spotify.com/album/4ZBApehQPw0RRhNMVvEtdp"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Nimepatikana",
+      "url": "https://open.spotify.com/track/2iZ0SlISjg9i0zkEEeRzzo"
     },
     {
       "album": {
@@ -3995,6 +4013,28 @@
     },
     {
       "album": {
+        "name": "Tamu",
+        "url": "https://open.spotify.com/album/7nKpi7fJXplk551KdOE213"
+      },
+      "artists": [
+        {
+          "name": "GENIUSJINI X66",
+          "url": "https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW"
+        },
+        {
+          "name": "DJ Milva",
+          "url": "https://open.spotify.com/artist/7JM5XqnpDyRcE4SbndcIDq"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209789,
+      "name": "Tamu",
+      "url": "https://open.spotify.com/track/7bJA74cBQZ3Chx6MzZ5aoW"
+    },
+    {
+      "album": {
         "name": "My Voice",
         "url": "https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28"
       },
@@ -4086,6 +4126,28 @@
       "duration_ms": 227817,
       "name": "Tiririka",
       "url": "https://open.spotify.com/track/0cjQ4PR7bYMXl2GWMIRlAm"
+    },
+    {
+      "album": {
+        "name": "Toto (feat. Barnaba)",
+        "url": "https://open.spotify.com/album/0j9QtYqhQwm5fcjgwFfK0A"
+      },
+      "artists": [
+        {
+          "name": "Nasha Travis",
+          "url": "https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr"
+        },
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219354,
+      "name": "Toto (feat. Barnaba)",
+      "url": "https://open.spotify.com/track/29ZyUgbWQpQOoF0j9PPBiH"
     },
     {
       "album": {
@@ -4678,7 +4740,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 216637,
       "name": "Zoba",
       "url": "https://open.spotify.com/track/6x3liByFkS6SWGUWHUKsjL"

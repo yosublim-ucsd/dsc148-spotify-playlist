@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,498 likes - 237 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,597 likes - 237 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 43 | [Murano](https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj) | [Afon Aéron](https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k) | [Murano](https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte) | 2:37 |
 | 44 | [Randonnée](https://open.spotify.com/track/2HfRtKv9HU2e9PsLFRAjkD) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Randonnée](https://open.spotify.com/album/7C4KHUzQB4b6mvdEqEEgGI) | 3:29 |
 | 45 | [Valina](https://open.spotify.com/track/33ehnplgv1h0aF6rY5uHfe) | [Ton Doux](https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB) | [Valina](https://open.spotify.com/album/64CPVdeduyZ7GH9frJz60u) | 2:37 |
-| 46 | [alone at sea](https://open.spotify.com/track/67q1BKoOkW3leD5BJE6nuT) | [Nadav Cohen](https://open.spotify.com/artist/5B2PgPtljWBKCEpdtd9CKg) | [alone at sea](https://open.spotify.com/album/4zCf8DzpHkY8II4oNPYaS6) | 2:31 |
+| 46 | [alone at sea](https://open.spotify.com/track/67q1BKoOkW3leD5BJE6nuT) | [Nadav Cohen](https://open.spotify.com/artist/7MVwyy7j6wKwEPFPT3RpjV) | [alone at sea](https://open.spotify.com/album/4zCf8DzpHkY8II4oNPYaS6) | 2:31 |
 | 47 | [Strangers](https://open.spotify.com/track/0GUmktLeQ8WqUU2D9jgWdB) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Strangers](https://open.spotify.com/album/4XQmAOMyocly3p9xA74HWA) | 2:30 |
 | 48 | [Departure](https://open.spotify.com/track/1I9RJCEMEe76p5NtbWGSlS) | [Judy Baker](https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4) | [Departure](https://open.spotify.com/album/7LVDfltFH3FETGCYJU56zO) | 2:27 |
 | 49 | [Ghosts](https://open.spotify.com/track/0XBg77iBp7PDgS1WVTaALa) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [Ghosts](https://open.spotify.com/album/3QryOljEG3HSBwKts56jM0) | 2:24 |

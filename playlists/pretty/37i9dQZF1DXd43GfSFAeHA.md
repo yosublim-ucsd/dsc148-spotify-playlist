@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: Bu Kolthoum
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,783 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,789 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 25 | [CADABRA](https://open.spotify.com/track/5Tar0bByzTkBdCtAx1qDHv) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ABRACADABRA](https://open.spotify.com/album/5gjYTipqa2zQnwG0LUkFUx) | 2:42 |
 | 26 | [Zagalo](https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:23 |
 | 27 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
-| 28 | [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 |
-| 29 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
+| 28 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
+| 29 | [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 |
 | 30 | [RAKMY YKHOD](https://open.spotify.com/track/47dyrJZvPtw2RNhvQbOREb) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:56 |
 | 31 | [WELAD ELMAGANEN](https://open.spotify.com/track/5BLk1nq9Z0Fj9hIFA4FYOx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 2:18 |
 | 32 | [Lojy](https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 2:30 |

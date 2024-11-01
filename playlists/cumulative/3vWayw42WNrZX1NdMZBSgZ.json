@@ -2925,6 +2925,28 @@
     },
     {
       "album": {
+        "name": "Como Pacman",
+        "url": "https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148152,
+      "name": "Como Pacman",
+      "url": "https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X"
+    },
+    {
+      "album": {
         "name": "ANUBIS",
         "url": "https://open.spotify.com/album/5GTC36BIx9gEA8RTChT8mq"
       },

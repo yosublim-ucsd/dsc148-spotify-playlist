@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 
 > 25 songs updated every Tuesday ⏳ \(Email: jahtalksmusic@gmail.com\)
 
-[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 34,138 likes - 25 songs - 1 hr 30 min
+[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 34,156 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 | 20 | [Nappy Wonder](https://open.spotify.com/track/2ZGZV976wWwuA3qI3Q0q9k) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 2:38 |
 | 21 | [Phoenix](https://open.spotify.com/track/77v9kYcrCZV615E0P9WMrD) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:53 |
 | 22 | [Loner](https://open.spotify.com/track/6m6R6O2BOZDCNymhJ45spI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:32 |
-| 23 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
+| 23 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 24 | [Ghostbuster Pt2!](https://open.spotify.com/track/3o2irvYjGvwe4VpbJg10F1) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Ghostbuster Pt2!](https://open.spotify.com/album/1WCw7I5Bo9FIxU3ZN2kM2t) | 3:48 |
 | 25 | [THE ART OF HUNGER](https://open.spotify.com/track/6xdo7csKp8CPKyCvNLSHhM) | [D2x](https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA) | [THE HUNGER ERA](https://open.spotify.com/album/4kgSaSR2prl1qV8aqThp2B) | 5:15 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 87046,
+  "num_followers": 87137,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADs6pkrhl15jGrUyezqZUHP",
+  "snapshot_id": "ZyF3AAAAAAAXmlSAU/k6DIWaHCJ8glkt",
   "tracks": [
     {
       "added_at": null,
@@ -155,38 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Rodeo",
-        "url": "https://open.spotify.com/album/2NLbOG58Y3CDWXemojJEfj"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "First Rodeo",
-      "url": "https://open.spotify.com/track/42fu93ICEK8n1oJeu3syXk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry Mom",
-        "url": "https://open.spotify.com/album/0rxM61BYIAoyY2KvMOUwjo"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Sorry Mom",
-      "url": "https://open.spotify.com/track/3zftDSl1HdBPJek75cQwDE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rolling Up the Welcome Mat",
         "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
@@ -199,22 +167,6 @@
       "duration_ms": 183080,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "WAIT!",
-      "url": "https://open.spotify.com/track/6l9ponCrul5GMirw4xqwVc"
     },
     {
       "added_at": null,
@@ -251,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "WAIT!",
+      "url": "https://open.spotify.com/track/6l9ponCrul5GMirw4xqwVc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },
@@ -263,22 +231,6 @@
       "duration_ms": 167013,
       "name": "Blindsided (Yeah, Sure, Okay)",
       "url": "https://open.spotify.com/track/65eeFF3JE3YytATkV5Ga1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 157546,
-      "name": "Nothing Really Matters",
-      "url": "https://open.spotify.com/track/3F8HbdkDGVl5XB7kHg0bdb"
     },
     {
       "added_at": null,
@@ -315,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 157546,
+      "name": "Nothing Really Matters",
+      "url": "https://open.spotify.com/track/3F8HbdkDGVl5XB7kHg0bdb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },
@@ -327,22 +295,6 @@
       "duration_ms": 171240,
       "name": "How Do I Do This",
       "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 172146,
-      "name": "I Would, Would You",
-      "url": "https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx"
     },
     {
       "added_at": null,
@@ -379,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 172146,
+      "name": "I Would, Would You",
+      "url": "https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },
@@ -391,22 +359,6 @@
       "duration_ms": 177920,
       "name": "Mountain With A View",
       "url": "https://open.spotify.com/track/3Uq2F5YXXDui1m55h7r6JF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "How Much Do You Love Me",
-      "url": "https://open.spotify.com/track/3gvi5MSpn4glXbCSVLgsG1"
     },
     {
       "added_at": null,
@@ -447,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
       },
       "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 144243,
-      "name": "if we never met (feat. Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
+      "duration_ms": 213053,
+      "name": "How Much Do You Love Me",
+      "url": "https://open.spotify.com/track/3gvi5MSpn4glXbCSVLgsG1"
     },
     {
       "added_at": null,
@@ -495,6 +443,26 @@
       "duration_ms": 200026,
       "name": "Love Me Like You Mean It",
       "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 144243,
+      "name": "if we never met (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
     },
     {
       "added_at": null,
@@ -535,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "I Hate Love Songs",
-      "url": "https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The First Time",
         "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
       },
@@ -563,6 +515,22 @@
       "duration_ms": 183946,
       "name": "Dibs",
       "url": "https://open.spotify.com/track/6FWrlXo99QRmPtOeUSWDjv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 191186,
+      "name": "I Hate Love Songs",
+      "url": "https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh"
     },
     {
       "added_at": null,
@@ -599,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 152386,
-      "name": "I Think I Fell in Love Today",
-      "url": "https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },
@@ -627,6 +579,22 @@
       "duration_ms": 178746,
       "name": "Leave Me Again",
       "url": "https://open.spotify.com/track/4LikBrGVLKO61HoPwHAygC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 152386,
+      "name": "I Think I Fell in Love Today",
+      "url": "https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3"
     },
     {
       "added_at": null,
@@ -719,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Center Point Road",
+      "url": "https://open.spotify.com/track/7p9zIciejn8GXnsRdG9EQR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Song to the Earth",
         "url": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
       },
@@ -791,26 +779,6 @@
       "duration_ms": 231679,
       "name": "Love Song to the Earth",
       "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Center Point Road",
-      "url": "https://open.spotify.com/track/7p9zIciejn8GXnsRdG9EQR"
     },
     {
       "added_at": null,

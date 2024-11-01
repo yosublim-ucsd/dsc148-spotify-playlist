@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 iZaak is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,935,386 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,935,311 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [Perdida](https://open.spotify.com/track/2XOmIHSBEqe3UxQmSJFQdb) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Perdida](https://open.spotify.com/album/47GGw63ynikX8t2emaG8Do) | 3:32 |
 | 20 | [PERROS&GATA$](https://open.spotify.com/track/3hptpaHCmAuuGGmOZu1pQM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [PERROS&GATA$](https://open.spotify.com/album/1BSixIe0KXTGYRxpNlvOLg) | 2:59 |
 
-Snapshot ID: `ZyMAwAAAAAAEfcwkZPoqCOeJj0ZecOvu`
+Snapshot ID: `ZyM0QgAAAAAY7Y6DsCKMsw+WtjuG1xCO`

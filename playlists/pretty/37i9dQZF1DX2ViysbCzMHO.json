@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 161179,
+  "num_followers": 161218,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Beautiful As U",
-        "url": "https://open.spotify.com/album/6Fk59eEH89ibSBUWiOq6zL"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 163161,
-      "name": "Beautiful As You - Acoustic",
-      "url": "https://open.spotify.com/track/3uSSyLv1pk4ZfCKulf2B3o"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Girl On Fire (Acoustic)",
         "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 188709,
       "name": "Girl On Fire - Acoustic",
       "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Beautiful As U",
+        "url": "https://open.spotify.com/album/6Fk59eEH89ibSBUWiOq6zL"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 163161,
+      "name": "Beautiful As You - Acoustic",
+      "url": "https://open.spotify.com/track/3uSSyLv1pk4ZfCKulf2B3o"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -595,22 +595,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Half Of Me (Acoustic)",
-        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
+        "name": "Heartbreaker (Acoustic)",
+        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 175639,
-      "name": "Half Of Me - Acoustic",
-      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Acoustic",
+      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -631,18 +627,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Heartbreaker (Acoustic)",
-        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
+        "name": "Half Of Me (Acoustic)",
+        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Acoustic",
-      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
+      "duration_ms": 175639,
+      "name": "Half Of Me - Acoustic",
+      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Love Makes You Blind (Acoustic Version)",
+        "url": "https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Rose",
+          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
+        }
+      ],
+      "duration_ms": 160875,
+      "name": "Love Makes You Blind - Acoustic Version",
+      "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Honestly (Deluxe)",
         "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 212932,
       "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
       "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Love Makes You Blind (Acoustic Version)",
-        "url": "https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Rose",
-          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
-        }
-      ],
-      "duration_ms": 160875,
-      "name": "Love Makes You Blind - Acoustic Version",
-      "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Landslide - Live from Nashville",
+      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Never Wanted To Be That Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Landslide - Live from Nashville",
-      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Some Girls (Acoustic)",
         "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Pretty Little Poison (Piano Version)",
-        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Pretty Little Poison - Piano Version",
-      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Drinking Alone",
         "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 175783,
       "name": "Drinking Alone - Sunset Session",
       "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "I Don't Wanna Go To Heaven (Choir Version)",
-        "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 205305,
-      "name": "I Don't Wanna Go To Heaven - Choir Version",
-      "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Creek Will Rise (Acoustic)",
         "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 171320,
       "name": "Creek Will Rise - Acoustic",
       "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "I Don't Wanna Go To Heaven (Choir Version)",
+        "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 205305,
+      "name": "I Don't Wanna Go To Heaven - Choir Version",
+      "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/6Ht4TbAhENzPK5sUZHk95t"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        },
-        {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
-        }
-      ],
-      "duration_ms": 225348,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/7JPRBPqae2V7mwlohvniML"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Breakin' in Boots (Stripped)",
         "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 177066,
       "name": "I Should Probably Go To Bed - Acoustic",
       "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/6Ht4TbAhENzPK5sUZHk95t"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        },
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "duration_ms": 225348,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/7JPRBPqae2V7mwlohvniML"
     },
     {
       "added_at": "2024-10-04 04:00:00",

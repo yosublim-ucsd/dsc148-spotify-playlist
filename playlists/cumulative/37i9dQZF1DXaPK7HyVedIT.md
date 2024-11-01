@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Malive
 
-475 songs - 1 day 2 hr 8 min
+477 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-21 | 2023-08-05 |
 | [Flute](https://open.spotify.com/track/2PA7dRQno5zcM65bocvu08) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Flute](https://open.spotify.com/album/6pWeipE5YJialIcLkicui8) | 2:47 | 2024-04-12 | 2024-07-06 |
 | [Fluttering](https://open.spotify.com/track/1nOugdbqhsI7KLDa591btz) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Fluttering](https://open.spotify.com/album/4nl8e63Gndd2tuQEIUlDrU) | 4:35 | 2023-12-29 | 2024-05-11 |
+| [Fly](https://open.spotify.com/track/3if89wYHAYT2vZSHYTkN7B) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ayrton Senna](https://open.spotify.com/artist/2oTPCYBrkHHoK4ERKw2wxQ) | [Senna Driven](https://open.spotify.com/album/5OR3qKgc3gQYh7AFRhwVY4) | 2:35 | 2024-11-01 |  |
 | [Fly Away](https://open.spotify.com/track/7gQzv8EeV2LKGoF6dGtL3P) | [Barja](https://open.spotify.com/artist/5uBR08vndaYNR50ZqRWthK) | [Fly Away](https://open.spotify.com/album/3kn9zwMVOE1Ighr5ZvN5mo) | 5:40 | 2023-10-13 | 2024-02-24 |
 | [Flying With Gods](https://open.spotify.com/track/4c6MFuZAHvnCKA7kXAt0B3) | [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [Flying With Gods](https://open.spotify.com/album/0n9wUeRkXRBAyqZAezmXSH) | 6:34 | 2023-12-01 | 2024-03-02 |
 | [Focus \(Double MZK Remix\)](https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double MZK Remix\)](https://open.spotify.com/album/0qo4zOP29YgQAWvbkP18RW) | 2:21 | 2023-07-21 | 2023-09-16 |
@@ -472,6 +473,7 @@
 | [When I See It \(feat\. The Vic\)](https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [When I See It \(feat\. The Vic\)](https://open.spotify.com/album/0fzfB2d2fwXPjqhoKhbME1) | 3:15 | 2023-09-22 | 2024-01-20 |
 | [where is your pride?](https://open.spotify.com/track/5H8f92czIxzvXko1n7toHZ) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Benjamin Zephaniah](https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6) | [where is your pride?](https://open.spotify.com/album/2gC9Z5MHfmUkW2e3uHw56f) | 3:38 | 2024-05-17 | 2024-08-17 |
 | [Where'd You Go](https://open.spotify.com/track/7KLlDR1Q1CNWm38nlcCgF2) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [FROZT](https://open.spotify.com/artist/4CH9dyJuNxBP59EBVSykF5), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Where'd You Go](https://open.spotify.com/album/4IJ3rgtpv55ZmemYFskHc6) | 3:02 | 2023-07-21 | 2023-09-02 |
+| [Who's She?](https://open.spotify.com/track/1geZPNP04L1bHDD4SlPX1I) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Who's She?](https://open.spotify.com/album/4RPsaIDyGstwgG2JOALFDL) | 3:01 | 2024-11-01 |  |
 | [Why I Love You So](https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV) | [Why I Love You So](https://open.spotify.com/album/4JF0zqoAl589waMex3Y1nx) | 2:53 | 2024-08-09 |  |
 | [Windy](https://open.spotify.com/track/2eBUEnUmhItbr4v6jU3QWZ) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Airy EP](https://open.spotify.com/album/3KOQ2yxqN7OKVy4VbH1mzH) | 7:21 | 2023-09-08 | 2023-12-09 |
 | [With You](https://open.spotify.com/track/4pD7ds0WqjF6I5xrRJStkk) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [With You](https://open.spotify.com/album/18ejf0VB2RM7UnyTZ3EIOc) | 2:04 | 2023-11-10 | 2024-03-23 |

@@ -4,7 +4,7 @@
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-109 songs - 6 hr 11 min
+110 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [eat acid, see god\. \(feat\. Paledusk\)](https://open.spotify.com/track/3160hDliIYzBqceX8gTjwH) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:57 | 2023-09-07 |  |
 | [Enchant](https://open.spotify.com/track/2tYNzHULY0NLwOX14Ii0f6) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Enchant](https://open.spotify.com/album/4ANXVDK3ZhbbwUrUOoHngG) | 2:44 | 2024-02-29 | 2024-04-20 |
 | [Enigma](https://open.spotify.com/track/2otEQ8u6yy6RrOdOAbAUfY) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [Enigma](https://open.spotify.com/album/0q24SGJZK1HhVfthfgRS23) | 3:13 | 2023-11-28 |  |
+| [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 | 2024-07-10 |  |
 | [eudemonics](https://open.spotify.com/track/6PHXdWmg9Rs8U5D3Mqs5FF) | [Azami](https://open.spotify.com/artist/2vFJ325iLc11HBtsP7Ofjd) | [eudemonics](https://open.spotify.com/album/2n4NWE6xInjbXZGjiCR1tL) | 4:33 | 2024-02-13 | 2024-04-19 |
 | [Everything is all lies](https://open.spotify.com/track/69IdF6DRfdfVzHcfTKSKGV) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/5YIvr0nyy19d0iNOsAzoPX) | 3:45 | 2023-10-19 |  |
 | [Everything is all lies](https://open.spotify.com/track/7DW1eA2egBA4eoy0OzFKp2) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/7r9qMbnNkHSOOl3BgpE937) | 3:45 | 2023-10-19 | 2024-04-19 |
@@ -61,7 +62,7 @@
 | [LIGHTS](https://open.spotify.com/track/0ZxRJBw6mE4b1S3o919Nfl) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HAPPY TALK](https://open.spotify.com/album/2Li1mXDcT5wKDLi4xkmptr) | 4:44 | 2024-02-29 |  |
 | [Locust](https://open.spotify.com/track/6PfrqjudrParHtDBQ3bw9m) | [Prompts](https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl), [KAITOPALEDUSK](https://open.spotify.com/artist/1SS5s1IOYIkoHfsuQNIK0L) | [Locust / Let The Rain Wash Over](https://open.spotify.com/album/4phEIX43og9GKlEjUcZmCm) | 2:24 | 2023-09-07 | 2023-10-04 |
 | [Lost Grace](https://open.spotify.com/track/3d1rPXAFydkR2nU8IaN8uz) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [Have A Good Cult](https://open.spotify.com/album/44pHQUc72goqtick2zPk4f) | 2:38 | 2023-09-07 |  |
-| [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 | 2024-02-29 |  |
+| [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 | 2024-02-29 | 2024-11-01 |
 | [Mad World](https://open.spotify.com/track/7uPqCPyYOZV9OqRfGCKhoP) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO) | 3:02 | 2024-02-29 |  |
 | [Mad World \- Japanese Version](https://open.spotify.com/track/3iUNRtOmMsmnf0SNNtFHyY) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease \(Japanese Version\)](https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD) | 3:02 | 2023-09-07 | 2024-04-19 |
 | [Messiah](https://open.spotify.com/track/2bBMcewHW1zVhPkmrHhWwI) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [DUALITY](https://open.spotify.com/album/3kWm132i1QrxKGtu2eBD08) | 4:08 | 2023-09-07 |  |

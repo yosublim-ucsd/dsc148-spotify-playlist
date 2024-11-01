@@ -1,6 +1,6 @@
 {
   "description": "Vocals and keys, front and center. Cover: Bruno Mars",
-  "num_followers": 1839430,
+  "num_followers": 1839542,
   "original_name": "Piano Ballads",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-10-09 03:40:03",
       "album": {
+        "name": "Not Your Muse (Deluxe)",
+        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
+    },
+    {
+      "added_at": "2024-10-09 03:40:03",
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 184400,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
-    },
-    {
-      "added_at": "2024-10-09 03:40:03",
-      "album": {
-        "name": "Not Your Muse (Deluxe)",
-        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
     },
     {
       "added_at": "2024-10-09 03:40:03",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-10-09 03:40:03",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Is That Alright?",
-      "url": "https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5"
+      "duration_ms": 183080,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
     },
     {
       "added_at": "2024-10-09 03:40:03",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-10-09 03:40:03",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 183080,
-      "name": "Penthouse",
-      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
+      "duration_ms": 191280,
+      "name": "Is That Alright?",
+      "url": "https://open.spotify.com/track/172e82oK9vGoBPvc6SqMm5"
     },
     {
       "added_at": "2024-10-09 03:40:03",

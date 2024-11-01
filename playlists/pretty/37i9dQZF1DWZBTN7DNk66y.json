@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Feli Colina y Vera Frod.",
-  "num_followers": 26084,
+  "num_followers": 26086,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Quiero Mejor",
-        "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        }
-      ],
-      "duration_ms": 183165,
-      "name": "Quiero Mejor",
-      "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Candombe",
         "url": "https://open.spotify.com/album/02tFQcbgaxEs6RRiGs6qCl"
       },
@@ -167,6 +147,26 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Quiero Mejor",
+        "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        }
+      ],
+      "duration_ms": 183165,
+      "name": "Quiero Mejor",
+      "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "UNDESASTRE",
         "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
       },
@@ -179,22 +179,6 @@
       "duration_ms": 222354,
       "name": "DESASTRE",
       "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -215,6 +199,22 @@
       "duration_ms": 161000,
       "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
       "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Cu\u00e1ndo y D\u00f3nde",
-        "url": "https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        },
-        {
-          "name": "Luz Elena Mendoza",
-          "url": "https://open.spotify.com/artist/1ZHeh74UvOHtp0h6ZNyZtv"
-        }
-      ],
-      "duration_ms": 194956,
-      "name": "Cu\u00e1ndo y D\u00f3nde",
-      "url": "https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "El mago y la publicidad",
         "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 140249,
       "name": "El mago y la publicidad",
       "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Cu\u00e1ndo y D\u00f3nde",
+        "url": "https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        },
+        {
+          "name": "Luz Elena Mendoza",
+          "url": "https://open.spotify.com/artist/1ZHeh74UvOHtp0h6ZNyZtv"
+        }
+      ],
+      "duration_ms": 194956,
+      "name": "Cu\u00e1ndo y D\u00f3nde",
+      "url": "https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "REGALAMOS ROSAS EN LA LUNA",
-        "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Briones",
-          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
-        },
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "REGALAMOS ROSAS EN LA LUNA",
-      "url": "https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "NUNCA DA IGUAL",
         "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 219826,
       "name": "M\u00e1quinas de hacer todo al mismo tiempo",
       "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "REGALAMOS ROSAS EN LA LUNA",
+        "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Briones",
+          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+        },
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "REGALAMOS ROSAS EN LA LUNA",
+      "url": "https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Llamando",
-        "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
-      },
-      "artists": [
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 343498,
-      "name": "Llamando",
-      "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Eufemismos",
         "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 165348,
       "name": "Eufemismos",
       "url": "https://open.spotify.com/track/7IoVTtXW1XwgEhMKoQPBxK"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Llamando",
+        "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
+      },
+      "artists": [
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 343498,
+      "name": "Llamando",
+      "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -959,6 +959,34 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Luna Llena de Fuego",
+        "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
+      },
+      "artists": [
+        {
+          "name": "Milagros",
+          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
+        },
+        {
+          "name": "YOGAROCK",
+          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
+        },
+        {
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+        },
+        {
+          "name": "Luana Mendez",
+          "url": "https://open.spotify.com/artist/4EsoEMF4MR3LrFzsQFxzGK"
+        }
+      ],
+      "duration_ms": 161875,
+      "name": "Luna Llena de Fuego",
+      "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
         "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
@@ -987,26 +1015,6 @@
       "duration_ms": 238262,
       "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
       "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Sexo y Sushi",
-        "url": "https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        },
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        }
-      ],
-      "duration_ms": 172842,
-      "name": "Sexo y Sushi",
-      "url": "https://open.spotify.com/track/1mqRD9uR38rWpCUtg8jf7W"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1043,6 +1051,26 @@
       "duration_ms": 222006,
       "name": "Amor Amor",
       "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Sexo y Sushi",
+        "url": "https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        },
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        }
+      ],
+      "duration_ms": 172842,
+      "name": "Sexo y Sushi",
+      "url": "https://open.spotify.com/track/1mqRD9uR38rWpCUtg8jf7W"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1091,26 +1119,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "\u00c1rbol",
-        "url": "https://open.spotify.com/album/19VxCPNmYESdns8Wf3Behp"
-      },
-      "artists": [
-        {
-          "name": "Luciana Tagliapietra",
-          "url": "https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk"
-        },
-        {
-          "name": "Sol Pereyra",
-          "url": "https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A"
-        }
-      ],
-      "duration_ms": 252402,
-      "name": "\u00c1rbol",
-      "url": "https://open.spotify.com/track/5SZhccdhHvoYrmmVaLUoMK"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Las Mareas",
         "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
       },
@@ -1131,6 +1139,26 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "\u00c1rbol",
+        "url": "https://open.spotify.com/album/19VxCPNmYESdns8Wf3Behp"
+      },
+      "artists": [
+        {
+          "name": "Luciana Tagliapietra",
+          "url": "https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk"
+        },
+        {
+          "name": "Sol Pereyra",
+          "url": "https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A"
+        }
+      ],
+      "duration_ms": 252402,
+      "name": "\u00c1rbol",
+      "url": "https://open.spotify.com/track/5SZhccdhHvoYrmmVaLUoMK"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Recuerdos de Ypacara\u00ed",
         "url": "https://open.spotify.com/album/3JFlzUbyftC2j34IoK4cyG"
       },
@@ -1147,34 +1175,6 @@
       "duration_ms": 267523,
       "name": "Recuerdos de Ypacara\u00ed",
       "url": "https://open.spotify.com/track/5sHhACecsUVICpq4Geeejj"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Luna Llena de Fuego",
-        "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
-      },
-      "artists": [
-        {
-          "name": "Milagros",
-          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
-        },
-        {
-          "name": "YOGAROCK",
-          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
-        },
-        {
-          "name": "Hugo Fattoruso",
-          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
-        },
-        {
-          "name": "Luana Mendez",
-          "url": "https://open.spotify.com/artist/4EsoEMF4MR3LrFzsQFxzGK"
-        }
-      ],
-      "duration_ms": 161875,
-      "name": "Luna Llena de Fuego",
-      "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Otra Galaxia",
-        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "Otra Galaxia",
-      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Pecho Jard\u00edn",
         "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
@@ -1339,6 +1323,38 @@
       "duration_ms": 282990,
       "name": "Pecho Jard\u00edn",
       "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Otra Galaxia",
+        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "Otra Galaxia",
+      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/7bxZFtN1I1Ajq9jJ50VME5"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 217169,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7d2zo3SEliRTknVoqhUROQ"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1407,22 +1423,6 @@
       "duration_ms": 177750,
       "name": "D\u00eda tras d\u00eda",
       "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/7bxZFtN1I1Ajq9jJ50VME5"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 217169,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7d2zo3SEliRTknVoqhUROQ"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Del otro lado de la vidriera",
-        "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
-      },
-      "artists": [
-        {
-          "name": "Galean",
-          "url": "https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8"
-        },
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 256032,
-      "name": "Tu Profec\u00eda",
-      "url": "https://open.spotify.com/track/5K4e3D9pEibOQA0T17s34P"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Del otro lado de la vidriera",
+        "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
+      },
+      "artists": [
+        {
+          "name": "Galean",
+          "url": "https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8"
+        },
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 256032,
+      "name": "Tu Profec\u00eda",
+      "url": "https://open.spotify.com/track/5K4e3D9pEibOQA0T17s34P"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Odio despertar",
+        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Hunde",
         "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 234250,
       "name": "El \u00daltimo Mate",
       "url": "https://open.spotify.com/track/6WWXNlIRqZ3tYCzJo20mJD"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Odio despertar",
-        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Color De Flor",
-        "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Castro",
-          "url": "https://open.spotify.com/artist/1uBdSvIwuEaiGnwhmqp9An"
-        },
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 273219,
-      "name": "Color De Flor",
-      "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Yo te nombro libertad (Banda Sonora Original de \"El don absoluto\")",
         "url": "https://open.spotify.com/album/2wFi5fSoYU4R7Nj15jwa33"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 231786,
       "name": "Yo te nombro libertad - Banda Sonora Original de \"El don absoluto\"",
       "url": "https://open.spotify.com/track/36EM8dPAucgz0PsA4wHgin"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Color De Flor",
+        "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Castro",
+          "url": "https://open.spotify.com/artist/1uBdSvIwuEaiGnwhmqp9An"
+        },
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 273219,
+      "name": "Color De Flor",
+      "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1731,6 +1731,42 @@
       "duration_ms": 205792,
       "name": "Felipa y la Luna",
       "url": "https://open.spotify.com/track/2stlqZmixD2n8YF79fanaj"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "A Ver",
+        "url": "https://open.spotify.com/album/6Mh5NSHDVnQlos2BEoORxq"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Prada",
+          "url": "https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6"
+        },
+        {
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+        }
+      ],
+      "duration_ms": 176185,
+      "name": "A Ver",
+      "url": "https://open.spotify.com/track/7dFHHUywOkiDTAIGovm60v"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Neblina",
+        "url": "https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM"
+      },
+      "artists": [
+        {
+          "name": "Camila y Silvio",
+          "url": "https://open.spotify.com/artist/7q4O9IJOztG7Oa2MF4ODlX"
+        }
+      ],
+      "duration_ms": 191339,
+      "name": "Neblina",
+      "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1771,22 +1807,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Neblina",
-        "url": "https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM"
-      },
-      "artists": [
-        {
-          "name": "Camila y Silvio",
-          "url": "https://open.spotify.com/artist/7q4O9IJOztG7Oa2MF4ODlX"
-        }
-      ],
-      "duration_ms": 191339,
-      "name": "Neblina",
-      "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "\u00bfQU\u00c9 VES?",
         "url": "https://open.spotify.com/album/4q51LFiTNCS7zV1FMSSQVF"
       },
@@ -1807,22 +1827,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "El rey del yuyal",
-        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
-      },
-      "artists": [
-        {
-          "name": "Pens\u00e9 que era viernes",
-          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "El rey del yuyal",
-      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Sim\u00f3n",
         "url": "https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD"
       },
@@ -1839,6 +1843,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "El rey del yuyal",
+        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
+      },
+      "artists": [
+        {
+          "name": "Pens\u00e9 que era viernes",
+          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "El rey del yuyal",
+      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Las palabras que no sientes",
         "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
       },
@@ -1851,26 +1871,6 @@
       "duration_ms": 148339,
       "name": "Las palabras que no sientes",
       "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Traviarca",
-        "url": "https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v"
-      },
-      "artists": [
-        {
-          "name": "Susy Shock",
-          "url": "https://open.spotify.com/artist/7cSEm0IEhlSHyPx0rXC6oY"
-        },
-        {
-          "name": "La Bandada de Colibr\u00edes",
-          "url": "https://open.spotify.com/artist/7uke62HqZX7Jn6Del1PkKO"
-        }
-      ],
-      "duration_ms": 233418,
-      "name": "Tan Solo Canci\u00f3n",
-      "url": "https://open.spotify.com/track/1nbibeTKZP76Tkokx5Enl7"
     }
   ],
   "unique_name": "Voces del Sur",

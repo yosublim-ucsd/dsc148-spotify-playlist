@@ -10662,7 +10662,7 @@
     {
       "album": {
         "name": "S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/5dH89SWty2zwQkpLtPI2Lv"
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
       },
       "artists": [
         {
@@ -10677,6 +10677,28 @@
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/5dH89SWty2zwQkpLtPI2Lv"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-11-01",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/4UmpZwWh99V5JMSrGsacFP"

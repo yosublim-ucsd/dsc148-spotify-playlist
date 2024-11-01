@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 388695,
+  "num_followers": 388700,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -835,38 +835,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "L7 Blues",
-        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 141974,
-      "name": "L7 Blues",
-      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
-        "name": "\u6bce\u65e5 - Every Day",
-        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 182140,
-      "name": "\u6bce\u65e5 - Every Day",
-      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "Danger Danger",
         "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
       },
@@ -887,6 +855,38 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
+        "name": "\u6bce\u65e5 - Every Day",
+        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 182140,
+      "name": "\u6bce\u65e5 - Every Day",
+      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
         "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
         "url": "https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 169620,
-      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "Don't Tell Nobody",
         "url": "https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 173925,
       "name": "Don't Tell Nobody",
       "url": "https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
+        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 169620,
+      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
-        "url": "https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 243177,
-      "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
-      "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "\u66d6\u6627\u306aBEACH",
         "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 159000,
       "name": "\u66d6\u6627\u306aBEACH",
       "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
+        "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
+        "url": "https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 243177,
+      "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
+      "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "\u521d\u604b",
-        "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 195657,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "SF\u6771\u4eac",
         "url": "https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 194586,
       "name": "SF\u6771\u4eac",
       "url": "https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
+        "name": "\u521d\u604b",
+        "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 195657,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
         "name": "plum",
         "url": "https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr"
       },
@@ -1567,18 +1583,34 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
+        "name": "\u98df\u5353",
+        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
         }
       ],
-      "duration_ms": 202373,
-      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
+      "duration_ms": 206107,
+      "name": "\u98df\u5353",
+      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+    },
+    {
+      "added_at": "2024-10-23 02:15:44",
+      "album": {
+        "name": "M4D LUV",
+        "url": "https://open.spotify.com/album/4q7ZGmbDGNH3ZXRfKWqHbJ"
+      },
+      "artists": [
+        {
+          "name": "MILLENNIUM PARADE",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "M4D LUV",
+      "url": "https://open.spotify.com/track/1VvnwevAQLDauz6iZbbxDv"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -1607,22 +1639,6 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "M4D LUV",
-        "url": "https://open.spotify.com/album/4q7ZGmbDGNH3ZXRfKWqHbJ"
-      },
-      "artists": [
-        {
-          "name": "MILLENNIUM PARADE",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "M4D LUV",
-      "url": "https://open.spotify.com/track/1VvnwevAQLDauz6iZbbxDv"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
         "name": "\u30ab\u30eb\u30c8",
         "url": "https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb"
       },
@@ -1639,18 +1655,18 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "\u98df\u5353",
-        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
+        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
       },
       "artists": [
         {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 206107,
-      "name": "\u98df\u5353",
-      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+      "duration_ms": 225960,
+      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -1671,22 +1687,6 @@
       "duration_ms": 148000,
       "name": "sad girl",
       "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
-    },
-    {
-      "added_at": "2024-10-23 02:15:44",
-      "album": {
-        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
     },
     {
       "added_at": "2024-10-23 02:15:44",
@@ -1747,22 +1747,18 @@
     {
       "added_at": "2024-10-23 02:15:44",
       "album": {
-        "name": "Drink!",
-        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
+        "name": "39 Minutes",
+        "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
         }
       ],
-      "duration_ms": 187862,
-      "name": "Drink!",
-      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
+      "duration_ms": 213106,
+      "name": "39 Minutes",
+      "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
     }
   ],
   "unique_name": "Tokyo Rising",

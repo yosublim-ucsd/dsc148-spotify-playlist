@@ -4,7 +4,7 @@
 
 > 
 
-1,803 songs - 4 day 0 hr 40 min
+1,804 songs - 4 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Beatbox Rocker](https://open.spotify.com/track/65QR5zWJ17jqNafWA4fuip) | [Maltorian](https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5) | [Beatbox Rocker](https://open.spotify.com/album/4a8PMWyKo7HUIEWqwQihgK) | 2:52 | 2023-10-27 |  |
 | [Beautiful People \- 2023 Refix](https://open.spotify.com/track/7GFUKO2rla3oCs6g4MmfEJ) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6) | [Beautiful People \(2023 Refix\)](https://open.spotify.com/album/6cez1sSRj6PqSutimIlKY6) | 3:30 | 2023-09-20 |  |
 | [Became Hardcore](https://open.spotify.com/track/5p1IzNQ6V58MbaaXuEg5y2) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Became Hardcore](https://open.spotify.com/album/7hGNddFyn5eypkuqAXoeHg) | 3:06 | 2023-12-30 |  |
+| [Behind Enemy Lines](https://open.spotify.com/track/0r3hUPdNI7fhxCyFpJbsYX) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Behind Enemy Lines](https://open.spotify.com/album/3nYoZaPC9rUpuagx0JqSXz) | 3:42 | 2024-10-31 |  |
 | [Believe](https://open.spotify.com/track/7pEqOiDb5lpdxAL6WY4tBk) | [Andy Whitby](https://open.spotify.com/artist/0Dl6oKsS2ibxaqWsyJBmXd) | [Believe](https://open.spotify.com/album/6QJF2w7KyaVXyhadmKKnaN) | 3:17 | 2024-10-11 |  |
 | [Below Zero](https://open.spotify.com/track/4grqoiUviJpSwf3BefZE5m) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [Below Zero](https://open.spotify.com/album/3nxgaJIxf1Fr953KGuOyw9) | 3:23 | 2023-10-27 |  |
 | [Better Now](https://open.spotify.com/track/4w5TAMlbpxNThD7vnCSnFA) | [Avi8](https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m) | [Better Now](https://open.spotify.com/album/4rdfgZUZzS2N1BcYo4jQtN) | 3:39 | 2024-06-24 |  |

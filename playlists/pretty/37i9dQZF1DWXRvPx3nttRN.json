@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 548658,
+  "num_followers": 548767,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 257923,
       "name": "Don't You Worry Child - Acoustic Version",
       "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "golden thing",
+        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 219300,
+      "name": "golden thing",
+      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "Wherever You Will Go - Acoustic",
+      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 282000,
       "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
       "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Wherever You Will Go - Acoustic",
-      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Nothing Matters (Acoustic)",
-        "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Nothing Matters - Acoustic",
-      "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Over My Head (Cable Car)",
         "url": "https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 230133,
       "name": "Over My Head (Cable Car) - Live at Sirius Radio, NYC, NY - May 2006",
       "url": "https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "Nothing Matters (Acoustic)",
+        "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Nothing Matters - Acoustic",
+      "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Every Second Counts",
-        "url": "https://open.spotify.com/album/5UdU4dmcRw1TG3oVZf9ZvT"
-      },
-      "artists": [
-        {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/0xM88xobymkMgg46MStfnV"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Poison (Acoustic)",
         "url": "https://open.spotify.com/album/16KGNmwzTUr81fFTrFBqac"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 220560,
       "name": "Poison - Acoustic",
       "url": "https://open.spotify.com/track/3Lpcz58EmUfusfV16tPqPH"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "Every Second Counts",
+        "url": "https://open.spotify.com/album/5UdU4dmcRw1TG3oVZf9ZvT"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/0xM88xobymkMgg46MStfnV"
     },
     {
       "added_at": "2024-07-01 15:02:12",

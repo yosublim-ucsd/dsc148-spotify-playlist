@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,850 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,859 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bigger In Texas](https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:32 |
 | 2 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 3 | [NEVER FIND \(feat\. K Carbon\)](https://open.spotify.com/track/059ND5uzljir164IZK7yHa) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [GLORIOUS \(BONUS TRACK EDITION\)](https://open.spotify.com/album/30U4ER7EKDECmVSxsFYRQc) | 2:49 |
-| 4 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
+| 4 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 5 | [BREAK BREAD](https://open.spotify.com/track/1BEMiV33Zy3htKqppm6pKU) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Dibia$E](https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb) | [BREAK BREAD](https://open.spotify.com/album/4jp1kvBpCFBX5IyrBLNLHq) | 2:00 |
 | 6 | [Passenger Princess \(feat\. Smino\)](https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Passenger Princess / Adam](https://open.spotify.com/album/6eszObM49D1h61rbPxS7po) | 2:27 |
 | 7 | [Play Your Part \(feat\. Chris Brown\)](https://open.spotify.com/track/1e470JJ1kfkYxS5z4G1OYw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 3:03 |

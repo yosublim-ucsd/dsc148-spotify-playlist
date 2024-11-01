@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1513238,
+  "num_followers": 1513263,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -1459,8 +1459,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "O Sol",
-        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
+        "name": "Ainda Bem Que Chegou (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK"
       },
       "artists": [
         {
@@ -1468,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 209000,
-      "name": "O Sol",
-      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+      "duration_ms": 181978,
+      "name": "Ainda Bem Que Chegou (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "O Sol",
+        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "O Sol",
+      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Sorte",
         "url": "https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG"
       },
@@ -1635,26 +1651,6 @@
       "duration_ms": 195138,
       "name": "Sorte",
       "url": "https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/3WkskrMgtz390TzYXFX5XC"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 245195,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1739,18 +1735,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Nobre Vagabundo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0QXco6eRK3Dy6SezkfCHVj"
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/3WkskrMgtz390TzYXFX5XC"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 181327,
-      "name": "Nobre Vagabundo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4a7Xb1MKZe72htweVyJozF"
+      "duration_ms": 245195,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di"
     }
   ],
   "unique_name": "Desplugado",

@@ -3791,6 +3791,28 @@
     },
     {
       "album": {
+        "name": "Do I Need To Know What Love Is? (feat. Josh Teskey)",
+        "url": "https://open.spotify.com/album/71D9MrSKeTKlyEn8btYGlv"
+      },
+      "artists": [
+        {
+          "name": "Alice Ivy",
+          "url": "https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Do I Need To Know What Love Is? (feat. Josh Teskey)",
+      "url": "https://open.spotify.com/track/0TEEKxwbiFzWsgz8bNiv5R"
+    },
+    {
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/0p9VYdjKX7XgC7M3wm5R3E"
       },
@@ -8980,7 +9002,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"

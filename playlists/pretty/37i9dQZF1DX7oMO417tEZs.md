@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems from artists carving their own path\. cover: Fievel Is Glauque
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,989 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,009 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 75 | [Ferrari World](https://open.spotify.com/track/0VLiUu0JSmeBIJfkJv7cLo) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Ferrari World](https://open.spotify.com/album/71UPU96jqlt9jn9akjTEnt) | 2:16 |
 | 76 | [ok </3](https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1) | 3:24 |
 | 77 | [I Never Knew You Well](https://open.spotify.com/track/4pU9XfXGm1773grbmqu4gh) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [CALL ME TWICE PT\. 1](https://open.spotify.com/album/433SKA9JbP0aeE103H6mmA) | 4:29 |
-| 78 | [Lost Myself](https://open.spotify.com/track/1rG0mtIr94GN0ycoAcsOkI) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Lost Myself](https://open.spotify.com/album/54LYeiVUOx03nRsfuHSCp3) | 3:56 |
+| 78 | [Lost Myself](https://open.spotify.com/track/1rG0mtIr94GN0ycoAcsOkI) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Lost Myself](https://open.spotify.com/album/54LYeiVUOx03nRsfuHSCp3) | 3:53 |
 | 79 | [Summer 2000 Baby](https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Summer 2000 Baby / Take a Trip](https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4) | 4:02 |
 | 80 | [Do Something!](https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Do Something!](https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN) | 2:11 |
 | 81 | [Spit \(feat\. BEAM & Lady Lykez\)](https://open.spotify.com/track/6mTnBa2d0DLbXKckEh7fM8) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [Spit \(feat\. BEAM & Lady Lykez\)](https://open.spotify.com/album/00WnMLBOx4vXamTuUfuahE) | 2:36 |

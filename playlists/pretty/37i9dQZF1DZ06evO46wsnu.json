@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 166009,
+  "num_followers": 166041,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAA7AyMS+sYVTF4jQPWLZqAi",
+  "snapshot_id": "ZyF3AAAAAAAaJHZu5+V1KE3gZtDBmjFV",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Paper Wings",
-      "url": "https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Endgame",
         "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 221200,
       "name": "This Is Letting Go",
       "url": "https://open.spotify.com/track/0304Y3lXclcRh5N50KJ3sE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Paper Wings",
+      "url": "https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 224973,
-      "name": "Forfeit",
-      "url": "https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV"
+      "duration_ms": 226960,
+      "name": "Sudden Urge",
+      "url": "https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 226960,
-      "name": "Sudden Urge",
-      "url": "https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf"
+      "duration_ms": 224973,
+      "name": "Forfeit",
+      "url": "https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV"
     },
     {
       "added_at": null,

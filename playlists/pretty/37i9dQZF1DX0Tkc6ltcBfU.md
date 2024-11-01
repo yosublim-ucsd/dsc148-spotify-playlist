@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the south\. Cover: Future
+> The hottest out the south\. Cover: Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,655 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,843 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [STEP \(feat\. BossMan Dlow\)](https://open.spotify.com/track/4agcKl7c21pVR2SIkjag40) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:43 |
 | 100 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 |
 
-Snapshot ID: `ZxsXwAAAAADC2W6wtpZAtwa1wtmMe2mk`
+Snapshot ID: `ZyQKPQAAAACGhsCkyI5noC2cGlUCfUyr`

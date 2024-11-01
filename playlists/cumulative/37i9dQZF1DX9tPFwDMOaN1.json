@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: Jin",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: G-DRAGON",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 180742,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0"
@@ -7016,6 +7016,24 @@
       "duration_ms": 168106,
       "name": "POP!",
       "url": "https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz"
+    },
+    {
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/6CfIObHVEN5OBcx7mqVnem"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143242,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/1HEPfv1KllCYnVC1VmcpgD"
     },
     {
       "album": {

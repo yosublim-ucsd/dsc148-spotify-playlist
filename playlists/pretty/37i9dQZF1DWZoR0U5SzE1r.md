@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,074 likes - 75 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,165 likes - 75 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 26 | [Good and Gracious King](https://open.spotify.com/track/1gqhpCPMpTQu8G9mkpS1ib) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Only a Holy God](https://open.spotify.com/album/3UUANfmbHhkVf54hhbHMry) | 5:57 |
 | 27 | [Believe For It](https://open.spotify.com/track/0fukHGuIvc2NQEFCkI2owi) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 3:48 |
 | 28 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
-| 29 | [The Joy \- Live](https://open.spotify.com/track/56x2k0KeA1S5NpryHPtx1P) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK) | [The Joy \(Live\)](https://open.spotify.com/album/0RDCDj37IOB6d8Bl6z88LO) | 7:23 |
+| 29 | [Praise You In This Storm \(feat\. Phil Wickham\)](https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:33 |
 | 30 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 |
-| 31 | [Praise You In This Storm \(feat\. Phil Wickham\)](https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:33 |
+| 31 | [The Joy \- Live](https://open.spotify.com/track/56x2k0KeA1S5NpryHPtx1P) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK) | [The Joy \(Live\)](https://open.spotify.com/album/0RDCDj37IOB6d8Bl6z88LO) | 7:23 |
 | 32 | [Faithful Now](https://open.spotify.com/track/0T3iZrykxliMyN1yeunXQh) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Grace Is On Our Side](https://open.spotify.com/album/0GgRDCWPLjgLl79e71UT7F) | 3:54 |
 | 33 | [His Mercy Is More](https://open.spotify.com/track/4N5DNWSCAitzzxhRQ5Cfxi) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [His Mercy Is More: The Hymns Of Matt Boswell And Matt Papa](https://open.spotify.com/album/0vdwU3kvvFybzEAPZZDOT3) | 4:49 |
 | 34 | [One Thing Remains](https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [One Thing Remains](https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm) | 3:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > Con licuachela en mano y perreando hasta el piso\. Charly Gynn en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,950 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,951 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 95 | [Bebe Ricota](https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [Bebe Ricota](https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l) | 2:31 |
 | 96 | [Bellaqueo](https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s) | [Bellaqueo](https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw) | 2:14 |
 | 97 | [Perreo Como Antes](https://open.spotify.com/track/5InIuRBCKBEiSboJnliVQo) | [Dj Bekman](https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F) | [Llego El Perreo](https://open.spotify.com/album/4Vb6NhgiW727CjOYxrlFnP) | 3:32 |
-| 98 | [Maldades](https://open.spotify.com/track/6C8XeTHHVoqNEgg20x4J1t) | [Mendoza](https://open.spotify.com/artist/64rM1OLJD5tIYCQpMwBhGv), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Maldades](https://open.spotify.com/album/7uJRnxKIlIfh29O7EGCVkX) | 2:41 |
-| 99 | [SUELTA SOLTERA](https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [SUELTA SOLTERA](https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd) | 2:32 |
+| 98 | [SUELTA SOLTERA](https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [SUELTA SOLTERA](https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd) | 2:32 |
+| 99 | [Perreo Chakalon](https://open.spotify.com/track/3Mwty5hFEbRARdiMsS6Kyr) | [DJ ETER](https://open.spotify.com/artist/74d5JvA21aJKseU1ISn9CW), [Alexito Mix](https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4) | [Perreo Chakalon](https://open.spotify.com/album/6yiD7DcSWqTeh4s7M9cMo1) | 2:16 |
 | 100 | [Combiaton](https://open.spotify.com/track/1h3It2uHrJAShvEzTRjP70) | [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx), [Casper Mx](https://open.spotify.com/artist/0QjuV8gi45r33s5vwgIyIn) | [Combiaton](https://open.spotify.com/album/1q3zeAg3m4ccvrAhZz7mqt) | 2:19 |
 
 Snapshot ID: `ZtFf4AAAAAB9G7EcfaUas2+PmLLwLE4q`

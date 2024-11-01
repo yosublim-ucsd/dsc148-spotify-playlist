@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-444 songs - 1 day 2 hr 9 min
+445 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [I Need Some of That](https://open.spotify.com/track/2bVC92dVDTRzlQGcz4RtOp) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [I Need Some of That](https://open.spotify.com/album/758At0nYWEPPSkWiGOlEwj) | 3:19 | 2021-04-24 | 2022-03-18 |
 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 | 2020-10-10\* | 2021-05-13 |
 | [I Want It](https://open.spotify.com/track/2ZUJm9FIiHeNabiRATQbFt) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [I Want It](https://open.spotify.com/album/3c6NudskLgwQfeFjkJiw1q) | 1:58 | 2021-04-24 | 2022-03-18 |
+| [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 | 2024-10-31 |  |
 | [Ice Cold](https://open.spotify.com/track/3obP0RKuV7NgLjpsHh7icx) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Ice Cold / New California](https://open.spotify.com/album/0khqKuc8ozdalZU75PJS4Q) | 3:27 | 2022-08-05 |  |
 | [Identity](https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Identity](https://open.spotify.com/album/2mSUgkKR7P3t1Ce2OIh7WL) | 3:36 | 2020-10-10\* | 2021-05-13 |
 | [Idiot](https://open.spotify.com/track/51Xr9Jt4ohvCxm5G9BJGfQ) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Idiot](https://open.spotify.com/album/0NmyFWum8tIYpvebBNd2JS) | 2:22 | 2021-08-14 |  |

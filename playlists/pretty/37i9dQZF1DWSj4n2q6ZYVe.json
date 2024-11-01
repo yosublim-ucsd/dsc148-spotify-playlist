@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 546375,
+  "num_followers": 546661,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "La Roux",
+        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "In For The Kill",
+      "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Castles In The Sky",
         "url": "https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 227133,
       "name": "Castles In The Sky - Radio Mix",
       "url": "https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "La Roux",
-        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "In For The Kill",
-      "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
     },
     {
       "added_at": "2021-04-29 18:40:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: <a href="spotify:artist:1zK4ACgLi1lVPpfmmcwOTh">DC Talk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,007 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,035 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 27 | [Testify To Love](https://open.spotify.com/track/4wuf5qwou5EIPYHFvI6Vv8) | [Avalon](https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO) | [A Maze Of Grace](https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2) | 4:40 |
 | 28 | [Breakfast](https://open.spotify.com/track/2vLxjS0U2CuaqxEossXLDS) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Take Me To Your Leader](https://open.spotify.com/album/72Sx2clAuxuyeOyHbqZBur) | 3:40 |
 | 29 | [Never Alone](https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [BarlowGirl](https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr) | 4:30 |
-| 30 | [Set Your Eyes to Zion](https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:06 |
+| 30 | [Breathe](https://open.spotify.com/track/0TbBIyH8RXlKV07wM8HAVh) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Worship God](https://open.spotify.com/album/70zjKqpAO7faWjYVbxLHdX) | 3:57 |
 | 31 | [Love Song For A Savior](https://open.spotify.com/track/0DbcdVCzmY1IjilPTPaSOe) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 4:46 |
-| 32 | [Breathe](https://open.spotify.com/track/0TbBIyH8RXlKV07wM8HAVh) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Worship God](https://open.spotify.com/album/70zjKqpAO7faWjYVbxLHdX) | 3:57 |
+| 32 | [Set Your Eyes to Zion](https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:06 |
 | 33 | [Enough](https://open.spotify.com/track/60kuYvjy5UaEKELsHLxd2n) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:20 |
 | 34 | [You Found Me](https://open.spotify.com/track/6A87i6tLzox7U3D0EVTb2G) | [FFH](https://open.spotify.com/artist/4xvNx8d6ZMhOZXUGUBmJby) | [Ready To Fly](https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs) | 3:35 |
-| 35 | [Consuming Fire](https://open.spotify.com/track/2bAOXQyD64LzOK0jRv1jMi) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:09 |
+| 35 | [Basic Instructions](https://open.spotify.com/track/1P2U3LMx2Rj3pVmnmT4LSd) | [Burlap To Cashmere](https://open.spotify.com/artist/4onLiJTk4yL72Yu7tc5ifw) | [Anybody Out There?](https://open.spotify.com/album/6conxG5LDeq8o4Jge5KSJe) | 3:59 |
 | 36 | [Shine](https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:41 |
-| 37 | [Basic Instructions](https://open.spotify.com/track/1P2U3LMx2Rj3pVmnmT4LSd) | [Burlap To Cashmere](https://open.spotify.com/artist/4onLiJTk4yL72Yu7tc5ifw) | [Anybody Out There?](https://open.spotify.com/album/6conxG5LDeq8o4Jge5KSJe) | 3:59 |
+| 37 | [Consuming Fire](https://open.spotify.com/track/2bAOXQyD64LzOK0jRv1jMi) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:09 |
 | 38 | [Supertones Strike Back](https://open.spotify.com/track/7aTrho0CMMab35UaanDEwu) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Supertones Strike Back, The](https://open.spotify.com/album/4m5KGlpqUtKNT4nrH1Wq8k) | 2:41 |
 | 39 | [Get This Party Started](https://open.spotify.com/track/2Lc71gh10nC31d24a1lYbU) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Momentum](https://open.spotify.com/album/730tFTLjk3HGaJSW2AMiBB) | 2:22 |
 | 40 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 62 | [Rain](https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7) | [dryve](https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4) | [Thrifty Mr\. Kickstar](https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ) | 6:46 |
 | 63 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 |
 | 64 | [Here With Me](https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [The Best Of Plumb](https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8) | 4:06 |
-| 65 | [Deeper \- Live](https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [King of Fools](https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j) | 4:20 |
-| 66 | [Sadie Hawkins Dance](https://open.spotify.com/track/5pZXriIfUJ5G0MiuoIkiww) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Anatomy of the Tongue in Cheek](https://open.spotify.com/album/4sb1t4vquXRUBjVYYsWlCM) | 2:57 |
+| 65 | [Sadie Hawkins Dance](https://open.spotify.com/track/5pZXriIfUJ5G0MiuoIkiww) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Anatomy of the Tongue in Cheek](https://open.spotify.com/album/4sb1t4vquXRUBjVYYsWlCM) | 2:57 |
+| 66 | [Deeper \- Live](https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [King of Fools](https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j) | 4:20 |
 | 67 | [I Want to Know You](https://open.spotify.com/track/5eZzdOGs6t1eVeRD6jbCDh) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [SonicFlood](https://open.spotify.com/album/3XRRl4djOAvjc4CXvOXcJl) | 4:33 |
 | 68 | [Undo Me](https://open.spotify.com/track/6XxaPcDid3vhKTSam6HTfz) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [The Collection](https://open.spotify.com/album/0uo9Z8fbOU1zdsEsqNsRYL) | 3:23 |
 | 69 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 | 70 | [Gasoline](https://open.spotify.com/track/0YYLrRSnq6li2bs7nms8WO) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [The Early Years](https://open.spotify.com/album/3D0HQxzoAIhnQqe3oVMxNh) | 4:02 |
 | 71 | [Free At Last \- Live](https://open.spotify.com/track/7uqQEvERrdjk5SmWVwZ3Jv) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Free At Last \(Live\)](https://open.spotify.com/album/2tgpJm3SloLVqAjAEWYr7c) | 4:44 |
 | 72 | [Prophet, Priest and King](https://open.spotify.com/track/2NgEHoXZTfjkdF7I6tSrnt) | [Smalltown Poets](https://open.spotify.com/artist/0mHos4yS8iAhpYPABHFdBc) | [Smalltown Poets](https://open.spotify.com/album/4AhydqgVrGNbcbkMzq1SSA) | 3:36 |
-| 73 | [Gravity](https://open.spotify.com/track/1jMdYE6b4sUolT8UnEOs8F) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/1Ag1b3t64FzUp3pdaIcgVH) | 3:19 |
-| 74 | [Lord I Lift Your Name On High](https://open.spotify.com/track/4YGyH585tBURMPnryf3OpV) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [SonicPraise](https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0) | 6:21 |
+| 73 | [Lord I Lift Your Name On High](https://open.spotify.com/track/4YGyH585tBURMPnryf3OpV) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [SonicPraise](https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0) | 6:21 |
+| 74 | [Gravity](https://open.spotify.com/track/1jMdYE6b4sUolT8UnEOs8F) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/1Ag1b3t64FzUp3pdaIcgVH) | 3:19 |
 | 75 | [Into You](https://open.spotify.com/track/3kuvxRA8GLCg0q2MPBQlsd) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/1iCXn3d2XYNAZ8eE6eiCoD) | 3:04 |
 
 Snapshot ID: `ZocjuAAAAABCp/kY5HjGfD3dXSG2VaHA`

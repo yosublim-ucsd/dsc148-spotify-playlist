@@ -4,7 +4,7 @@
 
 > Songs that are queer\. TO ME.
 
-21 songs - 1 hr 10 min
+23 songs - 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,10 +21,12 @@
 | [Gay Boyfriend](https://open.spotify.com/track/38c9OMcQnx2QnVLUB2QPPS) | [Garfunkel and Oates](https://open.spotify.com/artist/2wZcAibn3pVsNvp95HQx8n) | [All Over Your Face](https://open.spotify.com/album/0HnrWJFUe3C9LMyIVdUNUP) | 2:56 | 2024-04-26 |  |
 | [Girlfriend](https://open.spotify.com/track/7FtfsZcJjfBNdhD75bXqVL) | [Alden Derck](https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC) | [Yearbook](https://open.spotify.com/album/6jQWK1EdlgEbFWFxz6etwH) | 3:51 | 2024-10-22 |  |
 | [Give 'Em Hell, Kid](https://open.spotify.com/track/0axF06XwNLobcx5z8BVtYw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:18 | 2024-10-27 |  |
+| [Mama](https://open.spotify.com/track/0Zh3tKIphLOvQux4dA6PFZ) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:39 | 2024-10-31 |  |
 | [Sea Bride](https://open.spotify.com/track/67sVehhDyuR9fztPByvCHn) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Honey Moonshine](https://open.spotify.com/album/5Aws1xUnOX5M0rBlJYa5nR) | 3:40 | 2024-09-16 |  |
 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 | 2024-02-26 |  |
 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 | 2024-01-02 |  |
 | [Sweet Transvestite](https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:24 | 2024-10-12 |  |
+| [Tell That Mick He Just Made My List of Things to Do Today](https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:30 | 2024-10-31 |  |
 | [To the End](https://open.spotify.com/track/1GErReAT0swX36x3O8GyQn) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:01 | 2024-10-27 |  |
 | [Too Bad On Your Birthday](https://open.spotify.com/track/7C9Skg5eUg2hEg8Wke6p4e) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:58 | 2024-10-12 |  |
 | [Verbatim](https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Touch Up](https://open.spotify.com/album/391bN6K5GtiVruKSrjQjL2) | 2:48 | 2024-09-16 |  |

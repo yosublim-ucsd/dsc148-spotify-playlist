@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-240 songs - 13 hr 45 min
+241 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Afloat](https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Afloat](https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe) | 3:14 | 2024-08-08 |  |
 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 | 2024-08-08 |  |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-06-27 | 2024-08-09 |
-| [Alive On The Dance Floor](https://open.spotify.com/track/7aQz46ePN60wHTCYfKUHyp) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Alive On The Dance Floor](https://open.spotify.com/album/57LQXCiT8o9OYUJsW0obQr) | 4:11 | 2024-10-10 |  |
+| [Alive On The Dance Floor](https://open.spotify.com/track/7aQz46ePN60wHTCYfKUHyp) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Alive On The Dance Floor](https://open.spotify.com/album/57LQXCiT8o9OYUJsW0obQr) | 4:11 | 2024-10-10 | 2024-11-01 |
 | [All Day](https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [All Day](https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO) | 2:37 | 2024-06-27 | 2024-10-25 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-03 |  |
 | [All vår dans](https://open.spotify.com/track/6UBN3gqdmJwz6hdaDaCxAv) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [All vår dans](https://open.spotify.com/album/1XSg5n8WaCQ3y5QM25CZ0K) | 3:28 | 2024-08-29 | 2024-09-27 |
@@ -111,6 +111,7 @@
 | [Ingen så nära inpå](https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Ingen så nära inpå](https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP) | 3:57 | 2024-08-08 | 2024-10-06 |
 | [Inget halleluja](https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Inget halleluja](https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8) | 3:56 | 2024-06-27 | 2024-08-23 |
 | [Isn’t That Enough](https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:44 | 2024-08-08 |  |
+| [I’m Here For You Now](https://open.spotify.com/track/2mrFXNlzPzqIpFZnZorm2L) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ) | [I’m Here For You Now](https://open.spotify.com/album/0YxNOo620DicdFk0oSrDlp) | 3:20 | 2024-10-24 |  |
 | [Jag behöver dig](https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Jag behöver dig](https://open.spotify.com/album/06YF9B4vYaA6kDD6Wjf3NW) | 4:46 | 2024-10-03 | 2024-10-16 |
 | [Jag gör allt som man inte får](https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL) | [Rolf Wikström](https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r) | [Jag gör allt som man inte får](https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz) | 3:04 | 2024-06-27 | 2024-09-06 |
 | [Jag Vill Inte Va Med](https://open.spotify.com/track/4XcVFMu1a1DMVxriUSSqps) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Noof Belfast – Nybro City](https://open.spotify.com/album/5WstAcClR0wOb8M18QSEKz) | 4:04 | 2024-10-24 |  |

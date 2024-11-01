@@ -573,6 +573,28 @@
     },
     {
       "album": {
+        "name": "Gerimis Mengundang (Ska Reggae)",
+        "url": "https://open.spotify.com/album/761clLaYSuG9COhmMyOZag"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        },
+        {
+          "name": "Naufal Azrin",
+          "url": "https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317898,
+      "name": "Gerimis Mengundang - Ska Reggae",
+      "url": "https://open.spotify.com/track/2FxX2nIJ8iqR13gcz96Gb0"
+    },
+    {
+      "album": {
         "name": "Get Loose",
         "url": "https://open.spotify.com/album/6bPxTPEqF4jd5ugFWShH0A"
       },

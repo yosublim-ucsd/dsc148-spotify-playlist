@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro est\u00e1 aqu\u00ed. Foto: shego.",
+  "description": "El futuro est\u00e1 aqu\u00ed. Foto: Samura\u00ef.",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -1338,6 +1338,28 @@
       "duration_ms": 187873,
       "name": "En Dos",
       "url": "https://open.spotify.com/track/13Pe624JlpZ8c7Ktjybzav"
+    },
+    {
+      "album": {
+        "name": "En El Aire",
+        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "En El Aire",
+      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
     },
     {
       "album": {

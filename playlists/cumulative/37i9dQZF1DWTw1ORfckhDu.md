@@ -2,9 +2,9 @@
 
 ### [100 Suomi](https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu)
 
-> 100 Suomi 💯 Kannessa Ares, Averagekidluke ja Turisti.
+> 100 Suomi 💯 Kannessa SHRTY.
 
-727 songs - 1 day 10 hr 36 min
+729 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1000km](https://open.spotify.com/track/54sK1gGSZH5Bu8yLoUsVD5) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [1000km](https://open.spotify.com/album/3H4qQgILaZLRBicquLaoqF) | 2:38 | 2024-03-14 | 2024-05-10 |
 | [247](https://open.spotify.com/track/7JCSgrKfAWLoW5EttS6tEo) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c) | [247](https://open.spotify.com/album/2GpSzKe87fYEtw9luJcKvI) | 2:51 | 2024-07-04 | 2024-09-06 |
 | [25](https://open.spotify.com/track/2EODPhkfAQ5Hamq19vbj29) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [25](https://open.spotify.com/album/6efqw8jepHswjAYbzd5jxl) | 2:20 | 2024-03-21 | 2024-06-01 |
+| [26100](https://open.spotify.com/track/6ND7rFJ8wGCco9nJnfBI0G) | [LILBRO](https://open.spotify.com/artist/1PIujpIZmCo918lfPJfn3w) | [26100](https://open.spotify.com/album/4yLptU2EUjet8GkGIcvp4d) | 3:14 | 2024-10-31 |  |
 | [3 kirjainta](https://open.spotify.com/track/1i3Dl9sWjuFwIjRwyqCdnJ) | [JAG](https://open.spotify.com/artist/0P6SIBpWwVJjR8HW3NTDt5) | [Oikeista syistä täällä](https://open.spotify.com/album/1cGSFV1dySJh2zRYFU0vBn) | 2:45 | 2024-01-04 | 2024-01-12 |
 | [3 Toivomusta](https://open.spotify.com/track/35RegtSScKod4jXc4XtQXz) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [3 Toivomusta](https://open.spotify.com/album/6h2PFdf9ziIyh9SHRnbgjb) | 2:22 | 2023-10-05 | 2023-11-24 |
 | [33](https://open.spotify.com/track/2hrPPlnuXbtVhDcmvpobBo) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Back In Town](https://open.spotify.com/album/3DOjaLTApJ4ZJpGg2uINbE) | 2:34 | 2024-01-04 | 2024-02-02 |
@@ -76,7 +77,7 @@
 | [Bye Bye \(feat\. SHRTY\)](https://open.spotify.com/track/3iOp9LuiYzx5E6Yyu0hNcf) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Disco Maghreb](https://open.spotify.com/album/4AoEmOOUJN0safxtjYo8eN) | 2:25 | 2024-01-18 | 2024-02-23 |
 | [camouflage](https://open.spotify.com/track/4wNDO5zGBOZEMM07ThFSSU) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [camouflage](https://open.spotify.com/album/3yKV2b1rSvBPzQxKluMObd) | 2:14 | 2024-02-29 | 2024-04-05 |
 | [Capri Sun](https://open.spotify.com/track/7KJjoWwfR3W6MvvFwjfOXu) | [Chede](https://open.spotify.com/artist/1dn8NIyCz1o0BwEcYl9QWG) | [Capri Sun](https://open.spotify.com/album/4eny2NleTzJCxCufOxzJ1l) | 2:44 | 2024-02-15 | 2024-03-01 |
-| [Casablanca](https://open.spotify.com/track/0qMV9XmjaGbS9Zt7s7gSrF) | [Adi L Hasla](https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk) | [Casablanca](https://open.spotify.com/album/5Jwoq0Q7YUStEiFlHZhtrA) | 2:57 | 2024-09-19 |  |
+| [Casablanca](https://open.spotify.com/track/0qMV9XmjaGbS9Zt7s7gSrF) | [Adi L Hasla](https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk) | [Casablanca](https://open.spotify.com/album/5Jwoq0Q7YUStEiFlHZhtrA) | 2:57 | 2024-09-19 | 2024-11-01 |
 | [CEO](https://open.spotify.com/track/3n2bJ5mrCykRM3SFpkli6C) | [ALE](https://open.spotify.com/artist/1izgcy57Czf3DH50GcSdwW) | [CEO](https://open.spotify.com/album/3ELv9ibqvgohdIUHJyXddx) | 2:47 | 2023-10-02 | 2023-10-20 |
 | [CHAKRAT SEKASIN](https://open.spotify.com/track/2Wb80vbgLfUaVhEn1klrUb) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL) | [CHAKRAT SEKASIN](https://open.spotify.com/album/0AqgZh11n5YJ4bXoCCzfeC) | 2:17 | 2024-02-22 | 2024-03-08 |
 | [Clean](https://open.spotify.com/track/1BgeEIf7mUD4CcOmSMJRrK) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Clean](https://open.spotify.com/album/3e100jRy19dNFWOzHRC59d) | 2:32 | 2023-09-21 | 2023-10-20 |
@@ -372,6 +373,7 @@
 | [Mama We Made It \(feat\. MELO\)](https://open.spotify.com/track/4lENOvjyCPNfU2WIRjaFbb) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Mama We Made It \(feat\. MELO\)](https://open.spotify.com/album/5jgLgWJeOG6QMJYKxH0tQM) | 2:54 | 2024-06-06 | 2024-10-04 |
 | [MANIA](https://open.spotify.com/track/42wdgAhyKTfaEusVBAbjH3) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [MANIA](https://open.spotify.com/album/6lBh55sdgXTSX1VyW9Fykp) | 2:39 | 2024-01-11 | 2024-03-08 |
 | [Manta](https://open.spotify.com/track/1RZmp2mZGdUtRsfwEboBcC) | [SONNY](https://open.spotify.com/artist/6Uo8DWitVulLdaWaZ3gwun), [Askel & Elere](https://open.spotify.com/artist/3ViPTsIhVM8tENOjWo4Xfo), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht), [Trisector](https://open.spotify.com/artist/15YoJiDzYhoHSxz6sCGCr3) | [Kent](https://open.spotify.com/album/25XKmBdsgYTuFOd3B3Bapj) | 3:46 | 2024-02-08 | 2024-02-23 |
+| [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 | 2024-10-31 |  |
 | [Marraskuu](https://open.spotify.com/track/6LmE87Pw29ZoHM4wge8YTf) | [Koli\-C](https://open.spotify.com/artist/1PugsyLO87Xl7JbaLELlLP), [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi) | [Marraskuu](https://open.spotify.com/album/16ny8eOJfXDt8FD4aYjdBx) | 3:11 | 2023-10-19 | 2023-10-27 |
 | [Massii vaan \(feat\. Nikke Ankara\)](https://open.spotify.com/track/5ZOa6UrIaRvuDWIjinDShQ) | [Leo Luthando](https://open.spotify.com/artist/5XJUyK4GPxQx9744MvnFy6), [Nikke Ankara](https://open.spotify.com/artist/2E5rkwWAKphgpurncaoAyn) | [Massii vaan \(feat\. Nikke Ankara\)](https://open.spotify.com/album/5UbRXspX6uFcp0zIZ2xnRq) | 3:35 | 2023-11-23 | 2023-12-08 |
 | [Matrix](https://open.spotify.com/track/3qgL0KYd3rUPuXTjfMSOKA) | [OT](https://open.spotify.com/artist/3HyIXyyBsBcY3GuX6SIbz3) | [Matrix](https://open.spotify.com/album/1DyKDvkvcu967IF9Wfn7x6) | 2:27 | 2023-12-21 | 2024-01-05 |
@@ -437,7 +439,7 @@
 | [Next Up Scandinavia \- S1\-E8](https://open.spotify.com/track/2tERDWZ6mWbxpfLhzczJVN) | [Slani](https://open.spotify.com/artist/10IOGgDlKbNWPitsbWSfU4), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Scandinavia \- S1\-E8](https://open.spotify.com/album/2mh1Xdf6NpTtTPcyCjdbxw) | 2:28 | 2024-02-22 | 2024-03-22 |
 | [NIIN ETTÄ TUNTUU](https://open.spotify.com/track/0GnveAUohzsJaX6XxwyeVA) | [Bojos](https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM) | [NIIN ETTÄ TUNTUU](https://open.spotify.com/album/0Dn53cKRwQuUOVSuT80lwN) | 3:20 | 2024-06-13 | 2024-08-02 |
 | [Niinku Ennen Tehtiin](https://open.spotify.com/track/5LKu3UuIECUPeOaiwc5vie) | [Sere](https://open.spotify.com/artist/0NzbQWVKdJjF1X8WfJLF7N), [Kriso](https://open.spotify.com/artist/5IQo6uI8DE3yq8WwBYeMBD), [Jam\-A\-Holics](https://open.spotify.com/artist/5lgbii1UXi0MVMM9kjyOWg) | [Niinku Ennen Tehtiin](https://open.spotify.com/album/397PXFINFbwopqXgY7kpDN) | 3:52 | 2023-09-21 | 2023-09-29 |
-| [Noidat](https://open.spotify.com/track/1h5vHVilrS4luBjTaMZAwQ) | [Helena Routa](https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN), [Matriarkaatti](https://open.spotify.com/artist/6WGnaLXutmyrZp58x1fPCJ), [Veera Heaven](https://open.spotify.com/artist/0qwGCqaqSbO4ZBwKiY7Gmp) | [PAHA TYTTÖ ERA \- EP](https://open.spotify.com/album/3xzGmpefWNCVfkBnuzoKEO) | 3:17 | 2024-10-17 |  |
+| [Noidat](https://open.spotify.com/track/1h5vHVilrS4luBjTaMZAwQ) | [Helena Routa](https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN), [Matriarkaatti](https://open.spotify.com/artist/6WGnaLXutmyrZp58x1fPCJ), [Veera Heaven](https://open.spotify.com/artist/0qwGCqaqSbO4ZBwKiY7Gmp) | [PAHA TYTTÖ ERA \- EP](https://open.spotify.com/album/3xzGmpefWNCVfkBnuzoKEO) | 3:17 | 2024-10-17 | 2024-11-01 |
 | [Nostalgia](https://open.spotify.com/track/3YujyLPiBYIxiicSYTTzbQ) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Joe W](https://open.spotify.com/album/3gGBBaAYxxDA1snSBLkoQX) | 2:43 | 2023-09-21 | 2023-10-27 |
 | [Nukkunu](https://open.spotify.com/track/77k9WrlOpACfqQ9WTvfmHF) | [EL'o](https://open.spotify.com/artist/0Cqk8ixu2235ou4QsVpxnC) | [Nukkunu](https://open.spotify.com/album/2iPGfnGEeHxROeNjQ99qAE) | 3:40 | 2024-05-16 | 2024-07-02 |
 | [Nuori & Tyhmä](https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Nuori & Tyhmä](https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r) | 2:32 | 2024-08-15 | 2024-09-13 |

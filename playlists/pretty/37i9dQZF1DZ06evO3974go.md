@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,445 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,450 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 26 | [Get TF Out My Face \(feat\. Young Thug\)](https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 4:25 |
 | 27 | [Intro](https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 4:12 |
 | 28 | [No Way](https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [No Label Vol\. 2](https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj) | 4:41 |
-| 29 | [Freestyle](https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M) | 3:42 |
+| 29 | [Friday Night](https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 1:54 |
 | 30 | [WWYD](https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 3:29 |
 | 31 | [Wyb Quan](https://open.spotify.com/track/1aqBIKr0HZXaCFLGxj2RwQ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Quicktrip](https://open.spotify.com/artist/0G4e25O0rYC7iFkzYWWzbN) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:22 |
-| 32 | [Friday Night](https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 1:54 |
+| 32 | [Freestyle](https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M) | 3:42 |
 | 33 | [Word Around Town \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Luca Brasi 2: Gangsta Grillz](https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3) | 3:11 |
 | 34 | [Like a Man \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/27PtszzqiR0o7rLyOOiVNZ) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Touch Down 2 Cause Hell](https://open.spotify.com/album/6Wa9UU70x85ldCo4aeYD2N) | 4:27 |
 | 35 | [Even Score](https://open.spotify.com/track/3mmnnExzhdnzfMXwoydHfY) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:17 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 44 | [Flava](https://open.spotify.com/track/1DjbjIdKPNUVRCpyIREMeT) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M) | 5:50 |
 | 45 | [Authentic \(feat\. Clever\)](https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Matt Monaco](https://open.spotify.com/artist/5HNAKwy6K9OwZO1zkO6vax) | [Authentic \(feat\. Clever\)](https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns) | 3:12 |
 | 46 | [Still Sinning](https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Sinning](https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa) | 2:56 |
-| 47 | [Heart Cold](https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 3:51 |
-| 48 | [Daily Bread](https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Daily Bread](https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq) | 2:51 |
+| 47 | [Daily Bread](https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Daily Bread](https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq) | 2:51 |
+| 48 | [Heart Cold](https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 3:51 |
 | 49 | [Investment](https://open.spotify.com/track/45qBK268Mjy6JnOE6mx179) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In](https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9) | 3:40 |
 | 50 | [Rich Homie Quando \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Life After Fame](https://open.spotify.com/album/3IYaSINx79h33UY51uylld) | 2:44 |
 
-Snapshot ID: `ZyAlgAAAAAClNMZgb/kwzSXHub/QIyzl`
+Snapshot ID: `ZyF3AAAAAAD0gjknDIJ2A6HGzKAkACyU`

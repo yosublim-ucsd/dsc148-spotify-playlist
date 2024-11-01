@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 94675,
+  "num_followers": 94680,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAACWRzB+WwCJ3TXVJstqfP/s",
+  "snapshot_id": "ZyF3AAAAAAAJoh827kOrPwzWgJ4rFLsT",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 228133,
-      "name": "Trying To Be Cool",
-      "url": "https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o"
+      "duration_ms": 167013,
+      "name": "Season 2",
+      "url": "https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 167013,
-      "name": "Season 2",
-      "url": "https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN"
+      "duration_ms": 228133,
+      "name": "Trying To Be Cool",
+      "url": "https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alpha Zulu",
         "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 209093,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/3jGODTQ4xpSLp8zOby4H63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "(You Can't Blame It On) Anybody",
-      "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alpha Zulu",
         "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 212333,
       "name": "My Elixir",
       "url": "https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "(You Can't Blame It On) Anybody",
+      "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 244813,
-      "name": "Chloroform",
-      "url": "https://open.spotify.com/track/55Gk9YGlpv5Tmloubm4jI6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alpha Zulu",
         "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 302026,
       "name": "Identical",
       "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "Chloroform",
+      "url": "https://open.spotify.com/track/55Gk9YGlpv5Tmloubm4jI6"
     },
     {
       "added_at": null,

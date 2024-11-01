@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 15037,
+  "num_followers": 15038,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,6 @@
     {
       "added_at": "2024-10-25 06:27:23",
       "album": {
-        "name": "INTOXYCATED",
-        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INTOXYCATED",
-      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
-    },
-    {
-      "added_at": "2024-10-25 06:27:23",
-      "album": {
         "name": "Soweto (with Omah Lay & Tempoe)",
         "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 182857,
       "name": "Soweto (with Omah Lay & Tempoe)",
       "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
+    },
+    {
+      "added_at": "2024-10-25 06:27:23",
+      "album": {
+        "name": "INTOXYCATED",
+        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INTOXYCATED",
+      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
     },
     {
       "added_at": "2024-10-25 06:27:23",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-10-25 06:27:23",
       "album": {
+        "name": "Rebel Music",
+        "url": "https://open.spotify.com/album/2Cp4EexmXeDgaxOe2ldAZT"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161428,
+      "name": "Rebel Music",
+      "url": "https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV"
+    },
+    {
+      "added_at": "2024-10-25 06:27:23",
+      "album": {
         "name": "Makoma",
         "url": "https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 164745,
       "name": "Makoma",
       "url": "https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC"
-    },
-    {
-      "added_at": "2024-10-25 06:27:23",
-      "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2024-10-25 06:27:23",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-10-25 06:27:23",
       "album": {
-        "name": "Kilos Milos",
-        "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 157560,
-      "name": "Kilos Milos",
-      "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2024-10-25 06:27:23",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-10-25 06:27:23",
       "album": {
+        "name": "Kilos Milos",
+        "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Kilos Milos",
+      "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
+    },
+    {
+      "added_at": "2024-10-25 06:27:23",
+      "album": {
         "name": "Overloading (OVERDOSE)",
         "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
       },
@@ -731,54 +747,6 @@
     {
       "added_at": "2024-10-25 06:27:23",
       "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 211265,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
-    },
-    {
-      "added_at": "2024-10-25 06:27:23",
-      "album": {
-        "name": "Rebel Music",
-        "url": "https://open.spotify.com/album/2Cp4EexmXeDgaxOe2ldAZT"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 161428,
-      "name": "Rebel Music",
-      "url": "https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV"
-    },
-    {
-      "added_at": "2024-10-25 06:27:23",
-      "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        }
-      ],
-      "duration_ms": 180486,
-      "name": "Aseda",
-      "url": "https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG"
-    },
-    {
-      "added_at": "2024-10-25 06:27:23",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2024-10-25 06:27:23",
+      "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2024-10-25 06:27:23",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "duration_ms": 180486,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG"
     },
     {
       "added_at": "2024-10-25 06:27:23",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-10-25 06:27:23",
       "album": {
+        "name": "4Life",
+        "url": "https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "4Life",
+      "url": "https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX"
+    },
+    {
+      "added_at": "2024-10-25 06:27:23",
+      "album": {
         "name": "A Fuul",
         "url": "https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 167996,
       "name": "A Fuul",
       "url": "https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl"
-    },
-    {
-      "added_at": "2024-10-25 06:27:23",
-      "album": {
-        "name": "4Life",
-        "url": "https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "4Life",
-      "url": "https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX"
     },
     {
       "added_at": "2024-10-25 06:27:23",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2024-10-25 06:27:23",
       "album": {
+        "name": "Diamond & Roses",
+        "url": "https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 159587,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe"
+    },
+    {
+      "added_at": "2024-10-25 06:27:23",
+      "album": {
         "name": "OH NO",
         "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 171073,
       "name": "Azonto Fiesta (feat. Amaarae & Mugeez)",
       "url": "https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw"
-    },
-    {
-      "added_at": "2024-10-25 06:27:23",
-      "album": {
-        "name": "Diamond & Roses",
-        "url": "https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 159587,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe"
     },
     {
       "added_at": "2024-10-25 06:27:23",
@@ -1479,6 +1479,30 @@
     {
       "added_at": "2024-10-25 06:27:23",
       "album": {
+        "name": "Denge II",
+        "url": "https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 158771,
+      "name": "Denge II",
+      "url": "https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA"
+    },
+    {
+      "added_at": "2024-10-25 06:27:23",
+      "album": {
         "name": "Dalilah II",
         "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
       },
@@ -1503,30 +1527,6 @@
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
-    },
-    {
-      "added_at": "2024-10-25 06:27:23",
-      "album": {
-        "name": "Denge II",
-        "url": "https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 158771,
-      "name": "Denge II",
-      "url": "https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA"
     },
     {
       "added_at": "2024-10-25 06:27:23",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-10-25 06:27:23",
       "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 189014,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
+      "added_at": "2024-10-25 06:27:23",
+      "album": {
         "name": "Odo Bi Ye Bad",
         "url": "https://open.spotify.com/album/2thtAFmA3VQWLZfuMi3LbV"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 236000,
       "name": "Odo Bi Ye Bad",
       "url": "https://open.spotify.com/track/0vKCeI0yetwp5BfBNihg3o"
-    },
-    {
-      "added_at": "2024-10-25 06:27:23",
-      "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 189014,
-      "name": "Contour",
-      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     }
   ],
   "unique_name": "Troski Rhythms",

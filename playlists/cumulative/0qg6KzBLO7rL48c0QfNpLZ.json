@@ -4687,6 +4687,28 @@
     },
     {
       "album": {
+        "name": "Feel That Way",
+        "url": "https://open.spotify.com/album/26OiBfnDOpA0xrG0Sjzqzr"
+      },
+      "artists": [
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170086,
+      "name": "Feel That Way",
+      "url": "https://open.spotify.com/track/0UTnGfNzQdPTZBnvMmbcU1"
+    },
+    {
+      "album": {
         "name": "Feeling The Same",
         "url": "https://open.spotify.com/album/6LqkAJv4UW2NuMxsRs54EC"
       },

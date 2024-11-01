@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Joe Arroyo",
-  "num_followers": 787087,
+  "num_followers": 787320,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Vale La Pena (It's Worth It)",
         "url": "https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 291906,
       "name": "Amor De Etiqueta",
       "url": "https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
+        "name": "Mi Vida Es Cantar",
+        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
         "name": "Edici\u00f3n Limitada",
         "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 297333,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/60Fl49DuNUh6LIUwHM7Mni"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "Mi Vida Es Cantar",
-        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
     },
     {
       "added_at": "2024-06-21 20:58:37",

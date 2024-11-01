@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 147228,
+  "num_followers": 147257,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAAnZz7sdrwz+kJSjDkqLXdH",
+  "snapshot_id": "ZyF3AAAAAAAjCJtHGXAKcVziL7+ZudNe",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUITA ONDA",
+        "url": "https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "NA ONDA",
+      "url": "https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica 13",
         "url": "https://open.spotify.com/album/6HvimOPNrgFPLXHryKZcB2"
       },
@@ -635,34 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUITA ONDA",
-        "url": "https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "NA ONDA",
-      "url": "https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -715,34 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nova Moda",
-        "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Dinheiro e Putaria",
-      "url": "https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -775,6 +747,34 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nova Moda",
+        "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Dinheiro e Putaria",
+      "url": "https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA"
     },
     {
       "added_at": null,
@@ -1207,6 +1207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Cara do Crime 2 (Cansou de Playboy)",
         "url": "https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0"
       },
@@ -1243,18 +1259,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
+        "name": "RICKNELSO",
+        "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Dj Win",
+          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "L\u00e1 no PPG",
+      "url": "https://open.spotify.com/track/6Oj0oJD4feRnzrAbcYqURl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
       "artists": [
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 153413,
-      "name": "Qu\u00edmica",
-      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
+      "duration_ms": 186240,
+      "name": "EU TE AVISEI",
+      "url": "https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx"
     },
     {
       "added_at": null,
@@ -1291,54 +1339,6 @@
       "duration_ms": 318666,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "EU TE AVISEI",
-      "url": "https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RICKNELSO",
-        "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
-      },
-      "artists": [
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mc Leozin",
-          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
-        },
-        {
-          "name": "Dj Win",
-          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "L\u00e1 no PPG",
-      "url": "https://open.spotify.com/track/6Oj0oJD4feRnzrAbcYqURl"
     },
     {
       "added_at": null,

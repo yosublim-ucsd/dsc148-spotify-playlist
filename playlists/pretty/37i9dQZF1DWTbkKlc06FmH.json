@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 135562,
+  "num_followers": 135587,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,22 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+      "duration_ms": 227000,
+      "name": "Witchy (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
     },
     {
       "added_at": "2024-10-23 01:29:49",
@@ -519,22 +523,18 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Witchy (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2024-10-23 01:29:49",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
-        "name": "DOUBT IT",
-        "url": "https://open.spotify.com/album/4bahK8kuVwjBkqFUgmLmVD"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "DOUBT IT",
-      "url": "https://open.spotify.com/track/7kud2YsUIgEO6L41B98Cih"
-    },
-    {
-      "added_at": "2024-10-23 01:29:49",
-      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 175237,
       "name": "Burning",
       "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
+    },
+    {
+      "added_at": "2024-10-23 01:29:49",
+      "album": {
+        "name": "DOUBT IT",
+        "url": "https://open.spotify.com/album/4bahK8kuVwjBkqFUgmLmVD"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "DOUBT IT",
+      "url": "https://open.spotify.com/track/7kud2YsUIgEO6L41B98Cih"
     },
     {
       "added_at": "2024-10-23 01:29:49",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
-        "name": "Check",
-        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
-    },
-    {
-      "added_at": "2024-10-23 01:29:49",
-      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+    },
+    {
+      "added_at": "2024-10-23 01:29:49",
+      "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
     },
     {
       "added_at": "2024-10-23 01:29:49",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
+        "name": "ROOM UNDER THE STAIRS",
+        "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
+    },
+    {
+      "added_at": "2024-10-23 01:29:49",
+      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -855,26 +871,6 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 147046,
-      "name": "No.1 (feat. Tems)",
-      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
-    },
-    {
-      "added_at": "2024-10-23 01:29:49",
-      "album": {
         "name": "LOVE ALL SERVE ALL",
         "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
       },
@@ -891,18 +887,22 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
-        "name": "ROOM UNDER THE STAIRS",
-        "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 232380,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
+      "duration_ms": 147046,
+      "name": "No.1 (feat. Tems)",
+      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
     },
     {
       "added_at": "2024-10-23 01:29:49",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
-        "name": "\u7768\u3081\u3063\u5a18",
-        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
-      },
-      "artists": [
-        {
-          "name": "\u53cb\u6210\u7a7a",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u7768\u3081\u3063\u5a18",
-      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
-    },
-    {
-      "added_at": "2024-10-23 01:29:49",
-      "album": {
         "name": "Neon Pill",
         "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 195760,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
+    },
+    {
+      "added_at": "2024-10-23 01:29:49",
+      "album": {
+        "name": "\u7768\u3081\u3063\u5a18",
+        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
+      },
+      "artists": [
+        {
+          "name": "\u53cb\u6210\u7a7a",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u7768\u3081\u3063\u5a18",
+      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
     },
     {
       "added_at": "2024-10-23 01:29:49",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm"
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
       "artists": [
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 136997,
-      "name": "Honesty",
-      "url": "https://open.spotify.com/track/1ab5fflidfhTti4z11mtZF"
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2024-10-23 01:29:49",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+        "name": "7",
+        "url": "https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+      "duration_ms": 136997,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/1ab5fflidfhTti4z11mtZF"
     },
     {
       "added_at": "2024-10-23 01:29:49",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
-        "name": "Lahai (Deluxe)",
-        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 226495,
-      "name": "Dancing Circles 2.0",
-      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
-    },
-    {
-      "added_at": "2024-10-23 01:29:49",
-      "album": {
         "name": "Best For Me",
         "url": "https://open.spotify.com/album/5XhWXulYKeVMBHXLxGZN44"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 238016,
       "name": "Best For Me",
       "url": "https://open.spotify.com/track/3rZgLwQOX9N2up8JQhKi61"
+    },
+    {
+      "added_at": "2024-10-23 01:29:49",
+      "album": {
+        "name": "Lahai (Deluxe)",
+        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 226495,
+      "name": "Dancing Circles 2.0",
+      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
     },
     {
       "added_at": "2024-10-23 01:29:49",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2024-10-23 01:29:49",
       "album": {
-        "name": "Ground",
-        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+        "name": "Pieces Of A Dream",
+        "url": "https://open.spotify.com/album/7uCnCAztzPYMtlNOEBLjqM"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Ground",
-      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
+      "duration_ms": 158642,
+      "name": "Pieces Of A Dream",
+      "url": "https://open.spotify.com/track/2HBjPMwy9yAoMkUB1cSg2p"
     },
     {
       "added_at": "2024-10-23 01:29:49",

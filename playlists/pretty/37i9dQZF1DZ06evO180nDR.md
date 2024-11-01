@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,821 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,840 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 50 | [La Mercedes Cuadradita \(En Vivo\)](https://open.spotify.com/track/3f6tKxLFAOtpo5dJ4Fv9hY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Mercedes Cuadradita \(En Vivo\)](https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq) | 2:35 |
 | 51 | [El Equipo del Terror](https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Equipo del Terror](https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI) | 3:24 |
 
-Snapshot ID: `ZyAlgAAAAABGYtz6Qnl3PDy+kQugtYEO`
+Snapshot ID: `ZyF3AAAAAACyFjSUff7ZN2DTO1fZ0Hfi`

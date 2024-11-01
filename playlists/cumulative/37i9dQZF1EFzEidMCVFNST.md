@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-435 songs - 20 hr 42 min
+436 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Meu Mundo E Voce](https://open.spotify.com/track/6f3dG2tqxZM5MuSUXbu31a) | [Marcos & Fernando](https://open.spotify.com/artist/0cHeelq87RR6yX2ttH6MTg) | [Marcos E Fernando](https://open.spotify.com/album/4VXqWRr0tDpgKb0Gc0O8NI) | 3:21 | 2024-01-29 |  |
 | [Meu Tudo em Um \- Ao Vivo](https://open.spotify.com/track/6TqNnUzRyR3qbms7iv4r8e) | [Thiago Martins](https://open.spotify.com/artist/6YC7cpdxB25jOfSXC8JQCd) | [7550 Dias \(Ao Vivo\)](https://open.spotify.com/album/4h8Xr4AE0gZWazLvT2liCn) | 2:39 | 2024-01-29 |  |
 | [Mimimi \- Ao Vivo](https://open.spotify.com/track/5czOiRTeDagPQtWmhrxryf) | [Thiago & Graciano](https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Onda de Amor \(Ao Vivo\)](https://open.spotify.com/album/3mUPNLUoTdIzUSlP8LItzY) | 2:29 | 2024-01-29 |  |
+| [Minha Boca No Lixo \- Ao Vivo](https://open.spotify.com/track/0jqx3kJed5MyyYS9RUYNmv) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo\)](https://open.spotify.com/album/6YhHHvEn2a7qlJ30iTdxFM) | 2:44 | 2024-10-31 |  |
 | [Missão Dada](https://open.spotify.com/track/0CBZdVvneAD5mvjnpYu5BL) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Missão Dada](https://open.spotify.com/album/1Nbt93HmOpDztSWpWwubYV) | 2:40 | 2024-01-29 |  |
 | [Mordida e Carinho](https://open.spotify.com/track/3HBxeoQfG3EjqVhCn9Njy5) | [Christian Lins](https://open.spotify.com/artist/12BeE8Kf5XftekKcUADdol) | [Ativando Sentimento 2.0](https://open.spotify.com/album/2ass4W5wTlPS8GBp5C1L8w) | 2:15 | 2024-08-27 |  |
 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 | 2024-01-29 |  |

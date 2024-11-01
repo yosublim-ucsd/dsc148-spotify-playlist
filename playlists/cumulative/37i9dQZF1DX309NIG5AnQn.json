@@ -2585,28 +2585,6 @@
     },
     {
       "album": {
-        "name": "Pendeja",
-        "url": "https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Mauri",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        },
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "date_added": "2023-04-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211830,
-      "name": "Manos",
-      "url": "https://open.spotify.com/track/3HVHb5Xbb8G8HPKzaCWffe"
-    },
-    {
-      "album": {
         "name": "Manos",
         "url": "https://open.spotify.com/album/78z4lZfzLSpj8jHXJTblCC"
       },
@@ -2626,6 +2604,28 @@
       "duration_ms": 215238,
       "name": "Manos",
       "url": "https://open.spotify.com/track/4DeI38iEDWvVFK6c5ZgOc6"
+    },
+    {
+      "album": {
+        "name": "Pendeja",
+        "url": "https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1orita Novio",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211830,
+      "name": "Manos",
+      "url": "https://open.spotify.com/track/3HVHb5Xbb8G8HPKzaCWffe"
     },
     {
       "album": {

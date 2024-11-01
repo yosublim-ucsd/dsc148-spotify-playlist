@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre\. Foto: Las Pastillas del Abuelo y EMI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,334 likes - 87 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,344 likes - 87 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

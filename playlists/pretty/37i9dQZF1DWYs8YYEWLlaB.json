@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Lvbel C5",
-  "num_followers": 495631,
+  "num_followers": 495867,
   "original_name": "trend 2024",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "Ait Hissetmiyorum",
+      "url": "https://open.spotify.com/track/5XQ1eD5Esz1CzdjH9bzbzn"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
         "name": "TEMPO",
         "url": "https://open.spotify.com/album/1GftyXEspbaRxHj6lA2s1f"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 181874,
       "name": "ILTIMAS X SUBMARINER",
       "url": "https://open.spotify.com/track/1ppnRAPv8zJjrNy4TW5w7M"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "Ait Hissetmiyorum",
-      "url": "https://open.spotify.com/track/5XQ1eD5Esz1CzdjH9bzbzn"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
+        "name": "Dilerim Ki",
+        "url": "https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno"
+      },
+      "artists": [
+        {
+          "name": "Dolu Kadehi Ters Tut",
+          "url": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Dilerim Ki",
+      "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
         "name": "Yak\u0131\u015f\u0131kl\u0131",
         "url": "https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 146086,
       "name": "Yak\u0131\u015f\u0131kl\u0131",
       "url": "https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Dilerim Ki",
-        "url": "https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno"
-      },
-      "artists": [
-        {
-          "name": "Dolu Kadehi Ters Tut",
-          "url": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Dilerim Ki",
-      "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -799,30 +799,6 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "CISTAK",
-        "url": "https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb"
-      },
-      "artists": [
-        {
-          "name": "Era7capone",
-          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
-        },
-        {
-          "name": "Batuflex",
-          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
-        },
-        {
-          "name": "Narco",
-          "url": "https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "CISTAK",
-      "url": "https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
         "name": "Olmu\u015fum Leyla",
         "url": "https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 198577,
       "name": "Geri D\u00f6n\u00fc\u015f Olsa",
       "url": "https://open.spotify.com/track/1KtqOkEN42OUqs9ombxk1E"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
+        "name": "CISTAK",
+        "url": "https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        },
+        {
+          "name": "Narco",
+          "url": "https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "CISTAK",
+      "url": "https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx"
     },
     {
       "added_at": "2024-10-24 21:00:00",

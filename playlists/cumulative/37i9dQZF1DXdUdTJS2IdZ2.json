@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Rangga Jones",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: Tyen Rasif",
   "name": "Rising 65",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 180000,
       "name": "Back Alive \u5377\u571f\u91cd\u6765 (feat. GALI)",
       "url": "https://open.spotify.com/track/4T6hgA8HfV3SmTcuoXzGnx"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 117906,
       "name": "back2thestart",
       "url": "https://open.spotify.com/track/1ExefDwQMXC5x5DtuRmmt2"
@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "RICO WILLIAMS",
+        "url": "https://open.spotify.com/album/4hzKGVmaoY36EpSP5w5yXZ"
+      },
+      "artists": [
+        {
+          "name": "Chriskris",
+          "url": "https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193619,
+      "name": "CALL MY BLUFF",
+      "url": "https://open.spotify.com/track/03Hwch5cZBF4W5cPJct5nE"
+    },
+    {
+      "album": {
         "name": "Can't Heal My Heart",
         "url": "https://open.spotify.com/album/71srviZHaUPQIgQQeA2NyQ"
       },
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 175045,
       "name": "crush on my ex",
       "url": "https://open.spotify.com/track/4XgNXwP9DD7FI6KZqLt026"
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 142400,
       "name": "Dear You",
       "url": "https://open.spotify.com/track/6bUVKcj7Hs7tjWJfxFWDsl"
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 197100,
       "name": "Double Happiness",
       "url": "https://open.spotify.com/track/5W5Wt5zu9a9zwgEnJxEksq"
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 167675,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/3wfWfzxLvt6nL0vzy47LYa"
@@ -2683,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Balancing Act",
+        "url": "https://open.spotify.com/album/7qxu4XZfchLLdmXKOh84xs"
+      },
+      "artists": [
+        {
+          "name": "Subsonic Eye",
+          "url": "https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179167,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6LbGcYB3FgDrgP1PnAga8K"
+    },
+    {
+      "album": {
         "name": "JANGAN BEGITU",
         "url": "https://open.spotify.com/album/5NL00D5RsSWlU8bEcF71ID"
       },
@@ -2774,7 +2810,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 174148,
       "name": "Jodoh",
       "url": "https://open.spotify.com/track/4zk6vjrDv00f3X8IjlyMqH"
@@ -2792,7 +2828,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 150857,
       "name": "KEEP UP",
       "url": "https://open.spotify.com/track/2HlIy1LtfJZA5Kzm9K6geV"
@@ -3148,7 +3184,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 192924,
       "name": "Made Up Your Mind (Stripped)",
       "url": "https://open.spotify.com/track/3qA4ag0MwwxIoTNoAecI95"
@@ -3232,6 +3268,24 @@
       "duration_ms": 204272,
       "name": "matters of the heart",
       "url": "https://open.spotify.com/track/2TnwiwXe4ktgHJ5sv53Zhu"
+    },
+    {
+      "album": {
+        "name": "maybe maybe",
+        "url": "https://open.spotify.com/album/5cN0yYPOT3RbCEQm3F7pvS"
+      },
+      "artists": [
+        {
+          "name": "Amelia Rae",
+          "url": "https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112285,
+      "name": "maybe maybe",
+      "url": "https://open.spotify.com/track/2VLXxRymQbaA8gyd4Qo7Nr"
     },
     {
       "album": {
@@ -3400,7 +3454,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 143624,
       "name": "next life",
       "url": "https://open.spotify.com/track/6l3W8ZJMEmFVkqsEv9gGe3"
@@ -3740,7 +3794,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 321964,
       "name": "Phases",
       "url": "https://open.spotify.com/track/3FxnyubGADckeUiRQCNt0V"
@@ -3816,6 +3870,36 @@
       "duration_ms": 179400,
       "name": "POP IT",
       "url": "https://open.spotify.com/track/1oQxB04uhKjbbWUgr8kMKE"
+    },
+    {
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/1yp6o9hR7I1wC0WPDtneKl"
+      },
+      "artists": [
+        {
+          "name": "Tyen Rasif",
+          "url": "https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ"
+        },
+        {
+          "name": "Munah Bagharib",
+          "url": "https://open.spotify.com/artist/3oBQ7ewna5bYNetZBKUZQj"
+        },
+        {
+          "name": "Edo Lio",
+          "url": "https://open.spotify.com/artist/7Ib7PBWb0Sv7fRk9wMJn1u"
+        },
+        {
+          "name": "Haneri",
+          "url": "https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158673,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/0MIOjCLhVPoPXEPwa9ARhs"
     },
     {
       "album": {
@@ -4048,7 +4132,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 240000,
       "name": "ROBOTS",
       "url": "https://open.spotify.com/track/5Ycxo5n3cr52UPcF5TEJ0p"
@@ -4309,6 +4393,24 @@
     },
     {
       "album": {
+        "name": "silosis",
+        "url": "https://open.spotify.com/album/0SjNmseQ73nVWWpJBAJP0F"
+      },
+      "artists": [
+        {
+          "name": "rae",
+          "url": "https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184453,
+      "name": "silosis",
+      "url": "https://open.spotify.com/track/0eFnvJWUbBOGmBxBzcQkRN"
+    },
+    {
+      "album": {
         "name": "Singai Naadu",
         "url": "https://open.spotify.com/album/4ETjRODkx76T3ynpN4xIcx"
       },
@@ -4338,7 +4440,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 150857,
       "name": "skies of blue",
       "url": "https://open.spotify.com/track/4ljlJGfvMJr6PI4XczoUJE"
@@ -4421,6 +4523,32 @@
     },
     {
       "album": {
+        "name": "Soniye",
+        "url": "https://open.spotify.com/album/14vDwgOah8fiqQE1AaNTXW"
+      },
+      "artists": [
+        {
+          "name": "Aathi",
+          "url": "https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp"
+        },
+        {
+          "name": "DEYO",
+          "url": "https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B"
+        },
+        {
+          "name": "Baha Mista-B",
+          "url": "https://open.spotify.com/artist/1pkIXc0pidcuYpGgYUaU4g"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180652,
+      "name": "Soniye",
+      "url": "https://open.spotify.com/track/6dIMtheZjj6sKtdw4RBRHj"
+    },
+    {
+      "album": {
         "name": "Sorry, Love",
         "url": "https://open.spotify.com/album/6bD2mwNhb1ytPMCWeTvfBU"
       },
@@ -4454,6 +4582,28 @@
       "duration_ms": 131086,
       "name": "Soul",
       "url": "https://open.spotify.com/track/2UwqfYaH2lNOoptPyZAHUJ"
+    },
+    {
+      "album": {
+        "name": "Starting Line",
+        "url": "https://open.spotify.com/album/1KPntvPYybE32DUwW5jmNt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        },
+        {
+          "name": "sarah su",
+          "url": "https://open.spotify.com/artist/7o75L7nxbMGT9OZ0UQODOm"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160363,
+      "name": "Starting Line",
+      "url": "https://open.spotify.com/track/1KhOuh2tvKuLXN9phvOEfm"
     },
     {
       "album": {
@@ -5562,7 +5712,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 242530,
       "name": "x turn away from love!",
       "url": "https://open.spotify.com/track/2lzEwKwhfbTnmWM7sD5aGw"
@@ -5602,7 +5752,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 130819,
       "name": "You Are The Reason",
       "url": "https://open.spotify.com/track/6bstvloxQrT6zF4Yhv2ERu"
@@ -5816,7 +5966,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 204677,
       "name": "\u5713\u5148\u751f",
       "url": "https://open.spotify.com/track/11zQU8OQAoz1FwemgDsFZK"
@@ -6004,7 +6154,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 201927,
       "name": "\u6211\u8207\u6b7b\u795e\u7684\u5c0d\u8a71",
       "url": "https://open.spotify.com/track/3BdOsycu7I3YKjWCIOFzMa"
@@ -6214,7 +6364,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 225882,
       "name": "\u7c7d",
       "url": "https://open.spotify.com/track/5DS4Qmok9t8lYsbmDz4HQ3"
@@ -6290,7 +6440,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 208048,
       "name": "\u82e5\u4e0d\u80fd\u5728\u4e00\u8d77",
       "url": "https://open.spotify.com/track/6dIJRA1ro1rNzgofsKLljQ"

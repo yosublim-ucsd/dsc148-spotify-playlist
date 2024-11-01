@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-743 songs - 1 day 9 hr 3 min
+744 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Feel Good Inc.](https://open.spotify.com/track/4O96X0jatfW7WuIQ1Qaeb2) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7), [four30](https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S) | [Feel Good Inc.](https://open.spotify.com/album/3PM6xLkafHMISFTXUkyhKa) | 3:01 | 2024-08-02 | 2024-08-31 |
 | [Feel It Coming](https://open.spotify.com/track/21IoGPoLq9kDAa613Obl7T) | [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [Jakob Dreams](https://open.spotify.com/artist/3ChusCE5PNXmuRuqGzJKVz), [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq) | [Feel It Coming](https://open.spotify.com/album/6NWKhb4Kjsb7vG5d996y4c) | 2:22 | 2023-12-29 | 2024-09-15 |
 | [Feel It Still](https://open.spotify.com/track/7MKVZqTTMCwuJevnFX8rtu) | [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr), [Warren](https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY) | [Feel It Still](https://open.spotify.com/album/2mw8ukho8umDiLim1lKQ0E) | 3:03 | 2024-05-03 | 2024-06-15 |
+| [Feel That Way](https://open.spotify.com/track/0UTnGfNzQdPTZBnvMmbcU1) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Feel That Way](https://open.spotify.com/album/26OiBfnDOpA0xrG0Sjzqzr) | 2:50 | 2024-10-31 |  |
 | [Feeling The Same](https://open.spotify.com/track/4a9WGmpSTpy2C7mYixenDq) | [Nyday](https://open.spotify.com/artist/0L8JYDELi85NGgYy30MbRa) | [Feeling The Same](https://open.spotify.com/album/6LqkAJv4UW2NuMxsRs54EC) | 2:29 | 2024-04-19 | 2024-05-03 |
 | [Feelings](https://open.spotify.com/track/4dLsJwca1rKhkV1r2WZyoi) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Feelings](https://open.spotify.com/album/4MNRe35Re0XIVUUHXwc5dh) | 2:16 | 2024-01-19 | 2024-07-20 |
 | [Feels Like Home](https://open.spotify.com/track/2WWiE8aAMtphkdMrDshPIf) | [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr) | [Feels Like Home](https://open.spotify.com/album/1EFiyic2galVXmzu4uBnyv) | 3:03 | 2024-09-27 |  |

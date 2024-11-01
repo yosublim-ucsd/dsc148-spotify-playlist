@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 173569,
+  "num_followers": 173568,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADOPcSyPXmk5ufrxlNlVelE",
+  "snapshot_id": "ZyF3AAAAAAAQV5nkqgbab/c27U1cGsbg",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Forever Sessions (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 195754,
-      "name": "Poppin' Champagne - ATL's Version",
-      "url": "https://open.spotify.com/track/0KnLqGI8QwIGDhf5HUvuNH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
@@ -319,22 +303,6 @@
       "duration_ms": 159066,
       "name": "The Sound of Letting Go",
       "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Damned If I Do Ya (Damned If I Don't)",
-      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
     },
     {
       "added_at": null,
@@ -355,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Damned If I Do Ya (Damned If I Don't)",
+      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Forever Sessions (Vol. 1)",
         "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
       },
@@ -364,9 +348,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 222290,
-      "name": "Jasey Rae - ATL's Version",
-      "url": "https://open.spotify.com/track/29VPBSFEHubcBQneEStyDt"
+      "duration_ms": 195754,
+      "name": "Poppin' Champagne - ATL's Version",
+      "url": "https://open.spotify.com/track/0KnLqGI8QwIGDhf5HUvuNH"
     },
     {
       "added_at": null,
@@ -391,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 155562,
+      "name": "Tell Me I\u2019m Alive",
+      "url": "https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing Personal (Deluxe Version)",
         "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+        "name": "The Forever Sessions (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 155562,
-      "name": "Tell Me I\u2019m Alive",
-      "url": "https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n"
+      "duration_ms": 222290,
+      "name": "Jasey Rae - ATL's Version",
+      "url": "https://open.spotify.com/track/29VPBSFEHubcBQneEStyDt"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 194227,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR"
+      "duration_ms": 167827,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/5G9gFoH731xDHl73LHlZ8o"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 167827,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/5G9gFoH731xDHl73LHlZ8o"
+      "duration_ms": 194227,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Panic",
+        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199405,
+      "name": "If These Sheets Were States",
+      "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Painting Flowers",
         "url": "https://open.spotify.com/album/4CBEmsDLziXAfYtngeM8kz"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 205773,
       "name": "Painting Flowers",
       "url": "https://open.spotify.com/track/5wlgcfDW3RLyGmiUr2S4Ld"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193151,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Panic",
-        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 199405,
-      "name": "If These Sheets Were States",
-      "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
+      "duration_ms": 193151,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
     },
     {
       "added_at": null,

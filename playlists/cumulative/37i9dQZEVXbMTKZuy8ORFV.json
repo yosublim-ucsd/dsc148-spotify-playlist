@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 232781,
       "name": "BORRACHO Y LOCO",
       "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
@@ -4585,6 +4585,24 @@
     },
     {
       "album": {
+        "name": "El Infierno",
+        "url": "https://open.spotify.com/album/02dUPyJhwho3tYReZFStLJ"
+      },
+      "artists": [
+        {
+          "name": "Dasgotti",
+          "url": "https://open.spotify.com/artist/5W78hgjoYzT1aY0t2HQjNv"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136325,
+      "name": "El Infierno",
+      "url": "https://open.spotify.com/track/0G6MCmwbNMNc4QGrTR1pqb"
+    },
+    {
+      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -4940,7 +4958,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 71190,
       "name": "ENDER PEARL FUNK",
       "url": "https://open.spotify.com/track/20DnCpzX9k1wapVRrAGLnb"
@@ -5504,7 +5522,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 242827,
       "name": "For You (With Rita Ora)",
       "url": "https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU"
@@ -6808,7 +6826,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 193573,
       "name": "I Think They Call This Love",
       "url": "https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX"
@@ -8122,7 +8140,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 71175,
       "name": "Lo Siento - Acoustic",
       "url": "https://open.spotify.com/track/4KzY8xmG7kyr1ZKM44XA8T"
@@ -11426,7 +11444,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 240669,
       "name": "PI\u00c9NSALO",
       "url": "https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr"
@@ -14302,7 +14320,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 214875,
       "name": "TATTOO",
       "url": "https://open.spotify.com/track/0uK4qOvijuVKXgieyScZ04"

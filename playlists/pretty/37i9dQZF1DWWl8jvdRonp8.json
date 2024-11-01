@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 234340,
+  "num_followers": 234466,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -407,18 +407,22 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "El Amor Que Nunca Fue",
-        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
       },
       "artists": [
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 204360,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
+      "duration_ms": 279333,
+      "name": "Olv\u00eddame t\u00fa (with Marco Antonio Sol\u00eds) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7gyYCmhtVoEgqiErO3iVn1"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -443,22 +447,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+        "name": "El Amor Que Nunca Fue",
+        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 279333,
-      "name": "Olv\u00eddame t\u00fa (with Marco Antonio Sol\u00eds) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/7gyYCmhtVoEgqiErO3iVn1"
+      "duration_ms": 204360,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
     },
     {
       "added_at": "2024-08-23 06:00:00",

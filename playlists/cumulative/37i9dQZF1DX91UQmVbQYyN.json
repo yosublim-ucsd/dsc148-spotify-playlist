@@ -5134,7 +5134,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 197426,
       "name": "Masseduction",
       "url": "https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ"
@@ -8322,6 +8322,24 @@
       "duration_ms": 212608,
       "name": "The World Above",
       "url": "https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1"
+    },
+    {
+      "album": {
+        "name": "The Rot",
+        "url": "https://open.spotify.com/album/42HRGEN5ltCezgopFl609S"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210157,
+      "name": "Three Floors, Three Doors",
+      "url": "https://open.spotify.com/track/3uwHIuMc53EssxvxQlVbil"
     },
     {
       "album": {

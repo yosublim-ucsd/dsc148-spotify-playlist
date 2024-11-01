@@ -1,6 +1,6 @@
 {
   "description": "Sing along to these tunes about everything you can find on the farm.",
-  "num_followers": 3758,
+  "num_followers": 3757,
   "original_name": "On The Farm",
   "owner": {
     "name": "Spotify",
@@ -494,6 +494,10 @@
         {
           "name": "Barbie",
           "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
         }
       ],
       "duration_ms": 160000,

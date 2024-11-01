@@ -4,7 +4,7 @@
 
 > celebre seu dia no maior astral!
 
-316 songs - 18 hr 12 min
+317 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2022-03-24 | 2023-12-11 |
 | [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 | 2023-12-01 | 2024-04-19 |
 | [Don't Stop Me Now \- ...Revisited](https://open.spotify.com/track/3INsYP1Y8GG4qJvBsKCdXC) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:37 | 2022-03-24 | 2022-06-27 |
-| [Don't Worry Be Happy](https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Collection](https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD) | 4:52 | 2022-03-24 |  |
+| [Don't Worry Be Happy](https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Collection](https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD) | 4:52 | 2022-03-24 | 2024-11-01 |
 | [Dona de mim](https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:28 | 2022-02-04 |  |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2022-03-24 |  |
 | [Doubt \(Summer Edit\)](https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Doubt \(Summer Edit\)](https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ) | 3:46 | 2022-03-24 | 2022-04-20 |
@@ -267,6 +267,7 @@
 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2022-03-24 | 2024-01-17 |
 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 | 2022-03-24 |  |
 | [Sweet Dreams \(Are Made of This\) \- 2005 Remaster](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 | 2022-03-24 |  |
+| [Só Quem Ama \- Ao Vivo](https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ) | [JV30 Tour, Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg) | 4:28 | 2024-11-01 |  |
 | [Take Her Place \(feat\. A R I Z O N A\)](https://open.spotify.com/track/3AzvNvE3xpgelqmE5MRnbI) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Take Her Place \(feat\. A R I Z O N A\)](https://open.spotify.com/album/0ESgJoM5wkGsJiUFxRBUum) | 3:29 | 2022-03-24 | 2022-04-16 |
 | [te vi dançando](https://open.spotify.com/track/4mJ1TB0De5yAGi6QS8UboG) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [te vi dançando](https://open.spotify.com/album/1NzFH0CUWFNnzq2NieDiZY) | 2:01 | 2023-05-26 | 2023-12-02 |
 | [Teu Sorriso](https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Teu Sorriso](https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE) | 3:03 | 2023-03-17 | 2023-05-27 |

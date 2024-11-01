@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.
 
-111 songs - 4 hr 44 min
+111 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Hello B\*tch](https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Hello B\*tch](https://open.spotify.com/album/5bWWgmLIujZiZrJUzxbhFn) | 2:19 | 2024-06-14 |  |
 | [Hot Sauce](https://open.spotify.com/track/5Lt20ho1AmhFJt56F1M7dS) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Hot Sauce](https://open.spotify.com/album/2WuTEjbwU7oIc0rFOFVVAV) | 2:15 | 2024-03-25 | 2024-06-19 |
 | [KAPITOL DENIM](https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 1:57 | 2024-01-19 |  |
-| [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 1:40 | 2024-10-15 |  |
+| [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 2:32 | 2024-10-15 |  |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-04-28 | 2024-05-21 |
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2023-06-23 | 2024-01-20 |
 | [Let's Go](https://open.spotify.com/track/76TJAFvcsT53qPU0bAR4an) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Let's Go](https://open.spotify.com/album/4D0xJxkAhrO1mFJBDR0UQO) | 2:20 | 2024-01-19 | 2024-04-25 |

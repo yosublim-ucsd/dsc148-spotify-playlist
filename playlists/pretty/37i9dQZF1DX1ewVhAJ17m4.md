@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: South Arcade
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,000 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,049 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 31 | [Letterman](https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Letterman](https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo) | 3:01 |
 | 32 | [aftermath/afterthought](https://open.spotify.com/track/6MrfKGnxHAcWhIta38sliG) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [analysis paralysis](https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4) | 2:26 |
 | 33 | [Waiting On A Twist Of Fate](https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Waiting On A Twist Of Fate](https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8) | 2:46 |
-| 34 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 |
-| 35 | [Get Over It](https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Get Over It](https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR) | 2:55 |
+| 34 | [Get Over It](https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Get Over It](https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR) | 2:55 |
+| 35 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 |
 | 36 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 |
 | 37 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 |
 | 38 | [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 41 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 |
 | 42 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
 | 43 | [shut up & kiss me](https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [shut up & kiss me](https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD) | 2:41 |
-| 44 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 |
-| 45 | [wish i was a robot](https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [falling for robots & wishing i was one](https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg) | 2:57 |
+| 44 | [wish i was a robot](https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [falling for robots & wishing i was one](https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg) | 2:57 |
+| 45 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 |
 | 46 | [All This Time](https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [All This Time](https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30) | 2:48 |
 | 47 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 |
 | 48 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 55 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 |
 | 56 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
 | 57 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 |
-| 58 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 |
-| 59 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
+| 58 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
+| 59 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 |
 | 60 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 |
 | 61 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 |
 | 62 | [Johnny](https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Johnny](https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r) | 2:29 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 67 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 |
 | 68 | [use me](https://open.spotify.com/track/1r8j5j9hBIlkz0onyxl4hO) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:01 |
 | 69 | [Autumnal](https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [AUTUMNAL](https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe) | 3:09 |
-| 70 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 |
-| 71 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 |
+| 70 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 |
+| 71 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 |
 | 72 | [Remember Her Like That](https://open.spotify.com/track/5PUeFk6KqTnnJrzeYhYyyb) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Remember Her Like That](https://open.spotify.com/album/3xNPSnUKCLjAyztiI42uF3) | 3:07 |
-| 73 | [skin & bones](https://open.spotify.com/track/18ATc6FHfzupXJXTyrZ0So) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [\(e\)motion sickness](https://open.spotify.com/album/1j6hMN9ifg5WuvaDetd1kb) | 2:47 |
-| 74 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 |
+| 73 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 |
+| 74 | [skin & bones](https://open.spotify.com/track/18ATc6FHfzupXJXTyrZ0So) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [\(e\)motion sickness](https://open.spotify.com/album/1j6hMN9ifg5WuvaDetd1kb) | 2:47 |
 | 75 | [is this what you wanted](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [is this what you wanted](https://open.spotify.com/album/5POEjUknLCeuqnRdLg7ewA) | 3:45 |
 | 76 | [bad habit](https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [bad habit](https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe) | 2:51 |
 | 77 | [Six Feet](https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Six Feet](https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI) | 3:01 |
 | 78 | [Subaru](https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Subaru](https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91) | 2:53 |
 | 79 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 |
-| 80 | [wallflower](https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [wallflower](https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt) | 3:10 |
+| 80 | [must be nice \(metaphorically speaking\)](https://open.spotify.com/track/0z2RWMYZyjvxT9ZGoUTPEf) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Thanks but No Thanks](https://open.spotify.com/album/4aeSdDsUKqxdotFMUnq2xV) | 2:57 |
 
 Snapshot ID: `ZryEigAAAABpotMYjLDXNdfO4sLzR3VC`

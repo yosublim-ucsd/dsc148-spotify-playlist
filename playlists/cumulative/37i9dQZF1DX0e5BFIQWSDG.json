@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: APON",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: SICARIO",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "Alitheia?!",
+        "url": "https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183809,
+      "name": "Alitheia?!",
+      "url": "https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ"
+    },
+    {
+      "album": {
         "name": "Alli Mia Fora",
         "url": "https://open.spotify.com/album/1pUYR2ijEcc0m2ts0c9tD2"
       },
@@ -274,7 +296,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 67419,
       "name": "An Apopse Figo - Night Rider Edit",
       "url": "https://open.spotify.com/track/72jtB2gdVoUhvSWrqfpP27"
@@ -391,6 +413,24 @@
     },
     {
       "album": {
+        "name": "AUTOS",
+        "url": "https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191643,
+      "name": "AUTOS",
+      "url": "https://open.spotify.com/track/0EwKlAawFATYjR7Od5ps6k"
+    },
+    {
+      "album": {
         "name": "ALEQUAN",
         "url": "https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl"
       },
@@ -436,6 +476,24 @@
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+    },
+    {
+      "album": {
+        "name": "Big Moves (Vol. 5)",
+        "url": "https://open.spotify.com/album/747EY8D8c4okD7qyfWOKNt"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166138,
+      "name": "Big Moves - Vol. 5",
+      "url": "https://open.spotify.com/track/01CrjNySWaln8aBVJA1MAg"
     },
     {
       "album": {
@@ -590,6 +648,24 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
       "album": {
@@ -1486,7 +1562,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 129522,
       "name": "Makigiaz",
       "url": "https://open.spotify.com/track/0zQydXtbVjEVMwsymWUBIA"
@@ -2178,7 +2254,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 184999,
       "name": "Skrofa",
       "url": "https://open.spotify.com/track/3jMYVOiX7gAt2gFal1VL9T"
@@ -2260,7 +2336,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 148571,
       "name": "TANAPU",
       "url": "https://open.spotify.com/track/2vRUn3ggWiCXnlq42mfbGP"

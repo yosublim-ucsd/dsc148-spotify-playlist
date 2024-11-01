@@ -9364,7 +9364,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 269080,
       "name": "Crimson Kisses",
       "url": "https://open.spotify.com/track/6QfZqOXenFN3I4iDE4s8KE"
@@ -9688,7 +9688,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 198400,
       "name": "Damn Good Life",
       "url": "https://open.spotify.com/track/3T1jTJUlBlqVyMIPS5VJnJ"
@@ -27029,6 +27029,24 @@
     },
     {
       "album": {
+        "name": "Looking ...For a Little Love",
+        "url": "https://open.spotify.com/album/2wDHA5qVXG8PGa20Ytm8jt"
+      },
+      "artists": [
+        {
+          "name": "Sheyna Gee",
+          "url": "https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188962,
+      "name": "Looking ...For a Little Love",
+      "url": "https://open.spotify.com/track/6hzj4na35h4vW5ma8wfy3R"
+    },
+    {
+      "album": {
         "name": "Looking at the Numbers",
         "url": "https://open.spotify.com/album/5HRkWv0wumBbzY26Ra1Kft"
       },
@@ -30466,7 +30484,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 184550,
       "name": "Neon Angel (Cowboys Never Stay)",
       "url": "https://open.spotify.com/track/5UXFeC8tfMYSYSdHaxruqF"
@@ -33930,6 +33948,24 @@
       "duration_ms": 152000,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w"
+    },
+    {
+      "album": {
+        "name": "Pulling Weeds",
+        "url": "https://open.spotify.com/album/6FZsGWLy6H2DsuZt59dmH9"
+      },
+      "artists": [
+        {
+          "name": "Kasey Tyndall",
+          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Pulling Weeds",
+      "url": "https://open.spotify.com/track/0ZlQ81MfYjGtYZcrQkUvKh"
     },
     {
       "album": {

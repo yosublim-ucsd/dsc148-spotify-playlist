@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: HotWax",
+  "description": "The UK's biggest rock playlist. Cover: Inhaler",
   "name": "The Rock List",
   "tracks": [
     {
@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "The Great Impersonator",
+        "url": "https://open.spotify.com/album/3rnRG8mHzOpShNNJpYQQDR"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202019,
+      "name": "Alice of the Upper Class",
+      "url": "https://open.spotify.com/track/3C34G0n3pThaxTSwsWpSOT"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF"
       },
@@ -662,6 +680,24 @@
       "duration_ms": 221360,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/67wOIdJG6ErtSqsJ6gSvnN"
+    },
+    {
+      "album": {
+        "name": "Songs Of A Lost World",
+        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321101,
+      "name": "All I Ever Am",
+      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
     },
     {
       "album": {
@@ -5117,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "HAMMER",
+        "url": "https://open.spotify.com/album/2hYS5RoJQZ9kXr6NkHu8NN"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200244,
+      "name": "HAMMER",
+      "url": "https://open.spotify.com/track/49p6Jr3v4lrHxoUa7XnMN5"
+    },
+    {
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -5446,7 +5500,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 217293,
       "name": "Here Today",
       "url": "https://open.spotify.com/track/15vXV6pd5WIJUhe2VJ34O7"
@@ -5464,7 +5518,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 163412,
       "name": "Here's The Thing",
       "url": "https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP"
@@ -6149,6 +6203,28 @@
     },
     {
       "album": {
+        "name": "I'm With The Band (feat. Beck)",
+        "url": "https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175190,
+      "name": "I'm With The Band (feat. Beck)",
+      "url": "https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS"
+    },
+    {
+      "album": {
         "name": "Iconic",
         "url": "https://open.spotify.com/album/4XCUSQq5jRc6B8E6tR7SaZ"
       },
@@ -6398,7 +6474,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 180962,
       "name": "It\u2019s not my fault (it\u2019s yours)",
       "url": "https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW"
@@ -7217,6 +7293,24 @@
     },
     {
       "album": {
+        "name": "Lion Rumpus",
+        "url": "https://open.spotify.com/album/2FQlTOSIj5D5gQZh8DsRYr"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213049,
+      "name": "Lion Rumpus",
+      "url": "https://open.spotify.com/track/2les6HNKPpydYUgWfkl7aA"
+    },
+    {
+      "album": {
         "name": "Little Lovin'",
         "url": "https://open.spotify.com/album/2pAWQkMcJR1ltV3Hcx2Ck9"
       },
@@ -7282,7 +7376,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 241579,
       "name": "Lonely is the Muse",
       "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
@@ -7828,7 +7922,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 159169,
       "name": "Mess To Make",
       "url": "https://open.spotify.com/track/0nH27MHmWfVe3RFI9ADq9k"
@@ -9060,7 +9154,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 228000,
       "name": "ONE TULIP//",
       "url": "https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI"
@@ -11144,7 +11238,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 216586,
       "name": "Song Of The Lake",
       "url": "https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih"
@@ -11346,7 +11440,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 139538,
       "name": "Stay In Your Grave (feat. Alice Cooper)",
       "url": "https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7"
@@ -12266,7 +12360,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 209491,
       "name": "The Overload",
       "url": "https://open.spotify.com/track/4onixPTyzrU7mWmmYIDJiN"
@@ -12302,7 +12396,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 342796,
       "name": "The Silence That Remains",
       "url": "https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu"
@@ -12706,6 +12800,24 @@
       "duration_ms": 188863,
       "name": "Trash Puppy",
       "url": "https://open.spotify.com/track/3oTsGbcgAedlZwLY2425L0"
+    },
+    {
+      "album": {
+        "name": "Trial By Fire",
+        "url": "https://open.spotify.com/album/1VTD55qqG4845hiL2D3aWj"
+      },
+      "artists": [
+        {
+          "name": "The Horrors",
+          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240684,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/02DLCwqe2a5o6n9ZfQKHuR"
     },
     {
       "album": {
@@ -13994,6 +14106,24 @@
       "duration_ms": 224913,
       "name": "Young In America",
       "url": "https://open.spotify.com/track/0Ef2EJ0YndF0GZMQHsrOvt"
+    },
+    {
+      "album": {
+        "name": "Your House",
+        "url": "https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227308,
+      "name": "Your House",
+      "url": "https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av"
     },
     {
       "album": {

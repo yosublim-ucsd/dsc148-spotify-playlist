@@ -2,7 +2,7 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: CLARA
+> ✨giovane✨pop✨z✨ Cover: Tananai
 
 536 songs - 1 day 0 hr 50 min
 

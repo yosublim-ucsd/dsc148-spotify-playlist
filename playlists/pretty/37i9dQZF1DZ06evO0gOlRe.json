@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 33129,
+  "num_followers": 33140,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAABEyH1HvhD/zc4j9gOrirTm",
+  "snapshot_id": "ZyF3AAAAAAA204NxFzOTHcVC+WjnCA7T",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 161430,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "bleeding heart",
         "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 150866,
       "name": "how dare you",
       "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 161430,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa"
     },
     {
       "added_at": null,

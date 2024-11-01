@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,327 likes - 92 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,358 likes - 92 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Working Out at the Zoo](https://open.spotify.com/track/2YZFI6nXasmLNqGjHtQg4K) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Working Out at the Zoo](https://open.spotify.com/album/0Y2zDFFVrkSU9I5yFM82wz) | 3:34 |
 | 2 | [The Ant And The Elephant \- Nursery Rhymes](https://open.spotify.com/track/2HRupRvr6BY4wswlwqLnZK) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [The Ant And The Elephant \- Nursery Rhymes](https://open.spotify.com/album/2BkyBc4e9VebLWYq2c7BXv) | 2:06 |
-| 3 | [Animal Count](https://open.spotify.com/track/1RtnalL9YfEjOVtI9YMAHl) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1) | [Sooo Wiggly Vol\. 2](https://open.spotify.com/album/2YSBAA5ij7uuezojPkpWYc) | 1:03 |
+| 3 | [Animal Count](https://open.spotify.com/track/1RtnalL9YfEjOVtI9YMAHl) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Sooo Wiggly Vol\. 2](https://open.spotify.com/album/2YSBAA5ij7uuezojPkpWYc) | 1:03 |
 | 4 | [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/track/4oEVDEWT1NhOY1eroalRWq) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/album/38aF5dFMx6IWGMcLVLu59D) | 3:17 |
 | 5 | [Platypus Song](https://open.spotify.com/track/4wy9CCI0qrZh0wffhJSHHZ) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Platypus Song](https://open.spotify.com/album/7iceO55HH677pOcrGKPnwp) | 2:11 |
 | 6 | [Asian Elephant](https://open.spotify.com/track/5nF2GOCZ73TWio4Jk5SyJL) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Endangered Animals](https://open.spotify.com/album/4pVBwDxNqF8kVYILOmI8iJ) | 1:21 |

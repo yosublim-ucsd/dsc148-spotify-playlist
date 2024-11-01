@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 41,938 likes - 78 songs - 3 hr 25 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 41,937 likes - 78 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BUSINESS IS BUSINESS](https://open.spotify.com/track/3oMNeqnhaXx96vip9Udsw7) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Trauma Tone](https://open.spotify.com/artist/5hbmx6kYC3b7lHWkbvs455) | [TMZ](https://open.spotify.com/album/6Z8BUrS5QTkofkDvhh4zGN) | 2:08 |
 | 2 | [Really Jimmy?](https://open.spotify.com/track/7l5BOk1PkUOwoDbHMTmWXw) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Really Jimmy?](https://open.spotify.com/album/21Ab1Dhiv8sRxliLUuyK1g) | 1:51 |
 | 3 | [Demons In The Dark](https://open.spotify.com/track/7ePN9wgTZtse3drcVI4YD4) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Demons In The Dark](https://open.spotify.com/album/2b9zu0KdTmeLAdtNSNcvZw) | 2:36 |
-| 4 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 1:40 |
+| 4 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 2:32 |
 | 5 | [Boss Affirmations](https://open.spotify.com/track/1rDZbka59VIuNxOunUml0b) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Boss Affirmations](https://open.spotify.com/album/5SOdHCozqHXM7SV12PjdP8) | 1:56 |
 | 6 | [raise your hands](https://open.spotify.com/track/3IEALkYIYBPaJQka035lCX) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [310degrees](https://open.spotify.com/album/13AhshxPGH647ftmQdhSdv) | 1:28 |
 | 7 | [Count Money \(feat\. Bossman Dlow\)](https://open.spotify.com/track/3l0Ha2qd65GqFvaEL8lwIZ) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [The Kid That Did](https://open.spotify.com/album/584NttnQ3jTv0yoCArM0yx) | 2:42 |

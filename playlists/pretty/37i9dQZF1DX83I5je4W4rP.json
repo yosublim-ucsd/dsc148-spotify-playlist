@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1065709,
+  "num_followers": 1065699,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "River Guide You",
+        "url": "https://open.spotify.com/album/2Ff5jcRSKQmxECSQSgsDZm"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "duration_ms": 189702,
+      "name": "River Guide You",
+      "url": "https://open.spotify.com/track/08UyoxARdyvcrsdtNQygaU"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Rush Hour (with Bryce Vine)",
         "url": "https://open.spotify.com/album/6RUyQNGZR790T68PN3NUHi"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 188644,
       "name": "Rush Hour (with Bryce Vine)",
       "url": "https://open.spotify.com/track/6aTDSU2O7IuA0qAKb36sVm"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "River Guide You",
-        "url": "https://open.spotify.com/album/2Ff5jcRSKQmxECSQSgsDZm"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 189702,
-      "name": "River Guide You",
-      "url": "https://open.spotify.com/track/08UyoxARdyvcrsdtNQygaU"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Never There",
-        "url": "https://open.spotify.com/album/4jLUI8wca9SKgdzR693lu6"
-      },
-      "artists": [
-        {
-          "name": "Unified Highway",
-          "url": "https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI"
-        }
-      ],
-      "duration_ms": 174131,
-      "name": "Never There",
-      "url": "https://open.spotify.com/track/03qH3siU1DPNz0jOOkuK9C"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 151560,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Never There",
+        "url": "https://open.spotify.com/album/4jLUI8wca9SKgdzR693lu6"
+      },
+      "artists": [
+        {
+          "name": "Unified Highway",
+          "url": "https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI"
+        }
+      ],
+      "duration_ms": 174131,
+      "name": "Never There",
+      "url": "https://open.spotify.com/track/03qH3siU1DPNz0jOOkuK9C"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1195,18 +1195,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Noon",
-        "url": "https://open.spotify.com/album/1rwkJG8Fx6r2bA0ZFc4FYU"
+        "name": "Open The Door",
+        "url": "https://open.spotify.com/album/4hyuyhzLfqaEYOwwJ09Odb"
       },
       "artists": [
         {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 167721,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/0xqKiPNtARmiviseWIQj2z"
+      "duration_ms": 192492,
+      "name": "Open The Door",
+      "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Open The Door",
-        "url": "https://open.spotify.com/album/4hyuyhzLfqaEYOwwJ09Odb"
+        "name": "Noon",
+        "url": "https://open.spotify.com/album/1rwkJG8Fx6r2bA0ZFc4FYU"
       },
       "artists": [
         {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
         }
       ],
-      "duration_ms": 192492,
-      "name": "Open The Door",
-      "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
+      "duration_ms": 167721,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0xqKiPNtARmiviseWIQj2z"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Barefoot On The Dancefloor",
-        "url": "https://open.spotify.com/album/7AI6eHvi5BfLMG3F42F1Ec"
-      },
-      "artists": [
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        }
-      ],
-      "duration_ms": 168650,
-      "name": "Barefoot On The Dancefloor",
-      "url": "https://open.spotify.com/track/66RzQvcgc85TDiMjUrsO2l"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "The Mighty",
         "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 216200,
       "name": "Knocking at Your Door",
       "url": "https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Barefoot On The Dancefloor",
+        "url": "https://open.spotify.com/album/7AI6eHvi5BfLMG3F42F1Ec"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "duration_ms": 168650,
+      "name": "Barefoot On The Dancefloor",
+      "url": "https://open.spotify.com/track/66RzQvcgc85TDiMjUrsO2l"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Sounds Of Summer (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 221621,
+      "name": "Sounds of Summer (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Floating (with Iration & The Elovaters)",
         "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
       },
@@ -1523,22 +1543,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Sounds Of Summer (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm"
+        "name": "Island Time",
+        "url": "https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh"
       },
       "artists": [
         {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
         }
       ],
-      "duration_ms": 221621,
-      "name": "Sounds of Summer (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
+      "duration_ms": 258773,
+      "name": "Island Time",
+      "url": "https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1563,22 +1579,6 @@
       "duration_ms": 245063,
       "name": "I Fall in Love Too Easily (with The Elovaters) - Reggae Remix",
       "url": "https://open.spotify.com/track/7Ej86ZIZqCqOOvddpaySZK"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Island Time",
-        "url": "https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh"
-      },
-      "artists": [
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Island Time",
-      "url": "https://open.spotify.com/track/7EIHl1xmO7UEtTEPczPj8i"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
-      },
-      "artists": [
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 210573,
-      "name": "IRL",
-      "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Things You Can\u2019t Control",
         "url": "https://open.spotify.com/album/1kykxJG3NLwarnxrt7hb2K"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 244184,
       "name": "Things You Can't Control",
       "url": "https://open.spotify.com/track/7Ll4gdgKSLGayN7BGhyuSh"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 210573,
+      "name": "IRL",
+      "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Best Of / 20th Century Masters",
-        "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Wonderful World, Beautiful People - Single Version",
-      "url": "https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Corona and Lime",
         "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 199600,
       "name": "Corona and Lime",
       "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Best Of / 20th Century Masters",
+        "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Wonderful World, Beautiful People - Single Version",
+      "url": "https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Respect",
+        "url": "https://open.spotify.com/album/79OS6QQQShDXiSkOPXANos"
+      },
+      "artists": [
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/75aYfg2Tji6Uxmreajjxsg"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Sun and the Moon (with Collie Buddz)",
         "url": "https://open.spotify.com/album/600mLwSU7CJ5gSqK11Xzpb"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 212994,
       "name": "Sun and the Moon (with Collie Buddz)",
       "url": "https://open.spotify.com/track/0RGfnMQ6yrUJymY6EMJ3tC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Respect",
-        "url": "https://open.spotify.com/album/79OS6QQQShDXiSkOPXANos"
-      },
-      "artists": [
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/75aYfg2Tji6Uxmreajjxsg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Tribal Seeds",
-        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
-      },
-      "artists": [
-        {
-          "name": "Tribal Seeds",
-          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "Dawn of Time",
-      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Nothing Lasts Forever",
         "url": "https://open.spotify.com/album/2MibDtCJiyd4PrJLouOYdV"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 241870,
       "name": "Nothing Lasts Forever",
       "url": "https://open.spotify.com/track/7qinjgTnynlZGAdq8PCf4p"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Tribal Seeds",
+        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
+      },
+      "artists": [
+        {
+          "name": "Tribal Seeds",
+          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "Dawn of Time",
+      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2655,6 +2655,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Not The End",
+        "url": "https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR"
+      },
+      "artists": [
+        {
+          "name": "4th & Orange",
+          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Not The End",
+      "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "STRATOSPHERE.",
         "url": "https://open.spotify.com/album/3ela2JUBEfNWqXt5ZCFG3P"
       },
@@ -2671,22 +2687,6 @@
       "duration_ms": 170057,
       "name": "STRATOSPHERE.",
       "url": "https://open.spotify.com/track/24kCWaFNeIqDvFjIbqllJG"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Not The End",
-        "url": "https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR"
-      },
-      "artists": [
-        {
-          "name": "4th & Orange",
-          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Not The End",
-      "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2727,22 +2727,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "My Way Out",
-        "url": "https://open.spotify.com/album/6EzQvRBqoGUvTrwyHAytSl"
-      },
-      "artists": [
-        {
-          "name": "Tunnel Vision",
-          "url": "https://open.spotify.com/artist/0Z6rANCyytkbva6RdOpYbv"
-        }
-      ],
-      "duration_ms": 256397,
-      "name": "My Way Out",
-      "url": "https://open.spotify.com/track/7lqFfTDNavCqNQ1xEEVQlB"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Slow Ride",
         "url": "https://open.spotify.com/album/6sxHexxRZSaulHeylFZP8f"
       },
@@ -2755,6 +2739,22 @@
       "duration_ms": 260105,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/1qMrDdn5WfLmkQw3Np0eFW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "My Way Out",
+        "url": "https://open.spotify.com/album/6EzQvRBqoGUvTrwyHAytSl"
+      },
+      "artists": [
+        {
+          "name": "Tunnel Vision",
+          "url": "https://open.spotify.com/artist/0Z6rANCyytkbva6RdOpYbv"
+        }
+      ],
+      "duration_ms": 256397,
+      "name": "My Way Out",
+      "url": "https://open.spotify.com/track/7lqFfTDNavCqNQ1xEEVQlB"
     }
   ],
   "unique_name": "Beach Vibes",

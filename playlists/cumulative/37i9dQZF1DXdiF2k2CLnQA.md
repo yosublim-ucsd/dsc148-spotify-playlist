@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-162 songs - 10 hr 20 min
+164 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [By Design](https://open.spotify.com/track/19mCBWbK2QUL7vNVx8gRYV) | [Amongst Liars](https://open.spotify.com/artist/3ZwxX5XIpWy4E7xzf9ZqMu), [Felin](https://open.spotify.com/artist/0M3FnNOwLaADbsJw92lftP) | [By Design](https://open.spotify.com/album/6vq49SapId7PB5sQcgETud) | 3:37 | 2024-06-27 |  |
 | [Call of the Wild](https://open.spotify.com/track/5Cy6DbexweGRwp3AfKOP1U) | [Crazy Lixx](https://open.spotify.com/artist/24k1UCsJJHHU9ohk7YIvzC) | [Call Of The Wild](https://open.spotify.com/album/29XfzrtqwBuZiGZg0TpTpN) | 4:12 | 2024-09-06 | 2024-10-18 |
 | [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 | 2024-10-03 |  |
-| [Cannibal \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 | 2024-09-19 |  |
+| [Cannibal \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 | 2024-09-19 | 2024-11-01 |
 | [Caroline](https://open.spotify.com/track/6uMpIkuSzk6iRmtzS9TIPR) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Caroline](https://open.spotify.com/album/5y60seX4jkrYQp4U5NS53y) | 4:56 | 2024-06-27 | 2024-08-02 |
 | [Chemicals](https://open.spotify.com/track/4egZ6NVanhYkOLr8omCGFH) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi) | [Chemicals](https://open.spotify.com/album/3vpfUZRp5ioaOIFLhVyoTF) | 4:10 | 2024-08-29 |  |
 | [Chosen Force](https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Chosen Force](https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY) | 5:08 | 2024-06-27 | 2024-09-20 |
@@ -79,6 +79,7 @@
 | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr) | 4:21 | 2024-08-01 |  |
 | [Hung Up](https://open.spotify.com/track/1PoqLEEiVsxYvWICbtcP2Y) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Hung Up](https://open.spotify.com/album/2Wr2NYshHbYFGGEuhnlqKN) | 2:30 | 2024-06-27 |  |
 | [Hungry Waters](https://open.spotify.com/track/1FHdnwhNpWbLXVNU5P4oDc) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hungry Waters](https://open.spotify.com/album/1GJDu1mFe6vMERKPHTzUmF) | 5:22 | 2024-09-06 | 2024-10-18 |
+| [Hurricane](https://open.spotify.com/track/5dGBQrUKyOtCBEuLBtIbve) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hurricane](https://open.spotify.com/album/6lBLUITFrP3wWcHKVM5FG4) | 3:28 | 2024-10-31 |  |
 | [Hurry Hurry](https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Hurry Hurry](https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9) | 3:04 | 2024-09-06 | 2024-09-27 |
 | [Hysteria](https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Hysteria](https://open.spotify.com/album/2muwVl04SwQCplJuV9KeLK) | 3:09 | 2024-06-27 | 2024-08-02 |
 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 | 2024-06-27 |  |
@@ -162,10 +163,11 @@
 | [War With The World](https://open.spotify.com/track/6sfBDJFuHewjdxPk33IZyZ) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [War With The World](https://open.spotify.com/album/3BasJfXGxeCJqPQFNzoGej) | 3:41 | 2024-08-22 |  |
 | [Wasted](https://open.spotify.com/track/6PA4LL6g9HxAa9lfBl1Ttp) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Wasted](https://open.spotify.com/album/2v4S2oaNDQ15PVNAkFRXqz) | 3:26 | 2024-06-27 | 2024-08-02 |
 | [Wayward Eyes](https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Endtime Signals](https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI) | 3:28 | 2024-08-15 |  |
+| [We Will Not Disband](https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Friend Of A Phantom](https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX) | 4:25 | 2024-10-31 |  |
 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 | 2024-06-27 | 2024-08-02 |
 | [When Are You Coming My Way](https://open.spotify.com/track/4sg8aFruIdNLAGPKAuiNEc) | [Ella Hoff](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [When Are You Coming My Way](https://open.spotify.com/album/7MFBaUUdFFKjjygOeQLzwj) | 2:19 | 2024-08-29 |  |
 | [Who You Gonna Call? \(Solence\)](https://open.spotify.com/track/2SiXTix2P7Xwnzt3Ji31e4) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Who You Gonna Call? \(Solence\)](https://open.spotify.com/album/4wSlW89hvBHn0lD7iHijyT) | 3:10 | 2024-09-26 |  |
-| [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 |  |
+| [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 | 2024-11-01 |
 | [Wow! Wow! Wow!](https://open.spotify.com/track/65UAJffAS7gUxrqYBIqrU2) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Wow! Wow! Wow!](https://open.spotify.com/album/1GaAZvieXoy9wQw8Fq1EFG) | 3:40 | 2024-06-27 | 2024-08-02 |
 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-06-27 | 2024-08-02 |
 | [§1 \- Radio Edit](https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§1 \(Radio Edit\)](https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k) | 4:46 | 2024-08-01 |  |

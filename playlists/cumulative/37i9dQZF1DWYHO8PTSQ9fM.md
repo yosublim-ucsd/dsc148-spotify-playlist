@@ -4,7 +4,7 @@
 
 > Lazaro en tête de la plus grande playlist au Maroc.
 
-331 songs - 17 hr 46 min
+333 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Business \(feat\. Naza\)](https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Business \(feat\. Naza\)](https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF) | 2:50 | 2023-06-08 | 2024-03-08 |
 | [C'est carré le S](https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [C'est carré le S](https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y) | 3:21 | 2023-05-08 | 2023-06-09 |
 | [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 | 2024-07-18 |  |
+| [Ca parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 | 2024-10-31 |  |
 | [CABARET](https://open.spotify.com/track/3XugphjZV5ITxjG06dQzbO) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CABARET](https://open.spotify.com/album/4jv4SeF1W29Sae15O0JC3P) | 3:16 | 2024-09-19 |  |
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-07-26 | 2022-09-01 |
 | [Calm Down](https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk) | 3:39 | 2022-05-12 | 2022-07-29 |
@@ -201,6 +202,7 @@
 | [Manetfergou](https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Manetfergou](https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8) | 3:17 | 2023-08-30 | 2024-06-14 |
 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 | 2024-02-23 |  |
 | [MARADONA \- Remix](https://open.spotify.com/track/1eiL5AM3hsfhrmXkfSKlfj) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [MARADONA \(Remix\)](https://open.spotify.com/album/0QXUQiwAzEr5mlyqTq8AqW) | 2:38 | 2024-09-14 | 2024-10-25 |
+| [Marhaba](https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Marhaba X We Must](https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw) | 2:23 | 2024-10-31 |  |
 | [Matgheltech](https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Matgheltech](https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0) | 3:15 | 2024-07-18 |  |
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-05-24 | 2023-01-18 |
 | [Mazalni](https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Mazalni](https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77) | 4:20 | 2022-08-08 | 2023-01-20 |
@@ -222,7 +224,7 @@
 | [Nari](https://open.spotify.com/track/1uApa4g1Fr87F4IAC2Xgc2) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Nari](https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5) | 2:40 | 2023-06-15 | 2024-07-19 |
 | [Nari](https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Nari](https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q) | 3:57 | 2022-05-12 | 2022-06-03 |
 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 | 2023-08-14 | 2023-08-19 |
-| [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 | 2024-08-22 |  |
+| [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 | 2024-08-22 | 2024-11-01 |
 | [No Stop](https://open.spotify.com/track/6VD64LAe1raY65BTkJdt5v) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [No Stop](https://open.spotify.com/album/14FD9LxC7IR05LPeDK5Ts9) | 3:46 | 2022-05-12 | 2022-07-24 |
 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 | 2022-05-12 | 2023-05-09 |
 | [Nobody Like You](https://open.spotify.com/track/1SDhiSzYZcx1ElXLuYtv28) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Nobody Like You](https://open.spotify.com/album/4vOmPK3WJS2G5uK8h6kKDi) | 3:42 | 2024-10-01 |  |
@@ -272,7 +274,7 @@
 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 | 2023-10-17 | 2024-07-19 |
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-25 | 2024-02-04 |
 | [Si Ai](https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Si Ai](https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK) | 2:46 | 2024-07-24 |  |
-| [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-08-09 |  |
+| [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-08-09 | 2024-11-01 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-11 | 2024-01-10 |
 | [SI TE LLAMO](https://open.spotify.com/track/7LU9PXeRUwL026TqdVmOwF) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/5fTUdCEbXnb9uv0XCadNvo) | 3:27 | 2023-09-23 | 2023-09-26 |
 | [Sid Lghram](https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Sid Lghram](https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6) | 3:56 | 2023-01-01 | 2023-02-01 |

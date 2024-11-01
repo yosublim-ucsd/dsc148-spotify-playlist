@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Rossa",
+  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Wali",
   "name": "Berjiran",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 258374,
       "name": "Akhiri Penantianku (Reimagined)",
       "url": "https://open.spotify.com/track/70xhbV1Jb47PaUx95TFypE"
@@ -194,6 +194,24 @@
       "duration_ms": 237243,
       "name": "Angin Kencang",
       "url": "https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl"
+    },
+    {
+      "album": {
+        "name": "Bang Jago",
+        "url": "https://open.spotify.com/album/0GyjOgCKSRgzh7Ofm2zstD"
+      },
+      "artists": [
+        {
+          "name": "Wali",
+          "url": "https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Bang Jago",
+      "url": "https://open.spotify.com/track/2oyxSximk9gWhQJ94k1Slh"
     },
     {
       "album": {
@@ -486,7 +504,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 307520,
       "name": "Demi Waktu",
       "url": "https://open.spotify.com/track/150GrtIUJF0IDT1KQb8JR8"
@@ -548,6 +566,24 @@
       "duration_ms": 253333,
       "name": "Di Pinggir Kayangan",
       "url": "https://open.spotify.com/track/6w2PYLtHs67gahfWGkCrWa"
+    },
+    {
+      "album": {
+        "name": "Diam Diam Jatuh Cinta",
+        "url": "https://open.spotify.com/album/1BdhJAyPNNk3G4oTreX9Gk"
+      },
+      "artists": [
+        {
+          "name": "Ramlah Ram",
+          "url": "https://open.spotify.com/artist/4MHFCJ8NF67BZ2jl8gF7FX"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210598,
+      "name": "Diam Diam Jatuh Cinta",
+      "url": "https://open.spotify.com/track/2dTuI3gIUrxuLp7D1lGszE"
     },
     {
       "album": {
@@ -674,7 +710,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 216911,
       "name": "Harapan Palsu",
       "url": "https://open.spotify.com/track/1ZrUWlwivPUmn1IrSDUifl"
@@ -758,7 +794,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 223250,
       "name": "Jangan Nakal (Reimagined)",
       "url": "https://open.spotify.com/track/1DhFrVT25RMhUrDQZVOriy"
@@ -1050,7 +1086,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 228400,
       "name": "Lupakan Cinta",
       "url": "https://open.spotify.com/track/4QhfKUW0Qn1W4nCfnjptw7"
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 197472,
       "name": "Malu Tapi Mahu",
       "url": "https://open.spotify.com/track/6FnNbp6XuVGwolZ6MNVpTU"
@@ -1104,7 +1140,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 266306,
       "name": "Matahariku",
       "url": "https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD"
@@ -1158,7 +1194,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 145000,
       "name": "Memberontak",
       "url": "https://open.spotify.com/track/1cxcQZo6PwHluARCkqMyds"
@@ -1220,7 +1256,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 271800,
       "name": "Nada Nada Cinta",
       "url": "https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP"
@@ -1274,7 +1310,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 249146,
       "name": "Penantian",
       "url": "https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj"
@@ -1440,7 +1476,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 228386,
       "name": "Sedih Tak Berujung",
       "url": "https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn"
@@ -1942,7 +1978,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 199138,
       "name": "Yang Terdalam",
       "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"

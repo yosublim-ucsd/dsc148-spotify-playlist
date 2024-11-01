@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599 likes - 125 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 600 likes - 125 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 124 | [Still in Love \(Acoustic\)](https://open.spotify.com/track/1FOX7NEDh37v5xNXyESzsK) | [The Inner Voices](https://open.spotify.com/artist/6YNzFZMSy9yCYyXtS3JQQF) | [Still in Love \(Acoustic\)](https://open.spotify.com/album/68kr3m1lQzS0MlXXpVIeYW) | 4:14 |
 | 125 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AbgNDAAAAADWwZK7ahD9pes0aKSPXzVR`
+Snapshot ID: `AbgSNAAAAAA+D88Pq6kNBcEwh/u0vP4P`

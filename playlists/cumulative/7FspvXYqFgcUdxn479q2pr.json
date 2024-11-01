@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Captain Sjaak",
+        "url": "https://open.spotify.com/album/1wgnNPMNI2MRHw0o378U4c"
+      },
+      "artists": [
+        {
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152613,
+      "name": "Captain Sjaak",
+      "url": "https://open.spotify.com/track/1CDp4zqDEPt75lYFooKR7r"
+    },
+    {
+      "album": {
         "name": "Caraluna arg\u00fc",
         "url": "https://open.spotify.com/album/0HJdELbb0k03flIhBUYHIF"
       },
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 128371,
       "name": "Dudada",
       "url": "https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm"
@@ -2290,6 +2308,32 @@
       "duration_ms": 165909,
       "name": "Get Busy - Odd Mob Club Mix",
       "url": "https://open.spotify.com/track/76UVi3tz2rpTOPtvstIoK2"
+    },
+    {
+      "album": {
+        "name": "Get Freaky (feat. Ricky Jay)",
+        "url": "https://open.spotify.com/album/6Y0MrvXNJP8sWi1im54I7J"
+      },
+      "artists": [
+        {
+          "name": "Cosmo & Skoro",
+          "url": "https://open.spotify.com/artist/5cF3C7YV5UCwODmFDcVhOz"
+        },
+        {
+          "name": "Crasca",
+          "url": "https://open.spotify.com/artist/6UsHiXVzlUH4azQvCcHAQx"
+        },
+        {
+          "name": "Ricky Jay",
+          "url": "https://open.spotify.com/artist/3qKOCBvBzuqroDAIptpfi1"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Get Freaky (feat. Ricky Jay)",
+      "url": "https://open.spotify.com/track/2JpSWTnrYoyUjtt6QtjoWQ"
     },
     {
       "album": {
@@ -2982,7 +3026,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 162207,
       "name": "I Love The Way (feat. LEVi & Toddla T)",
       "url": "https://open.spotify.com/track/47LjmQWMlFYmoVBTYiEFW7"
@@ -3423,6 +3467,32 @@
     },
     {
       "album": {
+        "name": "Khoye Yahaan (feat. KEL) [Official Sunburn Goa 2024 Anthem]",
+        "url": "https://open.spotify.com/album/2mlNgi2YyH7VU4oUeXlc25"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "OTIOT",
+          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194888,
+      "name": "Khoye Yahaan (feat. KEL) [Official Sunburn Goa 2024 Anthem]",
+      "url": "https://open.spotify.com/track/7iLJbrbjbUy9roWzl7Tjsm"
+    },
+    {
+      "album": {
         "name": "Kikuyu",
         "url": "https://open.spotify.com/album/6AUWyJYHCBr5Z5T3N0aA4a"
       },
@@ -3728,7 +3798,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 159577,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
@@ -4156,6 +4226,32 @@
       "duration_ms": 202142,
       "name": "Masada",
       "url": "https://open.spotify.com/track/6zbEa0mI2k0GpaV5ax3hJC"
+    },
+    {
+      "album": {
+        "name": "Middle Fingers (feat. Savage)",
+        "url": "https://open.spotify.com/album/4XDHATdsfhkKm5oCYTLnUn"
+      },
+      "artists": [
+        {
+          "name": "Sunset Bros",
+          "url": "https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ"
+        },
+        {
+          "name": "Strictly Business",
+          "url": "https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143419,
+      "name": "Middle Fingers (feat. Savage)",
+      "url": "https://open.spotify.com/track/27VZcxppvzwqnzxEHjVxN7"
     },
     {
       "album": {
@@ -4673,6 +4769,36 @@
     },
     {
       "album": {
+        "name": "Nessun Dorma (feat. Luciano Pavarotti)",
+        "url": "https://open.spotify.com/album/0xQzA4AYTp21tB2mOdSg0t"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "3rd Wall",
+          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Nessun Dorma (feat. Luciano Pavarotti)",
+      "url": "https://open.spotify.com/track/3cCPoDrYGpqtTvBcWM0eHL"
+    },
+    {
+      "album": {
         "name": "Never Leave You (Uh Oooh, Uh Oooh)",
         "url": "https://open.spotify.com/album/4VXJXevslm1e6dndc6tD5k"
       },
@@ -4856,6 +4982,36 @@
       "duration_ms": 129213,
       "name": "Not Sorry",
       "url": "https://open.spotify.com/track/7flYA7GiLu0N0seaNWWkeb"
+    },
+    {
+      "album": {
+        "name": "Now We Are Free",
+        "url": "https://open.spotify.com/album/6iSF6ZrrJkcxrmHtPOtiJt"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "1 World",
+          "url": "https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa"
+        },
+        {
+          "name": "AntoNetta",
+          "url": "https://open.spotify.com/artist/2AtZ6NmtS2BO2GgUTIw3aL"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/0spV7kRavzOYJYKzOf8zSl"
     },
     {
       "album": {
@@ -5530,7 +5686,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 146029,
       "name": "SexyBack - TechnoBack",
       "url": "https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo"
@@ -5878,7 +6034,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 150967,
       "name": "Soundboy Killah",
       "url": "https://open.spotify.com/track/50yWD8iOunA5nQzwe4gJ6U"
@@ -6550,6 +6706,24 @@
       "duration_ms": 240000,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/3f7UTRlyaHtaf8zsUwvTaI"
+    },
+    {
+      "album": {
+        "name": "Those Were The Days",
+        "url": "https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Those Were The Days",
+      "url": "https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV"
     },
     {
       "album": {

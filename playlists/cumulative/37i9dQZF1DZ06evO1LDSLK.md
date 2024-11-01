@@ -4,7 +4,7 @@
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 59 min
+96 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [James Bond](https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:31 | 2022-11-04 |  |
 | [King Of The Dogs](https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:01 | 2022-11-04 |  |
 | [La Belle Vie](https://open.spotify.com/track/6ZiyU4U2GlSz814vTTBBDo) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 3:04 | 2022-11-27 | 2022-12-10 |
-| [La Javanaise](https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:30 | 2022-12-25 |  |
+| [La Javanaise](https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:30 | 2022-12-25 | 2024-11-01 |
 | [La vie en rose](https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:06 | 2022-11-29 |  |
 | [Les Feuilles Mortes](https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 3:55 | 2022-11-04 |  |
 | [Les passantes](https://open.spotify.com/track/0PNBQlTTJT5Mpjk2qCSHa7) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 4:10 | 2022-12-03 | 2024-04-07 |
@@ -86,6 +86,7 @@
 | [Strung Out Johnny](https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:13 | 2023-01-16 |  |
 | [Success](https://open.spotify.com/track/7LnZRiI3GuF44G6mqLWQA1) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:25 | 2022-12-09 | 2024-07-24 |
 | [Sunday](https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 6:06 | 2022-11-04 | 2024-07-22 |
+| [Supermarket](https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:01 | 2024-11-01 |  |
 | [Syracuse](https://open.spotify.com/track/7fM0p7hgm5Ktr77vDEeuSP) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:03 | 2022-12-04 | 2023-02-08 |
 | [The Dawn](https://open.spotify.com/track/20NX3eoG5vBF91b25T6dao) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 2:08 | 2023-01-21 | 2023-01-28 |
 | [The Dictator](https://open.spotify.com/track/4oTpPvKIgu1erI6yCxfnhh) | [Catherine Graindorge](https://open.spotify.com/artist/5iqpZ9ybJy7ERVcWwBIPXQ), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Dictator](https://open.spotify.com/album/6uUjKtXEyeTAB49DKY8fuX) | 4:45 | 2022-11-04 | 2022-12-16 |

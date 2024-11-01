@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם קלינשטיין
 
-169 songs - 8 hr 50 min
+170 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [א יידישע ראסטהמאן](https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [א יידישע ראסטהמאן](https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1) | 5:04 | 2024-10-03 |  |
 | [אבא](https://open.spotify.com/track/37bJZ0107lcjV8zcfCzQ5g) | [Lihi Toledano](https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx) | [מיכל, שיווי משקל סופי, אבא](https://open.spotify.com/album/0bPKwV5TqDWxjshMW5fhuP) | 4:48 | 2024-09-05 | 2024-09-20 |
 | [אבודה](https://open.spotify.com/track/17iWC76G2mmiCnQOftlVfU) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [עכשיו טוב](https://open.spotify.com/album/3WEszgaQcibMYuoOA1WUQs) | 2:32 | 2024-09-12 | 2024-10-04 |
-| [אהובי](https://open.spotify.com/track/7ykOWQ2VZhM6yekfCLpaUy) | [Gil Vain](https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj), [ההרכב של גיל ויין](https://open.spotify.com/artist/3gkIfirLCeqrXJpODHDC82) | [מחכים לשמש](https://open.spotify.com/album/5yONsifEgFqS9pTgAiR7WY) | 3:16 | 2024-09-12 |  |
+| [אהובי](https://open.spotify.com/track/7ykOWQ2VZhM6yekfCLpaUy) | [Gil Vain](https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj), [ההרכב של גיל ויין](https://open.spotify.com/artist/3gkIfirLCeqrXJpODHDC82) | [מחכים לשמש](https://open.spotify.com/album/5yONsifEgFqS9pTgAiR7WY) | 3:16 | 2024-09-12 | 2024-11-01 |
 | [אהיה לך הירח](https://open.spotify.com/track/2unXWMp1eZvSCj7BPWvFH5) | [אליקיר](https://open.spotify.com/artist/3cMTPLurKSbxuS73SjzPPv) | [אהיה לך הירח](https://open.spotify.com/album/0G3nqzymNWJxi2uVEkdMpT) | 3:13 | 2024-07-18 | 2024-09-13 |
 | [אופרת סבון](https://open.spotify.com/track/5cKv2ibQr5YHwMNImOSxqm) | [Michael Ben David](https://open.spotify.com/artist/3ZOg74Rm98FXI86cSo0nIk) | [אופרת סבון](https://open.spotify.com/album/06wPf9l4YcJC86WDxeHW5j) | 2:11 | 2024-07-25 | 2024-09-27 |
 | [אור](https://open.spotify.com/track/1HNItVZCGypC82tE0M82NP) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [אור](https://open.spotify.com/album/5STvo8gcAPRfnyl0UBICgG) | 2:53 | 2024-10-17 |  |
@@ -102,6 +102,7 @@
 | [כמעט שנתיים](https://open.spotify.com/track/3gsouDDSV6MNnXYoVlLzt4) | [Elai Botner and Yaldei Hachutz](https://open.spotify.com/artist/4q5k69mieggvWRdsxYmlO1), [Elai Botner](https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0) | [כמעט שנתיים](https://open.spotify.com/album/21X0RKf5bj4V3muXct3XEO) | 3:36 | 2024-06-27 | 2024-07-05 |
 | [כפרה לנד](https://open.spotify.com/track/1Sw4FRafnTe0BLumLcpi3N) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [עידו בי](https://open.spotify.com/artist/1obWO7PfWL5n6oyqB984OQ) | [כפרה לנד](https://open.spotify.com/album/2I1xx5j5N0yQhdSDAGsHZx) | 2:24 | 2024-07-04 |  |
 | [לא לבד](https://open.spotify.com/track/0nuP9nCHHPhjm9RtOdVh6O) | [Rotem Cohen](https://open.spotify.com/artist/524rbl9t4PcNkv2PjItZw0), [Ben Zur](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [לא לבד](https://open.spotify.com/album/678NpQ9HYELExtlytmT3yZ) | 3:38 | 2024-07-25 |  |
+| [לא להתאבסס](https://open.spotify.com/track/2xkXWaRUUn4phPu3QgiEA5) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [לא להתאבסס](https://open.spotify.com/album/4ysjijkPNHQF1BFl4apRa6) | 2:04 | 2024-10-31 |  |
 | [לא מעניין אותי](https://open.spotify.com/track/3O28cHGMzaF9VYIPEJQRYb) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw), [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [לא מעניין אותי](https://open.spotify.com/album/2XfUQjhpCuoqCY7lZryj34) | 2:36 | 2024-07-18 |  |
 | [לא צריכה ארמון](https://open.spotify.com/track/7LUXcugqNbrfIiGtbnsCET) | [עטרה אוריה](https://open.spotify.com/artist/2B5CIVuJLzMYbtw6ViL85R) | [לא צריכה ארמון](https://open.spotify.com/album/4aQLxgfh3CILAQI1ppiEpD) | 3:26 | 2024-09-26 |  |
 | [לא ראיתי את זה בא](https://open.spotify.com/track/1qHcRVxZxq4MyWE8MhSniY) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [לא ראיתי את זה בא](https://open.spotify.com/album/1ghtrFUbk1sQbi7SPyw8EQ) | 3:02 | 2024-06-27 | 2024-09-13 |

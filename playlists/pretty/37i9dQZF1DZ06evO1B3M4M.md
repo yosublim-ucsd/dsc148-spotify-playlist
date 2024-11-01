@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,893 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,895 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 10 | [I'm Expecting Someone](https://open.spotify.com/track/41ckIX2CdahZo5iqQvO1Qo) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP) | 2:14 |
 | 11 | [Like a Dog Chasing Cars](https://open.spotify.com/track/3j9WvPrVhZuH8AmTeVakfR) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 5:02 |
 | 12 | [Newt Says Goodbye to Tina / Jacob's Bakery](https://open.spotify.com/track/20LsXSYrH1M3mk1COyPVrg) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 3:26 |
-| 13 | [Molossus](https://open.spotify.com/track/1N7LRc9YuyMjWKEkrmlogM) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 4:49 |
-| 14 | [Leta's Theme \- Solo Piano](https://open.spotify.com/track/35bsGWSmSTeaTHK4iy8roD) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 2:04 |
+| 13 | [Leta's Theme \- Solo Piano](https://open.spotify.com/track/35bsGWSmSTeaTHK4iy8roD) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 2:04 |
+| 14 | [Molossus](https://open.spotify.com/track/1N7LRc9YuyMjWKEkrmlogM) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 4:49 |
 | 15 | [I'm Not a Hero](https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 6:34 |
 | 16 | [Fairy Dance](https://open.spotify.com/track/3VODwXoY2gZKbgC098Hr77) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Peter Pan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zGkIyUeYV5NVS8z3MUGE8) | 5:24 |
 | 17 | [The Gravel Road \- Score](https://open.spotify.com/track/5ynPIIbdGo2OBoX9vcnUo5) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Village](https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 49 | [Noah Visits \- Score](https://open.spotify.com/track/7zKkGdLK3y77xvOksoUdrT) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Village](https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G) | 2:35 |
 | 50 | [Why so Serious?](https://open.spotify.com/track/1wdoaja3ueHHvzobn2jE2n) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 9:14 |
 
-Snapshot ID: `ZyAlgAAAAAAD0KmGxUc5CJzQSaz0d7yI`
+Snapshot ID: `ZyF3AAAAAAAY4O96BzIB4o4Ih26oAw81`

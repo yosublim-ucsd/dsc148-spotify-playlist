@@ -1,31 +1,47 @@
 {
-  "description": "Le migliori nuove uscite \ud83c\uddee\ud83c\uddf9 e \ud83c\udf0e! Cover: Damiano David",
-  "num_followers": 62453,
+  "description": "Le migliori nuove uscite \ud83c\uddee\ud83c\uddf9 e \ud83c\udf0e! Cover: Shawn Mendes",
+  "num_followers": 62468,
   "original_name": "Novit\u00e0 Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrRrAAAAABIkoWaOLgLVacB5w8KNFsT",
+  "snapshot_id": "ZyQMLAAAAAASOgfowX/Qsrxjezz36ViE",
   "tracks": [
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
-        "name": "Born With a Broken Heart",
-        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
       },
       "artists": [
         {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 208956,
-      "name": "Born With a Broken Heart",
-      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
+      "duration_ms": 171607,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Si mette male",
+        "url": "https://open.spotify.com/album/7D6U1pD4YKzbP8s1vr9xeP"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Amoroso",
+          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
+        }
+      ],
+      "duration_ms": 193220,
+      "name": "Si mette male",
+      "url": "https://open.spotify.com/track/4d2C04FQ4e4RexeNFiQfnV"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "TUTTA VITA",
         "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "il filo rosso",
         "url": "https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "POSTI VUOTI",
         "url": "https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "CALMOCOBRA",
         "url": "https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/62UEDjQEgBx7GDKDiSoz3i"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
@@ -109,7 +125,39 @@
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Born With a Broken Heart",
+        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 208956,
+      "name": "Born With a Broken Heart",
+      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 162204,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "MMH (feat. Rose Villain)",
         "url": "https://open.spotify.com/album/5JUg1RbqXhroV8e4nfxSMy"
@@ -129,7 +177,23 @@
       "url": "https://open.spotify.com/track/49mN8ph1LK58r7TMYW1Srb"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "BUTTALO VIA",
+        "url": "https://open.spotify.com/album/27V0r3kcxje96sG3e8cJab"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 245409,
+      "name": "BUTTALO VIA",
+      "url": "https://open.spotify.com/track/1HpBoY16BEoyLpitEG9kTC"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "REWIND",
         "url": "https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5"
@@ -145,7 +209,7 @@
       "url": "https://open.spotify.com/track/3xSUjaZ2f8JRQ8HdBp3p4f"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Ora che non ho pi\u00f9 te",
         "url": "https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf"
@@ -161,23 +225,59 @@
       "url": "https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
-        "name": "Giorni Felici",
-        "url": "https://open.spotify.com/album/6iQVTMWUzVeIYFnH9LGEFO"
+        "name": "CALMOCOBRA",
+        "url": "https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv"
       },
       "artists": [
         {
-          "name": "La rappresentante di lista",
-          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
         }
       ],
-      "duration_ms": 166546,
-      "name": "Karaoke",
-      "url": "https://open.spotify.com/track/3qj1SVOn5avhbcBrgkrTv7"
+      "duration_ms": 195245,
+      "name": "PUNK LOVE STORIA",
+      "url": "https://open.spotify.com/track/76axnsywKEligswiOVYW2M"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "POLIGONO",
+        "url": "https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "duration_ms": 137055,
+      "name": "POLIGONO",
+      "url": "https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "HO SBAGLIATO ANCORA",
+        "url": "https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "duration_ms": 190449,
+      "name": "HO SBAGLIATO ANCORA",
+      "url": "https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Niente Panico",
         "url": "https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d"
@@ -193,47 +293,7 @@
       "url": "https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Duets (30th Anniversary)",
-        "url": "https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "Rimani Qui (feat. Elisa)",
-      "url": "https://open.spotify.com/track/1iS6u1r7hvQ4eEk2RwrWMB"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Chiss\u00e0",
-        "url": "https://open.spotify.com/album/1xywCoqMy6siRZbvThSeUA"
-      },
-      "artists": [
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        },
-        {
-          "name": "Ditonellapiaga",
-          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
-        }
-      ],
-      "duration_ms": 179728,
-      "name": "Chiss\u00e0 (feat. Ditonellapiaga)",
-      "url": "https://open.spotify.com/track/7sy957mJPAMwoAjHhLVVuS"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "TUTTA VITA",
         "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
@@ -257,7 +317,7 @@
       "url": "https://open.spotify.com/track/2uIDhpypQYFb3PpczWXH0v"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
@@ -273,7 +333,7 @@
       "url": "https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -293,87 +353,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "VOGLIONO ESSERE ME",
-        "url": "https://open.spotify.com/album/0bKZXBDyTVBSfmk5cKGDOY"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        }
-      ],
-      "duration_ms": 129461,
-      "name": "VOGLIONO ESSERE ME",
-      "url": "https://open.spotify.com/track/6zP3dYR5MQB8vj1QPAsgoX"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Aquamarine",
-        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 162814,
-      "name": "Aquamarine",
-      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "CALMOCOBRA",
-        "url": "https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv"
-      },
-      "artists": [
-        {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
-        }
-      ],
-      "duration_ms": 195245,
-      "name": "PUNK LOVE STORIA",
-      "url": "https://open.spotify.com/track/76axnsywKEligswiOVYW2M"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "The Great Impersonator",
-        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 216006,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Swallow My Tears",
-        "url": "https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Swallow My Tears",
-      "url": "https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "NIENTE DI MALE",
         "url": "https://open.spotify.com/album/4uZZ29NchGBafGvRaRYVEI"
@@ -389,7 +369,247 @@
       "url": "https://open.spotify.com/track/7CZZxHf4DZxiTnrVxeMqOt"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Amando si Impara",
+        "url": "https://open.spotify.com/album/5wcAEFRfYOnNIqNZy7b78E"
+      },
+      "artists": [
+        {
+          "name": "Alex Wyse",
+          "url": "https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ"
+        }
+      ],
+      "duration_ms": 211564,
+      "name": "Amando si Impara",
+      "url": "https://open.spotify.com/track/77vkzThJYBexqFRqn3FklB"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/7LikYERyfpoxZdjyezrJiN"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/2Jdo2UwlQMc0AySBT7T2EZ"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Giorni Felici",
+        "url": "https://open.spotify.com/album/6iQVTMWUzVeIYFnH9LGEFO"
+      },
+      "artists": [
+        {
+          "name": "La rappresentante di lista",
+          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
+        }
+      ],
+      "duration_ms": 166546,
+      "name": "Karaoke",
+      "url": "https://open.spotify.com/track/3qj1SVOn5avhbcBrgkrTv7"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/5pcrj1R40plmpD3EXv61XX"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 155788,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "The Great Impersonator",
+        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 216006,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/708yPIVpuslXntjeYcZ2de"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        }
+      ],
+      "duration_ms": 157914,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/5Bns5x2e8ypUcDVuE1uyIm"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "VOGLIONO ESSERE ME",
+        "url": "https://open.spotify.com/album/0bKZXBDyTVBSfmk5cKGDOY"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "duration_ms": 129461,
+      "name": "VOGLIONO ESSERE ME",
+      "url": "https://open.spotify.com/track/6zP3dYR5MQB8vj1QPAsgoX"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Ray Of Light",
+        "url": "https://open.spotify.com/album/1GBySAbVIvQTKCR0Tg4a4U"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Ray Of Light",
+      "url": "https://open.spotify.com/track/3yFWhxIlIzlyro5r6IMuT4"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Duets (30th Anniversary)",
+        "url": "https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 203160,
+      "name": "Rimani Qui (feat. Elisa)",
+      "url": "https://open.spotify.com/track/1iS6u1r7hvQ4eEk2RwrWMB"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3Yamej6rdIc4iEh5DU1tqX"
+      },
+      "artists": [
+        {
+          "name": "Naima Adams",
+          "url": "https://open.spotify.com/artist/0uj0S7PeKD9mVamrqi6cRc"
+        }
+      ],
+      "duration_ms": 231243,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/00rV7NRdXgyBNPJTLgcuou"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Charlie (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 291536,
+      "name": "Charlie (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Chiss\u00e0",
+        "url": "https://open.spotify.com/album/1xywCoqMy6siRZbvThSeUA"
+      },
+      "artists": [
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        }
+      ],
+      "duration_ms": 179728,
+      "name": "Chiss\u00e0 (feat. Ditonellapiaga)",
+      "url": "https://open.spotify.com/track/7sy957mJPAMwoAjHhLVVuS"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Aquamarine",
+        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 162814,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
+      "album": {
+        "name": "Swallow My Tears",
+        "url": "https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Swallow My Tears",
+      "url": "https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93"
+    },
+    {
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Zenzero (con Colapesce)",
         "url": "https://open.spotify.com/album/5T80lWZk7nwZzFwrSSlRuT"
@@ -409,7 +629,7 @@
       "url": "https://open.spotify.com/track/0lK6Pn6aN9Ce1BCbNFAb7d"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Megapixel - URANO",
         "url": "https://open.spotify.com/album/4nvmZ5EqjvSBiurFRFOSOl"
@@ -425,7 +645,7 @@
       "url": "https://open.spotify.com/track/1lA9F7QGuekEPyZlPZbAo7"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Finta Nostalgia",
         "url": "https://open.spotify.com/album/3gK3RvsiYudYqt8s2YujEg"
@@ -441,7 +661,7 @@
       "url": "https://open.spotify.com/track/0HgYbQTaAgxC3M2JlBR2Rn"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "CALMOCOBRA",
         "url": "https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv"
@@ -457,7 +677,7 @@
       "url": "https://open.spotify.com/track/2jAGYlzYrkVJkp6xGMUIfL"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Per me \u00e8 ok (feat. Angelica)",
         "url": "https://open.spotify.com/album/2j55jiGOigGx65ikcY1tX2"
@@ -477,7 +697,7 @@
       "url": "https://open.spotify.com/track/3t1xFmZjn2a2klm4G9H5k7"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Non mi scorder\u00f2 mai",
         "url": "https://open.spotify.com/album/1yxkuzMamnrOFqDzYaF6ft"
@@ -493,7 +713,7 @@
       "url": "https://open.spotify.com/track/1DYiPoPpdw05UhF1XCKg7s"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "TUTTO SBAGLIATO",
         "url": "https://open.spotify.com/album/5lIw3K8KT6gMkpcrm4yZez"
@@ -509,7 +729,7 @@
       "url": "https://open.spotify.com/track/6pPkVfg3452NhPCMjc4XK0"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Heart Of A Woman",
         "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
@@ -525,7 +745,7 @@
       "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/6iEciEURpyky6O3yswFcRC"
@@ -541,7 +761,7 @@
       "url": "https://open.spotify.com/track/6Ls80JLIa598r1HcZmLsP0"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Take Me to the Beach (feat. Ernia)",
         "url": "https://open.spotify.com/album/4Qrq02nmWAb9o300fpCPtn"
@@ -561,7 +781,7 @@
       "url": "https://open.spotify.com/track/6jzhZu5eDsQLd1PY59aoxH"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "\u201c&\u201d (Ampersand)",
         "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
@@ -577,7 +797,7 @@
       "url": "https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "next to you",
         "url": "https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW"
@@ -593,7 +813,7 @@
       "url": "https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "(Isn\u2019t It) Obvious",
         "url": "https://open.spotify.com/album/6mDGrC2zC5bugpOTPwNedv"
@@ -609,7 +829,7 @@
       "url": "https://open.spotify.com/track/2WHpyoNdtUirfIv256JznP"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
         "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
@@ -629,23 +849,7 @@
       "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 245435,
-      "name": "Happy Mistake",
-      "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Pink Velvet Theatre",
         "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
@@ -661,7 +865,7 @@
       "url": "https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Another Life (Marcus & Martinus vs VIZE)",
         "url": "https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY"
@@ -681,7 +885,7 @@
       "url": "https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Holidays",
         "url": "https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2"
@@ -697,7 +901,7 @@
       "url": "https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "SEMPRE LA STESSA STORIA",
         "url": "https://open.spotify.com/album/6bwPjNrhhIQPKjZ7enMKSo"
@@ -713,7 +917,7 @@
       "url": "https://open.spotify.com/track/0LiFSV7rfijFu8O7JztShL"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "OCCHI TRISTI",
         "url": "https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc"
@@ -729,7 +933,7 @@
       "url": "https://open.spotify.com/track/4e2RfHOwvXuRjxiYSbQVOI"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Questa Felicit\u00e0",
         "url": "https://open.spotify.com/album/6IUeIUHAXzTIL5GXD2o6PX"
@@ -745,7 +949,7 @@
       "url": "https://open.spotify.com/track/2F5vE2e3CjLpk0C7B9gdss"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Diverse",
         "url": "https://open.spotify.com/album/4YqpT9hpcNmPigumqCgnme"
@@ -761,7 +965,7 @@
       "url": "https://open.spotify.com/track/2JwTbbeMSiohj0OHcJ4PVy"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "What Do You Believe In? (Deluxe)",
         "url": "https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM"
@@ -777,7 +981,7 @@
       "url": "https://open.spotify.com/track/09Hf7z5jE9el5zESPYVYCl"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "OFIUCO",
         "url": "https://open.spotify.com/album/1K4inLkkXbxqHDE8JIznCD"
@@ -793,7 +997,7 @@
       "url": "https://open.spotify.com/track/6uEWAOhBeu31oFNNCT31Ic"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -809,7 +1013,7 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Chiudi Gli Occhi",
         "url": "https://open.spotify.com/album/3vUswFnIJghC1rv8ICaeEi"
@@ -825,23 +1029,7 @@
       "url": "https://open.spotify.com/track/4weWv31OiUBR6AYOvHwul0"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Tacchi (fra le dita)",
-        "url": "https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD"
-      },
-      "artists": [
-        {
-          "name": "Sarah",
-          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "Tacchi (fra le dita)",
-      "url": "https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Ho paura di tutto",
         "url": "https://open.spotify.com/album/7JYkJb450rOu3HA4BJm0f8"
@@ -857,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2tEbPcXP2cKE4txG35XeYo"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Move (feat. Camila Cabello)",
         "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
@@ -893,7 +1081,7 @@
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Sulle ali del cavallo bianco",
         "url": "https://open.spotify.com/album/2jMIcCU1d6KXBUYfiKukBr"
@@ -909,7 +1097,7 @@
       "url": "https://open.spotify.com/track/2BSMVlbYqiCXOoGFNrQTnF"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Never Letting Go (feat. Julia Church)",
         "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
@@ -933,7 +1121,7 @@
       "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Flash",
         "url": "https://open.spotify.com/album/2h1DEw6FrDP5qdD4qvSXrP"
@@ -949,7 +1137,7 @@
       "url": "https://open.spotify.com/track/22PKUag5iBqKXkU5ca0rnj"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Tension II",
         "url": "https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs"
@@ -965,23 +1153,7 @@
       "url": "https://open.spotify.com/track/0qtp2Bplcb5To1fPnkgX7B"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Moon Music (Full Moon Edition)",
-        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Karate Kid",
-      "url": "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "No Me Cansare",
         "url": "https://open.spotify.com/album/2hAx6Exxe0kAI7aNmD7wSJ"
@@ -1001,7 +1173,7 @@
       "url": "https://open.spotify.com/track/6eDU6kAtlOLVEkVu4st1Bt"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
@@ -1021,23 +1193,7 @@
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "SOUVENIR (Extended Edition)",
-        "url": "https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9"
-      },
-      "artists": [
-        {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
-        }
-      ],
-      "duration_ms": 130521,
-      "name": "VITA LENTA",
-      "url": "https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb"
@@ -1053,7 +1209,7 @@
       "url": "https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Sorprendente",
         "url": "https://open.spotify.com/album/1oO2S8sc0hsaRHrZSdY0lq"
@@ -1069,7 +1225,7 @@
       "url": "https://open.spotify.com/track/1wv9Chm0IsQrIXX8ZF1wWJ"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Quanto sei bella",
         "url": "https://open.spotify.com/album/2oDuOvvpWNsqATFe1GotTO"
@@ -1085,7 +1241,7 @@
       "url": "https://open.spotify.com/track/1ZaiMVHCHHcKgBMbkLcqCY"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Love Somebody",
         "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
@@ -1101,7 +1257,7 @@
       "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Sweet Delusion",
         "url": "https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ"
@@ -1117,7 +1273,7 @@
       "url": "https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Piece of My Heart (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
@@ -1137,7 +1293,7 @@
       "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc"
@@ -1153,7 +1309,7 @@
       "url": "https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Radici Veloci",
         "url": "https://open.spotify.com/album/226n3hZunHa5vea0F1Lp7e"
@@ -1169,7 +1325,7 @@
       "url": "https://open.spotify.com/track/5k3OlIlJBeZ7mfbKGRTQYj"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3"
@@ -1185,7 +1341,7 @@
       "url": "https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "APEROL SPRITZ",
         "url": "https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv"
@@ -1201,23 +1357,7 @@
       "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Pretesto",
         "url": "https://open.spotify.com/album/6oq3HUb5x0miJq2uZTmEHL"
@@ -1233,7 +1373,7 @@
       "url": "https://open.spotify.com/track/1a9MrZQILdbmKOqUb51Zfs"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Vigliacco",
         "url": "https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS"
@@ -1249,31 +1389,7 @@
       "url": "https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Born To Love Ya",
-        "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Born To Love Ya",
-      "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "World Gone Wild (feat. Sam Martin)",
         "url": "https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt"
@@ -1297,59 +1413,7 @@
       "url": "https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Bodies Laughing",
-        "url": "https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 297866,
-      "name": "Bodies Laughing",
-      "url": "https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Dunya",
-        "url": "https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 154240,
-      "name": "I\u2019ll Go Anywhere",
-      "url": "https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Omega (feat. Ralphie Choo)",
         "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
@@ -1369,7 +1433,7 @@
       "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
@@ -1385,7 +1449,7 @@
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "The Freak Show",
         "url": "https://open.spotify.com/album/4O76YSMlGicdTD00XQSrxL"
@@ -1401,7 +1465,7 @@
       "url": "https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Formiche",
         "url": "https://open.spotify.com/album/6BEsWdHL2DUqVeSjswYf7U"
@@ -1417,7 +1481,7 @@
       "url": "https://open.spotify.com/track/4luGa0WDAf86wqyyWy2eM6"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
@@ -1433,7 +1497,7 @@
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "I Never Loved You",
         "url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl"
@@ -1449,7 +1513,7 @@
       "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "TYLA +",
         "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
@@ -1465,23 +1529,7 @@
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Stupid Dumb",
         "url": "https://open.spotify.com/album/0fJZgO2wJlvVXalnpdoc9i"
@@ -1501,27 +1549,7 @@
       "url": "https://open.spotify.com/track/6RFvRQfwSV5kvF9NodnZnb"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Tram 83",
-        "url": "https://open.spotify.com/album/6kbIMPJoFC0uONTg9IM5Cc"
-      },
-      "artists": [
-        {
-          "name": "Epoque",
-          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
-        },
-        {
-          "name": "Slings",
-          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
-        }
-      ],
-      "duration_ms": 155295,
-      "name": "Aquafina (feat. Slings)",
-      "url": "https://open.spotify.com/track/2aAf1HQ47GUwc2Jv8eeRXa"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/1Dp1BGSJPV8iIJJMyOFb5J"
@@ -1537,7 +1565,7 @@
       "url": "https://open.spotify.com/track/1CKHCNHKs6NT4Of7H8RZ0N"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "In The Living Room",
         "url": "https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ"
@@ -1553,55 +1581,7 @@
       "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "BELLISSIMO E POI NIENTE",
-        "url": "https://open.spotify.com/album/6l2EQR4IVh6yLeRfpvMoG6"
-      },
-      "artists": [
-        {
-          "name": "Angelica Bove",
-          "url": "https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8"
-        }
-      ],
-      "duration_ms": 151153,
-      "name": "BELLISSIMO E POI NIENTE",
-      "url": "https://open.spotify.com/track/7FxnWqvydxAYhgHcpmPdfm"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Poteva piovere",
-        "url": "https://open.spotify.com/album/1Yp5jcutprfBdOqqSoddV4"
-      },
-      "artists": [
-        {
-          "name": "Aaron",
-          "url": "https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0"
-        }
-      ],
-      "duration_ms": 196535,
-      "name": "Poteva piovere",
-      "url": "https://open.spotify.com/track/5V8uyik5T6uzBEuVfqsAPc"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Cupid's Bow",
-        "url": "https://open.spotify.com/album/1QsGUSZq8PgCkRlPswZSKZ"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 171367,
-      "name": "Cupid's Bow",
-      "url": "https://open.spotify.com/track/2TGZSBugyuUOHFjsXYBKkD"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "ENCUENTROS",
         "url": "https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw"
@@ -1617,7 +1597,7 @@
       "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Inhale / Exhale",
         "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
@@ -1633,23 +1613,7 @@
       "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Un Atto Di Rivoluzione",
-        "url": "https://open.spotify.com/album/7DdeujG4Vn0dfe0ygH42CH"
-      },
-      "artists": [
-        {
-          "name": "Diodato",
-          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "Un Atto Di Rivoluzione",
-      "url": "https://open.spotify.com/track/21oA66jA4nz8J80gFKmHYs"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Universo",
         "url": "https://open.spotify.com/album/1wfgCR78RQ9C6QqeD9CyvV"
@@ -1665,7 +1629,7 @@
       "url": "https://open.spotify.com/track/6VVG1DKQLTXIZ8r4eLyIRm"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Lotus Eater",
         "url": "https://open.spotify.com/album/494g1fkelfoloDvUuqdAED"
@@ -1681,7 +1645,7 @@
       "url": "https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8"
     },
     {
-      "added_at": "2024-10-24 23:01:00",
+      "added_at": "2024-10-31 23:01:00",
       "album": {
         "name": "Tram 83",
         "url": "https://open.spotify.com/album/3qltLSjCXhJuO4OWVFEqcd"
@@ -1695,26 +1659,6 @@
       "duration_ms": 143378,
       "name": "Tram 83",
       "url": "https://open.spotify.com/track/7CjcnGl6OypX57bxgnOAFr"
-    },
-    {
-      "added_at": "2024-10-24 23:01:00",
-      "album": {
-        "name": "Pasaporte",
-        "url": "https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Mr. Naisgai",
-          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
-        }
-      ],
-      "duration_ms": 266787,
-      "name": "Pasaporte",
-      "url": "https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi"
     }
   ],
   "unique_name": "Novit\u00e0 Pop",

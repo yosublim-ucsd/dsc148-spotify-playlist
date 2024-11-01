@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1oZr8mGoQg9aDF1BI1G9QV.md) - [plain]
 
 > Songs that are queer\. TO ME.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 21 songs - 1 hr 10 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 23 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,5 +29,7 @@ pretty - [cumulative](/playlists/cumulative/1oZr8mGoQg9aDF1BI1G9QV.md) - [plain]
 | 19 | [Girlfriend](https://open.spotify.com/track/7FtfsZcJjfBNdhD75bXqVL) | [Alden Derck](https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC) | [Yearbook](https://open.spotify.com/album/6jQWK1EdlgEbFWFxz6etwH) | 3:51 |
 | 20 | [Give 'Em Hell, Kid](https://open.spotify.com/track/0axF06XwNLobcx5z8BVtYw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:18 |
 | 21 | [To the End](https://open.spotify.com/track/1GErReAT0swX36x3O8GyQn) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:01 |
+| 22 | [Tell That Mick He Just Made My List of Things to Do Today](https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:30 |
+| 23 | [Mama](https://open.spotify.com/track/0Zh3tKIphLOvQux4dA6PFZ) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:39 |
 
-Snapshot ID: `AAAAGNjXNHcJjtPCYx2Zik6oE09jiVQc`
+Snapshot ID: `AAAAGlQxjdHJqgmQ705VlKYYmt3TDIwk`

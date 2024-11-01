@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 92571,
+  "num_followers": 92620,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Et Bam",
-        "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
       },
       "artists": [
         {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
         }
       ],
-      "duration_ms": 219241,
-      "name": "Et Bam",
-      "url": "https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz"
+      "duration_ms": 210093,
+      "name": "Couleur menthe \u00e0 l'eau",
+      "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
+        "name": "Et Bam",
+        "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
       },
       "artists": [
         {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
         }
       ],
-      "duration_ms": 210093,
-      "name": "Couleur menthe \u00e0 l'eau",
-      "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
+      "duration_ms": 219241,
+      "name": "Et Bam",
+      "url": "https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -599,26 +599,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Beau (feat. Julien Dor\u00e9) [Version acoustique]",
-        "url": "https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht"
-      },
-      "artists": [
-        {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
-        },
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "Beau (feat. Julien Dor\u00e9) - Version acoustique",
-      "url": "https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Ferrat chante Aragon, l'int\u00e9grale",
         "url": "https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 238746,
       "name": "Je ne veux qu'elle",
       "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Beau (feat. Julien Dor\u00e9) [Version acoustique]",
+        "url": "https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        },
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "Beau (feat. Julien Dor\u00e9) - Version acoustique",
+      "url": "https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU"
     },
     {
       "added_at": "2024-10-03 14:22:43",

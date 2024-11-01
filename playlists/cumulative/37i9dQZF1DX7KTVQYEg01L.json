@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 292400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
@@ -5044,6 +5044,28 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
+    },
+    {
+      "album": {
+        "name": "JV30 Tour, Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268364,
+      "name": "S\u00f3 Quem Ama - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
     },
     {
       "album": {

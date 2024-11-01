@@ -2,9 +2,9 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista ☠️ Kannessa The Rasmus.
+> Suomen suurin ja paras rock\-soittolista ☠️ Kannessa Metallica.
 
-114 songs - 7 hr 29 min
+116 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Don't you say I didn't warn you](https://open.spotify.com/track/6aKMgFfuDfGrTRZ8Mp2T2n) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Don't you say I didn't warn you](https://open.spotify.com/album/28wJZ8CEiYBeuLxXC74Hrg) | 3:12 | 2024-09-11 | 2024-10-25 |
 | [Dopamine](https://open.spotify.com/track/4rwcM7vIyNXIPP3gNE7Q0Q) | [Crashing Castles](https://open.spotify.com/artist/0nroJgHthRqDrGdfWivte6) | [Dopamine](https://open.spotify.com/album/7kgMscUKrc0QSOCEBXd22m) | 3:16 | 2024-10-03 |  |
 | [Elämältä kaiken saat I](https://open.spotify.com/track/1MkJwuI3ppInquv44QnBSd) | [LÄHIÖBOTOX](https://open.spotify.com/artist/2DQUFoAlTM6TbSOabVRumg), [ROSLUV](https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN) | [Elämältä kaiken saat I](https://open.spotify.com/album/57mWYXGNYoJEV7UTfJwNuN) | 2:37 | 2024-10-03 |  |
+| [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 | 2024-10-31 |  |
 | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm) | 3:28 | 2024-09-12 |  |
 | [Fading Like A Flower](https://open.spotify.com/track/4xK9z7D3vuGsnywy7vqUvL) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Fading Like A Flower](https://open.spotify.com/album/6DLoD9w8S2Wn0PO3vhGCvY) | 2:54 | 2024-10-17 |  |
 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO) | 7:18 | 2024-09-11 |  |
@@ -51,6 +52,7 @@
 | [Hearts Burst into Fire](https://open.spotify.com/track/6DsILuMLGYN6QqPXlhGHWo) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/2mGohCvbL3klQgXyTj7uNB) | 4:57 | 2024-09-11 | 2024-09-13 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 |  |
 | [Heroes](https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Heroes](https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN) | 3:45 | 2024-09-11 |  |
+| [Hurricane](https://open.spotify.com/track/5dGBQrUKyOtCBEuLBtIbve) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hurricane](https://open.spotify.com/album/6lBLUITFrP3wWcHKVM5FG4) | 3:28 | 2024-10-31 |  |
 | [Hurry Hurry](https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Hurry Hurry](https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9) | 3:04 | 2024-09-11 | 2024-10-04 |
 | [I Left My License in the Future](https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [I Left My License in the Future](https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT) | 3:32 | 2024-09-11 | 2024-09-20 |
 | [I'll Give You Hell](https://open.spotify.com/track/5AFm4hEnZAdCpGWwcvVOKz) | [Arctis](https://open.spotify.com/artist/28NEaGWW9MKwryzTsFX8ko) | [I'll Give You Hell](https://open.spotify.com/album/07gD3jqtgnnxtm4Y1z1Vsr) | 3:39 | 2024-09-11 | 2024-09-27 |
@@ -93,7 +95,7 @@
 | [Sinä 2.0](https://open.spotify.com/track/5D3lENK3mXnB9vkXgVGFYS) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Reset](https://open.spotify.com/album/4jI2TKGEjUjjnLjlpGYie6) | 3:09 | 2024-10-24 |  |
 | [slay ur enemies](https://open.spotify.com/track/7aGGAZBZgdSRt49j7m38Zk) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [slay ur enemies](https://open.spotify.com/album/4Y7XARCKI2aX8ND7mKpwX3) | 2:48 | 2024-10-03 |  |
 | [Sleeping My Day Away](https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Good Clean Family Entertainment You Can Trust](https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R) | 4:23 | 2024-09-11 |  |
-| [So Close](https://open.spotify.com/track/0IdFYp4PNFYgqzfjEeLzQf) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [So Close](https://open.spotify.com/album/6iJtmPEAjtOQoNBhGblWk0) | 3:46 | 2024-09-11 |  |
+| [So Close](https://open.spotify.com/track/0IdFYp4PNFYgqzfjEeLzQf) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [So Close](https://open.spotify.com/album/6iJtmPEAjtOQoNBhGblWk0) | 3:46 | 2024-09-11 | 2024-11-01 |
 | [Sonic Reducer](https://open.spotify.com/track/5Ti61v9eUvFwHeGmq0beWn) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b), [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Sonic Reducer](https://open.spotify.com/album/2WLWueTzZTQ7SDcpuC2GPT) | 3:05 | 2024-09-26 |  |
 | [Speed of Darkness](https://open.spotify.com/track/1AMyBmX7JwpBldnMbBcPUR) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Speed of Darkness](https://open.spotify.com/album/69XGchdZikgzpYsLLv6XkG) | 4:09 | 2024-10-03 | 2024-10-25 |
 | [Starlings](https://open.spotify.com/track/2CaIiGzVCTmvD6iljwBAzu) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [Starlings](https://open.spotify.com/album/7uM3uGyL7gQG9nQ0Plf2TL) | 3:12 | 2024-09-11 | 2024-09-20 |
@@ -116,7 +118,7 @@
 | [What Do I Got To Lose?](https://open.spotify.com/track/7HeDgIOQpnJuOaKJsIMI31) | [Sebastian Bach](https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV) | [What Do I Got To Lose?](https://open.spotify.com/album/2TLNf2GCQLk0gjqfMcHT9f) | 4:48 | 2024-09-11 |  |
 | [What I Have Become](https://open.spotify.com/track/11BSRsy1sAYhtzOCpvBGxj) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [What I Have Become](https://open.spotify.com/album/4aLY17EugVDeUkvUqLrTd7) | 4:06 | 2024-09-11 | 2024-09-20 |
 | [When Silence Speaks](https://open.spotify.com/track/2sywQzYGL6DLiechoyU5M3) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [Nordic Gothic](https://open.spotify.com/album/0aaQ7FvuCcAumX3w8PXCQN) | 5:19 | 2024-10-10 |  |
-| [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 | 2024-09-11 |  |
+| [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 | 2024-09-11 | 2024-11-01 |
 | [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 |  |
 | [Wings Of Twilight \(feat\. Melissa Bonny\)](https://open.spotify.com/track/0QbaBnjzFD03RergddLUa9) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Wings Of Twilight \(feat\. Melissa Bonny\)](https://open.spotify.com/album/28Qw38KEEIzBwjfA3FHfd7) | 4:30 | 2024-09-11 | 2024-09-13 |
 | [Ympyrä sulkeutuu](https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Myrsky](https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1) | 3:30 | 2024-09-11 |  |

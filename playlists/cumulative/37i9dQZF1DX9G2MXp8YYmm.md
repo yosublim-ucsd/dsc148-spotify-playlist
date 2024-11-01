@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: İkilem
 
-150 songs - 7 hr 24 min
+151 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Dayanamam](https://open.spotify.com/track/3POxcfIStVIT4mU4IZldO6) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Dayanamam](https://open.spotify.com/album/73bU2e31seQS19wOtTcv96) | 2:20 | 2024-06-27 | 2024-07-09 |
 | [Dedi Doktorum](https://open.spotify.com/track/7GV3ugDCiKfqBp7aV7MYvW) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Dedi Doktorum](https://open.spotify.com/album/7s6rCp5g4x9ZaeGmqgyexR) | 3:25 | 2024-06-27 | 2024-07-12 |
 | [Defoluyorum](https://open.spotify.com/track/7EDxgVcaD1RaIygbWlW6or) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Defoluyorum](https://open.spotify.com/album/5dRa7IoW7J5AOlF91Jd1ob) | 2:43 | 2024-08-22 | 2024-09-17 |
-| [Defterli](https://open.spotify.com/track/0t7SfyrCjUzh8A7gRZ6gaK) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Defterli](https://open.spotify.com/album/0ukCUTo9LZNu6avurHhlRz) | 3:56 | 2024-06-27 |  |
+| [Defterli](https://open.spotify.com/track/0t7SfyrCjUzh8A7gRZ6gaK) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Defterli](https://open.spotify.com/album/0ukCUTo9LZNu6avurHhlRz) | 3:56 | 2024-06-27 | 2024-11-01 |
 | [Deli Gibi Seviyorum](https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Deli Gibi Seviyorum](https://open.spotify.com/album/4essjMvGbfxJXi6U4WyS6r) | 2:12 | 2024-10-24 |  |
 | [Delil](https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Delil](https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH) | 2:22 | 2024-06-27 | 2024-08-05 |
 | [Denizler Derya](https://open.spotify.com/track/0QfeYJR33agZbEk1IKaaKk) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Denizler Derya](https://open.spotify.com/album/2GkdmyUO37FrB3ia4XAbVX) | 4:10 | 2024-08-08 | 2024-08-23 |
@@ -123,6 +123,7 @@
 | [sga](https://open.spotify.com/track/3wxylsVa0oe4zNmWiD5xFt) | [Berrin Keklikler](https://open.spotify.com/artist/64Cq76lbrG6XZOZPo5Giwl) | [sga](https://open.spotify.com/album/4uLmsJzWa3hzkWJCZN6rMY) | 2:23 | 2024-06-27 |  |
 | [Sonbahar](https://open.spotify.com/track/7G2I1NgAdOFGVM2e6x2P15) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Sonbahar](https://open.spotify.com/album/1SBVjvWr5bVfEAokA9TrLs) | 3:55 | 2024-07-25 |  |
 | [Tavan](https://open.spotify.com/track/5sv3lmlUBl6A8A7W9H3ZEg) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Tavan](https://open.spotify.com/album/4n9WkOP2pL03tFdRCgidvb) | 3:43 | 2024-08-22 | 2024-08-27 |
+| [Teselli](https://open.spotify.com/track/5k43UsKtxkZNaHHBnqNk1R) | [Cem Yenel](https://open.spotify.com/artist/1DjFVFew6nQ21YObywl92Z) | [Teselli](https://open.spotify.com/album/6z6X2q7CXRAm3YAj44oLHf) | 3:06 | 2024-10-24 |  |
 | [Tiryakinim](https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Tiryakinim](https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl) | 3:19 | 2024-06-27 | 2024-07-27 |
 | [Tükeniyor Ömrüm](https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Kara Konular](https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX) | 4:00 | 2024-06-27 |  |
 | [Uslanmaz](https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Uslanmaz](https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ) | 2:25 | 2024-08-01 |  |

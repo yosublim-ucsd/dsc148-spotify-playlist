@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172 likes - 363 songs - 17 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 172 likes - 364 songs - 17 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -371,5 +371,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 361 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 | 362 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 | 363 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
+| 364 | [Minha Boca No Lixo \- Ao Vivo](https://open.spotify.com/track/0jqx3kJed5MyyYS9RUYNmv) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo\)](https://open.spotify.com/album/6YhHHvEn2a7qlJ30iTdxFM) | 2:44 |
 
-Snapshot ID: `AbgNKgAAAAB5xwPBtQUNOc4IxgFz5Gfh`
+Snapshot ID: `AbgSSAAAAADxA0/NDM1ftfzX1jyOvqnC`

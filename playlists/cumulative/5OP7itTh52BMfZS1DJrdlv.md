@@ -4,7 +4,7 @@
 
 > Celebrate the holiday season with 100 of the biggest Christmas songs in 2024 and beyond! Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul! 🎁 🎄
 
-115 songs - 6 hr 2 min
+116 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/0ZQhYjMmEYmHIgo2rIDJLo) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:15 | 2023-12-09 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/0zOyefWJokSoOW8Y8eI3co) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:30 | 2023-12-19 |  |
 | [Wonderful Christmastime \[Edited Version\] \- Remastered 2011 / Edited Version](https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v) | 3:47 | 2023-12-09 | 2023-12-20 |
-| [You Make It Feel Like Christmas](https://open.spotify.com/track/1S898RKtAsU7ecZ8ODXtb5) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:30 | 2023-12-09 |  |
+| [You Make It Feel Like Christmas](https://open.spotify.com/track/1S898RKtAsU7ecZ8ODXtb5) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:30 | 2023-12-09 | 2024-11-01 |
+| [You’re Christmas To Me](https://open.spotify.com/track/0T42lRpdYKQBUoY2HpB8l5) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [You’re Christmas To Me \(From ''Your Christmas or Mine 2''\)](https://open.spotify.com/album/6oR1PfhkYOXPWcUoPBVFqV) | 3:33 | 2024-10-31 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

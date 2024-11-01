@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-420 songs - 1 day 16 hr 0 min
+421 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Able](https://open.spotify.com/track/4NDtKpWb0IpALyrOdZAeWW) | [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Able](https://open.spotify.com/album/6KqJjlg8GqLgZwuME7CbR4) | 3:36 | 2022-06-30 | 2022-10-04 |
 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 | 2022-06-30 | 2023-09-01 |
 | [Adonai](https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Adonai](https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D) | 4:09 | 2023-06-16 | 2024-06-14 |
+| [Adoration Song](https://open.spotify.com/track/3vQjVnBVCwpiJg6mwNMwGT) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Adoration Song \(Radio Edit\)](https://open.spotify.com/album/014LujBDnTwzCxIgyIZ6nV) | 4:27 | 2024-11-01 |  |
 | [Adore You](https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Adore You](https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK) | 2:46 | 2024-03-08 | 2024-04-05 |
 | [Adura](https://open.spotify.com/track/3mpeIYgtnY2QrjJp0s3G4D) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Adura](https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B) | 8:01 | 2023-04-07 | 2023-12-22 |
 | [Adura](https://open.spotify.com/track/5SOPZYCcIa4eaOJvGM4bQs) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Adura](https://open.spotify.com/album/2tKSDcB912OB8pXwN6doCz) | 8:01 | 2024-02-16 | 2024-04-12 |
@@ -345,7 +346,7 @@
 | [Tatafo](https://open.spotify.com/track/2FbHSnjLmSF77Uy5IkHjnf) | [Fega Michaels](https://open.spotify.com/artist/1uWU1q5sI8SbB0R56zTj6I) | [Tatafo](https://open.spotify.com/album/2Acy9jIYYJRVUkHc1M18jK) | 2:35 | 2022-06-30 | 2022-11-13 |
 | [Testament Of Love](https://open.spotify.com/track/4ga9sUfM8hJ0b6aHfVljWM) | [Ugee Royalty](https://open.spotify.com/artist/1upKp4bI2MbgvvfVXTxakF), [IB Quake](https://open.spotify.com/artist/3edmIv595B5AhTGrCz8rp1) | [Testament Of Love](https://open.spotify.com/album/0QCfPru2abuezlxu4JlkRN) | 6:10 | 2023-12-05 | 2023-12-10 |
 | [Testify](https://open.spotify.com/track/469a5ribFps5STVVzbnL3l) | [Chevelle Franklyn](https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc) | [Testify](https://open.spotify.com/album/4ZcjusmpmGHpqVb00Eks6I) | 4:31 | 2022-09-01 | 2023-02-04 |
-| [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 | 2024-10-18 |  |
+| [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 | 2024-10-18 | 2024-11-01 |
 | [Thandwa Ndim](https://open.spotify.com/track/55xuM0wTpunSG8BNtWPTuP) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU), [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX) | [Thandwa Ndim](https://open.spotify.com/album/06bVQgyIrwyPBaCmuwwrqH) | 4:31 | 2023-11-10 | 2024-01-07 |
 | [Thank You](https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe) | [Kobby Mantey](https://open.spotify.com/artist/6EU94Iocwwem69yRk6DuOc), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Thank You](https://open.spotify.com/album/3FicrFn5np6XgUfj0GEXD6) | 5:16 | 2022-06-30 | 2023-03-27 |
 | [That's My King](https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA) | 4:10 | 2024-02-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Blaqbonez
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,377 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,426 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 45 | [Daily Bread](https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [King](https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi) | 2:55 |
 | 46 | [DSC](https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [DSC](https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r) | 2:36 |
 | 47 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
-| 48 | [Brothers](https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Brothers](https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk) | 2:24 |
-| 49 | [O.U.A.T](https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [O.U.A.T](https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b) | 2:21 |
+| 48 | [O.U.A.T](https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [O.U.A.T](https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b) | 2:21 |
+| 49 | [Brothers](https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Brothers](https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk) | 2:24 |
 | 50 | [DREAMS II](https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [DREAMS II](https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo) | 3:57 |
 | 51 | [Oppress](https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Oppress](https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4) | 3:42 |
 | 52 | [1999](https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 2:42 |

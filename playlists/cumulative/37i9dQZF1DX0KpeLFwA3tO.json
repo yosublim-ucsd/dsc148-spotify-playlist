@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Amyl and The Sniffers",
+  "description": "The best new music from the wide world of punk. Cover: Pinkshift",
   "name": "All New Punk",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 143237,
       "name": "1000 peaceful ways to die",
       "url": "https://open.spotify.com/track/6ztt0XsZe5yGV7Cmo7gXtB"
+    },
+    {
+      "album": {
+        "name": "15 Gramos",
+        "url": "https://open.spotify.com/album/7uA3Pl5TCUKiCpTaO6ZYXG"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149999,
+      "name": "15 Gramos",
+      "url": "https://open.spotify.com/track/158fs2nrDmdCVoxEIjT8pq"
     },
     {
       "album": {
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 168605,
       "name": "Army",
       "url": "https://open.spotify.com/track/2iDHXVlRmTG5Yuo2Z6yYDT"
@@ -7102,7 +7120,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 181662,
       "name": "Cocaine Sunday",
       "url": "https://open.spotify.com/track/7El4JIUBD9tTihWjlFIKGo"
@@ -9892,7 +9910,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 193933,
       "name": "DOG HOUSE",
       "url": "https://open.spotify.com/track/1lqhub0atP7FkT5JA2NFkP"
@@ -10464,6 +10482,24 @@
       "duration_ms": 196688,
       "name": "Dreams Aren't Enough",
       "url": "https://open.spotify.com/track/31cbWUY16syoEfOTz4g0dg"
+    },
+    {
+      "album": {
+        "name": "A Brand New Day",
+        "url": "https://open.spotify.com/album/31tiaX3nRuGy9GxFb0gDPc"
+      },
+      "artists": [
+        {
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207718,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/4SzwZsoMxuuVMX2rsd10zr"
     },
     {
       "album": {
@@ -16671,6 +16707,24 @@
     },
     {
       "album": {
+        "name": "I Loved Everyone",
+        "url": "https://open.spotify.com/album/2y7FWBC8Do9YGRlfiYxq85"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320016,
+      "name": "I Loved Everyone",
+      "url": "https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu"
+    },
+    {
+      "album": {
         "name": "I Might Even",
         "url": "https://open.spotify.com/album/5YfS377Mtgsb8iLedQ8d9q"
       },
@@ -17850,7 +17904,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 234653,
       "name": "Is It Better?",
       "url": "https://open.spotify.com/track/435lBHmsgFWTNLZm1Pd9Qz"
@@ -24283,6 +24337,24 @@
     },
     {
       "album": {
+        "name": "Little Rope (Deluxe)",
+        "url": "https://open.spotify.com/album/7nl1otUQAOgHPGe26lt4AE"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216454,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/3cKzR9JsCTJX2kef36ufd4"
+    },
+    {
+      "album": {
         "name": "Nothing Would Change",
         "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
       },
@@ -24887,6 +24959,24 @@
     },
     {
       "album": {
+        "name": "ONE NATION",
+        "url": "https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "ONE NATION",
+      "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
+    },
+    {
+      "album": {
         "name": "RAT TRAP 1: the blueprint",
         "url": "https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r"
       },
@@ -25078,7 +25168,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 32741,
       "name": "Or So I Thought",
       "url": "https://open.spotify.com/track/0YfYMCgnraTxOXl8QLe2WJ"
@@ -25976,7 +26066,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 163418,
       "name": "PET WITH THE TISM",
       "url": "https://open.spotify.com/track/5GE7wioPyLqTYSTl8VhO1a"
@@ -27398,7 +27488,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 143466,
       "name": "RazorBlade Blues",
       "url": "https://open.spotify.com/track/0u1MmSq9ZjRQZ6KDsXkj2R"
@@ -27774,6 +27864,24 @@
       "duration_ms": 103846,
       "name": "relax and float downstream",
       "url": "https://open.spotify.com/track/4yk8K9Mkjxxwv16sjzEGfs"
+    },
+    {
+      "album": {
+        "name": "Relay",
+        "url": "https://open.spotify.com/album/7JncfaUqSBjKb7c15yy37J"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f5\u00f5per",
+          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144026,
+      "name": "Relay",
+      "url": "https://open.spotify.com/track/0ljPTtEY5jTIZ9g7FwJQpQ"
     },
     {
       "album": {
@@ -30211,6 +30319,24 @@
     },
     {
       "album": {
+        "name": "GROWING UP ON THE INTERNET (DELUXE)",
+        "url": "https://open.spotify.com/album/51Ki3I3yCBQQFfWIMf3YSs"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153769,
+      "name": "SICK OF BEING NICE",
+      "url": "https://open.spotify.com/track/2uWEmAa7QttqIaWzk3oQEe"
+    },
+    {
+      "album": {
         "name": "Sickner",
         "url": "https://open.spotify.com/album/5rCLlOHAnmyCqG6BvhrRdL"
       },
@@ -30832,6 +30958,24 @@
       "duration_ms": 130369,
       "name": "SNAKE EYES",
       "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
+    },
+    {
+      "album": {
+        "name": "Snare",
+        "url": "https://open.spotify.com/album/1ASTo576GNogZOuoifIC1Y"
+      },
+      "artists": [
+        {
+          "name": "Mhaol",
+          "url": "https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209245,
+      "name": "Snare",
+      "url": "https://open.spotify.com/track/1cT3ZimACp8A7ktm08tZS3"
     },
     {
       "album": {
@@ -32593,6 +32737,24 @@
     },
     {
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/00K0NjjQMnHH0pbNB6a31a"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "Supercollider",
+      "url": "https://open.spotify.com/track/2MFdVzNvUHTmrORjmBnycc"
+    },
+    {
+      "album": {
         "name": "Superglue",
         "url": "https://open.spotify.com/album/5fbVszRubV0AXX4k1tKP4b"
       },
@@ -32986,7 +33148,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 219389,
       "name": "TAKE ME IN",
       "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
@@ -35836,7 +35998,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 295015,
       "name": "Trans Youth",
       "url": "https://open.spotify.com/track/0lzq9WLqSlKMoGHRXUlDoC"

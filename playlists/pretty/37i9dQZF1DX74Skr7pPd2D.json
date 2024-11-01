@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 44980,
+  "num_followers": 44987,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Empathy",
+        "url": "https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Shelly Manne",
+          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "Let's Go Back To The Waltz",
+      "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "April In Paris: The Genius Of Charlie Parker #2",
         "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 484293,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Empathy",
-        "url": "https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Shelly Manne",
-          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
-        }
-      ],
-      "duration_ms": 270666,
-      "name": "Let's Go Back To The Waltz",
-      "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -945,6 +945,22 @@
       "url": "https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Samba Para Dos",
@@ -967,22 +983,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "An Image: Lee Konitz With Strings",
-        "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 319666,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Giblet Gravy (Expanded Edition)",
         "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 332733,
       "name": "What's New?",
       "url": "https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "An Image: Lee Konitz With Strings",
+        "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 319666,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1031,22 +1047,6 @@
       "duration_ms": 439866,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2019-10-02 08:54:10",

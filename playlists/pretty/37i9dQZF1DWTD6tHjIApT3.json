@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u52a0\u85e4\u30df\u30ea\u30e4\u00d7\u690e\u540d\u6797\u6a8e",
-  "num_followers": 113972,
+  "num_followers": 113973,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
-        "url": "https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 218580,
-      "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
-      "url": "https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "more than words",
         "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 289720,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 218580,
+      "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "I want tomorrow to come",
-        "url": "https://open.spotify.com/album/3Dp5ilZ9iLzcWX0aWm0wAJ"
-      },
-      "artists": [
-        {
-          "name": "\u6afb\u574246",
-          "url": "https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto"
-        }
-      ],
-      "duration_ms": 253314,
-      "name": "I want tomorrow to come",
-      "url": "https://open.spotify.com/track/0V1dCs8UaoRLpGd6TTuZ4w"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
         "url": "https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 180233,
       "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
       "url": "https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "I want tomorrow to come",
+        "url": "https://open.spotify.com/album/3Dp5ilZ9iLzcWX0aWm0wAJ"
+      },
+      "artists": [
+        {
+          "name": "\u6afb\u574246",
+          "url": "https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto"
+        }
+      ],
+      "duration_ms": 253314,
+      "name": "I want tomorrow to come",
+      "url": "https://open.spotify.com/track/0V1dCs8UaoRLpGd6TTuZ4w"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
+        "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
+        "url": "https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "duration_ms": 241630,
+      "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
+      "url": "https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
         "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
         "url": "https://open.spotify.com/album/4U0oaI17bgvkJZx0PbZqQb"
       },
@@ -1107,6 +1123,22 @@
       "duration_ms": 206425,
       "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
       "url": "https://open.spotify.com/track/6CwNlxgkEu4F9cyXW34PFf"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "\u865a\u4eee\u306e\u4e00\u5ff5\u6d77\u99ac\u306b\u8a17\u3059",
+        "url": "https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "\u30af\u30ba\u30ea\u5ff5",
+      "url": "https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1139,38 +1171,6 @@
       "duration_ms": 163466,
       "name": "Baby you",
       "url": "https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
-        "name": "\u865a\u4eee\u306e\u4e00\u5ff5\u6d77\u99ac\u306b\u8a17\u3059",
-        "url": "https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "\u30af\u30ba\u30ea\u5ff5",
-      "url": "https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
-        "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
-        "url": "https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2"
-      },
-      "artists": [
-        {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
-        }
-      ],
-      "duration_ms": 241630,
-      "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
-      "url": "https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1223,50 +1223,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u547d\u65e5",
-        "url": "https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui"
+        "name": "season of you",
+        "url": "https://open.spotify.com/album/6EnyuIfo8bt0i7WnzoY4ro"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
         }
       ],
-      "duration_ms": 201691,
-      "name": "\u547d\u65e5",
-      "url": "https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
-        "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
-        "url": "https://open.spotify.com/album/7jtMWkpwjDlUJPlcJib23P"
-      },
-      "artists": [
-        {
-          "name": "9Lana",
-          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
-      "url": "https://open.spotify.com/track/1qODHv6fuFFDtozc05hoN6"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 203700,
-      "name": "Super Ball",
-      "url": "https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo"
+      "duration_ms": 210421,
+      "name": "season of you",
+      "url": "https://open.spotify.com/track/20HLR6jrdHeRIiRI89J812"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1303,18 +1271,50 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "season of you",
-        "url": "https://open.spotify.com/album/6EnyuIfo8bt0i7WnzoY4ro"
+        "name": "\u547d\u65e5",
+        "url": "https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui"
       },
       "artists": [
         {
-          "name": "shimamo",
-          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 210421,
-      "name": "season of you",
-      "url": "https://open.spotify.com/track/20HLR6jrdHeRIiRI89J812"
+      "duration_ms": 201691,
+      "name": "\u547d\u65e5",
+      "url": "https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 203700,
+      "name": "Super Ball",
+      "url": "https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/7jtMWkpwjDlUJPlcJib23P"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/1qODHv6fuFFDtozc05hoN6"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
+        "name": "\u3054\u3081\u3093\u306d",
+        "url": "https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj"
+      },
+      "artists": [
+        {
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "\u3054\u3081\u3093\u306d",
+      "url": "https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
         "name": "\u6708\u5149\u6d74",
         "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
       },
@@ -1399,38 +1415,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u3054\u3081\u3093\u306d",
-        "url": "https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj"
-      },
-      "artists": [
-        {
-          "name": "AYANE",
-          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "\u3054\u3081\u3093\u306d",
-      "url": "https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
-        "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
-        "url": "https://open.spotify.com/album/6zOqqKnGbkgGl4xuiogr59"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 278360,
-      "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
-      "url": "https://open.spotify.com/track/6MBQNIHgRaxIuStAZqSeqO"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "LONELY",
         "url": "https://open.spotify.com/album/6V5Kq4L9VMG3zhBO0FmtcZ"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
+        "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
+        "url": "https://open.spotify.com/album/6zOqqKnGbkgGl4xuiogr59"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 278360,
+      "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
+      "url": "https://open.spotify.com/track/6MBQNIHgRaxIuStAZqSeqO"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
         "name": "Ashes",
         "url": "https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 200366,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "HATE ME",
+        "url": "https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "HATE ME",
+      "url": "https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "HATE ME",
-        "url": "https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "HATE ME",
-      "url": "https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "\u604b\u6ce5\u68d2\u3002",
         "url": "https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u5148\u8f29",
-        "url": "https://open.spotify.com/album/00WH277LOlgulDE2dA4xoA"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 201710,
-      "name": "\u5148\u8f29",
-      "url": "https://open.spotify.com/track/6gLRCBorathPRQIRqC2Ia3"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "Server Down",
         "url": "https://open.spotify.com/album/6XnczifFK6aqhY3fxcNleq"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 141633,
       "name": "Server Down",
       "url": "https://open.spotify.com/track/4Wr6BagMS3ZYgRkRhwOOsN"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "\u5148\u8f29",
+        "url": "https://open.spotify.com/album/00WH277LOlgulDE2dA4xoA"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 201710,
+      "name": "\u5148\u8f29",
+      "url": "https://open.spotify.com/track/6gLRCBorathPRQIRqC2Ia3"
     },
     {
       "added_at": "2024-10-22 15:00:00",

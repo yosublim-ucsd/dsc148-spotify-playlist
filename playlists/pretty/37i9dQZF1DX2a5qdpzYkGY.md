@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,425 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,429 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 56 | [All the Way Round \- Photay Remix](https://open.spotify.com/track/1PKUVKUDXmeT8uu4Rb3f9b) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [All the Way Round \(Photay Remix\)](https://open.spotify.com/album/5O0UsXMCeUEhdWcYv6N6wl) | 4:56 |
 | 57 | [Wandering II \- Ed Carlsen Rework](https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Wandering II \(Ed Carlsen Rework\)](https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga) | 3:10 |
 | 58 | [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 |
-| 59 | [Lightless Room](https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu) | [Lucas Carlson](https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7) | [Lightless Room](https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc) | 4:59 |
-| 60 | [Passing Lights \- Cinematic Version](https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr) | [Douran](https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ) | [Reflections 02](https://open.spotify.com/album/33CSkPGUlGsQ6a4pBFfRL2) | 2:36 |
+| 59 | [Passing Lights \- Cinematic Version](https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr) | [Douran](https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ) | [Reflections 02](https://open.spotify.com/album/33CSkPGUlGsQ6a4pBFfRL2) | 2:36 |
+| 60 | [Lightless Room](https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu) | [Lucas Carlson](https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7) | [Lightless Room](https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc) | 4:59 |
 | 61 | [Castlefields](https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov) | [Tara Clerkin](https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6), [Sunny Joe Paradisos](https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI) | [Castlefields](https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh) | 8:14 |
 | 62 | [Night looping \- Movement I](https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Le jour et la nuit du réel](https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3) | 2:11 |
 | 63 | [Stuck T](https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI) | [Sharko](https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5) | [Sharko III](https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8) | 1:16 |
 | 64 | [Solitude \- Theme](https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Tony Takitani](https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2) | 4:05 |
 | 65 | [El Momento](https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [El Momento](https://open.spotify.com/album/2Qx4zobEOV9BRW3wL1IbRI) | 3:19 |
-| 66 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 |
-| 67 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
+| 66 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
+| 67 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 |
 | 68 | [Áss hinn hvíti \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Steindór Andersen](https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg) | [Odin's Raven Magic \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/album/1Eaq9sameAA3etJDxMEJJ6) | 5:09 |
 | 69 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 |
 | 70 | [Spiral Era](https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [Pyramid](https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B) | 8:08 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 72 | [Jinja Encounters](https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:54 |
 | 73 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 |
 | 74 | [Mira](https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS) | [Eternell](https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9) | [Mira](https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC) | 18:08 |
-| 75 | [THE PERFUMED GARDEN](https://open.spotify.com/track/4gCkomA8CVHrVzSXqDjDfI) | [Celestial](https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk) | [I Had Too Much to Dream Last Night](https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ) | 7:36 |
+| 75 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 |
 
 Snapshot ID: `Zxq0JgAAAADel+ielK14Jw61jTlbLMhh`

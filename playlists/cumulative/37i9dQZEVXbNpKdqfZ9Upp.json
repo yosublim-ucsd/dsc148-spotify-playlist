@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 174500,
       "name": "5-7",
       "url": "https://open.spotify.com/track/3IEvQ1CzszUJtTRLmmMJ2X"
@@ -2428,7 +2428,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 150024,
       "name": "Amigos Y Enemigos Almighty",
       "url": "https://open.spotify.com/track/3RpbyzSdjlKeEEnVbzhCRE"
@@ -13350,7 +13350,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 152022,
       "name": "EL \u00daNICO",
       "url": "https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7"
@@ -19094,7 +19094,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 204165,
       "name": "I Love You, I'm Sorry - Live From Vevo",
       "url": "https://open.spotify.com/track/6Ova4U0AcZrDqTaP0BWDjg"
@@ -22478,7 +22478,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 244000,
       "name": "Las Piponas (Remix)",
       "url": "https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6"
@@ -30261,6 +30261,24 @@
     },
     {
       "album": {
+        "name": "noviogangsta <3",
+        "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157209,
+      "name": "noviogangsta <3",
+      "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
+    },
+    {
+      "album": {
         "name": "The Beatles 1967 \u2013 1970 (2023 Edition)",
         "url": "https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP"
       },
@@ -36204,7 +36222,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -46510,7 +46528,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

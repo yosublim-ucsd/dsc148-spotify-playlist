@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Jaylen Brown takes over Locked In\. See what the NBA Finals MVP listens to to get in the zone before a big game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,499,566 likes - 61 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,499,852 likes - 61 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

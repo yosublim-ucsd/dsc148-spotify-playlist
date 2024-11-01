@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21731,
+  "num_followers": 21733,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAABW2Pk9Uu6S7tKnat+ioLOR",
+  "snapshot_id": "ZyF3AAAAAADMxWxePVCkxFANCFIqi0NF",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos de Caju, Vol. 1",
-        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 203350,
-      "name": "Rid\u00edculo",
-      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quando Voc\u00ea Voltar",
         "url": "https://open.spotify.com/album/6qQeBVXwmoX8ngGvxT2v3K"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 270181,
       "name": "Quando Voc\u00ea Voltar",
       "url": "https://open.spotify.com/track/3koekiyh2nzzzbRm7s4uUo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Anos de Caju, Vol. 1",
+        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 203350,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
     },
     {
       "added_at": null,
@@ -507,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frio e Vento",
+        "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Melhor N\u00e3o",
+      "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Pe\u00e7o Pra Ficar",
         "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/4O70zH7vpNWNZCYtyRkuoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Melhor N\u00e3o",
-        "url": "https://open.spotify.com/album/0lNGz4DvFXRX4K7odKRHXv"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Melhor N\u00e3o",
-      "url": "https://open.spotify.com/track/4FGyApAamtRBN8h3iWdioK"
     },
     {
       "added_at": null,
@@ -1279,6 +1279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Mundo Parou",
+        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 223354,
+      "name": "O Mundo Parou",
+      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 173553,
       "name": "Tudo Vai Mudar",
       "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Mundo Parou",
-        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 223354,
-      "name": "O Mundo Parou",
-      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
     },
     {
       "added_at": null,
@@ -1359,8 +1359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/0Dq73RiJuh4EF4GRIYgLO2"
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
       "artists": [
         {
@@ -1368,17 +1368,17 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 181800,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/3EaEZXAL1JIuV69lig1o96"
+      "duration_ms": 209361,
+      "name": "N\u00e3o d\u00e1 mais",
+      "url": "https://open.spotify.com/track/1n05Rid1kkMfxdGLvcZmMw"
     }
   ],
   "unique_name": "This Is Lourena",

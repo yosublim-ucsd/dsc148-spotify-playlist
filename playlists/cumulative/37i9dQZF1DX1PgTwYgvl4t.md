@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL?si=jzqjskzuRUaOUiS0zWW0Wg>Minister GUC</a>
 
-98 songs - 11 hr 7 min
+100 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 | 2024-06-07 |  |
 | [Arojinle](https://open.spotify.com/track/6IAkCy6DH4eZTomOlQ5nSU) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/0jfLu0yOlJBXzpBCHE4msv) | 14:43 | 2024-05-09 | 2024-05-24 |
 | [Arojinle](https://open.spotify.com/track/7JFcGjkEFAqIepGcdHdsaP) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/6osSGQmHfGd496n4gWm3At) | 14:43 | 2024-05-09 |  |
+| [Awofuwo](https://open.spotify.com/track/4jDtIlGX6AmW2NFJTcRpiL) | [Olivertherain](https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Awofuwo](https://open.spotify.com/album/5qWIB74h8PVysO1QMcSjCx) | 5:46 | 2024-11-01 |  |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2024-05-09 |  |
 | [Baba Yangu, Baba Yangu \- Live](https://open.spotify.com/track/1pRSMBzKzEbMiWMerX8hBm) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Baba Yangu, Baba Yangu \(Live\)](https://open.spotify.com/album/7k7hnvGI5oYtw0ZUwcvghF) | 4:49 | 2024-08-02 |  |
 | [Beyond Me](https://open.spotify.com/track/1dLvBXVVbWSrZ9j0g2YyHT) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [The Love Story](https://open.spotify.com/album/55oOa9npkSisKLa3tvbibr) | 7:11 | 2024-05-09 |  |
@@ -56,6 +57,7 @@
 | [Imela](https://open.spotify.com/track/48t4nNLGMs6UQcnn6cSCmK) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Mercy Peter](https://open.spotify.com/artist/6th52hnATS4dveuzJJZr04) | [Imela](https://open.spotify.com/album/1t9RvjiXTXN79Fp1gPHenK) | 5:07 | 2024-06-21 |  |
 | [In You](https://open.spotify.com/track/6bsrCda8VgcBLtI5c3HCyn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [In You](https://open.spotify.com/album/4sKh0lvHz8RmO3BOpETpZS) | 2:39 | 2024-05-17 | 2024-06-07 |
 | [Jesus](https://open.spotify.com/track/5tsBzcAXwo3UGRSPT4TbXV) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Lion of Judah](https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy) | 7:34 | 2024-05-09 | 2024-06-14 |
+| [Jesus Oyoyooh \(You are worthy\)](https://open.spotify.com/track/7bpSRQfKXx2hLP3622Ad3s) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Jesus Oyoyooh \(You are worthy\)](https://open.spotify.com/album/7qswxW7semeVCfFmmy9Y4c) | 12:09 | 2024-11-01 |  |
 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 | 2024-05-09 |  |
 | [Lead Me](https://open.spotify.com/track/0qsUgNIZ4gJ2AeEUjBmUv8) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Lead Me](https://open.spotify.com/album/4s1WzWFA2sLNCUGdfkdxNy) | 6:26 | 2024-08-30 |  |
 | [Little Me](https://open.spotify.com/track/3UZoiBEuHoKIb6TqJGKi7Z) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Emerge](https://open.spotify.com/album/1yewzTyF45OJ3pMYKWS5Uz) | 4:15 | 2024-10-25 |  |

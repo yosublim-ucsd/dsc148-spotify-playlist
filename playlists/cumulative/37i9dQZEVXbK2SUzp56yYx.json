@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 200320,
       "name": "Diva",
       "url": "https://open.spotify.com/track/6GQuF9vzJAVs7fYN9ftBdP"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 200613,
       "name": "Diva",
       "url": "https://open.spotify.com/track/5Ssv6DaKrW0HczVqx6zXdl"
@@ -3184,6 +3184,28 @@
       "duration_ms": 90461,
       "name": "Funk of Gal\u00e1ctico",
       "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
+    },
+    {
+      "album": {
+        "name": "Funk Secreto (Ultra Slowed)",
+        "url": "https://open.spotify.com/album/1A7m9bsQowglBOOH8gzImw"
+      },
+      "artists": [
+        {
+          "name": "h6itam",
+          "url": "https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf"
+        },
+        {
+          "name": "STRAWANGLE",
+          "url": "https://open.spotify.com/artist/4o5PswOvXGSq0y5BqZTR9n"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89808,
+      "name": "Funk Secreto - Ultra Slowed",
+      "url": "https://open.spotify.com/track/0Rfgf07P8G5XqdnMXTZe4k"
     },
     {
       "album": {
@@ -7326,7 +7348,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 130360,
       "name": "RISADA CHUCK 01 - Super Slowed",
       "url": "https://open.spotify.com/track/2iRiWUoB7tNnG23KlM3Ui7"
@@ -10226,7 +10248,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 72352,
       "name": "X-TALI",
       "url": "https://open.spotify.com/track/6yIkBXij6NSjmRGRpQupqO"
@@ -14414,7 +14436,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "\u041e\u0434\u0438\u043d \u0432 \u043f\u043e\u043b\u0435 \u0432\u043e\u0438\u043d",
       "url": "https://open.spotify.com/track/3Xwcof1GcBwBXz2VvNPfIj"
@@ -15314,7 +15336,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 138413,
       "name": "\u041f\u0440\u0438\u0432\u0435\u0442 \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u0431\u043e\u0434\u0443\u043d\u0430",
       "url": "https://open.spotify.com/track/42OIF8BmQk2IyZCtpH9C4x"
@@ -17662,7 +17684,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 153000,
       "name": "\u042f \u043d\u043e\u0447\u044c\u044e \u043f\u043b\u0430\u0447\u0443",
       "url": "https://open.spotify.com/track/5NlGn8RdcH8eeFjg6jy71I"

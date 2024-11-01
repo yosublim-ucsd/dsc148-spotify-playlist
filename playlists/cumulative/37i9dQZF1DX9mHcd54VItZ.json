@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5?si=yo-vYpHMTMWctqxLmUH_zw\">GSTRiNG</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I\">wiesner</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 182589,
       "name": "Dans Deur Die Donker",
       "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
@@ -3306,7 +3306,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 190929,
       "name": "Glow",
       "url": "https://open.spotify.com/track/06UYzvJAsJNAfSdfWqbuE3"
@@ -4526,7 +4526,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 172549,
       "name": "Kiss Me Hard",
       "url": "https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL"
@@ -5309,6 +5309,24 @@
     },
     {
       "album": {
+        "name": "Mia, Jy",
+        "url": "https://open.spotify.com/album/5wHPieDfDaOum3eraaZhuO"
+      },
+      "artists": [
+        {
+          "name": "wiesner",
+          "url": "https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272250,
+      "name": "Mia, Jy",
+      "url": "https://open.spotify.com/track/0mwhB6Nb6WmmjPjjRteCHg"
+    },
+    {
+      "album": {
         "name": "Michelle",
         "url": "https://open.spotify.com/album/5Ukb8khXf7sJbNfvbTdi1o"
       },
@@ -5778,7 +5796,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 228434,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/7IdzKD9PrLnU7H8WOjgp0U"
@@ -6460,7 +6478,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 245866,
       "name": "Picture Perfect",
       "url": "https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP"
@@ -7468,7 +7486,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 243745,
       "name": "Slaaploos",
       "url": "https://open.spotify.com/track/5d7d5sqBxji4ywBBDfsOUq"
@@ -9732,7 +9750,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 207899,
       "name": "ZAR",
       "url": "https://open.spotify.com/track/3tPhyCjhQLvEBbUbOPHHmv"

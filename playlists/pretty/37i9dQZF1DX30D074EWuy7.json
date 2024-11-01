@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 30864,
+  "num_followers": 30878,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
-      },
-      "artists": [
-        {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Musica Nuda - My Favorite Tunes",
         "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "Fidate Correnti",
         "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 177124,
       "name": "Perdiamoci",
       "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "Delicatoni",
-        "url": "https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA"
-      },
-      "artists": [
-        {
-          "name": "Delicatoni",
-          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
-        }
-      ],
-      "duration_ms": 267111,
-      "name": "Domenica Berici",
-      "url": "https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -811,6 +795,22 @@
       "duration_ms": 218533,
       "name": "Kids are electric",
       "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Delicatoni",
+        "url": "https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        }
+      ],
+      "duration_ms": 267111,
+      "name": "Domenica Berici",
+      "url": "https://open.spotify.com/track/0XT1UrQMwTCqbiwpbjWAjk"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Drifting in a room full of mirrors",
-        "url": "https://open.spotify.com/album/0aytU9tekBhYjY8A4CM7ss"
-      },
-      "artists": [
-        {
-          "name": "Egidio Marchitelli",
-          "url": "https://open.spotify.com/artist/4m0AQenXHYGsM1nqy3vBc6"
-        }
-      ],
-      "duration_ms": 274887,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/3vGejZYg2jc9r16bIBvmyq"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Opera prima (Including Ice One Remix)",
         "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 125572,
       "name": "Bighellonando",
       "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Drifting in a room full of mirrors",
+        "url": "https://open.spotify.com/album/0aytU9tekBhYjY8A4CM7ss"
+      },
+      "artists": [
+        {
+          "name": "Egidio Marchitelli",
+          "url": "https://open.spotify.com/artist/4m0AQenXHYGsM1nqy3vBc6"
+        }
+      ],
+      "duration_ms": 274887,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/3vGejZYg2jc9r16bIBvmyq"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Non mi resta che tacere",
-        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
-      },
-      "artists": [
-        {
-          "name": "Marta Frigo",
-          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
-        }
-      ],
-      "duration_ms": 275291,
-      "name": "Non mi resta che tacere",
-      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Non mi resta che tacere",
+        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+      },
+      "artists": [
+        {
+          "name": "Marta Frigo",
+          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+        }
+      ],
+      "duration_ms": 275291,
+      "name": "Non mi resta che tacere",
+      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+      },
+      "artists": [
+        {
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+        }
+      ],
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
-      },
-      "artists": [
-        {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
-        }
-      ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1459,62 +1459,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Racconti mediterranei",
-        "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
-      },
-      "artists": [
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Marc Johnson",
-          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
-        },
-        {
-          "name": "Gabriele Mirabassi",
-          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
-        }
-      ],
-      "duration_ms": 454173,
-      "name": "Canzone di Nausicaa",
-      "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "Cucoma Combo",
-        "url": "https://open.spotify.com/album/1XI0hx81wGuRxJIXGBJJub"
-      },
-      "artists": [
-        {
-          "name": "Cucoma Combo",
-          "url": "https://open.spotify.com/artist/3jPDOej0c2cX9ghGS2d9Oc"
-        }
-      ],
-      "duration_ms": 250625,
-      "name": "Aguacate",
-      "url": "https://open.spotify.com/track/7EX4fqPGqMSuT5NR9SqQvy"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "NON-BACKGROUND MUSIC",
-        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
-      },
-      "artists": [
-        {
-          "name": "72-HOUR POST FIGHT",
-          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
-        }
-      ],
-      "duration_ms": 280537,
-      "name": "CANDLEFACE THEME",
-      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Over and again",
         "url": "https://open.spotify.com/album/09hQ2xW97PIaEotvrgGfCH"
       },
@@ -1539,6 +1483,46 @@
       "duration_ms": 210494,
       "name": "Over and again",
       "url": "https://open.spotify.com/track/5nEX3zvnR4jWfwgjGIJr1j"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Racconti mediterranei",
+        "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Marc Johnson",
+          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
+        },
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+        }
+      ],
+      "duration_ms": 454173,
+      "name": "Canzone di Nausicaa",
+      "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "NON-BACKGROUND MUSIC",
+        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
+      },
+      "artists": [
+        {
+          "name": "72-HOUR POST FIGHT",
+          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
+        }
+      ],
+      "duration_ms": 280537,
+      "name": "CANDLEFACE THEME",
+      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "Cucoma Combo",
+        "url": "https://open.spotify.com/album/1XI0hx81wGuRxJIXGBJJub"
+      },
+      "artists": [
+        {
+          "name": "Cucoma Combo",
+          "url": "https://open.spotify.com/artist/3jPDOej0c2cX9ghGS2d9Oc"
+        }
+      ],
+      "duration_ms": 250625,
+      "name": "Aguacate",
+      "url": "https://open.spotify.com/track/7EX4fqPGqMSuT5NR9SqQvy"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "Norma (Arr. for Jazz Orchestra)",
         "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
-      },
-      "artists": [
-        {
-          "name": "Federico Bosio",
-          "url": "https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1"
-        }
-      ],
-      "duration_ms": 146618,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Julia de Palma In Concert",
         "url": "https://open.spotify.com/album/3Jwv7FkYyegDB5Pl6V8pQL"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 283977,
       "name": "Bugiardo, incosciente",
       "url": "https://open.spotify.com/track/3DXgG3Nncn1x9qrpZHZl0V"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
+      },
+      "artists": [
+        {
+          "name": "Federico Bosio",
+          "url": "https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1"
+        }
+      ],
+      "duration_ms": 146618,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "My Songbook",
         "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 340493,
       "name": "My Heart in a Song",
       "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
-      },
-      "artists": [
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1895,6 +1895,38 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "Ipotesi",
+        "url": "https://open.spotify.com/album/4QE0ufj8ESMinJTSR2DRUa"
+      },
+      "artists": [
+        {
+          "name": "Simona Severini",
+          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
+        }
+      ],
+      "duration_ms": 197953,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/3M0o19A4Vq5Z0mKctW1j5L"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 289634,
+      "name": "Transe Napolitaine",
+      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/04mcwadpwSaYynroTEqYJg"
       },
@@ -1939,38 +1971,6 @@
       "duration_ms": 293866,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/4dloclI8tlsFDjUTTSYuXY"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 289634,
-      "name": "Transe Napolitaine",
-      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "Ipotesi",
-        "url": "https://open.spotify.com/album/4QE0ufj8ESMinJTSR2DRUa"
-      },
-      "artists": [
-        {
-          "name": "Simona Severini",
-          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
-        }
-      ],
-      "duration_ms": 197953,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/3M0o19A4Vq5Z0mKctW1j5L"
     }
   ],
   "unique_name": "Jazz Italia",

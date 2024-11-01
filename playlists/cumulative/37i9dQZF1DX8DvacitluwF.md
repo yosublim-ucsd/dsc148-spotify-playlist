@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: WATERS
+> The best in South African and international R&B\. Cover: The Big Hash
 
-395 songs - 20 hr 48 min
+396 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Sink In](https://open.spotify.com/track/6OiQNUMCLXJtJxOmUsoyFA) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sink In](https://open.spotify.com/album/6q5HmSWBX2lbGH3SCSZOIe) | 2:16 | 2024-10-24 |  |
 | [Six](https://open.spotify.com/track/4a2BfqsSyoyzVe8SABy8zI) | [Roho](https://open.spotify.com/artist/2los7qqYBBSB6dlJ8PQ9hd) | [Ephemeral](https://open.spotify.com/album/6wGvshyHfaFLhajJX3zhPJ) | 3:12 | 2024-02-14 | 2024-02-23 |
 | [Slide](https://open.spotify.com/track/3pPbdtSgh9eo4PkJfD3k5Z) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg), [Hersh](https://open.spotify.com/artist/5dAvLMQBZsRlXgFvzOI3C2) | [Slide](https://open.spotify.com/album/32ryB9TH0GW5Wq1b6bRitj) | 3:07 | 2024-05-31 | 2024-09-03 |
-| [SLIDE](https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:54 | 2024-09-11 |  |
+| [SLIDE](https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:54 | 2024-09-11 | 2024-11-01 |
 | [Smaak To Love \(Lamza\)](https://open.spotify.com/track/4o8T5mUyp77nDbM1UkDRd3) | [ZULO](https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp) | [Smaak To Love \(Lamza\)](https://open.spotify.com/album/0IDXfOJbWNw4LbWEPWrc1F) | 2:45 | 2024-10-24 |  |
 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:07 | 2023-10-12 | 2024-02-09 |
 | [Smoke + Mirrors](https://open.spotify.com/track/01XlfD9gD7LPpm65rhSPQh) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Smoke + Mirrors](https://open.spotify.com/album/6QmEMg5ikjjN5XVAwFvH9W) | 2:02 | 2024-03-01 | 2024-06-14 |
@@ -356,6 +356,7 @@
 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 | 2023-10-12 | 2023-10-20 |
 | [TIME](https://open.spotify.com/track/4abv3ao51qRblxKxkYfw56) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq), [Maloon TheBoom](https://open.spotify.com/artist/66xnl7wTIoeKdJV2YblQp4) | [HOLDING/EVOLVING](https://open.spotify.com/album/5eMsBt8WjfQYROA2dSnG33) | 3:20 | 2024-03-07 | 2024-07-12 |
 | [Time](https://open.spotify.com/track/1EwFCXUDJVpQEnXJOfhuZg) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Time](https://open.spotify.com/album/4qLhQVT4loCtRyqhk4UB29) | 3:38 | 2024-04-25 | 2024-07-12 |
+| [TOMORROW \(feat\. Nanette\)](https://open.spotify.com/track/3cAUjiYuuSDZeVB9Q2TUVT) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [HEARTBREAK HOTEL: DELUXE EDITION](https://open.spotify.com/album/4hqpfto8yts8goB7NL2Nkd) | 6:39 | 2024-10-31 |  |
 | [Tonight](https://open.spotify.com/track/2GBfPNvZqNmIG8lgF8p9tU) | [Mary Jane](https://open.spotify.com/artist/6N2ZOBipWXmuFn5uzXoVpr) | [Tonight](https://open.spotify.com/album/1xTXtXOgV8leQWJkWjjjNA) | 3:21 | 2024-04-04 | 2024-06-14 |
 | [Tonight](https://open.spotify.com/track/0RV4Vmyw8xgWH8wkdqMBRa) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [The Waiting Room](https://open.spotify.com/album/5dE0mvQOTu4FbHfZQs7zLj) | 3:10 | 2024-07-25 |  |
 | [Tonight](https://open.spotify.com/track/3pmtkeRPl7UNK389EC8lvS) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Tonight](https://open.spotify.com/album/6orgHTkhJhUseTwtujjvmz) | 1:40 | 2024-08-16 |  |

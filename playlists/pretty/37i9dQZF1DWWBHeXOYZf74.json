@@ -1,44 +1,200 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Amin\u00e9",
-  "num_followers": 1326233,
+  "description": "Genre-less. Quality first always. Cover: Tyler, The Creator",
+  "num_followers": 1326221,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsXwAAAAAACMKVzq/gvHlH4GiWV+NvL",
+  "snapshot_id": "ZyQaAAAAAADsQ0YsHD+Kh1OwmxY7A0ET",
   "tracks": [
     {
-      "added_at": "2024-10-21 16:15:39",
+      "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Noid",
-        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 284363,
-      "name": "Noid",
-      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
+      "duration_ms": 154261,
+      "name": "Balloon (feat. Doechii)",
+      "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Spirit Box",
+        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 172338,
+      "name": "Let Me Cook",
+      "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "WURMPLE",
+        "url": "https://open.spotify.com/album/5Q1XT0rKsit4ONJJ0FSdWS"
+      },
+      "artists": [
+        {
+          "name": "Buddy Ross",
+          "url": "https://open.spotify.com/artist/5H7nJuWib5HbOYYwaAODwn"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "WURMPLE",
+      "url": "https://open.spotify.com/track/0sHuguNKahnmkpHZxksHAU"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+      "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
+    },
+    {
+      "added_at": "2024-10-18 04:19:44",
+      "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 179370,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "x-ray eyes",
+        "url": "https://open.spotify.com/album/0NXggkTAhL1M8NOz7tfzAt"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 291506,
+      "name": "x-ray eyes",
+      "url": "https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY"
     },
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Graucha Max",
-        "url": "https://open.spotify.com/album/41rULKRqkYBboKmWkZmekn"
+        "name": "Counterfeit",
+        "url": "https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo"
       },
       "artists": [
         {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
         }
       ],
-      "duration_ms": 335474,
-      "name": "Graucha Max",
-      "url": "https://open.spotify.com/track/4waOZsInxjKYnh6UF1V255"
+      "duration_ms": 192106,
+      "name": "Counterfeit",
+      "url": "https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Rapid Fire / Kaitlyn Aurelia Smith Remix",
+        "url": "https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Laima",
+          "url": "https://open.spotify.com/artist/1BsnJdQKuN4OUlLLYTx6gr"
+        }
+      ],
+      "duration_ms": 334625,
+      "name": "Rapid Fire",
+      "url": "https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "How to Impress God",
+        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "How to Impress God",
+      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Brainfreeze",
+        "url": "https://open.spotify.com/album/744i5hMh6rnyRll9scYEjB"
+      },
+      "artists": [
+        {
+          "name": "Benja",
+          "url": "https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid"
+        },
+        {
+          "name": "Michl",
+          "url": "https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Brainfreeze",
+      "url": "https://open.spotify.com/track/5G0QeZxPZcgEE2LEWyNicW"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -63,18 +219,50 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Counterfeit",
-        "url": "https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo"
+        "name": "Graucha Max",
+        "url": "https://open.spotify.com/album/41rULKRqkYBboKmWkZmekn"
       },
       "artists": [
         {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
         }
       ],
-      "duration_ms": 192106,
-      "name": "Counterfeit",
-      "url": "https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9"
+      "duration_ms": 335474,
+      "name": "Graucha Max",
+      "url": "https://open.spotify.com/track/4waOZsInxjKYnh6UF1V255"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "CA$HMERE TEAR$",
+        "url": "https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "CA$HMERE TEAR$",
+      "url": "https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -113,6 +301,22 @@
       "url": "https://open.spotify.com/track/5sf9YLJBGMTrCBEpUZOwrc"
     },
     {
+      "added_at": "2024-10-21 16:15:39",
+      "album": {
+        "name": "Noid",
+        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
+    },
+    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Piedras 1",
@@ -147,22 +351,6 @@
       "duration_ms": 165040,
       "name": "P4IN (feat. Bones)",
       "url": "https://open.spotify.com/track/4H8zM0MKfmrEbj2hNeTgTZ"
-    },
-    {
-      "added_at": "2024-10-18 04:19:44",
-      "album": {
-        "name": "ROCKMAN",
-        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 179370,
-      "name": "ROCKMAN",
-      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -953,22 +1141,6 @@
       "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Pointy Heights",
-        "url": "https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 123466,
-      "name": "do you have a soul?",
-      "url": "https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "In Waves",
@@ -1183,22 +1355,6 @@
       "duration_ms": 213644,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Pivot//",
-        "url": "https://open.spotify.com/album/1kbR6MjNV3oGo4dfr7mx8S"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 154055,
-      "name": "Kemets got the blue",
-      "url": "https://open.spotify.com/track/7q9gJns0is7XYIH3MSSud6"
     },
     {
       "added_at": "2024-09-06 15:02:30",
@@ -1485,26 +1641,6 @@
       "url": "https://open.spotify.com/track/3X2zPuuOzFAbupE0LOigfn"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "kisses (Daniel Avery Remix) b/w kisses - sky ii",
-        "url": "https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        },
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 211629,
-      "name": "kisses - Daniel Avery Remix",
-      "url": "https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Crystal Breath",
@@ -1569,38 +1705,6 @@
       "url": "https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Internet Star",
-        "url": "https://open.spotify.com/album/6pdC35KSTDQi2E9KgTTVd0"
-      },
-      "artists": [
-        {
-          "name": "googly eyes",
-          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
-        }
-      ],
-      "duration_ms": 118270,
-      "name": "Internet Star",
-      "url": "https://open.spotify.com/track/2LpyVY2jIGC8QV8TNUSHt1"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Old Life",
-        "url": "https://open.spotify.com/album/5ysYg2ph45lyD4OEpDLW6p"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Old Life",
-      "url": "https://open.spotify.com/track/1BCWmRqByLwKXQkf28aqWf"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "If I Promise To Miss You, Will You Go Away",
@@ -1649,58 +1753,6 @@
       "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Sweet",
-        "url": "https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E"
-    },
-    {
-      "added_at": "2024-07-26 00:00:00",
-      "album": {
-        "name": "One Wish (feat. Childish Gambino)",
-        "url": "https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 195502,
-      "name": "One Wish (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Light Work",
-        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 217304,
-      "name": "Light Work",
-      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "MUTT",
@@ -1715,38 +1767,6 @@
       "duration_ms": 193333,
       "name": "MUTT",
       "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "I LAY DOWN MY LIFE FOR YOU",
-        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 140593,
-      "name": "either on or off the drugs",
-      "url": "https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "CARRY YOU",
-        "url": "https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 188763,
-      "name": "CARRY YOU",
-      "url": "https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk"
     }
   ],
   "unique_name": "POLLEN",

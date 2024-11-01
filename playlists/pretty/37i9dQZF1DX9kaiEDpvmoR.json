@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92363,
+  "num_followers": 92366,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "A Fragile Thing",
+        "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 283086,
+      "name": "A Fragile Thing",
+      "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Now or Never (feat. Lauren Alaina)",
         "url": "https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 174946,
       "name": "Now or Never (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "A Fragile Thing",
-        "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 283086,
-      "name": "A Fragile Thing",
-      "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Country Song Came On",
-        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Country Song Came On",
-      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Samma saga",
         "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Country Song Came On",
+        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Country Song Came On",
+      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Du lever bara en g\u00e5ng",
+        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Du lever bara en g\u00e5ng",
+      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Nyper mig i armen",
         "url": "https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Du lever bara en g\u00e5ng",
-        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Du lever bara en g\u00e5ng",
-      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Afloat",
         "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 203195,
       "name": "S\u00e4kra kort",
       "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Alltid Du",
         "url": "https://open.spotify.com/album/7bBq9PjJ0457BqQGMHDzUG"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 188571,
       "name": "Alltid Du (feat. Etta Zelmani)",
       "url": "https://open.spotify.com/track/2fHWPfD2wEX03IaohJyt9Z"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1079,22 +1079,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Kyrie Eleison",
-        "url": "https://open.spotify.com/album/2oZbeImzrZwJgFqUfylFJA"
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
       "artists": [
         {
-          "name": "Erlend Ropstad",
-          "url": "https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t"
-        },
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 282613,
-      "name": "Kyrie Eleison",
-      "url": "https://open.spotify.com/track/6mCYHkyrrLd5bjgOytKHK2"
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1115,6 +1111,26 @@
       "duration_ms": 238000,
       "name": "Ljusare moln",
       "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Kyrie Eleison",
+        "url": "https://open.spotify.com/album/2oZbeImzrZwJgFqUfylFJA"
+      },
+      "artists": [
+        {
+          "name": "Erlend Ropstad",
+          "url": "https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t"
+        },
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 282613,
+      "name": "Kyrie Eleison",
+      "url": "https://open.spotify.com/track/6mCYHkyrrLd5bjgOytKHK2"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+        "name": "Marching To This Drum",
+        "url": "https://open.spotify.com/album/17WzdroK4ry4ps6jOwlcV7"
       },
       "artists": [
         {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+          "name": "Dregen",
+          "url": "https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA"
         }
       ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+      "duration_ms": 180705,
+      "name": "Marching To This Drum",
+      "url": "https://open.spotify.com/track/1SsGj5OQosI2XmHprVKX9g"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 235392,
       "name": "I Let the Good Ones Go",
       "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Marching To This Drum",
-        "url": "https://open.spotify.com/album/17WzdroK4ry4ps6jOwlcV7"
-      },
-      "artists": [
-        {
-          "name": "Dregen",
-          "url": "https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Marching To This Drum",
-      "url": "https://open.spotify.com/track/1SsGj5OQosI2XmHprVKX9g"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Hejd\u00e5 f\u00f6r alltid",
-        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
-      },
-      "artists": [
-        {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Hejd\u00e5 f\u00f6r alltid",
-      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Sally/Hungry Eyes",
         "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 157261,
       "name": "En v\u00e4n till mig",
       "url": "https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Hejd\u00e5 f\u00f6r alltid",
+        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Hejd\u00e5 f\u00f6r alltid",
+      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "I\u2019m Here For You Now",
+        "url": "https://open.spotify.com/album/0YxNOo620DicdFk0oSrDlp"
+      },
+      "artists": [
+        {
+          "name": "April Snow",
+          "url": "https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ"
+        }
+      ],
+      "duration_ms": 200694,
+      "name": "I\u2019m Here For You Now",
+      "url": "https://open.spotify.com/track/2mrFXNlzPzqIpFZnZorm2L"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Weak Point",
         "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
       },
@@ -1479,26 +1495,6 @@
       "duration_ms": 213880,
       "name": "maybe",
       "url": "https://open.spotify.com/track/4ShOcNoqu7krh5pIZ3ndhu"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Alive On The Dance Floor",
-        "url": "https://open.spotify.com/album/57LQXCiT8o9OYUJsW0obQr"
-      },
-      "artists": [
-        {
-          "name": "April Snow",
-          "url": "https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ"
-        },
-        {
-          "name": "Sharlene Hector",
-          "url": "https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX"
-        }
-      ],
-      "duration_ms": 251809,
-      "name": "Alive On The Dance Floor",
-      "url": "https://open.spotify.com/track/7aQz46ePN60wHTCYfKUHyp"
     }
   ],
   "unique_name": "Aktuellt",

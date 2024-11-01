@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 29294,
+  "num_followers": 29297,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAAdLPZpXWHCCbj6NylJQ6xL",
+  "snapshot_id": "ZyF3AAAAAADO2lQVvMU+zhvJgvlQvMUn",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus Was a Capricorn",
+        "url": "https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/6uMKkOEkPJRumFvAzo5nr9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 190560,
       "name": "The Last Cowboy Song",
       "url": "https://open.spotify.com/track/2zfK1yLW1HzHGbmYx6X9F8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Was a Capricorn",
-        "url": "https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/6uMKkOEkPJRumFvAzo5nr9"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "The Best Of All Possible Worlds",
-      "url": "https://open.spotify.com/track/1CM0IOUM1zYaX4ECXAPQZl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 238906,
       "name": "Living Legend",
       "url": "https://open.spotify.com/track/4iXbVCLRijzZGCSb3g6FtB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "The Best Of All Possible Worlds",
+      "url": "https://open.spotify.com/track/1CM0IOUM1zYaX4ECXAPQZl"
     },
     {
       "added_at": null,
@@ -1167,22 +1167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 162226,
-      "name": "Breakdown (A Long Way from Home)",
-      "url": "https://open.spotify.com/track/0W3Z6CmxQAF2h07TWmBM0l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Country State Of Mind",
         "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 180472,
       "name": "Why Me",
       "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 162226,
+      "name": "Breakdown (A Long Way from Home)",
+      "url": "https://open.spotify.com/track/0W3Z6CmxQAF2h07TWmBM0l"
     },
     {
       "added_at": null,

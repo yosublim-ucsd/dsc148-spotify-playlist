@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Fievel Is Glauque
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,971 likes - 199 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,049 likes - 199 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 137 | [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 |
 | 138 | [My Corpse Friend](https://open.spotify.com/track/1wfwCZIj2bkXUNuZCMkQlQ) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [In My Bones](https://open.spotify.com/album/71SOQSZ4pKoTkwq86AJUxT) | 2:25 |
 | 139 | [Wherever We're Going](https://open.spotify.com/track/1GaOTQqwZe3itAeq5E9ZCm) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Pure Bliss Forever](https://open.spotify.com/album/45YUFznbrVWpH7PKCXolPw) | 2:38 |
-| 140 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
+| 140 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
 | 141 | [Untitled](https://open.spotify.com/track/3ZS80IOKVp7d5sjNNZLa6G) | [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Untitled](https://open.spotify.com/album/4cZDjflHwCX5D5vWv0cpGL) | 2:29 |
 | 142 | [Hey](https://open.spotify.com/track/1ycdEKUvL03LLyexLASRxU) | [The Hard Quartet](https://open.spotify.com/artist/2fU2w19foGHouVAiJR7DJ6) | [The Hard Quartet](https://open.spotify.com/album/7tCKr50KVtUpGHGlWMhBsR) | 4:29 |
 | 143 | [Plant](https://open.spotify.com/track/6w1rQ82vsGF8zX9eock33Y) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Things We Have In Common](https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn) | 3:49 |

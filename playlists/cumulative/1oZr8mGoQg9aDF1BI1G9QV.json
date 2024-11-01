@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279026,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/0Zh3tKIphLOvQux4dA6PFZ"
+    },
+    {
+      "album": {
         "name": "Honey Moonshine",
         "url": "https://open.spotify.com/album/5Aws1xUnOX5M0rBlJYa5nR"
       },
@@ -308,6 +326,24 @@
       "duration_ms": 204370,
       "name": "Sweet Transvestite",
       "url": "https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6"
+    },
+    {
+      "album": {
+        "name": "Take This to Your Grave",
+        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "Tell That Mick He Just Made My List of Things to Do Today",
+      "url": "https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy"
     },
     {
       "album": {

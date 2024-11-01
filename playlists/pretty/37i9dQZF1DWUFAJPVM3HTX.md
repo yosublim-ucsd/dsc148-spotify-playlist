@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5?si=h0MtOsBgROqhVxfBj0OjUA">James Savage</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,486 likes - 299 songs - 14 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,560 likes - 299 songs - 14 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,7 +189,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 179 | [dazed](https://open.spotify.com/track/6gSbVCL3fVK8TFq2WCheXI) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [dazed](https://open.spotify.com/album/0CzvO8hh3YJkaWHNb2g2Fz) | 3:20 |
 | 180 | [Storybook](https://open.spotify.com/track/4SSsTMMAXPMCHqrHVvOzzx) | [Angela Muñoz](https://open.spotify.com/artist/0LYpHdjPJEKhjh3euGHngh) | [Descanso](https://open.spotify.com/album/30ZB9EbFkH58rjs3G4bdiD) | 2:55 |
 | 181 | [WEED & NICOTINE](https://open.spotify.com/track/5IMgCtsamVCgSr92P2AWPL) | [HXRY](https://open.spotify.com/artist/2iqM6ytAoq3ckSITRNOaWB) | [WEED & NICOTINE](https://open.spotify.com/album/6iOiHtc0uV17gDWLrMQlQk) | 2:56 |
-| 182 | [Venetian Windows](https://open.spotify.com/track/0v5Q7180Oeo9McBKHgBatB) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [Venetian Windows](https://open.spotify.com/album/7lQ542o73hAvpmN2Z6DYrI) | 2:27 |
+| 182 | [VENETIAN WINDOWS](https://open.spotify.com/track/0v5Q7180Oeo9McBKHgBatB) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [VENETIAN WINDOWS](https://open.spotify.com/album/7lQ542o73hAvpmN2Z6DYrI) | 2:27 |
 | 183 | [Pineapples Acoustic](https://open.spotify.com/track/31PSClO2izsJtbYU0kfFhf) | [Devon Culture](https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc) | [Pineapples Acoustic](https://open.spotify.com/album/7C9tmk9Bn1NNYeuk4x9mI1) | 2:39 |
 | 184 | [ILIKEU](https://open.spotify.com/track/0e2De20YDshejQNatfivQx) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [ILIKEU](https://open.spotify.com/album/5l4P7UoxB6WCF8Sbx29Y82) | 3:37 |
 | 185 | [I Decide](https://open.spotify.com/track/5ZHbW3KbAkz9JQ40u51r6k) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Like A Flower](https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h) | 2:11 |

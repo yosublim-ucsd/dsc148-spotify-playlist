@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 159928,
+  "num_followers": 159966,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,50 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Dubplate SZN",
+        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Dubplate SZN",
+      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Gunner",
         "url": "https://open.spotify.com/album/3nz5qqVIVZvOSdyfyTire1"
       },
@@ -911,74 +955,6 @@
       "duration_ms": 290742,
       "name": "Gunner",
       "url": "https://open.spotify.com/track/3IpHOdzNvOfeTjlPSajNAV"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Champion Sound",
-        "url": "https://open.spotify.com/album/0O0gusOWe8wZ9MrNtzGWm0"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Wa-Fu",
-          "url": "https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Champion Sound",
-      "url": "https://open.spotify.com/track/28hoG2GXoRBN8xcK9IPW9c"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Dubplate SZN",
-        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
-      },
-      "artists": [
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Jman",
-          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Dubplate SZN",
-      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1015,6 +991,30 @@
       "duration_ms": 228024,
       "name": "Bass & Treble",
       "url": "https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/0O0gusOWe8wZ9MrNtzGWm0"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Wa-Fu",
+          "url": "https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Champion Sound",
+      "url": "https://open.spotify.com/track/28hoG2GXoRBN8xcK9IPW9c"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Jordan 1s (Effy Rework)",
-        "url": "https://open.spotify.com/album/6mv6SyHksCO4Pnq4IxXFps"
-      },
-      "artists": [
-        {
-          "name": "Vv Pete",
-          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
-        },
-        {
-          "name": "UTILITY",
-          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
-        },
-        {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        }
-      ],
-      "duration_ms": 219577,
-      "name": "Jordan 1s - Effy Rework",
-      "url": "https://open.spotify.com/track/1PsmJW9eYuXY7zRtYxRzMI"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "We No Care",
         "url": "https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 249600,
       "name": "We No Care",
       "url": "https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Jordan 1s (Effy Rework)",
+        "url": "https://open.spotify.com/album/6mv6SyHksCO4Pnq4IxXFps"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        }
+      ],
+      "duration_ms": 219577,
+      "name": "Jordan 1s - Effy Rework",
+      "url": "https://open.spotify.com/track/1PsmJW9eYuXY7zRtYxRzMI"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2qq6oecO8ZswOYJNg3igki"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0RapNiCTYLb0VCK4aSlnHc"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Sprinta (Bad Bad)",
         "url": "https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV"
       },
@@ -1447,26 +1467,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/2qq6oecO8ZswOYJNg3igki"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/0RapNiCTYLb0VCK4aSlnHc"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/4whr45Olu7a2aO7GLEVWWP"
       },
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz"
+      },
+      "artists": [
+        {
+          "name": "Krakota",
+          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Stop Talking",
+      "url": "https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Sabertooth",
         "url": "https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl"
       },
@@ -1563,30 +1579,6 @@
       "duration_ms": 266057,
       "name": "Sabertooth",
       "url": "https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/46pWepYfmFsjoZIOQMz1GD"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
-        },
-        {
-          "name": "Tempza",
-          "url": "https://open.spotify.com/artist/4L3I92jE3sohrZafi1UNdC"
-        },
-        {
-          "name": "Gardna",
-          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
-        }
-      ],
-      "duration_ms": 167068,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW"
     }
   ],
   "unique_name": "Proper Naughty ",

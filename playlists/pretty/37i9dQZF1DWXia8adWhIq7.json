@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 99764,
+  "num_followers": 99803,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "Teu Esconderijo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 349928,
+      "name": "Teu Esconderijo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "Aten\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 224000,
       "name": "Tens o Meu Sim",
       "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Teu Esconderijo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 349928,
-      "name": "Teu Esconderijo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Teu V\u00f4o",
         "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 329500,
       "name": "Esperarei Com Paci\u00eancia",
       "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -891,6 +891,46 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "Poetizar 1 - \u00daltima Chance",
+        "url": "https://open.spotify.com/album/0hyrTjFAgW8BFIBPXPB9Hc"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Educky",
+          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
+        },
+        {
+          "name": "Izza D",
+          "url": "https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1"
+        },
+        {
+          "name": "Robert Lucas",
+          "url": "https://open.spotify.com/artist/4drjGi7LoMx8QTi4Vl6RUp"
+        },
+        {
+          "name": "Bela Soares",
+          "url": "https://open.spotify.com/artist/3cyggqPRMcdAAOu8758NYJ"
+        },
+        {
+          "name": "Isabella Bretins",
+          "url": "https://open.spotify.com/artist/5bqPA1ip2jTIqaKhOfvuTh"
+        }
+      ],
+      "duration_ms": 331843,
+      "name": "Poetizar 1 - \u00daltima Chance",
+      "url": "https://open.spotify.com/track/4ToHXRMWxxiYnCf411hSW0"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "Apenas Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
@@ -927,30 +967,6 @@
       "duration_ms": 197120,
       "name": "Todo Meu Viver (Ac\u00fastico) - Ao Vivo",
       "url": "https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Tudo Novo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 179998,
-      "name": "Tudo Novo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1063,46 +1079,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Poetizar 1 - \u00daltima Chance",
-        "url": "https://open.spotify.com/album/0hyrTjFAgW8BFIBPXPB9Hc"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Educky",
-          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
-        },
-        {
-          "name": "Izza D",
-          "url": "https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1"
-        },
-        {
-          "name": "Robert Lucas",
-          "url": "https://open.spotify.com/artist/4drjGi7LoMx8QTi4Vl6RUp"
-        },
-        {
-          "name": "Bela Soares",
-          "url": "https://open.spotify.com/artist/3cyggqPRMcdAAOu8758NYJ"
-        },
-        {
-          "name": "Isabella Bretins",
-          "url": "https://open.spotify.com/artist/5bqPA1ip2jTIqaKhOfvuTh"
-        }
-      ],
-      "duration_ms": 331843,
-      "name": "Poetizar 1 - \u00daltima Chance",
-      "url": "https://open.spotify.com/track/4ToHXRMWxxiYnCf411hSW0"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Amor de Deus",
         "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
       },
@@ -1123,18 +1099,26 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Ousado Amor (Releitura)",
-        "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
+        "name": "Tudo Novo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
       },
       "artists": [
         {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
         }
       ],
-      "duration_ms": 224032,
-      "name": "Ousado Amor (Releitura)",
-      "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
+      "duration_ms": 179998,
+      "name": "Tudo Novo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1151,6 +1135,22 @@
       "duration_ms": 250186,
       "name": "Selo do Perd\u00e3o (Legado)",
       "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Ousado Amor (Releitura)",
+        "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 224032,
+      "name": "Ousado Amor (Releitura)",
+      "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1183,26 +1183,6 @@
       "duration_ms": 180864,
       "name": "Ponto de Paz",
       "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Pra Onde Vou Correr",
-        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Pra Onde Vou Correr",
-      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1243,6 +1223,26 @@
       "duration_ms": 139000,
       "name": "Testemunho",
       "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Pra Onde Vou Correr",
+        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Pra Onde Vou Correr",
+      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "Enganoso Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 190023,
+      "name": "Enganoso Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "Fui Liberto",
         "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
       },
@@ -1355,38 +1371,6 @@
       "duration_ms": 153333,
       "name": "Fui Liberto",
       "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Deixa Esse Medo",
-        "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        }
-      ],
-      "duration_ms": 125890,
-      "name": "Deixa Esse Medo",
-      "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Enganoso Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
-      },
-      "artists": [
-        {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
-        }
-      ],
-      "duration_ms": 190023,
-      "name": "Enganoso Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1419,6 +1403,22 @@
       "duration_ms": 245019,
       "name": "Escrevi (Legado)",
       "url": "https://open.spotify.com/track/5PbMhRZgOKvlJjDOIytCup"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Deixa Esse Medo",
+        "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        }
+      ],
+      "duration_ms": 125890,
+      "name": "Deixa Esse Medo",
+      "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
     },
     {
       "added_at": "2024-10-25 15:00:24",

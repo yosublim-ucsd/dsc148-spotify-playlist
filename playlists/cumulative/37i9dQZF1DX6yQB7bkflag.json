@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Lady Gaga",
+  "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Dere",
   "name": "Pop Rising Indonesia",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 169218,
       "name": "123",
       "url": "https://open.spotify.com/track/31XKpctltJP4KfBjbnkNVq"
@@ -963,6 +963,28 @@
     },
     {
       "album": {
+        "name": "brent iii",
+        "url": "https://open.spotify.com/album/35tILwApqYtN9fTJq2v7M3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "ashes & rust",
+      "url": "https://open.spotify.com/track/0ynwM8MdgPqbSfII51PP3e"
+    },
+    {
+      "album": {
         "name": "Asmaralaya",
         "url": "https://open.spotify.com/album/4n87aSRGrudnA69E4jXWn9"
       },
@@ -1288,7 +1310,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 201566,
       "name": "Bahagia Bersamaku",
       "url": "https://open.spotify.com/track/7canmEKik574sXIiyNIA7j"
@@ -1385,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Bang Jago",
+        "url": "https://open.spotify.com/album/0GyjOgCKSRgzh7Ofm2zstD"
+      },
+      "artists": [
+        {
+          "name": "Wali",
+          "url": "https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Bang Jago",
+      "url": "https://open.spotify.com/track/2oyxSximk9gWhQJ94k1Slh"
+    },
+    {
+      "album": {
         "name": "Banyak Yang Bilang",
         "url": "https://open.spotify.com/album/2uwnHeJgR6gprHxsQNSBPa"
       },
@@ -1454,7 +1494,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 225542,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV"
@@ -2011,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "Bila Memang Kamu",
+        "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
+      },
+      "artists": [
+        {
+          "name": "Betrand Putra Onsu",
+          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Bila Memang Kamu",
+      "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
+    },
+    {
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/3zy8azJUaBt8OwVnLmAcm9"
       },
@@ -2044,6 +2102,24 @@
       "duration_ms": 164333,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ"
+    },
+    {
+      "album": {
+        "name": "Biru",
+        "url": "https://open.spotify.com/album/12zVW8fZOGguy0hoB0fEtW"
+      },
+      "artists": [
+        {
+          "name": "Dere",
+          "url": "https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221027,
+      "name": "Biru",
+      "url": "https://open.spotify.com/track/41bBs1jtHrLVVQofSMKAgT"
     },
     {
       "album": {
@@ -2490,6 +2566,28 @@
       "duration_ms": 186872,
       "name": "Bukan Denganku",
       "url": "https://open.spotify.com/track/4S7pJQ5qyMhLIPZpRnfQqH"
+    },
+    {
+      "album": {
+        "name": "Bukan Hati Yang Kutunggu",
+        "url": "https://open.spotify.com/album/0uLmrILkMpzlwLNAtNyCKW"
+      },
+      "artists": [
+        {
+          "name": "Dudy Oris",
+          "url": "https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT"
+        },
+        {
+          "name": "Pika Iskandar",
+          "url": "https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Bukan Hati Yang Kutunggu",
+      "url": "https://open.spotify.com/track/41e8w4f1X5ynQvrjBbaEXP"
     },
     {
       "album": {
@@ -4951,6 +5049,24 @@
     },
     {
       "album": {
+        "name": "Firasat Berbicara",
+        "url": "https://open.spotify.com/album/53QtC3DsAS9dHNvtunOWaK"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231282,
+      "name": "Firasat Berbicara",
+      "url": "https://open.spotify.com/track/6vJnVHRW3CJycI3ufWmU86"
+    },
+    {
+      "album": {
         "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
         "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
       },
@@ -5727,6 +5843,32 @@
     },
     {
       "album": {
+        "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176034,
+      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
+    },
+    {
+      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -6108,6 +6250,24 @@
       "duration_ms": 335465,
       "name": "HEART BEAT",
       "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
+    },
+    {
+      "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171607,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
     },
     {
       "album": {
@@ -6826,7 +6986,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 202905,
       "name": "i don't rly care bout u!",
       "url": "https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt"
@@ -7214,6 +7374,24 @@
       "duration_ms": 156255,
       "name": "I'm The Drama",
       "url": "https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG"
+    },
+    {
+      "album": {
+        "name": "Idea of You",
+        "url": "https://open.spotify.com/album/5PIXEonnpeD2zCG81NDXJn"
+      },
+      "artists": [
+        {
+          "name": "Rimar",
+          "url": "https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Idea of You",
+      "url": "https://open.spotify.com/track/4zfbfAmuxAD4Eevm1Kr7tN"
     },
     {
       "album": {
@@ -7746,7 +7924,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 180000,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
@@ -8266,6 +8444,24 @@
       "duration_ms": 217053,
       "name": "KECANDUAN",
       "url": "https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx"
+    },
+    {
+      "album": {
+        "name": "Kecil Tapi Bercahaya - Theme song Superstar Junior MentariTV",
+        "url": "https://open.spotify.com/album/1JaHTxk1jFzXh6ztM676cx"
+      },
+      "artists": [
+        {
+          "name": "Glitter",
+          "url": "https://open.spotify.com/artist/71MEhfwtdSht8OZJGlDx1c"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171230,
+      "name": "Kecil Tapi Bercahaya - Theme song Superstar Junior MentariTV",
+      "url": "https://open.spotify.com/track/48lYwgNeDZJptRP9lVC2Ub"
     },
     {
       "album": {
@@ -9288,7 +9484,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 186976,
       "name": "Litani",
       "url": "https://open.spotify.com/track/0VrDaOzIwqSMelvesVOGQi"
@@ -10336,7 +10532,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 159397,
       "name": "Menang Atau Kalah - From \"Skuad X\"",
       "url": "https://open.spotify.com/track/1rM8Hx1WZlxbL7BclktUG0"
@@ -10620,6 +10816,28 @@
       "duration_ms": 258627,
       "name": "Mundur Perlahan",
       "url": "https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV"
+    },
+    {
+      "album": {
+        "name": "Mungkin",
+        "url": "https://open.spotify.com/album/1uV0ARRD1ObN3MgH0kkoup"
+      },
+      "artists": [
+        {
+          "name": "Chintana Jo",
+          "url": "https://open.spotify.com/artist/1O2AdjDXC1VqjYE7PwDILf"
+        },
+        {
+          "name": "Gala Yudhatama",
+          "url": "https://open.spotify.com/artist/4Zb2b3EnQjO9b1TVodw4CA"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222352,
+      "name": "Mungkin",
+      "url": "https://open.spotify.com/track/4AKv8aaODAQJIQe9kUnhm0"
     },
     {
       "album": {
@@ -11539,6 +11757,24 @@
     },
     {
       "album": {
+        "name": "Oopsie",
+        "url": "https://open.spotify.com/album/2AOqjy8N3whvR6U12Nkk4c"
+      },
+      "artists": [
+        {
+          "name": "V1RST",
+          "url": "https://open.spotify.com/artist/2kTWDbs4Ve7BgSKhNsWHGx"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229941,
+      "name": "Oopsie",
+      "url": "https://open.spotify.com/track/136rPec46FEDVHD0uEESgj"
+    },
+    {
+      "album": {
         "name": "Open Always Wins",
         "url": "https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs"
       },
@@ -11830,7 +12066,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 290555,
       "name": "Pemain Lama",
       "url": "https://open.spotify.com/track/5WUBGlM2gm5U605bYF1i0o"
@@ -12181,6 +12417,24 @@
     },
     {
       "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143242,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
+    },
+    {
+      "album": {
         "name": "Pretty Girl Rock",
         "url": "https://open.spotify.com/album/7Evycowlpi7wCuzUdcdlz1"
       },
@@ -12286,6 +12540,24 @@
       "duration_ms": 263900,
       "name": "Pulang (Robbighfirlii)",
       "url": "https://open.spotify.com/track/40xD1oDjPZVHt5AyIPBX7h"
+    },
+    {
+      "album": {
+        "name": "Pupus",
+        "url": "https://open.spotify.com/album/1btDc2Ec1fnYrdMsf0VeRc"
+      },
+      "artists": [
+        {
+          "name": "Evan Sanders",
+          "url": "https://open.spotify.com/artist/1qiBflbBz0FZdGLkoTH0uM"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267998,
+      "name": "Pupus",
+      "url": "https://open.spotify.com/track/1B03UqsH5VJ5YQSO1ew0aP"
     },
     {
       "album": {
@@ -12560,7 +12832,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 209224,
       "name": "Retro-39",
       "url": "https://open.spotify.com/track/0dlObt3L90XxFk93xFFAEZ"
@@ -15153,6 +15425,24 @@
     },
     {
       "album": {
+        "name": "Sarwa Renjana",
+        "url": "https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC"
+      },
+      "artists": [
+        {
+          "name": "Armand Maulana",
+          "url": "https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206848,
+      "name": "Surga",
+      "url": "https://open.spotify.com/track/4cbtN78MM14iygONiGKkXN"
+    },
+    {
+      "album": {
         "name": "Swallow My Tears",
         "url": "https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8"
       },
@@ -15305,6 +15595,28 @@
     },
     {
       "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "album": {
         "name": "Tak",
         "url": "https://open.spotify.com/album/3y4V875C8qvcNSibvdZVmG"
       },
@@ -15356,6 +15668,24 @@
       "duration_ms": 233630,
       "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
       "url": "https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm"
+    },
+    {
+      "album": {
+        "name": "Tak Apa Akui Lelah",
+        "url": "https://open.spotify.com/album/62ETyf40ZYVPW4ZufraxiU"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227262,
+      "name": "Tak Apa Akui Lelah",
+      "url": "https://open.spotify.com/track/2CGVAzqC47Xk9kBk1Ix4v3"
     },
     {
       "album": {
@@ -15651,6 +15981,28 @@
     },
     {
       "album": {
+        "name": "Take Me to the Beach (feat. Jungeli)",
+        "url": "https://open.spotify.com/album/1eFuf3Xkm3XiiPRVX9ambn"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Take Me to the Beach (feat. Jungeli)",
+      "url": "https://open.spotify.com/track/299bs3nx4r3zcmLD8tRPi3"
+    },
+    {
+      "album": {
         "name": "everything and nothing",
         "url": "https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO"
       },
@@ -15792,7 +16144,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 191500,
       "name": "Tanpa Bicara - Acoustic Version",
       "url": "https://open.spotify.com/track/3rZakDmhQjz0UbUjl6eROP"
@@ -15951,6 +16303,24 @@
     },
     {
       "album": {
+        "name": "Teman Saja",
+        "url": "https://open.spotify.com/album/3wlE3ETLSG0qaLzzaVp6p6"
+      },
+      "artists": [
+        {
+          "name": "Giant Jay",
+          "url": "https://open.spotify.com/artist/4m82DgDdkBu9cc55yndlQI"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192001,
+      "name": "Teman Saja",
+      "url": "https://open.spotify.com/track/1zj9UCt1HSAqRSTJQmjB5f"
+    },
+    {
+      "album": {
         "name": "Tempat Bersandar",
         "url": "https://open.spotify.com/album/4ggw3MKcFEIaBpVTuNnkiZ"
       },
@@ -16024,7 +16394,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 269289,
       "name": "Tentang Arah",
       "url": "https://open.spotify.com/track/3k7JKDg3FHbBJMQi2tfedP"
@@ -17492,6 +17862,24 @@
       "duration_ms": 256573,
       "name": "Waktu Untuk Bicara",
       "url": "https://open.spotify.com/track/7LS4TvGDTt7G5BYSeyq8mq"
+    },
+    {
+      "album": {
+        "name": "Walau Berantakan",
+        "url": "https://open.spotify.com/album/2CExf3NHmx6kvunHhck1QP"
+      },
+      "artists": [
+        {
+          "name": "Prince Husein",
+          "url": "https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Walau Berantakan",
+      "url": "https://open.spotify.com/track/075jBu0heVKJ5xjmdhVSqk"
     },
     {
       "album": {

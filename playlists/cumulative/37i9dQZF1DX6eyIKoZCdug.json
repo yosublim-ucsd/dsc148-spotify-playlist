@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "Afrospace / Tazawa Travels",
+        "url": "https://open.spotify.com/album/7cqMB1qQBJbopE3jlnXMmN"
+      },
+      "artists": [
+        {
+          "name": "Wes Lee",
+          "url": "https://open.spotify.com/artist/5jX2NDv1nyXv0FCEP3gqwR"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402051,
+      "name": "Afrospace",
+      "url": "https://open.spotify.com/track/5x6JYfxdpxDA7Yj1fI5iBw"
+    },
+    {
+      "album": {
         "name": "Agolo (Da Capo's Touch)",
         "url": "https://open.spotify.com/album/0PMhkcozXB0evBnUoZIgrY"
       },
@@ -895,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Chibuku",
+        "url": "https://open.spotify.com/album/5QUdoYUVe7djjf9C3XWiZb"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295817,
+      "name": "Chibuku",
+      "url": "https://open.spotify.com/track/6q2TVvIWdKbt7sC3vn4FlO"
+    },
+    {
+      "album": {
         "name": "Close My Eyes",
         "url": "https://open.spotify.com/album/1cU0eE3jwlG2IAIj8WUroc"
       },
@@ -1379,6 +1415,32 @@
     },
     {
       "album": {
+        "name": "Flute Song",
+        "url": "https://open.spotify.com/album/0WFZTdDTOtzGCLd9b9Nj7x"
+      },
+      "artists": [
+        {
+          "name": "OneDown",
+          "url": "https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0"
+        },
+        {
+          "name": "Shona SA",
+          "url": "https://open.spotify.com/artist/2JrL1KzeVKLTNLSzxBtfvk"
+        },
+        {
+          "name": "Thee Suka",
+          "url": "https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466000,
+      "name": "Flute Song",
+      "url": "https://open.spotify.com/track/74cz9TwMCYKkQrWgdSCN5h"
+    },
+    {
+      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/4xXJgKyIOOz5vke0XhzZBj"
       },
@@ -1490,6 +1552,32 @@
       "duration_ms": 362383,
       "name": "Gijima",
       "url": "https://open.spotify.com/track/4Hmn7cV99LSZvSh2nqEqRX"
+    },
+    {
+      "album": {
+        "name": "Give Reason",
+        "url": "https://open.spotify.com/album/2GKWchVyelfjJvMirCf3x9"
+      },
+      "artists": [
+        {
+          "name": "Foozak",
+          "url": "https://open.spotify.com/artist/6bVBQCuQEyT0vgyycuRA4I"
+        },
+        {
+          "name": "Pippi Ciez",
+          "url": "https://open.spotify.com/artist/46aDUWf82wQR9U9G0k3J1v"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Give Reason",
+      "url": "https://open.spotify.com/track/7qLefuu9uxePJsOEm05DLS"
     },
     {
       "album": {
@@ -2578,10 +2666,32 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 422998,
       "name": "Khumbaya",
       "url": "https://open.spotify.com/track/5Vs5kjcC3XFSS8FElfJjlE"
+    },
+    {
+      "album": {
+        "name": "Kitu",
+        "url": "https://open.spotify.com/album/2Sod7d7BoCFDWMSlFJdqF5"
+      },
+      "artists": [
+        {
+          "name": "Dal\u00e9 Habibi",
+          "url": "https://open.spotify.com/artist/7bqd0QpmmKrXc0ma7eGl41"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397948,
+      "name": "Kitu",
+      "url": "https://open.spotify.com/track/6syW3rE6yMNKqVhCSCWMzM"
     },
     {
       "album": {
@@ -4418,6 +4528,32 @@
       "duration_ms": 208000,
       "name": "Spell-Dial",
       "url": "https://open.spotify.com/track/4M3FV9igDRJPm062z10edS"
+    },
+    {
+      "album": {
+        "name": "Stay Near (Zero T X Onj Remix)",
+        "url": "https://open.spotify.com/album/0yrfbMmWGuzdtxzMqGL8K8"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        },
+        {
+          "name": "Zero T",
+          "url": "https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg"
+        },
+        {
+          "name": "Onj",
+          "url": "https://open.spotify.com/artist/6jAVS3p3Z4R0qdUR09qfMK"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272474,
+      "name": "Stay Near - Zero T X Onj Remix",
+      "url": "https://open.spotify.com/track/6gIj8x2yJjuojQPuzmxyaT"
     },
     {
       "album": {

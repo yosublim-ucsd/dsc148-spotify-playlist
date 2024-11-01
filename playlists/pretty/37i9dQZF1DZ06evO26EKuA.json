@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 432694,
+  "num_followers": 432778,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADV/DWT+tt8u+wc6jjPNUCD",
+  "snapshot_id": "ZyF3AAAAAADZ4Fvd0hPgqsgA3ZnOIX/p",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vale Por Siempre",
-        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
       },
       "artists": [
         {
           "name": "Valent\u00edn Elizalde",
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 144400,
-      "name": "El Toro Moro",
-      "url": "https://open.spotify.com/track/6IUAQvGdHpqx6WYl3As5Rh"
+      "duration_ms": 207933,
+      "name": "Hola Y Adios",
+      "url": "https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor"
     },
     {
       "added_at": null,
@@ -803,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+        "name": "El Vale Por Siempre",
+        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
       },
       "artists": [
         {
           "name": "Valent\u00edn Elizalde",
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 207933,
-      "name": "Hola Y Adios",
-      "url": "https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor"
+      "duration_ms": 144400,
+      "name": "El Toro Moro",
+      "url": "https://open.spotify.com/track/6IUAQvGdHpqx6WYl3As5Rh"
     },
     {
       "added_at": null,

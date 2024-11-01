@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 6387,
+  "num_followers": 6397,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAABT0YSHfrCxAuatb9DIwuLv",
+  "snapshot_id": "ZyF3AAAAAAAHMgjc6kgLSpcPNCayHNrj",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO"
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
       },
       "artists": [
         {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
         },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 233250,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
+      "duration_ms": 260000,
+      "name": "Ni\u00f1a Buena",
+      "url": "https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz"
     },
     {
       "added_at": null,
@@ -703,22 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noches De Verano",
-        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO"
       },
       "artists": [
         {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
         },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Ni\u00f1a Buena",
-      "url": "https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz"
+      "duration_ms": 233250,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
     },
     {
       "added_at": null,

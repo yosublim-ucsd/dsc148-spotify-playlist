@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Remi Wolf
 
-523 songs - 1 day 7 hr 46 min
+524 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Marie Kondo](https://open.spotify.com/track/79xgVUXA77Sz3S5WWvfQX3) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events \(Deluxe\)](https://open.spotify.com/album/6TE3Ozdv6QqR4CKbGi7lk2) | 2:58 | 2024-07-24 |  |
 | [Mariners Apartment Complex](https://open.spotify.com/track/4UAW2gObi5o6sJla0qZpPn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Mariners Apartment Complex](https://open.spotify.com/album/4TWQNiXpoHlEBzfg0SeYlG) | 4:06 | 2021-09-03 | 2022-07-29 |
 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 | 2022-03-08 | 2024-04-19 |
-| [Masseduction](https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:17 | 2021-09-03 |  |
+| [Masseduction](https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:17 | 2021-09-03 | 2024-11-01 |
 | [Maybe I'm Amazed](https://open.spotify.com/track/4w3gLnBilV4ux0TfN4VYiW) | [Jem](https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1) | [The O.C\. Vol\. 2](https://open.spotify.com/album/0kJwmMAkfeZds5rz5NK7ID) | 4:42 | 2022-03-08 | 2022-04-20 |
 | [Maybe You're the Reason](https://open.spotify.com/track/7xKjdvYaJ1tvwNXRTAZs78) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Maybe You're the Reason](https://open.spotify.com/album/17KlhxChcvEVCiYqQ54q34) | 3:38 | 2021-09-03 | 2022-07-29 |
 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 | 2022-03-08 | 2024-04-19 |
@@ -460,6 +460,7 @@
 | [The walker](https://open.spotify.com/track/5nTGyhsQmk8NHlg71ZEmmo) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chris](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh) | 4:16 | 2022-03-08 | 2022-04-19 |
 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 | 2022-03-08 |  |
 | [The World Above](https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The World Above](https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO) | 3:32 | 2024-07-24 |  |
+| [Three Floors, Three Doors](https://open.spotify.com/track/3uwHIuMc53EssxvxQlVbil) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Rot](https://open.spotify.com/album/42HRGEN5ltCezgopFl609S) | 3:30 | 2024-09-30 |  |
 | [Three Futures](https://open.spotify.com/track/4LjmXbo15JtdDcb1uixVsj) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Three Futures](https://open.spotify.com/album/1SeYUY17UcbWhQRz0zc97r) | 4:04 | 2022-03-08 | 2022-04-20 |
 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 | 2022-03-08 | 2022-04-18 |
 | [TKO](https://open.spotify.com/track/7KCvbMfHeYrBzK1HrZQt0N) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [This Island](https://open.spotify.com/album/2FEvlkKxysgljyanzduLFe) | 3:24 | 2022-03-08 | 2022-04-13 |

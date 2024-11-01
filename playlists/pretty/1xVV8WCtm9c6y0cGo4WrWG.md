@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > New music from your favourite hip\-hop artists, updated weekly! Featuring GloRilla, Drake, Playboi Carti,  Moneybagg Yo and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 23,369 likes - 70 songs - 3 hr 23 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 23,367 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 162503,
+  "num_followers": 162563,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Meaning To Tell Ya",
-        "url": "https://open.spotify.com/album/72m72nAelaKn2ONWk9nSV0"
+        "name": "The Composers' Voice: Celebrating Australian Women Composers",
+        "url": "https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y"
       },
       "artists": [
         {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+          "name": "Elly Hoyt",
+          "url": "https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG"
         }
       ],
-      "duration_ms": 293453,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/5lpoNwYR4ZIUEHiWSWdzmJ"
+      "duration_ms": 199226,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -339,34 +339,18 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "The Composers' Voice: Celebrating Australian Women Composers",
-        "url": "https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y"
+        "name": "Meaning To Tell Ya",
+        "url": "https://open.spotify.com/album/72m72nAelaKn2ONWk9nSV0"
       },
       "artists": [
         {
-          "name": "Elly Hoyt",
-          "url": "https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG"
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
         }
       ],
-      "duration_ms": 199226,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 198935,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4"
+      "duration_ms": 293453,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/5lpoNwYR4ZIUEHiWSWdzmJ"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -387,6 +371,22 @@
       "duration_ms": 226389,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 198935,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
-      },
-      "artists": [
-        {
-          "name": "Greta Panettieri",
-          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
-        }
-      ],
-      "duration_ms": 368551,
-      "name": "Goodbye Stranger",
-      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 192854,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
+      },
+      "artists": [
+        {
+          "name": "Greta Panettieri",
+          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
+        }
+      ],
+      "duration_ms": 368551,
+      "name": "Goodbye Stranger",
+      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 206004,
-      "name": "Don't Need The Real Thing",
-      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "H I M",
         "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 220728,
       "name": "H I M",
       "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 206004,
+      "name": "Don't Need The Real Thing",
+      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Free Afternoon",
-        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Cunha Ribeiro",
-          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "A Better One for You",
-      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "One Less Lonely Girl",
         "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 236648,
       "name": "One Less Lonely Girl",
       "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Free Afternoon",
+        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Cunha Ribeiro",
+          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "A Better One for You",
+      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "Break In",
+        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
+      },
+      "artists": [
+        {
+          "name": "TICO DE MORAES",
+          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Break In",
+      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "\u00e0 Fleur de Peau",
         "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 207396,
       "name": "Do You Believe",
       "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "Break In",
-        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
-      },
-      "artists": [
-        {
-          "name": "TICO DE MORAES",
-          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Break In",
-      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "The Road Is Narrow",
+        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+      },
+      "artists": [
+        {
+          "name": "Jecca",
+          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "the road is narrow",
+      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "Sugilite",
         "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 233173,
       "name": "Peace - First Sessions Demo",
       "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "The Road Is Narrow",
-        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
-      },
-      "artists": [
-        {
-          "name": "Jecca",
-          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "the road is narrow",
-      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb"
+      },
+      "artists": [
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
         "name": "Heaven's King",
         "url": "https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 215352,
       "name": "Heaven's King",
       "url": "https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb"
-      },
-      "artists": [
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa"
     },
     {
       "added_at": "2024-09-18 05:02:09",

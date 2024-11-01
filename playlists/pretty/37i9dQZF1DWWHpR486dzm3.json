@@ -1,15 +1,15 @@
 {
   "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Goldielocks.",
-  "num_followers": 13873,
+  "num_followers": 13875,
   "original_name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxq1jAAAAAA4+XHyZ1Dy0KBn5VECs/3+",
+  "snapshot_id": "ZyP+HAAAAAAiQumR+cQzVjgnMu2LGfMp",
   "tracks": [
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Provocateur",
         "url": "https://open.spotify.com/album/7IIqR1U6AyKVYrLQeEbczI"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4WM16ujAuOr9QGwPkBT8u4"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Miten t\u00e4\u00e4ll\u00e4 voi el\u00e4\u00e4?",
         "url": "https://open.spotify.com/album/0tXkF0oIujY97ah0f63neX"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5jRJRbKzSWZQtW5ZtitRW9"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Muovipussi kummittelee",
         "url": "https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
+      "album": {
+        "name": "Poseidon",
+        "url": "https://open.spotify.com/album/4jD0WwaxD9Agk4WnvWpF4r"
+      },
+      "artists": [
+        {
+          "name": "Orvokki",
+          "url": "https://open.spotify.com/artist/2hIwNfBlBynlhicFEDBk7e"
+        }
+      ],
+      "duration_ms": 319020,
+      "name": "Poseidon",
+      "url": "https://open.spotify.com/track/0zIlq366VBZMwMZk3FfEpG"
+    },
+    {
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Neuvonantaja / Iso kirkko palaa",
         "url": "https://open.spotify.com/album/5Z5NZpBIV7z3MZOD1yD8eN"
@@ -77,7 +93,39 @@
       "url": "https://open.spotify.com/track/2GZZSOjEAorIgSqvVruMgu"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
+      "album": {
+        "name": "Kari Tapio",
+        "url": "https://open.spotify.com/album/7zWlwV602U48Zjj47Fq1Q3"
+      },
+      "artists": [
+        {
+          "name": "20 000 Hz",
+          "url": "https://open.spotify.com/artist/3iHSklDYGjosLmV4FqAvRQ"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "Kari Tapio",
+      "url": "https://open.spotify.com/track/3GfJDmX88Ta6EfAS1vmupD"
+    },
+    {
+      "added_at": "2024-10-31 22:01:00",
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/6WnSGLqugt2LrVYcGCm59z"
+      },
+      "artists": [
+        {
+          "name": "STINAKO",
+          "url": "https://open.spotify.com/artist/32RRepyiKkxXaddxguld5s"
+        }
+      ],
+      "duration_ms": 304697,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/6YLrY2GuMbinOsQEdBYx9I"
+    },
+    {
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Tarinoita",
         "url": "https://open.spotify.com/album/50ro4O8EMrK0xIgbco7Myt"
@@ -97,7 +145,39 @@
       "url": "https://open.spotify.com/track/1pbHITDVUJ6prDobLK77tg"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
+      "album": {
+        "name": "Anteeksi, Tuulia",
+        "url": "https://open.spotify.com/album/3TPUOnw8D2H9ShZkTcz4kR"
+      },
+      "artists": [
+        {
+          "name": "Saarisalo",
+          "url": "https://open.spotify.com/artist/6IgTXnqCShUIfXhX2eC8Yl"
+        }
+      ],
+      "duration_ms": 216568,
+      "name": "Anteeksi, Tuulia",
+      "url": "https://open.spotify.com/track/4sv9FUIdCsHBAX9oxXInzx"
+    },
+    {
+      "added_at": "2024-10-31 22:01:00",
+      "album": {
+        "name": "Fresh!",
+        "url": "https://open.spotify.com/album/1kGB89khvuCtSDqvPb6mSo"
+      },
+      "artists": [
+        {
+          "name": "Jari Raaste",
+          "url": "https://open.spotify.com/artist/1Pt8I79A8fqtQNibfZFk1O"
+        }
+      ],
+      "duration_ms": 251952,
+      "name": "Luonto on mystinen",
+      "url": "https://open.spotify.com/track/6D2xbT6HYVt4NE5naPjfCK"
+    },
+    {
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "N\u00e4\u00e4j",
         "url": "https://open.spotify.com/album/7nc7HNMEG0asZ2RQ8R3nJl"
@@ -113,7 +193,23 @@
       "url": "https://open.spotify.com/track/7vkJYuULWTghhxEisMGuz1"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
+      "album": {
+        "name": "Oh, Sorrow",
+        "url": "https://open.spotify.com/album/0yvq2dcLQ58WUS5Bq925Yh"
+      },
+      "artists": [
+        {
+          "name": "UTU",
+          "url": "https://open.spotify.com/artist/6k7RuActVz2KVaCmmY2JvW"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Oh, Sorrow",
+      "url": "https://open.spotify.com/track/2RFvmlXtS1NPqo2tGk5I7I"
+    },
+    {
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Rakastut muihin tytt\u00f6ihin",
         "url": "https://open.spotify.com/album/1OfUXX1PZtEi3AbT22bTXc"
@@ -129,7 +225,23 @@
       "url": "https://open.spotify.com/track/73I8G01m1fv2RWx6sR9GZW"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
+      "album": {
+        "name": "J\u00e4ljell\u00e4",
+        "url": "https://open.spotify.com/album/5JJExMtVa7gx5HJH1SPVYU"
+      },
+      "artists": [
+        {
+          "name": "Sonja Selene",
+          "url": "https://open.spotify.com/artist/5xhxgugC1UFNupTURflnZX"
+        }
+      ],
+      "duration_ms": 182521,
+      "name": "J\u00e4ljell\u00e4",
+      "url": "https://open.spotify.com/track/6GNR7BbxSHFvKe6fhx19KI"
+    },
+    {
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Funny Girl",
         "url": "https://open.spotify.com/album/07kACnPnws9MluGjKSX9fd"
@@ -145,7 +257,7 @@
       "url": "https://open.spotify.com/track/6LLItF2B9RV99W91oglZ6e"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Sin Sisters",
         "url": "https://open.spotify.com/album/17iqjxQNOXtcQYtzXtv5Ow"
@@ -161,7 +273,23 @@
       "url": "https://open.spotify.com/track/6edJMxqip1ic6YF73RXTkl"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
+      "album": {
+        "name": "Walk Through the Shadows",
+        "url": "https://open.spotify.com/album/0gtCIb9SRwPITNbCmxlS9n"
+      },
+      "artists": [
+        {
+          "name": "The Moon Trees",
+          "url": "https://open.spotify.com/artist/6fZ9LphEgXRHUAGGMf11F9"
+        }
+      ],
+      "duration_ms": 219348,
+      "name": "Walk Through the Shadows",
+      "url": "https://open.spotify.com/track/2amFbex2Xbcfk9uEuuzwNb"
+    },
+    {
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Galactic Romance (Kiva Kiva Versio)",
         "url": "https://open.spotify.com/album/6UuQd9fdXpv3AeMRDo2P7i"
@@ -181,7 +309,23 @@
       "url": "https://open.spotify.com/track/27BDYTZ3MSkVkxaKShmzoQ"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
+      "album": {
+        "name": "Sadan vuoden p\u00e4\u00e4st\u00e4 se on t\u00e4t\u00e4 samaa paskaa",
+        "url": "https://open.spotify.com/album/4SrvMNuWHYLBIJzY6NieTM"
+      },
+      "artists": [
+        {
+          "name": "(proto)Torvinen",
+          "url": "https://open.spotify.com/artist/3UxBCoeW5rh7kmxB5TPyWd"
+        }
+      ],
+      "duration_ms": 277015,
+      "name": "Sadan vuoden p\u00e4\u00e4st\u00e4 se on t\u00e4t\u00e4 samaa paskaa",
+      "url": "https://open.spotify.com/track/5oEdsobU4rzVHI59KFJFgB"
+    },
+    {
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "tuplavee",
         "url": "https://open.spotify.com/album/7AawXD0v5sqCUOdO53jjIF"
@@ -197,7 +341,7 @@
       "url": "https://open.spotify.com/track/5FDPLWctT2AenV0fNjvGqb"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Muista, ett\u00e4 kaikki ei vihaa sua koko ajan",
         "url": "https://open.spotify.com/album/1t3FJ95d89DRmnAh5Dr7uk"
@@ -213,7 +357,7 @@
       "url": "https://open.spotify.com/track/3XnMXFJtRh7yMPeWywO4KM"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Take Me to the Honky Tonk",
         "url": "https://open.spotify.com/album/7cVjxOw9QATGZuvJ06KFxC"
@@ -229,7 +373,7 @@
       "url": "https://open.spotify.com/track/0I0KcC7BvNc2Glv0brkhfn"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Kuinka meid\u00e4n nyt k\u00e4y?",
         "url": "https://open.spotify.com/album/1JwAaxbjWtknOYas999WTP"
@@ -245,23 +389,39 @@
       "url": "https://open.spotify.com/track/18k6xNK0dyCGxQx7r3ZvZW"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
-        "name": "Hajonneet",
-        "url": "https://open.spotify.com/album/3OxmINoGWVzYpG4uqck89U"
+        "name": "Ilotalo",
+        "url": "https://open.spotify.com/album/5MN9wEeWJB0WewDfvbwVPY"
       },
       "artists": [
         {
-          "name": "Aksel Kankaanranta",
-          "url": "https://open.spotify.com/artist/6IEH2DB0MSkCSY3uro9za2"
+          "name": "Unta",
+          "url": "https://open.spotify.com/artist/6eCXE59em49tCPf7LYosyz"
         }
       ],
-      "duration_ms": 185620,
-      "name": "Hajonneet",
-      "url": "https://open.spotify.com/track/6NIVHos43HS850pmsXWzHy"
+      "duration_ms": 231289,
+      "name": "Ilotalo",
+      "url": "https://open.spotify.com/track/3gDuesuKOYlgYj4a2QTmN6"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
+      "album": {
+        "name": "Aloittelijan virhe",
+        "url": "https://open.spotify.com/album/4d4zc7ijy9H0WvShVnIrmp"
+      },
+      "artists": [
+        {
+          "name": "Matka maailman ymp\u00e4ri",
+          "url": "https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG"
+        }
+      ],
+      "duration_ms": 145346,
+      "name": "Aloittelijan virhe",
+      "url": "https://open.spotify.com/track/1sv3nfLkuPYRofmblnlD6a"
+    },
+    {
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Anna K.",
         "url": "https://open.spotify.com/album/0OQ2tfOnec7JrExaxlUa9Y"
@@ -277,7 +437,7 @@
       "url": "https://open.spotify.com/track/0XIyge4FqVuwSgDZeEZnf1"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1E3B8lNRQRa8BIAi7eKy5c"
@@ -293,7 +453,7 @@
       "url": "https://open.spotify.com/track/1gmaB0RKMdollyeT416VUn"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Melkein ilmaa",
         "url": "https://open.spotify.com/album/7KxfP0QF5acpsuSowT8yeS"
@@ -309,7 +469,7 @@
       "url": "https://open.spotify.com/track/67TF01CwfdEBDaJonqSJh1"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Lasersotaa",
         "url": "https://open.spotify.com/album/0eISvDUpaATC3IVXp867qO"
@@ -325,7 +485,23 @@
       "url": "https://open.spotify.com/track/79gkPsSdcDaoDhrEJBcQyM"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
+      "album": {
+        "name": "Viimeist\u00e4 kertaa",
+        "url": "https://open.spotify.com/album/3REAGst437Ux5Y49doP72W"
+      },
+      "artists": [
+        {
+          "name": "Jere Valkonen",
+          "url": "https://open.spotify.com/artist/0FtRSBfEsyAf0Wo7yOXW9A"
+        }
+      ],
+      "duration_ms": 323298,
+      "name": "Nuoret syd\u00e4met",
+      "url": "https://open.spotify.com/track/6qAgr4tnj5Xox23OfX3ws5"
+    },
+    {
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Siskoni on noita",
         "url": "https://open.spotify.com/album/1p0qXPKeZmj2LeGK5BDsia"
@@ -341,7 +517,7 @@
       "url": "https://open.spotify.com/track/1pkhbH9d1S7bBxKCJV5Bda"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Sex",
         "url": "https://open.spotify.com/album/6QwjDeBKY3VKcKIiMoRvtH"
@@ -357,7 +533,7 @@
       "url": "https://open.spotify.com/track/5GRiNGDrXfmXyFU0a2CNJ9"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Athena, Athena, Athena",
         "url": "https://open.spotify.com/album/0TINrfkGvfl1ZaRVGv6V3t"
@@ -373,23 +549,23 @@
       "url": "https://open.spotify.com/track/4XBOfVBO6RZKfHqdAxVwdH"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/4n4zRZQK6uALXwzTPddMFJ"
+        "name": "Palok\u00e4rki",
+        "url": "https://open.spotify.com/album/4tGcEh99CgkdSLkjllY1FY"
       },
       "artists": [
         {
-          "name": "Icons Of Elegance",
-          "url": "https://open.spotify.com/artist/4CGwhxlwo7fMWrVxJFHNNn"
+          "name": "Anu Marin",
+          "url": "https://open.spotify.com/artist/4ZnvzlyZN5JgSr62QF0Oxz"
         }
       ],
-      "duration_ms": 211665,
-      "name": "(Welcome To) Our Corner Of The World",
-      "url": "https://open.spotify.com/track/24iPHWQG4S0EU10Gv3lUAR"
+      "duration_ms": 230503,
+      "name": "Palok\u00e4rki",
+      "url": "https://open.spotify.com/track/1goz5d8k5Rga73n5dby3Mt"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Straight to you",
         "url": "https://open.spotify.com/album/3r5eweHhAhB7qNOTcf8kiK"
@@ -405,7 +581,7 @@
       "url": "https://open.spotify.com/track/1WHyiFIYIo3CJD5MH94XH0"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "ehk\u00e4 syksy muuttaa kaiken",
         "url": "https://open.spotify.com/album/6YP12n4bMUpxBGZEoewcci"
@@ -421,7 +597,7 @@
       "url": "https://open.spotify.com/track/2GO2c2x72lyCXEsc2xVAuW"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/4BKjWB20RRyTjBs4lLkaxb"
@@ -437,7 +613,7 @@
       "url": "https://open.spotify.com/track/0y4JIiK1gCvFz2QDbTabjB"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "On tapahtumassa r\u00e4j\u00e4hdys",
         "url": "https://open.spotify.com/album/4zjD7URlefyj9smZuXWppY"
@@ -453,7 +629,7 @@
       "url": "https://open.spotify.com/track/2ZNKIcOUecDZJRG1saHhrw"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "In Between",
         "url": "https://open.spotify.com/album/6ehuBLC9diSvmAfMgzRKsW"
@@ -469,7 +645,7 @@
       "url": "https://open.spotify.com/track/70wf6hQBqtQ85HCKWK71IH"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Sun eleet",
         "url": "https://open.spotify.com/album/26ns2Rs6WlbC1ha9FE4dLo"
@@ -485,7 +661,7 @@
       "url": "https://open.spotify.com/track/60c70e4asQDKYgW4vwfCPd"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Epilogi",
         "url": "https://open.spotify.com/album/2OfMztNmDsymiwINFj5nwS"
@@ -501,7 +677,7 @@
       "url": "https://open.spotify.com/track/57E3v3ytNyBFeHXAdkNjJC"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Mik\u00e4\u00e4n ei riit\u00e4",
         "url": "https://open.spotify.com/album/220GKV9ZFQmJpajQNHjA9L"
@@ -517,7 +693,7 @@
       "url": "https://open.spotify.com/track/4YNuneqO5FfotWW3OZUych"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Paha maa",
         "url": "https://open.spotify.com/album/3eEACvL4jEhDbbjHIh5fvx"
@@ -533,7 +709,7 @@
       "url": "https://open.spotify.com/track/5m0k08yKvP86Es3VB6Eglc"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Pahat tunteet",
         "url": "https://open.spotify.com/album/5AvgXlIBxcLEbDoAP79vbo"
@@ -557,7 +733,7 @@
       "url": "https://open.spotify.com/track/2SnhdrN2J0fD9XgTUjlBCT"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Stadion",
         "url": "https://open.spotify.com/album/2MkmIMWWpqrc9zmkN8LOw3"
@@ -573,7 +749,7 @@
       "url": "https://open.spotify.com/track/4CrJH1SsGoRfcc85MRBJLs"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Good Grief",
         "url": "https://open.spotify.com/album/07FsfugRNSbb2BwqQugEn1"
@@ -589,7 +765,7 @@
       "url": "https://open.spotify.com/track/7EapjLqmlJUFv94HqX9mgz"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "S\u00e4vyt",
         "url": "https://open.spotify.com/album/0dZvYXI0Uea8gOhWvi7Po8"
@@ -609,7 +785,7 @@
       "url": "https://open.spotify.com/track/6eTUgK4fXPsQHIeXOJEjq0"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "J\u00e4lkikirjoitus",
         "url": "https://open.spotify.com/album/3TfneeYWEpSN9INv4lgzdr"
@@ -625,23 +801,7 @@
       "url": "https://open.spotify.com/track/7ho5nA1hnC2e21ITrV42A5"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "kirjeit\u00e4 (vol. 1) - EP",
-        "url": "https://open.spotify.com/album/4mqxDtZvUHDtA7pa30eHQ7"
-      },
-      "artists": [
-        {
-          "name": "vivian",
-          "url": "https://open.spotify.com/artist/5mGgHBjw7fQeVUmZKzlKey"
-        }
-      ],
-      "duration_ms": 169251,
-      "name": "annan anteeks",
-      "url": "https://open.spotify.com/track/3rVH0z5PBsmXltxqNHsLKV"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "The Black Window",
         "url": "https://open.spotify.com/album/1P7IinPTYt88XxiciNfFjf"
@@ -657,7 +817,7 @@
       "url": "https://open.spotify.com/track/0sLKm2eouN9LvAEtB29bS3"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Seatbelt",
         "url": "https://open.spotify.com/album/5CRPl9xNBPWZ4wHWUJIznZ"
@@ -673,7 +833,7 @@
       "url": "https://open.spotify.com/track/44UqQNc7sjM1lnOgGT3KdM"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Peijas",
         "url": "https://open.spotify.com/album/0yj8jtMr3WBrPhwCSqIsds"
@@ -689,7 +849,7 @@
       "url": "https://open.spotify.com/track/6TeANeiELir1MPQfjoIChV"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "The Wolves",
         "url": "https://open.spotify.com/album/1zfbEkAdXd7IjWiz2nnMDY"
@@ -705,7 +865,7 @@
       "url": "https://open.spotify.com/track/3zYxUsvUDKFqSdrPVoSqvb"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "L\u00e4hteet laaksojen",
         "url": "https://open.spotify.com/album/3GJ7TUpbQzVUccukHMnyAP"
@@ -721,7 +881,7 @@
       "url": "https://open.spotify.com/track/0azALGAVCFjEjdbBsP0XPV"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Man Without a Name",
         "url": "https://open.spotify.com/album/5Go1TW6a8Y2ljoRPh8PNLO"
@@ -737,7 +897,7 @@
       "url": "https://open.spotify.com/track/37Bahti4gb141DWxnzC1YF"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Ghosting",
         "url": "https://open.spotify.com/album/0iwm3YiGvbrgwrqWZlBcHK"
@@ -753,7 +913,7 @@
       "url": "https://open.spotify.com/track/5EcIDakGLGize4iTVjCbhm"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "50 Years",
         "url": "https://open.spotify.com/album/2xIu15pj34gpXGXchk48D6"
@@ -769,23 +929,7 @@
       "url": "https://open.spotify.com/track/44e2wBM4lKjSCFoOjFtc9J"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "N\u00e4hd\u00e4\u00e4n taas jossain",
-        "url": "https://open.spotify.com/album/4L956AqRp8yoAOzEg7WBvT"
-      },
-      "artists": [
-        {
-          "name": "Haliseva",
-          "url": "https://open.spotify.com/artist/47ZXoxgcQWLibUku23lS81"
-        }
-      ],
-      "duration_ms": 179444,
-      "name": "Himaan",
-      "url": "https://open.spotify.com/track/1LKsPoSOacCODXxqmMuQxs"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "sykli",
         "url": "https://open.spotify.com/album/0njWEWSVPYnQS57ETR95HP"
@@ -801,7 +945,7 @@
       "url": "https://open.spotify.com/track/0KKOOlwOs3Nuafjr7MWmn7"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Eva",
         "url": "https://open.spotify.com/album/5wp42Frgucio39KmmTh6XK"
@@ -817,7 +961,7 @@
       "url": "https://open.spotify.com/track/6VZeHQ3aiKYvfSsPJMmn12"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Kurssilla",
         "url": "https://open.spotify.com/album/7AmWyZkJy2owigcs8YSj9i"
@@ -833,7 +977,7 @@
       "url": "https://open.spotify.com/track/5oTQ1OOIvYMFkxboE3PNxH"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Outoja asioita",
         "url": "https://open.spotify.com/album/507yrIZ9VWx71WGPlW3LPe"
@@ -849,7 +993,7 @@
       "url": "https://open.spotify.com/track/0EQ90bXxI468crQjYjawX2"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Merenneito",
         "url": "https://open.spotify.com/album/4IspOhCi597njsuVD0QzBi"
@@ -865,7 +1009,7 @@
       "url": "https://open.spotify.com/track/5LbGsP0guVvJrs2AYq0Y5B"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "T\u00e4hdet palaavat paikoilleen",
         "url": "https://open.spotify.com/album/72aIF0sqxUMRlIpxjAlW89"
@@ -885,7 +1029,7 @@
       "url": "https://open.spotify.com/track/6dlCWGKcop1i3AZGpANuzX"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Body Remembers",
         "url": "https://open.spotify.com/album/7LC0EkIxNvudkVWgJ5ZEUw"
@@ -901,7 +1045,7 @@
       "url": "https://open.spotify.com/track/04eKsQo2ssmxcxOx57FYul"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "math and molecules / yetanother",
         "url": "https://open.spotify.com/album/4QHYTcX1ok3oeHeF5P2XiL"
@@ -917,7 +1061,7 @@
       "url": "https://open.spotify.com/track/16kSKpLDBHHBVWCKkQCZTb"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/0YAQTUO3cu1D3WUn7uGv4C"
@@ -937,7 +1081,7 @@
       "url": "https://open.spotify.com/track/7ECXrlAO0WYz9cVzCbc0dh"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Pienen puun alla",
         "url": "https://open.spotify.com/album/1fSqwARY8mMCtzJRF9cEs7"
@@ -953,7 +1097,7 @@
       "url": "https://open.spotify.com/track/37TfZfSkh2z0NU1ruDvDcA"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Tuun muistamaan t\u00e4n pahalla",
         "url": "https://open.spotify.com/album/3CAbwKGmd7bD5oeJmyLaV5"
@@ -969,27 +1113,7 @@
       "url": "https://open.spotify.com/track/5DnWDmRWnOoYD3Zz4B5Dbc"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Aikamatkustaja",
-        "url": "https://open.spotify.com/album/5qPuBfEZGnZnNlyaQgVOBD"
-      },
-      "artists": [
-        {
-          "name": "Kanerva",
-          "url": "https://open.spotify.com/artist/5exh5RwXLMKrAxEpmrFZOi"
-        },
-        {
-          "name": "Asa",
-          "url": "https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Aikamatkustaja",
-      "url": "https://open.spotify.com/track/1Hl1y31mskaUe67b3HaY3P"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Menk\u00e4\u00e4 te juhliin",
         "url": "https://open.spotify.com/album/4QZ9iqsanS70PSPrzaxKMV"
@@ -1005,7 +1129,7 @@
       "url": "https://open.spotify.com/track/1hZlgw1SJFkOpCINmOaqpm"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Samanlaisii",
         "url": "https://open.spotify.com/album/6Ep8JJfImA4OKV5cHgtJEC"
@@ -1021,55 +1145,7 @@
       "url": "https://open.spotify.com/track/5I6AXxre7RMWk3L1rTQMML"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Turvapaikka",
-        "url": "https://open.spotify.com/album/6KRGkcOWkTmpCeI8rYOGkN"
-      },
-      "artists": [
-        {
-          "name": "Nana Janger",
-          "url": "https://open.spotify.com/artist/4TNuXeUXbT3RhmzJBB9XJ4"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "turning \"murder\" a safe word",
-      "url": "https://open.spotify.com/track/7mAMh3Nq0K6AsRwc8pbz0W"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "What You Seem To Know",
-        "url": "https://open.spotify.com/album/3CbIHRdbaoj3Fb2UGoXEcp"
-      },
-      "artists": [
-        {
-          "name": "Cassette Fortuna",
-          "url": "https://open.spotify.com/artist/7rGoQvuxMhL5hxlk0CZZyH"
-        }
-      ],
-      "duration_ms": 236562,
-      "name": "What You Seem To Know",
-      "url": "https://open.spotify.com/track/4zTxaccohdnVgDODQYlxGA"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Mennyt ja nykyinen",
-        "url": "https://open.spotify.com/album/3J4xDOk8UbXxQkT0bn027Z"
-      },
-      "artists": [
-        {
-          "name": "Thilia",
-          "url": "https://open.spotify.com/artist/6Dw0EbEexq4nq4pEP6ASUP"
-        }
-      ],
-      "duration_ms": 230446,
-      "name": "Mennyt ja nykyinen",
-      "url": "https://open.spotify.com/track/6Enq5peNfnEAYXx1XPjzFV"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "S\u00e4 et kuule mun sanoja",
         "url": "https://open.spotify.com/album/4x2xl64Et7IzFYabb0UEVk"
@@ -1085,7 +1161,7 @@
       "url": "https://open.spotify.com/track/0YYQDA0Xu8NOrvVZ92K6VP"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Kukat voi huonosti",
         "url": "https://open.spotify.com/album/6leR5KRiitcKwX54ZpduCy"
@@ -1101,7 +1177,7 @@
       "url": "https://open.spotify.com/track/4j8TwVjJJu920fEuZ2Clmc"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Lost in a Dream",
         "url": "https://open.spotify.com/album/4kKP3ZJ4ugW7Q5jF0RdHGV"
@@ -1117,23 +1193,7 @@
       "url": "https://open.spotify.com/track/1uAa4fsYfheOYU3ZWc2OB2"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Chicago",
-        "url": "https://open.spotify.com/album/4Tzl2vz5Ur3GCtrOBG2rAK"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5nskensbonden",
-          "url": "https://open.spotify.com/artist/6Ro0ka28xsN0M4qBrTr6Ac"
-        }
-      ],
-      "duration_ms": 285281,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/5bRA57IKVOe4lpuNW5E5gj"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/06COurcZMlUUSJDEKulqdr"
@@ -1149,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0sPPToDPwOW5Sdep4rHWQq"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5aTKOukhLPVXwvJtyLJ8nx"
@@ -1165,23 +1225,7 @@
       "url": "https://open.spotify.com/track/1PZPz8ZGHCVoM1dLBXqyjy"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Rakkauden konsultti",
-        "url": "https://open.spotify.com/album/6KcduvYQihz83kNakNMaQ1"
-      },
-      "artists": [
-        {
-          "name": "Ne on Ne",
-          "url": "https://open.spotify.com/artist/2gXyVSrSJ1FDWEzJE69r7m"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Rakkauden konsultti",
-      "url": "https://open.spotify.com/track/5mA1zPMMc96OVkuaxtpjF1"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Syke",
         "url": "https://open.spotify.com/album/7L6MNO2tF90KP7UZhB85sZ"
@@ -1197,7 +1241,7 @@
       "url": "https://open.spotify.com/track/35rpM44V8JXwqAo3JOldht"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Party Freak",
         "url": "https://open.spotify.com/album/6LarYwJRaDD8fCzGa6OJa4"
@@ -1213,23 +1257,7 @@
       "url": "https://open.spotify.com/track/3azCLHtmdQNNk2fJBO2yC6"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "I Wanna Be A Hipster",
-        "url": "https://open.spotify.com/album/4l741xRZWN8QHJDxHpgQjw"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Raid",
-          "url": "https://open.spotify.com/artist/53dLQQZFdX3WuK7RjFB5UP"
-        }
-      ],
-      "duration_ms": 175350,
-      "name": "I Wanna Be A Hipster",
-      "url": "https://open.spotify.com/track/6LHx6CvOAuwc90XcGjAxCv"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/7x9S4srTZwfNhzM4fNrR1t"
@@ -1245,79 +1273,7 @@
       "url": "https://open.spotify.com/track/5o1VFI9pkftoG25k2M8j0Q"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Old School Love",
-        "url": "https://open.spotify.com/album/2adJh9cTT3LhX4KKuZ7Rgl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Amupala",
-          "url": "https://open.spotify.com/artist/1RlTOd1g0mfnU32C4avYRA"
-        },
-        {
-          "name": "Sonja Ebeling",
-          "url": "https://open.spotify.com/artist/4GJ1eDdGqCEn39Ho3XNB3d"
-        }
-      ],
-      "duration_ms": 276724,
-      "name": "Old School Love",
-      "url": "https://open.spotify.com/track/4jCMtUq6VT0QLbBUkFVEEX"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Parempia miehi\u00e4",
-        "url": "https://open.spotify.com/album/4FxHepYB7ASHtYTrqDjMGW"
-      },
-      "artists": [
-        {
-          "name": "Krista Vuolo",
-          "url": "https://open.spotify.com/artist/6obyuCvE8HdXTeX8w2NlDo"
-        }
-      ],
-      "duration_ms": 204308,
-      "name": "Parempia miehi\u00e4",
-      "url": "https://open.spotify.com/track/5YZ1OGj3RQu7p7ybKhYkop"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Pekka Laine & The Enchanted in Slumberland",
-        "url": "https://open.spotify.com/album/7q1Y9bscrfoHMJ5LYfDZeX"
-      },
-      "artists": [
-        {
-          "name": "Pekka Laine",
-          "url": "https://open.spotify.com/artist/2qS0rXD8DBXVA3OJS3xQkF"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Sunflower Kid",
-      "url": "https://open.spotify.com/track/1qspMuqYsX3UQ2Ezj4sVOW"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Vizardit",
-        "url": "https://open.spotify.com/album/1T8zqrK1dACnjDWICATKGH"
-      },
-      "artists": [
-        {
-          "name": "Hild\u00e1 L\u00e4nsman",
-          "url": "https://open.spotify.com/artist/3qjN2jBKLV1lbJ476k9e1P"
-        },
-        {
-          "name": "Tuomas Norvio",
-          "url": "https://open.spotify.com/artist/6cJR1BWIq2MZwAqmEOHDlC"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Vizardit",
-      "url": "https://open.spotify.com/track/5GOslFje4LJbJiMT4TfXpl"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Toinen N\u00e4yt\u00f6s",
         "url": "https://open.spotify.com/album/6L7JBoeuSEqzXCXk2oLPqH"
@@ -1333,23 +1289,7 @@
       "url": "https://open.spotify.com/track/5RU8B1BqzuMbGs6hFsuecQ"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Korpit kyselev\u00e4t",
-        "url": "https://open.spotify.com/album/1lB63knrtoI0E0yG1nHzTJ"
-      },
-      "artists": [
-        {
-          "name": "Kaita Is\u00e4ri Sepp\u00e4l\u00e4",
-          "url": "https://open.spotify.com/artist/2Uzu5DGiDcgrATD8qtJqjS"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "Maanantaina Kiinaan",
-      "url": "https://open.spotify.com/track/6eTTka2pDoiJ18nxH4wTVP"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "Kaikki kauniit sanat",
         "url": "https://open.spotify.com/album/7fpJvkuYgj5QoFfaXy4kJb"
@@ -1365,7 +1305,7 @@
       "url": "https://open.spotify.com/track/2P4twR4evusRsFtqwhNQWv"
     },
     {
-      "added_at": "2024-10-24 21:01:00",
+      "added_at": "2024-10-31 22:01:00",
       "album": {
         "name": "\u00c4ysk\u00e4ri",
         "url": "https://open.spotify.com/album/5SeCAuQQQZOqeOtFymY2qv"
@@ -1379,38 +1319,6 @@
       "duration_ms": 261874,
       "name": "\u00c4ysk\u00e4ri",
       "url": "https://open.spotify.com/track/78SmqoqkoDg8Vfp9MAUzps"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Acid Rain",
-        "url": "https://open.spotify.com/album/0n9Y47umqJkp6gpcvCc5jp"
-      },
-      "artists": [
-        {
-          "name": "Astral Bazaar",
-          "url": "https://open.spotify.com/artist/3SWJqNmex4TiAkT3yCtQx4"
-        }
-      ],
-      "duration_ms": 411230,
-      "name": "Acid Rain",
-      "url": "https://open.spotify.com/track/3bQSAAH2vtU8nVieTLDOge"
-    },
-    {
-      "added_at": "2024-10-24 21:01:00",
-      "album": {
-        "name": "Madonna mia",
-        "url": "https://open.spotify.com/album/2yAlr44fgLDOC76JhuxiN0"
-      },
-      "artists": [
-        {
-          "name": "Tappo Macina",
-          "url": "https://open.spotify.com/artist/7M1We3Yi2OrsU7csT6cfpA"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Madonna mia",
-      "url": "https://open.spotify.com/track/0AcSiP83WmYo8maq71HZRJ"
     }
   ],
   "unique_name": "Suomi-indie t\u00e4n\u00e4\u00e4n",

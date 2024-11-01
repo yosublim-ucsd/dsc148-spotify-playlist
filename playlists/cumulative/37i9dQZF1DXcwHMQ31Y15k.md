@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Denny Caknan
 
-404 songs - 1 day 9 hr 33 min
+408 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Anak Lanang \- Live](https://open.spotify.com/track/3WV04K6iHFtoDy5NJ3eYQ9) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Anak Lanang \(Live\)](https://open.spotify.com/album/37UR4PopF3odzG2214LRW2) | 6:36 | 2023-12-08 | 2024-07-27 |
 | [Anak Lanang \- Original](https://open.spotify.com/track/4BpYgcqRrKBkb1bOHjAokU) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Anak Lanang \(Original\)](https://open.spotify.com/album/4J8XI8nbtRqxOHeR7R3m1E) | 4:29 | 2024-02-01 |  |
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2022-05-26 | 2023-02-10 |
+| [Angel Pol](https://open.spotify.com/track/0bGU5vDSFhtfXMW4Hjjnmx) | [Michelle Ziudith](https://open.spotify.com/artist/3bUtlTJugBUFNlyoVVFqhd) | [Angel Pol](https://open.spotify.com/album/0hAQlfLRoKzzCIUSqdFLrV) | 5:06 | 2024-10-31 |  |
 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 | 2022-05-26 | 2023-12-09 |
 | [Apik](https://open.spotify.com/track/4wKs47lXYzgdkhEfU2X1L6) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Apik](https://open.spotify.com/album/0U63NlQb7uOyrEMEv4TCRK) | 5:42 | 2023-11-17 | 2024-08-03 |
 | [Apik](https://open.spotify.com/track/0WYYAgNgtD4GzXfd0rfTiQ) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB), [Ajeng Febria](https://open.spotify.com/artist/7fSK1XqTJMwzDw6zwjK8Sg) | [Apik](https://open.spotify.com/album/5KrGCnrUVPALTTRza5FP3N) | 4:54 | 2024-05-24 | 2024-08-30 |
@@ -51,6 +52,7 @@
 | [Bubrah](https://open.spotify.com/track/25RJ8ELZpDxxqYewIesAXY) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Bubrah](https://open.spotify.com/album/5Nkut8ikqRpSbTAplNoMat) | 5:46 | 2024-01-11 | 2024-04-19 |
 | [Bubrah](https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Bubrah](https://open.spotify.com/album/07urzunOSaLFzBroFn2YK0) | 5:46 | 2023-08-11 |  |
 | [Buruh Cod](https://open.spotify.com/track/5nNtFgYU63ARLesoZpvqu2) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Buruh Cod](https://open.spotify.com/album/2R3D6QY8kwuyOdFJjtzfCk) | 4:28 | 2024-04-04 | 2024-07-27 |
+| [Candu](https://open.spotify.com/track/1ZeyqWBDfQT3FREDYcU78f) | [Lamunan](https://open.spotify.com/artist/4V21B91KK3Mx2IrDbbDZMf) | [Candu](https://open.spotify.com/album/6EXCNl6W9ZSj2CZ4r7sfYm) | 4:51 | 2024-10-31 |  |
 | [Cerito Loro](https://open.spotify.com/track/38Nuk68iieYHlkDS0YCKXr) | [Vita Alvia](https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka), [Wandra](https://open.spotify.com/artist/4HwQpZ2YlYi6CXR26ABv2C) | [Cerito Loro](https://open.spotify.com/album/0QJVkrVo41DWwJPXv4gz40) | 6:28 | 2022-05-26 | 2022-08-19 |
 | [Cerito Loro](https://open.spotify.com/track/7wS49arIx5EbhQjcC5pQ7f) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Cerito Loro](https://open.spotify.com/album/0CdPartaR6rH1H2WEHXH6K) | 6:11 | 2022-05-26 | 2022-06-10 |
 | [Cerito Loro](https://open.spotify.com/track/5WlpC5mmiCAPg2K3gRqSmT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Galih Wicaksono](https://open.spotify.com/artist/6f0rq6gDaNBhyQoeOiYrZb) | [Cerito Loro](https://open.spotify.com/album/1ybLko4XaB8e2aDJh3W87T) | 5:46 | 2022-05-26 | 2022-06-10 |
@@ -292,6 +294,7 @@
 | [Pujaningsih](https://open.spotify.com/track/1mi2dlST0WDqL1zU4bqNGs) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY), [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Pujaningsih](https://open.spotify.com/album/3K5uzPkTzwGGCZO29ae0wT) | 6:24 | 2024-10-11 |  |
 | [PUJANINGSIH](https://open.spotify.com/track/5HJ6EpywbFvVl7T8MaGjug) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [PUJANINGSIH](https://open.spotify.com/album/0omqUjODctC7iOr6ykcTLj) | 5:46 | 2024-08-29 |  |
 | [Pungkas](https://open.spotify.com/track/4sVArZtZaWWyAa1uRhuDtw) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Pungkas](https://open.spotify.com/album/2ZjIMz1UN6S7uQxMeX1pKi) | 4:36 | 2024-02-16 | 2024-03-30 |
+| [Pupus](https://open.spotify.com/track/1B03UqsH5VJ5YQSO1ew0aP) | [Evan Sanders](https://open.spotify.com/artist/1qiBflbBz0FZdGLkoTH0uM) | [Pupus](https://open.spotify.com/album/1btDc2Ec1fnYrdMsf0VeRc) | 4:27 | 2024-10-31 |  |
 | [Putri Shanghai](https://open.spotify.com/track/3WXVIA4xWlWVHgKQ7BzA1n) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Putri Shanghai](https://open.spotify.com/album/1XEzXnnc6uPNV3a7OkXzX5) | 3:00 | 2024-03-08 | 2024-07-27 |
 | [Putri Shanghai](https://open.spotify.com/track/5SDMXIi9qDUhFeAwkWiQus) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Putri Shanghai](https://open.spotify.com/album/63UvRwzqEhOIWgqGu5ZFig) | 3:00 | 2024-03-14 | 2024-04-19 |
 | [Putusen Isun](https://open.spotify.com/track/0BOqquPAmK8CQfAakY2era) | [Suci Tacik](https://open.spotify.com/artist/3TKvWnJYLr7jadsDJkyNod) | [Putusen Isun](https://open.spotify.com/album/4FIbk7xS83FyEBDaoP0YV5) | 4:32 | 2022-07-29 | 2023-06-16 |
@@ -330,6 +333,7 @@
 | [SAMAR \- Versi Akustik](https://open.spotify.com/track/5QBr8tq760ApYwE4I5ZxDg) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Indah Meghaa](https://open.spotify.com/artist/4XK4lbqOW01VPgvOfLp9rD) | [SAMAR \(Versi Akustik\)](https://open.spotify.com/album/54Ls8koKZtyqqC7cWw1WtD) | 4:37 | 2024-01-18 | 2024-10-19 |
 | [Sambat](https://open.spotify.com/track/6beU0Phq5vUGvzYF4EtplM) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Sambat](https://open.spotify.com/album/51FhShmdp9AHOVwTd4rNT4) | 3:40 | 2023-02-02 | 2023-08-11 |
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2022-05-26 | 2022-08-26 |
+| [Sampun Lilo](https://open.spotify.com/track/2k7x48UjvHeutTU8D7Oxrt) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sampun Lilo](https://open.spotify.com/album/5TJlO0TYHMq8IP5xek2feC) | 6:08 | 2024-10-31 |  |
 | [Sanes](https://open.spotify.com/track/6xbi77Vq9RALnKc59kSXIS) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sanes](https://open.spotify.com/album/0EhdH1xsrPR1YjSMCjr4Wf) | 5:01 | 2023-04-12 | 2024-06-07 |
 | [Sanes](https://open.spotify.com/track/2gpXOgtrS8IZ7zyQpNS0Fw) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sanes](https://open.spotify.com/album/1il9TxFotfDyWgAzq4q2K5) | 5:04 | 2023-04-13 | 2024-07-27 |
 | [Satru](https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Satru](https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi) | 5:11 | 2022-05-26 | 2024-03-30 |

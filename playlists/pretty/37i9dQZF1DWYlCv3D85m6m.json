@@ -1,13 +1,45 @@
 {
   "description": "One in a million! TWICE! ",
-  "num_followers": 1310199,
+  "num_followers": 1310370,
   "original_name": "This Is TWICE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxtDBQAAAACqtFlSAqPRHp9mqISkRBQ7",
+  "snapshot_id": "ZyOb6AAAAADxwZh4Y0bU7gE4c6qX+62e",
   "tracks": [
+    {
+      "added_at": "2024-10-31 15:02:00",
+      "album": {
+        "name": "Identity",
+        "url": "https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "duration_ms": 140466,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT"
+    },
+    {
+      "added_at": "2024-10-31 15:02:00",
+      "album": {
+        "name": "NEW LOOK",
+        "url": "https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "NEW LOOK",
+      "url": "https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0"
+    },
     {
       "added_at": "2024-10-25 07:04:37",
       "album": {

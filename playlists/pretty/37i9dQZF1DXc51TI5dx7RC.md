@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: ROSÉ, Bruno Mars
+> ที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Cocktail, Q Flure
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,069 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,193 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
-| 2 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
-| 3 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
-| 4 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 5 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
-| 6 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 |
-| 7 | [Golden Hour](https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Golden Hour](https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB) | 3:44 |
-| 8 | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/track/0cvETHNq3ZkPHdYCqRXhzk) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/album/7allI9XRc8YqcO1TO3Gsyi) | 2:46 |
-| 9 | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 |
-| 10 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
-| 11 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
-| 12 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
-| 13 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
-| 14 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
+| 1 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
+| 2 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
+| 3 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 4 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
+| 5 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
+| 6 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
+| 7 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 |
+| 8 | [Golden Hour](https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Golden Hour](https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB) | 3:44 |
+| 9 | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/track/0cvETHNq3ZkPHdYCqRXhzk) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/album/7allI9XRc8YqcO1TO3Gsyi) | 2:46 |
+| 10 | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 |
+| 11 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
+| 12 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
+| 13 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
+| 14 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
 | 15 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 |
 | 16 | [ที่เดิม](https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:56 |
 | 17 | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/track/4UyEA5UP6ducMaV9NiggTr) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [สาริกาลิ้นทอง \(Smooth\-talker\) \- Single](https://open.spotify.com/album/5UGFoT5E3XTctzfOondKRU) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq) | 5:10 |
 | 50 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
 
-Snapshot ID: `ZyIWKQAAAABV6/FIIi1/lkkbrqxPlJkz`
+Snapshot ID: `ZyPLzwAAAADrru+WMS+HJybPbg0Fskrj`

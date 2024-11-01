@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 25541,
+  "num_followers": 25542,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAACqwSLdxpF8RB7k7By/Y1ek",
+  "snapshot_id": "ZyF3AAAAAAC2D4Y49f0OJxuIhLRjhMOj",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 177664,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 225809,
       "name": "Yes Song",
       "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 177664,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
     },
     {
       "added_at": null,
@@ -707,22 +707,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
       },
       "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         },
         {
-          "name": "Mattie of For Today",
-          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 236353,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
+      "duration_ms": 246346,
+      "name": "One Sixteen",
+      "url": "https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT"
     },
     {
       "added_at": null,
@@ -747,26 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
       "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         },
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "Mattie of For Today",
+          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
         }
       ],
-      "duration_ms": 246346,
-      "name": "One Sixteen",
-      "url": "https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT"
+      "duration_ms": 236353,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
     },
     {
       "added_at": null,

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 
 > Taking it way back! Cover: Mos Def
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,767,046 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,767,374 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 |
-| 2 | [Ms\. Fat Booty](https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 3:43 |
-| 3 | [Bitch Please](https://open.spotify.com/track/5Sm1X46tna50RstHZvw072) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [No Limit Top Dogg](https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb) | 3:54 |
-| 4 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 |
-| 5 | [Go DJ](https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:41 |
+| 1 | [Ms\. Fat Booty](https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 3:43 |
+| 2 | [Bitch Please](https://open.spotify.com/track/5Sm1X46tna50RstHZvw072) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [No Limit Top Dogg](https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb) | 3:54 |
+| 3 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 |
+| 4 | [Go DJ](https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:41 |
+| 5 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 |
 | 6 | [Make 'Em Say Ugh](https://open.spotify.com/track/0l3wp8iEtN8rgag9eTeorW) | [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW), [Silkk The Shocker](https://open.spotify.com/artist/0iEVT8dLNSSmipPOrDGu2z), [Mia X](https://open.spotify.com/artist/2d9xPZQzgCr6ObcDkUmjLu), [Fiend](https://open.spotify.com/artist/5A7PIpqC9ZvMVJt4lOqs10) | [Ghetto D](https://open.spotify.com/album/699xAzNxlXxgmkycTEqktC) | 5:06 |
 | 7 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
 | 8 | [Regulate](https://open.spotify.com/track/1mFxMJ2UZGFow4sx75vJ6Z) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 | 49 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 50 | [Ambitionz Az A Ridah](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:38 |
 
-Snapshot ID: `ZxsChAAAAADnVVxMDty15EL87ynROTYZ`
+Snapshot ID: `ZyQWbgAAAACBPSdbLCMBjBGKE1HQYI7d`

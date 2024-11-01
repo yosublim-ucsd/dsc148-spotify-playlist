@@ -1,12 +1,12 @@
 {
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ?si=USJt32zsRgCkN7bfZyv2_w>Tjsarx</a>",
-  "num_followers": 33418,
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR?si=OOaayHN6SPqa0YnD0BDfKw>Rotimikeys</a>",
+  "num_followers": 33438,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfvAAAAABX0fiGR1fau8xhnr9/cqAN",
+  "snapshot_id": "ZyQaPAAAAABM1r70iTjvIBW69OZiAxFB",
   "tracks": [
     {
       "added_at": "2024-04-05 00:01:00",
@@ -25,24 +25,20 @@
       "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
+      "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O"
+        "name": "AYO",
+        "url": "https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
         }
       ],
-      "duration_ms": 240200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
+      "duration_ms": 223408,
+      "name": "AYO",
+      "url": "https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac"
     },
     {
       "added_at": "2024-10-18 00:01:00",
@@ -125,28 +121,24 @@
       "url": "https://open.spotify.com/track/0PXT9PA9lp3dpBu8YKBKvZ"
     },
     {
-      "added_at": "2024-07-05 00:01:00",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 646239,
-      "name": "Promises (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+      "duration_ms": 240200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -189,20 +181,28 @@
       "url": "https://open.spotify.com/track/6CQMlgpbqtG19SwaxZdtBU"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
+      "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Believe For It",
@@ -247,26 +263,6 @@
       "duration_ms": 297693,
       "name": "Goodness Of God - Live",
       "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Life After Death",
-        "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Cornerstone (feat. Zach Williams)",
-      "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -319,18 +315,22 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Don't Fight Alone",
-        "url": "https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L"
+        "name": "Life After Death",
+        "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
       },
       "artists": [
         {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
         }
       ],
-      "duration_ms": 240097,
-      "name": "Don't Fight Alone",
-      "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
+      "duration_ms": 219266,
+      "name": "Cornerstone (feat. Zach Williams)",
+      "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
     },
     {
       "added_at": "2024-09-06 00:01:00",
@@ -349,20 +349,20 @@
       "url": "https://open.spotify.com/track/3vzHLZAnhOUb6eDlKQEHQg"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+        "name": "Don't Fight Alone",
+        "url": "https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L"
       },
       "artists": [
         {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
         }
       ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+      "duration_ms": 240097,
+      "name": "Don't Fight Alone",
+      "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
     },
     {
       "added_at": "2024-09-13 16:44:06",
@@ -379,6 +379,22 @@
       "duration_ms": 522958,
       "name": "Done me well - Live",
       "url": "https://open.spotify.com/track/4OiD7LbfwDKJZ9nyBvbPD3"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -493,22 +509,6 @@
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
     },
     {
-      "added_at": "2024-03-17 10:49:46",
-      "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Hallelujah Again (Revelation 19:3)",
@@ -595,6 +595,22 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
+      "added_at": "2024-03-17 10:49:46",
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -697,22 +713,6 @@
       "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "heaven on earth",
-        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
-      },
-      "artists": [
-        {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        }
-      ],
-      "duration_ms": 203235,
-      "name": "heaven on earth",
-      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Names of God",
@@ -727,6 +727,22 @@
       "duration_ms": 511207,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "heaven on earth",
+        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 203235,
+      "name": "heaven on earth",
+      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -853,22 +869,6 @@
       "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "This God Is Too Good",
@@ -887,6 +887,22 @@
       "duration_ms": 271438,
       "name": "You Are God (feat. Chigozie Achugo)",
       "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -943,22 +959,6 @@
       "duration_ms": 591333,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Find Me Here (Blessings Find Me)",
-        "url": "https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy"
-      },
-      "artists": [
-        {
-          "name": "Sherwin Gardner",
-          "url": "https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "Find Me Here (Blessings Find Me)",
-      "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"
     },
     {
       "added_at": "2024-04-05 00:01:00",

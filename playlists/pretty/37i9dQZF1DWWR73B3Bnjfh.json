@@ -1,6 +1,6 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 211559,
+  "num_followers": 211944,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
-        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
+        "name": "Eastern Sounds",
+        "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
         }
       ],
-      "duration_ms": 377546,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/6UVl12QoQEOGjJCocfBJyn"
+      "duration_ms": 293653,
+      "name": "Don't Blame Me - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo"
     },
     {
       "added_at": "2024-07-22 13:56:55",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
-        "name": "Eastern Sounds",
-        "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
+        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
       },
       "artists": [
         {
-          "name": "Yusef Lateef",
-          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 293653,
-      "name": "Don't Blame Me - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo"
+      "duration_ms": 377546,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/6UVl12QoQEOGjJCocfBJyn"
     },
     {
       "added_at": "2024-07-22 13:56:55",

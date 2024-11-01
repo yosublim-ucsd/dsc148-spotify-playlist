@@ -5818,7 +5818,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 242827,
       "name": "For You (With Rita Ora)",
       "url": "https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU"
@@ -13248,7 +13248,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 186501,
       "name": "Si quieres herirme",
       "url": "https://open.spotify.com/track/0liX2sN3OJBAuy4pVaeEZw"
@@ -14104,7 +14104,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 202061,
       "name": "Strip That Down (feat. Quavo)",
       "url": "https://open.spotify.com/track/29JrmE89KgRyCxBIzq2Ocw"
@@ -14326,10 +14326,28 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 244426,
       "name": "S\u00e9 Vos",
       "url": "https://open.spotify.com/track/4MUhGA8YfsYDqD4NhTUtSf"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1sicos Argentinos",
+        "url": "https://open.spotify.com/album/41oktRBicyOyYca2scjSm9"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244426,
+      "name": "S\u00e9 Vos",
+      "url": "https://open.spotify.com/track/6XJhPS4QyVgZcj4uK6Uhd9"
     },
     {
       "album": {
@@ -15738,7 +15756,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"

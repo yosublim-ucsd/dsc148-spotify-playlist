@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 564886,
+  "num_followers": 564890,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Chrome Bull",
+        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 181016,
+      "name": "11:30",
+      "url": "https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 224933,
       "name": "Millionaire (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Chrome Bull",
-        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 181016,
-      "name": "11:30",
-      "url": "https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Feint",
+      "url": "https://open.spotify.com/track/1d9p7cxhZFhW2OraawvKuy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "VIRGINIA CREEPER",
         "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
       },
@@ -1699,18 +1715,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "GREENZONE 108",
-        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
+        "name": "STAY UP / SWEET",
+        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
         }
       ],
-      "duration_ms": 190706,
-      "name": "Feint",
-      "url": "https://open.spotify.com/track/1d9p7cxhZFhW2OraawvKuy"
+      "duration_ms": 229765,
+      "name": "STAY UP",
+      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1735,22 +1751,6 @@
       "duration_ms": 154400,
       "name": "silver lining",
       "url": "https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "STAY UP / SWEET",
-        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
-      },
-      "artists": [
-        {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
-        }
-      ],
-      "duration_ms": 229765,
-      "name": "STAY UP",
-      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
     },
     {
       "added_at": "2024-08-23 04:00:00",

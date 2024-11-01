@@ -2,9 +2,9 @@
 
 ### [Nousussa](https://open.spotify.com/playlist/37i9dQZF1DXdJFpsr4Sn91)
 
-> Nousussa olevat hitit\. Kannessa Teddy Swims.
+> Nousussa olevat hitit\. Kannessa Pihlaja.
 
-334 songs - 16 hr 43 min
+338 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 | 2024-07-26 | 2024-08-16 |
 | [Atlas \(feat\. KIKI\)](https://open.spotify.com/track/2gw1pC8Gkdx6YFSvKLuds0) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n), [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Atlas \(feat\. KIKI\)](https://open.spotify.com/album/0aIWt94LuCqovkCKTtqRkP) | 3:01 | 2024-10-24 |  |
 | [Aurinkoon](https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Aurinkoon](https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj) | 2:27 | 2024-07-02 | 2024-09-06 |
+| [Autiomaa](https://open.spotify.com/track/2avr7NLad9D3g61P8V5fLL) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [People's Champion](https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o) | 3:15 | 2024-10-31 |  |
 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-08-22 | 2024-09-06 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-09-12 |  |
 | [Baddie](https://open.spotify.com/track/3rigBKJ6rkvbBnH95Gn6jf) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Baddie](https://open.spotify.com/album/6hboIqWwRiPMYaLWYfDHjq) | 2:27 | 2024-07-02 | 2024-08-10 |
@@ -105,6 +106,7 @@
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-26 | 2024-10-18 |
 | [HARLEY QUINN \(feat\. Sara Bee\)](https://open.spotify.com/track/22uV6ZbECEg11WqMSsFPpe) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [HARLEY QUINN \(feat\. Sara Bee\)](https://open.spotify.com/album/0wA6SBN8dorzEaXvqB3lgl) | 2:21 | 2024-08-22 | 2024-09-20 |
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/40kmaQ1Dpddc9EUuUrPMP0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Healing \(Shattered Heart\)](https://open.spotify.com/album/3UImWW3XpXLzF5l9VsEft5) | 2:42 | 2024-07-02 | 2024-07-12 |
+| [Heart of Gold](https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS) | 2:51 | 2024-10-31 |  |
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-07-02 | 2024-07-19 |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-08-01 | 2024-09-06 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2024-10-11 |
@@ -185,6 +187,7 @@
 | [Makaveli](https://open.spotify.com/track/7IJgJoEffBKC2h4RBhejm3) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Makaveli](https://open.spotify.com/album/7kJfXEZquDpzjNcmN5MX33) | 2:36 | 2024-09-26 | 2024-10-11 |
 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 | 2024-08-15 | 2024-09-13 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-10 | 2024-10-25 |
+| [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 | 2024-10-31 |  |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-07-02 | 2024-07-05 |
 | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa) | 2:28 | 2024-07-26 | 2024-09-20 |
 | [Mercy](https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Mercy](https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl) | 3:02 | 2024-07-02 | 2024-07-12 |
@@ -305,6 +308,7 @@
 | [Tuli mitä vaan](https://open.spotify.com/track/5O37M1e9u0BvcMOVedVbYx) | [Ida Paul & Kalle Lindroth](https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0), [Kalle Lindroth](https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi) | [Tuli mitä vaan](https://open.spotify.com/album/0pZfxk1Qim7Ul3HaF6RkJB) | 3:17 | 2024-07-04 | 2024-09-06 |
 | [Tuuks mukaan?](https://open.spotify.com/track/0ZRyotx5QQOb1PeIoi0lGP) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Tuuks mukaan?](https://open.spotify.com/album/26MOcz03KNxPMx9S00vz6w) | 3:04 | 2024-08-01 | 2024-08-13 |
 | [Tuulien teitä](https://open.spotify.com/track/383ykL7v9KTQJt6N4jrp03) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Tuulien teitä](https://open.spotify.com/album/3USx6QvGMQPAtE8zzKdJ6v) | 3:30 | 2024-10-17 |  |
+| [Täs mä oon](https://open.spotify.com/track/5tfW3t4zAZoeftsKQI0jD0) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kunpa oisin kertonut](https://open.spotify.com/album/7wiZKnQuxCFGIMoZjhQ9kU) | 3:02 | 2024-10-31 |  |
 | [Täydellinen ex](https://open.spotify.com/track/1ea8KlPlxVuMTMIDKrere6) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Täydellinen ex](https://open.spotify.com/album/6oaZNJngmT5OxKl752Sfpt) | 3:04 | 2024-09-26 |  |
 | [unissasi](https://open.spotify.com/track/1AuJHvZaR7v0Q8kXtmEqTi) | [ILON](https://open.spotify.com/artist/40sIqI3UYyunS5uyEVILIa) | [unissasi](https://open.spotify.com/album/3Ybsu2UNx8DNLPP50Kkp4Y) | 2:45 | 2024-10-17 |  |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-02 | 2024-08-02 |

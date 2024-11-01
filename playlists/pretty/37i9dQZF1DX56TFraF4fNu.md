@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Junior Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,460 likes - 65 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,466 likes - 65 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

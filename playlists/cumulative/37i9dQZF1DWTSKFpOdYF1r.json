@@ -470,7 +470,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 237653,
       "name": "Because You're Frightened - Remastered 2007",
       "url": "https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc"
@@ -4300,6 +4300,24 @@
       "duration_ms": 346280,
       "name": "The Killing Moon",
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
+    },
+    {
+      "album": {
+        "name": "A Life Of Surprises: The Best Of Prefab Sprout",
+        "url": "https://open.spotify.com/album/0W1lMfOHYxHxWKHlwPdQnq"
+      },
+      "artists": [
+        {
+          "name": "Prefab Sprout",
+          "url": "https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263200,
+      "name": "The King of Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/6tlkqWfm6E2inCkvQZMUsf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-230 songs - 14 hr 59 min
+231 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Huwa](https://open.spotify.com/track/3n8f72Abjl4dDzL56JdktV) | [Dzhef](https://open.spotify.com/artist/6ULoCtOuU8QQ2sS6r88Mg9) | [Huwa](https://open.spotify.com/album/4nTvcJCQfzSiZdqrlPdS9P) | 7:03 | 2022-05-06 | 2022-07-29 |
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-07-19 |  |
 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 | 2022-07-26 | 2023-03-18 |
-| [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-07-21 |  |
+| [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-07-21 | 2024-11-01 |
 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 | 2022-07-26 | 2022-08-11 |
 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 | 2022-08-20 | 2023-12-07 |
 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 | 2022-06-27 | 2022-07-29 |
@@ -146,6 +146,7 @@
 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 | 2022-03-29 | 2023-08-05 |
 | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC) | 2:29 | 2024-05-03 | 2024-07-17 |
 | [Nirvana](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Nirvana](https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae) | 2:37 | 2022-03-29 | 2023-12-07 |
+| [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 | 2024-10-25 |  |
 | [No Man No Cry \- Jimmy Sax Version](https://open.spotify.com/track/426lDtGrejS1wga7gmAmDv) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Jimmy Sax](https://open.spotify.com/artist/3HUXmgW0AIko5psVtQmqWE) | [No Man No Cry \(Jimmy Sax Version\)](https://open.spotify.com/album/6b5NUXA1oqqHew4DGFykRR) | 6:59 | 2022-03-29 | 2023-12-07 |
 | [Nothing Ever Changes](https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Nothing Ever Changes](https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4) | 3:46 | 2024-04-19 | 2024-06-12 |
 | [Oiga Morena](https://open.spotify.com/track/1VK0Nb6EqY5gIMw7jlZCZJ) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Nenito Vargas](https://open.spotify.com/artist/5nZJzDR7V0oO6I3jG7y1dC) | [Oiga Morena](https://open.spotify.com/album/6LjF97ZQem85Iq4iavJt7q) | 2:49 | 2023-03-17 | 2023-08-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Cocolite",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Bedchamber",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 252000,
       "name": "62 mi (outer space)",
       "url": "https://open.spotify.com/track/2XhHKrXnBovVAjnujwDBCu"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 243251,
       "name": "Aku Tidak Tahu",
       "url": "https://open.spotify.com/track/3tZEHZbc0hyrdoYTLZFfqq"
@@ -550,6 +550,24 @@
       "duration_ms": 187200,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0yR1fy72LIFLQqfjVVnFhN"
+    },
+    {
+      "album": {
+        "name": "Balancing Act",
+        "url": "https://open.spotify.com/album/7qxu4XZfchLLdmXKOh84xs"
+      },
+      "artists": [
+        {
+          "name": "Bedchamber",
+          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163992,
+      "name": "Burner",
+      "url": "https://open.spotify.com/track/2x2CSutqHcnAGNbewINTy0"
     },
     {
       "album": {
@@ -1121,6 +1139,32 @@
     },
     {
       "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/16boQGCB5VYAs7iYeQGclX"
+      },
+      "artists": [
+        {
+          "name": "Wake up, Iris !",
+          "url": "https://open.spotify.com/artist/0tev8ZQ4Hy5AeAeCK5Udw1"
+        },
+        {
+          "name": "IKLIM",
+          "url": "https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246528,
+      "name": "Era",
+      "url": "https://open.spotify.com/track/3dRABQtNXJRWaDlake5d9m"
+    },
+    {
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/4IOflu03FoysawHvpmBZSr"
       },
@@ -1345,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Mountain Moves",
+        "url": "https://open.spotify.com/album/2QrkEaT5wxdCrAiG1QLoDz"
+      },
+      "artists": [
+        {
+          "name": "Mountain Moves",
+          "url": "https://open.spotify.com/artist/34gWE9BvlEeHV1HMEjmfGV"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185496,
+      "name": "Harap",
+      "url": "https://open.spotify.com/track/6Chsst9NID5A8otlE0Gacz"
+    },
+    {
+      "album": {
         "name": "Harapan",
         "url": "https://open.spotify.com/album/5Me8TkPJQLbJGt1WzOizpQ"
       },
@@ -1558,7 +1620,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 201272,
       "name": "I Lost My Smile Somewhere",
       "url": "https://open.spotify.com/track/1ybhaeNtQgVNbUIuptwWK7"
@@ -1699,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Jarak dan Waktu",
+        "url": "https://open.spotify.com/album/5IDlrEPupFAXDClKNmmbVu"
+      },
+      "artists": [
+        {
+          "name": "Ruang Senja",
+          "url": "https://open.spotify.com/artist/2WSd3E18fZ6riwyEEJPQGp"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182097,
+      "name": "Jarak dan Waktu",
+      "url": "https://open.spotify.com/track/4N2ZdbozedvEmUX5Pz8ETB"
+    },
+    {
+      "album": {
         "name": "Transition",
         "url": "https://open.spotify.com/album/4phil3Et5WiTENlaGUtOGG"
       },
@@ -1826,7 +1906,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 178686,
       "name": "Kelak Kau Bertumbuh",
       "url": "https://open.spotify.com/track/3ENf2swPbxu2ml3wIQgD8q"
@@ -2024,7 +2104,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 211863,
       "name": "Lionel",
       "url": "https://open.spotify.com/track/0ahxXloiXety15M48Jgxsi"
@@ -2118,7 +2198,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 228107,
       "name": "Love Song - Sped Up",
       "url": "https://open.spotify.com/track/2a6oxLAHXfGAhgtdQc31f7"
@@ -2572,7 +2652,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 121280,
       "name": "Ode to an Old Man",
       "url": "https://open.spotify.com/track/0tUvRtES2L74EDxeZqs2lc"
@@ -2770,7 +2850,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 170160,
       "name": "porak poranda",
       "url": "https://open.spotify.com/track/1XxOnR2ZEs1uvVFFpYMk9D"
@@ -3391,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "Tak Apa Akui Lelah",
+        "url": "https://open.spotify.com/album/62ETyf40ZYVPW4ZufraxiU"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227262,
+      "name": "Tak Apa Akui Lelah",
+      "url": "https://open.spotify.com/track/2CGVAzqC47Xk9kBk1Ix4v3"
+    },
+    {
+      "album": {
         "name": "Katus",
         "url": "https://open.spotify.com/album/6PF9TG0ciBduMnYSOAXfJt"
       },
@@ -3628,7 +3726,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 200500,
       "name": "Till We're Together Again",
       "url": "https://open.spotify.com/track/2Dzg1wL6lYAXcJrXIQLvAA"
@@ -3646,7 +3744,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 154999,
       "name": "Timid",
       "url": "https://open.spotify.com/track/7pGOqnFREV1DRWUle30atO"
@@ -3736,7 +3834,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 234000,
       "name": "Untuk Bunga",
       "url": "https://open.spotify.com/track/1HGzVBvwUSlvE3JzVjUPaO"
@@ -3798,6 +3896,24 @@
       "duration_ms": 189481,
       "name": "waiting game",
       "url": "https://open.spotify.com/track/49PybRHBfBnXXwJNuZsWO0"
+    },
+    {
+      "album": {
+        "name": "Walau Berantakan",
+        "url": "https://open.spotify.com/album/2CExf3NHmx6kvunHhck1QP"
+      },
+      "artists": [
+        {
+          "name": "Prince Husein",
+          "url": "https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Walau Berantakan",
+      "url": "https://open.spotify.com/track/075jBu0heVKJ5xjmdhVSqk"
     },
     {
       "album": {

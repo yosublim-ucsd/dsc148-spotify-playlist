@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 292081,
+  "num_followers": 292097,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAAB4y90GYAnGkk0XcKdWySH",
+  "snapshot_id": "ZyF3AAAAAADoB5hbsa+o2+l/V6/bEfxJ",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple in Rock (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+        "name": "Shades of Deep Purple",
+        "url": "https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 209400,
-      "name": "Black Night - 1995 Remaster",
-      "url": "https://open.spotify.com/track/2c1ccPqUnFYD8W7LY65bKG"
+      "duration_ms": 266840,
+      "name": "Hush - 1998 Remaster",
+      "url": "https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades of Deep Purple",
-        "url": "https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2"
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 266840,
-      "name": "Hush - 1998 Remaster",
-      "url": "https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6"
+      "duration_ms": 209400,
+      "name": "Black Night - 1995 Remaster",
+      "url": "https://open.spotify.com/track/2c1ccPqUnFYD8W7LY65bKG"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Portable Door",
-      "url": "https://open.spotify.com/track/5nDq7sWv4ORqTKKvLNl9Oe"
+      "duration_ms": 352293,
+      "name": "Sail Away - Remastered 2004",
+      "url": "https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+        "name": "Purpendicular",
+        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
       "artists": [
         {
@@ -324,9 +324,25 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 352293,
-      "name": "Sail Away - Remastered 2004",
-      "url": "https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre"
+      "duration_ms": 449133,
+      "name": "Sometimes I Feel Like Screaming",
+      "url": "https://open.spotify.com/track/5coxHUKzWOdMXunt7EGDDX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Portable Door",
+      "url": "https://open.spotify.com/track/5nDq7sWv4ORqTKKvLNl9Oe"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purpendicular",
-        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 449133,
-      "name": "Sometimes I Feel Like Screaming",
-      "url": "https://open.spotify.com/track/5coxHUKzWOdMXunt7EGDDX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "A Bit on the Side",
-      "url": "https://open.spotify.com/track/5bSUWeBOuHzVmtJ3kHF4l1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 238354,
       "name": "Never Before - Remastered 2012",
       "url": "https://open.spotify.com/track/7Hak5ai4Zs9BR4OMrPZbgH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "A Bit on the Side",
+      "url": "https://open.spotify.com/track/5bSUWeBOuHzVmtJ3kHF4l1"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/1MYTg8tznXrUL9DeYqdJrw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fireball (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 321333,
       "name": "Demon's Eye - 1996 Remaster",
       "url": "https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/1MYTg8tznXrUL9DeYqdJrw"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Sharp Shooter",
-      "url": "https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Taste The Band: 35th Anniversary Edition",
         "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 324733,
       "name": "You Keep On Moving - 2010 Digital Remaster",
       "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Sharp Shooter",
+      "url": "https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 278826,
       "name": "Under The Gun",
       "url": "https://open.spotify.com/track/3tWcr1XvZumZ8a6MenaEq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "Lazy Sod",
-      "url": "https://open.spotify.com/track/227uVURfzGhYMJlKUMfPjT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 253466,
       "name": "Bloodsucker - 1995 Remaster",
       "url": "https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "Lazy Sod",
+      "url": "https://open.spotify.com/track/227uVURfzGhYMJlKUMfPjT"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purpendicular",
-        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 256626,
-      "name": "Vavoom: Ted The Mechanic",
-      "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 209200,
       "name": "Into the Fire - 1995 Remaster",
       "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purpendicular",
+        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 256626,
+      "name": "Vavoom: Ted The Mechanic",
+      "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
     },
     {
       "added_at": null,

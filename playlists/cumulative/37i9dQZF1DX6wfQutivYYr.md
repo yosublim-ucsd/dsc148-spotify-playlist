@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Alfa in cover della più grande playlist in Italia! 🏆
+> Achille Lauro in cover della più grande playlist in Italia! 🏆
 
 100 songs - 5 hr 3 min
 

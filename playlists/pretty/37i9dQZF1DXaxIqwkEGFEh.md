@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: BabyChiefDoIt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,829 likes - 101 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,911 likes - 101 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 75 | [Me Vs Me](https://open.spotify.com/track/3ByGIhWMgrTLmnvfQqeFxb) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Tweak Till The End](https://open.spotify.com/album/2S5JzCvr84WDdl1h9Gcoci) | 2:45 |
 | 76 | [Bird Business \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/0cN4LkGzfWtfJtIo4WHuuf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bird Business](https://open.spotify.com/album/5mturncpuDqcNiUsS9yhag) | 2:59 |
 | 77 | [If I'm Scared](https://open.spotify.com/track/6WIsXkA2hqn8akCV3SG4ka) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Hella Greedy](https://open.spotify.com/album/2EuvkUe8SavQcxrRmolxtk) | 2:52 |
-| 78 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 1:40 |
+| 78 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 2:32 |
 | 79 | [Trench Baby](https://open.spotify.com/track/1s6sNhPiGVdi40Dni1Litg) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Post Traumatic](https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT) | 2:28 |
 | 80 | [Survival Of The Fittest \(feat\. Future\)](https://open.spotify.com/track/2sdK4Bpasg8Ti0MTpCUFFd) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 2:55 |
 | 81 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/6LTPUmfdE0Jdm29yvVAKA6) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/album/7BoZu4OGWTN1WfJiLczq3V) | 3:16 |

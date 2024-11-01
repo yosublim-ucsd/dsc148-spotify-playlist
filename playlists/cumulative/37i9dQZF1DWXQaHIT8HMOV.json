@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 153750,
       "name": "BAJIGABANA",
       "url": "https://open.spotify.com/track/09rfAAgMmjNsdiqKttqq9O"
@@ -1764,6 +1764,24 @@
       "duration_ms": 193859,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
+    },
+    {
+      "album": {
+        "name": "DON'T RUSH",
+        "url": "https://open.spotify.com/album/6AllUgGxvhDssR3aJVfhMp"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192020,
+      "name": "DON'T RUSH",
+      "url": "https://open.spotify.com/track/6Vqfc1yfFRCNWXSq3FArkz"
     },
     {
       "album": {
@@ -3500,7 +3518,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 180638,
       "name": "MAD - INFINITY REMIX",
       "url": "https://open.spotify.com/track/4Yjd8cctVhkhYFgugKv2fp"
@@ -4699,6 +4717,28 @@
     },
     {
       "album": {
+        "name": "Ntikula (Remix)",
+        "url": "https://open.spotify.com/album/0QytCpY8HlWDmZJ470RfkB"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        },
+        {
+          "name": "Liah Ote",
+          "url": "https://open.spotify.com/artist/3pgOAAlGIYkLKxWMiKIRMs"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142114,
+      "name": "Ntikula - Remix",
+      "url": "https://open.spotify.com/track/4X8p0C1Xlwiuc8IwgR35eL"
+    },
+    {
+      "album": {
         "name": "Ntwaala",
         "url": "https://open.spotify.com/album/2dtpEFGUed4yX2qJkJLUP9"
       },
@@ -5810,7 +5850,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 114315,
       "name": "SAYSHEDO",
       "url": "https://open.spotify.com/track/0Wh4nSocGrb1BZJiDvQlNq"

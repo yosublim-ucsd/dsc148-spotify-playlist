@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 247711,
+  "num_followers": 247764,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -543,26 +543,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "High Con Class XIII",
-        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Ma\u00f1anero",
-      "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Demencia",
         "url": "https://open.spotify.com/album/1pBvrZ5eMMFSkJjVaB3p6G"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 262700,
       "name": "La Noche de los Poetas Muertos (feat. Lirika Inverza)",
       "url": "https://open.spotify.com/track/0MJslUoFQ3nZxoaU66KdrB"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "High Con Class XIII",
+        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Ma\u00f1anero",
+      "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
-      },
-      "artists": [
-        {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Plata o Plomo (feat. Eugenia Le\u00f3n)",
-      "url": "https://open.spotify.com/track/1lCSrtvSwDH0BWXvlLJyyW"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "El Manual de la Otredad",
         "url": "https://open.spotify.com/album/6lANLMg7Q9hnmRSlrWa2Je"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 211613,
       "name": "Los Gritos del Iconoclasta",
       "url": "https://open.spotify.com/track/6lL57yMaGuGDo72seXNc7g"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
+      },
+      "artists": [
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Plata o Plomo (feat. Eugenia Le\u00f3n)",
+      "url": "https://open.spotify.com/track/1lCSrtvSwDH0BWXvlLJyyW"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5GxpIIm0Vlf3CcDZih5F3T"
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/7HgtmenilcpT51uM8aY0vv"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 168560,
-      "name": "Ruc\u00f3n",
-      "url": "https://open.spotify.com/track/6TDtGJSk3MDTnM6nTDu5Zu"
+      "duration_ms": 253893,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/4z3x73OqkRMTm5vG8MyCpg"
     }
   ],
   "unique_name": "Hip-Hop Mexicano: Cl\u00e1sicos",

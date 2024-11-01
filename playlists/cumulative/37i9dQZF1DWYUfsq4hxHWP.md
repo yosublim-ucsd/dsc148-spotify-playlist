@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: SirLockeHolmes, Artwork: Fanélie Muselier
 
-2,749 songs - 6 day 4 hr 55 min
+2,751 songs - 6 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,7 +522,7 @@
 | [Crazy 'Bout Her](https://open.spotify.com/track/0GPHbbttjfsfjBPkbsbmg6) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Crazy 'Bout Her](https://open.spotify.com/album/66HsMcXW2mnmnltxXBZC2q) | 3:07 | 2023-02-15 | 2023-03-16 |
 | [Crazy 'Cause of You](https://open.spotify.com/track/2lMXTIFKhGznFLZJJwIwHA) | [Emmy Moyen](https://open.spotify.com/artist/3ehW5Ap1mJw5SV8YiHonRZ) | [Crazy 'Cause of You](https://open.spotify.com/album/4p4imnft8LDzVSWukJOq88) | 3:17 | 2024-07-31 | 2024-08-22 |
 | [Crazy On Me](https://open.spotify.com/track/6sIwwpRqvcaJxpbxPQ76du) | [Cody Webb](https://open.spotify.com/artist/6vuwhnCHdyyNbMFWWZ1hNs) | [Crazy On Me](https://open.spotify.com/album/4qjqZEPTJ8NWOqc8flVf7C) | 3:25 | 2023-02-15 | 2023-03-23 |
-| [Crimson Kisses](https://open.spotify.com/track/6QfZqOXenFN3I4iDE4s8KE) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [Crimson Kisses](https://open.spotify.com/album/60xkjmZo2DFJPec6TN40Vz) | 4:29 | 2024-09-11 |  |
+| [Crimson Kisses](https://open.spotify.com/track/6QfZqOXenFN3I4iDE4s8KE) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [Crimson Kisses](https://open.spotify.com/album/60xkjmZo2DFJPec6TN40Vz) | 4:29 | 2024-09-11 | 2024-11-01 |
 | [Crossed That Line](https://open.spotify.com/track/3POp61cc7DWj2sZSITj1UQ) | [Brennan Story](https://open.spotify.com/artist/7l1LpKcZ4ifOZz65pl20Xz) | [Crossed That Line](https://open.spotify.com/album/4O166IOZiQBCTCW4sy157E) | 2:32 | 2023-10-05 | 2023-11-30 |
 | [Crossed Your Mind](https://open.spotify.com/track/6oCN5dDrzoeSjjjTYJn5sT) | [El Ray](https://open.spotify.com/artist/32pa3a2Tu9C4TmrAtN6cyO) | [Crossed Your Mind](https://open.spotify.com/album/5tehtoudFh8krHrnm28uM1) | 3:05 | 2024-09-06 |  |
 | [Cruise Control](https://open.spotify.com/track/3ZdNbkfAPiYxN53jYQOh4c) | [Jesse Dozzi](https://open.spotify.com/artist/5V6iCwSrD8np7jjVSxZH6f) | [Cruise Control](https://open.spotify.com/album/5xEP796HQV7XpByVpgZC9e) | 3:26 | 2024-10-02 |  |
@@ -540,7 +540,7 @@
 | [Damaged](https://open.spotify.com/track/6DBAe3qH1fvPo3tAnyoVIx) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [I Hope She Hears These](https://open.spotify.com/album/0itWFpjULmnQUTvN7ScOAh) | 3:30 | 2022-08-17 | 2023-01-12 |
 | [Damn BNA](https://open.spotify.com/track/4xy8deDKHgp1OvboICH9ja) | [Bryan Frazier](https://open.spotify.com/artist/4XGE8POlT42DvWQzgs4rid) | [Damn BNA](https://open.spotify.com/album/23Ac8X6veyiqj46Gbv6lRm) | 3:12 | 2022-06-08 | 2022-07-21 |
 | [Damn Good Liar](https://open.spotify.com/track/1wujpIR0371uk7RdlUgZom) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF) | [Damn Good Liar](https://open.spotify.com/album/6bwVj2UjEKuirOVgWsNM8n) | 2:57 | 2022-06-08 | 2022-07-21 |
-| [Damn Good Life](https://open.spotify.com/track/3T1jTJUlBlqVyMIPS5VJnJ) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Damn Good Life](https://open.spotify.com/album/0dnN09mc0LsZr2ptVxf3g2) | 3:18 | 2024-09-06 |  |
+| [Damn Good Life](https://open.spotify.com/track/3T1jTJUlBlqVyMIPS5VJnJ) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Damn Good Life](https://open.spotify.com/album/0dnN09mc0LsZr2ptVxf3g2) | 3:18 | 2024-09-06 | 2024-11-01 |
 | [Damn I Need a Drink](https://open.spotify.com/track/39o414yDjRtRy5la1JSoUA) | [Cory Michael](https://open.spotify.com/artist/1k5u7BdZYkZPJJaIMJivsZ) | [Damn I Need a Drink](https://open.spotify.com/album/73s6nWYz7v9knI8ryE1b09) | 3:05 | 2022-01-12 | 2022-02-03 |
 | [Damn This Heart Of Mine](https://open.spotify.com/track/76cQsVuRYubfyrXRIREuu1) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Damn This Heart Of Mine](https://open.spotify.com/album/2Ha3Mb7sIUZmDYTIMU6HMp) | 3:01 | 2022-10-05 | 2022-12-01 |
 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 | 2022-04-06 | 2022-05-19 |
@@ -1494,6 +1494,7 @@
 | [Long Way From Home](https://open.spotify.com/track/3hmpSWDuNCQd3q5LX28MJh) | [JD Clayton](https://open.spotify.com/artist/70ro2NOrdi2XlFSLumYMTs) | [Side A](https://open.spotify.com/album/0YjgMqGtZxiPv1N8jAycdx) | 5:13 | 2022-10-26 | 2022-12-01 |
 | [Look Back At It](https://open.spotify.com/track/63E2rkc1Jloe3GRQ2hhwkF) | [The Tuten Brothers](https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h) | [Look Back At It](https://open.spotify.com/album/4R1Q1Zn7bnOhiV54ffHeub) | 2:51 | 2022-08-26 | 2022-10-06 |
 | [look like your exes](https://open.spotify.com/track/38c3PK0vg2yrzkVds9tofG) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [look like your exes](https://open.spotify.com/album/5D96WiGBwafG5b9iBeYEKJ) | 2:47 | 2023-02-15 | 2023-03-23 |
+| [Looking ...For a Little Love](https://open.spotify.com/track/6hzj4na35h4vW5ma8wfy3R) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Looking ...For a Little Love](https://open.spotify.com/album/2wDHA5qVXG8PGa20Ytm8jt) | 3:08 | 2024-10-31 |  |
 | [Looking at the Numbers](https://open.spotify.com/track/5GtSBogakPmKLqPwjMDLvz) | [Trey Rose](https://open.spotify.com/artist/48drlUm5UiPULfpDwxUXvd) | [Looking at the Numbers](https://open.spotify.com/album/5HRkWv0wumBbzY26Ra1Kft) | 3:20 | 2023-02-22 | 2023-03-30 |
 | [Looking For A Honky Tonk](https://open.spotify.com/track/45qcdmrPPh5bw7lbt6p8nh) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Looking For A Honky Tonk](https://open.spotify.com/album/17dbV3ae9GcN652EZkgvSh) | 3:03 | 2022-06-08 | 2022-07-21 |
 | [Lose My Accent](https://open.spotify.com/track/3A0giADnMCEupDgWrW2TFC) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lose My Accent](https://open.spotify.com/album/1AA8ZOSTDOuuSNQ5ry88uW) | 3:09 | 2023-08-17 | 2023-11-30 |
@@ -1683,7 +1684,7 @@
 | [Needed A Minute](https://open.spotify.com/track/37z1YAzcYP1KXEhnIVZ9WL) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [Needed A Minute](https://open.spotify.com/album/28gaGPmnpZ1EwOBUStfMdC) | 3:23 | 2023-07-26 | 2023-09-14 |
 | [Needed a Minute](https://open.spotify.com/track/6AHsnNsq0yBccg0MDvkcPm) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [Thanks for the Haircut](https://open.spotify.com/album/2mKWwo2VZYVIoAo89at5yx) | 3:23 | 2024-08-28 |  |
 | [Needed The Rain](https://open.spotify.com/track/2YPgBZVNqvBprMbJ23UPUk) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [Needed The Rain](https://open.spotify.com/album/3XawUgdBEJuVzoLKV1RTM4) | 3:50 | 2023-03-29 | 2023-05-11 |
-| [Neon Angel \(Cowboys Never Stay\)](https://open.spotify.com/track/5UXFeC8tfMYSYSdHaxruqF) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Neon Angel \(Cowboys Never Stay\)](https://open.spotify.com/album/27j0MlHWRn7Uxkf83wMufb) | 3:04 | 2024-09-18 |  |
+| [Neon Angel \(Cowboys Never Stay\)](https://open.spotify.com/track/5UXFeC8tfMYSYSdHaxruqF) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Neon Angel \(Cowboys Never Stay\)](https://open.spotify.com/album/27j0MlHWRn7Uxkf83wMufb) | 3:04 | 2024-09-18 | 2024-11-01 |
 | [Neon Baby](https://open.spotify.com/track/3IvwEUE0iznUH3jHPxB8Fi) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym) | [Boots On](https://open.spotify.com/album/1wEjzKyHfBVPAFNqSTRyLk) | 3:33 | 2023-11-15 | 2023-11-30 |
 | [Neon Buzz](https://open.spotify.com/track/3Tbfyg1MXi4WrjQDtnoYiC) | [Abbie Ferris](https://open.spotify.com/artist/0oXHdeqCzxWbyaE8ChA08p) | [Neon Buzz](https://open.spotify.com/album/2i0rVpuwqOHpO3hTsbasC8) | 3:14 | 2023-09-06 | 2023-11-30 |
 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 | 2021-12-01 | 2022-01-13 |
@@ -1874,6 +1875,7 @@
 | [Promise You That](https://open.spotify.com/track/5wuhNKowYeusr9n1HCRVIX) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Promise You That](https://open.spotify.com/album/7FzNaTkcPU25HpnSUxppfi) | 2:58 | 2024-02-07 | 2024-04-04 |
 | [Prove Me Wrong](https://open.spotify.com/track/302jDHzmImo8wlmUL5RISB) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [Prove Me Wrong](https://open.spotify.com/album/5QIZEUw7YwZjAyDU3Zfm64) | 3:07 | 2023-03-01 | 2023-04-06 |
 | [Pull Up](https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [County Line](https://open.spotify.com/album/1uNypcb5QCqYQ70tg6LV5q) | 2:32 | 2021-12-01 | 2022-01-13 |
+| [Pulling Weeds](https://open.spotify.com/track/0ZlQ81MfYjGtYZcrQkUvKh) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Pulling Weeds](https://open.spotify.com/album/6FZsGWLy6H2DsuZt59dmH9) | 3:29 | 2024-10-31 |  |
 | [Put Me In My Place](https://open.spotify.com/track/31AI9r3VL1buk19ZPz7VIi) | [Lathan Bryant](https://open.spotify.com/artist/19kwPHar3aRaydbCozFr5d) | [Put Me In My Place](https://open.spotify.com/album/7CsWjxvRv0uFQLQpFzet83) | 3:05 | 2024-04-17 | 2024-05-09 |
 | [Put Your Heart On My Tab](https://open.spotify.com/track/7ke5rO5dIqUS6hF7wLexzM) | [Bear Bailey](https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz) | [Put Your Heart On My Tab](https://open.spotify.com/album/5JzQVsBEd8whOPtahGpDMb) | 3:13 | 2022-06-08 | 2022-07-21 |
 | [PUTTIN' IT OUT THERE](https://open.spotify.com/track/5oyaXq8iP1g1pcj5QkbHyU) | [Joey Green](https://open.spotify.com/artist/4xlGJGo6v3IVOkJVYyskKa) | [PUTTIN' IT OUT THERE](https://open.spotify.com/album/596ic6SpeR2IzqJ0CIVP9q) | 3:16 | 2022-05-18 | 2022-06-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,016 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,021 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 18 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
 | 19 | [Carefull Wies](https://open.spotify.com/track/3y0aL9TpnDojMhBNYfcwkV) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [YB Benzy](https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm) | [Carefull Wies](https://open.spotify.com/album/0gBgGLy1gl2JKIH3tnEUP1) | 3:21 |
 | 20 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
-| 21 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
-| 22 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
+| 21 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
+| 22 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
 | 23 | [When days are dark](https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [When days are dark](https://open.spotify.com/album/761h656NyhlwFRUJpir3mx) | 2:50 |
 | 24 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
 | 25 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 42 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
 | 43 | [Laaste Hond](https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Laaste Hond](https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK) | 3:01 |
 | 44 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
-| 45 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 |
-| 46 | [Nigel Hulle](https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z) | [Boss Niggas Only](https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq), [Jy Checkie](https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a), [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [BOSS NIGGAS ONLY V2](https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd) | 3:16 |
+| 45 | [Nigel Hulle](https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z) | [Boss Niggas Only](https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq), [Jy Checkie](https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a), [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [BOSS NIGGAS ONLY V2](https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd) | 3:16 |
+| 46 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 |
 | 47 | [Van Kleins Af](https://open.spotify.com/track/3nPatpKAyn8jWQmt00ohV7) | [Street Soundz](https://open.spotify.com/artist/6uSf6xubzAuNLdTiyjQHSR) | [Straat System](https://open.spotify.com/album/0xB0veEYROMdVtZdlrazlL) | 2:55 |
 | 48 | [Klaar Praat](https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [G\-BONE](https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi) | [Klaar Praat](https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5) | 2:08 |
 | 49 | [Nasie](https://open.spotify.com/track/3xwZX48uHcjYbN3Xl2ShpH) | [Reggie Peace](https://open.spotify.com/artist/1U2c2BI4Lt5LEwT3OyxW5T) | [Nasie](https://open.spotify.com/album/11sttlSfehXY1IOFV4xKJr) | 2:35 |

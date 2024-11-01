@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,861 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,860 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 19 | [21 DE ENERo](https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [21 DE ENERo](https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE) | 2:54 |
 | 20 | [Te Amo](https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy) | [Natále](https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ) | [Te Amo](https://open.spotify.com/album/6oT7TQdQ9UIMSlIq1628lT) | 4:02 |
 | 21 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 |
-| 22 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 |
-| 23 | [Cristal](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Cristal](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
+| 22 | [Cristal](https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Cristal](https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd) | 3:22 |
+| 23 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 |
 | 24 | [Corazón Extraño](https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn), [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Corazón Extraño](https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5) | 2:56 |
 | 25 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
 | 26 | [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 |

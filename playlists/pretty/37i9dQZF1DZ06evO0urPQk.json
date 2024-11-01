@@ -1,12 +1,12 @@
 {
-  "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27377,
-  "original_name": "This Is Nana Mizuki",
+  "description": "This is \u6c34\u6a39\u5948\u3005. The essential tracks, all in one playlist.",
+  "num_followers": 27376,
+  "original_name": "This Is \u6c34\u6a39\u5948\u3005",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAC3VBcKj+SlSjAhpJ1VOddS",
+  "snapshot_id": "ZyF3AAAAAACn0xLaPR7Zh1DJuymBJnVN",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ADRENALIZED",
-        "url": "https://open.spotify.com/album/3lyJjoXNBDHyk130hvSarp"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 221153,
-      "name": "ADRENALIZED",
-      "url": "https://open.spotify.com/track/5mLefApR6VCHdhCNSXDBog"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 239013,
       "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
       "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ADRENALIZED",
+        "url": "https://open.spotify.com/album/3lyJjoXNBDHyk130hvSarp"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 221153,
+      "name": "ADRENALIZED",
+      "url": "https://open.spotify.com/track/5mLefApR6VCHdhCNSXDBog"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ADRENALIZED",
-        "url": "https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 200126,
-      "name": "sympathy",
-      "url": "https://open.spotify.com/track/3mbnIQdoRv6fmObdReIPKm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRIGHT STREAM",
         "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 187066,
       "name": "Sacred Force",
       "url": "https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ADRENALIZED",
+        "url": "https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 200126,
+      "name": "sympathy",
+      "url": "https://open.spotify.com/track/3mbnIQdoRv6fmObdReIPKm"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANNONBALL RUNNING",
-        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 260201,
-      "name": "DAYBREAKERS",
-      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STARTING NOW!",
         "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 306985,
       "name": "\u604b\u60f3\u82b1\u706b",
       "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 260201,
+      "name": "DAYBREAKERS",
+      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANNONBALL RUNNING",
-        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 331686,
-      "name": "METANOIA -Aufwachen Form-",
-      "url": "https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sugar Doughnuts",
         "url": "https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 206567,
       "name": "Sugar Doughnuts",
       "url": "https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 331686,
+      "name": "METANOIA -Aufwachen Form-",
+      "url": "https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q"
     },
     {
       "added_at": null,
@@ -692,7 +692,7 @@
       "added_at": null,
       "album": {
         "name": "Get up! Shout!",
-        "url": "https://open.spotify.com/album/19hS9MR9UT1HYEfjin62Kn"
+        "url": "https://open.spotify.com/album/0iVDWHViURVVmw3cw5gVMF"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 257622,
-      "name": "Phase 21",
-      "url": "https://open.spotify.com/track/791jqNUM4S72XV13eK4dXO"
+      "duration_ms": 250118,
+      "name": "Get up! Shout!",
+      "url": "https://open.spotify.com/track/2FTt8Qkc04fcRZzwDEsNrh"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ULTIMATE DIAMOND",
-        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "\u6c88\u9ed9\u306e\u679c\u5b9f",
-      "url": "https://open.spotify.com/track/33FnX1chFHzXMKZHpA4kBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IMPACT EXCITER",
         "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
       },
@@ -755,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get up! Shout!",
-        "url": "https://open.spotify.com/album/0iVDWHViURVVmw3cw5gVMF"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 250118,
-      "name": "Get up! Shout!",
-      "url": "https://open.spotify.com/track/2FTt8Qkc04fcRZzwDEsNrh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GREAT ACTIVITY",
         "url": "https://open.spotify.com/album/0by4toi3Hf7VOiVCNqvVdW"
       },
@@ -783,6 +751,38 @@
       "duration_ms": 295880,
       "name": "chronicle of sky",
       "url": "https://open.spotify.com/track/6xZfddSTo4XB1ybKbHPCJy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get up! Shout!",
+        "url": "https://open.spotify.com/album/19hS9MR9UT1HYEfjin62Kn"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 257622,
+      "name": "Phase 21",
+      "url": "https://open.spotify.com/track/791jqNUM4S72XV13eK4dXO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ULTIMATE DIAMOND",
+        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "\u6c88\u9ed9\u306e\u679c\u5b9f",
+      "url": "https://open.spotify.com/track/33FnX1chFHzXMKZHpA4kBQ"
     },
     {
       "added_at": null,
@@ -893,6 +893,6 @@
       "url": "https://open.spotify.com/track/2orTpDbh1wO0GF76kCbEih"
     }
   ],
-  "unique_name": "This Is Nana Mizuki",
+  "unique_name": "This Is \u6c34\u6a39\u5948\u3005",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk"
 }

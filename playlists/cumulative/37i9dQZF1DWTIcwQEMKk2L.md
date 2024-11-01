@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-156 songs - 7 hr 7 min
+157 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Quand vous souriez](https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95) | [Libor Kolman](https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT) | [Quand vous souriez](https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv) | 1:58 | 2024-09-30 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2023-11-20 |  |
 | [Raindrops in my heart](https://open.spotify.com/track/4dsIYysg4UCK4QmT71F5pW) | [Stephan Berg](https://open.spotify.com/artist/17uFWG2FVYgtw7fUhgGo7G) | [Raindrops in my heart](https://open.spotify.com/album/7sAMmRYHvQ6LtaDXyLKBjc) | 2:45 | 2023-11-20 | 2024-09-10 |
-| [Rasung Consciousness](https://open.spotify.com/track/1IfsSgpOy1pLK7NfxMkn0k) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Lullaby Moods](https://open.spotify.com/album/7kD4T5Fl7A9YaSeDqxRLh9) | 2:20 | 2024-08-12 |  |
+| [Rasung Consciousness](https://open.spotify.com/track/1IfsSgpOy1pLK7NfxMkn0k) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Lullaby Moods](https://open.spotify.com/album/7kD4T5Fl7A9YaSeDqxRLh9) | 2:20 | 2024-08-12 | 2024-11-01 |
 | [Reflections](https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG) | [Lisa Livalli](https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR) | [Reflections](https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c) | 3:36 | 2023-11-20 |  |
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2023-11-20 |  |
 | [Reminiscence](https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd) | 2:32 | 2023-11-20 |  |
@@ -128,12 +128,13 @@
 | [Schutter](https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Schutter](https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW) | 2:30 | 2024-09-02 |  |
 | [See you in the morning](https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [See you in the morning](https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T) | 2:40 | 2024-04-08 |  |
 | [Silhouette](https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Oddities](https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW) | 3:32 | 2023-11-20 | 2024-10-06 |
+| [Sleeping like the Birchwood](https://open.spotify.com/track/2FCFesDX0QOFkKIzpoqWD6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Sleeping Like the Birchwood](https://open.spotify.com/album/0uf3tqNtWuAyznHWI6foBg) | 3:24 | 2024-10-14 |  |
 | [Slowing Down](https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Slowing Down](https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt) | 3:28 | 2024-04-22 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2023-11-20 |  |
 | [Star Eyes](https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Star Eyes](https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I) | 3:40 | 2024-03-04 |  |
 | [Stella's lullaby](https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [Stella's lullaby](https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1) | 2:25 | 2023-11-20 |  |
 | [Still in Love With You](https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [Still in Love With You](https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic) | 2:36 | 2024-03-04 |  |
-| [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 | 2024-04-08 | 2024-10-31 |
+| [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 | 2024-04-08 |  |
 | [Ständchen in D Minor \(After Schubert\), S\. 560](https://open.spotify.com/track/3GecLjGMqzjmgkvy2v41Wf) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lise de la Salle](https://open.spotify.com/artist/1Z6QKxH36L3ff4yhBD3r1W) | [Liszt](https://open.spotify.com/album/12TLeKJv0q5fnF2obaf6Is) | 5:57 | 2023-11-20 | 2024-04-19 |
 | [Summer Waltz / The Drive](https://open.spotify.com/track/3Og6m4ltVGu3OteMm1Qw5F) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Breathe In \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5cvhwLaFo0osyZmxdTvis2) | 1:29 | 2023-11-20 | 2024-04-19 |
 | [Sunlight](https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 2:15 | 2023-11-20 | 2024-10-21 |
@@ -159,7 +160,7 @@
 | [Wake Me Up](https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Piano Songs](https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW) | 3:45 | 2023-11-20 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2023-11-20 |  |
 | [What if we never met](https://open.spotify.com/track/3yZ9BRpkgqJYtTbz9WZy9j) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [What if we never met](https://open.spotify.com/album/21L56u6AKNUpJYbbW99B7F) | 2:07 | 2024-02-12 | 2024-05-23 |
-| [When We First Met](https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [When We First Met](https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV) | 1:52 | 2023-11-20 |  |
+| [When We First Met](https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [When We First Met](https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV) | 1:52 | 2023-11-20 | 2024-11-01 |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2023-11-20 |  |
 | [Willow](https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I) | [Helen Jane Long](https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX) | [Intervention](https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr) | 3:25 | 2023-11-20 |  |
 | [Winter Birds](https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN) | [Algoth Holmes](https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl) | [Way Back Home](https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh) | 2:50 | 2024-08-12 | 2024-08-24 |

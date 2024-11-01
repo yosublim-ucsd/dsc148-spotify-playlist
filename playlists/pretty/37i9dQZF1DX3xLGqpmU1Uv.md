@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México! Alberto Vázquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,961 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,989 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 28 | [Al Claro de Luna](https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY) | [Rafael Vázquez](https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd) | [Al Claro de Luna](https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl) | 1:51 |
 | 29 | [La Plaga \(Good Golly, Miss Molly\)](https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:12 |
 | 30 | [El Abuelo Ye Ye](https://open.spotify.com/track/6uogSCjGO28KgyFQ4pKMOY) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:25 |
-| 31 | [Por que Te Amo Tanto](https://open.spotify.com/track/6NwGEYGZ4lRSZ5D0f03ckx) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Rock de los 60's](https://open.spotify.com/album/057AlXqiJT5LmMyqWzWHk3) | 2:25 |
-| 32 | [Yo No Fui](https://open.spotify.com/track/6DHJHTkZ0kveYy5L41Us7Y) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Corazón Loco](https://open.spotify.com/album/08XD8IgAqvepttmUV4B1FE) | 1:53 |
+| 31 | [Yo No Fui](https://open.spotify.com/track/6DHJHTkZ0kveYy5L41Us7Y) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Corazón Loco](https://open.spotify.com/album/08XD8IgAqvepttmUV4B1FE) | 1:53 |
+| 32 | [Por que Te Amo Tanto](https://open.spotify.com/track/6NwGEYGZ4lRSZ5D0f03ckx) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Rock de los 60's](https://open.spotify.com/album/057AlXqiJT5LmMyqWzWHk3) | 2:25 |
 | 33 | [Ruedas](https://open.spotify.com/track/2JyS7QHdJL7QkDJzXCcr1E) | [Fabricio](https://open.spotify.com/artist/1PUb6iCJrg0Vs5GBTw2Dkn) | [Multiplicación](https://open.spotify.com/album/30bcacyGVg5sIxPhNDWEM9) | 2:02 |
 | 34 | [La Niña Bu \(Ring Dang Doo\)](https://open.spotify.com/track/2ctgZALPuTO2TkF5BVm0vS) | [Los Matematicos](https://open.spotify.com/artist/0nMp0OZyUyffgjioO9a4MK) | [Go\-Go en Rojo](https://open.spotify.com/album/5j8NJSGyjLcejTwyCN9d1P) | 2:22 |
 | 35 | [El Relojito](https://open.spotify.com/track/5UNHoCA1Dq0M8cMAd5k3Bx) | [Hermanas Navarro](https://open.spotify.com/artist/6zF0GiajmfWSejD6nmZ16o) | [Enlaces Hermanas Navarro y Andy Russell](https://open.spotify.com/album/18IOQIjI0rPJhnZcIStz8D) | 2:17 |

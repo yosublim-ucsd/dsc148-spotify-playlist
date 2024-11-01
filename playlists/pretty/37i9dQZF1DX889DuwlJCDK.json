@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: UNFAIR RULE",
-  "num_followers": 15797,
+  "num_followers": 15805,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
-        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "\u672c\u5f53\u306f\u306d\u3001",
-      "url": "https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9"
-    },
-    {
-      "added_at": "2024-10-15 18:20:46",
-      "album": {
         "name": "\u3059\u308b\u3069\u3044\u3055\u3055\u304f\u308c",
         "url": "https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 234117,
       "name": "\u8cb4\u65b9\u306e\u604b\u4eba\u306b\u306a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q"
+    },
+    {
+      "added_at": "2024-10-15 18:20:46",
+      "album": {
+        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "\u672c\u5f53\u306f\u306d\u3001",
+      "url": "https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "\u82b1\u7b4f",
-        "url": "https://open.spotify.com/album/5AF20QdRUuCy6hpNO4KKIf"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 275184,
-      "name": "\u82b1\u7b4f",
-      "url": "https://open.spotify.com/track/4TCcHVs43u6sS0ovS0Cq1q"
-    },
-    {
-      "added_at": "2024-10-15 18:20:46",
-      "album": {
         "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
         "url": "https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 234566,
       "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
       "url": "https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg"
+    },
+    {
+      "added_at": "2024-10-15 18:20:46",
+      "album": {
+        "name": "\u82b1\u7b4f",
+        "url": "https://open.spotify.com/album/5AF20QdRUuCy6hpNO4KKIf"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 275184,
+      "name": "\u82b1\u7b4f",
+      "url": "https://open.spotify.com/track/4TCcHVs43u6sS0ovS0Cq1q"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
-        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
+        "name": "TRIANGLE",
+        "url": "https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD"
       },
       "artists": [
         {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+          "name": "DISH//",
+          "url": "https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil"
         }
       ],
-      "duration_ms": 234627,
-      "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
-      "url": "https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj"
+      "duration_ms": 236173,
+      "name": "\u3057\u308f\u304f\u3061\u3083\u306a\u96f2\u3092\u62b1\u3044\u3066",
+      "url": "https://open.spotify.com/track/7DGg065lDV4sAOSGvZhcEO"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1115,34 +1115,18 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "TRIANGLE",
-        "url": "https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD"
+        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
       },
       "artists": [
         {
-          "name": "DISH//",
-          "url": "https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil"
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
         }
       ],
-      "duration_ms": 236173,
-      "name": "\u3057\u308f\u304f\u3061\u3083\u306a\u96f2\u3092\u62b1\u3044\u3066",
-      "url": "https://open.spotify.com/track/7DGg065lDV4sAOSGvZhcEO"
-    },
-    {
-      "added_at": "2024-10-15 18:20:46",
-      "album": {
-        "name": "\u91d1\u661f",
-        "url": "https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 217657,
-      "name": "\u91d1\u661f",
-      "url": "https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ"
+      "duration_ms": 234627,
+      "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+      "url": "https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
+        "name": "DAILY BOP",
+        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 145384,
+      "name": "\u30a8\u30e2\u3081\u306e\u590f",
+      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+    },
+    {
+      "added_at": "2024-10-15 18:20:46",
+      "album": {
         "name": "\u30d0\u30c3\u30c8\u30ea\u30a2\u30ea\u30fc",
         "url": "https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU"
       },
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "DAILY BOP",
-        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
+        "name": "\u91d1\u661f",
+        "url": "https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 145384,
-      "name": "\u30a8\u30e2\u3081\u306e\u590f",
-      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+      "duration_ms": 217657,
+      "name": "\u91d1\u661f",
+      "url": "https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX"
-      },
-      "artists": [
-        {
-          "name": "My Hair is Bad",
-          "url": "https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB"
-    },
-    {
-      "added_at": "2024-10-15 18:20:46",
-      "album": {
         "name": "midori",
         "url": "https://open.spotify.com/album/0F02EF6jnrk9JAZJ5kXaQd"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 209120,
       "name": "\u611b\u3059\u308b\u4eba",
       "url": "https://open.spotify.com/track/6ccUHHRNdjR0Hj3Xz5S3U9"
+    },
+    {
+      "added_at": "2024-10-15 18:20:46",
+      "album": {
+        "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX"
+      },
+      "artists": [
+        {
+          "name": "My Hair is Bad",
+          "url": "https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA"
-      },
-      "artists": [
-        {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
-        }
-      ],
-      "duration_ms": 183637,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1"
-    },
-    {
-      "added_at": "2024-10-15 18:20:46",
-      "album": {
         "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
         "url": "https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 222352,
       "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
       "url": "https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd"
+    },
+    {
+      "added_at": "2024-10-15 18:20:46",
+      "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "duration_ms": 183637,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1"
     },
     {
       "added_at": "2024-10-15 18:20:46",

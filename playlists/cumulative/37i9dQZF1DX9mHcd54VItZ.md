@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5?si=yo\-vYpHMTMWctqxLmUH\_zw">GSTRiNG</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I">wiesner</a>
 
-527 songs - 1 day 7 hr 24 min
+528 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Daddy Don't Disco](https://open.spotify.com/track/71sS1khQdFz4NslwwhwyAd) | [The Dirty Skirts](https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP) | [Daddy Don't Disco](https://open.spotify.com/album/3o7ly2eI3k6sNRBkwE7Yuj) | 3:02 | 2024-01-04 | 2024-01-27 |
 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 | 2024-01-04 |  |
 | [Damwal](https://open.spotify.com/track/2JMDWqOSByeWD9f2SpyXtK) | [André Visagie](https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK) | [Damwal](https://open.spotify.com/album/5aTy7ndoDNzd2ndsfbQ1I2) | 3:15 | 2023-03-09 | 2023-05-19 |
-| [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 | 2023-11-24 | 2024-10-26 |
+| [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 | 2023-11-24 |  |
 | [Dapper](https://open.spotify.com/track/22mVe2AVZRBmAnveENz9qn) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Dapper](https://open.spotify.com/album/2rpJjqpMJQOx69ksFk7vbB) | 3:08 | 2021-11-18 | 2022-11-18 |
 | [Darlene](https://open.spotify.com/track/5oSm6O7Vl8D31fwXDdOEbJ) | [East of the Equator](https://open.spotify.com/artist/3zpLOUiHG13KAwneK1cswd) | [Darlene](https://open.spotify.com/album/36ctPjNUlyQ4JAg0XkJqZK) | 2:37 | 2022-12-15 | 2023-03-10 |
 | [Dead Conversation](https://open.spotify.com/track/22vgy2SzEAWCrLOP5gXnl3) | [Ethyl Ether](https://open.spotify.com/artist/0SbWug1zk2RZx8WkkwIJpt) | [Violent Entertainment](https://open.spotify.com/album/37QdH3r9th6XplJOBVgt5G) | 4:44 | 2023-01-26 | 2023-04-15 |
@@ -187,7 +187,7 @@
 | [Gimme Love](https://open.spotify.com/track/4LSR4g2XMq2jbZtYUxhbUo) | [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF) | [A World at Suicide](https://open.spotify.com/album/1qxiiW0tmFS9RtARMdxXXe) | 3:33 | 2021-10-07 | 2022-08-05 |
 | [Girl You Made Me Bad](https://open.spotify.com/track/28asKrTduKTrMExly9z8Zo) | [Sugardrive](https://open.spotify.com/artist/283E3ICiG1Fiec39Rxel0n) | [Sand.Man.Sky](https://open.spotify.com/album/5M3opHjZ5u2jQ5gF7GVzfM) | 4:52 | 2024-01-04 | 2024-03-30 |
 | [Glide Stride](https://open.spotify.com/track/5TKySOZAIyhdpzwN01SDux) | [Alibi Friday](https://open.spotify.com/artist/0sm3avs6uL4bzr7n45MLkg) | [Glide Stride](https://open.spotify.com/album/2Me4bFxziBPEr9omsL9LYV) | 5:02 | 2023-12-14 | 2024-01-05 |
-| [Glow](https://open.spotify.com/track/06UYzvJAsJNAfSdfWqbuE3) | [Sheron](https://open.spotify.com/artist/5X3VNTPiT7hHQ59FiRn2ph) | [Glow](https://open.spotify.com/album/31hmeXBXOXIMHdf9zRjm4l) | 3:10 | 2024-10-25 |  |
+| [Glow](https://open.spotify.com/track/06UYzvJAsJNAfSdfWqbuE3) | [Sheron](https://open.spotify.com/artist/5X3VNTPiT7hHQ59FiRn2ph) | [Glow](https://open.spotify.com/album/31hmeXBXOXIMHdf9zRjm4l) | 3:10 | 2024-10-25 | 2024-11-01 |
 | [Gods Gift](https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N) | [Beyond Rebellion](https://open.spotify.com/artist/4Xl49RTIZKi3DYvoC1AkXe) | [Gods Gift](https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi) | 3:16 | 2022-11-17 | 2023-03-03 |
 | [Good Life](https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ) | [The Finkelstiens](https://open.spotify.com/artist/34ileyID0hIkQBkMpwwfCj) | [The Finkelstiens vs Rock n Roll](https://open.spotify.com/album/5rCcsjOvyWzENs0VB3Z24B) | 3:07 | 2024-01-04 | 2024-06-01 |
 | [Good Little Girl](https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y) | [Saturn Return](https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt) | [Good Little Girl](https://open.spotify.com/album/2A2SF1ydODURrgfp9hOp8A) | 3:25 | 2023-05-05 | 2023-07-29 |
@@ -253,7 +253,7 @@
 | [kill all my feelings](https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [kill all my feelings](https://open.spotify.com/album/1onwNNRB0cQ5gBRFknbYPp) | 3:02 | 2022-07-21 | 2023-02-17 |
 | [Killing Time](https://open.spotify.com/track/1tAYM3JLn8gynNMHCUcIAj) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Killing Time](https://open.spotify.com/album/1zHfXySzYnUNA4vWAinERg) | 2:51 | 2023-05-18 | 2023-08-05 |
 | [Kingdom Come](https://open.spotify.com/track/7ufTokV0aHYnSaZ83hfUu0) | [Unbroken Bond](https://open.spotify.com/artist/0vUzzSiZilRpnwSIHutohR), [dark animals](https://open.spotify.com/artist/5s3SvRUomfU0HIezDlDBrq) | [Kingdom Come](https://open.spotify.com/album/0pyfoV80CgnfVIB2sHbwKg) | 3:15 | 2022-01-06 | 2022-07-22 |
-| [Kiss Me Hard](https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Kiss Me Hard](https://open.spotify.com/album/1U7stlcv1Z4m4UDSRei2vM) | 2:52 | 2024-10-25 |  |
+| [Kiss Me Hard](https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Kiss Me Hard](https://open.spotify.com/album/1U7stlcv1Z4m4UDSRei2vM) | 2:52 | 2024-10-25 | 2024-11-01 |
 | [Klein Wêreld](https://open.spotify.com/track/0JK74oz3Sn06CBG1vq3Ru8) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Klein Wêreld](https://open.spotify.com/album/0ICYpf8GssQkw1ZjX0b10s) | 3:09 | 2023-06-08 | 2023-06-23 |
 | [Knip die Tou](https://open.spotify.com/track/40rNFyake81tsu8uqGhGRl) | [Tian Nienaber](https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf) | [Knip die Tou](https://open.spotify.com/album/20AWF6lGGsHmxNfQsYUB9G) | 3:38 | 2024-02-29 | 2024-07-19 |
 | [Kom Kry Van Myne](https://open.spotify.com/track/3E3768rjpDCanBS5ehkuXg) | [Marcel Dalmayda](https://open.spotify.com/artist/6jWwRKC7o4pvYYkl23db93) | [Kom Kry Van Myne](https://open.spotify.com/album/3m0if00d6lcjf4f9OrCtM0) | 3:37 | 2022-11-17 | 2023-02-17 |
@@ -296,6 +296,7 @@
 | [Mayhem](https://open.spotify.com/track/1MDc7PDmDGCmogKJO2OkjC) | [Alanna Joy](https://open.spotify.com/artist/4EVOaWmv3mIsrqm4Oxyo9k), [Lost//Youth](https://open.spotify.com/artist/4BdFQrwkW4xye28RMbrfOo) | [Mayhem](https://open.spotify.com/album/53wKblbUHvMxx3pUskWF74) | 4:05 | 2021-05-28 | 2022-01-22 |
 | [Medikasie](https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p) | [DEJA VU](https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ) | [Medikasie](https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23) | 3:46 | 2024-07-04 | 2024-08-22 |
 | [Melissa](https://open.spotify.com/track/4pKk804FhBSKWQudzb3EV4) | [Zebra](https://open.spotify.com/artist/4uYxKWbZsXrwg0h4zEmOf4) | [Melissa](https://open.spotify.com/album/6v4eNc39wqE4HyayIIjnpg) | 3:25 | 2023-05-25 | 2023-08-12 |
+| [Mia, Jy](https://open.spotify.com/track/0mwhB6Nb6WmmjPjjRteCHg) | [wiesner](https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I) | [Mia, Jy](https://open.spotify.com/album/5wHPieDfDaOum3eraaZhuO) | 4:32 | 2024-10-31 |  |
 | [Michelle](https://open.spotify.com/track/1QxazQmnrfG3tiKGp8mHlZ) | [Metro Villa](https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W) | [Michelle](https://open.spotify.com/album/5Ukb8khXf7sJbNfvbTdi1o) | 3:45 | 2023-06-22 | 2023-09-01 |
 | [Midnight Man](https://open.spotify.com/track/69K78xQYAiwO7GUEJgXByG) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Midnight Man](https://open.spotify.com/album/0U63JmTcJjB7MA3P1oyEfL) | 3:06 | 2023-02-02 | 2023-03-18 |
 | [Millions of Us \- Part 2](https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Millions of Us](https://open.spotify.com/album/0sUJTQiCZB1iu5NXenCyJA) | 5:14 | 2023-06-01 | 2023-08-18 |
@@ -321,7 +322,7 @@
 | [Nameless Days](https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Nameless Days](https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n) | 4:11 | 2023-02-09 | 2023-05-06 |
 | [Naïef](https://open.spotify.com/track/4d54vmCXTZZ65sOJz7lerr) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Naïef](https://open.spotify.com/album/4bzRnIR8DeBaML62OWNQNK) | 3:16 | 2024-05-09 | 2024-07-06 |
 | [Neon Bloodstains](https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I) | [Crash And The Void](https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo), [Johni Holiday](https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2) | [Neon Bloodstains](https://open.spotify.com/album/6AtsLU6ZKNfER256miHZ0l) | 4:51 | 2024-08-01 | 2024-08-25 |
-| [Never Enough](https://open.spotify.com/track/7IdzKD9PrLnU7H8WOjgp0U) | [Rewind](https://open.spotify.com/artist/1ZLUXsroXgx9oOq1cnTXgt) | [Never Enough](https://open.spotify.com/album/7lU2Xu7bZ8IGgCuEhz5TUN) | 3:48 | 2024-10-25 |  |
+| [Never Enough](https://open.spotify.com/track/7IdzKD9PrLnU7H8WOjgp0U) | [Rewind](https://open.spotify.com/artist/1ZLUXsroXgx9oOq1cnTXgt) | [Never Enough](https://open.spotify.com/album/7lU2Xu7bZ8IGgCuEhz5TUN) | 3:48 | 2024-10-25 | 2024-11-01 |
 | [Nice Dress](https://open.spotify.com/track/6Kd1izacFjRIP7qUYwqOea) | [SUGAR DIP](https://open.spotify.com/artist/4LguOGGtT3KZLhdCYRN7JG) | [Damage and Dodge](https://open.spotify.com/album/34kSCWvTzuTg3YG2Rr1hRk) | 3:04 | 2023-02-02 | 2023-03-31 |
 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 | 2022-09-22 | 2023-05-06 |
 | [Nikotien](https://open.spotify.com/track/2GhbAsaThgnJQkJJ2NLll7) | [Kristi Steyn](https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU) | [Nikotien](https://open.spotify.com/album/3V0aS1eLxtRTWXgYDnZ1uT) | 3:58 | 2024-07-04 | 2024-07-22 |
@@ -358,7 +359,7 @@
 | [Patience](https://open.spotify.com/track/4WhPLGHy7mVIFDx3saaYvf) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Patience](https://open.spotify.com/album/7aLOnvf1S2TJ3Zr9R0QWeN) | 5:33 | 2024-02-22 | 2024-04-27 |
 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 | 2024-04-12 |  |
 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 | 2024-09-12 |  |
-| [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 | 2024-01-04 | 2024-10-26 |
+| [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 | 2024-01-04 |  |
 | [Pink Codeine](https://open.spotify.com/track/2nSfDIYnU3euVZN81xLjJp) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Pink Codeine](https://open.spotify.com/album/1mT061XTU1JRimRQap8hQe) | 3:29 | 2023-06-01 | 2023-09-01 |
 | [PITY PARTY](https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [PITY PARTY](https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8) | 2:27 | 2022-09-22 | 2023-01-27 |
 | [Pizza Party](https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Pizza Party](https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd) | 3:20 | 2023-09-15 | 2023-11-10 |
@@ -412,7 +413,7 @@
 | [SKIN](https://open.spotify.com/track/4KqrcWePnhNGWAyfa8UTO6) | [BRAINCHILD](https://open.spotify.com/artist/0IKw7PVOOaFyDUTMcAYkCj) | [SKIN](https://open.spotify.com/album/6yHbCQ1kMQd54FzDsV5UM0) | 2:24 | 2023-04-14 | 2023-06-09 |
 | [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 | 2024-01-04 | 2024-07-08 |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-06 | 2022-07-22 |
-| [Slaaploos](https://open.spotify.com/track/5d7d5sqBxji4ywBBDfsOUq) | [Chaos in September](https://open.spotify.com/artist/1QIKbDFwChMYbFP9rSKMHZ) | [Slaaploos](https://open.spotify.com/album/4uJwRJs5AuVHLG4ZyQKKEr) | 4:03 | 2024-10-25 |  |
+| [Slaaploos](https://open.spotify.com/track/5d7d5sqBxji4ywBBDfsOUq) | [Chaos in September](https://open.spotify.com/artist/1QIKbDFwChMYbFP9rSKMHZ) | [Slaaploos](https://open.spotify.com/album/4uJwRJs5AuVHLG4ZyQKKEr) | 4:03 | 2024-10-25 | 2024-11-01 |
 | [Slipping Away](https://open.spotify.com/track/2KgfOqr3H3Hh6cwaAQeWcy) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:17 | 2022-02-03 | 2022-11-22 |
 | [Slow Down](https://open.spotify.com/track/2WJLJtpRXiWgPGuSiV9kY2) | [Gaz](https://open.spotify.com/artist/0YAL8izS16IewZXB4dlLdS) | [Slow Down](https://open.spotify.com/album/4bWs899eJvZvRoxwHa9bBt) | 3:17 | 2023-07-28 | 2023-09-16 |
 | [Small Things](https://open.spotify.com/track/4a4AneoUBYsM121PNivyD1) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [To Change the Weather](https://open.spotify.com/album/5imGkqzgxOU3dgtEL7uwON) | 3:04 | 2022-08-04 | 2023-02-04 |
@@ -534,6 +535,6 @@
 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 | 2023-09-07 | 2024-06-05 |
 | [YOU2ME](https://open.spotify.com/track/6BeR3yIHr9O6ZjQzmpXN2Z) | [Lokaly](https://open.spotify.com/artist/2xMgbeCaxqn40elRsuLMf4) | [YOU2ME](https://open.spotify.com/album/5Y98Ocf2q2Y3i4Lkw1ap3x) | 2:51 | 2022-08-25 | 2023-01-20 |
 | [Your Best Friend Hates Me 2](https://open.spotify.com/track/7tAo2VzcrgL4a0KAZsU2HV) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [Your Best Friend Hates Me 2](https://open.spotify.com/album/3cxN0iVrpeWaBHUJnVcaCu) | 2:45 | 2021-10-07 | 2022-05-27 |
-| [ZAR](https://open.spotify.com/track/3tPhyCjhQLvEBbUbOPHHmv) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [ZAR](https://open.spotify.com/album/6sMKmYRslizAqXFgKmK6VX) | 3:27 | 2024-10-04 | 2024-10-26 |
+| [ZAR](https://open.spotify.com/track/3tPhyCjhQLvEBbUbOPHHmv) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [ZAR](https://open.spotify.com/album/6sMKmYRslizAqXFgKmK6VX) | 3:27 | 2024-10-04 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71697,
+  "num_followers": 71703,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAAp3GlfW1vnV3Cabw+L3ym8",
+  "snapshot_id": "ZyF3AAAAAABGYFa/JtNZufDUZBWUfktN",
   "tracks": [
     {
       "added_at": null,
@@ -163,30 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Alone",
-        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 186263,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You for the Summer",
         "url": "https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW"
       },
@@ -207,6 +183,30 @@
       "duration_ms": 172727,
       "name": "Love You for the Summer",
       "url": "https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 186263,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
-        "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
-      "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're Still Young",
         "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 195000,
       "name": "We're Still Young",
       "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
+        "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
+      "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
     },
     {
       "added_at": null,
@@ -563,30 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Comes",
-        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
-        }
-      ],
-      "duration_ms": 211771,
-      "name": "Tomorrow Comes",
-      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 215336,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow Comes",
+        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "duration_ms": 211771,
+      "name": "Tomorrow Comes",
+      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
     },
     {
       "added_at": null,
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hero (Nicky Romero Remix)",
-        "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Hero - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Forever",
         "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 234609,
       "name": "Love You Forever",
       "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hero (Nicky Romero Remix)",
+        "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Hero - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
     },
     {
       "added_at": null,
@@ -959,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/6Wq9mMoP3u5DUoTF45Ov7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 202541,
       "name": "Let Me Feel - Radio Edit",
       "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/6Wq9mMoP3u5DUoTF45Ov7u"
     },
     {
       "added_at": null,

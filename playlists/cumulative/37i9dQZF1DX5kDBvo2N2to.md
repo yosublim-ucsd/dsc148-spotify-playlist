@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-196 songs - 11 hr 19 min
+197 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Fight](https://open.spotify.com/track/0aabPEzEjKf8Q14ihbfpIl) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Fight](https://open.spotify.com/album/7btOxSw2OQWoUXzl8kwTar) | 2:53 | 2024-06-28 | 2024-08-16 |
 | [Figure Out](https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Figure Out](https://open.spotify.com/album/0zsCcDD4dmZfVeZ5ZX24I2) | 3:03 | 2024-10-10 |  |
 | [Finish Line](https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod) | [Tingsek](https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE) | [Finish Line](https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0) | 3:26 | 2024-08-29 | 2024-10-13 |
-| [Flyga Fram](https://open.spotify.com/track/35buTrFZ00h0svO032k1m2) | [Abstract Crimewave](https://open.spotify.com/artist/3pTrxFmeadGx3bjSVur3m1), [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Flyga Fram](https://open.spotify.com/album/77y6xFyrGqoFTnlqHoi6ay) | 3:02 | 2024-08-22 |  |
+| [Flyga Fram](https://open.spotify.com/track/35buTrFZ00h0svO032k1m2) | [Abstract Crimewave](https://open.spotify.com/artist/3pTrxFmeadGx3bjSVur3m1), [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Flyga Fram](https://open.spotify.com/album/77y6xFyrGqoFTnlqHoi6ay) | 3:02 | 2024-08-22 | 2024-11-01 |
 | [Flyttat därifrån](https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer) | [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Flyttat därifrån](https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp) | 2:57 | 2024-06-28 | 2024-09-27 |
 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 | 2024-10-10 |  |
 | [Free](https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Free](https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL) | 2:29 | 2024-06-28 | 2024-10-03 |
@@ -106,6 +106,7 @@
 | [Jag drömmer mig fri](https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Jag drömmer mig fri](https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe) | 3:11 | 2024-06-28 | 2024-08-23 |
 | [jag mår inte bra </3](https://open.spotify.com/track/78IgWqUnswiKKwxnr4jbWI) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [jag mår inte bra </3](https://open.spotify.com/album/1vdEbu1fVuZwJdnRMTr9KM) | 2:35 | 2024-06-28 | 2024-08-09 |
 | [Jeansjacka](https://open.spotify.com/track/5VQLwMSUdFIHOj7ao6Rg4R) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jeansjacka](https://open.spotify.com/album/4F5rh6QUQNOudxl8ph3lgu) | 3:51 | 2024-06-28 | 2024-08-23 |
+| [Karma](https://open.spotify.com/track/0MinwE2P21fPkMPzVSP8jM) | [MISS MOLLY](https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA) | [Karma](https://open.spotify.com/album/2LereCO7XrmyUn5e2WP1q4) | 3:31 | 2024-10-24 |  |
 | [Katterna](https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vilken del av oss gick fel?](https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa) | 2:58 | 2024-06-28 |  |
 | [Kiss](https://open.spotify.com/track/1nGgVnr5yhyWfvB6UMiPSj) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [A Letter From Rimini](https://open.spotify.com/album/0vif4YAS95ZZ139gnsXD5t) | 2:53 | 2024-10-10 |  |
 | [Klyschor](https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Klyschor](https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd) | 2:33 | 2024-08-08 |  |

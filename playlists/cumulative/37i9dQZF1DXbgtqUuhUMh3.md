@@ -2,7 +2,7 @@
 
 ### [EQUAL Arabia](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
 
-> Listen to Arab women, at full volume\. Cover: Assala Nasri
+> Listen to Arab women, at full volume\. Cover: Elyanna
 
 688 songs - 1 day 15 hr 40 min
 

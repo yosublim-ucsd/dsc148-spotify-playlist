@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Owen Riegling
 
-499 songs - 1 day 6 hr 23 min
+500 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [How Do You Love with a Broken Heart?](https://open.spotify.com/track/5VFIPHbkvSyVp2kANgpSVg) | [Leeroy Stagger](https://open.spotify.com/artist/3ltVtf7QHIwJBNQHqjb9UI) | [Dystopian Weekends](https://open.spotify.com/album/6nA8bcaAUOF4iTEtIPWjk2) | 3:48 | 2022-05-13 | 2022-08-27 |
 | [How Far Will We Take It?](https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 2:52 | 2024-05-10 |  |
 | [How's It Gonna End](https://open.spotify.com/track/52ragJVFPFGkPG2T8ivE8p) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ), [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [How's It Gonna End](https://open.spotify.com/album/5Kf2gkv0onj0uGgTeJ7ejg) | 4:59 | 2024-07-19 | 2024-08-03 |
+| [I Hope It Hurts](https://open.spotify.com/track/4baf3XBeEdPUTXFMGa77vv) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Golden](https://open.spotify.com/album/1NVXFnpdszTez8PHw65c7N) | 2:51 | 2024-10-25 |  |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-25 |  |
 | [I Want My Soul Back](https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Midnight Blues](https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK) | 3:35 | 2022-09-30 | 2023-08-05 |
 | [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 | 2024-03-29 | 2024-04-19 |
@@ -248,7 +249,7 @@
 | [It's So Hard to Hold On](https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [It's so Hard to Hold On](https://open.spotify.com/album/64z3mnnIQf44D7dumfUWJY) | 3:37 | 2022-06-17 | 2022-11-12 |
 | [Iydlmlmg](https://open.spotify.com/track/2Y1dRB5NdxeTdgKJb2x4v2) | [The Secret Beach](https://open.spotify.com/artist/2BA8RBb2WV5OfaxXELFFe3) | [Iydlmlmg](https://open.spotify.com/album/1THoy1RiIHbr46SOcADDI1) | 2:57 | 2022-12-09 | 2023-05-04 |
 | [James Dean](https://open.spotify.com/track/4uVv3CQLp68fL2J3CJNDEl) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [James Dean](https://open.spotify.com/album/3rdV9CDNImR96dzxyarYfZ) | 2:50 | 2022-08-05 | 2022-09-10 |
-| [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 | 2023-04-21 |  |
+| [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 | 2023-04-21 | 2024-11-01 |
 | [John Came Home](https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:11 | 2023-04-21 | 2023-06-24 |
 | [Just A Little While](https://open.spotify.com/track/4o8w2detJfT45mdxIJ6hVb) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Just A Little While](https://open.spotify.com/album/3IOaxvwYaDmoQ36meh2niy) | 2:42 | 2022-05-13 | 2022-06-04 |
 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 | 2023-04-21 | 2023-06-24 |

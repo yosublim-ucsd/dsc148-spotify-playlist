@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43753,
+  "num_followers": 43756,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Waves (Acoustic)",
+        "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 248176,
+      "name": "Waves - Acoustic",
+      "url": "https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Waves (Acoustic)",
-        "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 248176,
-      "name": "Waves - Acoustic",
-      "url": "https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "14 Steps To A Better You",
-        "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu"
       },
       "artists": [
         {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+          "name": "Dear Sunday",
+          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
         }
       ],
-      "duration_ms": 216636,
-      "name": "On Our Own",
-      "url": "https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI"
+      "duration_ms": 211943,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "14 Steps To A Better You",
+        "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 216636,
+      "name": "On Our Own",
+      "url": "https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu"
-      },
-      "artists": [
-        {
-          "name": "Dear Sunday",
-          "url": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
-        }
-      ],
-      "duration_ms": 211943,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Deeper Water",
-        "url": "https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM"
+        "name": "Gossip",
+        "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
       },
       "artists": [
         {
           "name": "Paul Kelly",
           "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        },
+        {
+          "name": "The Messengers",
+          "url": "https://open.spotify.com/artist/6cBdXnLZZ80RDHOvNPVUcY"
         }
       ],
-      "duration_ms": 272093,
-      "name": "Deeper Water",
-      "url": "https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf"
+      "duration_ms": 203920,
+      "name": "Leaps And Bounds",
+      "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1303,22 +1307,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Gossip",
-        "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
+        "name": "Deeper Water",
+        "url": "https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM"
       },
       "artists": [
         {
           "name": "Paul Kelly",
           "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
-        },
-        {
-          "name": "The Messengers",
-          "url": "https://open.spotify.com/artist/6cBdXnLZZ80RDHOvNPVUcY"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Leaps And Bounds",
-      "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
+      "duration_ms": 272093,
+      "name": "Deeper Water",
+      "url": "https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf"
     },
     {
       "added_at": "2023-11-15 02:04:48",

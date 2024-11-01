@@ -4,7 +4,7 @@
 
 > temas que repetirías más que a tu ex\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-62 songs - 3 hr 31 min
+63 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 | 2023-07-18 |  |
 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 | 2023-05-24 |  |
 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-07-18 |  |
+| [CORAZÓN DESPEINADO](https://open.spotify.com/track/6yNIT5iO7lUGOFDLG5CPJC) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:27 | 2023-07-18 |  |
 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-05-24 |  |
 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 | 2023-05-24 |  |
 | [Diablita \(feat\. Anuel AA & Baby Rasta\)](https://open.spotify.com/track/62NeZ2Vtrz5HgtQibleMNs) | [Trap Capos](https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [Trap Capos: Season 1](https://open.spotify.com/album/74vYzfJqytyzhahNopSwtg) | 3:33 | 2023-07-18 |  |
@@ -54,7 +55,7 @@
 | [Polaris](https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [1371 KM](https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2) | 3:12 | 2023-05-24 | 2023-06-18 |
 | [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 | 2023-05-24 | 2023-10-15 |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-05-24 |  |
-| [RON COLA](https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:06 | 2023-05-24 |  |
+| [RON COLA](https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:06 | 2023-05-24 | 2024-11-01 |
 | [RÁPIDO](https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [RÁPIDO](https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe) | 3:02 | 2023-05-24 |  |
 | [Se Voce Nao Quer Passa a Vez](https://open.spotify.com/track/7snnTlaWaN39nfN1PhUaT8) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Se Voce Nao Quer Passa a Vez](https://open.spotify.com/album/7mSEULBduMtsKcy7w7QgWk) | 2:13 | 2023-05-24 |  |
 | [SHERATON](https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [SHERATON](https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI) | 2:22 | 2023-05-24 | 2023-10-03 |

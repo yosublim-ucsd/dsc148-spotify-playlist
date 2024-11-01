@@ -1,6 +1,6 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 85661,
+  "num_followers": 85672,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 252925,
-      "name": "Love It If We Made It",
-      "url": "https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 177697,
       "name": "Just A Stranger (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 252925,
+      "name": "Love It If We Made It",
+      "url": "https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -451,38 +451,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Lemon Boy",
-        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 272902,
-      "name": "Lemon Boy",
-      "url": "https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 349293,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Little Dark Age",
         "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
       },
@@ -499,6 +467,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
+        "name": "Lemon Boy",
+        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 272902,
+      "name": "Lemon Boy",
+      "url": "https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
         "name": "The Now Now",
         "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 162626,
       "name": "Tranz",
       "url": "https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 349293,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "We're Going Home",
-      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Sunset Season",
         "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 219680,
       "name": "Generation Why",
       "url": "https://open.spotify.com/track/79e2GU4RLPjAqnijfvsXYr"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "We're Going Home",
+      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Greek God",
-      "url": "https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Cool Like You (Deluxe)",
         "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 226160,
-      "name": "Sky Full Of Song",
-      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
+      "duration_ms": 236746,
+      "name": "Greek God",
+      "url": "https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -947,6 +931,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "tkm",
+      "url": "https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 338000,
-      "name": "tkm",
-      "url": "https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8"
+      "duration_ms": 226160,
+      "name": "Sky Full Of Song",
+      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Prom Queen",
-        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 136562,
-      "name": "Prom Queen",
-      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Better (SG Lewis x Clairo)",
         "url": "https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd"
       },
@@ -1047,22 +1031,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Quarter Past Midnight",
-        "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 201799,
-      "name": "Quarter Past Midnight",
-      "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Lenses",
         "url": "https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU"
       },
@@ -1079,34 +1047,34 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+        "name": "Quarter Past Midnight",
+        "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 186681,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
+      "duration_ms": 201799,
+      "name": "Quarter Past Midnight",
+      "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
     },
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Pussy Is God",
-        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
+        "name": "Prom Queen",
+        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 205533,
-      "name": "Pussy Is God",
-      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
+      "duration_ms": 136562,
+      "name": "Prom Queen",
+      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1127,6 +1095,38 @@
       "duration_ms": 190720,
       "name": "Sit Next to Me - Stereotypes Remix",
       "url": "https://open.spotify.com/track/4v0CuFW0bEMBQ1gRn2mB3X"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Pussy Is God",
+        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Pussy Is God",
+      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 186681,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 239010,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 193429,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 239010,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+        "name": "On the Train Ride Home",
+        "url": "https://open.spotify.com/album/52nbX1xWBxOQrFSCqepCUz"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
+      "duration_ms": 203560,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/48HT7Zzd3We4ZjG82lsbdK"
     }
   ],
   "unique_name": "Best of Indie 2018",

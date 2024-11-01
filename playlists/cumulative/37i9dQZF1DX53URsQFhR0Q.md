@@ -4,7 +4,7 @@
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-61 songs - 5 hr 53 min
+62 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Awurade Kasa](https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 7:42 | 2023-04-06 |  |
 | [Ayeyi](https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd), [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [I Am Noble](https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF) | 4:04 | 2023-04-06 |  |
 | [Ayeyi](https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:31 | 2023-04-06 |  |
+| [Ayeyi Ndowm](https://open.spotify.com/track/1aiVyCnIAwKXX19mySlqu1) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [Sacrifice](https://open.spotify.com/album/2QMBRCMuXbK1J8gq9F1BGm) | 6:18 | 2024-05-22 |  |
 | [Ayeyi Ndowm](https://open.spotify.com/track/25oRGk2NVHd5yHFuQwp2ES) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [Sacrifice](https://open.spotify.com/album/5caDSXSNgN6sPsCJRWCqNT) | 6:18 | 2023-04-06 | 2023-11-10 |
 | [Ayeyi Ndowm](https://open.spotify.com/track/6CVaMNyXq66XRilZD38TFO) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [Sacrifice](https://open.spotify.com/album/4akleNa1rKTAV7Ez5SztX0) | 6:18 | 2023-04-06 | 2024-04-19 |
 | [Bebre](https://open.spotify.com/track/0AqVbvy316jvn30WplrcQF) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Aseda](https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ) | 6:35 | 2023-04-06 |  |
@@ -57,7 +58,7 @@
 | [Okamafo Jesus](https://open.spotify.com/track/6HHgiMp6laU0gW41fBgJzS) | [Amy Newman](https://open.spotify.com/artist/4wfnvecs6YukRABU5mTyQS) | [Ma Metsi Biara](https://open.spotify.com/album/3i0IMncESDwizxHybc50rp) | 5:36 | 2023-04-06 |  |
 | [Oko Yi](https://open.spotify.com/track/24dqjLGwUan37c1bPKGN1N) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [Yesom Nyame Otease](https://open.spotify.com/album/7nuaCvUOo6iDURklwaSHuV) | 5:25 | 2023-04-06 |  |
 | [Okura Yen Mu](https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Mahunu Awurade](https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS) | 5:59 | 2023-04-06 |  |
-| [Osoro Ne Yefie](https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B) | [Florence Obinim](https://open.spotify.com/artist/4RTr7NACMCVixQUQlP64NO) | [Osoro Ne Yefie](https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx) | 7:14 | 2023-04-06 |  |
+| [Osoro Ne Yefie](https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B) | [Florence Obinim](https://open.spotify.com/artist/4RTr7NACMCVixQUQlP64NO) | [Osoro Ne Yefie](https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx) | 7:14 | 2023-04-06 | 2024-11-01 |
 | [Twediampong Nyame](https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Asomdwoe Hene](https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2) | 5:12 | 2023-04-06 |  |
 | [W' agye Me](https://open.spotify.com/track/4JQofHiIEY6EuWLXAxe7SG) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 4:12 | 2023-04-06 |  |
 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 | 2023-04-06 |  |

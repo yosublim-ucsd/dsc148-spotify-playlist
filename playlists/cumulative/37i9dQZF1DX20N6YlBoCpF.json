@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=8cOY7K5OQL2E613YkHgCyA\">Die Piesangskille</a>  & <a href=\"https://open.spotify.com/artist/5SoKicMU7Us6iFcqSQq7aG?si=yz4eTk7OQZG16l1C0dzKAg\">Radioraps</a> ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb?si=GjjIMWPgTDitOBH6dFdbUw\">ONS</a>",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -114,6 +114,28 @@
       "duration_ms": 224213,
       "name": "'Til You Can't",
       "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
+    },
+    {
+      "album": {
+        "name": "/Xam-songs: II. Slaapliedjie",
+        "url": "https://open.spotify.com/album/4HAerO6snbRw27v3uroVpc"
+      },
+      "artists": [
+        {
+          "name": "Franco Prinsloo",
+          "url": "https://open.spotify.com/artist/5MwIR6OCMd88gkOmzzoMB4"
+        },
+        {
+          "name": "Merna Nicholls",
+          "url": "https://open.spotify.com/artist/6NERfWKfOnLRWWUHOAc9Xn"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140308,
+      "name": "/Xam-songs: II. Slaapliedjie",
+      "url": "https://open.spotify.com/track/5QeEB3HRKowUkSJHgL0JJ9"
     },
     {
       "album": {
@@ -1216,7 +1238,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 230024,
       "name": "As Ek Opstaan",
       "url": "https://open.spotify.com/track/1TNSmK6EDmDIh1v3fj53JS"
@@ -1454,7 +1476,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 174985,
       "name": "Augustus",
       "url": "https://open.spotify.com/track/6HGTWxnWuLLP0yVUdD2mbe"
@@ -1581,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Baard Soos 'n Kaptein",
+        "url": "https://open.spotify.com/album/0UoYeZS6rYEnBy3fyICqwL"
+      },
+      "artists": [
+        {
+          "name": "Christiaan Baartman",
+          "url": "https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206564,
+      "name": "Baard Soos 'n Kaptein",
+      "url": "https://open.spotify.com/track/7E73uejRI6u3arabcpvKhT"
+    },
+    {
+      "album": {
         "name": "Babbelas \u00b2 Kwadraat",
         "url": "https://open.spotify.com/album/6WNShAod3Jay2eNq8PIzJr"
       },
@@ -1686,6 +1726,24 @@
       "duration_ms": 171500,
       "name": "Baljaar",
       "url": "https://open.spotify.com/track/09UStOTTT5ZYKoUuROS6Sa"
+    },
+    {
+      "album": {
+        "name": "Ballade Van 'N Boemelaar",
+        "url": "https://open.spotify.com/album/0P1hQLP2nfHugjLT1DvU5I"
+      },
+      "artists": [
+        {
+          "name": "Saarkie",
+          "url": "https://open.spotify.com/artist/1ZuXFw4O5v2QaNNxZki6Qf"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226200,
+      "name": "Ballade Van 'N Boemelaar",
+      "url": "https://open.spotify.com/track/7vfGTxpoJAcr5BeGs8Upt5"
     },
     {
       "album": {
@@ -1982,7 +2040,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 297460,
       "name": "Biela Se Komeet",
       "url": "https://open.spotify.com/track/0zkJERXVafrFXF2oc819tc"
@@ -3136,7 +3194,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 205833,
       "name": "Bruin O\u00eb Kan Nie Jok Nie",
       "url": "https://open.spotify.com/track/4e9qS43FUL64ZmrXDRu3UY"
@@ -3246,6 +3304,28 @@
     {
       "album": {
         "name": "By Die See",
+        "url": "https://open.spotify.com/album/39sWfVQmUrCWsiEwVwzWlN"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        },
+        {
+          "name": "Henru",
+          "url": "https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199331,
+      "name": "By Die See",
+      "url": "https://open.spotify.com/track/5CehcloTKyLuTLbLmSUewD"
+    },
+    {
+      "album": {
+        "name": "By Die See",
         "url": "https://open.spotify.com/album/5Fspb1oAi4FQVr6csHTjz5"
       },
       "artists": [
@@ -3260,6 +3340,24 @@
       "duration_ms": 167190,
       "name": "By Die See",
       "url": "https://open.spotify.com/track/0GJrUyW2Gi3OrCdbBMl9hI"
+    },
+    {
+      "album": {
+        "name": "Byt vissie byt",
+        "url": "https://open.spotify.com/album/6HqmAbAB88brvHGD3hLnKk"
+      },
+      "artists": [
+        {
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196781,
+      "name": "Byt vissie byt",
+      "url": "https://open.spotify.com/track/5xLX2MgXHkaGmjqbHkxLlR"
     },
     {
       "album": {
@@ -3859,6 +3957,28 @@
     },
     {
       "album": {
+        "name": "Dans In Die Aand",
+        "url": "https://open.spotify.com/album/60IwLMkZJEzFaDfP1HvLnN"
+      },
+      "artists": [
+        {
+          "name": "TWO",
+          "url": "https://open.spotify.com/artist/0lPCLnqch0At4pU5dgRShl"
+        },
+        {
+          "name": "Richii",
+          "url": "https://open.spotify.com/artist/1JpIxCLvIzIYAxmuSL2BwO"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174322,
+      "name": "Dans In Die Aand",
+      "url": "https://open.spotify.com/track/4RYjKmWJEN6SrySPcVdXOp"
+    },
+    {
+      "album": {
         "name": "Dans Kwagga",
         "url": "https://open.spotify.com/album/6EUKAwUr11udwqsy8Fxvd7"
       },
@@ -3888,7 +4008,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 192000,
       "name": "Dans Medisyne",
       "url": "https://open.spotify.com/track/1t0vQHzVDDAOTJolepnaW6"
@@ -4000,7 +4120,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 190563,
       "name": "De La Rey",
       "url": "https://open.spotify.com/track/0XQDGh57ZQIsmI3aCHT1Tj"
@@ -5096,6 +5216,24 @@
       "duration_ms": 162000,
       "name": "DIK TRIL",
       "url": "https://open.spotify.com/track/02ETixX3ckSKGXMEt7HXTE"
+    },
+    {
+      "album": {
+        "name": "Dis 'n Dans",
+        "url": "https://open.spotify.com/album/0rfT9Edib0XKRnZu4kEIfs"
+      },
+      "artists": [
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201229,
+      "name": "Dis 'n Dans",
+      "url": "https://open.spotify.com/track/4ywV3todGcHHR9w7Wlfqh2"
     },
     {
       "album": {
@@ -6889,6 +7027,24 @@
     },
     {
       "album": {
+        "name": "Ford Fairlane",
+        "url": "https://open.spotify.com/album/3M2xjEIuVhM75J1TkFWh1P"
+      },
+      "artists": [
+        {
+          "name": "Shaun Wulf",
+          "url": "https://open.spotify.com/artist/7DYJAQlpFEmHZU02hLjUsS"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Ford Fairlane",
+      "url": "https://open.spotify.com/track/2FNZbWmwMZ8NsSowjmif6H"
+    },
+    {
+      "album": {
         "name": "Foto's",
         "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
       },
@@ -7662,7 +7818,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 145951,
       "name": "Haat goodbyes",
       "url": "https://open.spotify.com/track/7aSetpvUPasR3RbxyBVXdJ"
@@ -7818,7 +7974,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 192500,
       "name": "Harlekyn",
       "url": "https://open.spotify.com/track/4YPBQehjK6f4MNIipT7XVa"
@@ -8945,6 +9101,28 @@
     },
     {
       "album": {
+        "name": "Hulle",
+        "url": "https://open.spotify.com/album/1LM0fOt0DOM9H0bmp5oE8G"
+      },
+      "artists": [
+        {
+          "name": "Jaakie",
+          "url": "https://open.spotify.com/artist/42quOzLgb6fpnRIiE07ACz"
+        },
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Hulle",
+      "url": "https://open.spotify.com/track/7hmbosZu6xfpYCGcKGuTjE"
+    },
+    {
+      "album": {
         "name": "Hulle Weet Nie Wat Ons Weet Nie",
         "url": "https://open.spotify.com/album/0hY9ExfnoBSSNhx7aZFwy2"
       },
@@ -9778,7 +9956,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
@@ -10140,7 +10318,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 197054,
       "name": "Kaapse Strate",
       "url": "https://open.spotify.com/track/189Lp8VWlJvmZqBFNcoAqc"
@@ -11048,7 +11226,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 151158,
       "name": "kners",
       "url": "https://open.spotify.com/track/4WEj2G4dz0aMK87HSAlE5y"
@@ -12997,6 +13175,24 @@
     },
     {
       "album": {
+        "name": "Begin",
+        "url": "https://open.spotify.com/album/4RLprjMkuC3WlBIVNyv4s8"
+      },
+      "artists": [
+        {
+          "name": "ONS",
+          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "Los My In Die Lande",
+      "url": "https://open.spotify.com/track/3A6GiP7JwCiw1pogpX70gT"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
@@ -13218,6 +13414,24 @@
       "duration_ms": 169087,
       "name": "Mag Nie Kla Nie",
       "url": "https://open.spotify.com/track/7i5gPtSEgWWUZh4HxvUhRg"
+    },
+    {
+      "album": {
+        "name": "Magic In Die Meel",
+        "url": "https://open.spotify.com/album/7dSemAI0G8Eh8FY0KNrpat"
+      },
+      "artists": [
+        {
+          "name": "ADAM",
+          "url": "https://open.spotify.com/artist/486zoG8VpR4C1iQRLG4ywt"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176865,
+      "name": "Magic In Die Meel",
+      "url": "https://open.spotify.com/track/01ZiIBlhyaLMrAP3dUfG52"
     },
     {
       "album": {
@@ -13720,6 +13934,24 @@
       "duration_ms": 182950,
       "name": "Met Jou Klere Af",
       "url": "https://open.spotify.com/track/2IT9pZ5IkLrx3O6wX2HUNT"
+    },
+    {
+      "album": {
+        "name": "Mia, Jy",
+        "url": "https://open.spotify.com/album/5wHPieDfDaOum3eraaZhuO"
+      },
+      "artists": [
+        {
+          "name": "wiesner",
+          "url": "https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272250,
+      "name": "Mia, Jy",
+      "url": "https://open.spotify.com/track/0mwhB6Nb6WmmjPjjRteCHg"
     },
     {
       "album": {
@@ -15427,6 +15659,28 @@
     },
     {
       "album": {
+        "name": "Obsessie",
+        "url": "https://open.spotify.com/album/39gxg3rN4QxlWE58bM8BTN"
+      },
+      "artists": [
+        {
+          "name": "ShokBasse",
+          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
+        },
+        {
+          "name": "Snacci",
+          "url": "https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155712,
+      "name": "Obsessie",
+      "url": "https://open.spotify.com/track/65BZnqH7Vhzlg1KDGUYcDs"
+    },
+    {
+      "album": {
         "name": "Obsessief",
         "url": "https://open.spotify.com/album/5ZK6VVayUu1d1xWDJZTycx"
       },
@@ -15942,7 +16196,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 160218,
       "name": "Ons Verander",
       "url": "https://open.spotify.com/track/5BrbGLJ4eELmDNfOrQfhQa"
@@ -16198,6 +16452,24 @@
       "duration_ms": 212257,
       "name": "Opstaan",
       "url": "https://open.spotify.com/track/1n27zP11I3ZAq1ElZYEPtO"
+    },
+    {
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/7BbxZ36fn5ueWdBMCPS1xc"
+      },
+      "artists": [
+        {
+          "name": "Eldon Flare",
+          "url": "https://open.spotify.com/artist/36BQyhX27gILUnRMd5m1jW"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160631,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5oIf1T25Eixf1ToSIwwIRx"
     },
     {
       "album": {
@@ -17219,6 +17491,28 @@
     },
     {
       "album": {
+        "name": "Ik Ben Een Afrikaander",
+        "url": "https://open.spotify.com/album/7GQuuRi2tLX3WOkmw5hxTc"
+      },
+      "artists": [
+        {
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        },
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "Ribbetjie",
+      "url": "https://open.spotify.com/track/2eLPxfcGwXzRqzDjQLuJf2"
+    },
+    {
+      "album": {
         "name": "Rigtingnaald",
         "url": "https://open.spotify.com/album/0jlTHJ7HGit6w5G7mctR3Q"
       },
@@ -17266,7 +17560,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 154464,
       "name": "RND (Raak Nou Dronk)",
       "url": "https://open.spotify.com/track/6xhT0zjNpnfOOwKB6fjD10"
@@ -17519,6 +17813,24 @@
     },
     {
       "album": {
+        "name": "Rooksein",
+        "url": "https://open.spotify.com/album/00KWX1Tc3PPxPOFxpJ7DqQ"
+      },
+      "artists": [
+        {
+          "name": "Delano Jooste",
+          "url": "https://open.spotify.com/artist/5wSeUIvRBzhkeOoiPnOTQX"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243078,
+      "name": "Rooksein",
+      "url": "https://open.spotify.com/track/67mGnNAOpLbQ9QZoJF8ntm"
+    },
+    {
+      "album": {
         "name": "Ruggas",
         "url": "https://open.spotify.com/album/7AM2vY6LsKdLudQis43fPc"
       },
@@ -17610,6 +17922,24 @@
       "duration_ms": 213392,
       "name": "Saam Is Beter",
       "url": "https://open.spotify.com/track/4EBQrGsaK0yuNPK9b7SLf6"
+    },
+    {
+      "album": {
+        "name": "SAAM IS ONS EEN",
+        "url": "https://open.spotify.com/album/5Id5o5qAV0O6NmrElk2kZ2"
+      },
+      "artists": [
+        {
+          "name": "Leandri Martin",
+          "url": "https://open.spotify.com/artist/23vhLfPvdSy4JeT9YqAN1m"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215253,
+      "name": "SAAM IS ONS EEN",
+      "url": "https://open.spotify.com/track/4pfkAEiQRFLswaVzf4woL5"
     },
     {
       "album": {
@@ -18096,7 +18426,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 182645,
       "name": "Simson En Delila",
       "url": "https://open.spotify.com/track/5TGv9ly0DQCjsidg8SIbBR"
@@ -18508,7 +18838,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 243745,
       "name": "Slaaploos",
       "url": "https://open.spotify.com/track/5d7d5sqBxji4ywBBDfsOUq"
@@ -18692,6 +19022,24 @@
       "duration_ms": 224362,
       "name": "So Onskuldig",
       "url": "https://open.spotify.com/track/1OXevWERz0x6r3c2y7n9RR"
+    },
+    {
+      "album": {
+        "name": "Soeke na Jou",
+        "url": "https://open.spotify.com/album/3OUp1JB9BmpCiDbcXFGHsr"
+      },
+      "artists": [
+        {
+          "name": "Ryan Burnwood",
+          "url": "https://open.spotify.com/artist/2NRazNZXGV6hBxZR50osdI"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277124,
+      "name": "Soeke Na Jou",
+      "url": "https://open.spotify.com/track/5WP9cSEqVAbczsWExs2EGs"
     },
     {
       "album": {
@@ -19088,7 +19436,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 192399,
       "name": "Sonvanger (Arr. Franco Prinsloo)",
       "url": "https://open.spotify.com/track/0y47cqYV549ALUjHkhpMg8"
@@ -19341,6 +19689,24 @@
     },
     {
       "album": {
+        "name": "Spook by My",
+        "url": "https://open.spotify.com/album/0eOiAv7BkeGY3duTFukj3V"
+      },
+      "artists": [
+        {
+          "name": "Julanie J",
+          "url": "https://open.spotify.com/artist/5FWjsO7SEyEQj4pTFUGsUD"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135782,
+      "name": "Spook by My",
+      "url": "https://open.spotify.com/track/35epM76n7gnUapzw5DqhiO"
+    },
+    {
+      "album": {
         "name": "Spookasem",
         "url": "https://open.spotify.com/album/3xo0hPBRoUQUIkfPxdAJWr"
       },
@@ -19396,6 +19762,24 @@
       "duration_ms": 153214,
       "name": "Spoor",
       "url": "https://open.spotify.com/track/2HUWDMMtqTzml3jTIZjuaO"
+    },
+    {
+      "album": {
+        "name": "Sproeire\u00ebn",
+        "url": "https://open.spotify.com/album/36ki9qJyzocS2PsJsvpCRg"
+      },
+      "artists": [
+        {
+          "name": "Leon-Ben Lamprecht",
+          "url": "https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170574,
+      "name": "Sproeire\u00ebn",
+      "url": "https://open.spotify.com/track/6AgbfYzY7SNsyVpElQNuuh"
     },
     {
       "album": {
@@ -21044,7 +21428,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 229380,
       "name": "Tyd Om Te Groet",
       "url": "https://open.spotify.com/track/22CVV1ydVrq7FDrpy2z0oc"
@@ -21930,7 +22314,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 266826,
       "name": "Verwagtings",
       "url": "https://open.spotify.com/track/7Awew6SKm8fgGoTTpMJJlP"
@@ -22630,7 +23014,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 225834,
       "name": "Vroegoggend Koffie",
       "url": "https://open.spotify.com/track/39ayqFuZypxahqYKOMk9Pr"
@@ -23752,7 +24136,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 218952,
       "name": "Wit & Grys",
       "url": "https://open.spotify.com/track/2NccHVNnczkiAIStnfxey8"

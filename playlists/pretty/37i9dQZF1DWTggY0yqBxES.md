@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Powers Pleasant
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,873 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,121 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 5 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 6 | [Shmoke \(feat\. A$AP Ferg & Armani Caesar\)](https://open.spotify.com/track/2AqKCCM6M4XbABHPOwJnB5) | [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f) | [Shmoke \(feat\. A$AP Ferg & Armani Caesar\)](https://open.spotify.com/album/5TSO7S6SKIyZPDSubLApMd) | 2:22 |
 | 7 | [Words2LiveBy \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk) | [El Cousteau](https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Words2LiveBy \(feat\. Earl Sweatshirt\)](https://open.spotify.com/album/7BKRDai83KpPU96CA586gV) | 2:16 |
-| 8 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
+| 8 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 9 | [HYPE ME UP](https://open.spotify.com/track/2fMgGrKk8IFglMGn5CTXN5) | [TruththeBull](https://open.spotify.com/artist/6jJ5zRuUgv7UZJhss0fUyg) | [HYPE ME UP](https://open.spotify.com/album/2Mpaeojxd7u1vnjqjT1PY6) | 1:49 |
 | 10 | [TYG \(feat\. Spiritbox\)](https://open.spotify.com/track/5zkT8awQHaG8JKlaSun1lB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:27 |
 | 11 | [AM to the PM PM to the AM phonk](https://open.spotify.com/track/6B7ocg8QwchhoR3S7yAcJj) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [AM to the PM PM to the AM phonk](https://open.spotify.com/album/2w2Cd5HjI8mBG3G2AQ7cqm) | 2:20 |

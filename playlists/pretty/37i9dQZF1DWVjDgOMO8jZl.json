@@ -11,6 +11,42 @@
     {
       "added_at": "2024-10-30 23:01:00",
       "album": {
+        "name": "POLIGONO",
+        "url": "https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "duration_ms": 137055,
+      "name": "POLIGONO",
+      "url": "https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS"
+    },
+    {
+      "added_at": "2024-10-30 23:01:00",
+      "album": {
+        "name": "The Freak Show",
+        "url": "https://open.spotify.com/album/0ODC0hNSTpUbAGS35m6eoS"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 169761,
+      "name": "Come Te",
+      "url": "https://open.spotify.com/track/3cDtXLGAb9APMbhKQd9jYx"
+    },
+    {
+      "added_at": "2024-10-30 23:01:00",
+      "album": {
         "name": "ok?",
         "url": "https://open.spotify.com/album/6ez42IrMS6Y1TBbdLt3wBz"
       },

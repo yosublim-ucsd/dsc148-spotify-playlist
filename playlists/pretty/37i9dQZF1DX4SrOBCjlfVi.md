@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Hunxho, Polo G, Megan Thee Stallion and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,995 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,081 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 31 | [It](https://open.spotify.com/track/5ASiVfpSYoK5OQajNiNuJP) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [It](https://open.spotify.com/album/22p2prq9HNF6RNB7S4nKjt) | 3:15 |
 | 32 | [Substance Abuse](https://open.spotify.com/track/6dHoRoSGgRkVy34GzE1Jjo) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Substance Abuse](https://open.spotify.com/album/3CGvZx0GJeihDYibVOlT0o) | 2:24 |
 | 33 | [I Love U Bae](https://open.spotify.com/track/0jLIqnAfDU66VCDvc2GOqk) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [I Love U Bae](https://open.spotify.com/album/45oXpRza3mNT8jYAKDVFGr) | 1:47 |
-| 34 | [Millon](https://open.spotify.com/track/3PzFwEi9XUCUTOgqu8LXdF) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Millon](https://open.spotify.com/album/3FBAnpX4T4yIqwW2WObVMV) | 2:17 |
+| 34 | [Million](https://open.spotify.com/track/3PzFwEi9XUCUTOgqu8LXdF) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Million](https://open.spotify.com/album/3FBAnpX4T4yIqwW2WObVMV) | 2:17 |
 | 35 | [Strategizer](https://open.spotify.com/track/0lVXASbHSlzbviR0IwOUmA) | [Young Slo\-Be](https://open.spotify.com/artist/1pWm8RcyiWZehSnb38i4fM), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Slo\-Be Bryant 4](https://open.spotify.com/album/6DSV93bZAFi7gTAKDZiMQc) | 4:26 |
 | 36 | [Flight to Brazil](https://open.spotify.com/track/2nQhrGASooch4Uhzch6qZa) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [PEACE 2 DA WORLD](https://open.spotify.com/album/0gOTg0Yi6YMKH7o58VtW17) | 2:30 |
 | 37 | [RökKOut](https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [RökKOut](https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY) | 3:52 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 40 | [yeah \(with LAZER DIM 700\)](https://open.spotify.com/track/3My6LjXZYxozBuFFXZG2Uy) | [OLA RUNT](https://open.spotify.com/artist/3pAtVSFUcp2b8gY93G0y6u), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [yeah \(with LAZER DIM 700\)](https://open.spotify.com/album/0FCmXQ6g9xjG7bUTfd2Mre) | 3:32 |
 | 41 | [Smoke 2](https://open.spotify.com/track/2aT8kPCLna2Uod9TZGS6zV) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Smoke 2](https://open.spotify.com/album/33BXgwTjt6qBviqJqR3biL) | 3:35 |
 | 42 | [houstoncomet](https://open.spotify.com/track/3LEIP7YKKdUcqhjC1rRI8o) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Stoic](https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t) | [houstoncomet](https://open.spotify.com/album/7oCcvzTpQmQTKNPVYT2AB1) | 2:23 |
-| 43 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
+| 43 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 44 | [Brand New](https://open.spotify.com/track/0gkCuoQzy86HsdH7jMeXjk) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Brand New](https://open.spotify.com/album/3WtRTYXLKW8mG5eB8xVabm) | 2:22 |
 | 45 | [Fast Dudes](https://open.spotify.com/track/7ruqJE1F5iRZuzMVdPjx9F) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Fast Dudes](https://open.spotify.com/album/4YDtNRPk4vJBgBKUAiKXn7) | 2:27 |
 | 46 | [Streets Calling My Name](https://open.spotify.com/track/3S8eVueSVnzE0CI0UyKTVQ) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [Streets Calling My Name](https://open.spotify.com/album/3co9U4mYLBMEZxeCISjQ4M) | 2:01 |

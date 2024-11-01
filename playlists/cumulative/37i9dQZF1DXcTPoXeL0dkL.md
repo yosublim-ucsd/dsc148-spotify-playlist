@@ -4,7 +4,7 @@
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-141 songs - 10 hr 52 min
+142 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Que No Se enteren](https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Original](https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P) | 4:30 | 2023-02-07 |  |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 4:58 | 2024-07-12 |  |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:58 | 2023-02-07 | 2024-04-19 |
+| [Qué Sera de Mí](https://open.spotify.com/track/2ER4g5nBnn2ZE7s9nRRWxB) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:37 | 2024-07-12 |  |
 | [Qué Sera de Mí](https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Internacional](https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0) | 4:37 | 2023-02-07 | 2024-03-10 |
 | [Se Le Moja la Canoa](https://open.spotify.com/track/1R7xRGu2YdVc5HZyhXeUFv) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Exitos](https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L) | 4:17 | 2023-02-07 | 2024-01-19 |
 | [Se Le Moja la Canoa \(La Canoa\)](https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de Los Embajadores Vallenatos](https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS) | 4:18 | 2024-07-12 |  |
@@ -122,7 +123,7 @@
 | [Sirena Encantada](https://open.spotify.com/track/3LhmbxCgjX7E7xYBEUn30Y) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 5:10 | 2023-02-07 | 2024-04-19 |
 | [Sirena Encantadora](https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 5:10 | 2023-02-07 |  |
 | [Sombra Perdida](https://open.spotify.com/track/1iLUNt0JQR8FOohEGHE22z) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Caché](https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs) | 4:24 | 2023-02-07 | 2024-04-19 |
-| [Sombra Perdida](https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:24 | 2023-02-07 |  |
+| [Sombra Perdida](https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:24 | 2023-02-07 | 2024-11-01 |
 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 | 2023-02-07 | 2024-04-19 |
 | [Sólo para Ti](https://open.spotify.com/track/3OJB3RTL92x7ODE8yXy1Oi) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:48 | 2023-02-07 |  |
 | [Tatuaje en el Alma](https://open.spotify.com/track/59PFv3Kawc9pZ04X2f7WEJ) | [Romualdo Brito](https://open.spotify.com/artist/1nVWUKrhf81C1A3Od2Eg1l) | [Colección Oro del Vallenato, Vol\. 10](https://open.spotify.com/album/5FVL5uT1OY0aIWo0d1Y7Fk) | 5:00 | 2023-02-07 | 2024-08-09 |

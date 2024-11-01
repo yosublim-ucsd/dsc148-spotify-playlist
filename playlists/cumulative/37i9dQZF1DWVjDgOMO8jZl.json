@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "The Freak Show",
+        "url": "https://open.spotify.com/album/0ODC0hNSTpUbAGS35m6eoS"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169761,
+      "name": "Come Te",
+      "url": "https://open.spotify.com/track/3cDtXLGAb9APMbhKQd9jYx"
+    },
+    {
+      "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
       },
@@ -2342,6 +2360,28 @@
       "duration_ms": 161841,
       "name": "Poker",
       "url": "https://open.spotify.com/track/6wHgwzvhFNFT01ecGXNGrI"
+    },
+    {
+      "album": {
+        "name": "POLIGONO",
+        "url": "https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "date_added": "2024-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137055,
+      "name": "POLIGONO",
+      "url": "https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS"
     },
     {
       "album": {

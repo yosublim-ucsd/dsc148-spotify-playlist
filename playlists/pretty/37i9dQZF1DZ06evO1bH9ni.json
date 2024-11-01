@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 329427,
+  "num_followers": 329445,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAArmnpqKpQZdfyzdBbk30By",
+  "snapshot_id": "ZyF3AAAAAACxi9XGlEKHwFkSbGoRDe/6",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dio Vuelta la Moneda (En Vivo)",
-        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 157107,
-      "name": "El Mismo - En Vivo",
-      "url": "https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Pa' la Historia",
         "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 187037,
       "name": "El Abuelo",
       "url": "https://open.spotify.com/track/2NjrMgCv32wUtsTTWP0uFb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 157107,
+      "name": "El Mismo - En Vivo",
+      "url": "https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gallo Jugado",
+        "url": "https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 173172,
+      "name": "Gallo Jugado",
+      "url": "https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Caminos de la Vida (Spotify Singles)",
         "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 217409,
       "name": "Termino Con Lo Nuestro",
       "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gallo Jugado",
-        "url": "https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 173172,
-      "name": "Gallo Jugado",
-      "url": "https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK"
     },
     {
       "added_at": null,

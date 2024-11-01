@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 20468,
+  "num_followers": 20467,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADEQyiO+vkR7s+cJiiFJy7D",
+  "snapshot_id": "ZyF3AAAAAAAlvvkHMctJfR3vwFsohGFO",
   "tracks": [
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+        "name": "O Melhor Pra Ti",
+        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 277339,
-      "name": "Eu Vim Te Adorar",
-      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
+      "duration_ms": 243000,
+      "name": "O Melhor Pra Ti",
+      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Melhor Pra Ti",
-        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 243000,
-      "name": "O Melhor Pra Ti",
-      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+      "duration_ms": 277339,
+      "name": "Eu Vim Te Adorar",
+      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
       "duration_ms": 487671,
       "name": "Ele N\u00e3o Muda - Ao Vivo",
       "url": "https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Grande Dia",
-      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 272697,
       "name": "Prossiga (feat. Midian Lima)",
       "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 276456,
-      "name": "O Pre\u00e7o Foi de Sangue",
-      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
+      "duration_ms": 274274,
+      "name": "Lugar Seguro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 274274,
-      "name": "Lugar Seguro (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
+      "duration_ms": 276456,
+      "name": "O Pre\u00e7o Foi de Sangue",
+      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
     },
     {
       "added_at": null,

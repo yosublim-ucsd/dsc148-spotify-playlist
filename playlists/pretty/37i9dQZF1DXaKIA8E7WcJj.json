@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1960s. Cover: The Beatles",
-  "num_followers": 3147601,
+  "num_followers": 3147818,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+        "name": "The Letter/Neon Rainbow",
+        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "The Box Tops",
+          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
         }
       ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+      "duration_ms": 112800,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "The Letter/Neon Rainbow",
-        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
       "artists": [
         {
-          "name": "The Box Tops",
-          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 112800,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 210373,
       "name": "Born To Be Wild",
       "url": "https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Break on Through (To the Other Side)",
-      "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "The Animals",
         "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 271280,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Break on Through (To the Other Side)",
+      "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 308520,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Runaround Sue",
         "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 171600,
       "name": "Runaround Sue",
       "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 308520,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Do you Believe In Magic",
         "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 125826,
       "name": "Do You Believe in Magic?",
       "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 125440,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
+        "name": "Ultimate Santana",
+        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Ultimate Santana",
-        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1587,22 +1603,6 @@
       "duration_ms": 143627,
       "name": "Hey! Baby - Remastered",
       "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
         "name": "Mr. Tambourine Man",
         "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
       },
@@ -1863,22 +1879,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Dance Party",
         "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
@@ -1891,22 +1891,6 @@
       "duration_ms": 181640,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
-        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
-        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
-      },
-      "artists": [
-        {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Come A Little Bit Closer",
-      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1927,18 +1911,18 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
+        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
+        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
       },
       "artists": [
         {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
         }
       ],
-      "duration_ms": 139093,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
+      "duration_ms": 166666,
+      "name": "Come A Little Bit Closer",
+      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1971,6 +1955,22 @@
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -2039,38 +2039,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Take Good Care Of My Baby",
-        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "Take Good Care Of My Baby",
-      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
-        "name": "Moon River And Other Great Movie Themes",
-        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 162893,
-      "name": "Moon River (From \"Breakfast at Tiffany's\")",
-      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Rick Is 21",
         "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
@@ -2087,6 +2055,22 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
+        "name": "Take Good Care Of My Baby",
+        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "Take Good Care Of My Baby",
+      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
         "name": "Wheatfield Soul",
         "url": "https://open.spotify.com/album/5AXYslqV5fXOt8ayqflk4g"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 225920,
       "name": "These Eyes",
       "url": "https://open.spotify.com/track/5lEyMg4GNKnMbaarvT4sRd"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Moon River And Other Great Movie Themes",
+        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "Moon River (From \"Breakfast at Tiffany's\")",
+      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Sam Cooke: Portrait Of A Legend 1951-1964",
         "url": "https://open.spotify.com/album/6QGm9AGR7l5YYQPb66FGdc"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 158613,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/5UrDFY2cYc7NMoheN4syct"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2024-07-10 05:20:25",

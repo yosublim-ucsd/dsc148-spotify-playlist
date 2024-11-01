@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,032 likes - 100 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,122 likes - 100 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 91 | [Digno](https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C), [Yvonne Muñoz](https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy) | 7:24 |
 | 92 | [Santo Río de Dios](https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM) | 5:01 |
 | 93 | [Jesus Te Amamos \- Live](https://open.spotify.com/track/7JdGpxb7HAnDHKCdimfQRs) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 5:16 |
-| 94 | [Cara A Cara](https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cara a Cara](https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9) | 5:40 |
-| 95 | [Fija Tus Ojos en Cristo](https://open.spotify.com/track/6w8R3vfXnR0EXwYbqT5QeS) | [Majo Solís](https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS) | [Colección Acústica I](https://open.spotify.com/album/1E00IOrnrn422bd645QRwe) | 4:42 |
-| 96 | [Me rindo a ti](https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me rindo a ti](https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa) | 4:51 |
-| 97 | [Te Dejo Ganar](https://open.spotify.com/track/0UdWxA5X4OBqCi3kIpC7Fb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/1GdYY1AU74YnIufNkby72P) | 3:21 |
+| 94 | [Cantaré de Tu Amor](https://open.spotify.com/track/3uXGOO9rHDZu2hQaqOgjRG) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Colección de Danilo Montero](https://open.spotify.com/album/0yECmK5HVjCGNV30RpG1BY) | 6:00 |
+| 95 | [No Hay Otro Dios](https://open.spotify.com/track/2FFwnDvloSzeITr0nhYDaW) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [No Hay Otro Dios](https://open.spotify.com/album/5agVhIIi2JmXA5pEmjZUzW) | 6:31 |
+| 96 | [Cara A Cara](https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cara a Cara](https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9) | 5:40 |
+| 97 | [Fija Tus Ojos en Cristo](https://open.spotify.com/track/6w8R3vfXnR0EXwYbqT5QeS) | [Majo Solís](https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS) | [Colección Acústica I](https://open.spotify.com/album/1E00IOrnrn422bd645QRwe) | 4:42 |
 | 98 | [Cielo En La Tierra](https://open.spotify.com/track/14379PKwuusX7iKk8OnpZ7) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Cielo En La Tierra](https://open.spotify.com/album/3JTD6PWtChPdo6kxxWZS6y) | 6:26 |
-| 99 | [Santo Es Tu Nombre \- En Vivo](https://open.spotify.com/track/0HVwdABlCeSEMKcNrrltMq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Santo Es Tu Nombre](https://open.spotify.com/album/1VWgamUUdySfyTVnuwG0zP) | 6:27 |
+| 99 | [Me rindo a ti](https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me rindo a ti](https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa) | 4:51 |
 | 100 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/5DLOY3NkSG3wgZHHQHLwVs) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/7n2yPfXkNLfY5jU1LyutYE) | 6:50 |
 
 Snapshot ID: `ZoM6BAAAAADfUuDZAYmBdiG2pawEi2qa`

@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Epik High\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: G\-DRAGON\)
 
-1,366 songs - 3 day 2 hr 1 min
+1,368 songs - 3 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -924,6 +924,7 @@
 | [Porsche \(Feat\. Owen, Loopy\)](https://open.spotify.com/track/2fCwI74h1jsiMUfQiacfdh) | [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Porsche \(Feat\. Owen, Loopy\)](https://open.spotify.com/album/0N9j6s2Vt7uvfSDN1ydukE) | 2:37 | 2022-09-27 | 2023-03-01 |
 | [POV](https://open.spotify.com/track/0IoLWiNmJNYwokQzC3ePR3) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [POV](https://open.spotify.com/album/71DWEP651eN5kkCX6CqoC4) | 3:34 | 2022-08-09 | 2022-09-23 |
 | [POW \(Feat\. GRAY\)](https://open.spotify.com/track/3QpwHZCLi4vPrt2TJ1kurE) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [POW \(Feat\. GRAY\)](https://open.spotify.com/album/7p1VMFPDTX3sIe6CgqMNEl) | 3:02 | 2021-12-18 | 2022-06-24 |
+| [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-10-31 |  |
 | [Power Rangers \(feat\. Mudd the student, Tyroné Laurent\)](https://open.spotify.com/track/0re5DUvnUH3rD6DMUsn0lS) | [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [Tyroné Laurent](https://open.spotify.com/artist/19MCJUkDsTnJ8JfPqv0sG0) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 3:01 | 2022-04-28 | 2022-07-02 |
 | [PPAK \(Feat\. Paloalto, JUSTHIS\) \(Prod\. R.Tee\)](https://open.spotify.com/track/3lnn14odZPgqyNooN6jQBa) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 3:29 | 2022-12-25 | 2023-07-18 |
 | [Press F5 \(Feat\. GRAY\)](https://open.spotify.com/track/2GyBnXC1hlCtfD81JLw473) | [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua), [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:34 | 2021-12-21 | 2022-06-12 |
@@ -1345,6 +1346,7 @@
 | [Yun \(with Erykah Badu\)](https://open.spotify.com/track/3F3PuqGinS2T1ePmjUTw9t) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 3:53 | 2022-12-14 | 2023-06-14 |
 | [YW](https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [YW](https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms) | 2:28 | 2024-05-08 | 2024-09-01 |
 | [ZOMBIES](https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:04 | 2022-09-15 | 2023-03-25 |
+| [ZOOM](https://open.spotify.com/track/0kLktoAjZQczngphPbfq52) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ZOOM](https://open.spotify.com/album/7vyywKqNuOsQ0UveBQPhRn) | 3:04 | 2024-10-31 |  |
 | [ZUMO \(feat\. Jay Park\)](https://open.spotify.com/track/5MpKhDvROouEcppiAbBKBT) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [ZUMO](https://open.spotify.com/album/3WFDNoQy1JNX2ywiAIYsse) | 3:10 | 2022-09-01 | 2022-12-10 |
 | [Ü](https://open.spotify.com/track/1lZv5rGGJ2VEPXhWs9GndB) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [The Star](https://open.spotify.com/album/0T9hFotUzoCdwNs0lF69QK) | 2:56 | 2024-05-17 | 2024-09-01 |
 | [거리에서](https://open.spotify.com/track/1pBb1QXg4ufhi04Kyr1d18) | [NERDY GANG](https://open.spotify.com/artist/50ZXQMyrsx3T8QbhJvPtQh) | [Korea ballad album](https://open.spotify.com/album/0IXcG8rSnqIIGuEvtkefce) | 2:12 | 2024-08-10 | 2024-10-24 |

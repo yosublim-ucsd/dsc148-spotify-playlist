@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 329439,
+  "num_followers": 329430,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "At What Cost",
         "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 176702,
       "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
       "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -787,22 +787,18 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+      "duration_ms": 204346,
+      "name": "No Friends In The Industry",
+      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -823,18 +819,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 204346,
-      "name": "No Friends In The Industry",
-      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1391,6 +1391,30 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Turks",
+        "url": "https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 161377,
+      "name": "Turks (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -1427,30 +1451,6 @@
       "duration_ms": 259741,
       "name": "MY POWER",
       "url": "https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Turks",
-        "url": "https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 161377,
-      "name": "Turks (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -2015,6 +2015,26 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Beat Box 3 (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/6QqwWNpKYbROin3Gq5pIrV"
+      },
+      "artists": [
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 200424,
+      "name": "Beat Box 3 (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/6toQdWWc4noiOk3Eo5mVDS"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "SKYLINE",
         "url": "https://open.spotify.com/album/30vHn0s0oD01zHExU2JY2k"
       },
@@ -2039,26 +2059,6 @@
       "duration_ms": 198000,
       "name": "SKYLINE",
       "url": "https://open.spotify.com/track/2qn8UgOBzaKF3luvJxDWWp"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Beat Box 3 (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/6QqwWNpKYbROin3Gq5pIrV"
-      },
-      "artists": [
-        {
-          "name": "SpotemGottem",
-          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 200424,
-      "name": "Beat Box 3 (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/6toQdWWc4noiOk3Eo5mVDS"
     },
     {
       "added_at": "2024-09-13 03:01:00",

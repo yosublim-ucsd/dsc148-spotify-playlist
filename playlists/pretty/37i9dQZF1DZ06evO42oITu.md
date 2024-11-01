@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,341 likes - 51 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,361 likes - 51 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 29 | [Moon River](https://open.spotify.com/track/5oq29tJEj14LjLjXyaXCEF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Meanwhile](https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ) | 5:06 |
 | 30 | [Let It Rain](https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh) | 5:01 |
 | 31 | [Key to the Highway](https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 3:39 |
-| 32 | [Old Love \- Acoustic Live](https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 7:51 |
+| 32 | [Sensitive Kind](https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Don White](https://open.spotify.com/artist/3LPEgo9F2HJTkMFTtUbi1G) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 5:17 |
 | 33 | [The Rebels](https://open.spotify.com/track/0oRc8P9uLo5Ycu4s531c6V) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Meanwhile](https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ) | 4:08 |
-| 34 | [After Midnight](https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 2:51 |
-| 35 | [Sensitive Kind](https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Don White](https://open.spotify.com/artist/3LPEgo9F2HJTkMFTtUbi1G) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 5:17 |
+| 34 | [Old Love \- Acoustic Live](https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 7:51 |
+| 35 | [After Midnight](https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 2:51 |
 | 36 | [Can't Find My Way Home \- Live from Madison Square Garden](https://open.spotify.com/track/2mnUGxY7QpO62QH1KqhY4O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Live from Madison Square Garden](https://open.spotify.com/album/438cphNkpzGKfsC0PcaDLH) | 5:32 |
 | 37 | [The Call](https://open.spotify.com/track/5Ya1SKVBBaRDiXD6Sy5LBR) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Meanwhile](https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ) | 5:07 |
 | 38 | [I've Got a Rock 'n' Roll Heart](https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq) | 3:13 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 50 | [Help the Poor](https://open.spotify.com/track/1zdJVsBmTNavn5u2GSqWkW) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 5:06 |
 | 51 | [One Woman](https://open.spotify.com/track/2Qp9PjglYUa3rwgi2hRrMN) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [One Woman](https://open.spotify.com/album/2g21A6cU3aJSXGmDxwJkL9) | 4:50 |
 
-Snapshot ID: `ZyAlgAAAAACLa+zrmtzBn5zxj39JFvAp`
+Snapshot ID: `ZyF3AAAAAAByYWFk+47d84k3rf1eklyB`

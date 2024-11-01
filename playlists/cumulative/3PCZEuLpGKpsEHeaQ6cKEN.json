@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Armin van Buuren, Oliver Heldens",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:   Joris Voorn x Pig&amp;Dan",
   "name": "Armada Today",
   "tracks": [
     {
@@ -2038,6 +2038,28 @@
       "duration_ms": 183518,
       "name": "Blah Blah Blah",
       "url": "https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv"
+    },
+    {
+      "album": {
+        "name": "Blah Blah Blah (Lilly Palmer Remix)",
+        "url": "https://open.spotify.com/album/2jNzuqo3EuqJl95swKdEZ8"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214299,
+      "name": "Blah Blah Blah - Lilly Palmer Remix",
+      "url": "https://open.spotify.com/track/60BXInRHS0NQ1oVsnqA15a"
     },
     {
       "album": {
@@ -6036,6 +6058,28 @@
       "duration_ms": 150250,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/05Ke9LELmOiA5i3L0ybFUy"
+    },
+    {
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/1w8t96CvvaI1oIJIeSqKvK"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159728,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/2mrQxljHrPJ4Rk6DC2TcHE"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 479586,
+  "num_followers": 479627,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAB6WIVTPCzNr17KBH3ryfZP",
+  "snapshot_id": "ZyF3AAAAAAB7w7/R+XupQvN5lpzYCbuG",
   "tracks": [
     {
       "added_at": null,
@@ -232,7 +232,7 @@
       "added_at": null,
       "album": {
         "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
       "artists": [
         {
@@ -242,7 +242,7 @@
       ],
       "duration_ms": 307853,
       "name": "Hopeless Wanderer",
-      "url": "https://open.spotify.com/track/4dfLrcSJpjvoRlgkHZEqz1"
+      "url": "https://open.spotify.com/track/15Mn23dCmLw75foEgfBIOp"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Day of the Dead",
-        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 271025,
-      "name": "Friend of the Devil",
-      "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
@@ -383,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
       "artists": [
         {
@@ -392,25 +376,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 173429,
-      "name": "Timshel",
-      "url": "https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 221240,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/2vWxcvNva9F5J7QzK2GrSb"
+      "duration_ms": 271025,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
     },
     {
       "added_at": null,
@@ -427,6 +395,22 @@
       "duration_ms": 276780,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4sUkoGq1ln1KmfxJEiOkUK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 221240,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/2vWxcvNva9F5J7QzK2GrSb"
     },
     {
       "added_at": null,
@@ -456,25 +440,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 219628,
-      "name": "Winter Winds",
-      "url": "https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gentlemen of the Road",
-        "url": "https://open.spotify.com/album/6JR7iNiAhaqDfgNGQwkdCE"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 369106,
-      "name": "Delta - Live At The O2",
-      "url": "https://open.spotify.com/track/7cECVaGMuVAO4MKEk7dJ95"
+      "duration_ms": 173429,
+      "name": "Timshel",
+      "url": "https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ"
     },
     {
       "added_at": null,
@@ -495,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gentlemen of the Road",
+        "url": "https://open.spotify.com/album/6JR7iNiAhaqDfgNGQwkdCE"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 369106,
+      "name": "Delta - Live At The O2",
+      "url": "https://open.spotify.com/track/7cECVaGMuVAO4MKEk7dJ95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 124346,
       "name": "Reminder",
       "url": "https://open.spotify.com/track/6LPjdmMvIKGxuzVFsTKF6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 219628,
+      "name": "Winter Winds",
+      "url": "https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc"
     },
     {
       "added_at": null,

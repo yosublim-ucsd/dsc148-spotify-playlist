@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125747,
+  "num_followers": 125743,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATPRBGPX5a/XHsCA+7BjBd9afIHHjQ",
+  "snapshot_id": "AAATPx5TmGJlV8ViWSlg86sj3uy+r/1g",
   "tracks": [
+    {
+      "added_at": "2024-10-31 14:41:31",
+      "album": {
+        "name": "If I Lost You",
+        "url": "https://open.spotify.com/album/4TTslMeoouMV3x6uDh0TT5"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "duration_ms": 211705,
+      "name": "If I Lost You",
+      "url": "https://open.spotify.com/track/6h0dzH10dHzzNglwUCldO5"
+    },
     {
       "added_at": "2024-10-30 14:48:09",
       "album": {
@@ -1151,66 +1167,6 @@
       "duration_ms": 255172,
       "name": "Movements",
       "url": "https://open.spotify.com/track/7lMYRwvhweOmiuVfKFf0Sq"
-    },
-    {
-      "added_at": "2024-08-09 13:41:19",
-      "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/2GiGo3FNrLxqTO2q6Jh4GD"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/4rV0XtqahATaPf29s1rpAd"
-    },
-    {
-      "added_at": "2024-08-08 15:18:51",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/56IRKHg9FgiNgYyrvIUjTS"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        },
-        {
-          "name": "Zack Martino",
-          "url": "https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu"
-        }
-      ],
-      "duration_ms": 194074,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/6C78ngoYTzfrg3MTHsIj3V"
-    },
-    {
-      "added_at": "2024-08-07 16:11:12",
-      "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 167855,
-      "name": "Beautiful Nightmare",
-      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

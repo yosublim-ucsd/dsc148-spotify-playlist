@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover:  Raisa
+> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover:  Rizky Febian
 
-255 songs - 16 hr 50 min
+259 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,12 +39,14 @@
 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2024-01-26 | 2024-05-03 |
 | [Bersenja Gurau](https://open.spotify.com/track/5ANZKRT3WuY4DgEnCcfHVa) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Bersenja Gurau](https://open.spotify.com/album/4mtL1Qs2EYD05CUW6nx7b6) | 3:14 | 2024-03-07 | 2024-05-24 |
 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 | 2024-08-08 |  |
+| [Biru](https://open.spotify.com/track/41bBs1jtHrLVVQofSMKAgT) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Biru](https://open.spotify.com/album/12zVW8fZOGguy0hoB0fEtW) | 3:41 | 2024-10-31 |  |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-20 | 2024-08-16 |
 | [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 | 2024-05-23 |  |
 | [Boleh Merindu](https://open.spotify.com/track/2IbXGJUnPbT7trKSAy6LNC) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Boleh Merindu](https://open.spotify.com/album/16tWz380soVodMC5yN9la7) | 4:08 | 2024-09-06 |  |
 | [Buang \- Buang Waktu](https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Buang \- Buang Waktu](https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv) | 3:16 | 2024-02-09 | 2024-03-29 |
 | [Buang Waktu](https://open.spotify.com/track/498HBb9Fg8djwl2kIkL33h) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 3:55 | 2024-07-11 |  |
 | [Bukan Dengan Dia](https://open.spotify.com/track/03mQ3i9vPCEYO9KVi9qjHb) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm), [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Bukan Dengan Dia](https://open.spotify.com/album/6F8ak3UeNmOXcE4v3KctlC) | 4:01 | 2024-06-27 | 2024-09-06 |
+| [Bukan Hati Yang Kutunggu](https://open.spotify.com/track/41e8w4f1X5ynQvrjBbaEXP) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT), [Pika Iskandar](https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo) | [Bukan Hati Yang Kutunggu](https://open.spotify.com/album/0uLmrILkMpzlwLNAtNyCKW) | 3:41 | 2024-10-31 |  |
 | [Bukan Karena Tak Cinta](https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Karena Tak Cinta](https://open.spotify.com/album/1txZB0N3UvCesSy5mdyq3x) | 4:18 | 2024-06-06 |  |
 | [Bukan Sebuah Rindu](https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Sebuah Rindu](https://open.spotify.com/album/3aEQ9agxX7W9hCR5dQi4jy) | 3:51 | 2024-05-09 | 2024-06-07 |
 | [Bukan Untukku](https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Bukan Untukku](https://open.spotify.com/album/2A17uTjFWawokbDDt6jzzv) | 3:52 | 2024-10-03 |  |
@@ -74,6 +76,7 @@
 | [Episode](https://open.spotify.com/track/7r6iKxXIAgfAr3KzUECD3G) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Episode](https://open.spotify.com/album/42Mll5B1tj9XU3u6EoNnFM) | 5:13 | 2024-03-21 | 2024-05-03 |
 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 | 2024-04-25 | 2024-07-27 |
 | [Fight Some More](https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Hardcore Romance](https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y) | 3:48 | 2024-08-22 | 2024-10-04 |
+| [Firasat Berbicara](https://open.spotify.com/track/6vJnVHRW3CJycI3ufWmU86) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Firasat Berbicara](https://open.spotify.com/album/53QtC3DsAS9dHNvtunOWaK) | 3:51 | 2024-10-31 |  |
 | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80) | 2:50 | 2024-08-01 | 2024-09-27 |
 | [Foto kita blur](https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Foto kita blur](https://open.spotify.com/album/5ub2KSCpnGbmYyKLruGUPF) | 4:31 | 2024-03-28 | 2024-05-03 |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-01 |  |
@@ -223,6 +226,7 @@
 | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/track/7Lm4S2P0MHwBktcdNILLQA) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 2:58 | 2024-06-27 |  |
 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 | 2024-01-26 | 2024-03-22 |
 | [sorry i phone you](https://open.spotify.com/track/5RE0AB2tC2XzzvV4UIgFR9) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [sorry i phone you](https://open.spotify.com/album/1Jobt4hAKFliWO22VB1SLI) | 3:40 | 2024-09-20 |  |
+| [Surga](https://open.spotify.com/track/4cbtN78MM14iygONiGKkXN) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Sarwa Renjana](https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC) | 3:26 | 2024-10-31 |  |
 | [Sweet Hurting](https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Sweet Hurting](https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw) | 3:34 | 2024-01-26 | 2024-03-15 |
 | [Tak Ada Restu](https://open.spotify.com/track/3iA28Y6cjgin0CxnPszLmG) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Tak Ada Restu](https://open.spotify.com/album/5TAlWpHFbOl280myoaBR8h) | 3:44 | 2024-09-06 |  |
 | [Tak Berharap Lagi](https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Tak Berharap Lagi](https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs) | 3:57 | 2024-01-26 | 2024-05-03 |

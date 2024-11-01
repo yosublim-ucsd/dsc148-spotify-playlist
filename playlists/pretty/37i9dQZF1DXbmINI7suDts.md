@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: MAUIMØON
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,012 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,019 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 24 | [Abantu](https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Abantu](https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs) | 3:16 |
 | 25 | [Gojaasi](https://open.spotify.com/track/66QnBSxNiLlWk3K66m15IJ) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Gojaasi](https://open.spotify.com/album/1n1eIj5ECt0HB6zSPP5cmn) | 4:13 |
 | 26 | [Dreams](https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Dreams](https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH) | 3:06 |
-| 27 | [I Have a Dream](https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [I Have a Dream](https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf) | 4:15 |
+| 27 | [I Have a Dream](https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O) | [Sheebah](https://open.spotify.com/artist/7HMJF5fdL8BY3tHoX8we7c) | [I Have a Dream](https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf) | 4:15 |
 | 28 | [I'M FINE](https://open.spotify.com/track/5yHijGi2Od2BYKbRa7EShU) | [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8), [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn) | [I'M FINE](https://open.spotify.com/album/77ieplqkCJVSK8YdLAt91a) | 3:07 |
 | 29 | [Type Of Girl](https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK), [Kamanzi](https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ) | [Type Of Girl](https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb) | 3:30 |
 | 30 | [Melo](https://open.spotify.com/track/6MEWQJnMXo3GnMUUcRsCr1) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Blessings](https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL) | 2:54 |

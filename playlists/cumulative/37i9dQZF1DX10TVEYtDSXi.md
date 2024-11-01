@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-92 songs - 4 hr 49 min
+93 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-06-21 | 2024-09-06 |
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-27 |  |
+| [Heart of Gold](https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL) | 2:51 | 2024-11-01 |  |
 | [Hef Verið Verri](https://open.spotify.com/track/17ebLDWPOsruloZYxgEqm4) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [Hef Verið Verri](https://open.spotify.com/album/3i7Yhl3yKOS8ksCXlYmYtY) | 2:11 | 2024-06-21 | 2024-09-14 |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 | 2024-06-21 | 2024-10-26 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-21 |  |
@@ -90,7 +91,7 @@
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-06-21 | 2024-10-11 |
 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-06 |  |
 | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm) | 2:58 | 2024-08-30 |  |
-| [Til í allt, Pt\. III](https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG) | [Friðrik Dór](https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t), [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4), [Steindi Jr.](https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE) | [Til í allt, Pt\. III](https://open.spotify.com/album/09KYxBRoopLruITkHnv69i) | 3:54 | 2024-06-21 |  |
+| [Til í allt, Pt\. III](https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG) | [Friðrik Dór](https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t), [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4), [Steindi Jr.](https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE) | [Til í allt, Pt\. III](https://open.spotify.com/album/09KYxBRoopLruITkHnv69i) | 3:54 | 2024-06-21 | 2024-11-01 |
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-04 |  |
 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-06-21 | 2024-10-04 |
 | [Veit ekki með þig](https://open.spotify.com/track/5BsvubZKwChZFcNRkxlOgD) | [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [Veit ekki með þig](https://open.spotify.com/album/4080PUV38C8ZVnEE65s7EO) | 2:42 | 2024-06-21 | 2024-09-27 |

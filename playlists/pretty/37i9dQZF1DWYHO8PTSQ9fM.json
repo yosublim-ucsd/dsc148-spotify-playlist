@@ -1,12 +1,12 @@
 {
   "description": "Lazaro en t\u00eate de la plus grande playlist au Maroc.",
-  "num_followers": 672247,
+  "num_followers": 672263,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zx+eSwAAAACJnkVWiACIW3EWAVXi9IWk",
+  "snapshot_id": "ZyNcBQAAAAD6hn80s1oj1ZdgrpbCCRzv",
   "tracks": [
     {
       "added_at": "2024-10-24 20:05:47",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4"
     },
     {
+      "added_at": "2024-10-31 10:29:25",
+      "album": {
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
+    },
+    {
       "added_at": "2024-10-24 20:05:47",
       "album": {
         "name": "Ya Mektoubi",
@@ -627,22 +643,6 @@
     {
       "added_at": "2024-10-24 20:05:47",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-10-24 20:05:47",
-      "album": {
         "name": "BSAHTEK",
         "url": "https://open.spotify.com/album/5qUERP0af1GNga709GfBzc"
       },
@@ -673,20 +673,20 @@
       "url": "https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX"
     },
     {
-      "added_at": "2024-10-24 20:05:47",
+      "added_at": "2024-10-31 10:29:25",
       "album": {
-        "name": "VENI VIDI VICI",
-        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
+        "name": "Depuis le temps (Part. 2)",
+        "url": "https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
         }
       ],
-      "duration_ms": 165813,
-      "name": "No lo s\u00e9",
-      "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
+      "duration_ms": 176248,
+      "name": "Ca parle mal",
+      "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"
     },
     {
       "added_at": "2024-10-24 20:05:47",

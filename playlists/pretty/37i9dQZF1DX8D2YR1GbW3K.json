@@ -1,6 +1,6 @@
 {
   "description": "Nostalgic <a href=\"spotify:genre:edm_dance\">dance</a> festival favorites from the 2010s.",
-  "num_followers": 226141,
+  "num_followers": 226160,
   "original_name": "Headliners",
   "owner": {
     "name": "Spotify",
@@ -2447,18 +2447,22 @@
     {
       "added_at": "2024-07-09 21:05:06",
       "album": {
-        "name": "Eject",
-        "url": "https://open.spotify.com/album/5cYW3ILGflf28W2vkkCvgs"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/4ajH0rrtQDiVCY3wKFei55"
       },
       "artists": [
         {
-          "name": "CAZZETTE",
-          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Amba Shepherd",
+          "url": "https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj"
         }
       ],
-      "duration_ms": 203800,
-      "name": "Beam Me Up - Radio Edit",
-      "url": "https://open.spotify.com/track/64y85LeHY8Z6OlTOM9cpKD"
+      "duration_ms": 209765,
+      "name": "Apollo - Radio Edit",
+      "url": "https://open.spotify.com/track/5v54ZQ0glzbB9XUPTaX0cj"
     },
     {
       "added_at": "2024-07-09 21:05:06",

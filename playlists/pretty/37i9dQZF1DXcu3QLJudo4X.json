@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 103573,
+  "num_followers": 103642,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
-        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "Dirt Road Blues - 2022 Remix",
-      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
         "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 159866,
       "name": "I'm a Man",
       "url": "https://open.spotify.com/track/2Bi0JWdxDMaKPanNofJSdL"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "Dirt Road Blues - 2022 Remix",
+      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
     },
     {
       "added_at": "2024-06-02 16:42:51",

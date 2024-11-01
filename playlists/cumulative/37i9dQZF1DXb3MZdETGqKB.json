@@ -5099,6 +5099,24 @@
     },
     {
       "album": {
+        "name": "Sure Thang",
+        "url": "https://open.spotify.com/album/50iJ7EiM7X4TxU062Mus3M"
+      },
+      "artists": [
+        {
+          "name": "Talibah Safiya",
+          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203840,
+      "name": "Sure Thang",
+      "url": "https://open.spotify.com/track/5S0mtfxpYaj0uNdlfsMOxR"
+    },
+    {
+      "album": {
         "name": "Shout Into The Noise",
         "url": "https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t"
       },

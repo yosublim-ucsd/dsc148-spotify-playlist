@@ -4,11 +4,12 @@
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 35 min
+63 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Less Talk And A Lot More Action](https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 2:50 | 2024-02-07 |  |
+| [A Little Too Late](https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [White Trash With Money](https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl) | 4:06 | 2024-11-01 |  |
 | [A Little Too Late](https://open.spotify.com/track/5djhyxT7ZIzM1rP2XE2ygb) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 4:08 | 2024-02-14 | 2024-09-04 |
 | [American Ride](https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 2:45 | 2024-02-07 |  |
 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 | 2024-02-07 |  |
@@ -20,7 +21,7 @@
 | [Bullets in the Gun](https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 4:16 | 2024-02-07 |  |
 | [Copenhagen](https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Rodeo Rock And Roll Collection](https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY) | 2:43 | 2024-02-07 |  |
 | [Courtesy Of The Red, White And Blue \(The Angry American\)](https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:15 | 2024-02-07 |  |
-| [Cryin' for Me \(Wayman's Song\)](https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 4:45 | 2024-03-09 |  |
+| [Cryin' for Me \(Wayman's Song\)](https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 4:45 | 2024-03-09 | 2024-11-01 |
 | [Does That Blue Moon Ever Shine On You](https://open.spotify.com/track/4qjQGcyqNd6fKWFADrdFRF) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Blue Moon](https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1) | 3:49 | 2024-02-07 |  |
 | [Don't Let the Old Man In](https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Don't Let the Old Man In](https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa) | 2:52 | 2024-02-07 |  |
 | [Dream Walkin'](https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 3:57 | 2024-02-07 |  |

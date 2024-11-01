@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,567 likes - 114 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,574 likes - 114 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 67 | [Out of My Hands](https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Hands](https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh) | 3:23 |
 | 68 | [Until The Hurting Is Gone](https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:17 |
 | 69 | [Until The Morning Light](https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Until The Morning Light](https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG) | 3:08 |
-| 70 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
-| 71 | [Hey Ya! \- Acoustic](https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Hey Ya!](https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G) | 3:34 |
-| 72 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
+| 70 | [Hey Ya! \- Acoustic](https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Hey Ya!](https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G) | 3:34 |
+| 71 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
+| 72 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
 | 73 | [Fact \- Fiction](https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Mads Langer](https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1) | 4:21 |
 | 74 | [I'm Done](https://open.spotify.com/track/5kMa3mm5zoM9SWTAZOBDDB) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:09 |
 | 75 | [you up?](https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Things I Can't Take With Me](https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ) | 1:14 |
 | 76 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
-| 77 | [Op](https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB) | [Claus Hempler](https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg) | [Kuffert Fuld Af Mursten](https://open.spotify.com/album/1xxuamywTKWttzz005tsPl) | 4:54 |
-| 78 | [A Little More](https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [A Little More](https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx) | 2:24 |
+| 77 | [A Little More](https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [A Little More](https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx) | 2:24 |
+| 78 | [Op](https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB) | [Claus Hempler](https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg) | [Kuffert Fuld Af Mursten](https://open.spotify.com/album/1xxuamywTKWttzz005tsPl) | 4:54 |
 | 79 | [Love Is In The Picture](https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Love Is In The Picture](https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw) | 3:38 |
 | 80 | [Before](https://open.spotify.com/track/0cRzM3aHc01vnHIT3ImB3O) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Before](https://open.spotify.com/album/4PThhV9t25KFZAgmg680z8) | 4:20 |
 | 81 | [New Eyes \- Acoustic](https://open.spotify.com/track/2yKmYCA9JECFdN06Imdp0C) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:09 |

@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena
 
-852 songs - 1 day 18 hr 47 min
+853 songs - 1 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Disfarce](https://open.spotify.com/track/0trI4oy0dayuYLeZioJHQg) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Disfarce](https://open.spotify.com/album/2AWsgoxFjLB27lahfqvP5Y) | 2:56 | 2020-10-20 | 2022-07-29 |
 | [Disk \- Funk Remix](https://open.spotify.com/track/0vlS0sb4wLFNjvdTccMg2m) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim Do Mundo \(Deluxe\)](https://open.spotify.com/album/19z3Qn8hGiaffgpT8mEz6I) | 2:09 | 2023-05-05 | 2023-06-17 |
 | [Dispara](https://open.spotify.com/track/08ysWEtVnD2nOSIqVXAKnu) | [Laura Schadeck](https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Dispara](https://open.spotify.com/album/2NC6FbROQIGbD52fHhAcY7) | 3:06 | 2023-02-14 | 2023-04-15 |
+| [Divino](https://open.spotify.com/track/5msM5qpDYGHVN6SfSyS7Zy) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Divino](https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu) | 2:48 | 2024-11-01 |  |
 | [Diñero](https://open.spotify.com/track/5qEEAaLmldzSSFQjj6eJb3) | [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [O Bagulho É Trap](https://open.spotify.com/album/7sRNPfZfQ9RB3DtMffLPo3) | 3:12 | 2020-10-20 | 2022-07-29 |
 | [Do Alto do Morro](https://open.spotify.com/track/44a9EQmtpgKgy5MmGvOGSI) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Jogzz](https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2) | [Do Alto do Morro](https://open.spotify.com/album/0TDrCcuONQ6K58nK1W0Wld) | 2:59 | 2020-10-20 | 2022-07-27 |
 | [Do Jeito Que Ela Gosta](https://open.spotify.com/track/6jhYRLgXWe5tqeGT3QkQds) | [Anna](https://open.spotify.com/artist/3sLh7xqgu6RxVYokUj0nEx), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Sucre](https://open.spotify.com/artist/6SdlX8i3HPpAGh7FMAh9KF), [Zain](https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp) | [Do Jeito Que Ela Gosta](https://open.spotify.com/album/5N3dIozEwpzQnN6AlBStiz) | 2:23 | 2024-07-26 | 2024-08-31 |
@@ -480,7 +481,7 @@
 | [MURAKAMI](https://open.spotify.com/track/1zl6BsFGwKNqTYioZEBRk0) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [MURAKAMI](https://open.spotify.com/album/2xejwyUlm9MZI3nHeLOzTn) | 2:45 | 2023-11-03 | 2023-11-25 |
 | [My Window \(feat\. Lil Wayne\)](https://open.spotify.com/track/7IECs9d4Rrlpa7tiHOCE1w) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Top](https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW) | 3:12 | 2020-10-20 | 2023-02-15 |
 | [Máquina do Tempo](https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 3:50 | 2020-10-20 | 2023-02-15 |
-| [Ménage](https://open.spotify.com/track/0OEWGeGcJXGLI7UMdvhWx4) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA](https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp) | 2:24 | 2024-08-16 |  |
+| [Ménage](https://open.spotify.com/track/0OEWGeGcJXGLI7UMdvhWx4) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA](https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp) | 2:24 | 2024-08-16 | 2024-11-01 |
 | [Na Onda](https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Na Onda](https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO) | 3:19 | 2020-10-20 | 2022-07-26 |
 | [Na Rebolada](https://open.spotify.com/track/6pZgVujok602Yqjvo1safZ) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Maikinho DJ](https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh) | [Na Rebolada](https://open.spotify.com/album/2CVG0U36vNbgaBaRCUa8j3) | 2:18 | 2023-04-14 | 2023-06-24 |
 | [Na Sua](https://open.spotify.com/track/5Wwap1q83am8aMJMo4mjDs) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Na Sua](https://open.spotify.com/album/4rUcoz67PBYnscDJFS0hi8) | 3:05 | 2023-04-17 | 2023-06-17 |

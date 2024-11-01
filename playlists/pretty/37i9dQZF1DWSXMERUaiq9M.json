@@ -1,6 +1,6 @@
 {
   "description": "the sound of a new generation ",
-  "num_followers": 275103,
+  "num_followers": 275236,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -1175,30 +1175,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Whatcha Say",
-        "url": "https://open.spotify.com/album/5avrElnK0zHZvzW77xBnsN"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "Kickbait",
-          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
-        }
-      ],
-      "duration_ms": 139401,
-      "name": "Whatcha Say",
-      "url": "https://open.spotify.com/track/4SPTxHzln31EU9u45IjgMU"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Cool Kids",
         "url": "https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 121800,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Whatcha Say",
+        "url": "https://open.spotify.com/album/5avrElnK0zHZvzW77xBnsN"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Kickbait",
+          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
+        }
+      ],
+      "duration_ms": 139401,
+      "name": "Whatcha Say",
+      "url": "https://open.spotify.com/track/4SPTxHzln31EU9u45IjgMU"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "eat, sleep, slay, \ud83d\udd01",
-        "url": "https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h"
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/4PQub1Epc03quRvoxeT4OQ"
       },
       "artists": [
         {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+          "name": "Malugi",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
         }
       ],
-      "duration_ms": 149666,
-      "name": "eat, sleep, slay, \ud83d\udd01",
-      "url": "https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi"
+      "duration_ms": 138000,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/7kBYPyaxF3oE9EgjOMpGKs"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/4PQub1Epc03quRvoxeT4OQ"
+        "name": "eat, sleep, slay, \ud83d\udd01",
+        "url": "https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h"
       },
       "artists": [
         {
-          "name": "Malugi",
-          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/7kBYPyaxF3oE9EgjOMpGKs"
+      "duration_ms": 149666,
+      "name": "eat, sleep, slay, \ud83d\udd01",
+      "url": "https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi"
     },
     {
       "added_at": "2024-10-25 03:00:00",

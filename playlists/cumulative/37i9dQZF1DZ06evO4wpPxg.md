@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-318 songs - 19 hr 59 min
+319 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Lord, I Feel Just Like Goin' On](https://open.spotify.com/track/3eaZpjNLBMyX8mcT0vpK3D) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 3:30 | 2022-05-26 | 2024-07-21 |
 | [Lord, I Looked Down The Road](https://open.spotify.com/track/3DwLIPryx8uGBcchKIrUCj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:18 | 2022-07-28 | 2024-06-07 |
 | [Lord, I Wish I Could See](https://open.spotify.com/track/6KX8xLpTnIIfa4D5mB9zxS) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 3:03 | 2022-05-27 | 2024-07-25 |
+| [Lord, On Your Word](https://open.spotify.com/track/4JYOVH3S0ueN5Ri3I9zc5i) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 4:23 | 2024-11-01 |  |
 | [Lord, On Your Word](https://open.spotify.com/track/02AsEgJMRZ6AI5yVxyf7Px) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 4:24 | 2022-10-12 | 2022-12-31 |
 | [Lord, Search My Heart](https://open.spotify.com/track/2nXkGzpGGUQuRtI2pXkfxg) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:55 | 2024-10-28 |  |
 | [Lord, Stand By Me](https://open.spotify.com/track/43YFUTTItto66K15U3PdIi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 | 2022-05-27 | 2024-09-13 |
@@ -304,7 +305,7 @@
 | [What Could I Do](https://open.spotify.com/track/5nXCu3mtD0lvBPL4Jy79Fa) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:27 | 2022-06-16 | 2022-10-22 |
 | [When I Die I'll Live Again](https://open.spotify.com/track/1HvEABbJqI7cujTto79yAH) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:29 | 2022-05-31 | 2022-10-13 |
 | [When the Saints Go Marchin In](https://open.spotify.com/track/1hCRxDfDn14S3PQmeSdNNx) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis](https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG) | 1:55 | 2023-06-01 | 2024-06-24 |
-| [When The Train Comes Along](https://open.spotify.com/track/2ksO8BPPvbEVcNvg5VobXH) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 4:39 | 2024-03-01 |  |
+| [When The Train Comes Along](https://open.spotify.com/track/2ksO8BPPvbEVcNvg5VobXH) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 4:39 | 2024-03-01 | 2024-11-01 |
 | [Whistlin' Blues](https://open.spotify.com/track/2XDU1JqJGb3RZSTjHJPrNJ) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 6:56 | 2024-10-28 | 2024-10-29 |
 | [Whistlin' Blues](https://open.spotify.com/track/5SRLMaFz5Kihui4EpmZB07) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 6:56 | 2023-05-24 | 2023-07-18 |
 | [Who Shall Deliver Poor Me](https://open.spotify.com/track/3xPjiOHIEZ4YjqgOL4gpko) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 2:59 | 2024-01-14 | 2024-01-17 |

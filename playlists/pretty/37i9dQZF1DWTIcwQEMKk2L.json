@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 69413,
+  "num_followers": 69423,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Sand Time",
-        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
-      },
-      "artists": [
-        {
-          "name": "Emil Negri",
-          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
-        }
-      ],
-      "duration_ms": 178585,
-      "name": "Sand Time",
-      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Endymion",
         "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 152230,
       "name": "Endymion",
       "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Sand Time",
+        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
+      },
+      "artists": [
+        {
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+        }
+      ],
+      "duration_ms": 178585,
+      "name": "Sand Time",
+      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
+        "name": "Isla De Flores",
+        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 159124,
+      "name": "Isla De Flores",
+      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
         "name": "Soft Piano Tunes",
         "url": "https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Isla De Flores",
-        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 159124,
-      "name": "Isla De Flores",
-      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "The Secret Piano",
-        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 115227,
-      "name": "Last Song",
-      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Softly Spoken",
         "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 136691,
       "name": "Softly Spoken",
       "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "The Secret Piano",
+        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 115227,
+      "name": "Last Song",
+      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Disney Covers Vol 1",
-        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Nielsen",
-          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
-        }
-      ],
-      "duration_ms": 186088,
-      "name": "God Help the Outcasts",
-      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Eeny Meeny Miny Moe",
         "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 68250,
       "name": "Eeny Meeny Miny Moe",
       "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Disney Covers Vol 1",
+        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Nielsen",
+          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
+        }
+      ],
+      "duration_ms": 186088,
+      "name": "God Help the Outcasts",
+      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
+        "name": "Fall Pieces",
+        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
+      },
+      "artists": [
+        {
+          "name": "Sonya O'Malley",
+          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
         "name": "I've Grown Accustomed to Her Face",
         "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 170783,
       "name": "Kiss the Rain",
       "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
-        "name": "Fall Pieces",
-        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
-      },
-      "artists": [
-        {
-          "name": "Sonya O'Malley",
-          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Sagittabondo",
-        "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
-      },
-      "artists": [
-        {
-          "name": "Maura Bellucci",
-          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "Sagittabondo",
-      "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "A Gift To Share",
         "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 139500,
       "name": "A Gift To Share",
       "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Sagittabondo",
+        "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
+      },
+      "artists": [
+        {
+          "name": "Maura Bellucci",
+          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "Sagittabondo",
+      "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
-      },
-      "artists": [
-        {
-          "name": "Snow in April",
-          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
-        }
-      ],
-      "duration_ms": 148407,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Nostalgia.",
         "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 104199,
       "name": "Nostalgia.",
       "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+      },
+      "artists": [
+        {
+          "name": "Snow in April",
+          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+        }
+      ],
+      "duration_ms": 148407,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Sleepy Mountains",
-        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
-      },
-      "artists": [
-        {
-          "name": "Charlie Key",
-          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
-        }
-      ],
-      "duration_ms": 224741,
-      "name": "Evening Message",
-      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Although",
         "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 180635,
       "name": "Although",
       "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Sleepy Mountains",
+        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
+      },
+      "artists": [
+        {
+          "name": "Charlie Key",
+          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
+        }
+      ],
+      "duration_ms": 224741,
+      "name": "Evening Message",
+      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
-      },
-      "artists": [
-        {
-          "name": "Serenity for Sleep",
-          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
-        }
-      ],
-      "duration_ms": 282824,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4"
-      },
-      "artists": [
-        {
-          "name": "Alice Frohde",
-          "url": "https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe"
-        }
-      ],
-      "duration_ms": 154794,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Amorous Rebound",
         "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
       },
@@ -1483,6 +1451,22 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
         "name": "Lunaria",
         "url": "https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4"
+      },
+      "artists": [
+        {
+          "name": "Alice Frohde",
+          "url": "https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "A Place Like This",
-        "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
-      },
-      "artists": [
-        {
-          "name": "Mildred Wolf",
-          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "A Place Like This",
-      "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB"
       },
@@ -1595,34 +1579,50 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "When We First Met",
-        "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
+        "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
       },
       "artists": [
         {
-          "name": "Ricki Westberg",
-          "url": "https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4"
+          "name": "Mildred Wolf",
+          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
         }
       ],
-      "duration_ms": 112750,
-      "name": "When We First Met",
-      "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
+      "duration_ms": 121500,
+      "name": "A Place Like This",
+      "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
     },
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Lullaby Moods",
-        "url": "https://open.spotify.com/album/7kD4T5Fl7A9YaSeDqxRLh9"
+        "name": "Storytelling",
+        "url": "https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM"
       },
       "artists": [
         {
-          "name": "Arlen Ness",
-          "url": "https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0"
+          "name": "Pathos Humano",
+          "url": "https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Rasung Consciousness",
-      "url": "https://open.spotify.com/track/1IfsSgpOy1pLK7NfxMkn0k"
+      "duration_ms": 284000,
+      "name": "Storytelling",
+      "url": "https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Sleeping Like the Birchwood",
+        "url": "https://open.spotify.com/album/0uf3tqNtWuAyznHWI6foBg"
+      },
+      "artists": [
+        {
+          "name": "Rand Aldo",
+          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sleeping like the Birchwood",
+      "url": "https://open.spotify.com/track/2FCFesDX0QOFkKIzpoqWD6"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

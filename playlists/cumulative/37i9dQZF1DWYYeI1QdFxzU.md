@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-174 songs - 12 hr 3 min
+176 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Born Again](https://open.spotify.com/track/7aPrEWIVmwNb9suOKmgvAM) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Laura Roy](https://open.spotify.com/artist/5QPrSgtPwMPMdDNWQyQDXR) | [Born Again](https://open.spotify.com/album/7IaZQiXprSp7xhqhuSIDKu) | 4:04 | 2024-09-19 |  |
 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 | 2021-10-15 | 2023-08-02 |
 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 | 2021-10-15 |  |
-| [Cardano Circles](https://open.spotify.com/track/4wdNS3iDj1FwfBbvvGql5d) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Seme](https://open.spotify.com/album/61qvmOwUqxttEs99FGShmn) | 3:45 | 2024-03-01 |  |
+| [Cardano Circles](https://open.spotify.com/track/4wdNS3iDj1FwfBbvvGql5d) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Seme](https://open.spotify.com/album/61qvmOwUqxttEs99FGShmn) | 3:45 | 2024-03-01 | 2024-11-01 |
 | [CARONTE](https://open.spotify.com/track/7FdNsT55XUVcJtPAfNUXhk) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [LP5](https://open.spotify.com/album/5q1fLCH66wHNsoiAVfaPJ8) | 4:40 | 2021-10-15 | 2022-06-25 |
 | [Caves Lit by Flame](https://open.spotify.com/track/6uksFpENKduAMBgTetGBF5) | [Jamal Green](https://open.spotify.com/artist/50jTMgIPZrjKFgHbCvoeRt) | [Poly Mole \(Original Game Soundtrack\)](https://open.spotify.com/album/6ppxUf6S8w9dOw7OkVJDcG) | 3:50 | 2021-10-15 | 2024-01-04 |
 | [Chaos](https://open.spotify.com/track/1ung7jgLEj5RhGgEKGSvsW) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Chaos & Clarity](https://open.spotify.com/album/4ElTuHgR6R1nZ25brAnGja) | 2:28 | 2021-10-15 | 2022-07-29 |
@@ -78,6 +78,7 @@
 | [fog](https://open.spotify.com/track/6Ah5mV4uS4QEzLtpMIyskk) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [fog](https://open.spotify.com/album/5C0q6Q6fVYL8WGu1oUsXfO) | 2:26 | 2024-01-05 |  |
 | [Forever](https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz) | 4:09 | 2021-10-15 | 2023-11-06 |
 | [Forever](https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB) | 4:09 | 2023-10-20 | 2024-04-19 |
+| [Forever Held](https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Forever Held](https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58) | 2:38 | 2024-11-01 |  |
 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 | 2021-10-15 |  |
 | [Get Away](https://open.spotify.com/track/52x4EIYCNN2LXXgy8LQ7Tb) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:07 | 2021-10-15 | 2022-10-13 |
 | [Grown Into You](https://open.spotify.com/track/2nOtqboltnadNSXWSFOdKT) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Grown Into You](https://open.spotify.com/album/3VqfUxHV8ZjcRJq9ihbBVr) | 3:42 | 2021-10-15 | 2022-07-29 |
@@ -96,7 +97,7 @@
 | [Landing](https://open.spotify.com/track/7pEHO7i3BEC6v0CF8XC2VX) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Landing](https://open.spotify.com/album/3IVFO2nbKNWY1rmxtJdNfz) | 4:13 | 2021-10-15 | 2022-07-28 |
 | [Let It Fade](https://open.spotify.com/track/76qL9Iwn8EWfLvOqOtmjmQ) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Let It Fade](https://open.spotify.com/album/0rTwNMgjjuTfA0QgGp4GiG) | 4:08 | 2024-02-01 | 2024-06-01 |
 | [Liquid](https://open.spotify.com/track/5PB690PLg0KTUTTqFExQkb) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Foundations](https://open.spotify.com/album/72fLE2pqPY9MPpA9FS2E39) | 5:37 | 2021-10-15 | 2022-07-29 |
-| [Love In Our Hands \- Omfeel Remix](https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Love In Our Hands \(Omfeel Remix\)](https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6) | 3:38 | 2024-07-03 |  |
+| [Love In Our Hands \- Omfeel Remix](https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Love In Our Hands \(Omfeel Remix\)](https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6) | 3:38 | 2024-07-03 | 2024-11-01 |
 | [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 | 2021-10-15 | 2023-11-10 |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-12 |  |
 | [Low \- Babeheaven Remix](https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Low \(Babeheaven Remix\)](https://open.spotify.com/album/6YHnk5GdCARNyCk6c3hgnG) | 4:07 | 2021-10-15 | 2023-11-26 |
@@ -180,6 +181,7 @@
 | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/track/6tfXgZjluaSYht2GwnEw21) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/album/17ER4tyUvz7mziBC55UBF3) | 4:32 | 2023-10-20 | 2023-11-17 |
 | [Would You Believe](https://open.spotify.com/track/0HvtGDMR4hVmNK3HBUIUOS) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Friendship](https://open.spotify.com/album/6xmqbQZeI90wR4inGj3snR) | 4:30 | 2021-10-15 | 2024-04-19 |
 | [Would You Believe](https://open.spotify.com/track/58wKAW4alMU8WDg7aql5Jl) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Friendship](https://open.spotify.com/album/6P3lnZpwmdKu2LU4HttzQi) | 4:30 | 2021-10-15 | 2022-07-29 |
+| [Yorokobi](https://open.spotify.com/track/2h4JwOuZMiBSCao8QAiwgS) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Yorokobi](https://open.spotify.com/album/5mZ7OlFuS64Xi3P3J6LTWw) | 2:17 | 2024-11-01 |  |
 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 | 2021-10-15 | 2024-04-19 |
 | [You and I](https://open.spotify.com/track/5IBdGT5kl3wNblGeCpVYrH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You and I](https://open.spotify.com/album/7L3MIEJygvjr0ovJXBUvW1) | 4:03 | 2021-10-15 | 2022-07-24 |
 

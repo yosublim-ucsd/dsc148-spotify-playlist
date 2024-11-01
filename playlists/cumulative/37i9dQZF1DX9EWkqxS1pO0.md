@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: üçkuruş
 
-145 songs - 6 hr 59 min
+146 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,11 +32,12 @@
 | [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 | 2024-06-20 |  |
 | [Beni Seviyo](https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP) | [Alara Serena](https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu) | [Beni Seviyo](https://open.spotify.com/album/131EG59oUCxBSezj1EDY11) | 2:41 | 2024-06-20 | 2024-08-09 |
 | [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-08-29 |  |
-| [Bi' İnansan Güzelim](https://open.spotify.com/track/4EzVfclpptuWdeMSRmNy04) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Bi' İnansan Güzelim](https://open.spotify.com/album/5kGD0QdQpyVjhG3zw0vLU8) | 3:27 | 2024-09-05 |  |
+| [Bi' İnansan Güzelim](https://open.spotify.com/track/4EzVfclpptuWdeMSRmNy04) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Bi' İnansan Güzelim](https://open.spotify.com/album/5kGD0QdQpyVjhG3zw0vLU8) | 3:27 | 2024-09-05 | 2024-11-01 |
 | [Bir Bir](https://open.spotify.com/track/3ICdfm7CAO0vg14gyUFjkG) | [Hakan Kurtaş](https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt) | [Bir Bir](https://open.spotify.com/album/1OEwwB2FESKuziGRR8tqiY) | 2:55 | 2024-08-22 |  |
 | [Bitti Hikayemiz](https://open.spotify.com/track/0R6PCc8mr0v2DlRZQCzW35) | [Nazlı Yaşan](https://open.spotify.com/artist/6wEC8NwWVlVXzvKRKETpMp) | [Bitti Hikayemiz](https://open.spotify.com/album/0eaiRgGguSXCQNopYBRYGy) | 2:43 | 2024-10-10 |  |
 | [bizdenbaşka.](https://open.spotify.com/track/17IjdDXjobLTdHZDjldsO9) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [bizdenbaşka.](https://open.spotify.com/album/30XUUMWhEYXRuVZnvYo01R) | 3:00 | 2024-06-20 |  |
 | [Biçare](https://open.spotify.com/track/6f4Qvq0AoInO0Fd82Hs6Rl) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Biçare](https://open.spotify.com/album/6YhvM21lICI7twMpta4mL0) | 3:16 | 2024-06-20 |  |
+| [Bu Ne Bela](https://open.spotify.com/track/3oWagFbYIZ7kvJy7niOCi5) | [Giz](https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs) | [Bu Ne Bela](https://open.spotify.com/album/4uZKjVzHBK4xa91rQYdvrT) | 2:35 | 2024-10-24 |  |
 | [Cehennem](https://open.spotify.com/track/6ehRO2mp6xhudE2d9AnZZ5) | [Ozthewiz](https://open.spotify.com/artist/2ANKUXtknFmV4EKgoix3kC) | [Cehennem](https://open.spotify.com/album/6Iyv9RjR6T2OcEV2EK8Uu1) | 2:25 | 2024-06-20 | 2024-08-09 |
 | [Dans Etmem Lazım](https://open.spotify.com/track/5eFpxTYC6twewb3ZjwYrkQ) | [Ekin Alkan](https://open.spotify.com/artist/0i4hCPoTk7AFp2i10Qwxud) | [Dans Etmem Lazım](https://open.spotify.com/album/7KfM6hleD0FeO4e7sJ1MHF) | 3:25 | 2024-06-20 | 2024-07-09 |
 | [Davet](https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Davet](https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx) | 2:32 | 2024-06-20 |  |

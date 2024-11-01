@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,290 songs - 2 day 20 hr 15 min
+1,291 songs - 2 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [BAZ+ \- Túl vagyok rajtad](https://open.spotify.com/track/5IweCSstXQHSmM9c42F7AP) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Tankcsapda](https://open.spotify.com/artist/3QbmGjx9VYiu3fpG8NjIZI) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 2:48 | 2022-11-24 | 2022-12-04 |
 | [BAZ+ \- Túl vagyok rajtad](https://open.spotify.com/track/6ofxXXTKk1UyRj9YkkWh3u) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Tankcsapda](https://open.spotify.com/artist/3QbmGjx9VYiu3fpG8NjIZI) | [BAZ+ \(Túl vagyok rajtad\)](https://open.spotify.com/album/0ISupiy3v5iiVsLvir8d4n) | 2:48 | 2022-06-03 | 2022-11-25 |
 | [BB](https://open.spotify.com/track/2alqYZmRRT8U5E0mtw7LhJ) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [BARBATULA BARBATULA](https://open.spotify.com/album/6shv3bmIBOtB1hoGURDBuA) | 2:51 | 2023-12-16 | 2023-12-18 |
-| [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2024-10-30 |
+| [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-20 | 2024-04-07 |
 | [Beb\*sztam](https://open.spotify.com/track/2zALUC201V0RwAAL2FzrLP) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 2:38 | 2022-11-23 | 2022-11-28 |
 | [Beb\*sztam](https://open.spotify.com/track/4kHnC6jF3AG4P0K8WllpQr) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Beb\*sztam](https://open.spotify.com/album/3uh6yLcgSxTaELqzlRXbba) | 3:13 | 2022-09-02 | 2022-09-10 |
@@ -594,6 +594,7 @@
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2021-09-05 | 2021-09-06 |
 | [Kopott szavak](https://open.spotify.com/track/5TmzMu4UXoUwQe3kONqNns) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Kopott szavak](https://open.spotify.com/album/3xA2h2QavwykBiqull4MrL) | 2:43 | 2023-10-28 | 2024-02-13 |
 | [KORONA](https://open.spotify.com/track/1atyBWo7E1i5iZypaZWNAz) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Nitro](https://open.spotify.com/album/58zbBHgXAqP06UBBjwOSs5) | 2:10 | 2023-06-23 | 2023-06-25 |
+| [Krisz x Jaki\-Prikezsia](https://open.spotify.com/track/2rIK6WWOpGJY2uqXd0ejIa) | [Romano Bengz Studio](https://open.spotify.com/artist/14HGIirVHTtZwmQpofG27w) | [Krisz x Jaki\-Prikezsia](https://open.spotify.com/album/2jT7xQHCWIU6exoxOt10nO) | 2:37 | 2024-10-31 |  |
 | [Krúbi Interjú](https://open.spotify.com/track/1FjhV0AkAST45DpO7kHuBB) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [III\. Krúbi](https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq) | 5:13 | 2023-11-18 | 2023-12-02 |
 | [Krúbi Interjú](https://open.spotify.com/track/1cthluQ9Ar0E50vI54hg9m) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Krúbi Interjú](https://open.spotify.com/album/4bExg0cGyeuLCqsI0cnn7C) | 5:13 | 2023-07-15 | 2023-08-13 |
 | [Kukásautó](https://open.spotify.com/track/0D6Aewbxit6kZYncgVohxU) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Kukásautó](https://open.spotify.com/album/0dWFWOCIiKkaDmjMrF09sq) | 3:15 | 2021-12-04 | 2022-10-27 |
@@ -796,7 +797,7 @@
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-02 |
 | [No Woman No Cry](https://open.spotify.com/track/3AwRMZhguWChK8Vvdu4ebG) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [No Woman No Cry](https://open.spotify.com/album/5w7pVxcVHoXWs6By2NEDbQ) | 2:38 | 2023-12-22 | 2023-12-25 |
 | [No Woman No Cry](https://open.spotify.com/track/7BHYrsEYySLRs6PcZvvFEm) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [EZER NAP](https://open.spotify.com/album/2sdrLFENQ7qtygveNHMxel) | 2:38 | 2023-12-24 | 2024-10-22 |
-| [Noid](https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:44 | 2024-10-30 |  |
+| [Noid](https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:44 | 2024-10-30 | 2024-11-01 |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-29 | 2024-10-31 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-06 | 2024-08-13 |
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-10-28 | 2023-11-01 |
@@ -912,7 +913,7 @@
 | [quasar](https://open.spotify.com/track/7KPuPmkh0N7ehSfuVstCrd) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 2:56 | 2021-07-01 | 2021-07-02 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-05-15 | 2023-05-23 |
 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 | 2022-10-22 | 2022-10-26 |
-| [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 | 2024-10-29 |  |
+| [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 | 2024-10-29 | 2024-11-01 |
 | [Rajosan](https://open.spotify.com/track/5yP7ZMMAbaZQMfBirBBCen) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw) | [Rajosan](https://open.spotify.com/album/4i1aThwMa5bRhDjJozFnpW) | 3:15 | 2022-01-08 | 2022-05-10 |
 | [Rajtad](https://open.spotify.com/track/4H1g77oFJOssK6sc7jMQl4) | [Analog Balaton](https://open.spotify.com/artist/0IUu1vSCfCZJrLHUOgHNWJ) | [Repedés](https://open.spotify.com/album/4WHc3gnK10jBszh0iAInJk) | 4:29 | 2024-10-17 | 2024-10-19 |
 | [Ramenez la coupe à la maison](https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Marchand de sable](https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b) | 3:55 | 2021-06-19 | 2021-07-20 |

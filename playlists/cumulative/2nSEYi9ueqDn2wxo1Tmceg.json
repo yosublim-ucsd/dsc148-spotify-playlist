@@ -15139,6 +15139,28 @@
     },
     {
       "album": {
+        "name": "Rapid Fire / Kaitlyn Aurelia Smith Remix",
+        "url": "https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Laima",
+          "url": "https://open.spotify.com/artist/1BsnJdQKuN4OUlLLYTx6gr"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334625,
+      "name": "Rapid Fire",
+      "url": "https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU"
+    },
+    {
+      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
       },

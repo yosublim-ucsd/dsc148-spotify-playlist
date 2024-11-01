@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:0ZDuCmctvivaIwQuHrg48n">Gracie Binion</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,365 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,425 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 49 | [Church Parking Lot](https://open.spotify.com/track/3lItDqpQ9wXPh4A8v8llxF) | [Otis Kemp](https://open.spotify.com/artist/2Z4sVaFLTHGgs9PIRaSo00), [Tasha Page\-Lockhart](https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w) | [Church Parking Lot](https://open.spotify.com/album/17A9XeaPvZ22umXMgTGvd6) | 4:11 |
 | 50 | [Favor](https://open.spotify.com/track/6q8yy8DfUMVmdmwozYx6Gu) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde), [RoyzNoyz Orchestra](https://open.spotify.com/artist/7AViaGhODpwOzcsmigbnxA) | [Favor](https://open.spotify.com/album/0s3Ynz1H05xtlQSaR8nFOo) | 2:45 |
 | 51 | [What's Up \(Turn Me Up\)](https://open.spotify.com/track/0W1SV8W43Ulktie46IFGCd) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [What's Up \(Turn Me Up\)](https://open.spotify.com/album/1d4tajRKoxbEjqMOKQewCE) | 2:10 |
-| 52 | [CHECK](https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK) | [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh), [KB](https://open.spotify.com/artist/0OCXDPJfXimosx1KgjGDcZ), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [CHECK](https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN) | 3:27 |
+| 52 | [CHECK](https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK) | [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [CHECK](https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN) | 3:27 |
 | 53 | [Press](https://open.spotify.com/track/09nVAPb8lvgHXaaigTbUnW) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e) | [Talk To Me Nice \(Vol\. II\)](https://open.spotify.com/album/1YrPImu6gIWvcdaul7RObH) | 2:50 |
 | 54 | [33024](https://open.spotify.com/track/6j6Ls5RcvMPfDHvgGX8CZI) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [33024](https://open.spotify.com/album/6qXjfDCXFah9IDhWuFQpGY) | 2:41 |
 | 55 | [Father We Declare](https://open.spotify.com/track/6fDCxjnAQbcizv2yvzztGY) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Father We Declare](https://open.spotify.com/album/3rL19E0P92E592NhhgycgN) | 2:20 |

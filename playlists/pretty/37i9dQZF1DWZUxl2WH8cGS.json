@@ -1,6 +1,6 @@
 {
   "description": "Dance to the tunes from your favorite Netflix family-friendly series and movies!",
-  "num_followers": 7345,
+  "num_followers": 7348,
   "original_name": "Netflix Family Dance Party Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -658,6 +658,10 @@
         {
           "name": "Barbie",
           "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
         }
       ],
       "duration_ms": 147844,

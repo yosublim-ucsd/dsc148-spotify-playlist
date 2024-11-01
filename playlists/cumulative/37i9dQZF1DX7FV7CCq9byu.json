@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX"
+      },
+      "artists": [
+        {
+          "name": "joel",
+          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG"
+    },
+    {
+      "album": {
         "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
         "url": "https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 217765,
       "name": "Adrian",
       "url": "https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY"
@@ -787,6 +805,28 @@
     },
     {
       "album": {
+        "name": "Charlie (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291536,
+      "name": "Charlie (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa"
+    },
+    {
+      "album": {
         "name": "Chasin' (feat. Meghan Trainor)",
         "url": "https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj"
       },
@@ -944,6 +984,24 @@
       "duration_ms": 154504,
       "name": "Criminals",
       "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
+    },
+    {
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0"
     },
     {
       "album": {
@@ -1286,7 +1344,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
@@ -1886,7 +1944,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 172339,
       "name": "Filthy Rich",
       "url": "https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM"
@@ -2505,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171607,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
+    },
+    {
+      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
       },
@@ -2720,7 +2796,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 174590,
       "name": "HOMEWRECKED",
       "url": "https://open.spotify.com/track/7904wbV03rb4S0gGliqBk4"
@@ -2808,7 +2884,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 189375,
       "name": "How Can I Make You Stay",
       "url": "https://open.spotify.com/track/7tefLyHHCenSPKMfZ1jgDl"
@@ -3040,7 +3116,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 203760,
       "name": "I mina armar",
       "url": "https://open.spotify.com/track/75gZKsfo18ifT3NmAOwFOh"
@@ -3345,6 +3421,24 @@
     },
     {
       "album": {
+        "name": "Den stora fula kavajen",
+        "url": "https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9"
+      },
+      "artists": [
+        {
+          "name": "Huset",
+          "url": "https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Kvar h\u00e4r",
+      "url": "https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex"
+    },
+    {
+      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/08Q5zl0Pi1083nDP01RMna"
       },
@@ -3640,7 +3734,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 161600,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP"
@@ -4078,6 +4172,24 @@
       "duration_ms": 147000,
       "name": "Milkshakes",
       "url": "https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy"
+    },
+    {
+      "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/5pcrj1R40plmpD3EXv61XX"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155788,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM"
     },
     {
       "album": {
@@ -5379,6 +5491,24 @@
     },
     {
       "album": {
+        "name": "small",
+        "url": "https://open.spotify.com/album/3h7ozNB6Vvbw2sTWTtxQCk"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "small",
+      "url": "https://open.spotify.com/track/0zmhbBZjEEMxZLac83gLRQ"
+    },
+    {
+      "album": {
         "name": "Sm\u00e5stadsdr\u00f6mmar",
         "url": "https://open.spotify.com/album/49gFYMZfHnBMVWEeSwqYmI"
       },
@@ -5679,6 +5809,42 @@
     },
     {
       "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/30xua6nr058rwmldrH7Kqy"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140596,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/198asGCZWwoQVdLxYSlPTx"
+    },
+    {
+      "album": {
+        "name": "Stop Calling",
+        "url": "https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Stop Calling",
+      "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
+    },
+    {
+      "album": {
         "name": "Stupid Dumb",
         "url": "https://open.spotify.com/album/0fJZgO2wJlvVXalnpdoc9i"
       },
@@ -5759,6 +5925,28 @@
     },
     {
       "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/5dH89SWty2zwQkpLtPI2Lv"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/4UmpZwWh99V5JMSrGsacFP"
+    },
+    {
+      "album": {
         "name": "S\u00e5 l\u00e6nge jeg er sexy.",
         "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
       },
@@ -5792,6 +5980,28 @@
       "duration_ms": 172596,
       "name": "S\u00e5nne Som Oss",
       "url": "https://open.spotify.com/track/2c6gm3rPfI0XGgbvm2mK3y"
+    },
+    {
+      "album": {
+        "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
+        "url": "https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        },
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195929,
+      "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
+      "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
     },
     {
       "album": {
@@ -6024,7 +6234,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -6256,7 +6466,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -6460,6 +6670,24 @@
       "duration_ms": 188428,
       "name": "Tysta Leken",
       "url": "https://open.spotify.com/track/6RdS1iX4Hcw5YAjjeCfeB9"
+    },
+    {
+      "album": {
+        "name": "under isen",
+        "url": "https://open.spotify.com/album/0bkkEmllmDysuUwtdPfxiF"
+      },
+      "artists": [
+        {
+          "name": "TUVA",
+          "url": "https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146258,
+      "name": "under isen",
+      "url": "https://open.spotify.com/track/6XmOCjeIjYijSeSEGJLCy5"
     },
     {
       "album": {
@@ -6818,7 +7046,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 233406,
       "name": "WE PRAY - Single Version",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
@@ -6934,7 +7162,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 194000,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"

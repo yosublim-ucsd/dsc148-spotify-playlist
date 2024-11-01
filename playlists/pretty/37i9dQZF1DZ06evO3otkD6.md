@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,849 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,873 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 24 | [Dopamina](https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:15 |
 | 25 | [En La Obscuridad](https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:27 |
 | 26 | [Llórame Un Río](https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [FINAL \(Vol.2\)](https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx) | 2:44 |
-| 27 | [Vivir \- Any Better](https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:04 |
-| 28 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 |
+| 27 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 |
+| 28 | [Vivir \- Any Better](https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:04 |
 | 29 | [Ni Freud Ni Tu Mama](https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:24 |
 | 30 | [En El Amor Hay Que Perdonar](https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:59 |
 | 31 | [Un Traguito](https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Un Traguito](https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H) | 3:04 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 50 | [Why Wait](https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:01 |
 | 51 | [Amigos por Siempre](https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS) | [Martin](https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:14 |
 
-Snapshot ID: `ZyAlgAAAAABJD0Yc4BXpq1k9wDyGpQ/w`
+Snapshot ID: `ZyF3AAAAAADqO8Dxu0Fog+cyW4r6gtID`

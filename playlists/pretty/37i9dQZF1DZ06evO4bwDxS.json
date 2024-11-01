@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 432647,
+  "num_followers": 433385,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAACN6QlTo5ODGD/BQh86A11M",
+  "snapshot_id": "ZyF3AAAAAABloI2ui7QITd2LZ/3cLCv5",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 177750,
-      "name": "skinny dipping",
-      "url": "https://open.spotify.com/track/436RVcyrHyXdqYNWGYMxx5"
+      "duration_ms": 243880,
+      "name": "how many things",
+      "url": "https://open.spotify.com/track/6NvlhDdVgFotNgPK30LM2T"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+        "name": "Honeymoon Fades",
+        "url": "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 243880,
-      "name": "how many things",
-      "url": "https://open.spotify.com/track/6NvlhDdVgFotNgPK30LM2T"
+      "duration_ms": 195161,
+      "name": "Honeymoon Fades",
+      "url": "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
       "duration_ms": 138453,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honeymoon Fades",
-        "url": "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 195161,
-      "name": "Honeymoon Fades",
-      "url": "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz"
     },
     {
       "added_at": null,

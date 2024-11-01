@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,180 likes - 115 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,323 likes - 115 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 19 | [Petals](https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sugar at the Gate](https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh) | 2:54 |
 | 20 | [Let 'Em In \- 2014 Remaster](https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:11 |
 | 21 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
-| 22 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 |
-| 23 | [Don't You Evah](https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Ga Ga Ga Ga Ga \(2017 Remaster\)](https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E) | 3:36 |
+| 22 | [Don't You Evah](https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Ga Ga Ga Ga Ga \(2017 Remaster\)](https://open.spotify.com/album/3tSpLdSd2zhM0N0aYZd13E) | 3:36 |
+| 23 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 |
 | 24 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 |
 | 25 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 26 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 |
-| 27 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
-| 28 | [The Smoke](https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 3:39 |
+| 27 | [The Smoke](https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 3:39 |
+| 28 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 29 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
 | 30 | [Charley's Girl](https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Coney Island Baby](https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx) | 2:39 |
 | 31 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 40 | [On + Off](https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:41 |
 | 41 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 |
 | 42 | [\(You\) Got What I Need](https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5) | [Freddie Scott](https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT) | [Cry To Me\-The Best Of Freddie Scott](https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK) | 2:59 |
-| 43 | [Anthony Kiedis](https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 2:51 |
-| 44 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 |
+| 43 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 |
+| 44 | [Anthony Kiedis](https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 2:51 |
 | 45 | [Sunny Afternoon](https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 2:51 |
 | 46 | [You're so Fine](https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6) | [Papa Bear & His Cubs](https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv) | [You're so Fine](https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5) | 2:53 |
 | 47 | [Time Was](https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hallelujah](https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB) | 3:22 |
@@ -117,11 +117,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 107 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
 | 108 | [Late Night Morning Light](https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD) | [Har Mar Superstar](https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG) | [Bye Bye 17](https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1) | 2:05 |
 | 109 | [Base Camp](https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf) | 3:25 |
-| 110 | [Lament for the Sky](https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy) | [Acidslop](https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8) | [Freedom to Talk](https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf) | 3:53 |
-| 111 | [Kathy and Paul](https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6) | [Long Island Railroad](https://open.spotify.com/artist/2zZSQmUEnIliGJRClpPb70), [Smushie](https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH), [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA) | [Kathy and Paul](https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C) | 2:54 |
+| 110 | [Kathy and Paul](https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6) | [Long Island Railroad](https://open.spotify.com/artist/2zZSQmUEnIliGJRClpPb70), [Smushie](https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH), [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA) | [Kathy and Paul](https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C) | 2:54 |
+| 111 | [Lament for the Sky](https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy) | [Acidslop](https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8) | [Freedom to Talk](https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf) | 3:53 |
 | 112 | [Upside Down](https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Stunning & Atrocious](https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH) | 3:37 |
-| 113 | [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 |
-| 114 | [Sooth Lady Wine](https://open.spotify.com/track/035IK7Ba1IV61q9V6MD5FH) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Telluric](https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC) | 4:36 |
-| 115 | [She Turns My Radio On](https://open.spotify.com/track/60Lr94URXKMqK6KqEgyFH8) | [Jim Ford](https://open.spotify.com/artist/24caHjJclAtCI8Ld7Az8l1) | [Rare Singles and Previously Unreleased Masters, Vol\. 1](https://open.spotify.com/album/1S438eS0BpzwR6HMQtO0e3) | 3:20 |
+| 113 | [Sooth Lady Wine](https://open.spotify.com/track/035IK7Ba1IV61q9V6MD5FH) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Telluric](https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC) | 4:36 |
+| 114 | [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 |
+| 115 | [Moon Eclipsed the Sun](https://open.spotify.com/track/3FAZXqZThvV6u8KpL7QgO2) | [Evolfo](https://open.spotify.com/artist/6oP90f8WzKpCFRcyZRvYPH) | [Last of the Acid Cowboys](https://open.spotify.com/album/12yK0awDW8z3K5l96PmYjm) | 3:49 |
 
 Snapshot ID: `Zxv1JQAAAACGtqgxfU5k9gGvCicw4b+1`

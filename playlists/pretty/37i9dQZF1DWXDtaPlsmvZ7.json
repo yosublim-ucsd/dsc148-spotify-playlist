@@ -1,6 +1,6 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 111978,
+  "num_followers": 111994,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Coraz\u00f3n Part\u00edo",
-        "url": "https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Coraz\u00f3n Part\u00edo",
-      "url": "https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 199061,
       "name": "Lo Siento",
       "url": "https://open.spotify.com/track/3Aa0e22YhtYdeZEch2RyET"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Coraz\u00f3n Part\u00edo",
+        "url": "https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Coraz\u00f3n Part\u00edo",
+      "url": "https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M"
     },
     {
       "added_at": "2022-05-06 18:26:25",

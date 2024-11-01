@@ -2051,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "Dubai 2.0",
+        "url": "https://open.spotify.com/album/4h79EIDCtBOnVrH7fO8f5x"
+      },
+      "artists": [
+        {
+          "name": "Aya Msani",
+          "url": "https://open.spotify.com/artist/4msIq1xJndm9p6DE6nBSKB"
+        },
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Dubai 2.0",
+      "url": "https://open.spotify.com/track/7Bi0Rt3lUshalz9sHFunqf"
+    },
+    {
+      "album": {
         "name": "Dzena Mo",
         "url": "https://open.spotify.com/album/3fqdBLUIhUu2SYASEKpOj9"
       },

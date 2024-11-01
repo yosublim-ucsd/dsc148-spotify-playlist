@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "180 Degre",
+        "url": "https://open.spotify.com/album/6bthKO1rykO71a7llqYQp3"
+      },
+      "artists": [
+        {
+          "name": "Esserpent",
+          "url": "https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q"
+        },
+        {
+          "name": "Hameda",
+          "url": "https://open.spotify.com/artist/7DZpYNnu5wtNuY3cwerbTb"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242259,
+      "name": "180 Degre",
+      "url": "https://open.spotify.com/track/3X2Z3hZrxZEOd3QxvyQQ7M"
+    },
+    {
+      "album": {
         "name": "3almdar",
         "url": "https://open.spotify.com/album/5VfsO3G05wH1Fr2ySj9AMO"
       },
@@ -626,7 +648,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 217003,
       "name": "Haka Tao?",
       "url": "https://open.spotify.com/track/3LT1WIwYXYRm5n7Qv2Xetg"
@@ -970,6 +992,28 @@
       "duration_ms": 148028,
       "name": "Lezem Lezem",
       "url": "https://open.spotify.com/track/3JAV7VqOYEQDT7tFFfLSqY"
+    },
+    {
+      "album": {
+        "name": "Lili Lili",
+        "url": "https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya"
+      },
+      "artists": [
+        {
+          "name": "El Katiba",
+          "url": "https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK"
+        },
+        {
+          "name": "Khorma",
+          "url": "https://open.spotify.com/artist/062SHbS2rC3QOGiJ2mDjSS"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209820,
+      "name": "Lili Lili",
+      "url": "https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK"
     },
     {
       "album": {

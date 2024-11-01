@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
+> Dendang Dangdut teratas\. Cover: Jirayut
 
-203 songs - 16 hr 0 min
+205 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Fitria](https://open.spotify.com/track/5nAet8ZdFgzvwPqlxBssUd) | [Yus Yunus](https://open.spotify.com/artist/5m0zFgjEwcPZhaWWcqgzzi) | [Fitria](https://open.spotify.com/album/7dfP256Xm5TJCGaYn9ykKQ) | 5:44 | 2023-03-30 | 2023-08-25 |
 | [Garam Rasanya Gula](https://open.spotify.com/track/14XsJn6NhFfRhjt3DLCov2) | [Nabilla Gomes](https://open.spotify.com/artist/6ivuhvyIqTHWSUXinAOcyQ) | [Garam Rasanya Gula](https://open.spotify.com/album/1ZfC7jspXMGt9eWOKW8G37) | 4:18 | 2021-08-23 | 2023-07-14 |
 | [Gerhana Dalam Cinta \- Live Ska Reggae](https://open.spotify.com/track/3MYekiBFtjZ7SwXskTznfP) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Gerhana Dalam Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/4RjS7Q0ABbNKdPiHeTRIjB) | 5:38 | 2023-07-13 | 2023-11-04 |
+| [Gerimis Mengundang \- Ska Reggae](https://open.spotify.com/track/2FxX2nIJ8iqR13gcz96Gb0) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Gerimis Mengundang \(Ska Reggae\)](https://open.spotify.com/album/761clLaYSuG9COhmMyOZag) | 5:17 | 2024-10-31 |  |
 | [Goresan Luka Di Hati](https://open.spotify.com/track/1OO9vd7boJMmwMDf2fU7El) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Goresan Luka Di Hati](https://open.spotify.com/album/6nZ74isfbsXSR2FSeovLJA) | 5:00 | 2024-06-13 |  |
 | [Goyang Dua Jari](https://open.spotify.com/track/4iAHwaR6q8NPn0LQUZ8E0g) | [Sandrina](https://open.spotify.com/artist/7j2KcU3ogpP9jtAsomBNwA) | [Goyang Dua Jari](https://open.spotify.com/album/2J9oHWko5w4Xsm96yuXiSD) | 2:45 | 2021-08-23 | 2023-02-17 |
 | [Goyang Nasi Padang](https://open.spotify.com/track/3zS02VGXpRYeXSsif1QxRM) | [Duo Anggrek](https://open.spotify.com/artist/05zjnanXgP7Rh5YJG6fqKx) | [Goyang Nasi Padang](https://open.spotify.com/album/7k86TETd5hMeUyX32ifK2j) | 3:07 | 2021-08-23 | 2024-03-23 |
@@ -188,6 +189,7 @@
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2021-08-23 | 2023-09-15 |
 | [Tak Mungkin Kembali](https://open.spotify.com/track/3NCPT1Ll3BC2OiaCbYkwgz) | [Ikke Nurjanah](https://open.spotify.com/artist/14eVM8s1mDJhnC4etvhFNn) | [Tak Mungkin Kembali](https://open.spotify.com/album/0jO3LcdJTkucjLxGF3M0yx) | 5:20 | 2021-08-23 | 2024-02-16 |
 | [Tak Punya Hati](https://open.spotify.com/track/5GDPHPrTe5NwtQKKZASCT5) | [Cut Rani Auliza](https://open.spotify.com/artist/56MsGGbdOtGbcSoOKc5N7V) | [Tak Punya Hati](https://open.spotify.com/album/1s4YQT0dv9lhPJWjd3hA3s) | 5:46 | 2023-11-03 |  |
+| [Tanda Bahaya Cinta](https://open.spotify.com/track/6TfkcpYnZ8ZG8wMvW5rU4k) | [Jirayut](https://open.spotify.com/artist/1Iql7RUVcNTNZ1hlfhaKnd) | [Tanda Bahaya Cinta](https://open.spotify.com/album/44lB9hri6xlXug8Pt2TyW7) | 3:14 | 2024-10-31 |  |
 | [Tanya Hatimu](https://open.spotify.com/track/22mwaQkDEwU2W1y99VazbD) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Tanya Hatimu](https://open.spotify.com/album/1gAg60OyhZl1W7VjmfjrXL) | 4:30 | 2023-10-12 | 2024-05-03 |
 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2021-08-23 | 2023-02-05 |
 | [Tatu](https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/45mzuK7vN3XolfmyyEoOh3) | 4:54 | 2023-02-02 | 2024-04-05 |

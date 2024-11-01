@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-175 songs - 13 hr 32 min
+176 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Higher](https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [GospelOnDeBeatz](https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe) | [Ghetto Gospel](https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2) | 3:00 | 2024-07-26 | 2024-09-27 |
 | [Higher](https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn) | [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB) | [Higher](https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw) | 2:34 | 2023-07-14 | 2023-11-01 |
 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 | 2024-05-03 |  |
+| [Holy](https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Miracles](https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3) | 3:19 | 2024-10-25 |  |
 | [Holy Father](https://open.spotify.com/track/1gKWVPpNDVw0C6W3834jSo) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Holy Father](https://open.spotify.com/album/2EKWdSnVWyo3tl9Ro82yJs) | 2:41 | 2024-07-19 | 2024-07-27 |
 | [Hosanna](https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna](https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV) | 5:21 | 2023-04-06 |  |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2023-04-06 |  |
@@ -164,7 +165,7 @@
 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 | 2024-10-11 |  |
 | [We Praise You](https://open.spotify.com/track/1NQOym9Oy8Ttndi2btEBlv) | [Monica Mas](https://open.spotify.com/artist/1gp4u2DxauWF7Spt1Z1XLc) | [We Praise You](https://open.spotify.com/album/0SFmRRDm2kOqrapY9ASbd5) | 3:26 | 2024-04-12 | 2024-04-19 |
 | [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 | 2023-04-06 | 2023-12-15 |
-| [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-03-29 |  |
+| [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-03-29 | 2024-11-01 |
 | [What I Want II](https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What I Want II](https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG) | 3:00 | 2023-08-18 | 2023-09-13 |
 | [What the Lord Has Done](https://open.spotify.com/track/0uBrewYuraJdPVVla0kaSP) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [What the Lord Has Done](https://open.spotify.com/album/5qjmj4ORlNrBKjRvlYdILX) | 8:23 | 2024-05-03 | 2024-06-13 |
 | [When I See You](https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:32 | 2023-04-06 | 2024-02-18 |

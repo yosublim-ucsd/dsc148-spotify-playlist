@@ -2867,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "Demons & Angels: The Ultimate Collection, Pt. 3",
+        "url": "https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263825,
+      "name": "Lord, On Your Word",
+      "url": "https://open.spotify.com/track/4JYOVH3S0ueN5Ri3I9zc5i"
+    },
+    {
+      "album": {
         "name": "Demons & Angels - the Music of Rev. Gary Davis",
         "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
       },
@@ -5344,7 +5362,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 279986,
       "name": "When The Train Comes Along",
       "url": "https://open.spotify.com/track/2ksO8BPPvbEVcNvg5VobXH"

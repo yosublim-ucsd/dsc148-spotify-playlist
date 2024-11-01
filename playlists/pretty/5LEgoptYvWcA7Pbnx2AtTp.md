@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 138 songs - 7 hr 59 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 139 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,5 +146,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 136 | [I'd Love to Change the World \- 2004 Remaster](https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [A Space in Time \(Deluxe Version\)](https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE) | 3:44 |
 | 137 | [Giorno's Theme \(Jay D Remix by JoRoYT\)](https://open.spotify.com/episode/2RwtULDIIem7Q7ENpMaKxo) | [AniCast](https://open.spotify.com/show/59PNAB2nCZNVzvE793UE1I) | [AniCast](https://open.spotify.com/album/59PNAB2nCZNVzvE793UE1I) | 2:30 |
 | 138 | [Giorno's Theme](https://open.spotify.com/track/0oFPCGIO4t2cmOkksXknoD) | [Friedrich Habetler](https://open.spotify.com/artist/3VudC1DraV4LjIdLzpqQ80) | [Giorno's Theme](https://open.spotify.com/album/6UDDr9aZsmprJXfgU48Lqa) | 5:06 |
+| 139 | [Dance, Dance](https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree Limited Tour Edition](https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q) | 3:00 |
 
-Snapshot ID: `AAAAtEtWZ/rtZqdQNCGuWA7NN6Pd19sr`
+Snapshot ID: `AAAAtVR8Pl8vCFhOFNPrr+IFXbS/gNiS`

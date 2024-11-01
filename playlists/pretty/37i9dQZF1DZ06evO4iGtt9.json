@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAABI8YTb40ZjK46OhdAD9Rqy",
+  "snapshot_id": "ZyF3AAAAAACnnyccG5pED3/L6vzkqkmL",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Gra Gra",
-      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happiest Man Alive",
         "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 210210,
       "name": "Shake Yuh Bum - Machel Montano Remix",
       "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Gra Gra",
+      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
     },
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gift And Grace",
         "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
@@ -819,22 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
+        "name": "Samankwe",
+        "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
       },
       "artists": [
         {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+          "name": "HarrySong",
+          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
         },
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 220235,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
+      "duration_ms": 212554,
+      "name": "Samankwe",
+      "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
     },
     {
       "added_at": null,
@@ -855,26 +875,6 @@
       "duration_ms": 218305,
       "name": "My Body",
       "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Samankwe",
-        "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
-      },
-      "artists": [
-        {
-          "name": "HarrySong",
-          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 212554,
-      "name": "Samankwe",
-      "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B A H D",
         "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 135186,
       "name": "Inside",
       "url": "https://open.spotify.com/track/6hoUqY7KzLKbS5y8FE6dAz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M.O.N.E.Y",
-        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "M.O.N.E.Y",
-      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
     },
     {
       "added_at": null,

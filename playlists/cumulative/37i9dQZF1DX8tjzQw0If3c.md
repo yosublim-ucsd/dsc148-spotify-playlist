@@ -4,7 +4,7 @@
 
 > Unearthing trailblazers\. Cover: Axel Brizzy, LAYYI
 
-87 songs - 4 hr 41 min
+88 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Feel The Same](https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV) | 2:52 | 2024-06-27 |  |
 | [FOR REAL](https://open.spotify.com/track/4kur5V464OTAgBXrGVsQNV) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [FOR REAL](https://open.spotify.com/album/2TzyBYYqPp3ZARHD5z0vKL) | 2:41 | 2024-06-27 |  |
 | [Future Somebody](https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Future Somebody](https://open.spotify.com/album/6oNuFaEPjjlNH9XeT1Aiab) | 2:22 | 2024-06-27 |  |
+| [Gerimis Mengundang \- Ska Reggae](https://open.spotify.com/track/2FxX2nIJ8iqR13gcz96Gb0) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Gerimis Mengundang \(Ska Reggae\)](https://open.spotify.com/album/761clLaYSuG9COhmMyOZag) | 5:17 | 2024-10-31 |  |
 | [Get Loose](https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES), [SoundClout](https://open.spotify.com/artist/3LcwAiTjlQTT25TtU39kSB), [PravOnTheLoose](https://open.spotify.com/artist/5HvJGgEq2XovGcbdGmWKXg) | [Get Loose](https://open.spotify.com/album/6bPxTPEqF4jd5ugFWShH0A) | 3:15 | 2024-10-24 |  |
 | [Gimme That Crown](https://open.spotify.com/track/3p3RPVrPSUyrtLk6VWiuCO) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Gimme That Crown](https://open.spotify.com/album/49CfrRaf35iX4IRKMppz5w) | 3:09 | 2024-06-27 |  |
 | [GONE](https://open.spotify.com/track/5GD4Ua3avWtbj8g78j1kys) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [C.H.Q.Y](https://open.spotify.com/artist/6MpU9MJtZ8NWFO4Z0oCWY9) | [GONE](https://open.spotify.com/album/3dd6kX7BEgS4Fjm6G9cwJM) | 2:30 | 2024-06-27 |  |

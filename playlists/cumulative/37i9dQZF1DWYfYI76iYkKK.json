@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "She\u2019s A Trouble",
+        "url": "https://open.spotify.com/album/6wO8VzhdO1YLjXUhOuIf7w"
+      },
+      "artists": [
+        {
+          "name": "Zooey Wonder",
+          "url": "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242771,
+      "name": "She\u2019s A Trouble",
+      "url": "https://open.spotify.com/track/3sEUXx8VNNvCxGv4sKEFIJ"
+    },
+    {
+      "album": {
         "name": "so what.",
         "url": "https://open.spotify.com/album/5cHG1xWu7hm4CbwPGTo1O2"
       },
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 228042,
       "name": "\u5199\u7ed9\u5c0f\u738b\u5b50\u7684",
       "url": "https://open.spotify.com/track/1JYNcQCK6FmCmZIIXymh2v"
@@ -3477,6 +3495,24 @@
     },
     {
       "album": {
+        "name": "\u5abd\u5abd\u7684\u4e56\u5c0f\u5b69",
+        "url": "https://open.spotify.com/album/1dCWuioDngyxtVlixsKQxs"
+      },
+      "artists": [
+        {
+          "name": "\u5f90\u9cf3\u5100",
+          "url": "https://open.spotify.com/artist/7FWjJt3edwELsTBsfLMYmY"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295872,
+      "name": "\u5abd\u5abd\u7684\u4e56\u5c0f\u5b69",
+      "url": "https://open.spotify.com/track/4o1K1SplVBinrivQ28z7xa"
+    },
+    {
+      "album": {
         "name": "\u5b64\u5cf6",
         "url": "https://open.spotify.com/album/1IqR6BuJvginXpQ1ZIqO8P"
       },
@@ -4166,7 +4202,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 136706,
       "name": "\u6084\u6084\u544a\u8a34\u4f60",
       "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
@@ -6297,6 +6333,24 @@
     },
     {
       "album": {
+        "name": "\u751f\u65e5\u5feb\u6a02",
+        "url": "https://open.spotify.com/album/3JzbWS6A0a5FqNeCeVlCTf"
+      },
+      "artists": [
+        {
+          "name": "YABE",
+          "url": "https://open.spotify.com/artist/2cgY2IUcXDMAW2ahHpbO8M"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "\u751f\u65e5\u5feb\u6a02",
+      "url": "https://open.spotify.com/track/2F0SUT1y9dr34SEKn1MZMR"
+    },
+    {
+      "album": {
         "name": "\u751f\u6d3b\u7684\u6a13\u68af",
         "url": "https://open.spotify.com/album/1zf6zPPMegtrCnN8NUGrOv"
       },
@@ -8016,7 +8070,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 293833,
       "name": "\u96d9\u68f2\u52d5\u7269",
       "url": "https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d"

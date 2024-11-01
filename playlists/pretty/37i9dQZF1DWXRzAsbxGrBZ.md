@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,136 likes - 50 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,209 likes - 50 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 44 | [Papino's Revenge \- Frank Ru Remix](https://open.spotify.com/track/1J0Wmd4V1Ll7sM2cCgVQ6G) | [KVRVBO](https://open.spotify.com/artist/6O8YH1s38BFvHKMg6vZjOB), [Frank Ru](https://open.spotify.com/artist/0kjnCjrnCw8s5VzKAyx7tJ) | [Papino's Revenge Remixes](https://open.spotify.com/album/2z1z0XNLkRY6R1sUqcC1pf) | 6:38 |
 | 45 | [Nades](https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF) | [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Mohaus, Vol\. 2](https://open.spotify.com/album/5jHezALSoHZvaqEjDurYDI) | 6:42 |
 | 46 | [Dawnlands](https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU) | [Nkaoza EP](https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg) | 6:09 |
-| 47 | [The Gameplan](https://open.spotify.com/track/4Fl3uu5PrliDjR8Fo4NAuJ) | [Fynn](https://open.spotify.com/artist/4MWUQj6W31jtQXUNoKYWTB) | [The Gameplan](https://open.spotify.com/album/64Y7ZbXPxGD46ik5O7GrzH) | 7:41 |
-| 48 | [Once Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:11 |
+| 47 | [Once Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:11 |
+| 48 | [The Gameplan](https://open.spotify.com/track/4Fl3uu5PrliDjR8Fo4NAuJ) | [Fynn](https://open.spotify.com/artist/4MWUQj6W31jtQXUNoKYWTB) | [The Gameplan](https://open.spotify.com/album/64Y7ZbXPxGD46ik5O7GrzH) | 7:41 |
 | 49 | [I Care \- Radio Edit](https://open.spotify.com/track/4gXBXssvHxJ9kApYt4cyWP) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [I Care](https://open.spotify.com/album/5hz2ki5HCvLLmWb28iG906) | 4:24 |
-| 50 | [King of Castles](https://open.spotify.com/track/5yK4SXGC0P5ak5kO4mj8cg) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [King of Castles](https://open.spotify.com/album/243FAgBWqvxnbuFEED8enP) | 5:13 |
+| 50 | [For Just A Moment \- Mixed](https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp) | [Avi Subban](https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s) | [Electro Candi 5, Pt\. 2 \(DJ Mix\)](https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA) | 5:02 |
 
-Snapshot ID: `ZqwoEQAAAABbq99WeLau1tE8h4g1dGM0`
+Snapshot ID: `ZyQL8AAAAAAjsy0o5k5WCWGx0IGvb9++`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Jea Mira",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: BESKRES",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 173365,
       "name": "\"Z TOB\u0104\" INTERLUDE",
       "url": "https://open.spotify.com/track/6sF1vU8ICcM0FP0dqhBR6Y"
@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "azs",
+        "url": "https://open.spotify.com/album/1q4eCy4H5R0uZcVLLx5NOv"
+      },
+      "artists": [
+        {
+          "name": "Dafeat",
+          "url": "https://open.spotify.com/artist/2Ujn6zr81UqOdSN8tvOjLA"
+        },
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164903,
+      "name": "azs",
+      "url": "https://open.spotify.com/track/2vq6rl7RArxCQvz4mJs7bC"
+    },
+    {
+      "album": {
         "name": "A\u017c tyle",
         "url": "https://open.spotify.com/album/3Lg2ZQ0qbLM9zr1e85ZabV"
       },
@@ -362,6 +384,32 @@
       "duration_ms": 191625,
       "name": "Bezkres",
       "url": "https://open.spotify.com/track/7kdbHXCCtoxmtPLqbIjXBS"
+    },
+    {
+      "album": {
+        "name": "Bezsenni (Re: Krawczyk)",
+        "url": "https://open.spotify.com/album/659DUDgTqxXgtWLq5L7OHA"
+      },
+      "artists": [
+        {
+          "name": "Marika",
+          "url": "https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR"
+        },
+        {
+          "name": "SKUBAS",
+          "url": "https://open.spotify.com/artist/5BoG8WljgEsbLOtoK5IAok"
+        },
+        {
+          "name": "Chopin University Big Band",
+          "url": "https://open.spotify.com/artist/1MYHzClHBMXiGszv6dVQeY"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215795,
+      "name": "Bezsenni - Re: Krawczyk",
+      "url": "https://open.spotify.com/track/2sJe6aiGaUxyrAjr8AkQQi"
     },
     {
       "album": {
@@ -1522,7 +1570,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 220893,
       "name": "Edith Piaf",
       "url": "https://open.spotify.com/track/67AZtaTfJZo3aPt3kAembs"
@@ -1562,6 +1610,32 @@
       "duration_ms": 152750,
       "name": "Fake ID",
       "url": "https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR"
+    },
+    {
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/5xXAKv0SiTYNADJqivHMzV"
+      },
+      "artists": [
+        {
+          "name": "BESKRES",
+          "url": "https://open.spotify.com/artist/6wBpbchi4s7kQKgYT0xVG6"
+        },
+        {
+          "name": "BOKKA",
+          "url": "https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3"
+        },
+        {
+          "name": "La Giang",
+          "url": "https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/7jcPNp5rfCtGFEhJGKtu4J"
     },
     {
       "album": {
@@ -1918,6 +1992,24 @@
       "duration_ms": 221000,
       "name": "Jak mi\u00f3d",
       "url": "https://open.spotify.com/track/49cv9cHV08l1HMhsmojmAR"
+    },
+    {
+      "album": {
+        "name": "Jak si\u0119 czujesz",
+        "url": "https://open.spotify.com/album/13UVcKeyCzhp07xWaLcoP1"
+      },
+      "artists": [
+        {
+          "name": "\u0141ukasz Drapa\u0142a",
+          "url": "https://open.spotify.com/artist/4k4q4VaHJ1vUXWBTGrYorY"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210419,
+      "name": "Jak si\u0119 czujesz",
+      "url": "https://open.spotify.com/track/6PRudziffQZp6s9Gu6aqpr"
     },
     {
       "album": {
@@ -2394,7 +2486,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 228011,
       "name": "krab",
       "url": "https://open.spotify.com/track/1xLA1bJCwPLTIZc3I43GgC"
@@ -2660,7 +2752,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 186887,
       "name": "Lawa",
       "url": "https://open.spotify.com/track/5ISbU3pNa6EHXGSj7qek7g"
@@ -2868,6 +2960,24 @@
       "duration_ms": 165981,
       "name": "lunatyk",
       "url": "https://open.spotify.com/track/3OHl5NxlMY31apXkHjWJHj"
+    },
+    {
+      "album": {
+        "name": "It\u2019s All About The Changes",
+        "url": "https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160002,
+      "name": "M&M\u2019s",
+      "url": "https://open.spotify.com/track/0V0odMIAaJA16UCtjlPGU0"
     },
     {
       "album": {
@@ -4354,7 +4464,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 267400,
       "name": "Ogie\u0144",
       "url": "https://open.spotify.com/track/0DueiPEzZh2I38v86gJzUd"
@@ -4514,6 +4624,28 @@
       "duration_ms": 215400,
       "name": "Ozdoba",
       "url": "https://open.spotify.com/track/32GWeHkDUF3PhWPM1U1DuX"
+    },
+    {
+      "album": {
+        "name": "Pachniesz tak \u0142adnie",
+        "url": "https://open.spotify.com/album/6GtvvrvHkPoJ8IE422UDqL"
+      },
+      "artists": [
+        {
+          "name": "Marysia Feduniewicz",
+          "url": "https://open.spotify.com/artist/75nt5r5M34TVEGjx3EHEMy"
+        },
+        {
+          "name": "beniaminjakub",
+          "url": "https://open.spotify.com/artist/5w0bUNzJKdtb0eRGW1weq1"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218775,
+      "name": "Pachniesz tak \u0142adnie",
+      "url": "https://open.spotify.com/track/2FUyuajU2ZYaDpxeMeXfOs"
     },
     {
       "album": {
@@ -6256,7 +6388,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 293746,
       "name": "Toru\u0144",
       "url": "https://open.spotify.com/track/3oKvNBUziRbUWpvS7vHJAy"
@@ -6488,6 +6620,24 @@
       "duration_ms": 125024,
       "name": "Ulubiony numer",
       "url": "https://open.spotify.com/track/1GOyySnPCpyXRGfILAoKkh"
+    },
+    {
+      "album": {
+        "name": "until seven",
+        "url": "https://open.spotify.com/album/1Q5HUUqJzuQAY7wqFNKbgj"
+      },
+      "artists": [
+        {
+          "name": "Maura Margol",
+          "url": "https://open.spotify.com/artist/0LP7cT2bJGCveprlbSA48j"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "until seven",
+      "url": "https://open.spotify.com/track/39MNGWEr0QsO1UQtAiCv2t"
     },
     {
       "album": {
@@ -6762,7 +6912,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 196383,
       "name": "Winogradzki",
       "url": "https://open.spotify.com/track/7wkzbnmpRNrVvj4HArHPES"
@@ -6828,7 +6978,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 198750,
       "name": "Wracam do lat",
       "url": "https://open.spotify.com/track/3eFYkEE0ULI91K9qrCslQ4"
@@ -7104,6 +7254,32 @@
       "duration_ms": 171235,
       "name": "zabierz mnie nad morze",
       "url": "https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP"
+    },
+    {
+      "album": {
+        "name": "Czas si\u0119 ba\u0107!",
+        "url": "https://open.spotify.com/album/0w9EUriZX10WQqy70TZ13F"
+      },
+      "artists": [
+        {
+          "name": "Ania Leon",
+          "url": "https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu"
+        },
+        {
+          "name": "Arek Kopera",
+          "url": "https://open.spotify.com/artist/70wQF5hZS0M1Rp6TpaXhVt"
+        },
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181413,
+      "name": "Zabij ze mn\u0105 czas",
+      "url": "https://open.spotify.com/track/2kqVXQ0xLYvkLUqgbBObHu"
     },
     {
       "album": {

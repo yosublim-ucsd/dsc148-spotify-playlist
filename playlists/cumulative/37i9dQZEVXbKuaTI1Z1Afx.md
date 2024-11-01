@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-3,209 songs - 7 day 2 hr 47 min
+3,210 songs - 7 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2308,6 +2308,7 @@
 | [Righteous](https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous](https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS) | 2:43 | 2022-09-15 | 2022-10-05 |
 | [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 | 2022-08-02 | 2022-08-31 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-21 | 2024-06-05 |
+| [Rock](https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf) | [Stepz](https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P) | [Rock](https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq) | 2:24 | 2024-10-31 |  |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-07-05 | 2022-09-10 |
 | [rockhardt](https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi) | [Carbon](https://open.spotify.com/artist/56yUYQQyWtboyoDEIEvN3J) | [rockhardt](https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc) | 2:38 | 2023-02-18 | 2023-03-22 |
 | [Rocking A Cardigan in Atlanta](https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Rocking A Cardigan in Atlanta](https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95) | 1:36 | 2022-02-22 | 2022-04-20 |
@@ -2815,7 +2816,7 @@
 | [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-03-28 | 2023-04-12 |
 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 | 2022-09-25 | 2022-10-19 |
 | [This Is Halloween](https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI) | [Disney Characters](https://open.spotify.com/artist/6utdPEv71mR0DnGp74cJIz) | [Nightmare Before Christmas](https://open.spotify.com/album/2qmppQg4IgJRMFbWuwQLw7) | 3:16 | 2022-10-02 | 2022-11-09 |
-| [This Is Halloween](https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3) | [The Citizens of Halloween](https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2) | [The Nightmare Before Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc) | 3:16 | 2023-10-07 |  |
+| [This Is Halloween](https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3) | [The Citizens of Halloween](https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2) | [The Nightmare Before Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc) | 3:16 | 2023-10-07 | 2024-11-01 |
 | [This Is Halloween \(Lofi Version\)](https://open.spotify.com/track/5m9eqzTz9amFIp47vVEYQB) | [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9) | [This Is Halloween \(Lofi Version\)](https://open.spotify.com/album/07ZYFghcReSm1Aek5an4mV) | 2:23 | 2023-11-01 | 2023-11-06 |
 | [This Is the Kingdom \(feat\. Pat Barrett\)](https://open.spotify.com/track/4q5a9GeLsC18tVDy40JxaM) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 9:57 | 2022-03-15 | 2022-03-17 |
 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-10-03 | 2023-10-25 |

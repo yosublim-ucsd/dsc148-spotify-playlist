@@ -2172,10 +2172,28 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 150909,
       "name": "You Make It Feel Like Christmas",
       "url": "https://open.spotify.com/track/1S898RKtAsU7ecZ8ODXtb5"
+    },
+    {
+      "album": {
+        "name": "You\u2019re Christmas To Me (From ''Your Christmas or Mine 2'')",
+        "url": "https://open.spotify.com/album/6oR1PfhkYOXPWcUoPBVFqV"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213664,
+      "name": "You\u2019re Christmas To Me",
+      "url": "https://open.spotify.com/track/0T42lRpdYKQBUoY2HpB8l5"
     }
   ],
   "url": "https://open.spotify.com/playlist/5OP7itTh52BMfZS1DJrdlv"

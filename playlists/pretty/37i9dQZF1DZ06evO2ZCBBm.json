@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 46462,
+  "num_followers": 46465,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADHimcOuNJdXOXEFlmUWiWf",
+  "snapshot_id": "ZyF3AAAAAAB0fQQH/cqo4IckKA6azGgl",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 224000,
       "name": "Poetic Tragedy",
       "url": "https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Listening",
-      "url": "https://open.spotify.com/track/528rajP3OyhornDwrsQrt4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 163333,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "Listening",
+      "url": "https://open.spotify.com/track/528rajP3OyhornDwrsQrt4"
     },
     {
       "added_at": null,
@@ -416,25 +416,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 179147,
-      "name": "Sisyphus",
-      "url": "https://open.spotify.com/track/0oF3vyPF4KSwfc1tv8n3Hc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "I'm a Fake",
-      "url": "https://open.spotify.com/track/5li1sKlA0UhTk2rY0JIVUv"
+      "duration_ms": 183044,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
     },
     {
       "added_at": null,
@@ -451,6 +435,22 @@
       "duration_ms": 190222,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "I'm a Fake",
+      "url": "https://open.spotify.com/track/5li1sKlA0UhTk2rY0JIVUv"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 183044,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
+      "duration_ms": 179147,
+      "name": "Sisyphus",
+      "url": "https://open.spotify.com/track/0oF3vyPF4KSwfc1tv8n3Hc"
     },
     {
       "added_at": null,

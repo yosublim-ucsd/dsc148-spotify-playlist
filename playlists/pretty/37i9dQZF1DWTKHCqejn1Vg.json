@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 32676,
+  "num_followers": 32679,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-10-27 13:02:19",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 201510,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
-    },
-    {
-      "added_at": "2024-10-27 13:02:19",
-      "album": {
         "name": "INVITATION (Feat. Gaeko)",
         "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 191359,
       "name": "INVITATION (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
+    },
+    {
+      "added_at": "2024-10-27 13:02:19",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 201510,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
     },
     {
       "added_at": "2024-10-27 13:02:19",
@@ -102,11 +102,15 @@
         {
           "name": "DEAN",
           "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 207129,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
+      "duration_ms": 211972,
+      "name": "\ud480\uc5b4",
+      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
     },
     {
       "added_at": "2024-10-27 13:02:19",
@@ -278,15 +282,11 @@
         {
           "name": "DEAN",
           "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 211972,
-      "name": "\ud480\uc5b4",
-      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
+      "duration_ms": 207129,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
     },
     {
       "added_at": "2024-10-27 13:02:19",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-10-27 13:02:19",
       "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "In the Blur of the Rain",
-      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
-    },
-    {
-      "added_at": "2024-10-27 13:02:19",
-      "album": {
         "name": "Not my fault",
         "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 214319,
       "name": "I wonder (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
+    },
+    {
+      "added_at": "2024-10-27 13:02:19",
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "In the Blur of the Rain",
+      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
     },
     {
       "added_at": "2024-10-27 13:02:19",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-10-27 13:02:19",
       "album": {
-        "name": "savage",
-        "url": "https://open.spotify.com/album/6VmdIvbJsb9ScZHox6jzoW"
-      },
-      "artists": [
-        {
-          "name": "DPR CREAM",
-          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "savage",
-      "url": "https://open.spotify.com/track/14XHyR5B6XdSC80chxBajM"
-    },
-    {
-      "added_at": "2024-10-27 13:02:19",
-      "album": {
         "name": "Honestly",
         "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 197013,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
+    },
+    {
+      "added_at": "2024-10-27 13:02:19",
+      "album": {
+        "name": "savage",
+        "url": "https://open.spotify.com/album/6VmdIvbJsb9ScZHox6jzoW"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "savage",
+      "url": "https://open.spotify.com/track/14XHyR5B6XdSC80chxBajM"
     },
     {
       "added_at": "2024-10-27 13:02:19",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-10-27 13:02:19",
       "album": {
-        "name": "What if we met at another place ?",
-        "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "What if we met at another place ?",
-      "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
-    },
-    {
-      "added_at": "2024-10-27 13:02:19",
-      "album": {
         "name": "Remained scent",
         "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 186755,
       "name": "Remained scent",
       "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
+    },
+    {
+      "added_at": "2024-10-27 13:02:19",
+      "album": {
+        "name": "What if we met at another place ?",
+        "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "What if we met at another place ?",
+      "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
     },
     {
       "added_at": "2024-10-27 13:02:19",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-27 13:02:19",
       "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Kurkdjian",
-      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
-    },
-    {
-      "added_at": "2024-10-27 13:02:19",
-      "album": {
         "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
         "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 176997,
       "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
       "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
+    },
+    {
+      "added_at": "2024-10-27 13:02:19",
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Kurkdjian",
+      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

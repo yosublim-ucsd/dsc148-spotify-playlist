@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 29228,
+  "num_followers": 29265,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2024-10-25 06:17:23",
       "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+    },
+    {
+      "added_at": "2024-10-25 06:17:23",
+      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 233240,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
-    },
-    {
-      "added_at": "2024-10-25 06:17:23",
-      "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "added_at": "2024-10-25 06:17:23",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-10-25 06:17:23",
       "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
-    },
-    {
-      "added_at": "2024-10-25 06:17:23",
-      "album": {
         "name": "Xin Mao",
         "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 143882,
       "name": "Maria",
       "url": "https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG"
+    },
+    {
+      "added_at": "2024-10-25 06:17:23",
+      "album": {
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2024-10-25 06:17:23",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-10-25 06:17:23",
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 160885,
-      "name": "Ilashe",
-      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
-    },
-    {
-      "added_at": "2024-10-25 06:17:23",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 186382,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+    },
+    {
+      "added_at": "2024-10-25 06:17:23",
+      "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 160885,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
     },
     {
       "added_at": "2024-10-25 06:17:23",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-10-25 06:17:23",
       "album": {
-        "name": "Hold You Down",
-        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 158069,
-      "name": "Hold You Down",
-      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
-    },
-    {
-      "added_at": "2024-10-25 06:17:23",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 160000,
       "name": "Romeo Must Die (RMD)",
       "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
+    },
+    {
+      "added_at": "2024-10-25 06:17:23",
+      "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
     },
     {
       "added_at": "2024-10-25 06:17:23",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2024-10-25 06:17:23",
       "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
+    },
+    {
+      "added_at": "2024-10-25 06:17:23",
+      "album": {
         "name": "Favourite Story",
         "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
-    },
-    {
-      "added_at": "2024-10-25 06:17:23",
-      "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 181764,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
     },
     {
       "added_at": "2024-10-25 06:17:23",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-10-25 06:17:23",
       "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
+    },
+    {
+      "added_at": "2024-10-25 06:17:23",
+      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 151462,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/58aqMiOHapRaGUdHnbeE1T"
-    },
-    {
-      "added_at": "2024-10-25 06:17:23",
-      "album": {
-        "name": "WITH YOU",
-        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "WITH YOU",
-      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
       "added_at": "2024-10-25 06:17:23",
@@ -1547,18 +1547,22 @@
     {
       "added_at": "2024-10-25 06:17:23",
       "album": {
-        "name": "Fire on Me",
-        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 134187,
-      "name": "Fire on Me",
-      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
     }
   ],
   "unique_name": "Afro Chill",

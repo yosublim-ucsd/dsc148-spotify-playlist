@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,552 likes - 25 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,555 likes - 25 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 |
-| 2 | [Goteras](https://open.spotify.com/track/4sykJxUsqdXZRqRv1J9fEQ) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Goteras](https://open.spotify.com/album/4mFVkQGAj9T2hyNoxHAcGw) | 3:36 |
-| 3 | [QUE LE DE](https://open.spotify.com/track/604IC2o3T3bxPu6C7Pimd7) | [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [QUE LE DE](https://open.spotify.com/album/2f9UrdMcXrlf6Sw9UOe2bx) | 2:45 |
+| 2 | [QUE LE DE](https://open.spotify.com/track/604IC2o3T3bxPu6C7Pimd7) | [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [QUE LE DE](https://open.spotify.com/album/2f9UrdMcXrlf6Sw9UOe2bx) | 2:45 |
+| 3 | [Goteras](https://open.spotify.com/track/4sykJxUsqdXZRqRv1J9fEQ) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Goteras](https://open.spotify.com/album/4mFVkQGAj9T2hyNoxHAcGw) | 3:36 |
 | 4 | [FRESITA](https://open.spotify.com/track/6hA12wp8wT93WpLwNYUmOq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:22 |
 | 5 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |
 | 6 | [Cosa De Locos](https://open.spotify.com/track/0X2S8zFvH2k84eQQCUPSeO) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 2:36 |

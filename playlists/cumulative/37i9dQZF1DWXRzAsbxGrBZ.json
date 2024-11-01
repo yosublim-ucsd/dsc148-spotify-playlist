@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Electro Candi 5, Pt. 2 (DJ Mix)",
+        "url": "https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA"
+      },
+      "artists": [
+        {
+          "name": "Avi Subban",
+          "url": "https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302562,
+      "name": "For Just A Moment - Mixed",
+      "url": "https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/4zmplDOrmI2HQafep28PVU"
       },
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 313440,
       "name": "King of Castles",
       "url": "https://open.spotify.com/track/5yK4SXGC0P5ak5kO4mj8cg"

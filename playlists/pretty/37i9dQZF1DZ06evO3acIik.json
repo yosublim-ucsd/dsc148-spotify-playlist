@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 59342,
+  "num_followers": 59349,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAACKxgsBHyTRwwx5+Tm3OuZ/",
+  "snapshot_id": "ZyF3AAAAAADmIcpo5+yrMTGVGKjnWdk1",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Did You Touch?",
-        "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 208732,
-      "name": "Who Did You Touch?",
-      "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call U Tomorrow",
         "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 186666,
       "name": "Call U Tomorrow",
       "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Did You Touch?",
+        "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 208732,
+      "name": "Who Did You Touch?",
+      "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As We Walk into Forever",
-        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 58000,
-      "name": "Downfalls",
-      "url": "https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Beautiful.",
         "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 182857,
       "name": "3:35am",
       "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 58000,
+      "name": "Downfalls",
+      "url": "https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 67171,
-      "name": "A Piece Called Butterflies.",
-      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show the Signs.",
         "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 181682,
       "name": "Show the Signs.",
       "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 67171,
+      "name": "A Piece Called Butterflies.",
+      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
     },
     {
       "added_at": null,

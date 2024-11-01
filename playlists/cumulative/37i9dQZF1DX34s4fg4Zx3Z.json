@@ -3840,7 +3840,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 231876,
       "name": "B\u00ean Chi\u1ec1u M\u01b0a Ph\u1ed1 N\u00fai",
       "url": "https://open.spotify.com/track/6NojHlB6cJ7oBPS3UDgiOn"
@@ -6168,7 +6168,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 250712,
       "name": "Ch\u1ea5p Nh\u1eadn",
       "url": "https://open.spotify.com/track/3pQjeWbArshjtwxVWE3gMY"
@@ -10527,6 +10527,28 @@
     },
     {
       "album": {
+        "name": "EM B\u00c9 V\u00d4 TRI",
+        "url": "https://open.spotify.com/album/2n3f1e3H9B9476RhyHpg6I"
+      },
+      "artists": [
+        {
+          "name": "Cassano",
+          "url": "https://open.spotify.com/artist/34xBbPMcvr4EInfpUB0NEo"
+        },
+        {
+          "name": "MPacific",
+          "url": "https://open.spotify.com/artist/14FD1l1CkUVp1VL4z77acy"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202234,
+      "name": "EM B\u00c9 V\u00d4 TRI",
+      "url": "https://open.spotify.com/track/47A9EtpQEOjWUVnW3izSk4"
+    },
+    {
+      "album": {
         "name": "Em Ch\u1eb3ng T\u00ecm Th\u1ea5y \u0110\u00e2u",
         "url": "https://open.spotify.com/album/6QCiBQt5Gys1Gs2bTDa5OL"
       },
@@ -11698,7 +11720,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 233379,
       "name": "FOOL",
       "url": "https://open.spotify.com/track/3mE1DrCMkxnugPTfSG6EEp"
@@ -14902,6 +14924,24 @@
       "duration_ms": 102594,
       "name": "In Love",
       "url": "https://open.spotify.com/track/7g0FcydJSMnypl6gXgcFGQ"
+    },
+    {
+      "album": {
+        "name": "In This Economy...?",
+        "url": "https://open.spotify.com/album/11jaCKgBtoAkEG6XY9aMfa"
+      },
+      "artists": [
+        {
+          "name": "Juliet By Night",
+          "url": "https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195273,
+      "name": "In This Economy...?",
+      "url": "https://open.spotify.com/track/0dtL93PqR6AsRb0eAsN7hE"
     },
     {
       "album": {
@@ -23184,7 +23224,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 190153,
       "name": "N\u00e9m Ly",
       "url": "https://open.spotify.com/track/7Id6K4erY1ZMMr3Tken6ei"
@@ -24726,7 +24766,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 170010,
       "name": "PH\u00d3NG NHANH",
       "url": "https://open.spotify.com/track/1RwPG7HPEkjNi5viPollXC"
@@ -26376,7 +26416,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 274000,
       "name": "SAU M\u00c0N M\u01afA",
       "url": "https://open.spotify.com/track/5sNT5ydSj5cWkbUUON6MSR"
@@ -26663,6 +26703,24 @@
     },
     {
       "album": {
+        "name": "recovery",
+        "url": "https://open.spotify.com/album/01JNWXXlaLWSUVG51WQvxd"
+      },
+      "artists": [
+        {
+          "name": "qt.",
+          "url": "https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "self-deprecating",
+      "url": "https://open.spotify.com/track/60GHevwK029aLvZOW1pNFP"
+    },
+    {
+      "album": {
         "name": "Shawty",
         "url": "https://open.spotify.com/album/2PCfspJQ8D7pQujbfqiCAq"
       },
@@ -26914,7 +26972,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 166500,
       "name": "SlowDance",
       "url": "https://open.spotify.com/track/0NZPgxRbKvELL4r6hYfNTg"
@@ -28318,6 +28376,24 @@
       "duration_ms": 172835,
       "name": "Tan Ra",
       "url": "https://open.spotify.com/track/4XnoMuBj41O64lftF4HgQ1"
+    },
+    {
+      "album": {
+        "name": "Tan T\u00e0nh",
+        "url": "https://open.spotify.com/album/3MBL9Qjh4POcTIZDhF5BYX"
+      },
+      "artists": [
+        {
+          "name": "\u00c2n Nhi",
+          "url": "https://open.spotify.com/artist/7zwJ09FAPbh7EJYvwEAqDD"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Tan T\u00e0nh",
+      "url": "https://open.spotify.com/track/2rl9sDroR81Nr5tr2YeoZX"
     },
     {
       "album": {
@@ -30118,7 +30194,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 178630,
       "name": "Trao C\u1ea3 \u0110\u1eddi Cho Anh",
       "url": "https://open.spotify.com/track/0AudNVX7cDNLoHPbTedEaU"
@@ -31985,6 +32061,28 @@
     },
     {
       "album": {
+        "name": "h\u00f4m \u1ea5y em ki\u1ec3u...",
+        "url": "https://open.spotify.com/album/6y0zlnn4PtQqeeMN1qyV4K"
+      },
+      "artists": [
+        {
+          "name": "Anzz",
+          "url": "https://open.spotify.com/artist/5y2RBcWcJfnvuoZ4OomdiO"
+        },
+        {
+          "name": "sh1r0",
+          "url": "https://open.spotify.com/artist/3tZdbAzoTh5F0F8mi72VD3"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "t\u1ea7n s\u1ed1",
+      "url": "https://open.spotify.com/track/0PxWlquX7IFnyY7X3TybIY"
+    },
+    {
+      "album": {
         "name": "T\u1eadp",
         "url": "https://open.spotify.com/album/7KsKh3iew0Wgz0mIrBDBPm"
       },
@@ -32309,6 +32407,24 @@
     },
     {
       "album": {
+        "name": "T\u1eeb T\u1eeb Th\u00f4i",
+        "url": "https://open.spotify.com/album/3W8FNwh1KMtNO95hILZRuP"
+      },
+      "artists": [
+        {
+          "name": "Keyo",
+          "url": "https://open.spotify.com/artist/3v51tz8QfvAyKbA6rE6kTm"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264406,
+      "name": "T\u1eeb T\u1eeb Th\u00f4i",
+      "url": "https://open.spotify.com/track/1mH4FG3sT2ih1TnMXtirUU"
+    },
+    {
+      "album": {
         "name": "T\u1eebng",
         "url": "https://open.spotify.com/album/7w2kW14HTO1vG6Wvy9hzJ5"
       },
@@ -32532,6 +32648,28 @@
       "duration_ms": 182857,
       "name": "Ulala (feat. T.R.I)",
       "url": "https://open.spotify.com/track/1RV2oiNHqagcwOAvLN9qeX"
+    },
+    {
+      "album": {
+        "name": "uocgicoaynoiyeutoi (w1bi Remix)",
+        "url": "https://open.spotify.com/album/2Is9iclR9GU7FB6vRucq79"
+      },
+      "artists": [
+        {
+          "name": "w1bi",
+          "url": "https://open.spotify.com/artist/4nstWR7lu0hmAixmpM3Soh"
+        },
+        {
+          "name": "Lil Liem",
+          "url": "https://open.spotify.com/artist/5WtJZwEnoNM2Te1jh6Uftx"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226005,
+      "name": "uocgicoaynoiyeutoi - w1bi Remix",
+      "url": "https://open.spotify.com/track/1lJIqkWldq8GQ2HX38epAJ"
     },
     {
       "album": {
@@ -33954,6 +34092,24 @@
       "duration_ms": 261333,
       "name": "V\u1ec7t N\u1eafng Nh\u1ea1t Phai",
       "url": "https://open.spotify.com/track/4mZzqlaG67gUD0lAQIEVMs"
+    },
+    {
+      "album": {
+        "name": "V\u1ecb Kh\u00e1ch \u0110\u1eb7c Bi\u1ec7t",
+        "url": "https://open.spotify.com/album/4QllSjkehgqy230enDuWlA"
+      },
+      "artists": [
+        {
+          "name": "L\u1eadp Nguy\u00ean",
+          "url": "https://open.spotify.com/artist/3ymuVFLSS5P2PCK5aOmhEB"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336528,
+      "name": "V\u1ecb Kh\u00e1ch \u0110\u1eb7c Bi\u1ec7t",
+      "url": "https://open.spotify.com/track/3mEY8ZLOVipuWGFrWn9Zcy"
     },
     {
       "album": {
@@ -36342,7 +36498,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 207874,
       "name": "\u0110\u00e1nh C\u1edd",
       "url": "https://open.spotify.com/track/3nsBcvvdirVQzLQQtQ6pAM"

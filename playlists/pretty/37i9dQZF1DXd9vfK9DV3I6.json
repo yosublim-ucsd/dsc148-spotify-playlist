@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 339599,
+  "num_followers": 339718,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "Portrait of the Obscure",
+        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 258137,
+      "name": "Pulse Antique",
+      "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "Lamouni",
         "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 217647,
       "name": "Lamouni",
       "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "Portrait of the Obscure",
-        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 258137,
-      "name": "Pulse Antique",
-      "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "Viraha",
+        "url": "https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        }
+      ],
+      "duration_ms": 171534,
+      "name": "Viraha",
+      "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "La rose \u00e9ternelle",
         "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
       },
@@ -1079,18 +1095,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Viraha",
-        "url": "https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT"
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
       "artists": [
         {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
+        },
+        {
+          "name": "DJ Pantelis",
+          "url": "https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ"
         }
       ],
-      "duration_ms": 171534,
-      "name": "Viraha",
-      "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"
+      "duration_ms": 334889,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1115,26 +1135,6 @@
       "duration_ms": 97636,
       "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
       "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "DJ Pantelis",
-          "url": "https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ"
-        }
-      ],
-      "duration_ms": 334889,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "Yaman",
         "url": "https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO"
       },
@@ -1867,26 +1887,6 @@
       "duration_ms": 293694,
       "name": "Yaman - Radio Edit",
       "url": "https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
-      },
-      "artists": [
-        {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
-        }
-      ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2024-09-14 18:17:38",

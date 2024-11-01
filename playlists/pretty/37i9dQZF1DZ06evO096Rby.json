@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 36896,
+  "num_followers": 36915,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAACjgYn4b+3yruxuitbet4L2",
+  "snapshot_id": "ZyF3AAAAAABG7pfHt5COFHrn8kq7U16w",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/2UOliGFIZuENZphbgPohpN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 165447,
       "name": "De Fresa y Coco",
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/2UOliGFIZuENZphbgPohpN"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 224378,
-      "name": "Hermosura de Mujer",
-      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Compre Casa A Mi Ama",
         "url": "https://open.spotify.com/album/755inNisuJlbtx4Q2jNl1D"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 204437,
       "name": "Le Compre Casa A Mi Ama",
       "url": "https://open.spotify.com/track/7JhvxJMvAEuwfVnA64DG7E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 224378,
+      "name": "Hermosura de Mujer",
+      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La N\u00famero 20 (En Vivo)",
-        "url": "https://open.spotify.com/album/4apHcPQV70jZg475MOOh9B"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 190708,
-      "name": "La N\u00famero 20 - En Vivo",
-      "url": "https://open.spotify.com/track/7IgCrY5WUgwzL2MxUzzLTF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602 Vol.3 (En Vivo)",
         "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 201258,
       "name": "Sentimientos De Carton - En Vivo",
       "url": "https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La N\u00famero 20 (En Vivo)",
+        "url": "https://open.spotify.com/album/4apHcPQV70jZg475MOOh9B"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 190708,
+      "name": "La N\u00famero 20 - En Vivo",
+      "url": "https://open.spotify.com/track/7IgCrY5WUgwzL2MxUzzLTF"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Botecitos",
-        "url": "https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 188138,
-      "name": "Botecitos",
-      "url": "https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Humo De Mi Gallo",
         "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
       },
@@ -591,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Botecitos",
+        "url": "https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 188138,
+      "name": "Botecitos",
+      "url": "https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba Guasave (Chapito Isidro)",
         "url": "https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn"
       },
@@ -607,30 +607,6 @@
       "duration_ms": 171200,
       "name": "Arriba Guasave (Chapito Isidro)",
       "url": "https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirame (feat. Blessd) [Remix]",
-        "url": "https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 193605,
-      "name": "Mirame (feat. Blessd) - Remix",
-      "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
     },
     {
       "added_at": null,
@@ -667,6 +643,30 @@
       "duration_ms": 171430,
       "name": "Me Cambio la Suerte",
       "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirame (feat. Blessd) [Remix]",
+        "url": "https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 193605,
+      "name": "Mirame (feat. Blessd) - Remix",
+      "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
     },
     {
       "added_at": null,
@@ -799,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Markitos",
-        "url": "https://open.spotify.com/album/23ZizR7IzKbnUiSY8SFydc"
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
       },
       "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 183000,
-      "name": "El Markitos",
-      "url": "https://open.spotify.com/track/6EFA7pX5OhKgyzoDqfHUrD"
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
     },
     {
       "added_at": null,
@@ -835,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Markitos",
+        "url": "https://open.spotify.com/album/23ZizR7IzKbnUiSY8SFydc"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "El Markitos",
+      "url": "https://open.spotify.com/track/6EFA7pX5OhKgyzoDqfHUrD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tolin Infante",
         "url": "https://open.spotify.com/album/6HEx9gAGWZrM78VgZcZcEz"
       },
@@ -847,54 +863,6 @@
       "duration_ms": 206573,
       "name": "Tolin Infante",
       "url": "https://open.spotify.com/track/6DC6QEVWPrSzu1VWuEPg9E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Fruta Prohibida - En Vivo",
-      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bailemos Bebe",
-        "url": "https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 157589,
-      "name": "No Me Trates De Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Golpe De Suerte",
-      "url": "https://open.spotify.com/track/3fLlygEeJBcDW1kPxCAIVp"
     },
     {
       "added_at": null,
@@ -915,6 +883,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Golpe De Suerte",
+      "url": "https://open.spotify.com/track/3fLlygEeJBcDW1kPxCAIVp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailemos Bebe",
+        "url": "https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 157589,
+      "name": "No Me Trates De Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde Culiacan (En Vivo)",
         "url": "https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z"
       },
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailemos Bebe",
-        "url": "https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe"
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 293412,
-      "name": "Micaela / La Mar\u00eda",
-      "url": "https://open.spotify.com/track/58UuKulvF6CYIoFXxh9joZ"
+      "duration_ms": 151927,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/2RLhyFesIfIj1I6oNVBqc2"
     },
     {
       "added_at": null,

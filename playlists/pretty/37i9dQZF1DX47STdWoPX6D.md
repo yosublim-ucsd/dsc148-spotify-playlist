@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: <a href="spotify:artist:7r3HxO330lmabOprT2MMFK">Aklesso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,982 likes - 118 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,998 likes - 118 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 3 | [33024](https://open.spotify.com/track/6j6Ls5RcvMPfDHvgGX8CZI) | [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [33024](https://open.spotify.com/album/6qXjfDCXFah9IDhWuFQpGY) | 2:41 |
 | 4 | [Holy Stepper](https://open.spotify.com/track/4zfn2LNoR0fI0OEhGkLufZ) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Christ Jr](https://open.spotify.com/artist/0K6nL5WlOn54yzjNE0Erho), [Key'ijah](https://open.spotify.com/artist/5bLqm0pB0l0J5hRMXajA0S) | [Holy Stepper](https://open.spotify.com/album/5dXbDmEv5lcmuCBRJ3S8VS) | 2:14 |
 | 5 | [YAHWEH](https://open.spotify.com/track/2X8by6m44p9dpivzyzB14p) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Anike](https://open.spotify.com/album/6PzZRVqEuFrt2U6f5j4yEf) | 2:49 |
-| 6 | [CHECK](https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK) | [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh), [KB](https://open.spotify.com/artist/0OCXDPJfXimosx1KgjGDcZ), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [CHECK](https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN) | 3:27 |
+| 6 | [CHECK](https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK) | [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [CHECK](https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN) | 3:27 |
 | 7 | [UNBROKEN](https://open.spotify.com/track/1njd3FIbMLMlAxg2w6itGD) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV), [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3) | [UNBROKEN](https://open.spotify.com/album/5sEgDPPQvMeLjDGC9xN1ve) | 3:24 |
 | 8 | [GET UP \(feat\. Chuck Acid\)](https://open.spotify.com/track/7q3vxlgVfZfJYzMWAPpZAF) | [Bachi](https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK), [Chuck Acid](https://open.spotify.com/artist/6o9wQiCJvuOnTi2RrtuuQT) | [GET UP](https://open.spotify.com/album/5aD0Jz2J2uCw6TtS3ELBvq) | 3:13 |
 | 9 | [Lift Me Up](https://open.spotify.com/track/4xUDszyCWEhPuPirI5En4i) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Lift Me Up](https://open.spotify.com/album/5GCKHk3cTg1rqLRyXWLDeE) | 3:30 |

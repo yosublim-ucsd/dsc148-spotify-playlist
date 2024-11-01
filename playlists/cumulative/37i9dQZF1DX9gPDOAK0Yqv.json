@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Are We Truly Free?",
+        "url": "https://open.spotify.com/album/1L0FGABuXR9XRQiducXXps"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216850,
+      "name": "Are We Truly Free?",
+      "url": "https://open.spotify.com/track/1Bkckgr1RGncOvWDn5Ar3h"
+    },
+    {
+      "album": {
         "name": "Aria",
         "url": "https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA"
       },
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 398268,
       "name": "Devon - Oliver Huntemann Remix",
       "url": "https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT"
@@ -3598,7 +3616,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 197777,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/4ym9Ti3UWOduBs7eh2KaCG"
@@ -6722,7 +6740,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 208780,
       "name": "March Of Avalon",
       "url": "https://open.spotify.com/track/34c8sV0uwzssoKjOskYMNn"
@@ -9236,7 +9254,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 222594,
       "name": "Ringo - Miss Monique Remix",
       "url": "https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c"
@@ -9294,6 +9312,32 @@
       "duration_ms": 292173,
       "name": "Ritam",
       "url": "https://open.spotify.com/track/3d8JQ8JJEi97aKzWq4BtlF"
+    },
+    {
+      "album": {
+        "name": "RITMO",
+        "url": "https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193700,
+      "name": "RITMO",
+      "url": "https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A"
     },
     {
       "album": {
@@ -12434,6 +12478,32 @@
       "duration_ms": 399344,
       "name": "We Are Built - Jos & Eli Remix",
       "url": "https://open.spotify.com/track/5WGDvD7AaHa8bBC6FjYR5I"
+    },
+    {
+      "album": {
+        "name": "We Could Be Love (Fideles Remix)",
+        "url": "https://open.spotify.com/album/01xJ35jICIiL62F2VT1f0a"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297002,
+      "name": "We Could Be Love (Fideles Remix)",
+      "url": "https://open.spotify.com/track/6u4O8qYi83mw1ECH8UkDjD"
     },
     {
       "album": {

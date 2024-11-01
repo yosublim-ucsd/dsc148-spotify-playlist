@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ROSÉ & Bruno Mars
 
-1,254 songs - 2 day 19 hr 20 min
+1,255 songs - 2 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,7 @@
 | [Good & Great](https://open.spotify.com/track/51oDOYN8AOyzvOpcvRGyI8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Good & Great \- The 2nd Mini Album](https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo) | 3:19 | 2023-09-11 | 2023-10-31 |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 | 2022-09-05 |
 | [Good Boy Gone Bad \- Japanese Ver.](https://open.spotify.com/track/1n52exGqPZkKBItLYxMksJ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [GOOD BOY GONE BAD](https://open.spotify.com/album/0nTPrUjlLwEJD6Fdw2GGoU) | 3:12 | 2022-08-30 | 2022-11-30 |
-| [GOOD DAY](https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:52 | 2024-07-09 |  |
+| [GOOD DAY](https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:52 | 2024-07-09 | 2024-11-01 |
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-01-15 | 2024-03-20 |
 | [GOOD SO BAD](https://open.spotify.com/track/34sW3HrJsxAmbNqlmSoYvu) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/09aNJ7OE6uiKnBZuXFigIn) | 2:57 | 2024-08-26 | 2024-09-20 |
 | [GOOD SO BAD \- Japanese ver.](https://open.spotify.com/track/5wc3JZS10SM1JoCv13Fr5Y) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [GOOD SO BAD \- Japanese ver.](https://open.spotify.com/album/6s37gVR5yCdHFJfLbpkmBh) | 2:57 | 2024-08-29 | 2024-10-11 |
@@ -797,6 +797,7 @@
 | [POPPIA \- JAPAN Version](https://open.spotify.com/track/1d9fga0Ha7IqNrBw3v9wgL) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg), [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [KCON 2022 JAPAN SIGNATURE SONG](https://open.spotify.com/album/5RY88Gsbp69OlLArBDDGgo) | 3:13 | 2022-10-13 | 2022-12-22 |
 | [Poppy \(Korean Ver.\)](https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Poppy \(Korean Ver.\)](https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu) | 2:58 | 2023-02-02 | 2023-03-15 |
 | [POPPY \- Japanese Ver.](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) | 2:59 | 2022-11-15 | 2023-02-15 |
+| [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-10-31 |  |
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-22 | 2023-01-18 |
 | [PRIMROSE](https://open.spotify.com/track/75uoSZNM8jX7p1Uyj4m3zT) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [RED MOON](https://open.spotify.com/album/44bwRjSjY6otPdQDMNWTey) | 3:38 | 2023-01-12 | 2023-03-08 |
 | [prologue～the deepest blue](https://open.spotify.com/track/6ge4uZOlJSWLGi5phzC4Qx) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [prologue～the deepest blue](https://open.spotify.com/album/2VTQSXk3clYbVD434fLVZn) | 1:41 | 2024-09-03 | 2024-09-20 |

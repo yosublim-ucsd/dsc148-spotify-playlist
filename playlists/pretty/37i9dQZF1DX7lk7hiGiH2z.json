@@ -1,6 +1,6 @@
 {
   "description": "S\u00fc\u00dfes sonst gibt's Saures! \ud83c\udf83",
-  "num_followers": 46522,
+  "num_followers": 47157,
   "original_name": "Familienzeit: Halloween",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2024-10-25 10:11:33",
       "album": {
-        "name": "Monstertanz",
-        "url": "https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ"
-      },
-      "artists": [
-        {
-          "name": "Piano Papa",
-          "url": "https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4"
-        },
-        {
-          "name": "Mama Sandy",
-          "url": "https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS"
-        }
-      ],
-      "duration_ms": 126875,
-      "name": "Monstertanz",
-      "url": "https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs"
-    },
-    {
-      "added_at": "2024-10-25 10:11:33",
-      "album": {
         "name": "Tanzfieber!",
         "url": "https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2"
       },
@@ -523,18 +503,22 @@
     {
       "added_at": "2024-10-25 10:11:33",
       "album": {
-        "name": "Fledi Fledermaus",
-        "url": "https://open.spotify.com/album/0jMoqZWYYp6zfdeRbp2p4M"
+        "name": "Monstertanz",
+        "url": "https://open.spotify.com/album/3twhnm7rZiF2kOiqW01zyZ"
       },
       "artists": [
         {
-          "name": "Hurra Kinderlieder",
-          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
+          "name": "Piano Papa",
+          "url": "https://open.spotify.com/artist/3Xd05Lsm0o1YdsrYJ3yio4"
+        },
+        {
+          "name": "Mama Sandy",
+          "url": "https://open.spotify.com/artist/2TCzYLwdBFfM057skRovHS"
         }
       ],
-      "duration_ms": 132699,
-      "name": "Fledi Fledermaus",
-      "url": "https://open.spotify.com/track/5vVnQ1jVM6COKY6NunH6xr"
+      "duration_ms": 126875,
+      "name": "Monstertanz",
+      "url": "https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs"
     },
     {
       "added_at": "2024-10-25 10:11:33",
@@ -551,6 +535,22 @@
       "duration_ms": 182173,
       "name": "Gespenster und Vampire",
       "url": "https://open.spotify.com/track/4EWFa6k3VJgBjhvKu3nsdK"
+    },
+    {
+      "added_at": "2024-10-25 10:11:33",
+      "album": {
+        "name": "Fledi Fledermaus",
+        "url": "https://open.spotify.com/album/0jMoqZWYYp6zfdeRbp2p4M"
+      },
+      "artists": [
+        {
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
+        }
+      ],
+      "duration_ms": 132699,
+      "name": "Fledi Fledermaus",
+      "url": "https://open.spotify.com/track/5vVnQ1jVM6COKY6NunH6xr"
     },
     {
       "added_at": "2024-10-25 10:11:33",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-10-25 10:11:33",
       "album": {
-        "name": "Eule findet den Beat - mit Gef\u00fchl (Musik-H\u00f6rspiel)",
-        "url": "https://open.spotify.com/album/0sBR6VO3ZRvqvrxhBPDECl"
-      },
-      "artists": [
-        {
-          "name": "Eule",
-          "url": "https://open.spotify.com/artist/59bf2D81aHzl0ot28xzQbk"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Keine Angst vor Monstern",
-      "url": "https://open.spotify.com/track/45VpJjQftkR3oLJvMQJkKp"
-    },
-    {
-      "added_at": "2024-10-25 10:11:33",
-      "album": {
         "name": "Paranormal",
         "url": "https://open.spotify.com/album/7p7huTAyXP2i2WdfyB32rB"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 252869,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/6dmdfDexEUn0aSPgZQLbrv"
+    },
+    {
+      "added_at": "2024-10-25 10:11:33",
+      "album": {
+        "name": "Eule findet den Beat - mit Gef\u00fchl (Musik-H\u00f6rspiel)",
+        "url": "https://open.spotify.com/album/0sBR6VO3ZRvqvrxhBPDECl"
+      },
+      "artists": [
+        {
+          "name": "Eule",
+          "url": "https://open.spotify.com/artist/59bf2D81aHzl0ot28xzQbk"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Keine Angst vor Monstern",
+      "url": "https://open.spotify.com/track/45VpJjQftkR3oLJvMQJkKp"
     },
     {
       "added_at": "2024-10-25 10:11:33",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-10-25 10:11:33",
       "album": {
-        "name": "Kinder M\u00e4use Monster Party",
-        "url": "https://open.spotify.com/album/3kQzllISQiYBuEKfBKmQmD"
-      },
-      "artists": [
-        {
-          "name": "Hurra Kinderlieder",
-          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
-        }
-      ],
-      "duration_ms": 133774,
-      "name": "Kinder M\u00e4use Monster Party",
-      "url": "https://open.spotify.com/track/1tBU646XvprtvmJdqblhYN"
-    },
-    {
-      "added_at": "2024-10-25 10:11:33",
-      "album": {
         "name": "Gorilla Club 1-2-3-4!",
         "url": "https://open.spotify.com/album/7qsecPhwdbB236OPCRcS36"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 164053,
       "name": "Monster & Zombies (mit Junge)",
       "url": "https://open.spotify.com/track/3GavNDotWsTxNMJ2Sd8nV5"
+    },
+    {
+      "added_at": "2024-10-25 10:11:33",
+      "album": {
+        "name": "Kinder M\u00e4use Monster Party",
+        "url": "https://open.spotify.com/album/3kQzllISQiYBuEKfBKmQmD"
+      },
+      "artists": [
+        {
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
+        }
+      ],
+      "duration_ms": 133774,
+      "name": "Kinder M\u00e4use Monster Party",
+      "url": "https://open.spotify.com/track/1tBU646XvprtvmJdqblhYN"
     },
     {
       "added_at": "2024-10-25 10:11:33",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-10-25 10:11:33",
       "album": {
-        "name": "ertappt",
-        "url": "https://open.spotify.com/album/1PGo84U9SPdOiHJVTlgciU"
-      },
-      "artists": [
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte"
-        }
-      ],
-      "duration_ms": 150093,
-      "name": "Monsterparty",
-      "url": "https://open.spotify.com/track/0EBbhEhkxnz4Wvy7A5RP2c"
-    },
-    {
-      "added_at": "2024-10-25 10:11:33",
-      "album": {
         "name": "Nena Und Die Bambus B\u00e4ren Bande",
         "url": "https://open.spotify.com/album/5zMipqCNwLqTYXMSo3qJpa"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 162826,
       "name": "Wenn die Flederm\u00e4use tanzen",
       "url": "https://open.spotify.com/track/4MeA9SGzhfPXmwYOJGolZo"
+    },
+    {
+      "added_at": "2024-10-25 10:11:33",
+      "album": {
+        "name": "ertappt",
+        "url": "https://open.spotify.com/album/1PGo84U9SPdOiHJVTlgciU"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "Monsterparty",
+      "url": "https://open.spotify.com/track/0EBbhEhkxnz4Wvy7A5RP2c"
     },
     {
       "added_at": "2024-10-25 10:11:33",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-10-25 10:11:33",
       "album": {
-        "name": "Und die Traummonster (Das Liederalbum zum Kinofilm)",
-        "url": "https://open.spotify.com/album/5rOYhAMUVFcoQSSRvhzEGe"
-      },
-      "artists": [
-        {
-          "name": "Lauras Stern",
-          "url": "https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Monster sind furchtbar",
-      "url": "https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9"
-    },
-    {
-      "added_at": "2024-10-25 10:11:33",
-      "album": {
         "name": "Wir tanzen mit den Drachen im Wind (Lieder, Geschichten und Gedichte zur Herbstzeit)",
         "url": "https://open.spotify.com/album/1q5GB9X82GVAQTrTYVghkU"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 133593,
       "name": "Halloweenparty im Kinderhaus",
       "url": "https://open.spotify.com/track/1YfNhJPhbmjhYsAfWU580m"
+    },
+    {
+      "added_at": "2024-10-25 10:11:33",
+      "album": {
+        "name": "Und die Traummonster (Das Liederalbum zum Kinofilm)",
+        "url": "https://open.spotify.com/album/5rOYhAMUVFcoQSSRvhzEGe"
+      },
+      "artists": [
+        {
+          "name": "Lauras Stern",
+          "url": "https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Monster sind furchtbar",
+      "url": "https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9"
     },
     {
       "added_at": "2024-10-25 10:11:33",

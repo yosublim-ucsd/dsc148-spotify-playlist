@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: ROSÉ & Bruno Mars
+> Найпопулярніші пісні сьогодення\. Обкладинка: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,628 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,656 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Не лякай](https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ) | [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Не лякай](https://open.spotify.com/album/24wMgJBKYxWz1cSScyEBiz) | 2:54 |
+| 1 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 |
 | 2 | [Як ніколи](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Той день](https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo) | 4:30 |
-| 3 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
+| 3 | [Не лякай](https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ) | [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Не лякай](https://open.spotify.com/album/24wMgJBKYxWz1cSScyEBiz) | 2:54 |
 | 4 | [Обиратиму себе](https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ) | [MÉLOVIN](https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL), [iSKra](https://open.spotify.com/artist/2eaguEJBVEQVZhim3JryHD) | [Обиратиму себе](https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm) | 3:12 |
-| 5 | [Забий](https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Забий](https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM) | 3:14 |
+| 5 | [Нагадай](https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [Нагадай](https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt) | 2:32 |
 | 6 | [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 |
-| 7 | [А що?](https://open.spotify.com/track/12TC6zACzfx6ey8ZAP6R3y) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [А що?](https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8) | 3:17 |
-| 8 | [Нагадай](https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [Нагадай](https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt) | 2:32 |
+| 7 | [Забий](https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Забий](https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM) | 3:14 |
+| 8 | [А що?](https://open.spotify.com/track/12TC6zACzfx6ey8ZAP6R3y) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [А що?](https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8) | 3:17 |
 | 9 | [Гаї шумлять \(1913\)](https://open.spotify.com/track/4bZDub9rMMoJqyLHSlZUgu) | [Пиріг і Батіг](https://open.spotify.com/artist/72WPri6uCSfr6l9WdgZ2D6) | [Поетичний](https://open.spotify.com/album/1kMqjTYQPAw2fTDdmCIY72) | 2:13 |
-| 10 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 |
+| 10 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 11 | [Їде дах](https://open.spotify.com/track/2awFo9jQcidgVrB356zOMz) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [Їде дах](https://open.spotify.com/album/3go15TWuiVm7lz3tDYHOcw) | 3:00 |
 | 12 | [Барабан](https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Барабан](https://open.spotify.com/album/1iemYoEiON96kgPkMXuLqF) | 3:10 |
 | 13 | [Ендорфін](https://open.spotify.com/track/70UqjNucXs25xQMojfHZKO) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Ендорфін](https://open.spotify.com/album/1pmVMeRAhWNmPTRYDy7X1d) | 2:32 |
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 27 | [А я все плакала](https://open.spotify.com/track/6gYFTv081r8gQaC19iiszf) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [LEBIGA](https://open.spotify.com/artist/5QFYXpPnIZPu2OSD9n8BVN) | [А я все плакала](https://open.spotify.com/album/5SBkXFqymV5QTNBWbozv0z) | 2:30 |
 | 28 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
 | 29 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
-| 30 | [Я тобі брехала](https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Я тобі брехала](https://open.spotify.com/album/4OIPWSye1kYzd9KnD0NMfs) | 2:17 |
-| 31 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
+| 30 | [я не прийду](https://open.spotify.com/track/05QSXEQXXqyF1Oa7cN2pKX) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [я не прийду](https://open.spotify.com/album/3Yb45auFxqKwbc4qzL3Fh3) | 3:15 |
+| 31 | [Я тобі брехала](https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Я тобі брехала](https://open.spotify.com/album/4OIPWSye1kYzd9KnD0NMfs) | 2:17 |
 | 32 | [Відриваючись](https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Відриваючись](https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g) | 2:29 |
 | 33 | [Спалахи](https://open.spotify.com/track/6sVoLpo3i7p2WCaU3bpvpF) | [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Спалахи](https://open.spotify.com/album/4DgFv3Bs9zX3QhK7iaKD1d) | 2:11 |
 | 34 | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/track/4IXr5Feku5VAryvp1QFEpB) | [Мюслі UA](https://open.spotify.com/artist/2QlTrbyPWbGWNmeDCp7QNR), [MISHA SCORPION](https://open.spotify.com/artist/7qUUu0SIH6JhGNSM1QwJsE) | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/album/6jyifzmU6bzMY15qfCRyUj) | 2:50 |
-| 35 | [я не прийду](https://open.spotify.com/track/05QSXEQXXqyF1Oa7cN2pKX) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [я не прийду](https://open.spotify.com/album/3Yb45auFxqKwbc4qzL3Fh3) | 3:15 |
-| 36 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
-| 37 | [Хай пишуть](https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хай пишуть](https://open.spotify.com/album/5T3DYiV80d2Z21sNOdncwV) | 2:42 |
+| 35 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
+| 36 | [Хай пишуть](https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хай пишуть](https://open.spotify.com/album/5T3DYiV80d2Z21sNOdncwV) | 2:42 |
+| 37 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 38 | [Якби не ти](https://open.spotify.com/track/3uDigmZFnHh4SOb4MizSOc) | [Максим Бородін](https://open.spotify.com/artist/3b1ptNUGXbqu28JMv7YDBV) | [Якби не ти](https://open.spotify.com/album/2xr3sybUBcH1x90JAoo3uB) | 2:48 |
 | 39 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 |
 | 40 | [Знайди мене](https://open.spotify.com/track/2xmQMKTjiOdkdGVgqDzezo) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 49 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
 | 50 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 
-Snapshot ID: `Zx82cAAAAADPdRzYf8OyziBXjPZa6zZp`
+Snapshot ID: `ZyP94AAAAADt4LILUCE++VrfBmtOJZJu`

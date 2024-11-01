@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 479821,
+  "num_followers": 479935,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -821,26 +821,6 @@
       "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
     },
     {
-      "added_at": "2024-07-09 04:30:16",
-      "album": {
-        "name": "In The Half Light",
-        "url": "https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL"
-      },
-      "artists": [
-        {
-          "name": "Swim Surreal",
-          "url": "https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B"
-        },
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
-    },
-    {
       "added_at": "2021-10-28 19:01:32",
       "album": {
         "name": "Time to Melt",
@@ -859,6 +839,26 @@
       "duration_ms": 258026,
       "name": "Dream Free",
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+    },
+    {
+      "added_at": "2024-07-09 04:30:16",
+      "album": {
+        "name": "In The Half Light",
+        "url": "https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL"
+      },
+      "artists": [
+        {
+          "name": "Swim Surreal",
+          "url": "https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B"
+        },
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
     },
     {
       "added_at": "2022-09-29 00:10:44",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
     },
     {
-      "added_at": "2024-04-18 18:10:45",
-      "album": {
-        "name": "PHASOR",
-        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 224845,
-      "name": "Colores Del Mar",
-      "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
-    },
-    {
       "added_at": "2022-09-09 13:33:50",
       "album": {
         "name": "Look To Him",
@@ -987,6 +971,22 @@
       "duration_ms": 251533,
       "name": "Look To Him",
       "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
+    },
+    {
+      "added_at": "2024-04-18 18:10:45",
+      "album": {
+        "name": "PHASOR",
+        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 224845,
+      "name": "Colores Del Mar",
+      "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1089,6 +1089,22 @@
       "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
     },
     {
+      "added_at": "2023-12-20 03:34:06",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Run A Red Light",
+      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
+    },
+    {
       "added_at": "2023-01-04 01:09:50",
       "album": {
         "name": "20 Years Dope Noir - Oranje Album",
@@ -1111,22 +1127,6 @@
       "duration_ms": 185250,
       "name": "The Moon Above",
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
-    },
-    {
-      "added_at": "2023-12-20 03:34:06",
-      "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Run A Red Light",
-      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1209,20 +1209,20 @@
       "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
     },
     {
-      "added_at": "2024-01-11 02:15:10",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "SCARY WORLD",
-        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
+        "name": "Je t'aime encore",
+        "url": "https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ"
       },
       "artists": [
         {
-          "name": "Could Ever",
-          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
         }
       ],
-      "duration_ms": 104072,
-      "name": "NOBODY WANTS TO BE MY FRIEND",
-      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
+      "duration_ms": 217230,
+      "name": "Je t'aime encore",
+      "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
     },
     {
       "added_at": "2022-02-09 03:25:54",
@@ -1241,20 +1241,20 @@
       "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2024-01-11 02:15:10",
       "album": {
-        "name": "Je t'aime encore",
-        "url": "https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ"
+        "name": "SCARY WORLD",
+        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
       },
       "artists": [
         {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+          "name": "Could Ever",
+          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
         }
       ],
-      "duration_ms": 217230,
-      "name": "Je t'aime encore",
-      "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
+      "duration_ms": 104072,
+      "name": "NOBODY WANTS TO BE MY FRIEND",
+      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
     },
     {
       "added_at": "2023-04-11 00:45:41",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Feel The Pain / Fast Car",
         "url": "https://open.spotify.com/album/59k0HhGr9KJeyxddg8pW1I"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
       },
       "artists": [
         {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         }
       ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
+      "duration_ms": 228213,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
     },
     {
       "added_at": "2024-06-26 18:41:25",
@@ -1543,6 +1527,22 @@
       "duration_ms": 166000,
       "name": "Love Potion",
       "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Ludi",
-        "url": "https://open.spotify.com/album/0MmvC8i6PZ0Lbm10N8TgbA"
-      },
-      "artists": [
-        {
-          "name": "Chassol",
-          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
-        }
-      ],
-      "duration_ms": 146487,
-      "name": "I Love Vertigo",
-      "url": "https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc"
-    },
-    {
       "added_at": "2024-07-04 20:03:20",
       "album": {
         "name": "Over",
@@ -1631,6 +1615,22 @@
       "duration_ms": 219950,
       "name": "Over",
       "url": "https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Ludi",
+        "url": "https://open.spotify.com/album/0MmvC8i6PZ0Lbm10N8TgbA"
+      },
+      "artists": [
+        {
+          "name": "Chassol",
+          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
+        }
+      ],
+      "duration_ms": 146487,
+      "name": "I Love Vertigo",
+      "url": "https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4"
     },
     {
-      "added_at": "2023-09-13 16:09:15",
-      "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
-      },
-      "artists": [
-        {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Run Away",
@@ -1687,6 +1671,22 @@
       "duration_ms": 219199,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3"
+    },
+    {
+      "added_at": "2023-09-13 16:09:15",
+      "album": {
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+      },
+      "artists": [
+        {
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2022-01-13 02:46:07",

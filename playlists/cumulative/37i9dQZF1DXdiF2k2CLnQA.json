@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 302866,
       "name": "Cannibal (feat. Anders Frid\u00e9n of In Flames)",
       "url": "https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1"
@@ -1324,6 +1324,24 @@
       "duration_ms": 322320,
       "name": "Hungry Waters",
       "url": "https://open.spotify.com/track/1FHdnwhNpWbLXVNU5P4oDc"
+    },
+    {
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/6lBLUITFrP3wWcHKVM5FG4"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208939,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5dGBQrUKyOtCBEuLBtIbve"
     },
     {
       "album": {
@@ -2869,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "Friend Of A Phantom",
+        "url": "https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265066,
+      "name": "We Will Not Disband",
+      "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"
+    },
+    {
+      "album": {
         "name": "Mavericks",
         "url": "https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY"
       },
@@ -2934,7 +2970,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 210687,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24"

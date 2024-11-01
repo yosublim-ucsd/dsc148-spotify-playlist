@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Robe y Rupatrupa.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -2047,6 +2047,28 @@
     },
     {
       "album": {
+        "name": "Flores de Trinchera",
+        "url": "https://open.spotify.com/album/09zUPBZdo5rK7gvVil5qj9"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        },
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480750,
+      "name": "Flores de Trinchera",
+      "url": "https://open.spotify.com/track/5nEbSbGi12XatVVjeoTUU8"
+    },
+    {
+      "album": {
         "name": "Las Consecuencias",
         "url": "https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO"
       },
@@ -2410,7 +2432,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 144680,
       "name": "L'estaca",
       "url": "https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa"

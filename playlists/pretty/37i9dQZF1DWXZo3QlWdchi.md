@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,564 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,598 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 30 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
 | 31 | [Ignorance \- Acoustic](https://open.spotify.com/track/2fW669XemOdBBStneImx2g) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Ignorance](https://open.spotify.com/album/3yrzFvMY394se6kudvIfwv) | 3:40 |
 | 32 | [Aposta \- Ao Vivo](https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Acústico 20 Anos \- O Amor Não Tem Inimigos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ) | 3:35 |
-| 33 | [Canção Da Meia\-Noite \- Ao Vivo](https://open.spotify.com/track/6GqOkQXQsXI63XpVmeF9tc) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Acústico Ao Vivo](https://open.spotify.com/album/0rUezt2zWnNwsAcdiFcNPy) | 4:02 |
-| 34 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 |
+| 33 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 |
+| 34 | [Canção Da Meia\-Noite \- Ao Vivo](https://open.spotify.com/track/6GqOkQXQsXI63XpVmeF9tc) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Acústico Ao Vivo](https://open.spotify.com/album/0rUezt2zWnNwsAcdiFcNPy) | 4:02 |
 | 35 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
 | 36 | [My Hero \- Live at Studio 606 West, Northridge, CA \- September 2007](https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [00070725 Live At Studio 606](https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X) | 4:39 |
 | 37 | [Regina Let's Go \- Live](https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM 22 \- Acústico](https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4) | 2:56 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 46 | [O Teatro dos Vampiros](https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr), [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT) | [Moska Apresenta Zoombido: Dado Villa\-Lobos](https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp) | 3:47 |
 | 47 | [Straight From The Heart \- Live at The Royal Albert Hall](https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife \- 40th Anniversary, Live From The Royal Albert Hall](https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z) | 3:02 |
 | 48 | [Imprevisível \(Acústico\)](https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Imprevisível \(Acústico\)](https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf) | 3:08 |
-| 49 | [Pra Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Pra Dizer Adeus \(Ao Vivo\)](https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx) | 4:13 |
-| 50 | [Quando Eu Te Encontrar](https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quando Eu Te Encontrar](https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy) | 3:40 |
+| 49 | [Quando Eu Te Encontrar](https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quando Eu Te Encontrar](https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy) | 3:40 |
+| 50 | [Pra Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Pra Dizer Adeus \(Ao Vivo\)](https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx) | 4:13 |
 | 51 | [Enquanto Ela Não Chegar \- Acústico](https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Enquanto Ela Não Chegar \(Acústico\)](https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk) | 3:28 |
 | 52 | [Caleidoscópio \(Ao Vivo\)](https://open.spotify.com/track/416HxK0h0JoSI6Qcgf0UMi) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [RoncaRonca Apresenta Os Paralamas do Sucesso \(Ao Vivo\)](https://open.spotify.com/album/4I2EcdKiwes6vePNcrPSKz) | 4:02 |
 | 53 | [Shadow Of The Day \- Acoustic](https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [Shadow Of The Day \(Acoustic\)](https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA) | 3:18 |

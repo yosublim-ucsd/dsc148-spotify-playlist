@@ -1,6 +1,6 @@
 {
   "description": "Hit dance per l'estate 2024 \ud83c\udf49",
-  "num_followers": 107884,
+  "num_followers": 107881,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Happier (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 170358,
-      "name": "Happier (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 253770,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Happier (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 170358,
+      "name": "Happier (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -875,34 +875,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-        "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 227283,
-      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-      "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -927,6 +899,34 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+        "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 227283,
+      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Beat Of Your Heart",
-        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Beat Of Your Heart",
-      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
         "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
       },
@@ -1275,6 +1255,26 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "Murder On The Dancefloor (David Guetta Remix)",
         "url": "https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk"
       },
@@ -1291,26 +1291,6 @@
       "duration_ms": 174337,
       "name": "Murder On The Dancefloor - David Guetta Remix",
       "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Hotstepper",
-        "url": "https://open.spotify.com/album/2fEyzL7jdYeu1trYCeFTXr"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Blvk H3ro",
-          "url": "https://open.spotify.com/artist/29v52R5tPpJ0Hrh1VnmZoZ"
-        }
-      ],
-      "duration_ms": 141795,
-      "name": "Hotstepper",
-      "url": "https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1339,6 +1319,26 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Hotstepper",
+        "url": "https://open.spotify.com/album/2fEyzL7jdYeu1trYCeFTXr"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Blvk H3ro",
+          "url": "https://open.spotify.com/artist/29v52R5tPpJ0Hrh1VnmZoZ"
+        }
+      ],
+      "duration_ms": 141795,
+      "name": "Hotstepper",
+      "url": "https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 163591,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "Shut Up And Dance",
         "url": "https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        }
-      ],
-      "duration_ms": 163591,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 196224,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "Never Really Loved Me (with Dean Lewis)",
         "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 202158,
       "name": "Never Really Loved Me (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 196224,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
     },
     {
       "added_at": "2024-09-05 22:01:00",

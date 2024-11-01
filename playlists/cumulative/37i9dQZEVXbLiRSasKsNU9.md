@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-3,121 songs - 6 day 21 hr 18 min
+3,122 songs - 6 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1112,6 +1112,7 @@
 | [Harnaś ice tea](https://open.spotify.com/track/32IErAbP0G4WcnpqHpMd35) | [Gawryle](https://open.spotify.com/artist/1IIrmj7nKJuaYXi47RZKGz) | [Harnaś ice tea](https://open.spotify.com/album/4hJjMqRyISzXiAd2eMS2tw) | 2:56 | 2021-12-27 | 2022-01-12 |
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-16 | 2024-08-21 |
 | [Harpy Hare](https://open.spotify.com/track/6UBZABudOQOGXGObqKHhEz) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Hayfields](https://open.spotify.com/album/2lbpmMn8kXAMAyUFVK0oHi) | 3:00 | 2024-07-19 | 2024-07-21 |
+| [Harry Potter \- Trap Remix](https://open.spotify.com/track/7FD5ZtQ7MAUE7XEbEe0p73) | [Trap Remix Guys](https://open.spotify.com/artist/5mJT67kG5MKy7byzJWMN7c) | [Harry Potter \(Trap Remix\)](https://open.spotify.com/album/4WeCuKwcEKzp0TkuEZPzGl) | 1:19 | 2024-10-31 |  |
 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 | 2023-05-07 | 2023-06-10 |
 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2023-11-15 | 2023-12-05 |
 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-08-06 | 2024-09-04 |
@@ -1244,7 +1245,7 @@
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-01-10 | 2023-01-16 |
 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2022-12-13 | 2023-01-11 |
 | [I'm Gonna Love You](https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I'm Gonna Love You](https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9) | 3:08 | 2024-10-15 | 2024-10-22 |
-| [I'm Gonna Miss You](https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [All Or Nothing](https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4) | 3:58 | 2024-09-28 |  |
+| [I'm Gonna Miss You](https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [All Or Nothing](https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4) | 3:58 | 2024-09-28 | 2024-11-01 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-20 | 2022-10-17 |
 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-22 | 2022-03-30 |
 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 | 2022-11-22 | 2022-12-08 |

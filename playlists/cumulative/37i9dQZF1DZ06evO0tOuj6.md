@@ -4,7 +4,7 @@
 
 > This is 東京スカパラダイスオーケストラ\. The essential tracks, all in one playlist.
 
-79 songs - 5 hr 13 min
+80 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [快哉を叫ぶとき](https://open.spotify.com/track/3Grbp1AzBvGAZt8meIoJ4Z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [君にサチアレ](https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ) | 4:27 | 2023-01-14 |  |
 | [愛の讃歌 with strings](https://open.spotify.com/track/04v0jBklO4I1n5DppyqNDT) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WORLD SKA SYMPHONY](https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL) | 3:48 | 2023-01-14 | 2024-02-23 |
 | [愛の賛歌 \-Hymne a l'amour](https://open.spotify.com/track/2qUQj7HvhQlztHfYWa2q1E) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [KinouKyouAshita](https://open.spotify.com/album/2U5DszBd3KeIEOBN9IgyUI) | 3:48 | 2023-01-19 | 2023-02-04 |
-| [教えてウロボロス \- feat.宮崎朝子](https://open.spotify.com/track/4j5VhMCHkq3PbjGJB05x70) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [宮崎朝子](https://open.spotify.com/artist/6caFfPYYOh3cHW5r28bRFa) | [35](https://open.spotify.com/album/073aKbAfsQzYRwQ7FBhKCL) | 3:49 | 2024-10-16 |  |
+| [教えてウロボロス \- feat.宮崎朝子](https://open.spotify.com/track/0nDouEV8uGMwAfndyQ3iPH) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [宮崎朝子](https://open.spotify.com/artist/6caFfPYYOh3cHW5r28bRFa) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:49 | 2024-11-01 |  |
+| [教えてウロボロス \- feat.宮崎朝子](https://open.spotify.com/track/4j5VhMCHkq3PbjGJB05x70) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [宮崎朝子](https://open.spotify.com/artist/6caFfPYYOh3cHW5r28bRFa) | [35](https://open.spotify.com/album/073aKbAfsQzYRwQ7FBhKCL) | 3:49 | 2024-10-16 | 2024-11-01 |
 | [散りゆく花のせいで](https://open.spotify.com/track/10JVAH3MIlfRzyYWvzLQpz) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [散りゆく花のせいで](https://open.spotify.com/album/5rYnsyLY11mDwQVJVwxu5u) | 4:29 | 2024-09-20 |  |
 | [明日以外すべて燃やせ \- feat.宮本浩次](https://open.spotify.com/track/5EfzlCnJqVApzkjgKf6Kf5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 4:21 | 2023-01-14 |  |
 | [星降る夜に](https://open.spotify.com/track/6fcIUJpgdpRvyhSjJzQouI) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 4:13 | 2023-01-14 |  |

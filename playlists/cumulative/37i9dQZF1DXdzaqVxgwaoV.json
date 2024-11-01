@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 162298,
       "name": "El Ron de Vinola",
       "url": "https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI"
@@ -3012,6 +3012,24 @@
       "duration_ms": 154346,
       "name": "La \u00daltima Copa",
       "url": "https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV"
+    },
+    {
+      "album": {
+        "name": "Lamento N\u00e1ufrago",
+        "url": "https://open.spotify.com/album/6b6XG4SmxqtW7OkspzBMFa"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Lamento N\u00e1ufrago",
+      "url": "https://open.spotify.com/track/2Ahqrb8eEW074pNJUoRpuv"
     },
     {
       "album": {

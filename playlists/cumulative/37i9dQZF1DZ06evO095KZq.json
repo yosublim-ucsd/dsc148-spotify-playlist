@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Carteles Vol.II",
+        "url": "https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165971,
+      "name": "Aqu\u00ed en Jalisco",
+      "url": "https://open.spotify.com/track/2K6h6Zn0E3InwawnRdEzLB"
+    },
+    {
+      "album": {
         "name": "Bien EnRRedado",
         "url": "https://open.spotify.com/album/1iXDvhAunMV7qEEMFDzCvp"
       },
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 182686,
       "name": "Soldado Ca\u00eddo",
       "url": "https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs"

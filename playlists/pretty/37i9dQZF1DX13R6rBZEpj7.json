@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 230297,
+  "num_followers": 230426,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-10-23 19:33:17",
       "album": {
+        "name": "Bass B$tch",
+        "url": "https://open.spotify.com/album/6nrddbRAkUUqtwsiXteix7"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "duration_ms": 168285,
+      "name": "Bass B$tch",
+      "url": "https://open.spotify.com/track/3OBUIW6j8f0u0WfXX48u1v"
+    },
+    {
+      "added_at": "2024-10-23 19:33:17",
+      "album": {
         "name": "EGODEATH",
         "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 192000,
       "name": "EGODEATH",
       "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
-    },
-    {
-      "added_at": "2024-10-23 19:33:17",
-      "album": {
-        "name": "Bass B$tch",
-        "url": "https://open.spotify.com/album/6nrddbRAkUUqtwsiXteix7"
-      },
-      "artists": [
-        {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
-        }
-      ],
-      "duration_ms": 168285,
-      "name": "Bass B$tch",
-      "url": "https://open.spotify.com/track/3OBUIW6j8f0u0WfXX48u1v"
     },
     {
       "added_at": "2024-10-23 19:33:17",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-10-23 19:33:17",
       "album": {
-        "name": "Haters",
-        "url": "https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "Haters",
-      "url": "https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf"
-    },
-    {
-      "added_at": "2024-10-23 19:33:17",
-      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
       },
@@ -1199,22 +1183,38 @@
     {
       "added_at": "2024-10-23 19:33:17",
       "album": {
-        "name": "Move N\u2019 Flex",
-        "url": "https://open.spotify.com/album/46EuO928SeQzBAdfgY0UJi"
+        "name": "Haters",
+        "url": "https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk"
       },
       "artists": [
         {
-          "name": "BVNQUET",
-          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
-        },
-        {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
         }
       ],
-      "duration_ms": 146372,
-      "name": "Move N' Flex",
-      "url": "https://open.spotify.com/track/3KHnNsg1X9t6HbqRVk8OYB"
+      "duration_ms": 178714,
+      "name": "Haters",
+      "url": "https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf"
+    },
+    {
+      "added_at": "2024-10-23 19:33:17",
+      "album": {
+        "name": "Alla Dem Bad",
+        "url": "https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3"
+      },
+      "artists": [
+        {
+          "name": "J69",
+          "url": "https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh"
+        },
+        {
+          "name": "Miss Baas",
+          "url": "https://open.spotify.com/artist/6Q8qDODQwBDwTvqoP2G3xU"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Alla Dem Bad",
+      "url": "https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN"
     },
     {
       "added_at": "2024-10-23 19:33:17",
@@ -1259,22 +1259,22 @@
     {
       "added_at": "2024-10-23 19:33:17",
       "album": {
-        "name": "Alla Dem Bad",
-        "url": "https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3"
+        "name": "Move N\u2019 Flex",
+        "url": "https://open.spotify.com/album/46EuO928SeQzBAdfgY0UJi"
       },
       "artists": [
         {
-          "name": "J69",
-          "url": "https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh"
+          "name": "BVNQUET",
+          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
         },
         {
-          "name": "Miss Baas",
-          "url": "https://open.spotify.com/artist/6Q8qDODQwBDwTvqoP2G3xU"
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
         }
       ],
-      "duration_ms": 174857,
-      "name": "Alla Dem Bad",
-      "url": "https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN"
+      "duration_ms": 146372,
+      "name": "Move N' Flex",
+      "url": "https://open.spotify.com/track/3KHnNsg1X9t6HbqRVk8OYB"
     },
     {
       "added_at": "2024-10-23 19:33:17",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2024-10-23 19:33:17",
       "album": {
+        "name": "Really Tight",
+        "url": "https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Dennett",
+          "url": "https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ"
+        },
+        {
+          "name": "Sando",
+          "url": "https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8"
+        }
+      ],
+      "duration_ms": 244444,
+      "name": "Really Tight",
+      "url": "https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L"
+    },
+    {
+      "added_at": "2024-10-23 19:33:17",
+      "album": {
         "name": "This Sound",
         "url": "https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws"
       },
@@ -1339,22 +1359,18 @@
     {
       "added_at": "2024-10-23 19:33:17",
       "album": {
-        "name": "Silly",
-        "url": "https://open.spotify.com/album/0rxlHAZm41qpK7GgCirEy4"
+        "name": "IMMACULATE SKANK",
+        "url": "https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm"
       },
       "artists": [
         {
-          "name": "Caspa",
-          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
-        },
-        {
-          "name": "Dynamite MC",
-          "url": "https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl"
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
         }
       ],
-      "duration_ms": 193077,
-      "name": "Silly",
-      "url": "https://open.spotify.com/track/1TbqxVUO2laIJoQ5fE6AZx"
+      "duration_ms": 222500,
+      "name": "IMMACULATE SKANK",
+      "url": "https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc"
     },
     {
       "added_at": "2024-10-23 19:33:17",
@@ -1375,22 +1391,6 @@
       "duration_ms": 226896,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
-    },
-    {
-      "added_at": "2024-10-23 19:33:17",
-      "album": {
-        "name": "IMMACULATE SKANK",
-        "url": "https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm"
-      },
-      "artists": [
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "IMMACULATE SKANK",
-      "url": "https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc"
     }
   ],
   "unique_name": "Bassline Bangers",

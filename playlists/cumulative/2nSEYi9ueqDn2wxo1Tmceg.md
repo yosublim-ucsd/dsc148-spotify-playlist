@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh\_89rmgqQ">Bonnie &quot;Prince&quot; Billy</a>
 
-1,126 songs - 3 day 5 hr 1 min
+1,127 songs - 3 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 | 2024-04-09 | 2024-05-16 |
 | [Rain](https://open.spotify.com/track/3mSr9nqAbo6Ai9NXtjuT9S) | [Meadow Meadow](https://open.spotify.com/artist/4E931YbK4MBdiTzf0UHazk) | [Rain](https://open.spotify.com/album/4j8HoW5XeClKESKAhNHHmZ) | 4:12 | 2023-08-30 | 2023-10-13 |
 | [Rainbows and Dreams](https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Rainbows and Dreams](https://open.spotify.com/album/3DNBXQjwAZI8mtjMWWViWr) | 4:41 | 2022-07-27 | 2022-09-15 |
+| [Rapid Fire](https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Laima](https://open.spotify.com/artist/1BsnJdQKuN4OUlLLYTx6gr) | [Rapid Fire / Kaitlyn Aurelia Smith Remix](https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2) | 5:34 | 2024-10-31 |  |
 | [Rare](https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Rare](https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1) | 3:41 | 2024-01-24 | 2024-03-21 |
 | [Reaching Out](https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Reaching Out](https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO) | 4:15 | 2024-04-10 | 2024-05-16 |
 | [Ready \(feat\. Art School Girlfriend\) \[Pretty Girl Remix\]](https://open.spotify.com/track/7wdQ2iSmAO67B9sKeguajU) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Ready \(feat\. Art School Girlfriend\) \[Pretty Girl Remix\]](https://open.spotify.com/album/4ihtyImsIgidtgGezSIEgT) | 3:19 | 2023-11-15 | 2024-01-11 |

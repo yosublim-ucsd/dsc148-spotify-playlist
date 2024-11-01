@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: PAS TASTA
 
-1,946 songs - 5 day 0 hr 55 min
+1,947 songs - 5 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1515,7 +1515,7 @@
 | [ピクチャー](https://open.spotify.com/track/302U8EHJsUBooB2vGvkl9y) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ピクチャー](https://open.spotify.com/album/0SS8mbJNuXQRVtU43SegtB) | 2:48 | 2023-01-12 | 2023-02-24 |
 | [ファミリイ・コンテンツ](https://open.spotify.com/track/67V5axrqkSQF6azx2GNAIj) | [ayU tokiO](https://open.spotify.com/artist/3hu4NDbJsdOALVe4K61lHE) | [ファミリイ・コンテンツ](https://open.spotify.com/album/7DWzRqtaOkiryJLcfVBo2m) | 3:17 | 2023-01-12 | 2023-01-18 |
 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 | 2024-03-19 | 2024-09-02 |
-| [ブランクスペース](https://open.spotify.com/track/7AwCp788ZT1c8Uz1wWXPNJ) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Extended Vol.1](https://open.spotify.com/album/4czXp8EeAmeeJtyZPUI93L) | 3:30 | 2024-09-03 |  |
+| [ブランクスペース](https://open.spotify.com/track/7AwCp788ZT1c8Uz1wWXPNJ) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Extended Vol.1](https://open.spotify.com/album/4czXp8EeAmeeJtyZPUI93L) | 3:30 | 2024-09-03 | 2024-11-01 |
 | [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 | 2023-04-04 |  |
 | [プライベート・スーパースター](https://open.spotify.com/track/2aLn6ReK9CXMQzuF35Jkuc) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA), [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [プライベート・スーパースター](https://open.spotify.com/album/07f52PdvuHZqW4Oy0ka2AB) | 4:59 | 2024-08-13 | 2024-09-18 |
 | [プレミアム](https://open.spotify.com/track/1VjBjIurnw7b4N5QI5Td8x) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [わかりあえないことから](https://open.spotify.com/album/5K4clS7mfedD25a6w615VG) | 3:54 | 2024-08-06 | 2024-08-21 |
@@ -1673,6 +1673,7 @@
 | [天使のキス](https://open.spotify.com/track/0BPqXMCGVxCIcBo7WPjOzj) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [天使のキス](https://open.spotify.com/album/3lt2LRlBbR6N0OuRSpCuz4) | 3:00 | 2023-05-30 | 2023-06-21 |
 | [天国](https://open.spotify.com/track/5SKNiRWWcH4QO7u7Vw6ijk) | [toro](https://open.spotify.com/artist/0KS9S3hmcIdhBBlbbuswGH) | [TORO](https://open.spotify.com/album/6YqIAhkm55sO2lSomELmjM) | 3:42 | 2023-08-29 | 2023-09-06 |
 | [天国にいける様な](https://open.spotify.com/track/6XoDJfn4CQ2zfzJDAy9Omh) | [さらば帝国](https://open.spotify.com/artist/5T2tJY3Aot8SKA5K9SYwW7) | [天国にいける様な](https://open.spotify.com/album/4AcaiM2SWXukcPZw1UgEaa) | 3:57 | 2023-12-12 | 2023-12-20 |
+| [天才は今度](https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりを編む駐車場](https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV) | 2:55 | 2024-10-29 |  |
 | [天才少年](https://open.spotify.com/track/0g2IWKVsDUkPBvJnGFwnU8) | [ポニーテールスクライム](https://open.spotify.com/artist/3pjuGFTZi5mmhM1F01cYOz) | [天才少年](https://open.spotify.com/album/0TljuBQfLptN0gMGMazThQ) | 2:55 | 2024-05-07 | 2024-05-15 |
 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2023-01-12 | 2023-02-22 |
 | [太陽の光線](https://open.spotify.com/track/61jvNTYOe5bwKEqiL8st2p) | [THE LOVE NINGEN](https://open.spotify.com/artist/5fJn0h6ZtPjwNZQcjCbdBI) | [太陽の光線](https://open.spotify.com/album/399Flm56mUfu8LKqTkfXEA) | 6:46 | 2023-10-26 | 2023-10-28 |

@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 964360,
+  "num_followers": 964510,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -67,38 +67,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "ten days",
-        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Duskus",
-          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 453068,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Say What",
         "url": "https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27"
       },
@@ -127,6 +95,38 @@
       "duration_ms": 181593,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "ten days",
+        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 453068,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Spiral (Edit)",
+        "url": "https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 221577,
+      "name": "Spiral - Edit",
+      "url": "https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 222092,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Spiral (Edit)",
-        "url": "https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 221577,
-      "name": "Spiral - Edit",
-      "url": "https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Heal My Mind",
+        "url": "https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Heal My Mind",
+      "url": "https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Promised Land (Remixes)",
         "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 254395,
       "name": "Too Far Down The Trap - K\u00f6lsch Remix",
       "url": "https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Heal My Mind",
-        "url": "https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Heal My Mind",
-      "url": "https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Love You Got",
-        "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
+        "name": "Holocene, Pt. II",
+        "url": "https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys"
       },
       "artists": [
         {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
         }
       ],
-      "duration_ms": 273600,
-      "name": "Love You Got",
-      "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
+      "duration_ms": 414600,
+      "name": "Holocene, Pt. II",
+      "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Holocene, Pt. II",
-        "url": "https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 414600,
-      "name": "Holocene, Pt. II",
-      "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Keep Going",
         "url": "https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 224516,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Love You Got",
+        "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 273600,
+      "name": "Love You Got",
+      "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Perfect Opposure",
+        "url": "https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 373750,
+      "name": "Free (My Mind)",
+      "url": "https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Calmy / Slowly",
         "url": "https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0"
       },
@@ -1011,26 +1027,6 @@
       "duration_ms": 208690,
       "name": "Calmy",
       "url": "https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1059,22 +1055,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Under Dark (Innellea Remix)",
-        "url": "https://open.spotify.com/album/73M7uXFpI1ftn1cS2RZjfO"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
         },
         {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
         }
       ],
-      "duration_ms": 405887,
-      "name": "Under Dark - Innellea Remix",
-      "url": "https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS"
+      "duration_ms": 269752,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1099,6 +1095,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Under Dark (Innellea Remix)",
+        "url": "https://open.spotify.com/album/73M7uXFpI1ftn1cS2RZjfO"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 405887,
+      "name": "Under Dark - Innellea Remix",
+      "url": "https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Domino (David Guetta Remix)",
         "url": "https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 296192,
       "name": "Domino - David Guetta Remix",
       "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Perfect Opposure",
-        "url": "https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 373750,
-      "name": "Free (My Mind)",
-      "url": "https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1155,6 +1155,42 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+        }
+      ],
+      "duration_ms": 244517,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
       },
@@ -1171,46 +1207,6 @@
       "duration_ms": 227987,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
-        "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
-      "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "All we ever wanted",
-        "url": "https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2"
-      },
-      "artists": [
-        {
-          "name": "MVCA",
-          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
-        },
-        {
-          "name": "SCHWARZ",
-          "url": "https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All we ever wanted",
-      "url": "https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8"
     }
   ],
   "unique_name": "Lowkey Tech",

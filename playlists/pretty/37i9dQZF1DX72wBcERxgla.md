@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,776 likes - 384 songs - 19 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,867 likes - 384 songs - 19 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

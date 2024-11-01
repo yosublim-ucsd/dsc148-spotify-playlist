@@ -374,7 +374,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 163593,
       "name": "Bailar Llorando",
       "url": "https://open.spotify.com/track/7aZor2HjAffKI8PmQxw2oW"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 183666,
       "name": "Barullo",
       "url": "https://open.spotify.com/track/0UO9UgqrsQVqSYkCO0iEOW"
@@ -1332,6 +1332,24 @@
       "duration_ms": 168888,
       "name": "En memoria de las cicatrices",
       "url": "https://open.spotify.com/track/5lP1pNkWObsnmBsRY7qT1W"
+    },
+    {
+      "album": {
+        "name": "Enamorado de tu reverb",
+        "url": "https://open.spotify.com/album/273Bae4idLgIuVnJFuLYQz"
+      },
+      "artists": [
+        {
+          "name": "Joe Crep\u00fasculo",
+          "url": "https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242168,
+      "name": "Enamorado de tu reverb",
+      "url": "https://open.spotify.com/track/5vL5TRZdmuP7OGY93zaFRs"
     },
     {
       "album": {
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 177500,
       "name": "Malicia",
       "url": "https://open.spotify.com/track/5ylsvgN3rSWBU6PnyRbfIs"
@@ -2760,6 +2778,24 @@
       "duration_ms": 251533,
       "name": "MonteViso",
       "url": "https://open.spotify.com/track/4BHIEJeMunK0SyugD0UxjE"
+    },
+    {
+      "album": {
+        "name": "Las Huidas",
+        "url": "https://open.spotify.com/album/2nj0oHnEEi5mS8GwX7TqwD"
+      },
+      "artists": [
+        {
+          "name": "Janire",
+          "url": "https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177237,
+      "name": "Nada Nuevo",
+      "url": "https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX"
     },
     {
       "album": {
@@ -3740,6 +3776,24 @@
       "duration_ms": 224000,
       "name": "TECHNO TRISTE",
       "url": "https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd"
+    },
+    {
+      "album": {
+        "name": "Tengo que despertar",
+        "url": "https://open.spotify.com/album/7xNOkKfCRJPQ17Yy7oc23y"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164870,
+      "name": "Tengo que despertar",
+      "url": "https://open.spotify.com/track/0gM4UMvAiejJuZpUdeSdoO"
     },
     {
       "album": {

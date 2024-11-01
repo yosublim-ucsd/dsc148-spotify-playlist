@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG?si=NBAxtqbwS3G6Wo4ujiJgJw\">Babalwa M</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7?si=P-fAZFDLTX-cyP2SDhtesA\">Pushkin RSA</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -782,6 +782,56 @@
       "duration_ms": 480000,
       "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
       "url": "https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds"
+    },
+    {
+      "album": {
+        "name": "Ask & Receive 2",
+        "url": "https://open.spotify.com/album/0FiwuAsxJG4I8SXjvIw4x5"
+      },
+      "artists": [
+        {
+          "name": "TNK MusiQ",
+          "url": "https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Seun1401",
+          "url": "https://open.spotify.com/artist/0CPfPl6Fy7ueqMoxjZjmYb"
+        },
+        {
+          "name": "The Exclusive SA",
+          "url": "https://open.spotify.com/artist/1YA6d3F7LilOsKSGYSB4Nm"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Kabelo Sings",
+          "url": "https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn"
+        },
+        {
+          "name": "Bontle Smith",
+          "url": "https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC"
+        },
+        {
+          "name": "2woshort",
+          "url": "https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825"
+        },
+        {
+          "name": "Stompiiey",
+          "url": "https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368577,
+      "name": "Abo Nokthula (feat. The Exclusive SA, Scotts Maphuma, Kabelo Sings, Bontle Smith, 2woshort & Stompiiey)",
+      "url": "https://open.spotify.com/track/4QFMdUKVMmKgH6masoIVNr"
     },
     {
       "album": {
@@ -4982,7 +5032,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 378882,
       "name": "BoGogo",
       "url": "https://open.spotify.com/track/4kydNoaTX4vfyCPeXE2bpt"
@@ -7067,6 +7117,44 @@
     },
     {
       "album": {
+        "name": "Diwa Kae",
+        "url": "https://open.spotify.com/album/05dLOFYNg2aNuYOh7ZIHwE"
+      },
+      "artists": [
+        {
+          "name": "De Mthuda",
+          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Mkeyz",
+          "url": "https://open.spotify.com/artist/0iCxUN3V2MB2iL3yTMgbhQ"
+        },
+        {
+          "name": "McKenzie",
+          "url": "https://open.spotify.com/artist/31A2RSnDite4lHtHZsCrh5"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416283,
+      "name": "Diwa Kae",
+      "url": "https://open.spotify.com/track/4g929t40UHTxK8vEea18Gb"
+    },
+    {
+      "album": {
         "name": "Dlala (feat. DJ Maphorisa)",
         "url": "https://open.spotify.com/album/2LRlSTlr2ar6SJp4m5Ns8D"
       },
@@ -8505,6 +8593,32 @@
     },
     {
       "album": {
+        "name": "My Island",
+        "url": "https://open.spotify.com/album/4HIxX4Z3BVfaTWBBXZpErk"
+      },
+      "artists": [
+        {
+          "name": "Pushkin RSA",
+          "url": "https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7"
+        },
+        {
+          "name": "Eltee",
+          "url": "https://open.spotify.com/artist/4mexy8G8bBE7SBuAzTBLYr"
+        },
+        {
+          "name": "Springle",
+          "url": "https://open.spotify.com/artist/2MrjOkIsQao28a0Xf1Gy7F"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265970,
+      "name": "Endofaya (feat. Eltee & Springle)",
+      "url": "https://open.spotify.com/track/5c8wNC0Q0pxOS0qWHoGPeF"
+    },
+    {
+      "album": {
         "name": "KOA II Part 1",
         "url": "https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q"
       },
@@ -9236,7 +9350,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 411607,
       "name": "Focus (feat. Scotts Maphuma)",
       "url": "https://open.spotify.com/track/5I0qXuoDUGD2Uw9VUc0o3a"
@@ -24566,7 +24680,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 361116,
       "name": "Rekisa Kapela (feat. Certified Dyan)",
       "url": "https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT"

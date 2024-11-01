@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Cordae",
-  "num_followers": 1590469,
+  "num_followers": 1590449,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-10-28 10:00:00",
       "album": {
-        "name": "Studio Fit Riddim",
-        "url": "https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv"
-      },
-      "artists": [
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 102765,
-      "name": "Studio Fit Riddim",
-      "url": "https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di"
-    },
-    {
-      "added_at": "2024-10-28 10:00:00",
-      "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 227692,
       "name": "Evil Ways (feat. J. Cole)",
       "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
+    },
+    {
+      "added_at": "2024-10-28 10:00:00",
+      "album": {
+        "name": "Studio Fit Riddim",
+        "url": "https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 102765,
+      "name": "Studio Fit Riddim",
+      "url": "https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di"
     },
     {
       "added_at": "2024-10-28 10:00:00",
@@ -211,6 +211,30 @@
     {
       "added_at": "2024-10-28 10:00:00",
       "album": {
+        "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
+        "url": "https://open.spotify.com/album/2hGVmhbARvihNo7UQsna9W"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/6dD6xEnhXhLWZTZAFVwmQK"
+    },
+    {
+      "added_at": "2024-10-28 10:00:00",
+      "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
       },
@@ -223,22 +247,6 @@
       "duration_ms": 157853,
       "name": "3001",
       "url": "https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW"
-    },
-    {
-      "added_at": "2024-10-28 10:00:00",
-      "album": {
-        "name": "For All The Dogs Scary Hours Edition",
-        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 160049,
-      "name": "Red Button",
-      "url": "https://open.spotify.com/track/5Mc8XDfGQCMkOEZm9rS1cE"
     },
     {
       "added_at": "2024-10-28 10:00:00",
@@ -275,26 +283,18 @@
     {
       "added_at": "2024-10-28 10:00:00",
       "album": {
-        "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
-        "url": "https://open.spotify.com/album/2hGVmhbARvihNo7UQsna9W"
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
       },
       "artists": [
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 169560,
-      "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/6dD6xEnhXhLWZTZAFVwmQK"
+      "duration_ms": 160049,
+      "name": "Red Button",
+      "url": "https://open.spotify.com/track/5Mc8XDfGQCMkOEZm9rS1cE"
     },
     {
       "added_at": "2024-10-28 10:00:00",
@@ -335,6 +335,30 @@
     {
       "added_at": "2024-10-28 10:00:00",
       "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Daylyt",
+          "url": "https://open.spotify.com/artist/573vxT6vzhNRzTVIuVRnLj"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 354773,
+      "name": "Pi (feat. Daylyt & Ab-Soul)",
+      "url": "https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj"
+    },
+    {
+      "added_at": "2024-10-28 10:00:00",
+      "album": {
         "name": "Ecstasy (Freestyle)",
         "url": "https://open.spotify.com/album/4l5ytI2ykKixML9AQwbL9X"
       },
@@ -351,6 +375,26 @@
       "duration_ms": 117562,
       "name": "Ecstasy (Freestyle)",
       "url": "https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik"
+    },
+    {
+      "added_at": "2024-10-28 10:00:00",
+      "album": {
+        "name": "The Genuine Articulate",
+        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "Diego Maradona",
+      "url": "https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK"
     },
     {
       "added_at": "2024-10-28 10:00:00",
@@ -379,30 +423,6 @@
       "duration_ms": 299270,
       "name": "Mamas PrimeTime",
       "url": "https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f"
-    },
-    {
-      "added_at": "2024-10-28 10:00:00",
-      "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Daylyt",
-          "url": "https://open.spotify.com/artist/573vxT6vzhNRzTVIuVRnLj"
-        },
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 354773,
-      "name": "Pi (feat. Daylyt & Ab-Soul)",
-      "url": "https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj"
     },
     {
       "added_at": "2024-10-28 10:00:00",
@@ -459,26 +479,6 @@
       "duration_ms": 179200,
       "name": "Together",
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
-    },
-    {
-      "added_at": "2024-10-28 10:00:00",
-      "album": {
-        "name": "The Genuine Articulate",
-        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "Diego Maradona",
-      "url": "https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK"
     },
     {
       "added_at": "2024-10-28 10:00:00",
@@ -563,46 +563,6 @@
     {
       "added_at": "2024-10-28 10:00:00",
       "album": {
-        "name": "Jesus Arms",
-        "url": "https://open.spotify.com/album/4QjcM4k9VD5V1C0yUurNRa"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 177543,
-      "name": "Jesus Arms (feat. Busta Rhymes)",
-      "url": "https://open.spotify.com/track/15jV5VEoSZ6TjabNqOE8m2"
-    },
-    {
-      "added_at": "2024-10-28 10:00:00",
-      "album": {
-        "name": "Squeeze 1St 2",
-        "url": "https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Squeeze 1St 2",
-      "url": "https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs"
-    },
-    {
-      "added_at": "2024-10-28 10:00:00",
-      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -623,6 +583,46 @@
       "duration_ms": 161506,
       "name": "Mancala (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
+    },
+    {
+      "added_at": "2024-10-28 10:00:00",
+      "album": {
+        "name": "Squeeze 1St 2",
+        "url": "https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Squeeze 1St 2",
+      "url": "https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs"
+    },
+    {
+      "added_at": "2024-10-28 10:00:00",
+      "album": {
+        "name": "Jesus Arms",
+        "url": "https://open.spotify.com/album/4QjcM4k9VD5V1C0yUurNRa"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 177543,
+      "name": "Jesus Arms (feat. Busta Rhymes)",
+      "url": "https://open.spotify.com/track/15jV5VEoSZ6TjabNqOE8m2"
     },
     {
       "added_at": "2024-10-28 10:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-10-28 10:00:00",
       "album": {
-        "name": "High Stakes",
-        "url": "https://open.spotify.com/album/278eJmPZyqR91OIXYQrfWq"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        }
-      ],
-      "duration_ms": 145612,
-      "name": "High Stakes",
-      "url": "https://open.spotify.com/track/1h0LgY5z2F9CIfYU4fdXlH"
-    },
-    {
-      "added_at": "2024-10-28 10:00:00",
-      "album": {
         "name": "Beverly Drive",
         "url": "https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 190067,
       "name": "Never Die (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
+    },
+    {
+      "added_at": "2024-10-28 10:00:00",
+      "album": {
+        "name": "High Stakes",
+        "url": "https://open.spotify.com/album/278eJmPZyqR91OIXYQrfWq"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        }
+      ],
+      "duration_ms": 145612,
+      "name": "High Stakes",
+      "url": "https://open.spotify.com/track/1h0LgY5z2F9CIfYU4fdXlH"
     },
     {
       "added_at": "2024-10-28 10:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-10-28 10:00:00",
       "album": {
+        "name": "Moving Day",
+        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "Moving Day",
+      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
+    },
+    {
+      "added_at": "2024-10-28 10:00:00",
+      "album": {
         "name": "Welcome 2 Collegrove",
         "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 313397,
       "name": "Oprah & Gayle (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt"
-    },
-    {
-      "added_at": "2024-10-28 10:00:00",
-      "album": {
-        "name": "Moving Day",
-        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "Moving Day",
-      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
     },
     {
       "added_at": "2024-10-28 10:00:00",

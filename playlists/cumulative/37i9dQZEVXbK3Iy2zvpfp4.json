@@ -4711,6 +4711,24 @@
     },
     {
       "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "album": {
         "name": "Beat das Trevas",
         "url": "https://open.spotify.com/album/3t75AH0Jjuz6Q2OEsl61uo"
       },
@@ -7236,6 +7254,24 @@
       "duration_ms": 186723,
       "name": "Can You Remember the Rain - Sequence Remix",
       "url": "https://open.spotify.com/track/5jikmrFL7wzkaCvdUSePkB"
+    },
+    {
+      "album": {
+        "name": "Mexico and Mariachis",
+        "url": "https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju"
+      },
+      "artists": [
+        {
+          "name": "Antonio Banderas",
+          "url": "https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127226,
+      "name": "Cancion Del Mariachi",
+      "url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls"
     },
     {
       "album": {
@@ -14580,7 +14616,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 189464,
       "name": "forwards beckon rebound",
       "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
@@ -28336,7 +28372,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 88653,
       "name": "MONTAGEM BOTA HIPNOSIS 1.0",
       "url": "https://open.spotify.com/track/17H0eVQ5elJWAGUDQJOXRo"
@@ -30486,7 +30522,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
@@ -31080,7 +31116,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 177250,
       "name": "Nie si na to s\u00e1m",
       "url": "https://open.spotify.com/track/2PhNGTl81VyODp8auUyT8r"
@@ -38194,7 +38230,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 203621,
       "name": "Safety Net",
       "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
@@ -40002,7 +40038,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 213678,
       "name": "Sing Like Madonna",
       "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
@@ -41700,7 +41736,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 184375,
       "name": "ss",
       "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
@@ -44298,7 +44334,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 112171,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
@@ -45138,7 +45174,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 240549,
       "name": "TOTO SOM JA",
       "url": "https://open.spotify.com/track/60TkRpKpjW6ZXLcY87T1m3"
@@ -46774,7 +46810,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 67596,
       "name": "VAPO NO SETOR",
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"

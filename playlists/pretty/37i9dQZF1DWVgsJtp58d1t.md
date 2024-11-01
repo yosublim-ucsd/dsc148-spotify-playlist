@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > All Black like the cover of Essence\. Cover: <a href="spotify:artist:6qgnBH6iDM91ipVXv28OMu">KAYTRANADA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,311 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,376 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

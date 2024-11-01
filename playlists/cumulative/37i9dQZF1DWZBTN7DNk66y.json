@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "A Ver",
+        "url": "https://open.spotify.com/album/6Mh5NSHDVnQlos2BEoORxq"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Prada",
+          "url": "https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6"
+        },
+        {
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176185,
+      "name": "A Ver",
+      "url": "https://open.spotify.com/track/7dFHHUywOkiDTAIGovm60v"
+    },
+    {
+      "album": {
         "name": "Abanicos negros",
         "url": "https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR"
       },
@@ -3224,7 +3246,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 233418,
       "name": "Tan Solo Canci\u00f3n",
       "url": "https://open.spotify.com/track/1nbibeTKZP76Tkokx5Enl7"

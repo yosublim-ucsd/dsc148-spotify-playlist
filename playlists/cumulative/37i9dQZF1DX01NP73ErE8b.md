@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat! 🔁 Cover: Coma\_Cose
+> I brani italiani che abbiamo on repeat! 🔁 Cover: Alfa
 
-107 songs - 5 hr 24 min
+109 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Galassie](https://open.spotify.com/track/2RVy5hchm7GxsGzXO6haOv) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Galassie](https://open.spotify.com/album/0ZRjzNH0qbMEC5KHCODt27) | 3:39 | 2024-07-01 | 2024-10-04 |
 | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/track/73L86FIIQk4iQBARHArhaA) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [B\-CROMA](https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS) | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/album/0D6bgRc96ZW45n5qTmZjZq) | 3:35 | 2024-09-26 |  |
 | [HANGOVER \(feat\. Baby Gang\)](https://open.spotify.com/track/0VHXkwgvHRKOc7OF2l8mLo) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [HANGOVER \(feat\. Baby Gang\)](https://open.spotify.com/album/3LKO4DYCqGjhVcrhH6949F) | 2:51 | 2024-09-19 |  |
-| [Ho paura di tutto](https://open.spotify.com/track/2tEbPcXP2cKE4txG35XeYo) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Ho paura di tutto](https://open.spotify.com/album/7JYkJb450rOu3HA4BJm0f8) | 3:18 | 2024-10-17 |  |
+| [Ho paura di tutto](https://open.spotify.com/track/2tEbPcXP2cKE4txG35XeYo) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Ho paura di tutto](https://open.spotify.com/album/7JYkJb450rOu3HA4BJm0f8) | 3:18 | 2024-10-17 | 2024-11-01 |
 | [HO VOGLIA DI TE](https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp) | [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [HO VOGLIA DI TE](https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj) | 3:08 | 2024-07-01 |  |
 | [il filo rosso](https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [il filo rosso](https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2) | 3:07 | 2024-10-17 |  |
 | [Il Linguaggio Del Corpo \(feat\. BigMama\)](https://open.spotify.com/track/57bACDRjkVmyFVjYPGRkY3) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Il Linguaggio Del Corpo \(feat\. BigMama\)](https://open.spotify.com/album/6sJp75vw3Cp5p2GX5t6VQr) | 2:32 | 2024-09-19 |  |
@@ -85,6 +85,7 @@
 | [PEYOTE \(feat\. Fabri Fibra & Rocco Hunt\)](https://open.spotify.com/track/2Zx64xP39WnpMlYgQa0ESv) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [PROTOMARANZA](https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6) | 2:58 | 2024-07-01 | 2024-09-27 |
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 | 2024-09-06 |
 | [Piccolo](https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [The Freak Show](https://open.spotify.com/album/4O76YSMlGicdTD00XQSrxL) | 3:03 | 2024-10-10 |  |
+| [POLIGONO](https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [POLIGONO](https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI) | 2:17 | 2024-10-31 |  |
 | [POSTI VUOTI](https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [POSTI VUOTI](https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC) | 3:16 | 2024-10-24 |  |
 | [PUNK LOVE STORIA](https://open.spotify.com/track/76axnsywKEligswiOVYW2M) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 | 2024-10-17 |  |
 | [pupille](https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [pupille](https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt) | 2:49 | 2024-08-29 | 2024-10-18 |
@@ -101,6 +102,7 @@
 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2Q4Z2js0C6DDUVc7GuLGdF) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [ICON](https://open.spotify.com/album/7wd0zT4UYy8sJwPt9lMqyJ) | 2:47 | 2024-07-01 |  |
 | [SEXY MAGICA](https://open.spotify.com/track/7CLlCROEnQiqEDTt2zjn2t) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [SEXY MAGICA](https://open.spotify.com/album/30Z0j6LCXcVKPtKtMb44RM) | 2:39 | 2024-07-01 | 2024-08-30 |
 | [SEXY SHOP](https://open.spotify.com/track/0GgIXlhkacCRh30t2Se92q) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [SEXY SHOP](https://open.spotify.com/album/3Lf8T7QRFq98I0OELNBh4y) | 3:08 | 2024-07-01 | 2024-10-11 |
+| [Si mette male](https://open.spotify.com/track/4d2C04FQ4e4RexeNFiQfnV) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Si mette male](https://open.spotify.com/album/7D6U1pD4YKzbP8s1vr9xeP) | 3:13 | 2024-10-31 |  |
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-07-01 | 2024-09-27 |
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-07-01 |  |
 | [T'aggio fatto vedè](https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI) | [ROMANTICA](https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv) | 3:04 | 2024-07-01 | 2024-07-19 |
@@ -113,7 +115,7 @@
 | [Una Notte](https://open.spotify.com/track/69jWbZWK29hyhmgxz4PLyJ) | [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Una Notte](https://open.spotify.com/album/5fFQVaWtOUtqKKMkcWYa2S) | 2:50 | 2024-07-18 | 2024-08-20 |
 | [vabbè ciao](https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Non so chi ha creato il mondo ma so che era innamorato](https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl) | 2:40 | 2024-07-01 |  |
 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 | 2024-07-01 | 2024-09-06 |
-| [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 | 2024-10-03 |  |
+| [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 | 2024-10-03 | 2024-11-01 |
 | [VOGLIONO ESSERE ME](https://open.spotify.com/track/6zP3dYR5MQB8vj1QPAsgoX) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [VOGLIONO ESSERE ME](https://open.spotify.com/album/0bKZXBDyTVBSfmk5cKGDOY) | 2:09 | 2024-10-24 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

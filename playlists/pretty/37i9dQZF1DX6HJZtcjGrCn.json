@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: MARO, NASAYA",
-  "num_followers": 33529,
+  "num_followers": 33542,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Leon",
-        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Panther City",
-      "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Dark Vacay",
         "url": "https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 213413,
       "name": "Dark Vacay",
       "url": "https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Leon",
+        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Panther City",
+      "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Dispose of Me",
         "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 217880,
       "name": "Dispose of Me",
       "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "In The Modern World",
-        "url": "https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 266884,
-      "name": "In The Modern World",
-      "url": "https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Starburned and Unkissed",
         "url": "https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 220148,
       "name": "Starburned and Unkissed",
       "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "In The Modern World",
+        "url": "https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 266884,
+      "name": "In The Modern World",
+      "url": "https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h"
     }
   ],
   "unique_name": "Cena Indie",

@@ -2,7 +2,7 @@
 
 ### [Disney Hits France](https://open.spotify.com/playlist/37i9dQZF1DWYa24lU2SeaC)
 
-> Chantez sur tous vos titres Disney préférés tels que La Reine des neiges, Encanto: la fantastique famille Madrigal, Wish: Asha et la bonne étoile, Vaiana: la légende du bout du monde, Tarzan, Aladdin, Élémentaire, Mulan, Le Roi lion et bien d'autres encore!
+> Tous vos titres Disney préférés incluant la musique de Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!
 
 127 songs - 6 hr 37 min
 

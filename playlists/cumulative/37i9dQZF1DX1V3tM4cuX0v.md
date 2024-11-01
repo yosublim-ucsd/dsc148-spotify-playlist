@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: ROSÉ & Bruno Mars
+> Найпопулярніші пісні сьогодення\. Обкладинка: Lady Gaga
 
 74 songs - 3 hr 35 min
 

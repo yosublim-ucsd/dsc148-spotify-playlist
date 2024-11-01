@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,294 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,308 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 20 | [You Know How to Make Me Feel so Good \(feat\. Sharon Paige\)](https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 5:16 |
 | 21 | [I'm Illy](https://open.spotify.com/track/3iNYQG2B6aBRnaCEOdNGbc) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:06 |
 | 22 | [Maiysha \(So Long\) \(feat\. Erykah Badu\)](https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 7:29 |
-| 23 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
-| 24 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
+| 23 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
+| 24 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
 | 25 | [FIND YOUR WINGS \- Instrumental](https://open.spotify.com/track/3xLUgT2u1LGSFAI1hFSNJz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cherry Bomb + Instrumentals](https://open.spotify.com/album/5V3Chnpno9oTI7JSPXKUf3) | 3:00 |
 | 26 | [Make Yours a Happy Home](https://open.spotify.com/track/2T3i0zEma9oEZMENvnc1vG) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Claudine \(Original Soundtrack\)](https://open.spotify.com/album/3X3OfEnE7AN9qN5XMvNTzV) | 4:33 |
 | 27 | [Never Let Me Down](https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 |

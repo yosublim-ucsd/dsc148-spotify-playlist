@@ -2271,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "Albaizyn",
+        "url": "https://open.spotify.com/album/5mqUpWkMls5GqMn4dlN9Xw"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99113,
+      "name": "Albaizyn",
+      "url": "https://open.spotify.com/track/3Qj2ViqEZ2niYq4s8R4Xyw"
+    },
+    {
+      "album": {
         "name": "Albatross",
         "url": "https://open.spotify.com/album/5dsPNQpIjeFc4Wbb4CrOI8"
       },
@@ -23960,7 +23978,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 114615,
       "name": "Fint",
       "url": "https://open.spotify.com/track/6RcS2D1J87SPKZcbfNUKgG"
@@ -37140,7 +37158,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 89610,
       "name": "Jugallo",
       "url": "https://open.spotify.com/track/7MVJfTdUVlJFANqedc2ExD"
@@ -70138,6 +70156,28 @@
       "duration_ms": 137083,
       "name": "Strawberry Jam",
       "url": "https://open.spotify.com/track/0yAgZXR8QQOE0oPwIUk5OD"
+    },
+    {
+      "album": {
+        "name": "Streets Of Rio",
+        "url": "https://open.spotify.com/album/4tIMrN38VbtyL42qFURzy7"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Lenny B",
+          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "Streets Of Rio",
+      "url": "https://open.spotify.com/track/3D7tHItozfNTG5jJGxkMCV"
     },
     {
       "album": {

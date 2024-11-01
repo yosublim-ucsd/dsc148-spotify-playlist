@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,825 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,844 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,24 +49,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 39 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
 | 40 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
 | 41 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 |
-| 42 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
-| 43 | [Innocent](https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Innocent](https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u) | 2:36 |
+| 42 | [Innocent](https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Innocent](https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u) | 2:36 |
+| 43 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
 | 44 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
 | 45 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
 | 46 | [Slowly](https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID) | [Red Langur](https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9) | [Slowly](https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa) | 2:52 |
 | 47 | [Meet Me In The Forest](https://open.spotify.com/track/2pV9JcmZBmBB1mSTYfBhac) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Songs From The Woods](https://open.spotify.com/album/3ijVpnglTn2BBI6DTDcHRV) | 6:06 |
 | 48 | [Love Me One More Time](https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v) | [Jonas Wallin](https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w) | [Love Me One More Time](https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA) | 3:09 |
 | 49 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
-| 50 | [Broken Road](https://open.spotify.com/track/3U68FhkqgAVLxCR1s7aoD4) | [Niila](https://open.spotify.com/artist/25PzS3ToWjTF5cznfaYpFq) | [Broken Road](https://open.spotify.com/album/1fB4KhlQ5k3sPXwV1PJcE3) | 3:22 |
-| 51 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 |
+| 50 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 |
+| 51 | [Broken Road](https://open.spotify.com/track/3U68FhkqgAVLxCR1s7aoD4) | [Niila](https://open.spotify.com/artist/25PzS3ToWjTF5cznfaYpFq) | [Broken Road](https://open.spotify.com/album/1fB4KhlQ5k3sPXwV1PJcE3) | 3:22 |
 | 52 | [Doves](https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Doves](https://open.spotify.com/album/1jZSsjU84SBeiLlk7iQs65) | 4:11 |
 | 53 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 |
-| 54 | [The Sun of the Island](https://open.spotify.com/track/2FniJxOBwfJdOiTRaW9icP) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W), [Marie Modiano](https://open.spotify.com/artist/2znK4wNHFUwPKYyTJFOj2R) | [The Sun of the Island](https://open.spotify.com/album/7m7G39PZmDAeTAUPXffCdl) | 4:18 |
-| 55 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
+| 54 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
+| 55 | [The Sun of the Island](https://open.spotify.com/track/2FniJxOBwfJdOiTRaW9icP) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W), [Marie Modiano](https://open.spotify.com/artist/2znK4wNHFUwPKYyTJFOj2R) | [The Sun of the Island](https://open.spotify.com/album/7m7G39PZmDAeTAUPXffCdl) | 4:18 |
 | 56 | [Babylon](https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Babylon](https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h) | 3:40 |
-| 57 | [All of Me](https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All of Me](https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc) | 2:56 |
-| 58 | [Lucy Rider](https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Lucy Rider](https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve) | 3:17 |
-| 59 | [Asymmetry](https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Asymmetry](https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq) | 4:04 |
-| 60 | [1989](https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [1989](https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq) | 4:27 |
+| 57 | [Lucy Rider](https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Lucy Rider](https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve) | 3:17 |
+| 58 | [Asymmetry](https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Asymmetry](https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq) | 4:04 |
+| 59 | [1989](https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [1989](https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq) | 4:27 |
+| 60 | [All of Me](https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All of Me](https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc) | 2:56 |
 
 Snapshot ID: `ZxGI4AAAAADEoNxpw4joKUTJ8SljUfbO`

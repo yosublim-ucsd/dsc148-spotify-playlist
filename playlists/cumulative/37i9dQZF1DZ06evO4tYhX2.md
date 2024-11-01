@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-98 songs - 8 hr 35 min
+99 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [La Bendición \(versión Miel San Marcos\).](https://open.spotify.com/track/4NHUmpU8K8dGLqG5qItgfR) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Mil Generaciones](https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA) | 5:26 | 2022-09-14 | 2024-03-23 |
 | [Levántate Señor](https://open.spotify.com/track/5dip7Lh3J6oCCvISSdr1aO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 5:05 | 2022-09-14 |  |
 | [Levántate Guate](https://open.spotify.com/track/44jaI2hbNmBHAQXpreResb) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Levántate Guate](https://open.spotify.com/album/2H05XbhqPl4AKrOz8RoUYS) | 4:11 | 2022-09-21 | 2022-10-12 |
-| [Libre \(En Vivo\)](https://open.spotify.com/track/6c3QDOm29A9xC8VFiFJMB1) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:35 | 2022-09-14 |  |
+| [Libre \(En Vivo\)](https://open.spotify.com/track/6c3QDOm29A9xC8VFiFJMB1) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:35 | 2022-09-14 | 2024-11-01 |
 | [Llegó El Tiempo](https://open.spotify.com/track/5xOdXiAQl8b9OAedNfeI8o) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 2:54 | 2022-11-18 |  |
 | [Los Momentos](https://open.spotify.com/track/0uiIr4j8np66FGibPwLmVU) | [Zulmy Mejia](https://open.spotify.com/artist/5VTAZuaQJTNnsT3IozleG9), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Los Momentos](https://open.spotify.com/album/47lwNt04IjKhtt3tkca0jW) | 5:11 | 2022-09-14 | 2022-11-19 |
 | [Los Muros Caerán](https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 4:29 | 2022-09-14 |  |
@@ -85,6 +85,7 @@
 | [Shekinah \- Live](https://open.spotify.com/track/6f1NmXQdtaJslToszzblhA) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Shekinah \(Live\)](https://open.spotify.com/album/2SQD8ab2EyVjV3ElLH5EEP) | 8:30 | 2022-09-14 |  |
 | [Sigue Orando \(Don't Stop Praying\)](https://open.spotify.com/track/6t9lLCkgPTSEtT5jnOBJax) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sigue Orando \(Don't Stop Praying\)](https://open.spotify.com/album/5RudolYe3u7YMRDM3ZqHpp) | 3:53 | 2024-07-14 |  |
 | [Sobre La Roca \(con Miel San Marcos\)](https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sobre La Roca](https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR) | 3:36 | 2022-10-12 | 2023-11-11 |
+| [Soy Feliz \(En Vivo\)](https://open.spotify.com/track/072T1qKRkyhNUE4plWX85R) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:02 | 2024-11-01 |  |
 | [Su Poder](https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Su Poder](https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV) | 5:02 | 2022-09-14 |  |
 | [Sé Fuerte \- Live Set](https://open.spotify.com/track/4vl7en9sudHqIn4lrWSBKi) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sé Fuerte \(Live Set\)](https://open.spotify.com/album/2L7vIznTCaHBH2CgwGwdAy) | 5:37 | 2024-09-07 |  |
 | [Te Amo](https://open.spotify.com/track/0C79r2bJrD7oq3ZobIELGT) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Te Amo](https://open.spotify.com/album/3ILQ5f78tCMVsX5cJia5RL) | 5:31 | 2024-04-19 | 2024-09-07 |

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Choi Yu Ree\(최유리\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,331 songs - 3 day 14 hr 7 min
+1,333 songs - 3 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Alone](https://open.spotify.com/track/133kp8Z4SADHKea8OYyzgt) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [The Witch's Diner \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/6Wi68SCcA5SfVOrNHkMyDL) | 3:46 | 2021-12-23 | 2022-07-07 |
 | [Alone](https://open.spotify.com/track/1pQluxiSIs5WLyRWgBma7Y) | [KI HYUN](https://open.spotify.com/artist/37aGvwOvSBT3UCkXBZ6nS6), [수빈](https://open.spotify.com/artist/1NrGKVkZ7SbOUIrtn9Zm8b) | [Alone](https://open.spotify.com/album/0OkfIH5BLiyic0hzd4oTsi) | 3:19 | 2023-11-02 | 2024-03-06 |
 | [Alone](https://open.spotify.com/track/3rNzZNNxqtzgAEIzNaQpku) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Alone](https://open.spotify.com/album/5JEWzUbwEsblYxe39JQV4A) | 3:41 | 2024-10-30 |  |
+| [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 | 2024-10-31 |  |
 | [Always By Your Side](https://open.spotify.com/track/6miOvQK1D76hopwIQqZr8y) | [Jung Se Young](https://open.spotify.com/artist/7mkeMDyzlRKT32H2hsAW6f) | [Bravo, My Life OST Part.6](https://open.spotify.com/album/5ZHtWTj9GoPviSKDpmNw4A) | 3:30 | 2022-05-11 | 2022-07-27 |
 | [Always on your side](https://open.spotify.com/track/3QGPAafQu3bRCVa7mqOchZ) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Always on your side](https://open.spotify.com/album/0nETRLU97ZOCWzSGoNqWkt) | 3:47 | 2022-03-24 | 2022-04-21 |
 | [Always with you](https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Always with you](https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu) | 4:22 | 2023-02-27 | 2023-06-23 |
@@ -862,6 +863,7 @@
 | [Please don\`t happy without me](https://open.spotify.com/track/4CDUbmbzqgBnVQqSbDzKNF) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Please don\`t happy without me](https://open.spotify.com/album/5NQoi3oR00GUJ433opLOvO) | 3:17 | 2023-02-24 | 2023-05-16 |
 | [Please Forget Me](https://open.spotify.com/track/6wsPqzuErrbr6ZmnQiT8cG) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Please Forget Me](https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT) | 4:31 | 2024-03-04 | 2024-07-12 |
 | [Please look at me](https://open.spotify.com/track/7oIsG96tN4l7v7i9VIBSyx) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Three Siblings Bravely OST Part.17 \(Soundtrack\)](https://open.spotify.com/album/6YXZmaRxST480CCVVlrPPz) | 3:33 | 2023-03-27 | 2023-07-18 |
+| [Please Stay](https://open.spotify.com/track/4NpJ91T1d41WxnWdyAcl4Q) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Please Stay](https://open.spotify.com/album/3x7Vyuc09YxeEwQ75Kiz0c) | 3:21 | 2024-10-31 |  |
 | [Please take on me](https://open.spotify.com/track/3dzXWDMHvWIt5j1iNyYxm0) | [BongGu \(GB9\)](https://open.spotify.com/artist/2hpfwA7tV7CTgMDZKqJwbv) | [Please take on me](https://open.spotify.com/album/59le5xdqY4RfjCeovcUymh) | 4:24 | 2022-12-16 | 2023-01-21 |
 | [poem in the wind](https://open.spotify.com/track/1lkRLQ8xIDxyj8oU8jXqDz) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [poem in the wind](https://open.spotify.com/album/3aCRKfh7AWFsjHKg3FqjaQ) | 3:57 | 2024-01-08 | 2024-04-03 |
 | [POWER OF LOVE](https://open.spotify.com/track/37aWSOZ4Oihn2bfMiD5neP) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [POWER OF LOVE](https://open.spotify.com/album/2wKTTgsFgEdOKiyFEOlbNs) | 3:41 | 2022-05-04 | 2022-05-17 |

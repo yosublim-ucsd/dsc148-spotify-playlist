@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,965 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,994 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 28 | [Solo Pienso En Ti \(feat\. De La Ghetto & Justin Quiles\)](https://open.spotify.com/track/53rkN7z3bKorDSIxDvqXNt) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Solo Pienso En Ti \(feat\. De La Ghetto & Justin Quiles\)](https://open.spotify.com/album/5GcW2cCrVqjPm3dgDJOBRF) | 4:28 |
 | 29 | [Sol y Luna](https://open.spotify.com/track/1WMMrUKNFsnEG2csDURxhb) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sol y Luna](https://open.spotify.com/album/1El0UxIBwU3431TI9656dK) | 2:43 |
 | 30 | [Me Prefiere A Mi](https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:46 |
-| 31 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
-| 32 | [Demasiado Tarde](https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Demasiado Tarde](https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa) | 4:31 |
+| 31 | [Demasiado Tarde](https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Demasiado Tarde](https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa) | 4:31 |
+| 32 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
 | 33 | [Si Te Vas](https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Si Te Vas](https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b) | 4:00 |
 | 34 | [Solo de Mi](https://open.spotify.com/track/5YOkA7qd2983FtBQnP8sYx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Solo de Mi](https://open.spotify.com/album/4tpexvNazI77pndY3LdOLX) | 3:17 |
 | 35 | [Champagne](https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Champagne](https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx) | 3:53 |

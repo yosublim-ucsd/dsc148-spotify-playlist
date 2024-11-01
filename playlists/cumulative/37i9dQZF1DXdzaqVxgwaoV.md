@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-304 songs - 18 hr 34 min
+305 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 | 2023-11-09 | 2024-04-19 |
 | [El Preso](https://open.spotify.com/track/57lDSIev3D8D9QhAG7nic0) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson Saoko](https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED) | [Éxitos Fruko](https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL) | 4:54 | 2024-09-01 | 2024-10-18 |
 | [El Pájaro Amarillo](https://open.spotify.com/track/5v2Q2VjK0LOxOW8J9AO4RL) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 3:12 | 2024-09-01 |  |
-| [El Ron de Vinola](https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:42 | 2023-11-15 |  |
+| [El Ron de Vinola](https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:42 | 2023-11-15 | 2024-11-01 |
 | [El Santo Cachon](https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Exitos](https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L) | 4:29 | 2023-11-09 | 2024-04-19 |
 | [El Santo Cachón](https://open.spotify.com/track/62Dsro7boSt2kTr0YY3OtX) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Éxitos los Embajadores Vallenatos](https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn) | 4:26 | 2023-12-20 |  |
 | [El Solitario](https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Colecciones de Oro](https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe) | 3:36 | 2023-12-05 | 2024-06-08 |
@@ -165,6 +165,7 @@
 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 | 2023-11-09 |  |
 | [La Zenaida](https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:28 | 2024-09-01 | 2024-10-18 |
 | [La Última Copa](https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Ídolo del Pueblo](https://open.spotify.com/album/6ig8xziD88iwcXRZjrWJtE) | 2:34 | 2023-12-20 | 2024-08-28 |
+| [Lamento Náufrago](https://open.spotify.com/track/2Ahqrb8eEW074pNJUoRpuv) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Lamento Náufrago](https://open.spotify.com/album/6b6XG4SmxqtW7OkspzBMFa) | 3:22 | 2024-11-01 |  |
 | [Las Brujas](https://open.spotify.com/track/4aZkFdtkmD0Keeh8Svosjf) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Vuelven los Clásicos de la Música de Balneario \(Vol\. 3\)](https://open.spotify.com/album/1qu2rvQnNPJvk0rVUO4kjC) | 4:34 | 2024-09-01 |  |
 | [Las Caleñas](https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As) | [Pastor Lopez Y Su Combo](https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde) | [Discos de Oro: Pastor López y Su Combo Volume 3](https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk) | 3:32 | 2023-11-09 | 2024-04-19 |
 | [Las Caleñas Son Como las Flores \- Remix](https://open.spotify.com/track/0xFcZaUaMALT6mbbGYBjZo) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:54 | 2024-09-01 |  |

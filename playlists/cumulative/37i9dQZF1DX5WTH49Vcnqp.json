@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 243087,
       "name": "Beginner",
       "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
@@ -4199,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "Champagne / That's Life",
+        "url": "https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327584,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7"
+    },
+    {
+      "album": {
         "name": "Chance On You (feat. KU\u010cKA)",
         "url": "https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv"
       },
@@ -4308,6 +4326,28 @@
       "duration_ms": 218179,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
+    },
+    {
+      "album": {
+        "name": "Charlie (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291536,
+      "name": "Charlie (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa"
     },
     {
       "album": {
@@ -7492,7 +7532,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 240137,
       "name": "Enough Of The Sweet Talk",
       "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
@@ -8036,6 +8076,24 @@
       "duration_ms": 256066,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+    },
+    {
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ"
     },
     {
       "album": {
@@ -9544,7 +9602,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 185946,
       "name": "Go!",
       "url": "https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu"
@@ -12805,6 +12863,28 @@
     },
     {
       "album": {
+        "name": "Image (Grimes Special)",
+        "url": "https://open.spotify.com/album/5GrbD3XhTH6jyvLTwRJpji"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215454,
+      "name": "Image - Grimes Special",
+      "url": "https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT"
+    },
+    {
+      "album": {
         "name": "Hold The Girl (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
       },
@@ -13702,7 +13782,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 260997,
       "name": "just stand there",
       "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
@@ -14174,6 +14254,24 @@
       "duration_ms": 164483,
       "name": "Leave Her",
       "url": "https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT"
+    },
+    {
+      "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
     },
     {
       "album": {
@@ -15210,7 +15308,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 178352,
       "name": "Love Songs",
       "url": "https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ"
@@ -16894,7 +16992,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 187433,
       "name": "Nack Nostalgia",
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
@@ -21371,6 +21469,24 @@
     },
     {
       "album": {
+        "name": "SHELL ( OF A MAN )",
+        "url": "https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219294,
+      "name": "SHELL ( OF A MAN )",
+      "url": "https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP"
+    },
+    {
+      "album": {
         "name": "sheluvme",
         "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
       },
@@ -24166,6 +24282,24 @@
       "duration_ms": 290802,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
+    },
+    {
+      "album": {
+        "name": "Tastes Like Forever",
+        "url": "https://open.spotify.com/album/215QMvTeoFnVA979rGytHy"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222704,
+      "name": "Tastes Like Forever",
+      "url": "https://open.spotify.com/track/33xgQAHpWcbY8B45sakPCn"
     },
     {
       "album": {

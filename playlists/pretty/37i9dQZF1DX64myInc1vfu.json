@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Daniel, Me Est\u00e1s Matando",
-  "num_followers": 89824,
+  "num_followers": 89862,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,26 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Dos Gardenias",
+        "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 181024,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Grecia",
         "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 200118,
       "name": "Grecia",
       "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Dos Gardenias",
-        "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 181024,
-      "name": "Dos Gardenias",
-      "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Amor En Cuarentena",
-        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Amor En Cuarentena",
-      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "TRAUMADOS",
         "url": "https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 255714,
       "name": "cuando el mundo acabe",
       "url": "https://open.spotify.com/track/09CWemxTQUearEPP4pT4uB"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Amor En Cuarentena",
+        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Amor En Cuarentena",
+      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "La Mudanza",
-        "url": "https://open.spotify.com/album/56gxJ8UilpgUPdRnexnLAl"
+        "name": "\u00bfPara qu\u00e9?",
+        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
       },
       "artists": [
         {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
         }
       ],
-      "duration_ms": 223691,
-      "name": "La Mudanza",
-      "url": "https://open.spotify.com/track/56cTihSjtGj6A0RgjxA8TZ"
+      "duration_ms": 220000,
+      "name": "\u00bfPara qu\u00e9?",
+      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "\u00bfPara qu\u00e9?",
-        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
+        "name": "La Mudanza",
+        "url": "https://open.spotify.com/album/56gxJ8UilpgUPdRnexnLAl"
       },
       "artists": [
         {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
         }
       ],
-      "duration_ms": 220000,
-      "name": "\u00bfPara qu\u00e9?",
-      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
+      "duration_ms": 223691,
+      "name": "La Mudanza",
+      "url": "https://open.spotify.com/track/56cTihSjtGj6A0RgjxA8TZ"
     },
     {
       "added_at": "2024-10-11 04:00:00",

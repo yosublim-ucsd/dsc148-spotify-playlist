@@ -3165,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "I AM...SASHA FIERCE - Platinum Edition",
+        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200320,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/6GQuF9vzJAVs7fYN9ftBdP"
+    },
+    {
+      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -4212,7 +4230,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 189464,
       "name": "forwards beckon rebound",
       "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
@@ -8132,6 +8150,28 @@
       "duration_ms": 78036,
       "name": "MONEY! (Money Money, Green Green)",
       "url": "https://open.spotify.com/track/40MPZ79Nb7wBZqA9PzLVy0"
+    },
+    {
+      "album": {
+        "name": "The Original Monster Mash",
+        "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        },
+        {
+          "name": "The Crypt-Kickers",
+          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
     },
     {
       "album": {
@@ -13844,7 +13884,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 166640,
       "name": "UP - KARINA Solo",
       "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
@@ -13968,7 +14008,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 67596,
       "name": "VAPO NO SETOR",
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"
@@ -14290,7 +14330,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
@@ -17250,7 +17290,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 212000,
       "name": "\u0421\u043f\u043e\u043c\u0435\u043d\u0438",
       "url": "https://open.spotify.com/track/31n33BYyCrBNsUCUQ1Qciy"
@@ -17454,7 +17494,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 219862,
       "name": "\u0422\u0435\u0431\u044f \u043d\u0435\u0436\u043d\u043e \u0433\u0440\u0443\u0431\u043e",
       "url": "https://open.spotify.com/track/5TyFmKLRSsTjlEewvAvb14"

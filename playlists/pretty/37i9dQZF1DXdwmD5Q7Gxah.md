@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > 🫧 ₊˚🪼⊹The world is your oyster 🦪‧₊˚ ✩  cover: Magdalena Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171,353 likes - 135 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,389 likes - 135 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 615831,
+  "num_followers": 615861,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADnOSi/XirzxKOYp6KGaUH1",
+  "snapshot_id": "ZyF3AAAAAADs84jxe4xJ1pA+8Ed50pYL",
   "tracks": [
     {
       "added_at": null,
@@ -867,18 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Jermaine Jackson",
+          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
         }
       ],
-      "duration_ms": 289733,
-      "name": "Lover for Life",
-      "url": "https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ"
+      "duration_ms": 260000,
+      "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
+      "url": "https://open.spotify.com/track/66RwIlYInGwQB4BokNhRnd"
     }
   ],
   "unique_name": "This Is Whitney Houston",

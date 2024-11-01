@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,591 likes - 74 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,601 likes - 74 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Kitto Coaster",
+        "url": "https://open.spotify.com/album/44jJ9Ig9MZGAtSAsAkwNTz"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178419,
+      "name": "Kitto Coaster",
+      "url": "https://open.spotify.com/track/3eRL7P8dLDtqv5RXcEEY8G"
+    },
+    {
+      "album": {
         "name": "Kyougen",
         "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
       },

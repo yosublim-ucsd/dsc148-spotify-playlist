@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-550 songs - 22 hr 45 min
+551 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Rostrum](https://open.spotify.com/track/6FBdKFeFKVveyC8v6l0KMg) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/14k8oEMytKKBos3mUQYgeM) | 2:15 | 2023-02-11 | 2024-04-19 |
 | [Rubberband](https://open.spotify.com/track/1kSWi8ycKlP4WSkuXOl9Rv) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/0i7o6n9c8pGHgfmqlMD9uz) | 1:51 | 2022-11-17 | 2024-04-19 |
 | [Rubberband](https://open.spotify.com/track/3gCnoDKLaiHoScvQuUAKeh) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Rubberband](https://open.spotify.com/album/3YTUVIwwsncLHLshRd6saT) | 1:51 | 2020-06-19 | 2022-11-20 |
+| [Sakura Bloom](https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz) | [MrSuperCraft](https://open.spotify.com/artist/1tEFFbxotubUSWVUqCowki), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Sakura Bloom](https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM) | 2:02 | 2024-10-26 |  |
 | [Sangria in Spain](https://open.spotify.com/track/6MLcmv9xFPlzsnLQ6xkWlo) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Sangria in Spain](https://open.spotify.com/album/0qK8hpdvwMVyTsi147Jyzp) | 2:21 | 2020-07-11 | 2020-11-06 |
 | [Saturnian Potion](https://open.spotify.com/track/1CBfTUq4k0OIL1eYhrM24o) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Saturnian Potion](https://open.spotify.com/album/0a6GJOHAnJ4FKPyck0llk8) | 3:37 | 2020-06-19 | 2020-10-21 |
 | [Sea Ridge](https://open.spotify.com/track/6705o4eSuU5Thuwg7PpHOx) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [\~](https://open.spotify.com/album/5lKlKfB4DOqEPLtcJ5RUVH) | 2:21 | 2020-07-18 | 2022-07-29 |
@@ -542,7 +543,7 @@
 | [Whiskey Sour](https://open.spotify.com/track/2VfsGpk0cMWyzM42hqKu5r) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Whiskey Sour / Strammer Max](https://open.spotify.com/album/5XGfotYYtQVErNef3THqQ8) | 1:42 | 2020-07-18 | 2022-04-06 |
 | [Whispers in the Night](https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [PAREIDOLIA](https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC) | 3:01 | 2023-03-02 | 2023-04-02 |
 | [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 | 2019-06-14 |  |
-| [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-16 |  |
+| [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-16 | 2024-11-01 |
 | [winter in rio](https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe) | 1:40 | 2022-07-28 | 2024-04-08 |
 | [winter in rio](https://open.spotify.com/track/2FKsGoYghIBDdxsXXBIfJg) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/7brRaqvhSGMhAV5cCRb3LQ) | 1:40 | 2019-07-26 | 2022-04-19 |
 | [Within 2 Days](https://open.spotify.com/track/11VYxuIGF0gVds8bByCiX9) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Within 2 Days](https://open.spotify.com/album/6dcm2itiMpOLAtYNoxskuj) | 2:02 | 2024-02-22 | 2024-04-13 |

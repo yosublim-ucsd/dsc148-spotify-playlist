@@ -5280,7 +5280,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 182093,
       "name": "Ground",
       "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
@@ -10650,6 +10650,24 @@
       "duration_ms": 189466,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG"
+    },
+    {
+      "album": {
+        "name": "Pieces Of A Dream",
+        "url": "https://open.spotify.com/album/7uCnCAztzPYMtlNOEBLjqM"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158642,
+      "name": "Pieces Of A Dream",
+      "url": "https://open.spotify.com/track/2HBjPMwy9yAoMkUB1cSg2p"
     },
     {
       "album": {

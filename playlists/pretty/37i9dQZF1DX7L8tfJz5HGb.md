@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 
 > Enjoy the Weverse Con Festival 2023 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2023 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,955 likes - 108 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,966 likes - 108 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 | 21 | [Comment from fromis\_9](https://open.spotify.com/track/3L8HciFmLVggJQrB8z8k3E) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 6:24 |
 | 22 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 |
 | 23 | [Attitude](https://open.spotify.com/track/1jkoDKZBMInTDwGlqoPOFC) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 3:10 |
-| 24 | [Tarantallegra](https://open.spotify.com/track/3osOlWhengHBVkEHBTMtQb) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi), [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq) | [Tarantallegra](https://open.spotify.com/album/5ZuzwlITpNDuP3PakIDknY) | 4:14 |
+| 24 | [사랑이 싫다구요](https://open.spotify.com/track/3osOlWhengHBVkEHBTMtQb) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Tarantallegra](https://open.spotify.com/album/5ZuzwlITpNDuP3PakIDknY) | 3:41 |
 | 25 | [HANA](https://open.spotify.com/track/1b2p57Q3RtuSYkmLIHs3jl) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [DIMENSION](https://open.spotify.com/album/2C4tl17a4f1oXbUPl2fymv) | 3:18 |
 | 26 | [Comment from XIA 1](https://open.spotify.com/track/6y6vzQG18ySFkoSHXHOW0i) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 2:41 |
 | 27 | [꽃](https://open.spotify.com/track/3z5takJnEUSfqGCQBX6wnG) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Flower](https://open.spotify.com/album/4zZesuy7oyjvjOsgVtS316) | 3:33 |

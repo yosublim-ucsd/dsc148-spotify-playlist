@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1185123,
+  "num_followers": 1185266,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Clear Spot",
-        "url": "https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p"
-      },
-      "artists": [
-        {
-          "name": "Captain Beefheart & His Magic Band",
-          "url": "https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw"
-        }
-      ],
-      "duration_ms": 177506,
-      "name": "Her Eyes Are a Blue Million Miles",
-      "url": "https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Happy Trails",
         "url": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 212733,
       "name": "Who Do You Love - Pt. 1",
       "url": "https://open.spotify.com/track/14hykKy6TC9y6chiptCtje"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Clear Spot",
+        "url": "https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p"
+      },
+      "artists": [
+        {
+          "name": "Captain Beefheart & His Magic Band",
+          "url": "https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "Her Eyes Are a Blue Million Miles",
+      "url": "https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Roger the Engineer",
-        "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        }
-      ],
-      "duration_ms": 142506,
-      "name": "Over Under Sideways Down - The Mono Album",
-      "url": "https://open.spotify.com/track/07KYQySlrmE94gaLbhvp4X"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "The Future Starts Here: The Essential Doors Hits",
         "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 390293,
       "name": "The End",
       "url": "https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Roger the Engineer",
+        "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "duration_ms": 142506,
+      "name": "Over Under Sideways Down - The Mono Album",
+      "url": "https://open.spotify.com/track/07KYQySlrmE94gaLbhvp4X"
     },
     {
       "added_at": "2024-07-12 17:17:21",

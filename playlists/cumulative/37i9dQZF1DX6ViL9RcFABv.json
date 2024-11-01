@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira",
+  "description": "Uma playlist de pura alma pop! Foto: Carolina Deslandes ",
   "name": "Pop PT",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 186922,
       "name": "Amar Pela Metade",
       "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
+    },
+    {
+      "album": {
+        "name": "AMAR-TE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0hRkh7InnZ2mgmqylauavI"
+      },
+      "artists": [
+        {
+          "name": "Mariza",
+          "url": "https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220950,
+      "name": "AMAR-TE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3LintSc7Y6RlQAsJT9aJPc"
     },
     {
       "album": {
@@ -834,7 +852,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 200720,
       "name": "Dis-Le Moi",
       "url": "https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v"
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 181900,
       "name": "H\u00e1 Sempre Uma M\u00fasica",
       "url": "https://open.spotify.com/track/1dqbBoLNdmUUOhTfPPsBcE"
@@ -1478,6 +1496,28 @@
       "duration_ms": 179826,
       "name": "Imagina a Cara Dela",
       "url": "https://open.spotify.com/track/3RyP0beviSEoGuMN0nGDPX"
+    },
+    {
+      "album": {
+        "name": "INVIS\u00cdVEL",
+        "url": "https://open.spotify.com/album/6DHs8XGJC8d63tl67Ce9NU"
+      },
+      "artists": [
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        },
+        {
+          "name": "J\u00dcRA",
+          "url": "https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203763,
+      "name": "INVIS\u00cdVEL",
+      "url": "https://open.spotify.com/track/7e2qBpIs1593KtO3Jtz8TX"
     },
     {
       "album": {
@@ -1682,7 +1722,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 198106,
       "name": "No Teu Lugar",
       "url": "https://open.spotify.com/track/3KTYDS1L8tB2AuQOP6Wj9h"
@@ -1726,7 +1766,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 196418,
       "name": "N\u00e3o Durmo Bem",
       "url": "https://open.spotify.com/track/5TgfKSmnnyI21rnY5m01kf"

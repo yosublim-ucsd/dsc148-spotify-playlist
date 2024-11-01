@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Wild Rivers
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,657 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,672 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 56 | [Life Is](https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:08 |
 | 57 | [I Figured We'd Go Dancin'](https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Fighting For](https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1) | 4:45 |
 | 58 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 |
-| 59 | [Wildflower and Barley](https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 3:42 |
+| 59 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 |
 | 60 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
-| 61 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 |
+| 61 | [Wildflower and Barley](https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 3:42 |
 | 62 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 |
 | 63 | [Gasoline](https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Gasoline](https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e) | 2:34 |
 | 64 | [Fields](https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Fields](https://open.spotify.com/album/0Rdj1ZSyzCFEjhXHsC0nrU) | 3:10 |

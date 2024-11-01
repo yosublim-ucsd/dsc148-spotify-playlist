@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.",
-  "num_followers": 174633,
+  "num_followers": 174687,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
-        "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
+        "name": "Los Versos de la Catrina",
+        "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
       },
       "artists": [
         {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
         }
       ],
-      "duration_ms": 272146,
-      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
-      "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
+      "duration_ms": 247453,
+      "name": "Los Versos de la Catrina",
+      "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -991,6 +987,26 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
+        "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+        "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
+      },
+      "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 272146,
+      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+      "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 215480,
       "name": "Tocando el Cielo",
       "url": "https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
-        "name": "Los Versos de la Catrina",
-        "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
-      },
-      "artists": [
-        {
-          "name": "Armando Palomas",
-          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Los Versos de la Catrina",
-      "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Hurbanistorias",
-        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
       "artists": [
         {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+          "name": "Brebaje Extra\u00f1o",
+          "url": "https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ"
         }
       ],
-      "duration_ms": 288360,
-      "name": "Estacion Del Metro Balderas",
-      "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
+      "duration_ms": 280240,
+      "name": "Ha Vuelto Ya",
+      "url": "https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
       },
       "artists": [
         {
-          "name": "Brebaje Extra\u00f1o",
-          "url": "https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ"
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 280240,
-      "name": "Ha Vuelto Ya",
-      "url": "https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG"
+      "duration_ms": 288360,
+      "name": "Estacion Del Metro Balderas",
+      "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
     },
     {
       "added_at": "2024-07-12 18:10:47",

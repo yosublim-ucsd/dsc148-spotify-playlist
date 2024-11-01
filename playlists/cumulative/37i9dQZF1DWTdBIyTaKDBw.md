@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-319 songs - 18 hr 5 min
+320 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [rainy day](https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:41 | 2024-07-02 |  |
 | [Red Lamps.](https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL), [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Red Lamps.](https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi) | 2:11 | 2024-07-02 |  |
 | [Remembrance](https://open.spotify.com/track/5IOnrqVaLAQ0gS8gjNNdDU) | [Kerusu](https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8) | [Remembrance](https://open.spotify.com/album/4uRYwjUle4SuyO1Uzwi17v) | 3:30 | 2024-07-02 |  |
+| [Ren'ai](https://open.spotify.com/track/2Vs4mAQUclWvqJWCwZNx8R) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Maiko](https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0) | 3:23 | 2024-07-02 |  |
 | [rest & be thankful](https://open.spotify.com/track/1qObLobp2GhmwXJYzrJ7u1) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [I Eat Plants for a Living](https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK) | [rest & be thankful](https://open.spotify.com/album/1KnlzGpydfNw0XXyyVUdV8) | 2:06 | 2024-07-02 |  |
 | [Rising Light](https://open.spotify.com/track/2SvVkBk3CzOle7MQqViMzV) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:14 | 2024-07-02 | 2024-09-23 |
 | [Road to Kiyomizu](https://open.spotify.com/track/2VtwKcB38DMOBBJW6EsYGq) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Road to Kiyomizu](https://open.spotify.com/album/1PwAaIHNxoaUh2zMzRHZdb) | 2:43 | 2024-07-02 |  |
@@ -229,7 +230,7 @@
 | [Sea Of Love](https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:15 | 2022-05-03 | 2024-07-03 |
 | [Secret Place](https://open.spotify.com/track/7nYSThKhGZuaOQ8zeKSm1X) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Harmony](https://open.spotify.com/album/7biuWedEj1S1VAkVovjzX1) | 4:27 | 2024-07-02 |  |
 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 | 2024-07-02 |  |
-| [Shangri\-la](https://open.spotify.com/track/3qVG7xejiok5tjEVguRbra) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:18 | 2024-07-02 |  |
+| [Shangri\-la](https://open.spotify.com/track/3qVG7xejiok5tjEVguRbra) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:18 | 2024-07-02 | 2024-11-01 |
 | [Shinrin](https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Peace of Mind](https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd) | 3:15 | 2024-07-02 |  |
 | [Shower duty](https://open.spotify.com/track/3vCbwbAIRB1vkQAGbNXO3F) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:33 | 2022-05-03 | 2022-09-09 |
 | [sigh](https://open.spotify.com/track/53pxxjKIvaIxQwOpIeCLdk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:22 | 2022-06-20 | 2022-07-24 |

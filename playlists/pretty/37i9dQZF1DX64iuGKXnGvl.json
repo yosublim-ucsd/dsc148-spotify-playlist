@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 160294,
+  "num_followers": 160393,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
         }
       ],
-      "duration_ms": 174600,
-      "name": "\u00c1mame Hasta Con Los Dientes",
-      "url": "https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm"
+      "duration_ms": 260786,
+      "name": "T\u00fa Y Yo Somos Uno Mismo",
+      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
         }
       ],
-      "duration_ms": 260786,
-      "name": "T\u00fa Y Yo Somos Uno Mismo",
-      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
+      "duration_ms": 174600,
+      "name": "\u00c1mame Hasta Con Los Dientes",
+      "url": "https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
+        "name": "Celebridades- Daniela Romo",
+        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
         "name": "Duetos",
         "url": "https://open.spotify.com/album/4PCfCY3SQkDFq2DkF6zYLt"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 223560,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/0voqOa0RHLxuo5mNQ1PTaj"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
-        "name": "Celebridades- Daniela Romo",
-        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
     },
     {
       "added_at": "2024-06-12 20:35:23",

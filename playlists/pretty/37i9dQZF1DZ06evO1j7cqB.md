@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,163 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,164 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Masters of the Universe: Revelation \- Extended Version](https://open.spotify.com/track/6J7kQ0BC7okiBFwbxLo7Rw) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Masters of the Universe: Revelation \(Netflix Original Series Soundtrack, Vol\. 1\)](https://open.spotify.com/album/1k5g35tSjZE4Rqqa96mbq1) | 1:55 |
+| 1 | [Masters of the Universe: Revelation \- Extended Version](https://open.spotify.com/track/6J7kQ0BC7okiBFwbxLo7Rw) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Masters of the Universe: Revelation \(Netflix Original Series Soundtrack, Vol\. 1\)](https://open.spotify.com/album/1k5g35tSjZE4Rqqa96mbq1) | 1:55 |
 | 2 | [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 |
 | 3 | [Outlander \- The Skye Boat Song \(Castle Leoch Version\) \[feat\. Raya Yarbrough\]](https://open.spotify.com/track/3RQPR2TN3DIj4dqDUEE2LO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 2:04 |
 | 4 | [Old Tom Bombadil Reprise \(feat\. Rory Kinnear and Daniel Weyman\)](https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Rory Kinnear](https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF), [Daniel Weyman](https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 2:19 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 39 | [Lullaby of the Giants](https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:43 |
 | 40 | [Theme from Black Sails](https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 3:17 |
 
-Snapshot ID: `ZyAlgAAAAABGvMKAZ2fxQJsTdT93lb7X`
+Snapshot ID: `ZyF3AAAAAABEOkKaYzBi2s0YqynMAjc/`

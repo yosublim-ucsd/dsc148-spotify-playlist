@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-170 songs - 19 hr 43 min
+171 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 | 2023-03-23 |  |
 | [Feel Good](https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Feel Good EP](https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a) | 6:32 | 2024-01-11 |  |
 | [Flute Activation \- Original Mix](https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Artform](https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5) | 7:39 | 2022-09-14 | 2024-07-19 |
+| [For Just A Moment \- Mixed](https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp) | [Avi Subban](https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s) | [Electro Candi 5, Pt\. 2 \(DJ Mix\)](https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA) | 5:02 | 2024-10-31 |  |
 | [For You \- Radio Edit](https://open.spotify.com/track/4GXU7T8VbLPMPB1vSmDqfV) | [Sir LSG](https://open.spotify.com/artist/2Uy7rPXDCqkd90ksG3sgt0), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1), [The Bless](https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5) | [For You](https://open.spotify.com/album/4zmplDOrmI2HQafep28PVU) | 4:49 | 2024-04-25 |  |
 | [Forever](https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Forever](https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo) | 4:48 | 2024-05-16 |  |
 | [Forever \- TekniQ Soulful Mix](https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Forever \(TekniQ Remixes\)](https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3) | 5:55 | 2022-09-14 | 2023-03-18 |
@@ -77,7 +78,7 @@
 | [Joker](https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE) | 5:23 | 2023-03-17 | 2024-03-21 |
 | [Joker](https://open.spotify.com/track/7iIE5iJjyQ5STT7kFSY1fX) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/5lV2QzhcKf6NAPg9gIfRyC) | 5:23 | 2024-03-15 | 2024-04-19 |
 | [Joy Ride](https://open.spotify.com/track/44OulbiTBps06KLwYGwUER) | [Guztav](https://open.spotify.com/artist/5njhRrz5uOFMp6PVBhq4XH) | [Joy Ride](https://open.spotify.com/album/7lbLT70sHiUhkpISvO8dI6) | 7:08 | 2024-05-16 | 2024-05-23 |
-| [King of Castles](https://open.spotify.com/track/5yK4SXGC0P5ak5kO4mj8cg) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [King of Castles](https://open.spotify.com/album/243FAgBWqvxnbuFEED8enP) | 5:13 | 2024-05-16 |  |
+| [King of Castles](https://open.spotify.com/track/5yK4SXGC0P5ak5kO4mj8cg) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [King of Castles](https://open.spotify.com/album/243FAgBWqvxnbuFEED8enP) | 5:13 | 2024-05-16 | 2024-11-01 |
 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 | 2024-02-15 |  |
 | [Lately I Found Myself](https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn) | [HisKing](https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj), [The Poetic Manic](https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF) | [Lately I Found Myself](https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP) | 7:28 | 2023-03-23 | 2023-11-18 |
 | [Lesedi](https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J) | [Back To Front EP](https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0) | 8:14 | 2022-09-29 | 2024-07-19 |

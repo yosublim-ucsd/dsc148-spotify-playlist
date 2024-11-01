@@ -1,12 +1,12 @@
 {
   "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
-  "num_followers": 20470,
+  "num_followers": 20473,
   "original_name": "This Is Sister Rosetta Tharpe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADpDUDO2IaMFlItp6B19b+1",
+  "snapshot_id": "ZyF3AAAAAADTvrF7a7NH13Du3oEGcSeT",
   "tracks": [
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 119744,
-      "name": "99 1/2 Won't Do",
-      "url": "https://open.spotify.com/track/7AJRlFDvX1PhxFIDJRMMFS"
+      "duration_ms": 164311,
+      "name": "Cain't No Grave Hold My Body Down",
+      "url": "https://open.spotify.com/track/2O89VddEOv4BywX9bad9Vm"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 164311,
-      "name": "Cain't No Grave Hold My Body Down",
-      "url": "https://open.spotify.com/track/2O89VddEOv4BywX9bad9Vm"
+      "duration_ms": 119744,
+      "name": "99 1/2 Won't Do",
+      "url": "https://open.spotify.com/track/7AJRlFDvX1PhxFIDJRMMFS"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Precious Memories",
-        "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
+        "name": "Gospel Train",
+        "url": "https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 222906,
-      "name": "Come By Here",
-      "url": "https://open.spotify.com/track/1HdGMegJdBak9lLtgzWRoA"
+      "duration_ms": 157573,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gospel Train",
-        "url": "https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px"
+        "name": "Precious Memories",
+        "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
       },
       "artists": [
         {
@@ -540,25 +540,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 157573,
-      "name": "All Alone",
-      "url": "https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Epic: The Soundtrack",
-        "url": "https://open.spotify.com/album/21Sm8niJI2UqXfD3slifFQ"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Up Above My Head",
-      "url": "https://open.spotify.com/track/4HhfG0tUfWTsyKgiCWk0SE"
+      "duration_ms": 222906,
+      "name": "Come By Here",
+      "url": "https://open.spotify.com/track/1HdGMegJdBak9lLtgzWRoA"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
       "duration_ms": 171173,
       "name": "I Want A Tall Skinny Papa",
       "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Epic: The Soundtrack",
+        "url": "https://open.spotify.com/album/21Sm8niJI2UqXfD3slifFQ"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Up Above My Head",
+      "url": "https://open.spotify.com/track/4HhfG0tUfWTsyKgiCWk0SE"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Precious Memories",
-        "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 248266,
-      "name": "Savior Don't Pass Me By",
-      "url": "https://open.spotify.com/track/1d3J6GuvuIH14U5L8efaaN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rosetta Tharpe Is Wonderful",
         "url": "https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Precious Memories",
+        "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 248266,
+      "name": "Savior Don't Pass Me By",
+      "url": "https://open.spotify.com/track/1d3J6GuvuIH14U5L8efaaN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock Me",
         "url": "https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0"
       },
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 150893,
-      "name": "Don't You Weep, o Mary, Don't You Weep",
-      "url": "https://open.spotify.com/track/1UouZhAKNnv2f2smBOrGU8"
+      "duration_ms": 165613,
+      "name": "Stretch Out",
+      "url": "https://open.spotify.com/track/2ZT3NIKMCgtNdnEyTgxJd6"
     },
     {
       "added_at": null,
@@ -720,25 +720,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 165613,
-      "name": "Stretch Out",
-      "url": "https://open.spotify.com/track/2ZT3NIKMCgtNdnEyTgxJd6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gospel Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 204959,
-      "name": "Beams Of Heaven",
-      "url": "https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT"
+      "duration_ms": 150893,
+      "name": "Don't You Weep, o Mary, Don't You Weep",
+      "url": "https://open.spotify.com/track/1UouZhAKNnv2f2smBOrGU8"
     },
     {
       "added_at": null,
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singing In My Soul",
-        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+        "name": "Gospel Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
       "artists": [
         {
@@ -768,9 +752,25 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 201533,
-      "name": "Strange Things Are Happening",
-      "url": "https://open.spotify.com/track/53RPjPo21M6JzNDZd0HQ2N"
+      "duration_ms": 204959,
+      "name": "Beams Of Heaven",
+      "url": "https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel Truth: All New! Her Greatest Gospel Hits",
+        "url": "https://open.spotify.com/album/3qwLiCPnFuFL7KY6wLEoWa"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 187937,
+      "name": "This Is A Mean Old World To Live In",
+      "url": "https://open.spotify.com/track/2KBFYYiNCW7cKogYmWopbw"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel Truth: All New! Her Greatest Gospel Hits",
-        "url": "https://open.spotify.com/album/3qwLiCPnFuFL7KY6wLEoWa"
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 187937,
-      "name": "This Is A Mean Old World To Live In",
-      "url": "https://open.spotify.com/track/2KBFYYiNCW7cKogYmWopbw"
+      "duration_ms": 201533,
+      "name": "Strange Things Are Happening",
+      "url": "https://open.spotify.com/track/53RPjPo21M6JzNDZd0HQ2N"
     },
     {
       "added_at": null,

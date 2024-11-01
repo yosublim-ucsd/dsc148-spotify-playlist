@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest crossover songs from the islands and the diaspora\. Cover: Amanda Reifer
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,157 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,160 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 34 | [Vibes](https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Vibes](https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN) | 2:28 |
 | 35 | [WiFi](https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Drumma Boy](https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh) | [WiFi](https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8) | 3:33 |
 | 36 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |
-| 37 | [Out Of This World](https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Out Of This World](https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or) | 2:56 |
-| 38 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 |
+| 37 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 |
+| 38 | [Out Of This World](https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Out Of This World](https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or) | 2:56 |
 | 39 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 |
 | 40 | [History](https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [History](https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO) | 3:05 |
 | 41 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 |

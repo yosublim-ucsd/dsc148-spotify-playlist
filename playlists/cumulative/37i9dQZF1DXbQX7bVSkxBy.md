@@ -2,9 +2,9 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ?si=USJt32zsRgCkN7bfZyv2\_w>Tjsarx</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR?si=OOaayHN6SPqa0YnD0BDfKw>Rotimikeys</a>
 
-311 songs - 1 day 1 hr 37 min
+312 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Attention](https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [ATTENTION](https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG) | 3:23 | 2023-11-03 | 2023-11-11 |
 | [Away](https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Away](https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL) | 3:30 | 2023-09-08 | 2023-12-13 |
 | [Ayaaaa](https://open.spotify.com/track/7kNSQbZwZU6hhkFyuq98PH) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [NAWIRAS Mass Choir](https://open.spotify.com/artist/68FjyOBa9zUDt1UkvioE05) | [Ayaaaa](https://open.spotify.com/album/7Dy3YwfcZwHtszp8T5u7Lg) | 11:55 | 2023-08-11 | 2023-08-18 |
+| [AYO](https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [AYO](https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H) | 3:43 | 2024-11-01 |  |
 | [B'ola \(Live\)](https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [B'ola \(Live\)](https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E) | 10:50 | 2024-03-29 | 2024-04-05 |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-05-26 |  |
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-12 | 2024-05-05 |
@@ -96,7 +97,7 @@
 | [Excess Love \- Live](https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 8:27 | 2023-10-20 | 2023-10-27 |
 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 | 2023-04-14 | 2023-11-18 |
 | [Father](https://open.spotify.com/track/1LLNos2Ev8dPehkESiwNZn) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 3:40 | 2024-03-29 | 2024-04-05 |
-| [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 | 2024-03-01 |  |
+| [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 | 2024-03-01 | 2024-11-01 |
 | [Fire \- Remix](https://open.spotify.com/track/1xlDaW6jp8aVe5uRtypeYH) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec) | [Fire \(Remix\)](https://open.spotify.com/album/2KDIUs2dLkvKsHesXFMEfn) | 3:10 | 2024-07-01 | 2024-07-12 |
 | [Fly Away](https://open.spotify.com/track/6OTBSObTPBgyVHHLs97Stx) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/3QhC4P5UhOObGxi77cqEAx) | 2:35 | 2023-12-29 | 2024-02-14 |
 | [Fly Away](https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:35 | 2023-12-29 | 2024-04-19 |

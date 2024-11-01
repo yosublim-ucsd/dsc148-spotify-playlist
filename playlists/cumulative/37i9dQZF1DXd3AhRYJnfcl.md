@@ -2,9 +2,9 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk?si=ef\_99M3JRxe5YPG0o9U3og"> حمزة نمرة </a>
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M?si=d7JPElYyRYGjvFQaCC9\_Qg"> عمرو دياب </a>
 
-336 songs - 19 hr 30 min
+338 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Alo Aleky](https://open.spotify.com/track/0St4yTM6hCeEmguD3Orcrt) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/28bpAuTZGKxqTuy38Ndfj9) | 2:58 | 2023-11-07 | 2023-12-09 |
 | [Alo Aleky](https://open.spotify.com/track/0qC4KxOmWoSaMqwj9rHp49) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/5vK51kHNYyuHEz3Ikftc7I) | 2:58 | 2023-12-08 | 2024-01-16 |
 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2022-11-23 | 2023-11-11 |
+| [Amaken El Sahar](https://open.spotify.com/track/7lYXrmbJhunVGUYDGvZcL5) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Amaken El Sahar](https://open.spotify.com/album/4O72F4w5CdsrzEIbvi9al7) | 4:11 | 2024-10-31 |  |
 | [Amar](https://open.spotify.com/track/19QZmE8ctW3y569h1TkL5W) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 3:12 | 2023-05-05 | 2023-06-17 |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-29 | 2023-09-22 |
 | [Ana Ghaltan](https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:27 | 2022-09-26 | 2023-02-10 |
@@ -51,7 +52,7 @@
 | [Bel Ayam](https://open.spotify.com/track/0Qgz51ULTJYW2WM9BIkOCZ) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Bel Ayam](https://open.spotify.com/album/2g5ojm2tJGOifaly1tD3UT) | 3:45 | 2024-10-02 |  |
 | [Bent El Nas](https://open.spotify.com/track/61JQ7hNgNjIBdfjOAmrtZC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Bent El Nas](https://open.spotify.com/album/7Mw6RzdygHFoN2Kd9fzSy8) | 3:00 | 2023-05-30 | 2023-06-21 |
 | [Bent Nas](https://open.spotify.com/track/3jeyJpwPY9QWUddcEGhusX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Bent Nas](https://open.spotify.com/album/3Ri2hmioKq6vbbw4OXcjoI) | 2:20 | 2024-09-09 |  |
-| [Betghiri Leh](https://open.spotify.com/track/3l8FQkw3SLciIJ43oTyJ5b) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Betghiri Leh](https://open.spotify.com/album/1v9uhLC9i3UDdlTUKzBDJW) | 3:11 | 2024-09-09 |  |
+| [Betghiri Leh](https://open.spotify.com/track/3l8FQkw3SLciIJ43oTyJ5b) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Betghiri Leh](https://open.spotify.com/album/1v9uhLC9i3UDdlTUKzBDJW) | 3:11 | 2024-09-09 | 2024-11-01 |
 | [Blanco](https://open.spotify.com/track/6Uig1yLkQkBZoHGDyZrTzm) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Akhro Noor](https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7) | 2:26 | 2023-04-20 | 2024-01-21 |
 | [Brazil](https://open.spotify.com/track/6cpTq72SH9QSocMTnGEKg5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:32 | 2022-09-26 | 2023-05-31 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-02-17 | 2023-04-21 |
@@ -112,6 +113,7 @@
 | [Hazy Men El Sama Men Bernameg Beit El Saad](https://open.spotify.com/track/5kXPBF0lGxYpJv39WwwIos) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Hazy Men El Sama Men Bernameg Beit El Saad](https://open.spotify.com/album/4TkxBsn97CjOMeXJcfM5ie) | 2:18 | 2024-09-09 | 2024-10-03 |
 | [Heya](https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Heya](https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v) | 3:59 | 2022-06-07 | 2022-07-14 |
 | [Hob Meen](https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hob Meen](https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw) | 3:41 | 2022-07-05 | 2022-08-18 |
+| [Inta El Haz](https://open.spotify.com/track/0647xnQGtzAulUlJC8s4r4) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Inta El Haz](https://open.spotify.com/album/0xhjjrdum8xbJwEuQyJUid) | 2:50 | 2024-10-31 |  |
 | [James Dean](https://open.spotify.com/track/3bN0IZvx7rI9yK0JAYdP2M) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [James Dean](https://open.spotify.com/album/0xreh1fpGApy66xjYdGEMD) | 4:04 | 2022-09-23 | 2023-02-14 |
 | [Kan Mawdo3](https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:42 | 2022-04-13 | 2022-07-20 |
 | [Kefaya Foraa](https://open.spotify.com/track/3Zven3QT9Wt2C8QuaIVHLQ) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kefaya Foraa](https://open.spotify.com/album/4ZI99AJbqBq4iDI1H6D3Ag) | 3:21 | 2024-09-09 | 2024-10-03 |
@@ -339,7 +341,7 @@
 | [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2023-03-09 | 2023-05-19 |
 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 | 2023-06-16 | 2023-08-19 |
 | [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 | 2024-02-16 | 2024-06-14 |
-| [يا نهار أبيض](https://open.spotify.com/track/2an88boj0ZLFW2fuR8rU62) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [يا نهار أبيض](https://open.spotify.com/album/5djktdDUUImWkep7ffYj9v) | 2:24 | 2024-09-09 |  |
+| [يا نهار أبيض](https://open.spotify.com/track/2an88boj0ZLFW2fuR8rU62) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [يا نهار أبيض](https://open.spotify.com/album/5djktdDUUImWkep7ffYj9v) | 2:24 | 2024-09-09 | 2024-11-01 |
 | [ياما ليالي وانت مش معايا](https://open.spotify.com/track/4OCP9kY5Mnyv3AprGs9Zsk) | [Sara Haitham](https://open.spotify.com/artist/754hCO2owSoa0vKgRiGTq0) | [ياما ليالي وانت مش معايا](https://open.spotify.com/album/7CRtNqX3fCBubRoNUO3JjG) | 3:51 | 2024-09-09 |  |
 | [يلا ندي للي باعنا بوسة](https://open.spotify.com/track/6kQSn6wpNfhi6okDREctqv) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا ندي للي باعنا بوسة](https://open.spotify.com/album/4KfbVuvo0ZUztFoyB3LY0s) | 3:02 | 2023-03-09 | 2023-05-06 |
 | [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 | 2023-01-24 |  |

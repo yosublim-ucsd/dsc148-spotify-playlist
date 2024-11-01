@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Epik High)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: G-DRAGON)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -20917,6 +20917,24 @@
     },
     {
       "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143242,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
+    },
+    {
+      "album": {
         "name": "SPACE TALK",
         "url": "https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1"
       },
@@ -30840,6 +30858,36 @@
       "duration_ms": 184600,
       "name": "ZOMBIES",
       "url": "https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc"
+    },
+    {
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/7vyywKqNuOsQ0UveBQPhRn"
+      },
+      "artists": [
+        {
+          "name": "BMSG POSSE",
+          "url": "https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk"
+        },
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184853,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/0kLktoAjZQczngphPbfq52"
     },
     {
       "album": {

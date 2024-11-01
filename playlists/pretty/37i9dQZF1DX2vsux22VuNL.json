@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 292275,
+  "num_followers": 292315,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -583,46 +583,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Praia do Rosa",
-        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 155553,
-      "name": "Praia do Rosa",
-      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Deixa Acender",
-        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
-      },
-      "artists": [
-        {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Deixa Acender",
-      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Sempre Que Me V\u00ea",
         "url": "https://open.spotify.com/album/0gjyJm3JIFWXueTBg318dI"
       },
@@ -659,6 +619,46 @@
       "duration_ms": 211764,
       "name": "Sempre Que Me V\u00ea",
       "url": "https://open.spotify.com/track/486dXyOiD0WKfEtSzUEWuj"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Deixa Acender",
+        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
+      },
+      "artists": [
+        {
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "Deixa Acender",
+      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Praia do Rosa",
+        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 155553,
+      "name": "Praia do Rosa",
+      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Voc\u00ea Falou pra Mim",
         "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 141120,
       "name": "Voc\u00ea Falou pra Mim",
       "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Voc\u00ea Chegou",
-        "url": "https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Meus Olhos",
         "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 188548,
       "name": "Meus Olhos",
       "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Me Diz Quando A Gente Vai Se Ver",
-        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Me Diz Quando A Gente Vai Se Ver",
-      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Summer Groove",
         "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Me Diz Quando A Gente Vai Se Ver",
+        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Me Diz Quando A Gente Vai Se Ver",
+      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "O Que Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
       },
@@ -1531,26 +1531,6 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
-      },
-      "artists": [
-        {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
-        },
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1599,6 +1579,26 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Ins\u00f4nia",
         "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
       },
@@ -1619,82 +1619,6 @@
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Naturalmente",
-        "url": "https://open.spotify.com/album/59w70fXpOJqCTQLK90p2Co"
-      },
-      "artists": [
-        {
-          "name": "Sagaz",
-          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
-        },
-        {
-          "name": "Du10",
-          "url": "https://open.spotify.com/artist/5x35imJ0DLzAkC9mjmmeAJ"
-        }
-      ],
-      "duration_ms": 115763,
-      "name": "Naturalmente",
-      "url": "https://open.spotify.com/track/2ptglFQqEtPggQpBX4nUFn"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Bora pra praia",
-        "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        },
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "BORABAEZ",
-          "url": "https://open.spotify.com/artist/3hJUVrmL4KCQKvr9EEilVj"
-        }
-      ],
-      "duration_ms": 228349,
-      "name": "Bora pra praia",
-      "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Sentir Saudade",
-        "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 206451,
-      "name": "Sentir Saudade",
-      "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1739,6 +1663,82 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Sentir Saudade",
+        "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 206451,
+      "name": "Sentir Saudade",
+      "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Bora pra praia",
+        "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        },
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "BORABAEZ",
+          "url": "https://open.spotify.com/artist/3hJUVrmL4KCQKvr9EEilVj"
+        }
+      ],
+      "duration_ms": 228349,
+      "name": "Bora pra praia",
+      "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Naturalmente",
+        "url": "https://open.spotify.com/album/59w70fXpOJqCTQLK90p2Co"
+      },
+      "artists": [
+        {
+          "name": "Sagaz",
+          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
+        },
+        {
+          "name": "Du10",
+          "url": "https://open.spotify.com/artist/5x35imJ0DLzAkC9mjmmeAJ"
+        }
+      ],
+      "duration_ms": 115763,
+      "name": "Naturalmente",
+      "url": "https://open.spotify.com/track/2ptglFQqEtPggQpBX4nUFn"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
         "url": "https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO"
       },
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Acordo Cedo",
         "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 125186,
       "name": "Acordo Cedo",
       "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2024-10-18 03:00:00",

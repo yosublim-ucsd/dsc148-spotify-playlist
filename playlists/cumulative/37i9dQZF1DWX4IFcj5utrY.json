@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: KMAT",
+  "description": "The best dance hits in South Africa and across the globe. Cover: Kali Mija",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -4437,6 +4437,24 @@
     },
     {
       "album": {
+        "name": "Chibuku",
+        "url": "https://open.spotify.com/album/5QUdoYUVe7djjf9C3XWiZb"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295817,
+      "name": "Chibuku",
+      "url": "https://open.spotify.com/track/6q2TVvIWdKbt7sC3vn4FlO"
+    },
+    {
+      "album": {
         "name": "Close My Eyes",
         "url": "https://open.spotify.com/album/1cU0eE3jwlG2IAIj8WUroc"
       },
@@ -6110,7 +6128,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 300778,
       "name": "Ematshwaleni",
       "url": "https://open.spotify.com/track/2ywtXblqZ2XNbbLTvCc1Cy"
@@ -11619,6 +11637,28 @@
     },
     {
       "album": {
+        "name": "Kitu",
+        "url": "https://open.spotify.com/album/2Sod7d7BoCFDWMSlFJdqF5"
+      },
+      "artists": [
+        {
+          "name": "Dal\u00e9 Habibi",
+          "url": "https://open.spotify.com/artist/7bqd0QpmmKrXc0ma7eGl41"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397948,
+      "name": "Kitu",
+      "url": "https://open.spotify.com/track/6syW3rE6yMNKqVhCSCWMzM"
+    },
+    {
+      "album": {
         "name": "Kivuna",
         "url": "https://open.spotify.com/album/7u1wlB6W9kjTdb64OsQAzI"
       },
@@ -14826,7 +14866,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 375813,
       "name": "My Love (Vigro Deep Remix)",
       "url": "https://open.spotify.com/track/537meWHdSQxsDQBWMlR7R3"
@@ -15634,6 +15674,28 @@
       "duration_ms": 345289,
       "name": "No Words - African Mix",
       "url": "https://open.spotify.com/track/1KeaQp5fDMCOVnSr9HJ1lS"
+    },
+    {
+      "album": {
+        "name": "Fractured Reflections",
+        "url": "https://open.spotify.com/album/7i6HU97dbHiVlKeRvklH1T"
+      },
+      "artists": [
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358008,
+      "name": "Nobody Cares",
+      "url": "https://open.spotify.com/track/1h5Ds9SNjbVIu0qMXs723B"
     },
     {
       "album": {
@@ -20604,7 +20666,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 160314,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
@@ -22428,6 +22490,28 @@
       "duration_ms": 393305,
       "name": "Ulele",
       "url": "https://open.spotify.com/track/2znV6ccKYPJOLh1GzKM3zE"
+    },
+    {
+      "album": {
+        "name": "A Life Worth Living",
+        "url": "https://open.spotify.com/album/0MC35ofBLwDfne9bhI2bvq"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Umculo",
+      "url": "https://open.spotify.com/track/49oBwW9tEz6J2fh2GYSEdD"
     },
     {
       "album": {

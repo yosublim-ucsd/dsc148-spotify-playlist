@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 353034,
+  "num_followers": 353063,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "OUR LOVE (80'S)",
-        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
-      },
-      "artists": [
-        {
-          "name": "YOURS",
-          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
-        }
-      ],
-      "duration_ms": 179323,
-      "name": "OUR LOVE (80'S)",
-      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "do you feel it too?",
         "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "OUR LOVE (80'S)",
+        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "duration_ms": 179323,
+      "name": "OUR LOVE (80'S)",
+      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Can't Afford Me",
-        "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
+        "name": "Da Bump",
+        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
       },
       "artists": [
         {
-          "name": "Kuma Overdose",
-          "url": "https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ"
-        },
-        {
-          "name": "SA$H\u00a3R",
-          "url": "https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb"
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
         }
       ],
-      "duration_ms": 218424,
-      "name": "Can't Afford Me",
-      "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
+      "duration_ms": 205679,
+      "name": "Da Bump",
+      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Da Bump",
-        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
+        "name": "Can't Afford Me",
+        "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
       },
       "artists": [
         {
-          "name": "Leonardo Das Cabrio",
-          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+          "name": "Kuma Overdose",
+          "url": "https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ"
+        },
+        {
+          "name": "SA$H\u00a3R",
+          "url": "https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb"
         }
       ],
-      "duration_ms": 205679,
-      "name": "Da Bump",
-      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
+      "duration_ms": 218424,
+      "name": "Can't Afford Me",
+      "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
     },
     {
       "added_at": "2024-10-25 15:55:35",

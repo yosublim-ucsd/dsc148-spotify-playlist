@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 46 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
 | 47 | [Deeper](https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#2 \[Deeper\]](https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN) | 3:36 |
 | 48 | [Happier \(feat\. Crush\)](https://open.spotify.com/track/5HOzA1X13wwOJKF0cFKkQx) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 4:11 |
-| 49 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/6hm6cRg1O2MWOhXX61jA2w) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
-| 50 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
+| 49 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
+| 50 | [It's fine](https://open.spotify.com/track/6zl8VOP7l8kFd2nLfmJ2Kg) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [It's fine](https://open.spotify.com/album/2DIn3u50PH4rezsVxjH6IT) | 3:13 |
 
 Snapshot ID: `Zxi0UwAAAAD+2TOVCJKK+L4CARBxTYS8`

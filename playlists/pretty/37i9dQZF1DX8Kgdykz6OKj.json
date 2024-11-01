@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1361664,
+  "num_followers": 1362199,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Ziplock / Rich Don't Stop",
+        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Ziplock",
+      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "ARE WE STILL DREAMING?",
         "url": "https://open.spotify.com/album/4DqJ4gzYejnGEGd8mIvySJ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 199373,
       "name": "Bittersweet Baby",
       "url": "https://open.spotify.com/track/7KPZwV0b7aFQXhIPahLJdZ"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Ziplock / Rich Don't Stop",
-        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Ziplock",
-      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Double Standards (feat. Sampha)",
         "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Drive Slow",
-        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Drive Slow",
-      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Therapy pt. 2 [Feat. Mac Miller]",
         "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
@@ -899,30 +899,6 @@
       "duration_ms": 202225,
       "name": "Therapy pt. 2 [Feat. Mac Miller]",
       "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "mynameisnt",
-        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
-      },
-      "artists": [
-        {
-          "name": "mynameisntjmack",
-          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
-        },
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        },
-        {
-          "name": "Wakai",
-          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
-        }
-      ],
-      "duration_ms": 178554,
-      "name": "aslongas",
-      "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -955,6 +931,30 @@
       "duration_ms": 185160,
       "name": "Chase It",
       "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "mynameisnt",
+        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        },
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        }
+      ],
+      "duration_ms": 178554,
+      "name": "aslongas",
+      "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1051,30 +1051,30 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Perdu in Peru",
-        "url": "https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6"
+        "name": "DON'T GROW UP TOO SOON",
+        "url": "https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v"
       },
       "artists": [
         {
-          "name": "CHUNG",
-          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+          "name": "Nascent",
+          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
         },
         {
-          "name": "perutheproducer",
-          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
         },
         {
-          "name": "UZA",
-          "url": "https://open.spotify.com/artist/1ZG7ySNOhIWEUoZUi3kjOs"
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
         },
         {
-          "name": "Santana Fox",
-          "url": "https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga"
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
         }
       ],
-      "duration_ms": 178604,
-      "name": "More Than a Lova",
-      "url": "https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf"
+      "duration_ms": 233802,
+      "name": "Spinnin These Blocks (feat. BJ The Chicago Kid, Maxo Kream & Paul Wall)",
+      "url": "https://open.spotify.com/track/5G8y6DhzM6YMorFC0rh8RK"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1103,30 +1103,30 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "DON'T GROW UP TOO SOON",
-        "url": "https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v"
+        "name": "Perdu in Peru",
+        "url": "https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6"
       },
       "artists": [
         {
-          "name": "Nascent",
-          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
         },
         {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+          "name": "perutheproducer",
+          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
         },
         {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+          "name": "UZA",
+          "url": "https://open.spotify.com/artist/1ZG7ySNOhIWEUoZUi3kjOs"
         },
         {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          "name": "Santana Fox",
+          "url": "https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga"
         }
       ],
-      "duration_ms": 233802,
-      "name": "Spinnin These Blocks (feat. BJ The Chicago Kid, Maxo Kream & Paul Wall)",
-      "url": "https://open.spotify.com/track/5G8y6DhzM6YMorFC0rh8RK"
+      "duration_ms": 178604,
+      "name": "More Than a Lova",
+      "url": "https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Ravenite Social Club",
-        "url": "https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g"
-      },
-      "artists": [
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Emi Secrest",
-          "url": "https://open.spotify.com/artist/7b6tYoAAoGRMlr42ekCIRj"
-        }
-      ],
-      "duration_ms": 236873,
-      "name": "To You (feat. Robert Glasper, Emi Secrest)",
-      "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Stories From The Brass Section",
         "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 185298,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Ravenite Social Club",
+        "url": "https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Emi Secrest",
+          "url": "https://open.spotify.com/artist/7b6tYoAAoGRMlr42ekCIRj"
+        }
+      ],
+      "duration_ms": 236873,
+      "name": "To You (feat. Robert Glasper, Emi Secrest)",
+      "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Pertenecer",
-        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 207801,
-      "name": "Pertenecer",
-      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Scottie Pippen",
         "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 233154,
       "name": "Scottie Pippen",
       "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Pertenecer",
+        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 207801,
+      "name": "Pertenecer",
+      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1495,30 +1495,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Palm Trees",
-        "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
-      },
-      "artists": [
-        {
-          "name": "K. Sparks",
-          "url": "https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z"
-        },
-        {
-          "name": "Ricardo Schneider",
-          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
-        },
-        {
-          "name": "Hoffy Beats",
-          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
-        }
-      ],
-      "duration_ms": 136526,
-      "name": "Midnight Schemes",
-      "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "EQUINOX",
         "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
       },
@@ -1559,18 +1535,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Sega",
-        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
+        "name": "Palm Trees",
+        "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
       },
       "artists": [
         {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+          "name": "K. Sparks",
+          "url": "https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z"
+        },
+        {
+          "name": "Ricardo Schneider",
+          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
         }
       ],
-      "duration_ms": 105577,
-      "name": "Sega",
-      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
+      "duration_ms": 136526,
+      "name": "Midnight Schemes",
+      "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1591,30 +1575,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "The Pure",
-        "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
+        "name": "Sega",
+        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
       },
       "artists": [
         {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        },
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        },
-        {
-          "name": "Dano",
-          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         }
       ],
-      "duration_ms": 221123,
-      "name": "The Pure",
-      "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
+      "duration_ms": 105577,
+      "name": "Sega",
+      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1655,6 +1627,34 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "The Pure",
+        "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        }
+      ],
+      "duration_ms": 221123,
+      "name": "The Pure",
+      "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "We Do It Remixes",
         "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 149470,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Jazzmatazz: The New Reality",
         "url": "https://open.spotify.com/album/4muPpXUkiFbHhEQG7OugQV"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 259533,
       "name": "Insert A (Mental Relaxation) / Medicine",
       "url": "https://open.spotify.com/track/6xtJxtnu4IWDMOn824Dd7i"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 149470,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Still Not In Space",
-        "url": "https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO"
-      },
-      "artists": [
-        {
-          "name": "wnbl",
-          "url": "https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2"
-        },
-        {
-          "name": "Mike Nasa",
-          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
-        }
-      ],
-      "duration_ms": 176149,
-      "name": "Still Not In Space",
-      "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Connection (Remix)",
         "url": "https://open.spotify.com/album/2GrNc5KugrKao4k6JPFwfY"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 126666,
       "name": "Connection - Remix",
       "url": "https://open.spotify.com/track/3VKjKet2Tr9TRKyC6wJl8p"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Still Not In Space",
+        "url": "https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO"
+      },
+      "artists": [
+        {
+          "name": "wnbl",
+          "url": "https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2"
+        },
+        {
+          "name": "Mike Nasa",
+          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
+        }
+      ],
+      "duration_ms": 176149,
+      "name": "Still Not In Space",
+      "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
     },
     {
       "added_at": "2024-10-25 04:00:00",

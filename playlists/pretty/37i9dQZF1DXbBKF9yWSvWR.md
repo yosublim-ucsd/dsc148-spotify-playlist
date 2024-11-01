@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > All new music with an Indie twist\. Cover: Tamino
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,337 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,343 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,18 +23,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 13 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
 | 14 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
 | 15 | [Lonely Boy](https://open.spotify.com/track/56qt0oI2g3Ri0QVlt6TkNK) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [No Work All Play](https://open.spotify.com/album/2LdzB59HYUdZvGPKWm1Bg5) | 2:38 |
-| 16 | [Wake Up With You \(WUWU\)](https://open.spotify.com/track/1wo2tSP1qZcryzCSNZ3htC) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Wake Up With You \(WUWU\)](https://open.spotify.com/album/6DORT5jfOBMzqZFC6634cU) | 3:09 |
-| 17 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 |
-| 18 | [Milkshakes](https://open.spotify.com/track/6JbCqm0U3g0K87HAviPRkk) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Milkshakes](https://open.spotify.com/album/5ef6naEoTalZAj1Tjy4rMK) | 3:17 |
-| 19 | [Closing Time \(feat\. Cape Sleep\)](https://open.spotify.com/track/7rKMKQJEibx6CID2EJ8gtk) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Cape Sleep](https://open.spotify.com/artist/59p3YuZWUKjBcwSpeAB9x4) | [Closing Time \(feat\. Cape Sleep\)](https://open.spotify.com/album/0pzHtPZa5bwWLBeTqDLoxm) | 3:04 |
-| 20 | [Thank You](https://open.spotify.com/track/2RUHd81HLVFhRZmd4uMQ74) | [Dutch Mustard](https://open.spotify.com/artist/6QGi06qu6deTJRLZO2YrlP) | [Thank You](https://open.spotify.com/album/6CoQtvdPD6gEQVD4pgd098) | 2:50 |
-| 21 | [Watsu](https://open.spotify.com/track/1m70Nwk89mGu0g61EPiwN2) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Watsu](https://open.spotify.com/album/5LntLFtQ8Sz7DePmn5lQll) | 4:19 |
-| 22 | [Figurine](https://open.spotify.com/track/5WQNJC3Gzh6oF0rPOWDSgW) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Figurine](https://open.spotify.com/album/5pvsJWmAaxSogRTDUpzPO6) | 4:11 |
-| 23 | [4AM](https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [4AM](https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU) | 2:58 |
-| 24 | [Do I Know Myself At All?](https://open.spotify.com/track/6KlmtPCVaW3V8nfKRq6Efd) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [Do I Know Myself At All?](https://open.spotify.com/album/3ASaIg3bWEMdDOvJKDLhRg) | 4:19 |
-| 25 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 |
-| 26 | [Swimming in the Garden](https://open.spotify.com/track/4qAWtO9SxAfH23y98EezVc) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [Send Me Flowers](https://open.spotify.com/album/1U83vSAotohihqF292ZcaN) | 3:40 |
-| 27 | [Brick Houses](https://open.spotify.com/track/29ewkYh7Tw1hWthUUxjxho) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Brick Houses](https://open.spotify.com/album/4ZgDC3RMyDFX65CVjYWz23) | 3:19 |
+| 16 | [Brick Houses](https://open.spotify.com/track/29ewkYh7Tw1hWthUUxjxho) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Brick Houses](https://open.spotify.com/album/4ZgDC3RMyDFX65CVjYWz23) | 3:19 |
+| 17 | [Wake Up With You \(WUWU\)](https://open.spotify.com/track/1wo2tSP1qZcryzCSNZ3htC) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Wake Up With You \(WUWU\)](https://open.spotify.com/album/6DORT5jfOBMzqZFC6634cU) | 3:09 |
+| 18 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 |
+| 19 | [Milkshakes](https://open.spotify.com/track/6JbCqm0U3g0K87HAviPRkk) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Milkshakes](https://open.spotify.com/album/5ef6naEoTalZAj1Tjy4rMK) | 3:17 |
+| 20 | [Closing Time \(feat\. Cape Sleep\)](https://open.spotify.com/track/7rKMKQJEibx6CID2EJ8gtk) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Cape Sleep](https://open.spotify.com/artist/59p3YuZWUKjBcwSpeAB9x4) | [Closing Time \(feat\. Cape Sleep\)](https://open.spotify.com/album/0pzHtPZa5bwWLBeTqDLoxm) | 3:04 |
+| 21 | [Thank You](https://open.spotify.com/track/2RUHd81HLVFhRZmd4uMQ74) | [Dutch Mustard](https://open.spotify.com/artist/6QGi06qu6deTJRLZO2YrlP) | [Thank You](https://open.spotify.com/album/6CoQtvdPD6gEQVD4pgd098) | 2:50 |
+| 22 | [Watsu](https://open.spotify.com/track/1m70Nwk89mGu0g61EPiwN2) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Watsu](https://open.spotify.com/album/5LntLFtQ8Sz7DePmn5lQll) | 4:19 |
+| 23 | [Figurine](https://open.spotify.com/track/5WQNJC3Gzh6oF0rPOWDSgW) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Figurine](https://open.spotify.com/album/5pvsJWmAaxSogRTDUpzPO6) | 4:11 |
+| 24 | [4AM](https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [4AM](https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU) | 2:58 |
+| 25 | [Do I Know Myself At All?](https://open.spotify.com/track/6KlmtPCVaW3V8nfKRq6Efd) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [Do I Know Myself At All?](https://open.spotify.com/album/3ASaIg3bWEMdDOvJKDLhRg) | 4:19 |
+| 26 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 |
+| 27 | [Swimming in the Garden](https://open.spotify.com/track/4qAWtO9SxAfH23y98EezVc) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [Send Me Flowers](https://open.spotify.com/album/1U83vSAotohihqF292ZcaN) | 3:40 |
 | 28 | [Give Her Time](https://open.spotify.com/track/7koCSEmBosBAjbFqNZmD5n) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Give Her Time](https://open.spotify.com/album/2Ks72RfLpjOddQoWlih5Qg) | 3:27 |
 | 29 | [Where The Names Are Real](https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Where The Names Are Real](https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV) | 5:21 |
 | 30 | [Nanalou](https://open.spotify.com/track/1BKn39VqcRuKF2DsbRJydU) | [Trixie Whitley](https://open.spotify.com/artist/3MZIxeB762kFLJ8ceou6uJ) | [Nanalou](https://open.spotify.com/album/2tFghXSQqcPAyEKcqOtcmR) | 5:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 69 | [Wish I Could](https://open.spotify.com/track/3s4zyagYB9xcolyQCOTY15) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Wish I Could](https://open.spotify.com/album/7ndbNJdFAqyaFKsdP0709m) | 3:29 |
 | 70 | [it takes a long time to feel free](https://open.spotify.com/track/4zgjMTwle0M00Oz4ZJvvDo) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [it takes a long time to feel free](https://open.spotify.com/album/6NyDZz7SJAGHJp6W0roRPP) | 4:35 |
 
-Snapshot ID: `ZyI0ggAAAAD1ViBCIo8pgdj/FkKwEyiy`
+Snapshot ID: `ZyOnxQAAAAD7g8C5i+9ZjWtpYmDjWYVc`

@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1570935,
+  "num_followers": 1571059,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,30 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Shake & Pop (John Summit Remix)",
+        "url": "https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Walter Phillips",
+          "url": "https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 217694,
+      "name": "Shake & Pop - John Summit Remix",
+      "url": "https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi"
       },
@@ -915,30 +939,6 @@
       "duration_ms": 159047,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Shake & Pop (John Summit Remix)",
-        "url": "https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Walter Phillips",
-          "url": "https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 217694,
-      "name": "Shake & Pop - John Summit Remix",
-      "url": "https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Numb (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 237865,
+      "name": "Numb - Joris Voorn Remix, Edit",
+      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "No Promises",
         "url": "https://open.spotify.com/album/6Vy2TEzq8DBX0vczYeKACP"
       },
@@ -1203,22 +1223,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Numb (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
         }
       ],
-      "duration_ms": 237865,
-      "name": "Numb - Joris Voorn Remix, Edit",
-      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
+      "duration_ms": 211905,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1235,22 +1251,6 @@
       "duration_ms": 230243,
       "name": "Heart Made Of Glass",
       "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
-      },
-      "artists": [
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 211905,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1335,6 +1335,42 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "I\u2019ll Be There",
+        "url": "https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "I\u2019ll Be There",
+      "url": "https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Dance Is The Answer (feat. Raja Ram)",
         "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
       },
@@ -1359,26 +1395,6 @@
       "duration_ms": 329165,
       "name": "Dance Is The Answer (feat. Raja Ram)",
       "url": "https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "I\u2019ll Be There",
-        "url": "https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "I\u2019ll Be There",
-      "url": "https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
       },
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Not Over Yet (feat. Grace Grundy)",
+        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Not Over Yet (feat. Grace Grundy)",
+      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "I Need You (Adriatique Remix)",
         "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
       },
@@ -1667,46 +1687,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Not Over Yet (feat. Grace Grundy)",
-        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
-      },
-      "artists": [
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "Grace Grundy",
-          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Not Over Yet (feat. Grace Grundy)",
-      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 234330,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Morning Comes",
         "url": "https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h"
       },
@@ -1723,6 +1703,22 @@
       "duration_ms": 201923,
       "name": "Morning Comes",
       "url": "https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "One New Change",
+        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "One New Change",
+      "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1747,22 +1743,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "One New Change",
-        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "One New Change",
-      "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "some ep",
         "url": "https://open.spotify.com/album/5OPRF4o1pypBIdGbKtAbCN"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 427538,
       "name": "Sever",
       "url": "https://open.spotify.com/track/3sXl6kTbIhhPZ3mrho4woG"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 234330,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
     },
     {
       "added_at": "2024-10-25 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1640582,
+  "num_followers": 1640546,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADaYVsiWZVU5IPZMeHgRfmw",
+  "snapshot_id": "ZyF3AAAAAACLaJk/v88QmXwUU+DuNiVs",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 167855,
-      "name": "Beautiful Nightmare",
-      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(MORE) Unsponsored Content",
         "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 152214,
       "name": "PS5",
       "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167855,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walker Racing League",
-        "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 136563,
-      "name": "Running Out Of Roses",
-      "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neon Nights",
         "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 202719,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walker Racing League",
+        "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 136563,
+      "name": "Running Out Of Roses",
+      "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
     },
     {
       "added_at": null,

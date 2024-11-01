@@ -1,6 +1,6 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 895919,
+  "num_followers": 896198,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,26 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2024-08-14 15:19:20",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
         "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 215360,
       "name": "King",
       "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "added_at": "2024-08-14 15:19:20",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Only Girl (In The World)",
-      "url": "https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
         "name": "Intense",
         "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 204360,
       "name": "This Is What It Feels Like",
       "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ"
     },
     {
       "added_at": "2024-08-14 15:19:20",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
     },
     {
       "added_at": "2024-08-14 15:19:20",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
-        "name": "No Money",
-        "url": "https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 189126,
-      "name": "No Money",
-      "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
         "name": "Lasting Lover",
         "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
+        "name": "No Money",
+        "url": "https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 189126,
+      "name": "No Money",
+      "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
     },
     {
       "added_at": "2024-08-14 15:19:20",
@@ -2583,62 +2583,6 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/57DmSe1xfynExe60QgpWU0"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/2Kbo8nu3JuyamYBZoO5ltG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138842,
-      "name": "Are You With Me - Radio Edit",
-      "url": "https://open.spotify.com/track/477daPpd3DnneaHhvjM35l"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
-        "name": "Ain't Nobody (Loves Me Better)",
-        "url": "https://open.spotify.com/album/3beitV4REkUMQn4BXZlD8F"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Ain't Nobody (Loves Me Better)",
-      "url": "https://open.spotify.com/track/5afHIkEcVhCF1Z1CTqMUXB"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
         "name": "Peace Is The Mission",
         "url": "https://open.spotify.com/album/2XBnxKeRZi76u2iyGcMych"
       },
@@ -2663,6 +2607,62 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/57DmSe1xfynExe60QgpWU0"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
+        "name": "Ain't Nobody (Loves Me Better)",
+        "url": "https://open.spotify.com/album/3beitV4REkUMQn4BXZlD8F"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Ain't Nobody (Loves Me Better)",
+      "url": "https://open.spotify.com/track/5afHIkEcVhCF1Z1CTqMUXB"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/2Kbo8nu3JuyamYBZoO5ltG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138842,
+      "name": "Are You With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/477daPpd3DnneaHhvjM35l"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
         "name": "Million Voices",
         "url": "https://open.spotify.com/album/6qS1m40p8GjaloRgK6kDgq"
       },
@@ -2675,26 +2675,6 @@
       "duration_ms": 192866,
       "name": "Million Voices - Radio Edit",
       "url": "https://open.spotify.com/track/4IdCX8mGmi8kJD5az6HqRL"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
-        "name": "Emigrante Del Mundo",
-        "url": "https://open.spotify.com/album/2pcW5LhwWE5Rl6GB4hmc3D"
-      },
-      "artists": [
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 213986,
-      "name": "Danza Kuduro (feat. Don Omar)",
-      "url": "https://open.spotify.com/track/2gIwPaocbvc5eHqnACgV3Z"
     },
     {
       "added_at": "2024-08-14 15:19:20",
@@ -2715,6 +2695,26 @@
       "duration_ms": 262000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/0idc0XRnLRovVqpWnGQ6hC"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
+        "name": "Emigrante Del Mundo",
+        "url": "https://open.spotify.com/album/2pcW5LhwWE5Rl6GB4hmc3D"
+      },
+      "artists": [
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "Danza Kuduro (feat. Don Omar)",
+      "url": "https://open.spotify.com/track/2gIwPaocbvc5eHqnACgV3Z"
     },
     {
       "added_at": "2024-08-14 15:19:20",

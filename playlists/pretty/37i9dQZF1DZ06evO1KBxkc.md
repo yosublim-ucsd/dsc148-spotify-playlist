@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,322 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,334 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 51 | [Need You Around \(feat\. Fridayy\)](https://open.spotify.com/track/6fPEC2rEv7GIrDLJ4xL2ev) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 2:53 |
 | 52 | [Blood On My Denim](https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:16 |
 
-Snapshot ID: `ZyAlgAAAAAC3tPZv0hMDS9YIgm61SsOS`
+Snapshot ID: `ZyF3AAAAAAA41XdLjQuW8sM4G+okAWIY`

@@ -4,7 +4,7 @@
 
 > In memory of \[removed for privacy\]
 
-16 songs - 1 hr 0 min
+17 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Amy aka Spent Gladiator 1](https://open.spotify.com/track/3cjLFY0mLXqBXsnqNhvKH9) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:27 | 2023-03-03 |  |
 | [Cowboy Tears](https://open.spotify.com/track/70XhaWZd0PsZgpEgqJhUgG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:57 | 2024-10-03 |  |
 | [Going Invisible 2](https://open.spotify.com/track/1SQ0UkdEsFqABIPqMfYCB4) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [In League with Dragons](https://open.spotify.com/album/6Xw8Mujzvzu7gMeizXOHc6) | 3:05 | 2023-03-21 |  |
+| [Grenade Jumper](https://open.spotify.com/track/3jsNPTt6LUyB2srOcZaq47) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 2:58 | 2024-10-31 |  |
 | [Hug All Ur Friends](https://open.spotify.com/track/7gbFUfnFWyhSRwkdy4fFrS) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom: Jackson](https://open.spotify.com/album/7f1gs84I839Rth0WNdGhz1) | 5:35 | 2023-03-08 |  |
 | [Jenny III](https://open.spotify.com/track/3oIErIfuvGEHXnAdITuIVb) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 2:26 | 2023-10-30 |  |
 | [Jimmy](https://open.spotify.com/track/00dPDZGBvNHhkbQSDV11os) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:43 | 2023-03-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk?si=8smsGpcTQlWkUKrlffqF6Q">BELLA KOMBO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,521 likes - 105 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,566 likes - 105 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 104 | [Unarudi Lini](https://open.spotify.com/track/61Zc74od47dj7dXVuKxsO9) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Unarudi Lini](https://open.spotify.com/album/6hmRcQImi46W5HcArJEkzO) | 3:32 |
 | 105 | [Yanashangaza](https://open.spotify.com/track/13IMFj8s9ehrpXCriCxtzR) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Yanashangaza](https://open.spotify.com/album/6rcwfHaazv5sH0OJ8AA5SP) | 4:19 |
 
-Snapshot ID: `ZxGlPAAAAAB7q/fYBR8tBhl6BWGcMcAi`
+Snapshot ID: `ZyQaPAAAAAASOVlyahhpaGQT5OVotb5S`

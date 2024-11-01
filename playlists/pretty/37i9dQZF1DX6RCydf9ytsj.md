@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,067 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,190 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 84 | [What's Forever For?](https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu) | [The Best Of Michael Martin Murphey](https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN) | 2:51 |
 | 85 | [Diggin' Up Bones](https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 2:59 |
 | 86 | [All My Rowdy Friends Are Coming Over Tonight](https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Greatest Hits, Vol\. 2](https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv) | 2:58 |
-| 87 | [Nobody](https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967) | [Sylvia](https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR) | [Just Sylvia](https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV) | 3:19 |
+| 87 | [My Favorite Memory](https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 3:05 |
 | 88 | [Love At The Five & Dime](https://open.spotify.com/track/02WLZdGJfTX1ZgshVkj2aB) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Walk The Way The Wind Blows](https://open.spotify.com/album/5F5np5Tdq8eWV79SNf8HHv) | 3:38 |
-| 89 | [My Favorite Memory](https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 3:05 |
+| 89 | [Nobody](https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967) | [Sylvia](https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR) | [Just Sylvia](https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV) | 3:19 |
 | 90 | [Who's Gonna Fill Their Shoes](https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Super Hits](https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR) | 3:15 |
 | 91 | [I Got Mexico](https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7) | [Eddy Raven](https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK) | [Best Of Eddy Raven](https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R) | 2:26 |
 | 92 | [I'll Still Be Loving You](https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Wheels](https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi) | 4:18 |
@@ -147,9 +147,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 137 | [C.C\. Waterback](https://open.spotify.com/track/1MQYA59Whe8zRBnGqgAvMP) | [George Jones](https://open.spotify.com/artist/4w3SbKx9G1XOV8TeMOEmTi), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [His Epic Hits](https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB) | 3:35 |
 | 138 | [I Can Tell By the Way You Dance](https://open.spotify.com/track/6m7HjxgVcktBJIwOBG8r4F) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [The Voice Box, Vol\. 1](https://open.spotify.com/album/5lwZGEP2HPLUrByMANLyA7) | 2:41 |
 | 139 | [Step That Step](https://open.spotify.com/track/4p0WEALPRSImOlp0glMiDM) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Best Of](https://open.spotify.com/album/0xo3FuNk8I8IUkJbXIrWam) | 2:49 |
-| 140 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |
+| 140 | [I Know How He Feels](https://open.spotify.com/track/663cPxUHnCzvboxjGgvIoT) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Reba](https://open.spotify.com/album/5efZ49lsxMlKnJ5abphtMr) | 3:20 |
 | 141 | [We Believe In Happy Endings \(with Emmylou Harris\)](https://open.spotify.com/track/7sEmUltyPUy9v2Of7Whzpy) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [The Heart of It All](https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG) | 3:35 |
-| 142 | [I Know How He Feels](https://open.spotify.com/track/663cPxUHnCzvboxjGgvIoT) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Reba](https://open.spotify.com/album/5efZ49lsxMlKnJ5abphtMr) | 3:20 |
+| 142 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |
 | 143 | [Got No Reason Now For Goin' Home](https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Best Of Gene Watson](https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J) | 2:44 |
 | 144 | [My Baby's Got Good Timing](https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [The Very Best Of Dan Seals](https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC) | 3:29 |
 | 145 | [Dim Lights, Thick Smoke \(And Loud, Loud Music\)](https://open.spotify.com/track/06ziqwxm8aiNcxr3f5FBHl) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [The Truly Great Hits](https://open.spotify.com/album/4ygIRvkTyFylbFFzwfE47N) | 3:29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Szpaku",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: SVM!R",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -2652,10 +2652,28 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 132571,
       "name": "Dior Savage",
       "url": "https://open.spotify.com/track/1R4QeLVVnsoZf9lu5J5cSE"
+    },
+    {
+      "album": {
+        "name": "DM",
+        "url": "https://open.spotify.com/album/1CEieYFtzbLrCmb3Os825e"
+      },
+      "artists": [
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/2EwQaHnQWJK8zWv9W44FsE"
     },
     {
       "album": {
@@ -2678,6 +2696,36 @@
       "duration_ms": 265740,
       "name": "DNI LEPSZE NI\u017b TEN",
       "url": "https://open.spotify.com/track/5NrALgHxMvITkF7RF9KjJ6"
+    },
+    {
+      "album": {
+        "name": "DOLCE VITA",
+        "url": "https://open.spotify.com/album/4ltl3kxWgO7qq1TbmnUGqw"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Le\u015bny",
+          "url": "https://open.spotify.com/artist/2MRSNbEPY2YKzkgDag5fzg"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "DOLCE VITA",
+      "url": "https://open.spotify.com/track/6TDvQQit8Q6EJhHvtx62cp"
     },
     {
       "album": {
@@ -6165,6 +6213,24 @@
     },
     {
       "album": {
+        "name": "MONOPOL",
+        "url": "https://open.spotify.com/album/0v1doc6blF3LimY2K4GJLK"
+      },
+      "artists": [
+        {
+          "name": "SVM!R",
+          "url": "https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "MONOPOL",
+      "url": "https://open.spotify.com/track/5hEr8DxL1QQYziUK2pnFfl"
+    },
+    {
+      "album": {
         "name": "Mroczna Komnata",
         "url": "https://open.spotify.com/album/6dchetja9KZVQmEgHSxN6A"
       },
@@ -6214,7 +6280,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 130330,
       "name": "MULLET",
       "url": "https://open.spotify.com/track/0rRVil3EMNqbeWA5SuLGCQ"
@@ -9548,7 +9614,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 153076,
       "name": "Sukcesy i B\u0142\u0119dy",
       "url": "https://open.spotify.com/track/25Zqky6fc3V6B0XfnMLeuu"

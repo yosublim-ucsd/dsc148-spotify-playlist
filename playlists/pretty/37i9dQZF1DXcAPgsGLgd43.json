@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 61417,
+  "num_followers": 61442,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
-        "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
-      },
-      "artists": [
-        {
-          "name": "Joseph Sinatra",
-          "url": "https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn"
-        },
-        {
-          "name": "Joe Mangione",
-          "url": "https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2"
-        }
-      ],
-      "duration_ms": 167578,
-      "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
-      "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Abra (feat. AMY MIY\u00da)",
         "url": "https://open.spotify.com/album/7mgE77YtjcOFQiYKsu07ZQ"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 132824,
       "name": "Abra (feat. AMY MIY\u00da)",
       "url": "https://open.spotify.com/track/1rEbr1mNQaZZmed7qrC2zt"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
+        "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
+      },
+      "artists": [
+        {
+          "name": "Joseph Sinatra",
+          "url": "https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn"
+        },
+        {
+          "name": "Joe Mangione",
+          "url": "https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2"
+        }
+      ],
+      "duration_ms": 167578,
+      "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
+      "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Sopa De Caracol",
         "url": "https://open.spotify.com/album/171b6SxgLjbKiJMfeJ0120"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 154153,
       "name": "Sopa De Caracol",
       "url": "https://open.spotify.com/track/1xpetlV1yoslzfKoNy7m6h"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Roots EP, Pt. 1",
-        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
+        "name": "Matadora (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Hijos De La Noche",
-      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
+      "duration_ms": 180000,
+      "name": "Matadora - Radio Edit",
+      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1383,22 +1387,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Matadora (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
       },
       "artists": [
         {
-          "name": "Maahez",
-          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Matadora - Radio Edit",
-      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+      "duration_ms": 216000,
+      "name": "Hijos De La Noche",
+      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Sima Agua (feat. Mayra Andrade)",
         "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
       },
@@ -1499,22 +1519,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+        "name": "CKULO",
+        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
       "artists": [
         {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
         },
         {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
         }
       ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+      "duration_ms": 152523,
+      "name": "CKULO",
+      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1539,22 +1559,30 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "CKULO",
-        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
+        "name": "Arrebatao (feat. Tayson Kryss)",
+        "url": "https://open.spotify.com/album/4AHUp3FsMi7XQqiYQJz4e8"
       },
       "artists": [
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
         },
         {
-          "name": "INNDRIVE",
-          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+          "name": "Sebastian Ledher",
+          "url": "https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn"
+        },
+        {
+          "name": "Joseph Ren",
+          "url": "https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
         }
       ],
-      "duration_ms": 152523,
-      "name": "CKULO",
-      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
+      "duration_ms": 167611,
+      "name": "Arrebatao (feat. Tayson Kryss)",
+      "url": "https://open.spotify.com/track/4X98vdZ7WXOCFyzC05PPOv"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1607,22 +1635,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/56EvRHiuKxCqqOvH7MX9z2"
-      },
-      "artists": [
-        {
-          "name": "Fabi Hernandez",
-          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
-        }
-      ],
-      "duration_ms": 155004,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/6v2nSzwwpoShFhE8r4siG6"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/69UvyIqfB5VUm1n0NMwZEU"
       },
@@ -1647,66 +1659,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Arrebatao (feat. Tayson Kryss)",
-        "url": "https://open.spotify.com/album/4AHUp3FsMi7XQqiYQJz4e8"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/56EvRHiuKxCqqOvH7MX9z2"
       },
       "artists": [
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Sebastian Ledher",
-          "url": "https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn"
-        },
-        {
-          "name": "Joseph Ren",
-          "url": "https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+          "name": "Fabi Hernandez",
+          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
         }
       ],
-      "duration_ms": 167611,
-      "name": "Arrebatao (feat. Tayson Kryss)",
-      "url": "https://open.spotify.com/track/4X98vdZ7WXOCFyzC05PPOv"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Tu Sabor",
-        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
-        },
-        {
-          "name": "Pablo Alhach",
-          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "Tu Sabor",
-      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Alterego",
-        "url": "https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Benjam\u00edn Carri\u00f3n",
-      "url": "https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf"
+      "duration_ms": 155004,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6v2nSzwwpoShFhE8r4siG6"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1731,6 +1695,62 @@
       "duration_ms": 187317,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Alterego",
+        "url": "https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Benjam\u00edn Carri\u00f3n",
+      "url": "https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Tu Sabor",
+        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Pablo Alhach",
+          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Tu Sabor",
+      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Treme",
+        "url": "https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "duration_ms": 210326,
+      "name": "Treme",
+      "url": "https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1779,26 +1799,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Dale Bien Duro",
-        "url": "https://open.spotify.com/album/7sF73l2hJQgbnRJmdy3xDE"
-      },
-      "artists": [
-        {
-          "name": "Juan Dileju",
-          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
-        },
-        {
-          "name": "Dazed",
-          "url": "https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi"
-        }
-      ],
-      "duration_ms": 166151,
-      "name": "Dale Bien Duro",
-      "url": "https://open.spotify.com/track/3A0SJSbFpecaK6uJtcaBlQ"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Diablo (Que Rico)",
         "url": "https://open.spotify.com/album/60lk6qlz0jEjiXkCdUOsUl"
       },
@@ -1815,6 +1815,26 @@
       "duration_ms": 151874,
       "name": "Diablo (Que Rico)",
       "url": "https://open.spotify.com/track/4qbjFXrNrMU4U5fvBjMUBz"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Dale Bien Duro",
+        "url": "https://open.spotify.com/album/7sF73l2hJQgbnRJmdy3xDE"
+      },
+      "artists": [
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        },
+        {
+          "name": "Dazed",
+          "url": "https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi"
+        }
+      ],
+      "duration_ms": 166151,
+      "name": "Dale Bien Duro",
+      "url": "https://open.spotify.com/track/3A0SJSbFpecaK6uJtcaBlQ"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1839,26 +1859,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Tu Camino",
-        "url": "https://open.spotify.com/album/5mRwJTYVUwbDuvWung7Adv"
-      },
-      "artists": [
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Sllash & Doppe",
-          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Tu Camino",
-      "url": "https://open.spotify.com/track/4chazKXFBLQO6DFmv5hwj9"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Atardecer",
         "url": "https://open.spotify.com/album/2dmBNrGn4ucWFUGTh1M7rF"
       },
@@ -1875,6 +1875,26 @@
       "duration_ms": 131520,
       "name": "Atardecer",
       "url": "https://open.spotify.com/track/4lgrZY890RzjqNGA7awcH2"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Tu Camino",
+        "url": "https://open.spotify.com/album/5mRwJTYVUwbDuvWung7Adv"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Tu Camino",
+      "url": "https://open.spotify.com/track/4chazKXFBLQO6DFmv5hwj9"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1919,22 +1939,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Joga Joga",
-        "url": "https://open.spotify.com/album/0KudIesJyKdAfrT1dqzkzi"
-      },
-      "artists": [
-        {
-          "name": "Jude & Frank",
-          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
-        }
-      ],
-      "duration_ms": 153999,
-      "name": "Joga Joga",
-      "url": "https://open.spotify.com/track/0R8cs8bH064hfUJO9Pmh9h"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "FAVELA",
         "url": "https://open.spotify.com/album/6qJK0xy8cEaDZsLuxb96f4"
       },
@@ -1955,22 +1959,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Treme",
-        "url": "https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P"
+        "name": "Joga Joga",
+        "url": "https://open.spotify.com/album/0KudIesJyKdAfrT1dqzkzi"
       },
       "artists": [
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
         }
       ],
-      "duration_ms": 210326,
-      "name": "Treme",
-      "url": "https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m"
+      "duration_ms": 153999,
+      "name": "Joga Joga",
+      "url": "https://open.spotify.com/track/0R8cs8bH064hfUJO9Pmh9h"
     },
     {
       "added_at": "2024-10-25 04:00:00",

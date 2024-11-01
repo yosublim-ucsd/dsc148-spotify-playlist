@@ -4991,6 +4991,28 @@
     },
     {
       "album": {
+        "name": "GOLDEN BUDDY (feat. \u304f\u308b\u307e)",
+        "url": "https://open.spotify.com/album/6b6lvud6lpyUkay9YreLIq"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        },
+        {
+          "name": "\u304f\u308b\u307e",
+          "url": "https://open.spotify.com/artist/2A9KcnzAkVOiKKCE4VJJEf"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "GOLDEN BUDDY (feat. \u304f\u308b\u307e)",
+      "url": "https://open.spotify.com/track/5wpOZzvsXpZyM6yblEMRv9"
+    },
+    {
+      "album": {
         "name": "golden drop",
         "url": "https://open.spotify.com/album/6J7appOuXxe42HB9KhAl4k"
       },
@@ -13968,7 +13990,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 265629,
       "name": "Till We End The Day",
       "url": "https://open.spotify.com/track/7rTq86NSekRtejZb6XcbYA"

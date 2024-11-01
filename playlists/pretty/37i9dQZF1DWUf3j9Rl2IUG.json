@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover:Soundz",
-  "num_followers": 125107,
+  "num_followers": 125190,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-10-25 04:12:20",
       "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
-    },
-    {
-      "added_at": "2024-10-25 04:12:20",
-      "album": {
         "name": "Xin Mao",
         "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 143882,
       "name": "Maria",
       "url": "https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG"
+    },
+    {
+      "added_at": "2024-10-25 04:12:20",
+      "album": {
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2024-10-25 04:12:20",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2024-10-25 04:12:20",
       "album": {
-        "name": "Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 149743,
-      "name": "Till Thy Kingdom Come",
-      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
+      "duration_ms": 143111,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
     },
     {
       "added_at": "2024-10-25 04:12:20",
@@ -1319,22 +1323,18 @@
     {
       "added_at": "2024-10-25 04:12:20",
       "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
+        "name": "Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 143111,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
+      "duration_ms": 149743,
+      "name": "Till Thy Kingdom Come",
+      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
     },
     {
       "added_at": "2024-10-25 04:12:20",
@@ -1375,22 +1375,18 @@
     {
       "added_at": "2024-10-25 04:12:20",
       "album": {
-        "name": "Bust Down",
-        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Bust Down",
-      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
+      "duration_ms": 160770,
+      "name": "My G",
+      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
     },
     {
       "added_at": "2024-10-25 04:12:20",
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2024-10-25 04:12:20",
       "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+        "name": "Bust Down",
+        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 160770,
-      "name": "My G",
-      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
+      "duration_ms": 196363,
+      "name": "Bust Down",
+      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
     },
     {
       "added_at": "2024-10-25 04:12:20",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-10-25 04:12:20",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+        "name": "Rodo",
+        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
+      "duration_ms": 143756,
+      "name": "Rodo",
+      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
     }
   ],
   "unique_name": "Gbedu",

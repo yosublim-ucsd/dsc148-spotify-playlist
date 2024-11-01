@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 64141,
+  "num_followers": 64199,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Afraid",
         "url": "https://open.spotify.com/album/41CXQpu3hZG8s5t6UQO1Eg"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 226640,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/0xp3MdGRrVVtBzJ7hgNzC2"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Dawn of Awakening",
-        "url": "https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd"
-      },
-      "artists": [
-        {
-          "name": "faintface",
-          "url": "https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs"
-        },
-        {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        }
-      ],
-      "duration_ms": 240850,
-      "name": "Dawn of Awakening",
-      "url": "https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Tree of Life G Minor",
         "url": "https://open.spotify.com/album/1zaBRRNsmiI4Tf7wVh1ojK"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 184957,
       "name": "Tree of Life G Minor",
       "url": "https://open.spotify.com/track/5SlcSnTcZMthoi6wu6wrRP"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Dawn of Awakening",
+        "url": "https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd"
+      },
+      "artists": [
+        {
+          "name": "faintface",
+          "url": "https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs"
+        },
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        }
+      ],
+      "duration_ms": 240850,
+      "name": "Dawn of Awakening",
+      "url": "https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Waving",
-        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
-      },
-      "artists": [
-        {
-          "name": "Nebno",
-          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
-        }
-      ],
-      "duration_ms": 245636,
-      "name": "Waving",
-      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 264369,
       "name": "Piccolo Corpo",
       "url": "https://open.spotify.com/track/2WQIpkkMGKD7rgy32wsckK"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Waving",
+        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
+      },
+      "artists": [
+        {
+          "name": "Nebno",
+          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
+        }
+      ],
+      "duration_ms": 245636,
+      "name": "Waving",
+      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Voz",
-        "url": "https://open.spotify.com/album/3uY9APJcADScKquOCujhw3"
-      },
-      "artists": [
-        {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O"
-        }
-      ],
-      "duration_ms": 151838,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 444000,
       "name": "Bright Girl",
       "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Voz",
+        "url": "https://open.spotify.com/album/3uY9APJcADScKquOCujhw3"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O"
+        }
+      ],
+      "duration_ms": 151838,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1119,26 +1119,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "You Make It Look so Easy (Reverbed by Malibu)",
-        "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
+        "name": "emerged, vol. II",
+        "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
       },
       "artists": [
         {
-          "name": "Himera",
-          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
+          "name": "badfocus",
+          "url": "https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh"
         },
         {
-          "name": "Petal Supply",
-          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+          "name": "Albert \u0160tifter",
+          "url": "https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi"
         }
       ],
-      "duration_ms": 239232,
-      "name": "You Make It Look so Easy - Reverbed by Malibu",
-      "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
+      "duration_ms": 143157,
+      "name": "abundance",
+      "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1175,22 +1171,42 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "emerged, vol. II",
-        "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
+        "name": "You Make It Look so Easy (Reverbed by Malibu)",
+        "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
       "artists": [
         {
-          "name": "badfocus",
-          "url": "https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh"
+          "name": "Himera",
+          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
         },
         {
-          "name": "Albert \u0160tifter",
-          "url": "https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi"
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
         }
       ],
-      "duration_ms": 143157,
-      "name": "abundance",
-      "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
+      "duration_ms": 239232,
+      "name": "You Make It Look so Easy - Reverbed by Malibu",
+      "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Ode to the blue",
+        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Ode to the blue",
-        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173625,
-      "name": "Ode to the blue",
-      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "in altar wine",
-        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
-      },
-      "artists": [
-        {
-          "name": "Wickerbird",
-          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
-        }
-      ],
-      "duration_ms": 334038,
-      "name": "in altar wine",
-      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Rare Backwards",
         "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 219196,
       "name": "18:00",
       "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "in altar wine",
+        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
+      },
+      "artists": [
+        {
+          "name": "Wickerbird",
+          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+        }
+      ],
+      "duration_ms": 334038,
+      "name": "in altar wine",
+      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Stretch Your Eyes (Ambient Acapella)",
-        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 367253,
-      "name": "Stretch Your Eyes - Ambient Acapella",
-      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 264250,
       "name": "Haven't Left Home 4 4 Days",
       "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Stretch Your Eyes (Ambient Acapella)",
+        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 367253,
+      "name": "Stretch Your Eyes - Ambient Acapella",
+      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Kistvaen",
+        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
+      },
+      "artists": [
+        {
+          "name": "Roly Porter",
+          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "An Open Door",
+      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "A Model of Reality Reworks",
         "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Kistvaen",
-        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
-      },
-      "artists": [
-        {
-          "name": "Roly Porter",
-          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "An Open Door",
-      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "chamomile",
         "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Forward / Wreck Dive",
-        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
-      },
-      "artists": [
-        {
-          "name": "Niia",
-          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
-        }
-      ],
-      "duration_ms": 196129,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Distance Between Heart And Mouth",
         "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 295623,
       "name": "Silent Talk",
       "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Forward / Wreck Dive",
+        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "duration_ms": 196129,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Grand Views",
+        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "duration_ms": 306908,
+      "name": "Epic Mirage",
+      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Penelope Three",
         "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 295789,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Grand Views",
-        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
-      },
-      "artists": [
-        {
-          "name": "Hanna Lindgren",
-          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
-        }
-      ],
-      "duration_ms": 306908,
-      "name": "Epic Mirage",
-      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Hills Have Eyes",
-        "url": "https://open.spotify.com/album/6iyqB1HfTm68FESZYWb91F"
-      },
-      "artists": [
-        {
-          "name": "TWEAKS",
-          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
-        }
-      ],
-      "duration_ms": 168263,
-      "name": "Hills Have Eyes",
-      "url": "https://open.spotify.com/track/6Vk4vbFSdMNlJzs2NRtpVq"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Immersed in Black Water (Linn Elisabet You Will Version)",
         "url": "https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 212444,
       "name": "Immersed in Black Water - Linn Elisabet You Will Version",
       "url": "https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Hills Have Eyes",
+        "url": "https://open.spotify.com/album/6iyqB1HfTm68FESZYWb91F"
+      },
+      "artists": [
+        {
+          "name": "TWEAKS",
+          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
+        }
+      ],
+      "duration_ms": 168263,
+      "name": "Hills Have Eyes",
+      "url": "https://open.spotify.com/track/6Vk4vbFSdMNlJzs2NRtpVq"
     },
     {
       "added_at": "2024-08-30 04:00:00",

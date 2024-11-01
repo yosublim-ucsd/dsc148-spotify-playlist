@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 37329,
+  "num_followers": 37373,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-10-25 06:27:56",
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
+    },
+    {
+      "added_at": "2024-10-25 06:27:56",
+      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
-    },
-    {
-      "added_at": "2024-10-25 06:27:56",
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
     },
     {
       "added_at": "2024-10-25 06:27:56",

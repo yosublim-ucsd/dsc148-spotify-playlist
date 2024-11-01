@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,606,949 likes - 199 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,607,547 likes - 199 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 10 | [Pine Scent](https://open.spotify.com/track/3qdrO68GxXO9YFzXeiYdZI) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [Pine Scent](https://open.spotify.com/album/3R5ljw2npySClY689m2qri) | 2:06 |
 | 11 | [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 |
 | 12 | [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 |
-| 13 | [between the mountains](https://open.spotify.com/track/3KHHLDvKIovW4yrZOQOuNq) | [Nadav Cohen](https://open.spotify.com/artist/5B2PgPtljWBKCEpdtd9CKg) | [between the mountains](https://open.spotify.com/album/17Kjig77c1myRfRdmEoPnC) | 1:55 |
+| 13 | [between the mountains](https://open.spotify.com/track/3KHHLDvKIovW4yrZOQOuNq) | [Nadav Cohen](https://open.spotify.com/artist/7MVwyy7j6wKwEPFPT3RpjV) | [between the mountains](https://open.spotify.com/album/17Kjig77c1myRfRdmEoPnC) | 1:55 |
 | 14 | [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 |
 | 15 | [Once](https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Once](https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o) | 2:05 |
 | 16 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 |

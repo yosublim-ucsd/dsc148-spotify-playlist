@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 
 > Só pra quem usa a colher de pau como microfone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,717 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,735 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 29 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
 | 30 | [I Will Survive \- Single Version](https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor](https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx) | 3:18 |
 | 31 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
-| 32 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
-| 33 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
+| 32 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
+| 33 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 34 | [Good Times](https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 8:15 |
 | 35 | [Fuck You](https://open.spotify.com/track/3ydfhgIZIc2j39NLIhpJpq) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Lady Killer \(Deluxe\)](https://open.spotify.com/album/5uR0dqBMYWZFYJT7mvPZ82) | 3:43 |
 | 36 | [Southern Cross \- 2005 Remaster](https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Daylight Again \(Deluxe Edition\)](https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u) | 4:41 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq1sGjujDL0.md) - [plain]
 | 49 | [Nothing Without Love](https://open.spotify.com/track/0oPDrdHQwkjaT0aytZavUO) | [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [Grand Romantic](https://open.spotify.com/album/0vrIRUpI2gB2QqOUQEG05v) | 3:56 |
 | 50 | [I Wish I Knew How It Would Feel to Be Free](https://open.spotify.com/track/617BX2z1ctbswU1xjU3LRW) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:08 |
 | 51 | [Sous le ciel de Paris](https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand](https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571) | 2:56 |
-| 52 | [If You Want Me to Stay](https://open.spotify.com/track/3ux4SABKVVgyXzB0A4D2zQ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Life, Love & The Blues](https://open.spotify.com/album/4PixeMJJQqW5TjrwRK2Rzm) | 5:20 |
-| 53 | [Right To Be Wrong](https://open.spotify.com/track/37Mo71lImyolPIzhuvNLef) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul \(Special Edition\)](https://open.spotify.com/album/6rEYIfMefUM2leNQNoBdu2) | 4:40 |
+| 52 | [Right To Be Wrong](https://open.spotify.com/track/37Mo71lImyolPIzhuvNLef) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul \(Special Edition\)](https://open.spotify.com/album/6rEYIfMefUM2leNQNoBdu2) | 4:40 |
+| 53 | [If You Want Me to Stay](https://open.spotify.com/track/3ux4SABKVVgyXzB0A4D2zQ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Life, Love & The Blues](https://open.spotify.com/album/4PixeMJJQqW5TjrwRK2Rzm) | 5:20 |
 | 54 | [I'll Be There \(feat\. Nile Rodgers\) \- Single Version](https://open.spotify.com/track/6xKmaLfne8mU7DYcqvCtSB) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [I'll Be There \(feat\. Nile Rodgers\)](https://open.spotify.com/album/6H6yQWiRb6Rm2JfBK7C7nB) | 3:37 |
 | 55 | [Crush](https://open.spotify.com/track/5aWy6lwLIkd9F3DS94MID6) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Flowers \- The Hits Collection](https://open.spotify.com/album/2nJYViXh2aERzlshmKLH43) | 3:20 |
 | 56 | [Your Song](https://open.spotify.com/track/2WAO1qTCK2SUef8c3GiXeF) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Love Songs](https://open.spotify.com/album/74RK3gsxjigff01cRt7pLL) | 6:33 |

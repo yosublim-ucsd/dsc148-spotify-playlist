@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
@@ -130,7 +130,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/7v4U1UWo5FHd70GRRgzz8c"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 191700,
       "name": "Big Dreams",
       "url": "https://open.spotify.com/track/6d5F8T8SS44UMB2Nz8IMGe"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 191700,
       "name": "Big Dreams",
       "url": "https://open.spotify.com/track/7zGuOKCjKlIdaFh0xREuCY"
@@ -4592,10 +4592,28 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 192168,
       "name": "Fe!n (Gay Version)",
       "url": "https://open.spotify.com/track/6uNJmW2yzeaZyqpPauJf1W"
+    },
+    {
+      "album": {
+        "name": "Fe!n (Gay Version)",
+        "url": "https://open.spotify.com/album/2dnBPmzmdsoBTEEeiABMhc"
+      },
+      "artists": [
+        {
+          "name": "GSWAG",
+          "url": "https://open.spotify.com/artist/07Xnkw3S2lL7NuHR4UjsAj"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192263,
+      "name": "Fe!n - Gay Version",
+      "url": "https://open.spotify.com/track/5eGO3UuxK63UUUlyEWQNnS"
     },
     {
       "album": {
@@ -5226,7 +5244,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 107539,
       "name": "FUNK DO BOUNCE (Slowed)",
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
@@ -7094,7 +7112,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 204165,
       "name": "I Love You, I'm Sorry - Live From Vevo",
       "url": "https://open.spotify.com/track/6Ova4U0AcZrDqTaP0BWDjg"
@@ -7910,7 +7928,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 180000,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
@@ -11904,7 +11922,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 146326,
       "name": "Pose For Me (feat. Natalie Nunn) - Remix",
       "url": "https://open.spotify.com/track/7b6Ni4rCGX7QoIN9vQnHZX"
@@ -12202,7 +12220,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -13782,6 +13800,24 @@
       "duration_ms": 180715,
       "name": "SPINE",
       "url": "https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22"
+    },
+    {
+      "album": {
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
     },
     {
       "album": {

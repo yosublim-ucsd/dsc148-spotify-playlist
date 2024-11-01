@@ -2,7 +2,7 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the south\. Cover: Future
+> The hottest out the south\. Cover: Young Thug
 
 1,623 songs - 3 day 4 hr 35 min
 

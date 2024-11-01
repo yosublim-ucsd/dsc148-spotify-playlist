@@ -2,9 +2,9 @@
 
 ### [Indie GO](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=y3u3H1r5T4e7PdwBnMkGUQ">Year of Dogs</a>
+> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=q1ZSuBFaSU6MjBSmr34w7A">Porcelain Moon</a>
 
-923 songs - 2 day 4 hr 21 min
+924 songs - 2 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [MESSED UP KIDS](https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [MESSED UP KIDS](https://open.spotify.com/album/403yzeLnFgqPP27o8Y8l0L) | 2:57 | 2023-07-28 | 2023-09-22 |
 | [Metamorphosis](https://open.spotify.com/track/5vK9xSL7EHnUcWuaZJ9xLd) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ) | [Metamorphosis](https://open.spotify.com/album/1bjuw3TAOwpLpCUGMUtToX) | 4:04 | 2023-09-01 | 2023-11-25 |
 | [Miami](https://open.spotify.com/track/2aXlE2ON2ya8zFg6HDTCRs) | [Josie Field](https://open.spotify.com/artist/7E5WcKtx2EGc0GYJ9ef4J1) | [Miami](https://open.spotify.com/album/66M8jLSIBg9EWzRbPsriuZ) | 3:12 | 2023-05-05 | 2023-05-12 |
+| [Midnight Drive](https://open.spotify.com/track/4QWokxtMITQncRU8Hac9Eh) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Midnight Drive](https://open.spotify.com/album/2wygGK5lNEP9y2VubzFs7Z) | 3:52 | 2024-10-31 |  |
 | [Midnight Fox](https://open.spotify.com/track/6fot9PD8atqMvbeeOhwamA) | [STRONZA](https://open.spotify.com/artist/2MKJYsXACT5aTvtNn1MmDs) | [Midnight Fox](https://open.spotify.com/album/0Q7PFHDECYVt4TnVal5Kg8) | 4:41 | 2023-03-16 | 2023-05-19 |
 | [Midnight Scenes](https://open.spotify.com/track/2nSVgBiacRtyOwC3dt1MU4) | [Pixie Whip](https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU) | [Midnight Scenes](https://open.spotify.com/album/5G1qCDPJ4GyCHdsRuTuMrB) | 3:58 | 2023-04-27 | 2023-07-07 |
 | [Midnight Talking](https://open.spotify.com/track/0QcAIJg3Fqx4wvpedzGEla) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [Midnight Talking](https://open.spotify.com/album/5RlimGp7a5oKiNeVQJg0Qa) | 2:11 | 2024-10-10 |  |
@@ -584,7 +585,7 @@
 | [Opposites don't attract](https://open.spotify.com/track/4WuBRsw8NvN8gAjiQGfVhM) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Fortune's child](https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr) | 2:50 | 2023-10-12 | 2023-12-22 |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-01 | 2023-06-18 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-01 | 2023-07-07 |
-| [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 | 2024-08-23 |  |
+| [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 | 2024-08-23 | 2024-11-01 |
 | [Otherlife](https://open.spotify.com/track/5T8w9j0O1F2uwxUde65PC3) | [Rowan Stuart](https://open.spotify.com/artist/2Vh3ok1AQZa05LZInly68a) | [Otherlife](https://open.spotify.com/album/6xLV395ycMaeT33LQhNPN5) | 3:22 | 2023-04-21 | 2023-06-23 |
 | [Out My Tree](https://open.spotify.com/track/1kkCSGbDteC8mGdhYqtG1E) | [Meridian Quake](https://open.spotify.com/artist/78gOv67PJExDFUm8TGgSo7), [Yorxe](https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8) | [Out My Tree](https://open.spotify.com/album/1muV8NmIvOXPnfenq1cmio) | 3:10 | 2022-08-04 | 2022-11-04 |
 | [Outside](https://open.spotify.com/track/4vnWq7kLc1RSUNJzcNDyE1) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Outside](https://open.spotify.com/album/773Dc2aCKe3fhZ4QrOxqwA) | 4:16 | 2022-12-15 | 2023-02-24 |

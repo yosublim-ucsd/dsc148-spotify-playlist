@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Kanika Kapoor
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,809 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,810 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 27 | [Sapna Bani Hai Har Khushi](https://open.spotify.com/track/7HyME4aNZ8e1S1y2o2vQ30) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Sapna Bani Hai Har Khushi](https://open.spotify.com/album/04Ux6V4uYxw4z2VYHWtpyw) | 4:43 |
 | 28 | [Jaanu Na](https://open.spotify.com/track/2jTCSkWe0JDsvUTX3Q3nw8) | [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Jaanu Na](https://open.spotify.com/album/0zp4tgD5m03Qh4WGk0pAj2) | 3:29 |
 | 29 | [Yeh Dil Deewana](https://open.spotify.com/track/6eR7b8DDNSVsG8UyDdzXQf) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Yeh Dil Deewana](https://open.spotify.com/album/1rsWKClUnlmKIR1CYD1WUu) | 3:29 |
-| 30 | [Bawla \(feat\. Khan Brothers\)](https://open.spotify.com/track/7BDc3JaNDJ1thbk6n9Yiht) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8), [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Khan Brothers](https://open.spotify.com/artist/1gZM30maJ0CY5elIh3xsl4) | [Bawla \(feat\. Khan Brothers\)](https://open.spotify.com/album/5yLvAO5Y43yQUUF1jFnNqh) | 3:00 |
+| 30 | [Bawla \(feat\. Khan Brothers\) \[Maati S1\]](https://open.spotify.com/track/7BDc3JaNDJ1thbk6n9Yiht) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8), [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Khan Brothers](https://open.spotify.com/artist/1gZM30maJ0CY5elIh3xsl4) | [Bawla \(feat\. Khan Brothers\) \[Maati S1\]](https://open.spotify.com/album/5yLvAO5Y43yQUUF1jFnNqh) | 3:00 |
 | 31 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 |
 | 32 | [Zamaana](https://open.spotify.com/track/6lsm8EHNoxB4AbhindOSub) | [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Zamaana](https://open.spotify.com/album/1t0TxWQNKZrpUOomGJDBSv) | 2:39 |
 | 33 | [Ek Sheher](https://open.spotify.com/track/6u5YoYzSZNXLmmm1ioeUGF) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Ek Sheher](https://open.spotify.com/album/6SeoTDuP6PEqifNIFoDujy) | 3:53 |

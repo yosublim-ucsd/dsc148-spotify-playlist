@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 13893,
+  "num_followers": 13895,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAAD0KmGxUc5CJzQSaz0d7yI",
+  "snapshot_id": "ZyF3AAAAAAAY4O96BzIB4o4Ih26oAw81",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 124403,
+      "name": "Leta's Theme - Solo Piano",
+      "url": "https://open.spotify.com/track/35bsGWSmSTeaTHK4iy8roD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Batman Begins (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 289306,
       "name": "Molossus",
       "url": "https://open.spotify.com/track/1N7LRc9YuyMjWKEkrmlogM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 124403,
-      "name": "Leta's Theme - Solo Piano",
-      "url": "https://open.spotify.com/track/35bsGWSmSTeaTHK4iy8roD"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 76876,
+  "num_followers": 76898,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-10-11 07:14:19",
       "album": {
-        "name": "Bring It Hardcore",
-        "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 284494,
-      "name": "Bring It Hardcore",
-      "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
-    },
-    {
-      "added_at": "2024-10-11 07:14:19",
-      "album": {
         "name": "Fear Means Nothing",
         "url": "https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 353374,
       "name": "Fear Means Nothing",
       "url": "https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j"
+    },
+    {
+      "added_at": "2024-10-11 07:14:19",
+      "album": {
+        "name": "Bring It Hardcore",
+        "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 284494,
+      "name": "Bring It Hardcore",
+      "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
     },
     {
       "added_at": "2024-10-11 07:14:19",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-10-11 07:14:19",
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2"
+      },
+      "artists": [
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        }
+      ],
+      "duration_ms": 202575,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU"
+    },
+    {
+      "added_at": "2024-10-11 07:14:19",
+      "album": {
         "name": "This Feeling",
         "url": "https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 188000,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/2H0eRy9vmts59596rouqUy"
-    },
-    {
-      "added_at": "2024-10-11 07:14:19",
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2"
-      },
-      "artists": [
-        {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
-        }
-      ],
-      "duration_ms": 202575,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU"
     },
     {
       "added_at": "2024-10-11 07:14:19",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-10-11 07:14:19",
       "album": {
-        "name": "DANCEFLOOR SLAYER",
-        "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        },
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        }
-      ],
-      "duration_ms": 161653,
-      "name": "DANCEFLOOR SLAYER",
-      "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
-    },
-    {
-      "added_at": "2024-10-11 07:14:19",
-      "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 187200,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4AuEotNw42YumygG85tYyV"
+    },
+    {
+      "added_at": "2024-10-11 07:14:19",
+      "album": {
+        "name": "DANCEFLOOR SLAYER",
+        "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        },
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        }
+      ],
+      "duration_ms": 161653,
+      "name": "DANCEFLOOR SLAYER",
+      "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
     },
     {
       "added_at": "2024-10-11 07:14:19",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-10-11 07:14:19",
       "album": {
-        "name": "Make It Blow",
-        "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Make It Blow",
-      "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
-    },
-    {
-      "added_at": "2024-10-11 07:14:19",
-      "album": {
         "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
         "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 235734,
       "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
       "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
+    },
+    {
+      "added_at": "2024-10-11 07:14:19",
+      "album": {
+        "name": "Make It Blow",
+        "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Make It Blow",
+      "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
     },
     {
       "added_at": "2024-10-11 07:14:19",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-10-11 07:14:19",
       "album": {
-        "name": "CocoNUTS",
-        "url": "https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 202880,
-      "name": "CocoNUTS",
-      "url": "https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck"
-    },
-    {
-      "added_at": "2024-10-11 07:14:19",
-      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 178975,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
+    },
+    {
+      "added_at": "2024-10-11 07:14:19",
+      "album": {
+        "name": "CocoNUTS",
+        "url": "https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "CocoNUTS",
+      "url": "https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck"
     },
     {
       "added_at": "2024-10-11 07:14:19",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-10-11 07:14:19",
       "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+        "name": "Weltschmerz",
+        "url": "https://open.spotify.com/album/2XWVk6Dr7iGdaRqSsQ3Ljd"
       },
       "artists": [
         {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+          "name": "D'ort",
+          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
         }
       ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+      "duration_ms": 185052,
+      "name": "Weltschmerz",
+      "url": "https://open.spotify.com/track/0iqtMeuABRFHRo3C9h4igj"
     },
     {
       "added_at": "2024-10-11 07:14:19",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-10-11 07:14:19",
       "album": {
-        "name": "Weltschmerz",
-        "url": "https://open.spotify.com/album/2XWVk6Dr7iGdaRqSsQ3Ljd"
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
       },
       "artists": [
         {
-          "name": "D'ort",
-          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
         }
       ],
-      "duration_ms": 185052,
-      "name": "Weltschmerz",
-      "url": "https://open.spotify.com/track/0iqtMeuABRFHRo3C9h4igj"
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2024-10-11 07:14:19",
@@ -1759,22 +1759,22 @@
     {
       "added_at": "2024-10-11 07:14:19",
       "album": {
-        "name": "Uit M'n Naad!",
-        "url": "https://open.spotify.com/album/5HvNhHwer4tmPe5xGqUzUx"
+        "name": "Fight Them All",
+        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
       "artists": [
         {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
         },
         {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
         }
       ],
-      "duration_ms": 202800,
-      "name": "Uit M'n Naad!",
-      "url": "https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt"
+      "duration_ms": 171789,
+      "name": "Fight Them All",
+      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2024-10-11 07:14:19",
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2024-10-11 07:14:19",
       "album": {
-        "name": "Fight Them All",
-        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
+        "name": "Uit M'n Naad!",
+        "url": "https://open.spotify.com/album/5HvNhHwer4tmPe5xGqUzUx"
       },
       "artists": [
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
           "name": "Never Surrender",
           "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
         }
       ],
-      "duration_ms": 171789,
-      "name": "Fight Them All",
-      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
+      "duration_ms": 202800,
+      "name": "Uit M'n Naad!",
+      "url": "https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt"
     },
     {
       "added_at": "2024-10-11 07:14:19",

@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 285976,
+  "num_followers": 286014,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAADsiVCjMznBadnqY5up2vS7",
+  "snapshot_id": "ZyF3AAAAAAC5HxUJrTtCQYVDWaN+8LB3",
   "tracks": [
     {
       "added_at": null,
@@ -324,13 +324,13 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Jenna Barrientes",
-          "url": "https://open.spotify.com/artist/1kXAHDXLzukedSpQPN1XUO"
+          "name": "Bella Cordero",
+          "url": "https://open.spotify.com/artist/1sSkRcwjX2H0l5QjIuyfH7"
         }
       ],
-      "duration_ms": 347587,
-      "name": "Great Is (feat. Jenna Barrientes)",
-      "url": "https://open.spotify.com/track/1Z07de4JfEV5lk8cNaNvn3"
+      "duration_ms": 421111,
+      "name": "Always On Time (feat. Bella Cordero)",
+      "url": "https://open.spotify.com/track/484SYKQnjhFBGrMVszKCkE"
     },
     {
       "added_at": null,
@@ -396,17 +396,13 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+          "name": "Jenna Barrientes",
+          "url": "https://open.spotify.com/artist/1kXAHDXLzukedSpQPN1XUO"
         }
       ],
-      "duration_ms": 430689,
-      "name": "When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2"
+      "duration_ms": 347587,
+      "name": "Great Is (feat. Jenna Barrientes)",
+      "url": "https://open.spotify.com/track/1Z07de4JfEV5lk8cNaNvn3"
     },
     {
       "added_at": null,
@@ -472,13 +468,17 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Bella Cordero",
-          "url": "https://open.spotify.com/artist/1sSkRcwjX2H0l5QjIuyfH7"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 421111,
-      "name": "Always On Time (feat. Bella Cordero)",
-      "url": "https://open.spotify.com/track/484SYKQnjhFBGrMVszKCkE"
+      "duration_ms": 430689,
+      "name": "When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2"
     },
     {
       "added_at": null,
@@ -503,18 +503,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+        "name": "Tumbas A Jardines",
+        "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 467053,
-      "name": "Resurrecting (Live)",
-      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+      "duration_ms": 353507,
+      "name": "Tumbas A Jardines (Graves Into Gardens) (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/0LetLotK5ziqrdD7WWpGN1"
     },
     {
       "added_at": null,
@@ -563,26 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbas A Jardines",
-        "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Elevation Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 353507,
-      "name": "Tumbas A Jardines (Graves Into Gardens) (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/0LetLotK5ziqrdD7WWpGN1"
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 424754,
-      "name": "Won't Stop Now",
-      "url": "https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There Is a Cloud",
         "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 247533,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 424754,
+      "name": "Won't Stop Now",
+      "url": "https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW"
     },
     {
       "added_at": null,

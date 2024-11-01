@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 676816,
+  "num_followers": 676856,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-10-15 15:37:01",
       "album": {
+        "name": "Los Cotizados",
+        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta & Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Me Niegas",
+      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
+    },
+    {
+      "added_at": "2024-10-15 15:37:01",
+      "album": {
         "name": "SAN TURRONA",
         "url": "https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd"
       },
@@ -963,18 +979,22 @@
     {
       "added_at": "2024-10-15 15:37:01",
       "album": {
-        "name": "Los Cotizados",
-        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
       "artists": [
         {
-          "name": "Baby Rasta & Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 201946,
-      "name": "Me Niegas",
-      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
+      "duration_ms": 250840,
+      "name": "No Es Justo",
+      "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
     },
     {
       "added_at": "2024-10-15 15:37:01",
@@ -1007,26 +1027,6 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
-    },
-    {
-      "added_at": "2024-10-15 15:37:01",
-      "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "No Es Justo",
-      "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
     },
     {
       "added_at": "2024-10-15 15:37:01",
@@ -1075,6 +1075,30 @@
     {
       "added_at": "2024-10-15 15:37:01",
       "album": {
+        "name": "KrING",
+        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "HASTA ABAJO",
+      "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
+    },
+    {
+      "added_at": "2024-10-15 15:37:01",
+      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
       },
@@ -1115,30 +1139,6 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2024-10-15 15:37:01",
-      "album": {
-        "name": "KrING",
-        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
-      },
-      "artists": [
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "HASTA ABAJO",
-      "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
     },
     {
       "added_at": "2024-10-15 15:37:01",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-10-15 15:37:01",
       "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 304091,
-      "name": "Zun Da Da",
-      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
-    },
-    {
-      "added_at": "2024-10-15 15:37:01",
-      "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 261665,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
+    },
+    {
+      "added_at": "2024-10-15 15:37:01",
+      "album": {
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 304091,
+      "name": "Zun Da Da",
+      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
     },
     {
       "added_at": "2024-10-15 15:37:01",
@@ -1723,30 +1723,6 @@
     {
       "added_at": "2024-10-15 15:37:01",
       "album": {
-        "name": "UH LA LA LA",
-        "url": "https://open.spotify.com/album/1opiHmX43rg1QONktnVcd7"
-      },
-      "artists": [
-        {
-          "name": "DobleP",
-          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        },
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        }
-      ],
-      "duration_ms": 167058,
-      "name": "UH LA LA LA",
-      "url": "https://open.spotify.com/track/2eV3pmYGM1bm1vWHc0t8WF"
-    },
-    {
-      "added_at": "2024-10-15 15:37:01",
-      "album": {
         "name": "2/Catorce",
         "url": "https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno"
       },
@@ -1799,6 +1775,30 @@
     {
       "added_at": "2024-10-15 15:37:01",
       "album": {
+        "name": "UH LA LA LA",
+        "url": "https://open.spotify.com/album/1opiHmX43rg1QONktnVcd7"
+      },
+      "artists": [
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "duration_ms": 167058,
+      "name": "UH LA LA LA",
+      "url": "https://open.spotify.com/track/2eV3pmYGM1bm1vWHc0t8WF"
+    },
+    {
+      "added_at": "2024-10-15 15:37:01",
+      "album": {
         "name": "DISCOTEKA (feat. Locura Mix)",
         "url": "https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx"
       },
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-10-15 15:37:01",
       "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 194989,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
+    },
+    {
+      "added_at": "2024-10-15 15:37:01",
+      "album": {
         "name": "Tu Turrito",
         "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 164701,
       "name": "Tu Turrito",
       "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
-    },
-    {
-      "added_at": "2024-10-15 15:37:01",
-      "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 194989,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
     },
     {
       "added_at": "2024-10-15 15:37:01",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-10-15 15:37:01",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
-    },
-    {
-      "added_at": "2024-10-15 15:37:01",
-      "album": {
         "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
         "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 161485,
       "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
       "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
+    },
+    {
+      "added_at": "2024-10-15 15:37:01",
+      "album": {
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2024-10-15 15:37:01",
@@ -2131,6 +2131,26 @@
     {
       "added_at": "2024-10-15 15:37:01",
       "album": {
+        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 158086,
+      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
+    },
+    {
+      "added_at": "2024-10-15 15:37:01",
+      "album": {
         "name": "PPP",
         "url": "https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd"
       },
@@ -2187,26 +2207,6 @@
       "duration_ms": 209414,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
-    },
-    {
-      "added_at": "2024-10-15 15:37:01",
-      "album": {
-        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 158086,
-      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
     }
   ],
   "unique_name": "Joda",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Grüezi! This is 100% made in Switzerland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,779 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,775 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,20 +33,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 23 | [No Time to Cry](https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [No Time to Cry](https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC) | 3:02 |
 | 24 | [Heaven or Hell](https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Heaven or Hell](https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9) | 3:07 |
 | 25 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 |
-| 26 | [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 |
-| 27 | [Heal Me](https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Heal Me](https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC) | 3:35 |
+| 26 | [Heal Me](https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Heal Me](https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC) | 3:35 |
+| 27 | [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 |
 | 28 | [fire](https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [fire](https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc) | 2:15 |
 | 29 | [Descontrol](https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Descontrol](https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r) | 2:38 |
 | 30 | [Full 180](https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Full 180](https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER) | 3:36 |
 | 31 | [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 |
-| 32 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 |
+| 32 | [Ready For It All](https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Ready For It All](https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8) | 2:32 |
 | 33 | [Again](https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Again](https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE) | 3:09 |
-| 34 | [Ready For It All](https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Ready For It All](https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8) | 2:32 |
+| 34 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 |
 | 35 | [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 |
 | 36 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 |
 | 37 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 |
-| 38 | [Soft](https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Soft](https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn) | 3:03 |
-| 39 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 |
+| 38 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 |
+| 39 | [Soft](https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Soft](https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn) | 3:03 |
 | 40 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 |
 | 41 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 |
 | 42 | [High Hopes](https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [High Hopes](https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe) | 3:12 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 47 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 |
 | 48 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 |
 | 49 | [Where Were You](https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Where Were You](https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG) | 2:42 |
-| 50 | [MOVIE](https://open.spotify.com/track/0r8UouuzeMayDncGRbkEzw) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [MOVIE](https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX) | 3:41 |
-| 51 | [Julia](https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP) | [Julia](https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk) | 3:14 |
+| 50 | [Julia](https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP) | [Julia](https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk) | 3:14 |
+| 51 | [MOVIE](https://open.spotify.com/track/0r8UouuzeMayDncGRbkEzw) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [MOVIE](https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX) | 3:41 |
 | 52 | [Coastline](https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV) | [Shem Thomas](https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw) | [Coastline](https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn) | 2:44 |
 | 53 | [Julia?](https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Julia?](https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi) | 3:44 |
 | 54 | [Just Like I Love You](https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Libertad](https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw) | 3:21 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 56 | [Call Me in L.A.](https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Stories of the XXI](https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG) | 2:55 |
 | 57 | [Beautiful Day](https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Beautiful Day](https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy) | 3:05 |
 | 58 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 |
-| 59 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 |
-| 60 | [Snooze](https://open.spotify.com/track/5aC4WmADiTLODiVefda591) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Snooze](https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ) | 3:02 |
+| 59 | [Snooze](https://open.spotify.com/track/5aC4WmADiTLODiVefda591) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Snooze](https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ) | 3:02 |
+| 60 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 |
 | 61 | [2560](https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [2560](https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv) | 3:18 |
 | 62 | [Prosecco](https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Prosecco](https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug) | 3:19 |
 | 63 | [Old Again](https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Old Again](https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T) | 3:17 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 65 | [Long Year](https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Long Year](https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI) | 3:16 |
 | 66 | [Losing Grip](https://open.spotify.com/track/4Vmn4tPZSp6B82XH2KMsHZ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Losing Grip](https://open.spotify.com/album/2gQ3GaQhjnXM8M6PlBYAkO) | 2:55 |
 | 67 | [Ig o](https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Ig o](https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci) | 2:42 |
-| 68 | [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 |
-| 69 | [Neui Welt \(feat\. Adrian Stern\)](https://open.spotify.com/track/16q5oIhLu2pWxcAXen7p6D) | [Dodo](https://open.spotify.com/artist/5x0wy0trcqYLvwUG5PFmQL), [Adrian Stern](https://open.spotify.com/artist/0xyuoDGMf5zdxyAttFCSpX) | [Neui Welt \(feat\. Adrian Stern\)](https://open.spotify.com/album/54VNWPvDVs5dRHalNJB0ki) | 3:08 |
-| 70 | [Gäbs es nid \- Duett Version](https://open.spotify.com/track/4EwuiDkpPO7p1jNVgcHTbv) | [Peter Reber](https://open.spotify.com/artist/6zyqeEDJC5qQuAPdOxrSaf), [Nina Reber](https://open.spotify.com/artist/7yFjPaO0bVy03YcDScEBmy) | [Gäbs es nid \(Duett Version\)](https://open.spotify.com/album/3mQVBjNUaJ4alePJrZ0HSq) | 3:14 |
+| 68 | [Neui Welt \(feat\. Adrian Stern\)](https://open.spotify.com/track/16q5oIhLu2pWxcAXen7p6D) | [Dodo](https://open.spotify.com/artist/5x0wy0trcqYLvwUG5PFmQL), [Adrian Stern](https://open.spotify.com/artist/0xyuoDGMf5zdxyAttFCSpX) | [Neui Welt \(feat\. Adrian Stern\)](https://open.spotify.com/album/54VNWPvDVs5dRHalNJB0ki) | 3:08 |
+| 69 | [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 |
+| 70 | [POWERTRIP!](https://open.spotify.com/track/0gABOHjuxkdwZpLmKVlEQI) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [POWERTRIP!](https://open.spotify.com/album/64IVGikaihpthJq66Fk0bf) | 2:52 |
 
 Snapshot ID: `ZxJsmQAAAAC2PkjzSgRMzT8sD8n9UuR7`

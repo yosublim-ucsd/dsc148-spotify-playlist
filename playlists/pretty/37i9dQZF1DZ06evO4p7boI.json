@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95203,
+  "num_followers": 95202,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAB4URyMRPZnwuiZw4QO5YZk",
+  "snapshot_id": "ZyF3AAAAAADzMsQcKhUpSPRlWEKdttBT",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baller",
-        "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 150679,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meet The Woo 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 194680,
       "name": "Wolves (with NAV)",
       "url": "https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baller",
+        "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 150679,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
     },
     {
       "added_at": null,
@@ -712,13 +712,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 128071,
-      "name": "No Debate (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP"
+      "duration_ms": 188117,
+      "name": "Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq"
     },
     {
       "added_at": null,
@@ -784,13 +784,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 188117,
-      "name": "Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq"
+      "duration_ms": 128071,
+      "name": "No Debate (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP"
     },
     {
       "added_at": null,
@@ -927,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "Glow Up",
+      "url": "https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FAVORITE LADY (with NAV & Cash Cobain)",
         "url": "https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 204935,
       "name": "FAVORITE LADY (with NAV & Cash Cobain)",
       "url": "https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RECKLESS",
-        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "Glow Up",
-      "url": "https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M"
     },
     {
       "added_at": null,

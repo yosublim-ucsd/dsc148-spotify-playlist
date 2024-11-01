@@ -1,13 +1,133 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6622,
+  "num_followers": 6620,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACj2ZyGYuMtPJmifccfe7BjXuF+SALa",
+  "snapshot_id": "AACj4f48HJMmFwLGg3zEy4az6rYZHz7/",
   "tracks": [
+    {
+      "added_at": "2024-10-31 09:46:14",
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "added_at": "2024-10-31 09:46:29",
+      "album": {
+        "name": "La jugada maestra",
+        "url": "https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn"
+      },
+      "artists": [
+        {
+          "name": "Amateur",
+          "url": "https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2"
+        }
+      ],
+      "duration_ms": 328960,
+      "name": "La jugada maestra",
+      "url": "https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A"
+    },
+    {
+      "added_at": "2024-10-31 09:46:58",
+      "album": {
+        "name": "S\u00e9 que no",
+        "url": "https://open.spotify.com/album/2IEcBXMQw4Zyrv77VoiPRH"
+      },
+      "artists": [
+        {
+          "name": "Junio",
+          "url": "https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8"
+        },
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 156187,
+      "name": "S\u00e9 que no",
+      "url": "https://open.spotify.com/track/3jT4rZmbAUDRH2sd9508Px"
+    },
+    {
+      "added_at": "2024-10-31 10:56:20",
+      "album": {
+        "name": "Quiero Que Perdamos La Cabeza (Otra Vez)",
+        "url": "https://open.spotify.com/album/4SQ0OKByzERxsWIkv9oAv5"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 134649,
+      "name": "Quiero Que Perdamos La Cabeza (Otra Vez)",
+      "url": "https://open.spotify.com/track/3DpbwEMDa3P5rzWJZOzWfj"
+    },
+    {
+      "added_at": "2024-10-31 10:49:05",
+      "album": {
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 162204,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2"
+    },
+    {
+      "added_at": "2024-10-31 15:42:57",
+      "album": {
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 252874,
+      "name": "Gigante",
+      "url": "https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw"
+    },
+    {
+      "added_at": "2024-10-31 10:57:44",
+      "album": {
+        "name": "Share Your Care",
+        "url": "https://open.spotify.com/album/69O5P2ESPo0lfuSO5aRB6h"
+      },
+      "artists": [
+        {
+          "name": "Helen Ganya",
+          "url": "https://open.spotify.com/artist/3QgKcOAzUQxRlENrawHNya"
+        }
+      ],
+      "duration_ms": 217041,
+      "name": "Share Your Care",
+      "url": "https://open.spotify.com/track/0WlymSbHopX5wpX7FUda4f"
+    },
     {
       "added_at": "2024-10-25 04:05:16",
       "album": {

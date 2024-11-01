@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Blaqbonez",
-  "num_followers": 56377,
+  "num_followers": 56426,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-10-25 06:23:16",
       "album": {
+        "name": "O.U.A.T",
+        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 141052,
+      "name": "O.U.A.T",
+      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
+    },
+    {
+      "added_at": "2024-10-25 06:23:16",
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 144935,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW"
-    },
-    {
-      "added_at": "2024-10-25 06:23:16",
-      "album": {
-        "name": "O.U.A.T",
-        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 141052,
-      "name": "O.U.A.T",
-      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
     },
     {
       "added_at": "2024-10-25 06:23:16",

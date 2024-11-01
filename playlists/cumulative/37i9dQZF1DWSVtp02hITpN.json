@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The biggest pop tracks right now. Cover: Mimi Webb",
+  "description": "The biggest pop tracks right now. Cover: Addison Rae",
   "name": "The Pop List",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 234090,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ"
@@ -1484,6 +1484,24 @@
       "duration_ms": 137415,
       "name": "headline",
       "url": "https://open.spotify.com/track/3AM5wx8YnsAnk5lu0tTUSX"
+    },
+    {
+      "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171607,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN"
     },
     {
       "album": {
@@ -2170,6 +2188,24 @@
       "duration_ms": 215976,
       "name": "Me Before You",
       "url": "https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72"
+    },
+    {
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Montez",
-  "num_followers": 585399,
+  "num_followers": 585406,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,42 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "kleine Feuer",
+        "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        }
+      ],
+      "duration_ms": 154679,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Egal",
+        "url": "https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k"
+      },
+      "artists": [
+        {
+          "name": "ZAVET",
+          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
+        }
+      ],
+      "duration_ms": 139410,
+      "name": "Egal",
+      "url": "https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Haare trocknen",
         "url": "https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF"
       },
@@ -755,42 +791,6 @@
       "duration_ms": 172065,
       "name": "Haare trocknen",
       "url": "https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Egal",
-        "url": "https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k"
-      },
-      "artists": [
-        {
-          "name": "ZAVET",
-          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
-        }
-      ],
-      "duration_ms": 139410,
-      "name": "Egal",
-      "url": "https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "kleine Feuer",
-        "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        },
-        {
-          "name": "Trettmann",
-          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
-        }
-      ],
-      "duration_ms": 154679,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -923,38 +923,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Delulu",
-        "url": "https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd"
-      },
-      "artists": [
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 119047,
-      "name": "Delulu",
-      "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Weisse Orchideen",
-        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "Weisse Orchideen",
-      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Ich liebe.... (feat. MAJAN)",
         "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
       },
@@ -983,6 +951,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Weisse Orchideen",
+        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 177208,
+      "name": "Weisse Orchideen",
+      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "winterlove2.0",
         "url": "https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 188750,
       "name": "winterlove2.0",
       "url": "https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Delulu",
+        "url": "https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 119047,
+      "name": "Delulu",
+      "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "verstecken",
-        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 162975,
-      "name": "verstecken",
-      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Ich brauche dich",
         "url": "https://open.spotify.com/album/4dAv7gO2ACUpUV43hxflTN"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "verstecken",
+        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 162975,
+      "name": "verstecken",
+      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/29JfpcRRhV7vspCooH2pIM"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
-        "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 150369,
-      "name": "Herzfeind - Titelsong zum Film \u201eTrauzeugen\u201c",
-      "url": "https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
@@ -1211,26 +1195,6 @@
       "duration_ms": 160226,
       "name": "Passion (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "NaNa",
-        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 141313,
-      "name": "NaNa",
-      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1267,6 +1231,42 @@
       "duration_ms": 236056,
       "name": "Sterne (feat. Bozza)",
       "url": "https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
+        "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 150369,
+      "name": "Herzfeind - Titelsong zum Film \u201eTrauzeugen\u201c",
+      "url": "https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "NaNa",
+        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "duration_ms": 141313,
+      "name": "NaNa",
+      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Bis zur Spree (feat. Juju)",
-        "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
+        "name": "Kopf aus",
+        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
       },
       "artists": [
         {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
-        },
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
         }
       ],
-      "duration_ms": 165219,
-      "name": "Bis zur Spree (feat. Juju)",
-      "url": "https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi"
+      "duration_ms": 136120,
+      "name": "Kopf aus",
+      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1479,18 +1475,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Kopf aus",
-        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
+        "name": "Bis zur Spree (feat. Juju)",
+        "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
       },
       "artists": [
         {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+        },
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
         }
       ],
-      "duration_ms": 136120,
-      "name": "Kopf aus",
-      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
+      "duration_ms": 165219,
+      "name": "Bis zur Spree (feat. Juju)",
+      "url": "https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
-      },
-      "artists": [
-        {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
         "url": "https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Ende der Strasse",
-        "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
       "artists": [
         {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
         }
       ],
-      "duration_ms": 156200,
-      "name": "Ende der Strasse",
-      "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1615,6 +1599,22 @@
       "duration_ms": 174673,
       "name": "6 Minuten",
       "url": "https://open.spotify.com/track/2yCA2pTaO6RaU8r9o8CpnI"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Ende der Strasse",
+        "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Ende der Strasse",
+      "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "trauen",
-        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 164011,
-      "name": "trauen",
-      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "1000 Sterne",
         "url": "https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc"
       },
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "trauen",
+        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "duration_ms": 164011,
+      "name": "trauen",
+      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Panikwei\u00df",
         "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
       },
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx"
-      },
-      "artists": [
-        {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
-        }
-      ],
-      "duration_ms": 158448,
-      "name": "SMS",
-      "url": "https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "PAUL",
         "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 165390,
       "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
       "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx"
+      },
+      "artists": [
+        {
+          "name": "Teven",
+          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+        }
+      ],
+      "duration_ms": 158448,
+      "name": "SMS",
+      "url": "https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E"
     },
     {
       "added_at": "2024-10-24 22:00:00",

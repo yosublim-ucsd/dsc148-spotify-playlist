@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Still Love (Deluxe)",
+        "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328241,
+      "name": "Paloma a.k.a. Ketamine",
+      "url": "https://open.spotify.com/track/5w5M2EGtS9F4yqdpNWiWTS"
+    },
+    {
+      "album": {
         "name": "Earth Is A Black Hole",
         "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
       },

@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Awofuwo",
+        "url": "https://open.spotify.com/album/5qWIB74h8PVysO1QMcSjCx"
+      },
+      "artists": [
+        {
+          "name": "Olivertherain",
+          "url": "https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346323,
+      "name": "Awofuwo",
+      "url": "https://open.spotify.com/track/4jDtIlGX6AmW2NFJTcRpiL"
+    },
+    {
+      "album": {
         "name": "B'Ola (Honour)",
         "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
       },
@@ -970,6 +992,24 @@
       "duration_ms": 454040,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/5tsBzcAXwo3UGRSPT4TbXV"
+    },
+    {
+      "album": {
+        "name": "Jesus Oyoyooh (You are worthy)",
+        "url": "https://open.spotify.com/album/7qswxW7semeVCfFmmy9Y4c"
+      },
+      "artists": [
+        {
+          "name": "Jimmy D Psalmist",
+          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 729871,
+      "name": "Jesus Oyoyooh (You are worthy)",
+      "url": "https://open.spotify.com/track/7bpSRQfKXx2hLP3622Ad3s"
     },
     {
       "album": {

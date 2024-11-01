@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,083 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,174 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 40 | [Feel It \(feat\. Lloyd, Rich Homie Quan\)](https://open.spotify.com/track/60A9cgTlUXxO7c2ucnen1x) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [19 \- EP](https://open.spotify.com/album/3N1TB3dK4eC44E92ByGJy6) | 4:19 |
 | 41 | [Late Night Drive](https://open.spotify.com/track/0K83VVfg5Y4bPoZ4kmytKH) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Late Night Drive](https://open.spotify.com/album/1ZpjavjzxvWjPYDnpDR8nX) | 4:12 |
 | 42 | [Fantasy](https://open.spotify.com/track/3UVVNiFBnYuORmpaYifi6q) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Pain & Pleasure](https://open.spotify.com/album/3OEWHfyh0pbFuTJp144pXJ) | 4:06 |
-| 43 | [Dangerous \(feat\. Jeremih and PnB Rock\)](https://open.spotify.com/track/1lL7Sj9AitQT7YWXs6obEq) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Legends of the Summer](https://open.spotify.com/album/10VeHPWU3210DSCq0uQ9uN) | 3:54 |
-| 44 | [Might Be](https://open.spotify.com/track/7KLB6Jptw9wyQXkSLiO8qh) | [DJ Luke Nasty](https://open.spotify.com/artist/1yZwlOVsfrp4wb6d29KkGM) | [Might Be \- Single](https://open.spotify.com/album/0fIsnhdTNKflr8zk7kQjz7) | 3:30 |
+| 43 | [Might Be](https://open.spotify.com/track/7KLB6Jptw9wyQXkSLiO8qh) | [DJ Luke Nasty](https://open.spotify.com/artist/1yZwlOVsfrp4wb6d29KkGM) | [Might Be \- Single](https://open.spotify.com/album/0fIsnhdTNKflr8zk7kQjz7) | 3:30 |
+| 44 | [Dangerous \(feat\. Jeremih and PnB Rock\)](https://open.spotify.com/track/1lL7Sj9AitQT7YWXs6obEq) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Legends of the Summer](https://open.spotify.com/album/10VeHPWU3210DSCq0uQ9uN) | 3:54 |
 | 45 | [Lights On](https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 2](https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX) | 3:39 |
 | 46 | [Sip](https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 3:17 |
 | 47 | [Needs](https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [All Have Fallen](https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9) | 3:25 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 56 | [Balcony](https://open.spotify.com/track/3CBwK6H17WEX6qkVZsVVDo) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Balcony](https://open.spotify.com/album/0lIPzAZfD2t5wfOGbHr8fL) | 2:48 |
 | 57 | [Permission](https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [Permission](https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa) | 4:41 |
 | 58 | [Me & U \- US Version](https://open.spotify.com/track/1AajFWbXbqpomHwLb3vYC3) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Me & U](https://open.spotify.com/album/3H2gZ86J7G4xjMS79o6LUd) | 3:11 |
-| 59 | [All You Need](https://open.spotify.com/track/7jtmFB5v6jXFsX6zVccf1U) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:44 |
-| 60 | [Lessons in Love](https://open.spotify.com/track/4JVdfd11wMY1yOXblCTskJ) | [TGT](https://open.spotify.com/artist/1lEXbUjKjHQ7uc9jFfEViJ) | [Three Kings](https://open.spotify.com/album/4q9nPVz5Nt6KEqtcxk6SI8) | 3:53 |
+| 59 | [Lessons in Love](https://open.spotify.com/track/4JVdfd11wMY1yOXblCTskJ) | [TGT](https://open.spotify.com/artist/1lEXbUjKjHQ7uc9jFfEViJ) | [Three Kings](https://open.spotify.com/album/4q9nPVz5Nt6KEqtcxk6SI8) | 3:53 |
+| 60 | [All You Need](https://open.spotify.com/track/7jtmFB5v6jXFsX6zVccf1U) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:44 |
 | 61 | [Rock wit Me \(feat\. IAMSU!\)](https://open.spotify.com/track/1UFg9EPjaPAiHl9lurJK0I) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [In My Feelings](https://open.spotify.com/album/1UEdyTHXWW9nXcNv9z590a) | 3:24 |
 | 62 | [Friendly Skies \(feat\. Ginuwine\)](https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:59 |
 | 63 | [F With U \(feat\. Ty Dolla $ign\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2kHdu1N31NkD5roBf1EHh7) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [F With U \(feat\. Ty Dolla $ign\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/6d2MsVWqoCbMWCKiHtDE2r) | 2:59 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 75 | [All I See Is You](https://open.spotify.com/track/3iGCmdEr1Nja2gPhJAUsD3) | [Meaku](https://open.spotify.com/artist/2zD28cZO766exrIWQBDFEJ) | [All I See Is You](https://open.spotify.com/album/1MexXJHmamEttAaPeUsq7T) | 3:44 |
 | 76 | [Control Me](https://open.spotify.com/track/6ImX9KIEXSf3xEIOXoBTG6) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Control Me](https://open.spotify.com/album/4YNz9YitCxbSJawRhMkPbL) | 3:33 |
 | 77 | [idc bout the club, i just want you](https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK) | [Kalin White](https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq) | [idc bout the club, i just want you](https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M) | 2:44 |
-| 78 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |
-| 79 | [Devour](https://open.spotify.com/track/4wEDkySDxnlg9wBwcFsp6v) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [Devour](https://open.spotify.com/album/4HPoxlB9tyhq1LJHswoVeT) | 2:28 |
+| 78 | [Devour](https://open.spotify.com/track/4wEDkySDxnlg9wBwcFsp6v) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [Devour](https://open.spotify.com/album/4HPoxlB9tyhq1LJHswoVeT) | 2:28 |
+| 79 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |
 | 80 | [Jazmine \(Lights Low\)](https://open.spotify.com/track/0Ljvg59UWrTiwSmRbcU9ZK) | [Mont Jake](https://open.spotify.com/artist/19rpW44F6JtXkC8TrK6VBD) | [Jazmine \(Lights Low\)](https://open.spotify.com/album/2OSfGonDcYgvCGHngFTRFC) | 3:37 |
 
 Snapshot ID: `ZtWwXAAAAADq8ym6tQNYqqvZRkNlwZmI`

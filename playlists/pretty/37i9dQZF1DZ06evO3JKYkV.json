@@ -1,12 +1,12 @@
 {
   "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 68664,
+  "num_followers": 68697,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAB8hkRtRqQofWiNwNJHAyxV",
+  "snapshot_id": "ZyF3AAAAAABiW+8d+nm/dXsnlmHjpdGl",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 131346,
-      "name": "Petiatil Cx Htdui",
-      "url": "https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u"
+      "duration_ms": 205186,
+      "name": "Nanou2",
+      "url": "https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 205186,
-      "name": "Nanou2",
-      "url": "https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl"
+      "duration_ms": 131346,
+      "name": "Petiatil Cx Htdui",
+      "url": "https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 286293,
-      "name": "Analogue Bubblebath",
-      "url": "https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Computer Controlled Acoustic Instruments pt2 EP",
         "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 108011,
       "name": "piano un10 it happened",
       "url": "https://open.spotify.com/track/75NjAlMKrabtXiM2P89E5F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 286293,
+      "name": "Analogue Bubblebath",
+      "url": "https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1"
     },
     {
       "added_at": null,

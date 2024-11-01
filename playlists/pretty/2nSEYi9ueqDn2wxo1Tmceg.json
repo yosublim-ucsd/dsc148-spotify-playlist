@@ -1,12 +1,12 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh_89rmgqQ\">Bonnie &quot;Prince&quot; Billy</a>",
-  "num_followers": 67515,
+  "num_followers": 67518,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQLc0Pwmf4hE7y+/CQ6nqJLVV9OAiN",
+  "snapshot_id": "AAAQL2DzODNUY9iD7GyJRgUvzkl/fiX7",
   "tracks": [
     {
       "added_at": "2024-10-30 11:59:32",
@@ -27,6 +27,26 @@
       "duration_ms": 158651,
       "name": "Forever Held",
       "url": "https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf"
+    },
+    {
+      "added_at": "2024-10-31 10:01:29",
+      "album": {
+        "name": "Rapid Fire / Kaitlyn Aurelia Smith Remix",
+        "url": "https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Laima",
+          "url": "https://open.spotify.com/artist/1BsnJdQKuN4OUlLLYTx6gr"
+        }
+      ],
+      "duration_ms": 334625,
+      "name": "Rapid Fire",
+      "url": "https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU"
     },
     {
       "added_at": "2024-10-30 11:59:32",

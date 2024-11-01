@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 松井 秀太郎
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,563 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,583 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 17 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
 | 18 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
 | 19 | [サンダーボルト・メインテーマ用](https://open.spotify.com/track/2kNRdLNryDeX4xBYiKCm02) | [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [オリジナル・サウンドトラック「機動戦士ガンダム　サンダーボルト」](https://open.spotify.com/album/6kSwAMTPlRZNw29XCwK0pu) | 4:13 |
-| 20 | [New World feat.ELAIZA](https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [New World feat.ELAIZA](https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU) | 3:48 |
-| 21 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
+| 20 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
+| 21 | [New World feat.ELAIZA](https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [New World feat.ELAIZA](https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU) | 3:48 |
 | 22 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
 | 23 | [WE WILL](https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:11 |
 | 24 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 43 | [All Too Soon](https://open.spotify.com/track/2Sk27VPkgdLfCeGgOuFpi3) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [All Too Soon](https://open.spotify.com/album/4NI32FLB7RjCsRGrcR26QN) | 3:54 |
 | 44 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 |
 | 45 | [アイ・ミス・ユー](https://open.spotify.com/track/3CSI0s3623E1ExOVG0fQus) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [ムード・インディゴ](https://open.spotify.com/album/79DUHlyE8a7R77ETOVCyDM) | 4:47 |
-| 46 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
-| 47 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
+| 46 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
+| 47 | [Japan Beauty](https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 4](https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178) | 4:13 |
 | 48 | [愛は花、君はその種子（おもひでぽろぽろ）](https://open.spotify.com/track/18RThNYLEtcq3Kma7yeVYR) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [GHIBLI meets JAZZ　～Beautiful Songs～](https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP) | 4:03 |
-| 49 | [Japan Beauty](https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 4](https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178) | 4:13 |
+| 49 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
 | 50 | [Kobune](https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO) | [Taka Nawashiro](https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c) | [Lifescape](https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL) | 5:07 |
 
 Snapshot ID: `ZxhZSwAAAAD8xbt5MisGHqz9INgoGrtC`

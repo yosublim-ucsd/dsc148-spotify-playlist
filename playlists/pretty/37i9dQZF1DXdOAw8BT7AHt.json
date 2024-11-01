@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Drug Church",
-  "num_followers": 467763,
+  "num_followers": 467761,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "U Should Not Be Doing That / Facts",
-        "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 206659,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Afraid To Die",
         "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 182216,
       "name": "Afraid To Die",
       "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "U Should Not Be Doing That / Facts",
+        "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 206659,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Nobody\u2019s",
-        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 135897,
-      "name": "Nobody\u2019s",
-      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Enmore",
         "url": "https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Nothing Would Change",
-        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
+        "name": "Nobody\u2019s",
+        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
       },
       "artists": [
         {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 203774,
-      "name": "Nothing Would Change",
-      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
+      "duration_ms": 135897,
+      "name": "Nobody\u2019s",
+      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -615,38 +599,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/3DS7XjGjZHW6aL8BSJogSE"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 181881,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/6WKc3CetpaIRyDmukASzYi"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
-      },
-      "artists": [
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
-        }
-      ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "All This Time",
         "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
       },
@@ -659,6 +611,22 @@
       "duration_ms": 168903,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Nothing Would Change",
+        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 203774,
+      "name": "Nothing Would Change",
+      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -679,18 +647,34 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Everything and Nothing",
-        "url": "https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9"
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
       },
       "artists": [
         {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
         }
       ],
-      "duration_ms": 237878,
-      "name": "Everything and Nothing",
-      "url": "https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf"
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/3DS7XjGjZHW6aL8BSJogSE"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 181881,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/6WKc3CetpaIRyDmukASzYi"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -707,6 +691,22 @@
       "duration_ms": 131161,
       "name": "Body of Mine",
       "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Everything and Nothing",
+        "url": "https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 237878,
+      "name": "Everything and Nothing",
+      "url": "https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -755,22 +755,6 @@
       "duration_ms": 143626,
       "name": "DOWN N OUT",
       "url": "https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Mirror Muscles",
-        "url": "https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG"
-      },
-      "artists": [
-        {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
-        }
-      ],
-      "duration_ms": 163257,
-      "name": "Mirror Muscles",
-      "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -827,6 +811,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Mirror Muscles",
+        "url": "https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 163257,
+      "name": "Mirror Muscles",
+      "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "Demolition Man",
         "url": "https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Gift Horse",
+        "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Gift Horse",
+      "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "GET A JOB!",
         "url": "https://open.spotify.com/album/5Htr73zW5tGvolH7foL7X6"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Gift Horse",
-        "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
       },
       "artists": [
         {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
         }
       ],
-      "duration_ms": 249586,
-      "name": "Gift Horse",
-      "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -923,38 +939,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Mob DLA",
-        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
-      },
-      "artists": [
-        {
-          "name": "High Vis",
-          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
-        }
-      ],
-      "duration_ms": 149397,
-      "name": "Mob DLA",
-      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Act Violently",
-        "url": "https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK"
-      },
-      "artists": [
-        {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
-        }
-      ],
-      "duration_ms": 171615,
-      "name": "Act Violently",
-      "url": "https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "If It Sucks, Turn It Up",
-        "url": "https://open.spotify.com/album/3Cjqmxw1nQFHc0p4rXkUAm"
+        "name": "Mob DLA",
+        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
       },
       "artists": [
         {
-          "name": "Dune Rats",
-          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
         }
       ],
-      "duration_ms": 179470,
-      "name": "If It Sucks, Turn It Up",
-      "url": "https://open.spotify.com/track/7M1tf4JjJPmw1BlkMbT0Dm"
+      "duration_ms": 149397,
+      "name": "Mob DLA",
+      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1003,6 +987,38 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Act Violently",
+        "url": "https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 171615,
+      "name": "Act Violently",
+      "url": "https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "If It Sucks, Turn It Up",
+        "url": "https://open.spotify.com/album/3Cjqmxw1nQFHc0p4rXkUAm"
+      },
+      "artists": [
+        {
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+        }
+      ],
+      "duration_ms": 179470,
+      "name": "If It Sucks, Turn It Up",
+      "url": "https://open.spotify.com/track/7M1tf4JjJPmw1BlkMbT0Dm"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "Wretched Trajectory",
         "url": "https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 166050,
       "name": "Wretched Trajectory",
       "url": "https://open.spotify.com/track/607oeYyNz1K55WF6foHzus"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "The Mosaic",
-        "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 213387,
-      "name": "Final Words",
-      "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "The Twits",
         "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Git Some Balls / Air Con",
-        "url": "https://open.spotify.com/album/7EGNNZlyXVERZ3DG2dObR1"
+        "name": "The Mosaic",
+        "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
       },
       "artists": [
         {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
         }
       ],
-      "duration_ms": 146578,
-      "name": "Git Some Balls",
-      "url": "https://open.spotify.com/track/2537WG5KdqGVGeDgU7aTvi"
+      "duration_ms": 213387,
+      "name": "Final Words",
+      "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1295,6 +1279,22 @@
       "duration_ms": 197714,
       "name": "Self-determined",
       "url": "https://open.spotify.com/track/7c1bKD3B87FJZNUXGIDH8s"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Git Some Balls / Air Con",
+        "url": "https://open.spotify.com/album/7EGNNZlyXVERZ3DG2dObR1"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 146578,
+      "name": "Git Some Balls",
+      "url": "https://open.spotify.com/track/2537WG5KdqGVGeDgU7aTvi"
     },
     {
       "added_at": "2024-10-10 17:06:38",

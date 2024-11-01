@@ -4,7 +4,7 @@
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-278 songs - 18 hr 19 min
+279 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [At Home He's a Tourist](https://open.spotify.com/track/1fpSdqEoXJBEr4HGQhWcxP) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy) | 3:30 | 2021-11-17 | 2022-05-27 |
 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 3:19 | 2022-11-17 | 2024-04-19 |
 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 | 2022-05-30 |  |
-| [Because You're Frightened \- Remastered 2007](https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [The Correct Use Of Soap](https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08) | 3:57 | 2021-11-17 |  |
+| [Because You're Frightened \- Remastered 2007](https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [The Correct Use Of Soap](https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08) | 3:57 | 2021-11-17 | 2024-11-01 |
 | [Being Boiled \- Fast Version / 2003 Digital Remaster](https://open.spotify.com/track/2xN8RYKg69sdfoqtvYnwwM) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Reproduction](https://open.spotify.com/album/7tc1nTdBA717D74uJ07VRn) | 3:54 | 2022-09-29 | 2022-11-13 |
 | [Bigmouth Strikes Again \- 2011 Remaster](https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:13 | 2022-05-30 |  |
 | [Birth, School, Work, Death](https://open.spotify.com/track/6cKYSjLBhQVFbmXmJSQOA7) | [The Godfathers](https://open.spotify.com/artist/3Gf6z7kuVRjZ2e3W2cxoXN) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 4:07 | 2021-11-17 | 2022-07-29 |
@@ -245,6 +245,7 @@
 | [The Cutter](https://open.spotify.com/track/617ahruubznvqzv7Nas3QX) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Porcupine \(Expanded; 2004 Remaster\)](https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC) | 3:52 | 2021-11-17 |  |
 | [The High Road](https://open.spotify.com/track/42qPwHyVPx26gdgXqY2LUE) | [The Feelies](https://open.spotify.com/artist/4UETUdF77BfyJ7fEFVztr3) | [The Good Earth](https://open.spotify.com/album/5pLXMKpukvYhaWW89pT0Kz) | 4:24 | 2021-11-17 | 2022-07-26 |
 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 | 2021-11-17 |  |
+| [The King of Rock 'N' Roll](https://open.spotify.com/track/6tlkqWfm6E2inCkvQZMUsf) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [A Life Of Surprises: The Best Of Prefab Sprout](https://open.spotify.com/album/0W1lMfOHYxHxWKHlwPdQnq) | 4:23 | 2022-11-17 |  |
 | [The Lebanon](https://open.spotify.com/track/5d4ZCmvSLvjMOSdIKkCyQ5) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Hysteria](https://open.spotify.com/album/0Jst3a86SKc0inDa2AKhXf) | 5:04 | 2021-11-17 | 2022-06-01 |
 | [The Tunnel of Love](https://open.spotify.com/track/5LN1GM6XWFEAQiWOT8RDfd) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/6jTIp3eB8Oqm1bfWr8ZhzZ) | 3:09 | 2021-11-17 | 2022-01-07 |
 | [Theme For Great Cities](https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Sons And Fascination/Sister Feelings Call](https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq) | 5:51 | 2021-11-17 |  |

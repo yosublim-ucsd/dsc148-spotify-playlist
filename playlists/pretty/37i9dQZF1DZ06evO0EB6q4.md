@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,874 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,947 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 23 | [Penitencia](https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
 | 24 | [Verte Cerquita](https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Verte Cerquita](https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv) | 3:52 |
 | 25 | [Desde el Fondo](https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr) | 3:39 |
-| 26 | [Camina Sola](https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:33 |
-| 27 | [Rebelde](https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc) | [Elena Vargas](https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Rebelde](https://open.spotify.com/album/6ZAh6f0M9XDCQY49y4h6fJ) | 2:49 |
+| 26 | [Rebelde](https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc) | [Elena Vargas](https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Rebelde](https://open.spotify.com/album/6ZAh6f0M9XDCQY49y4h6fJ) | 2:49 |
+| 27 | [Camina Sola](https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:33 |
 | 28 | [Déjame en Paz](https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 5:13 |
 | 29 | [Poeta](https://open.spotify.com/track/03vDrY1YnJsfJa6fKp1Onc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf) | 3:53 |
 | 30 | [Mal Mal Mal](https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5) | 3:48 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 46 | [Púrpura](https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Púrpura](https://open.spotify.com/album/32Fgx3PGAOXi2F1KtJNmfz) | 3:21 |
 | 47 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 |
 | 48 | [Extrañandote](https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf) | 2:53 |
-| 49 | [Prototipo](https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Otro Paso a la Locura](https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ) | 3:48 |
-| 50 | [Caballero](https://open.spotify.com/track/3rN1Wr64lf63NlAsmFHxxn) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Caballero](https://open.spotify.com/album/4Nc7ExTZ5cuLkrKXbRWUP5) | 2:29 |
+| 49 | [Caballero](https://open.spotify.com/track/3rN1Wr64lf63NlAsmFHxxn) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Caballero](https://open.spotify.com/album/4Nc7ExTZ5cuLkrKXbRWUP5) | 2:29 |
+| 50 | [Prototipo](https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Otro Paso a la Locura](https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ) | 3:48 |
 | 51 | [No Se Sobrepase](https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:03 |
 | 52 | [Pa' Que Mami No Llore](https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Pa' Que Mami No Llore](https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8) | 3:51 |
 
-Snapshot ID: `ZyAlgAAAAAAp6TX9MtSOfwdXgI9C7OLD`
+Snapshot ID: `ZyF3AAAAAAAY2dxoq+9CUN7/Y94VCPQp`

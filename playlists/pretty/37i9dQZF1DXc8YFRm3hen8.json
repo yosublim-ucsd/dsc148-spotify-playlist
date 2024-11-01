@@ -1,6 +1,6 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 176469,
+  "num_followers": 176479,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -451,18 +451,22 @@
     {
       "added_at": "2024-10-17 17:28:24",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
       "artists": [
         {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+      "duration_ms": 237873,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
     },
     {
       "added_at": "2024-10-17 17:28:24",
@@ -483,22 +487,18 @@
     {
       "added_at": "2024-10-17 17:28:24",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
         }
       ],
-      "duration_ms": 237873,
-      "name": "De Nada Sirve",
-      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2024-10-17 17:28:24",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-10-17 17:28:24",
       "album": {
-        "name": "Spinetta y los Socios del Desierto",
-        "url": "https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt"
-      },
-      "artists": [
-        {
-          "name": "Spinetta Y Los Socios Del Desierto",
-          "url": "https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi"
-        }
-      ],
-      "duration_ms": 243626,
-      "name": "Cheques",
-      "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
-    },
-    {
-      "added_at": "2024-10-17 17:28:24",
-      "album": {
         "name": "Chau",
         "url": "https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4"
       },
@@ -1107,18 +1091,38 @@
     {
       "added_at": "2024-10-17 17:28:24",
       "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
       },
       "artists": [
         {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
         }
       ],
-      "duration_ms": 223532,
-      "name": "Ya No Mires Atr\u00e1s",
-      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
+      "duration_ms": 154376,
+      "name": "un tiro",
+      "url": "https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP"
+    },
+    {
+      "added_at": "2024-10-17 17:28:24",
+      "album": {
+        "name": "Spinetta y los Socios del Desierto",
+        "url": "https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt"
+      },
+      "artists": [
+        {
+          "name": "Spinetta Y Los Socios Del Desierto",
+          "url": "https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "Cheques",
+      "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
     },
     {
       "added_at": "2024-10-17 17:28:24",
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2024-10-17 17:28:24",
       "album": {
-        "name": "donde van los perros",
-        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
       },
       "artists": [
         {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        },
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
         }
       ],
-      "duration_ms": 154376,
-      "name": "un tiro",
-      "url": "https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP"
+      "duration_ms": 223532,
+      "name": "Ya No Mires Atr\u00e1s",
+      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
     },
     {
       "added_at": "2024-10-17 17:28:24",

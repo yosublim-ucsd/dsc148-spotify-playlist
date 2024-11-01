@@ -5685,6 +5685,24 @@
     },
     {
       "album": {
+        "name": "Fire Creatures",
+        "url": "https://open.spotify.com/album/6EjJUeUxHCyuIDHSNtOr1V"
+      },
+      "artists": [
+        {
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205568,
+      "name": "Fire Creatures",
+      "url": "https://open.spotify.com/track/3NfkvMHmEpOk3el6lDwSvP"
+    },
+    {
+      "album": {
         "name": "Fire in the Jungle",
         "url": "https://open.spotify.com/album/0bClqZjLBssmo2Aw4tqgTr"
       },
@@ -5996,7 +6014,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 152727,
       "name": "Flux Faux",
       "url": "https://open.spotify.com/track/0s04bv164xrPAxOG1eOXx5"
@@ -7390,7 +7408,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 220425,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5B83lmCIpUZbp3llYUN3Mg"
@@ -8974,6 +8992,24 @@
       "duration_ms": 181461,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/5KDcDThWtlOOcEncBmseAw"
+    },
+    {
+      "album": {
+        "name": "Sphinx Nouvelle",
+        "url": "https://open.spotify.com/album/265JDS98akgIybfFtVe0ez"
+      },
+      "artists": [
+        {
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285321,
+      "name": "Lemuria Shore Party",
+      "url": "https://open.spotify.com/track/3aunCnZrxBJUMls5bcfgGz"
     },
     {
       "album": {
@@ -10824,7 +10860,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 138314,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6bmCFy256PgDmS7feDNp69"
@@ -16452,6 +16488,32 @@
       "duration_ms": 512696,
       "name": "The Rapture Pt.II",
       "url": "https://open.spotify.com/track/126B1mu0tb4gEqyjufUjms"
+    },
+    {
+      "album": {
+        "name": "The Rip",
+        "url": "https://open.spotify.com/album/024m5yprtbKRHNCFVEbOps"
+      },
+      "artists": [
+        {
+          "name": "Moonfish",
+          "url": "https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T"
+        },
+        {
+          "name": "Maria Chiara Argir\u00f2",
+          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
+        },
+        {
+          "name": "Riccardo Chiaberta",
+          "url": "https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "The Rip",
+      "url": "https://open.spotify.com/track/5rWoP6YLHWnhlMhp5ed7Qs"
     },
     {
       "album": {

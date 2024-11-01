@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,685 likes - 69 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,749 likes - 69 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 25 | [Olhar de Longe](https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Olhar de Longe](https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ) | 3:32 |
 | 26 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 |
 | 27 | [O Tempo Não Para](https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [O Tempo Não Para](https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi) | 3:22 |
-| 28 | [Claro e Certo](https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Claro e Certo](https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI) | 4:01 |
-| 29 | [Agora, Aqui](https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Filipe da Guia](https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a) | [Agora, Aqui](https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR) | 3:25 |
+| 28 | [Agora, Aqui](https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Filipe da Guia](https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a) | [Agora, Aqui](https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR) | 3:25 |
+| 29 | [Claro e Certo](https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Claro e Certo](https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI) | 4:01 |
 | 30 | [Cuide](https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cuide](https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt) | 3:05 |
 | 31 | [Botas Velhas](https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Não Sou Tão Forte](https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv) | 3:55 |
 | 32 | [Todos Um](https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Todos Um](https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF) | 3:31 |

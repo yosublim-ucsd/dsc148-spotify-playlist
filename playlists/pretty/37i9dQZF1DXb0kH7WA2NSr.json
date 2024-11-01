@@ -1,15 +1,399 @@
 {
   "description": "<a href=\"spotify:artist:0jS6VTFGujWxinY5TSQwOG\">Kevin Saunderson</a>'s favorite tracks. Updated regularly. Curated by Kevin Saunderson. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 25714,
+  "num_followers": 25723,
   "original_name": "Kevin Saunderson's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlekdQAAAAA9Ak36q6hZovU8h6euEnDL",
+  "snapshot_id": "ZyPdGQAAAAC38WXZIQZJW7NsUnZgbKiD",
   "tracks": [
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Melodica",
+        "url": "https://open.spotify.com/album/4CV1oDU4IfYXmVvJrV2Hx5"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        }
+      ],
+      "duration_ms": 243779,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/1dPRwnQl9MzC7gnr21UcUG"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "I.D.L.E.",
+        "url": "https://open.spotify.com/album/48PR2l2CXqlnHYaomutrMd"
+      },
+      "artists": [
+        {
+          "name": "Model 500",
+          "url": "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
+        }
+      ],
+      "duration_ms": 338628,
+      "name": "I.D.L.E.",
+      "url": "https://open.spotify.com/track/72dfMlAj8fxhpubNXjVMyv"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/14ghaAapVtnVCDldY9Fvuq"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 203081,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2PpQ4n7hQ5AwMwK8bXj3Jg"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Trusting Theta",
+        "url": "https://open.spotify.com/album/5jQu29iTC5O5tZ4GD99y2o"
+      },
+      "artists": [
+        {
+          "name": "Or:la",
+          "url": "https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf"
+        }
+      ],
+      "duration_ms": 289655,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/78KZQSIbV6NWVuW3xUlzSd"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/43E5wY46bLZHr1Zlmn55TR"
+      },
+      "artists": [
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 348720,
+      "name": "The Human Bond",
+      "url": "https://open.spotify.com/track/6TiVZE8Fgcdfiv8r091Lvd"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "I Can't Stop (Joseph Capriati Remixes)",
+        "url": "https://open.spotify.com/album/4Yg4tWIwxiajyc8n1qytKe"
+      },
+      "artists": [
+        {
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        },
+        {
+          "name": "Joseph Capriati",
+          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        }
+      ],
+      "duration_ms": 204898,
+      "name": "I Can't Stop - Joseph Capriati Deep Remix",
+      "url": "https://open.spotify.com/track/2aiJPd3IBrxenIOFwybflo"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "SPANK!",
+        "url": "https://open.spotify.com/album/7BQX5UxtrY59OEj3TVqDpg"
+      },
+      "artists": [
+        {
+          "name": "HiTech",
+          "url": "https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X"
+        }
+      ],
+      "duration_ms": 163263,
+      "name": "SPANK!",
+      "url": "https://open.spotify.com/track/0BMFTGo7flIdopJLYV2Ueu"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "At Night I Think Of You (Seth Troxler & Nick Morgan Remix)",
+        "url": "https://open.spotify.com/album/4GBQXHCUrxqHQFzLizB4Oq"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e8s Mortimer",
+          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Nick Morgan",
+          "url": "https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "At Night I Think Of You - Seth Troxler & Nick Morgan Remix",
+      "url": "https://open.spotify.com/track/2TfO3Q2lD898SIz0pVn7Qh"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 313146,
+      "name": "Carry Me Higher",
+      "url": "https://open.spotify.com/track/2GXOms5aOcoxqnpPVRYiIs"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Bop",
+        "url": "https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        }
+      ],
+      "duration_ms": 308705,
+      "name": "Bop",
+      "url": "https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "GET FREE",
+        "url": "https://open.spotify.com/album/6IsyLMRwiK5cDmhd65dNWK"
+      },
+      "artists": [
+        {
+          "name": "TYGAPAW",
+          "url": "https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq"
+        }
+      ],
+      "duration_ms": 318857,
+      "name": "Run 2 U",
+      "url": "https://open.spotify.com/track/3HHOoxI8hOSvd8SS2HwIDm"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "FUSEX004",
+        "url": "https://open.spotify.com/album/1jkDA9wOHfiR2fniNAI5KD"
+      },
+      "artists": [
+        {
+          "name": "Enzo Siragusa",
+          "url": "https://open.spotify.com/artist/3tXRNjxWCFyWyJdjMwtaSX"
+        },
+        {
+          "name": "Kepler.",
+          "url": "https://open.spotify.com/artist/4yGWhPE8bcrYShFXg6iCxV"
+        }
+      ],
+      "duration_ms": 355606,
+      "name": "Soul Purpose",
+      "url": "https://open.spotify.com/track/7Aj2Mk4deD0ZDriMNwsStx"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Under Control",
+        "url": "https://open.spotify.com/album/1ZkIc7PlenUNMdKsQrntay"
+      },
+      "artists": [
+        {
+          "name": "Laidlaw",
+          "url": "https://open.spotify.com/artist/5dM5Wf7KnwQuqzJNbHqniz"
+        }
+      ],
+      "duration_ms": 291426,
+      "name": "Under Control",
+      "url": "https://open.spotify.com/track/1ElV5Jkfe2ZkmbJ2r1nO7Q"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Inner City (Remixed)",
+        "url": "https://open.spotify.com/album/4YzcDjCuU1JQzUJMlsdSNV"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "LaRae Starr",
+          "url": "https://open.spotify.com/artist/5uWBumyDaGyBH1qCxSFiEO"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Dantiez Saunderson",
+          "url": "https://open.spotify.com/artist/7rymtwVS1IAIF9D4APLnOI"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Good Luck - Kevin & Dantiez Saunderson Dub Mix",
+      "url": "https://open.spotify.com/track/6hrYaWpU9VeKKo2LvQ0G2b"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Hydraulic Booty",
+        "url": "https://open.spotify.com/album/2WTdnBBCxH1NKbgJ2hLEDr"
+      },
+      "artists": [
+        {
+          "name": "Regal86",
+          "url": "https://open.spotify.com/artist/18BWZFP35cPhvqC66DJ613"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "Bumper",
+      "url": "https://open.spotify.com/track/5M5BVkJuxDLXMIabehB0z3"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "RAVE:N, The Remixes",
+        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "DJ Swisha",
+          "url": "https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H"
+        }
+      ],
+      "duration_ms": 227470,
+      "name": "Far Away - DJ Swisha Remix",
+      "url": "https://open.spotify.com/track/4XzyvOWY8Nz13rYL4QiqDf"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Time to Change",
+        "url": "https://open.spotify.com/album/2eCVfa8t2wnfcz1fcmVrRR"
+      },
+      "artists": [
+        {
+          "name": "Kink",
+          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
+        },
+        {
+          "name": "Raredub",
+          "url": "https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4"
+        }
+      ],
+      "duration_ms": 280600,
+      "name": "Time to Change",
+      "url": "https://open.spotify.com/track/1iUjlRzvpSc7pMv9AQOJb3"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Quick Game",
+        "url": "https://open.spotify.com/album/25hIhwZD7o9Hpr0KO67g1E"
+      },
+      "artists": [
+        {
+          "name": "Black Rave Culture",
+          "url": "https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS"
+        }
+      ],
+      "duration_ms": 141253,
+      "name": "STOMP EM OUT",
+      "url": "https://open.spotify.com/track/7kn2TMiBCYpiIDxqXyhhi4"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "TRISHA",
+        "url": "https://open.spotify.com/album/62H21Ioh6LEd8jq0ABjLRP"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "duration_ms": 262734,
+      "name": "TRISHA",
+      "url": "https://open.spotify.com/track/3eKCphLVlWBovVgh7veu2l"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
+      "album": {
+        "name": "Mechanic Love (Miss Kittin & The Hacker Remix)",
+        "url": "https://open.spotify.com/album/1wCIMoOTtCrPBHUvpsG2xk"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        },
+        {
+          "name": "Miss Kittin",
+          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+        },
+        {
+          "name": "The Hacker",
+          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
+        }
+      ],
+      "duration_ms": 361010,
+      "name": "Mechanic Love - Miss Kittin & The Hacker Remix",
+      "url": "https://open.spotify.com/track/5Jbz63pQlR38Nu5UmhKPAU"
+    },
+    {
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Future (feat. Inner City)",
         "url": "https://open.spotify.com/album/6UvhyKqiU7yr1XdVAgHiMh"
@@ -33,7 +417,7 @@
       "url": "https://open.spotify.com/track/6xRtX4emvb1T8Sep84XAUE"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/2IwIAKZBhfJNdGMlq5helN"
@@ -53,7 +437,7 @@
       "url": "https://open.spotify.com/track/5UuAcaZlzRPLEnOKs7FtVg"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Truncei8ht EP",
         "url": "https://open.spotify.com/album/78p52eEXfJ0Z7Iaad3GZJU"
@@ -69,7 +453,7 @@
       "url": "https://open.spotify.com/track/7g3UoIM8tZinO95AAjFha5"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Come On",
         "url": "https://open.spotify.com/album/7wZJvejHQabZO5Pgoe3gAV"
@@ -89,7 +473,7 @@
       "url": "https://open.spotify.com/track/45EVIZT94DVHxwBQ9GZKUn"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Like Dat",
         "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
@@ -105,7 +489,7 @@
       "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "In Your Mind EP",
         "url": "https://open.spotify.com/album/1YBf9rbFGSkHddjJKUPUOO"
@@ -121,7 +505,7 @@
       "url": "https://open.spotify.com/track/7bkXmQVdvUyzog7rvv9uW0"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Hors D'oeuvres Vol. 1",
         "url": "https://open.spotify.com/album/4vU7Wxpv5Yzh8q2ngS83B5"
@@ -137,7 +521,7 @@
       "url": "https://open.spotify.com/track/3whpaaaBM3YbEfjvQRGW8D"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "History Elevate Remixed",
         "url": "https://open.spotify.com/album/37z0Ip1ocBamoH8t8werJn"
@@ -153,7 +537,7 @@
       "url": "https://open.spotify.com/track/4VT1tQFtw69IzXV60CwxZQ"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "I Want",
         "url": "https://open.spotify.com/album/0jnXP1Lo1FVqQUdO5zqjd8"
@@ -169,7 +553,7 @@
       "url": "https://open.spotify.com/track/1vYW2gHyD6gGbCPspSFJ7u"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Dissipate / SMS",
         "url": "https://open.spotify.com/album/2tqc6JgRpgCd2SxD2UtZHT"
@@ -185,7 +569,7 @@
       "url": "https://open.spotify.com/track/1HtGt5T3iwkaI7Z06TH5GD"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Circular EP",
         "url": "https://open.spotify.com/album/3S2FQUjjtMXY5Lw1U9EN0a"
@@ -201,7 +585,7 @@
       "url": "https://open.spotify.com/track/5wki473M05c257DxpTwfYm"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Glide",
         "url": "https://open.spotify.com/album/2kFatAysOie6efuToYfURj"
@@ -217,7 +601,7 @@
       "url": "https://open.spotify.com/track/5T959TzqCHhlMdkbLPelkc"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "LOOP (LFO VS. F.U.S.E.) (FUSE MIX)",
         "url": "https://open.spotify.com/album/0QN1c0QO7lYt9yA5lpbH3n"
@@ -241,7 +625,7 @@
       "url": "https://open.spotify.com/track/4UuRMtLFrn5CSMxayUk8R2"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Akralium",
         "url": "https://open.spotify.com/album/33Ef277kRuH6xeXBbIDMEG"
@@ -269,7 +653,7 @@
       "url": "https://open.spotify.com/track/7eBu1L5cwi8OMQqhuJ2kp1"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Mutated Battle Breaks Vol. 4",
         "url": "https://open.spotify.com/album/0aPOB8QQ3QYoqw0sb4BelA"
@@ -285,7 +669,7 @@
       "url": "https://open.spotify.com/track/2cCsTGu4VovZdDaGvBigXN"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Hoods Legacy",
         "url": "https://open.spotify.com/album/6UbvwP5fBXDodBR0QIhfdg"
@@ -301,7 +685,7 @@
       "url": "https://open.spotify.com/track/0wuBfw5by5sDZuwyxM56Qo"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Krasked",
         "url": "https://open.spotify.com/album/1kvTAOIlKOykfsDaFUbilW"
@@ -321,7 +705,7 @@
       "url": "https://open.spotify.com/track/3koezeklAG0YPvMLgnGq74"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Resonance",
         "url": "https://open.spotify.com/album/21BmQUezazK1wRSPodq4PB"
@@ -337,7 +721,7 @@
       "url": "https://open.spotify.com/track/4dwdp1neURzBfkp63v1Wfj"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Total Pleasure",
         "url": "https://open.spotify.com/album/5aTNtKAOWmfIXFF7kAgPPr"
@@ -361,7 +745,7 @@
       "url": "https://open.spotify.com/track/70zP9z7PcMgcAINzqKE0qb"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Heavy (Remixes)",
         "url": "https://open.spotify.com/album/7sshXMetkhalBh8iiXr6ka"
@@ -393,7 +777,7 @@
       "url": "https://open.spotify.com/track/6wHOEbC9uHJhFPgYHeGCw1"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Salsatech (Pt. 1)",
         "url": "https://open.spotify.com/album/5hY6I9Ltnzch9XYwhyKvlG"
@@ -409,7 +793,7 @@
       "url": "https://open.spotify.com/track/51AgcpeOyqlPOw70lEPWqB"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "Mutated Battle Breaks Vol. 4",
         "url": "https://open.spotify.com/album/0aPOB8QQ3QYoqw0sb4BelA"
@@ -425,7 +809,7 @@
       "url": "https://open.spotify.com/track/7E6153wqTeIvsM5hODw3W7"
     },
     {
-      "added_at": "2024-05-29 21:56:05",
+      "added_at": "2024-10-31 19:40:09",
       "album": {
         "name": "30 Years EP",
         "url": "https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ"

@@ -843,6 +843,28 @@
     },
     {
       "album": {
+        "name": "Desidratado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5V1p1drcHq90K0lmmr0MqX"
+      },
+      "artists": [
+        {
+          "name": "Mod\u00e3o e Moagem",
+          "url": "https://open.spotify.com/artist/6B7XqM37LSejaX8kc7gMSS"
+        },
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194657,
+      "name": "Desidratado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5IB63RNGfWD55TRmKfkfSS"
+    },
+    {
+      "album": {
         "name": "RODEIO",
         "url": "https://open.spotify.com/album/2bgg6ltIpGtaAPFoqOjX5a"
       },
@@ -1332,6 +1354,24 @@
       "duration_ms": 160573,
       "name": "Fraquinho De Apar\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/0PkYUMQMDzb9ynyVKCuAYV"
+    },
+    {
+      "album": {
+        "name": "Marco Zero, Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aglcIdKDXD8vTkJXqjgaj"
+      },
+      "artists": [
+        {
+          "name": "Wesley & Conrado",
+          "url": "https://open.spotify.com/artist/4MFzxXAMZaBj3JDAoYMIuQ"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143968,
+      "name": "Fuga - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ASemhhYXEvg6V0GKUb0on"
     },
     {
       "album": {

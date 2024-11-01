@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36779,
+  "num_followers": 36775,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 163712,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
         "name": "Heal Me",
         "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 215300,
       "name": "Heal Me",
       "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 163712,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -523,18 +523,22 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Generation",
-        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
+        "name": "Ready For It All",
+        "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
       },
       "artists": [
         {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "Amanda Wilson",
+          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
         }
       ],
-      "duration_ms": 182609,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
+      "duration_ms": 152816,
+      "name": "Ready For It All",
+      "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -559,22 +563,18 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Ready For It All",
-        "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
       },
       "artists": [
         {
-          "name": "Remady",
-          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
-        },
-        {
-          "name": "Amanda Wilson",
-          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
         }
       ],
-      "duration_ms": 152816,
-      "name": "Ready For It All",
-      "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
+      "duration_ms": 182609,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Soft",
-        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
-      },
-      "artists": [
-        {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
         "name": "Tribut",
         "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 197992,
       "name": "Tribut",
       "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX"
-      },
-      "artists": [
-        {
-          "name": "James Gruntz",
-          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
-        }
-      ],
-      "duration_ms": 221427,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/0r8UouuzeMayDncGRbkEzw"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 194379,
       "name": "Julia",
       "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX"
+      },
+      "artists": [
+        {
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+        }
+      ],
+      "duration_ms": 221427,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/0r8UouuzeMayDncGRbkEzw"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        }
-      ],
-      "duration_ms": 164425,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
         "name": "Snooze",
         "url": "https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 182408,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/5aC4WmADiTLODiVefda591"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        }
+      ],
+      "duration_ms": 164425,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Sauvage",
-        "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
-      },
-      "artists": [
-        {
-          "name": "Julie Meletta",
-          "url": "https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1"
-        }
-      ],
-      "duration_ms": 177299,
-      "name": "Sauvage",
-      "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
         "name": "Neui Welt (feat. Adrian Stern)",
         "url": "https://open.spotify.com/album/54VNWPvDVs5dRHalNJB0ki"
       },
@@ -1163,22 +1147,34 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "G\u00e4bs es nid (Duett Version)",
-        "url": "https://open.spotify.com/album/3mQVBjNUaJ4alePJrZ0HSq"
+        "name": "Sauvage",
+        "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
       },
       "artists": [
         {
-          "name": "Peter Reber",
-          "url": "https://open.spotify.com/artist/6zyqeEDJC5qQuAPdOxrSaf"
-        },
-        {
-          "name": "Nina Reber",
-          "url": "https://open.spotify.com/artist/7yFjPaO0bVy03YcDScEBmy"
+          "name": "Julie Meletta",
+          "url": "https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1"
         }
       ],
-      "duration_ms": 194118,
-      "name": "G\u00e4bs es nid - Duett Version",
-      "url": "https://open.spotify.com/track/4EwuiDkpPO7p1jNVgcHTbv"
+      "duration_ms": 177299,
+      "name": "Sauvage",
+      "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "POWERTRIP!",
+        "url": "https://open.spotify.com/album/64IVGikaihpthJq66Fk0bf"
+      },
+      "artists": [
+        {
+          "name": "Skyler Wind",
+          "url": "https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT"
+        }
+      ],
+      "duration_ms": 172180,
+      "name": "POWERTRIP!",
+      "url": "https://open.spotify.com/track/0gABOHjuxkdwZpLmKVlEQI"
     }
   ],
   "unique_name": "Swiss Made",

@@ -2,9 +2,9 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin van Buuren, Oliver Heldens
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:   Joris Voorn x Pig&amp;Dan
 
-1,201 songs - 2 day 16 hr 23 min
+1,203 songs - 2 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Better World](https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Chris Moody](https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui) | [Better World](https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh) | 3:06 | 2024-02-15 | 2024-10-11 |
 | [Big Fun \(Remastered\)](https://open.spotify.com/track/37vkp7meAAGF6KxtaqAILs) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [The Best Of Inner City](https://open.spotify.com/album/1MhjZLn5ZKLok20AJq0YAB) | 3:18 | 2023-12-15 | 2024-05-03 |
 | [Blah Blah Blah](https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Balance](https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3) | 3:03 | 2022-07-07 | 2023-03-31 |
+| [Blah Blah Blah \- Lilly Palmer Remix](https://open.spotify.com/track/60BXInRHS0NQ1oVsnqA15a) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Blah Blah Blah \(Lilly Palmer Remix\)](https://open.spotify.com/album/2jNzuqo3EuqJl95swKdEZ8) | 3:34 | 2024-10-31 |  |
 | [Blank Page](https://open.spotify.com/track/7LouCwDci7mPh8gjirHV0o) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ), [Florence Bird](https://open.spotify.com/artist/4TNk3AroApHY9cXRR4WD7I) | [Blank Page](https://open.spotify.com/album/2oOsDB4zEpzz5Qa95SEtE5) | 3:58 | 2024-05-17 | 2024-10-19 |
 | [Blow My Mind](https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Blow My Mind](https://open.spotify.com/album/1slkHMzVPHaSr0OIhMrxZ1) | 2:31 | 2024-05-09 | 2024-10-19 |
 | [Blow Ya Mind](https://open.spotify.com/track/5YdjqXqyI1WmUbKPhtw3lq) | [Rob Black](https://open.spotify.com/artist/6mVOQan1tOCXwFuyrAffOK) | [Blow Ya Mind](https://open.spotify.com/album/51wbHKnC7gsMIdfbtRueKw) | 2:59 | 2023-09-21 | 2024-02-09 |
@@ -283,6 +284,7 @@
 | [Eyes Off You](https://open.spotify.com/track/3eY0PzM1UKs9XkCph8b3US) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Eyes Off You](https://open.spotify.com/album/3mU4KOiDmbxXcQK3NL0lNx) | 4:01 | 2023-01-12 | 2023-03-03 |
 | [Eyes Open, Mind Free](https://open.spotify.com/track/6fLaa3R4VYfRDObtzgic6a) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Eyes Open, Mind Free](https://open.spotify.com/album/48lYEtXFodPVcGNKxxCOZc) | 3:44 | 2024-05-16 | 2024-10-19 |
 | [Fade Away](https://open.spotify.com/track/05Ke9LELmOiA5i3L0ybFUy) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1) | [Fade Away](https://open.spotify.com/album/2drSSyIgLtU0aq5oM82Kja) | 2:30 | 2022-06-30 | 2023-03-25 |
+| [Fade Away](https://open.spotify.com/track/2mrQxljHrPJ4Rk6DC2TcHE) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Fade Away](https://open.spotify.com/album/1w8t96CvvaI1oIJIeSqKvK) | 2:39 | 2024-10-31 |  |
 | [Fade Away](https://open.spotify.com/track/0I57hngBJs8ggIgEdZWSK3) | [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Fade Away](https://open.spotify.com/album/4ptKxEXvx0J7LEmA9i9YO1) | 2:54 | 2022-10-13 | 2022-11-04 |
 | [Fade Into You](https://open.spotify.com/track/0lkFywhanADii6tslSaL6W) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Fade Into You](https://open.spotify.com/album/0yysmoPKFSG1EqpRYrUeU9) | 3:36 | 2024-10-17 |  |
 | [Faded Love](https://open.spotify.com/track/0BJmDoQl8AwElUL7lMEuB8) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/2nqbwJn6Cbn12mvk3aoNwF) | 2:28 | 2022-06-09 | 2023-02-17 |

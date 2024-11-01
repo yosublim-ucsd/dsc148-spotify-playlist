@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "AYO",
+        "url": "https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223408,
+      "name": "AYO",
+      "url": "https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac"
+    },
+    {
+      "album": {
         "name": "Baba O",
         "url": "https://open.spotify.com/album/3VFZNkKuxUWT7SvRxDetQK"
       },
@@ -706,7 +724,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 212000,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/4t5JEHR8C825JhdRtpNELC"
@@ -859,6 +877,28 @@
     },
     {
       "album": {
+        "name": "Present",
+        "url": "https://open.spotify.com/album/3j8msZjAsCXeaIXSUOSayi"
+      },
+      "artists": [
+        {
+          "name": "Paul-Emmanuel",
+          "url": "https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3"
+        },
+        {
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180658,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/5SNoPY4VpGkmOMSHj2imTC"
+    },
+    {
+      "album": {
         "name": "Big Stepper Pt. 2",
         "url": "https://open.spotify.com/album/0ci3NNOgeqDg4ikDDaQgOD"
       },
@@ -968,7 +1008,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 139335,
       "name": "By Me",
       "url": "https://open.spotify.com/track/5bfegq0Jj5oqnguTtsero5"
@@ -990,7 +1030,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 159691,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/4U4U6n2cLS9KSgZEyRGvUz"
@@ -2140,6 +2180,24 @@
       "duration_ms": 525758,
       "name": "Firm Foundation (He Won't) [feat. Cody Carnes]",
       "url": "https://open.spotify.com/track/6KY6K2UVCcYHkQyI4ePMSx"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0hdkyEne6WIVmQRKXtQ0Kc"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149659,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/1cVEbVHKp5SiwwDKJOpbuZ"
     },
     {
       "album": {
@@ -3668,7 +3726,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 145979,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/7wTZUijBarTXSDZgi7OLY6"
@@ -4956,7 +5014,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 146250,
       "name": "Oliver Twist",
       "url": "https://open.spotify.com/track/48bLWSgeOxYO524IMzYhR6"
@@ -5040,10 +5098,32 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 136060,
       "name": "On Deck",
       "url": "https://open.spotify.com/track/4xZmc0O4QIJPaSoQP0421o"
+    },
+    {
+      "album": {
+        "name": "One Christ One Love",
+        "url": "https://open.spotify.com/album/1DQMlWhHRCBLGZaIXiRibx"
+      },
+      "artists": [
+        {
+          "name": "Israel the creator",
+          "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
+        },
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158163,
+      "name": "One Christ One Love",
+      "url": "https://open.spotify.com/track/4QWx2bEgw3psRVBclTNneH"
     },
     {
       "album": {
@@ -5248,6 +5328,24 @@
       "duration_ms": 370792,
       "name": "Owo Oluwa",
       "url": "https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/7ts6XbRHcJ7p84kuHZ2wHC"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/1gNH0hwPFxpG8yGN0BKQ2B"
     },
     {
       "album": {
@@ -5640,7 +5738,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 157037,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0XgwyHubW1bkFlIc9xItR0"
@@ -5706,7 +5804,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 171467,
       "name": "Rest",
       "url": "https://open.spotify.com/track/3j4Q4hJHROOxf6vdlB6EAh"
@@ -7864,6 +7962,24 @@
       "duration_ms": 126000,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/7CGCoEDU786ZHdMCd722zA"
+    },
+    {
+      "album": {
+        "name": "Your Will",
+        "url": "https://open.spotify.com/album/3MNf7OAkfqDCm7BBmVEBZS"
+      },
+      "artists": [
+        {
+          "name": "Eliyah Black",
+          "url": "https://open.spotify.com/artist/1exHNJVSFIsw0NR3OYk6fj"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228393,
+      "name": "Your Will",
+      "url": "https://open.spotify.com/track/0PbqGz9L9tW7s6dNW3Mt7a"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZRdj6RqDDMm"

@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1591687,
+  "num_followers": 1591835,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 221506,
-      "name": "Personality Crisis",
-      "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Candy Apple Grey",
         "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 210866,
       "name": "Don't Want to Know If You Are Lonely",
       "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Personality Crisis",
+      "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 140493,
       "name": "Six Pack",
       "url": "https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Natural's Not in It",
-      "url": "https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 211200,
       "name": "TV Party",
       "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Natural's Not in It",
+      "url": "https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg"
     },
     {
       "added_at": "2022-11-28 15:26:19",

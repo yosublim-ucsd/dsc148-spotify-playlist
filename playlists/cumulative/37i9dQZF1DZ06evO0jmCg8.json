@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Black Earth (Reissue)",
+        "url": "https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331413,
+      "name": "Fields of Desolation",
+      "url": "https://open.spotify.com/track/78FiDVHeuL49rSjggEdF6g"
+    },
+    {
+      "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
       },

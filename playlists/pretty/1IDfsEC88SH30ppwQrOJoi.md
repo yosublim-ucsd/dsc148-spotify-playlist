@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,427 likes - 70 songs - 3 hr 25 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,427 likes - 73 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,8 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 68 | [The 90s Range](https://open.spotify.com/track/0Pf7EY9ctw9cAY7RDZHtin) | [Bryson Hill](https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA) | [The 90s Range](https://open.spotify.com/album/3kCRVAENUECcZhvE3fBqq2) | 3:36 |
 | 69 | [Always Chase The Sun](https://open.spotify.com/track/0uXllbMGTvFVL1gP66q0Sr) | [Electric Cinema](https://open.spotify.com/artist/7HpqdvvEhsTi48z5DB6BOj) | [Always Chase The Sun](https://open.spotify.com/album/3rbz9OH2hUmkTChW5Kc5eL) | 4:48 |
 | 70 | [Bassline Odyssey](https://open.spotify.com/track/5vzs8QzeY9h2BTCdPefein) | [Nessø](https://open.spotify.com/artist/15zqFxyXkm096rs1qnVn7b), [Jauks](https://open.spotify.com/artist/5c2pc0IyfK0r5p9bLBIT5e) | [Bassline Odyssey](https://open.spotify.com/album/1khqP9oeCEyKcac7l9YJiR) | 2:51 |
+| 71 | [girl$ \- Layton Giordani Remix](https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [girl$ \(Layton Giordani Remix\)](https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN) | 3:04 |
+| 72 | [Lonely Heart](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Lonely Heart](https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH) | 2:43 |
+| 73 | [Hooligans](https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Hooligans](https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE) | 3:59 |
 
-Snapshot ID: `AAAKDvaZoUulU9rJ9qidIv2z7rTtsTtV`
+Snapshot ID: `AAAKEZG2driF4psTAg+wJs4E8WCnRGi7`

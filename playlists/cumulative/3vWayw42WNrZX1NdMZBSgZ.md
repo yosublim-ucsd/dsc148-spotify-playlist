@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Alejandro Sanz
 
-842 songs - 1 day 20 hr 58 min
+843 songs - 1 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Como el Viento](https://open.spotify.com/track/5LyqFuRn4AaYlkpMFi1W0s) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Como el Viento](https://open.spotify.com/album/6UKDsAVlMkqKqWJgsnCYAK) | 3:18 | 2023-03-24 | 2023-06-01 |
 | [Como la Primera Vez](https://open.spotify.com/track/569ewIQFBsJwBtuVJMXLrM) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Como la Primera Vez](https://open.spotify.com/album/7sQj4Eu9CfDwjSa6zXgjj5) | 3:05 | 2022-05-31 | 2023-05-26 |
 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 | 2022-02-02 | 2023-05-26 |
+| [Como Pacman](https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Como Pacman](https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny) | 2:28 | 2024-11-01 |  |
 | [COMO SABES](https://open.spotify.com/track/1K96L6WO5lkeC13HuJUZ1r) | [Fran Rozzano](https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA) | [ANUBIS](https://open.spotify.com/album/5GTC36BIx9gEA8RTChT8mq) | 3:23 | 2023-03-08 | 2023-06-03 |
 | [como si no importara](https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [como si no importara](https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr) | 2:53 | 2022-02-02 | 2023-05-26 |
 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 | 2022-09-29 | 2023-05-26 |

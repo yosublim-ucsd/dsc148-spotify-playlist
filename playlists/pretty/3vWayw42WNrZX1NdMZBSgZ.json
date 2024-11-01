@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Alejandro Sanz",
-  "num_followers": 53601,
+  "num_followers": 53596,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAS4gQMYQxea0oZ6hz/lHMN51CkB5LK",
+  "snapshot_id": "AAAS41wIjlFC/tB4xWADYGjwkqfy3oc/",
   "tracks": [
     {
       "added_at": "2024-10-25 06:32:41",
@@ -2847,6 +2847,26 @@
       "duration_ms": 143935,
       "name": "DISPARA ***",
       "url": "https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB"
+    },
+    {
+      "added_at": "2024-11-01 02:56:28",
+      "album": {
+        "name": "Como Pacman",
+        "url": "https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 148152,
+      "name": "Como Pacman",
+      "url": "https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X"
     }
   ],
   "unique_name": "Pop Latin Hits",

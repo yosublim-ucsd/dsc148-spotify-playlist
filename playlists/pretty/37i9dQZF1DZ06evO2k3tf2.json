@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1370954,
+  "num_followers": 1371048,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyAlgAAAAAA7afAfyrKh5IRlC2bnYM+u",
+  "snapshot_id": "ZyF3AAAAAABDscBcZZXTwqKN1VKQ8fxT",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 267720,
-      "name": "Car Radio",
-      "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
+      "duration_ms": 175044,
+      "name": "Shy Away",
+      "url": "https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 175044,
-      "name": "Shy Away",
-      "url": "https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi"
+      "duration_ms": 267720,
+      "name": "Car Radio",
+      "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
     },
     {
       "added_at": null,

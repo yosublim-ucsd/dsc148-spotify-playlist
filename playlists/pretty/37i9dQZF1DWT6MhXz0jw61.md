@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332,692 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,332,849 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 10 | [CA$HMERE TEAR$](https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [CA$HMERE TEAR$](https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs) | 4:02 |
 | 11 | [Summer Drop \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Summer Drop \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU) | 2:48 |
 | 12 | [Hey Jane](https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:00 |
-| 13 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
+| 13 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 14 | [SMH \(feat\. Joey Bada$$, CJ Fly, Nyck Caution & Aaron Rose\)](https://open.spotify.com/track/1UgaxPIB8LwET6a3BLGrqB) | [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Aaron Rose](https://open.spotify.com/artist/1IY0Lt7LmEXwWOrD4vpkxe) | [Life Sucks](https://open.spotify.com/album/4M8wmqEOBiRmTUIlGfLi34) | 4:02 |
 | 15 | [Workin On Me](https://open.spotify.com/track/4OLpvmygTruvZfH1uyj6sS) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Workin On Me](https://open.spotify.com/album/4htzd8kCbdtovAFvLnHz5f) | 5:00 |
 | 16 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |

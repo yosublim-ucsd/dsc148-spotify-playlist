@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,886 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,890 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 61 | [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 |
 | 62 | [M79](https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 4:15 |
 | 63 | [If You Won't](https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 3:10 |
-| 64 | [Millionaire \(feat\. André 3000\)](https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:44 |
-| 65 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 |
+| 64 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 |
+| 65 | [Millionaire \(feat\. André 3000\)](https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:44 |
 | 66 | [easy going down](https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [pawwwfect!](https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P) | 2:26 |
 | 67 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
 | 68 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 93 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |
 | 94 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0) | 3:04 |
 | 95 | [Follow Me](https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:41 |
-| 96 | [VIRGINIA CREEPER](https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [VIRGINIA CREEPER](https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf) | 2:52 |
-| 97 | [Feint](https://open.spotify.com/track/1d9p7cxhZFhW2OraawvKuy) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a) | 3:10 |
-| 98 | [silver lining](https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:34 |
-| 99 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
+| 96 | [Feint](https://open.spotify.com/track/1d9p7cxhZFhW2OraawvKuy) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a) | 3:10 |
+| 97 | [VIRGINIA CREEPER](https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [VIRGINIA CREEPER](https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf) | 2:52 |
+| 98 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
+| 99 | [silver lining](https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:34 |
 | 100 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
 
 Snapshot ID: `ZyFe/gAAAABCNWJNDgWRjUH7HdyAux3y`

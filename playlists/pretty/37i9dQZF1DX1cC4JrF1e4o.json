@@ -1,6 +1,6 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 429307,
+  "num_followers": 429448,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
@@ -467,8 +467,8 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
-        "name": "The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
+        "name": "Georgia on My Mind (Original Master Recording)",
+        "url": "https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 164666,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
+      "duration_ms": 217414,
+      "name": "Georgia on My Mind - Original Master Recording",
+      "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
     },
     {
       "added_at": "2024-07-15 15:23:26",
@@ -563,8 +563,8 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
-        "name": "Georgia on My Mind (Original Master Recording)",
-        "url": "https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb"
+        "name": "The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 217414,
-      "name": "Georgia on My Mind - Original Master Recording",
-      "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
+      "duration_ms": 164666,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
     },
     {
       "added_at": "2024-07-15 15:23:26",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
-        "name": "Hello Young Lovers",
-        "url": "https://open.spotify.com/album/2MxPqVPNpPGx4jYjSJr6Zg"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Durante",
-          "url": "https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "The Glory of Love",
-      "url": "https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u"
-    },
-    {
-      "added_at": "2024-07-15 15:23:26",
-      "album": {
         "name": "Come Dance With Me! (Remastered)",
         "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 186093,
       "name": "Cheek To Cheek - 1998 Remastered",
       "url": "https://open.spotify.com/track/5GkqTYiXW18QsdkdCggyb7"
+    },
+    {
+      "added_at": "2024-07-15 15:23:26",
+      "album": {
+        "name": "Hello Young Lovers",
+        "url": "https://open.spotify.com/album/2MxPqVPNpPGx4jYjSJr6Zg"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Durante",
+          "url": "https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "The Glory of Love",
+      "url": "https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u"
     },
     {
       "added_at": "2024-07-15 15:23:26",

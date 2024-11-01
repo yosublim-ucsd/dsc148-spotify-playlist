@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(Cover: 정예인\(Yein\)\) \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,063 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,074 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 57 | [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 |
 | 58 | [Self Camera](https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Pink Funky](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) | 3:17 |
 | 59 | [Breathing](https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Breathing](https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y) | 2:53 |
-| 60 | [Pier](https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Pier](https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd) | 2:54 |
-| 61 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
+| 60 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
+| 61 | [Pier](https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Pier](https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd) | 2:54 |
 | 62 | [그대 Hello](https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [어린왕자 The Little Prince \- The 1st Mini Album](https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z) | 3:21 |
 | 63 | [Reckless \(with TTG\)](https://open.spotify.com/track/4AjlkfzjcDBs9dsCRbBmFB) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Reckless](https://open.spotify.com/album/4PPuKcHISN1tFnSpWjOp0o) | 3:28 |
 | 64 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 72 | [LOL \(LOUDNESS OF LOVE\)](https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [FM302](https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY) | 3:46 |
 | 73 | [Dive in Love](https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw) | [Dive in Love](https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7) | 3:39 |
 | 74 | [Empty](https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr) | [sucozy](https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ), [subin](https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55) | [Empty](https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm) | 3:34 |
-| 75 | [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 |
-| 76 | [Desire \(Feat\. 정진형, Vince\)](https://open.spotify.com/track/0sMSGLrwt5KFttn3ksv8CK) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG), [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 3:14 |
+| 75 | [Desire \(Feat\. 정진형, Vince\)](https://open.spotify.com/track/0sMSGLrwt5KFttn3ksv8CK) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG), [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 3:14 |
+| 76 | [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 |
 | 77 | [Line 1](https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:17 |
 | 78 | [DRIVE \(Feat\. Leellamarz\)](https://open.spotify.com/track/4fQZn3i96966kDpGotjvy1) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [DRIVE \(Feat\. Leellamarz\) \(Single Edition 2\)](https://open.spotify.com/album/6OVQlbKrHdQDJqzkxnj0oy) | 4:07 |
 | 79 | [What's Your Number?](https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH) | [What's Your Number? \- The 2nd Mini Album](https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC) | 4:00 |

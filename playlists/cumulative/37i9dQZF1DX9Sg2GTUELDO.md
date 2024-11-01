@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: Cath黃妍
+> 感受超級女聲力量。Cover:  COLLAR
 
-397 songs - 23 hr 49 min
+402 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Believe Us](https://open.spotify.com/track/7lEgSFthZUIwyW7Ji8plOj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Believe Us](https://open.spotify.com/album/2j8IcIKnuS9rNXioMlcy1N) | 3:44 | 2024-06-27 |  |
 | [BIG BANG](https://open.spotify.com/track/5K6uqu5pqE8pccHiXhPujr) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [BIG BANG](https://open.spotify.com/album/7vfJa7Ud2Uaf2LCVaFY6hs) | 3:12 | 2024-06-27 |  |
 | [California Baby](https://open.spotify.com/track/12HrBbbFqwESyRd7sejSTv) | [Leah Dou](https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl) | [California Baby](https://open.spotify.com/album/0TXWRO41sPLwdOFSgFDhJY) | 3:28 | 2024-08-29 |  |
+| [CALL BACK IN 20](https://open.spotify.com/track/08H8Orz2BCwGi9u8yhHy5D) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [CALL BACK IN 20](https://open.spotify.com/album/5vUrCnv88RAr2k3eBhJifU) | 3:05 | 2024-10-31 |  |
 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 | 2024-06-27 |  |
 | [Calm Down 練功](https://open.spotify.com/track/2gUzkd6La9jsY4JKtVlzNh) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [HATCHING](https://open.spotify.com/album/1tDBarEBsnMLa12YqDgCGR) | 3:26 | 2024-06-27 |  |
 | [Chosen Family](https://open.spotify.com/track/501E0fjo0yGBWmHyUh6Tvb) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Chosen Family](https://open.spotify.com/album/2Xc5OPcEckqdRFg3fjdf1j) | 3:52 | 2024-06-27 |  |
@@ -117,6 +118,7 @@
 | [Speak Love](https://open.spotify.com/track/0BQaaSfzHe9Grd7DID3An9) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Speak Love](https://open.spotify.com/album/6ABfEqC4ZRjjQcVBeBgeUl) | 3:09 | 2024-06-27 |  |
 | [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 | 2024-06-27 |  |
 | [sshhh…](https://open.spotify.com/track/1ntwBeaEUMmFzR6SJq3iup) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [DAUGHTER](https://open.spotify.com/album/4zOICyB23JoocOuCVcTlXr) | 4:07 | 2024-06-27 |  |
+| [SSS](https://open.spotify.com/track/2ktEpazJROn73HR7jAWY1q) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [SSS](https://open.spotify.com/album/5SsZzhz7bZEWEzGI3jNEpP) | 2:54 | 2024-10-31 |  |
 | [Strings Attached](https://open.spotify.com/track/6IMAEIoIOnQX5j5YXyRpaX) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Strings Attached](https://open.spotify.com/album/1HUhxa50VNtgwX3Tc8rCX8) | 2:58 | 2024-09-19 |  |
 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 | 2024-06-27 |  |
 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2024-06-27 |  |
@@ -170,6 +172,7 @@
 | [企好](https://open.spotify.com/track/7DtzElK1X4H5FWQMPX7ZYH) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [企好](https://open.spotify.com/album/7A6puxwZwV0hxCNzjeg6S8) | 3:25 | 2024-06-27 |  |
 | [伸縮自如的愛](https://open.spotify.com/track/605Qt7cEa5igrpWkX3B76j) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [伸縮自如的愛](https://open.spotify.com/album/0h9Z9RHbLmLQAZMFjx7bBT) | 3:36 | 2024-06-27 |  |
 | [低調\(bossa nova\)](https://open.spotify.com/track/00eXc2sJq8632QUBKruhSv) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [低調\(bossa nova\)](https://open.spotify.com/album/7oXpZU3qrTmdLSXycMKmml) | 2:54 | 2024-06-27 |  |
+| [作賤](https://open.spotify.com/track/55jgSPkET7IS8KORroxhXy) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [作賤](https://open.spotify.com/album/2SBJ4J3u7IWe308Ah4KVVi) | 3:22 | 2024-10-31 |  |
 | [你好嗎](https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [你好嗎](https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI) | 5:33 | 2024-06-27 |  |
 | [你成為了誰的幸福](https://open.spotify.com/track/21ADSha2qwERtBVz3yzD76) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你成為了誰的幸福](https://open.spotify.com/album/1mQwjhCC8ua4FRtUy26ycY) | 4:17 | 2024-06-27 |  |
 | [假使世界原來不像你預期](https://open.spotify.com/track/53HxUdYRCRMdzYPG0qhGUP) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [假使世界原來不像你預期](https://open.spotify.com/album/1uIlhInRyOcam9TjlEiGP8) | 4:27 | 2024-06-27 |  |
@@ -208,6 +211,7 @@
 | [告訴我](https://open.spotify.com/track/5b1hpRooJQCl54vA4IdIHb) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [告訴我](https://open.spotify.com/album/6qc4jiRnIPC6ge4JzQHpLm) | 3:50 | 2024-06-27 |  |
 | [呼吸有害](https://open.spotify.com/track/4t53NE3uBLkTwW9rUgiHC8) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [呼吸有害](https://open.spotify.com/album/3He2V83TzOwwyrdCJTeJeR) | 3:12 | 2024-06-27 |  |
 | [咖啡 鴛鴦 奶茶](https://open.spotify.com/track/7aqI5ATOG8piRo9KUcg1cS) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [咖啡 鴛鴦 奶茶](https://open.spotify.com/album/0vPYjgjYouCbseFYCOLg6S) | 3:47 | 2024-10-24 |  |
+| [咩事](https://open.spotify.com/track/2Q9QnlFaOAoY7PzjIObMVx) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [咩事](https://open.spotify.com/album/19a5KI8996iapH0hAAU6ug) | 3:12 | 2024-10-31 |  |
 | [哀傷的作者](https://open.spotify.com/track/70kyyZ3E9L2s6v7VRm2SKw) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [4891](https://open.spotify.com/album/4AUjutEcpzppUrcGgPWogs) | 3:31 | 2024-06-27 |  |
 | [哭泣健康指南](https://open.spotify.com/track/28uHoC2GJULmTcFTnkJFb9) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [哭泣健康指南](https://open.spotify.com/album/6694y89ReLyXxCWhonU9O8) | 4:06 | 2024-06-27 |  |
 | [唱到痛的情歌](https://open.spotify.com/track/0q7RTQxeqcR3ADu5r9KY3t) | [Jade Kwan](https://open.spotify.com/artist/5mzNf31zfzrdyD8x9fzcd4) | [唱到痛的情歌](https://open.spotify.com/album/7aqhLgMWp7Hdj8hDYT8gKX) | 4:46 | 2024-06-27 |  |
@@ -303,7 +307,7 @@
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2024-06-27 |  |
 | [月色魔美](https://open.spotify.com/track/1g6UgjshVHThcHAZcs52tO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [月色魔美](https://open.spotify.com/album/2ysOdvQRPLIJVdNf9klq8e) | 4:01 | 2024-06-27 |  |
 | [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 | 2024-06-27 |  |
-| [有心理準備](https://open.spotify.com/track/4NGRWpeviednr4XniRIlB8) | [林芊瑩](https://open.spotify.com/artist/1lwAAq6DtTJLWUdDK2quU0) | [有心理準備](https://open.spotify.com/album/6rXb1OfpeGPVOaypjOuLQu) | 3:17 | 2024-07-25 |  |
+| [有心理準備](https://open.spotify.com/track/4NGRWpeviednr4XniRIlB8) | [Irene 林芊瑩](https://open.spotify.com/artist/2sPLOrcOZumYqosdGrYttH) | [有心理準備](https://open.spotify.com/album/6rXb1OfpeGPVOaypjOuLQu) | 3:17 | 2024-07-25 |  |
 | [望年月](https://open.spotify.com/track/3VQKp2htObuxfdbh0280j3) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [望年月](https://open.spotify.com/album/3o4ADKOHZ4Rrmnn9xqusV9) | 3:50 | 2024-06-27 |  |
 | [未晚](https://open.spotify.com/track/2XTZLKd3f7qhNLjsFE4kzS) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [未晚](https://open.spotify.com/album/5NOlCZ8SQuvl8PNZtWiMyF) | 3:38 | 2024-06-27 |  |
 | [未知色 Colours of π](https://open.spotify.com/track/3zOTvfTs6AP3llTHb94az0) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [未知色 Colours of π](https://open.spotify.com/album/4lQmg5s13yrBbRcMPgU485) | 3:12 | 2024-06-27 |  |
@@ -315,6 +319,7 @@
 | [樂園見](https://open.spotify.com/track/3SwJlk5W8rGPnjfgZLVqUu) | [姜穎芝 Gigi](https://open.spotify.com/artist/7xbRsyQgjHiM8EYHuMEK0p) | [樂園見](https://open.spotify.com/album/7Du8z4U9PeWF70Z45XgkCC) | 3:30 | 2024-06-27 |  |
 | [樹之呼吸](https://open.spotify.com/track/5LCP5DaNaMgVgXnoMgMSpz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹之呼吸](https://open.spotify.com/album/4B6k5KRYNNQLRMf8KldXJm) | 2:35 | 2024-06-27 |  |
 | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/track/0jQMHHTTxlSZfIYV1mu5ak) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/album/2HpQFxLxiZw6GRRAylLyDh) | 3:30 | 2024-06-27 |  |
+| [每一次最後](https://open.spotify.com/track/2VfcVOCdLrBmOD8ladU1iA) | [謝雅兒](https://open.spotify.com/artist/3spApH2tC3gVmNOkW0hrZk) | [每一次最後](https://open.spotify.com/album/6GsbtG0thCH9xQ9XuAVqVM) | 4:08 | 2024-10-31 |  |
 | [比生命更大](https://open.spotify.com/track/2jMhZFeEDB85LwYeo9omz1) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [比生命更大](https://open.spotify.com/album/58QiM4it2CLAwlqVnQVECQ) | 4:31 | 2024-06-27 |  |
 | [比赤裸更赤裸](https://open.spotify.com/track/5zRjOfsVdMw3enQKULyYhU) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [比赤裸更赤裸](https://open.spotify.com/album/1YwUfzM65ngow33fMnQAwq) | 4:24 | 2024-09-26 |  |
 | [水性．揚花](https://open.spotify.com/track/2xOJevEW5XGSdqNe3A9jGg) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [水性揚花](https://open.spotify.com/album/6elCEI3I5Iuwia6E80wcFU) | 4:08 | 2024-06-27 |  |

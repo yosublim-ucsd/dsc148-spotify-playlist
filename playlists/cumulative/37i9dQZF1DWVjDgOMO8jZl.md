@@ -4,7 +4,7 @@
 
 > STE in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno.
 
-164 songs - 7 hr 56 min
+166 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [CITYCAR \(Abbronzatissima\) \[feat\. Edoardo Vianello\]](https://open.spotify.com/track/00H5jLi7wHrDLyHDpZKvtY) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Mr Pallotta](https://open.spotify.com/artist/4tEI46zAJnSywDwnTFFCAJ), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF), [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [CITYCAR \(Abbronzatissima\) \[feat\. Edoardo Vianello\]](https://open.spotify.com/album/1alfnxle69VfWlGBm9POGf) | 2:36 | 2023-06-08 | 2024-02-20 |
 | [Cliché](https://open.spotify.com/track/7feAP0q0KS4DW0blbHK7Pn) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Cliché](https://open.spotify.com/album/6bYA5jFVkSwtq3cFpGCvOz) | 3:12 | 2022-08-31 | 2023-04-12 |
 | [Come i Grandi](https://open.spotify.com/track/1DOajHZ9LD7MlNVHz8NMup) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Come i Grandi](https://open.spotify.com/album/61zWMNozdieRSJKQw1nzyR) | 3:07 | 2022-08-31 | 2023-04-12 |
+| [Come Te](https://open.spotify.com/track/3cDtXLGAb9APMbhKQd9jYx) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [The Freak Show](https://open.spotify.com/album/0ODC0hNSTpUbAGS35m6eoS) | 2:49 | 2024-10-30 |  |
 | [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [Copacabana](https://open.spotify.com/track/5S7fTiSn3bpJF9UMCp9j97) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:49 | 2022-08-31 | 2023-04-12 |
 | [Così Leggera](https://open.spotify.com/track/27gcKMZcvsiwyVdo0XFZLB) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Così Leggera](https://open.spotify.com/album/0Rjhyjo9x4aI0siMTVlOlj) | 2:53 | 2022-08-31 | 2023-04-12 |
@@ -128,6 +129,7 @@
 | [Petite](https://open.spotify.com/track/2Yuqyd3Ah8n2pcumd7xB6v) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Petite](https://open.spotify.com/album/7lXvqyfPkgQpx6jXTOQBni) | 2:33 | 2022-08-31 | 2023-04-12 |
 | [Pioggia di CBD](https://open.spotify.com/track/5eL7azGDSAndUemSxGm79B) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Pioggia di CBD](https://open.spotify.com/album/4UcG471p9uZwNJUGLRG4Ib) | 3:10 | 2022-08-31 | 2023-04-12 |
 | [Poker](https://open.spotify.com/track/6wHgwzvhFNFT01ecGXNGrI) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:41 | 2022-08-31 | 2023-04-12 |
+| [POLIGONO](https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [POLIGONO](https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI) | 2:17 | 2024-10-30 |  |
 | [Ponza](https://open.spotify.com/track/5HfObWIsEfQ2PW5Kn57IId) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Ponza](https://open.spotify.com/album/3eeyeSBJ0KSAmhgf91dWhO) | 2:45 | 2022-08-31 | 2023-04-12 |
 | [Porta Pia](https://open.spotify.com/track/4KOpgmof0r6RJEOWUgU9Kl) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:55 | 2024-04-23 |  |
 | [Pressione bassa](https://open.spotify.com/track/3pxIA51RPAMQnsbuArdp1G) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Pressione bassa](https://open.spotify.com/album/7IymFkEORToOb49LSg5495) | 2:48 | 2023-04-11 | 2024-04-24 |

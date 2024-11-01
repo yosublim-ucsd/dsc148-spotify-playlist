@@ -1,13 +1,29 @@
 {
   "description": "A playlist of all our songs released so far. Our new album Faith Crisis Pt 1 is out now! <a href=\"https://www.instagram.com/middlekidsmusic/\">Instagram</a>, <a href=\"https://www.tiktok.com/@middlekids.music\">TikTok</a> &amp; <a href=\"https://www.facebook.com/middlekidsmusic\">Facebook</a>",
-  "num_followers": 2978,
+  "num_followers": 2979,
   "original_name": "Middle Kids - Complete Collection",
   "owner": {
     "name": "middle_kids_official",
     "url": "https://open.spotify.com/user/middle_kids_official"
   },
-  "snapshot_id": "AAAAd17N9PbPgO6l7CXYKSbCZPkhmoj1",
+  "snapshot_id": "AAAAeZLNtAfWaow81wO7BA/h5oIl+NTO",
   "tracks": [
+    {
+      "added_at": "2024-11-01 01:09:07",
+      "album": {
+        "name": "Champagne Supernova (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/4Xu9kSHblEaQGwChCrs2cl"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 202291,
+      "name": "Champagne Supernova - triple j Like A Version",
+      "url": "https://open.spotify.com/track/41x47Hf0rucn4Gu3zr3vJb"
+    },
     {
       "added_at": "2024-10-03 01:31:26",
       "album": {

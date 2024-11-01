@@ -1,6 +1,6 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 90260,
+  "num_followers": 90325,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 278266,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
-    },
-    {
-      "added_at": "2024-05-28 18:44:23",
-      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/6N1tpNJcWopCVvXZ1M7Tb2"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 189213,
       "name": "I'm On My Way - Remastered Version",
       "url": "https://open.spotify.com/track/4bumK8exgbZjFOSHtB1hIO"
+    },
+    {
+      "added_at": "2024-05-28 18:44:23",
+      "album": {
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 278266,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
     },
     {
       "added_at": "2024-05-28 18:44:23",

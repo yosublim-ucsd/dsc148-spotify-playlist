@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,730 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,750 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 26 | [L'amour Toujours](https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J) | [L'amour Toujours](https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk) | 2:21 |
 | 27 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |
 | 28 | [Shine](https://open.spotify.com/track/1rjn2zmw1I12bTWLIz0CGS) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Shine](https://open.spotify.com/album/3T85Y8AtIP1sJxCGYflICM) | 2:00 |
-| 29 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 |
-| 30 | [Everybody Cries](https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8) | [Cleez](https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Everybody Cries](https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu) | 2:50 |
+| 29 | [Everybody Cries](https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8) | [Cleez](https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Everybody Cries](https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu) | 2:50 |
+| 30 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 |
 | 31 | [Poison](https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Morty Simmons](https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Poison](https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI) | 3:22 |
 | 32 | [Better Place \- Tiësto Remix](https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TROLLS Band Together \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH) | 3:02 |
 | 33 | [1001 Arabian Nights](https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [1001 Arabian Nights](https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI) | 2:54 |

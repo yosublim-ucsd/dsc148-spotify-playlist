@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 
 > The sweet sounds of Jordan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,620 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,633 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 5 | [Lama Tkooni](https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Lama Tkooni](https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB) | 3:31 |
 | 6 | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 |
 | 7 | [Yalli Betiheb Elna'na'](https://open.spotify.com/track/09BqNGf6vca4f2q4P0YkLF) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Yalli Betiheb Elna'na'](https://open.spotify.com/album/4CdEHczQJUHdGhacWYQ6vH) | 3:29 |
-| 8 | [أوقات](https://open.spotify.com/track/1kNEA479Q065mAaNhaT8Rn) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [أوقات](https://open.spotify.com/album/0IgOIkkKUW98PalSz7W2SB) | 3:42 |
-| 9 | [Mawali](https://open.spotify.com/track/6EGN0RcirTvE4HCrKNXGe0) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Mawali](https://open.spotify.com/album/5ntiX3s1kigHbz9WqQsxyN) | 4:28 |
+| 8 | [Mawali](https://open.spotify.com/track/6EGN0RcirTvE4HCrKNXGe0) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Mawali](https://open.spotify.com/album/5ntiX3s1kigHbz9WqQsxyN) | 4:28 |
+| 9 | [أوقات](https://open.spotify.com/track/1kNEA479Q065mAaNhaT8Rn) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [أوقات](https://open.spotify.com/album/0IgOIkkKUW98PalSz7W2SB) | 3:42 |
 | 10 | [The Siren \- Camo & Krooked Remix](https://open.spotify.com/track/588FloU8DCeIsz9NxONjGb) | [Bungle](https://open.spotify.com/artist/0dpCZN6OOu60LZXZpNGsKj), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [The Siren Remixes](https://open.spotify.com/album/5OQFefkEtKmQnpmXHmHacc) | 4:06 |
 | 11 | [Nostalgia](https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Nostalgia](https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6) | 3:19 |
 | 12 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 |
@@ -49,17 +49,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 39 | [دوامات](https://open.spotify.com/track/7ys7eUYsciH8LefcobJ4hQ) | [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [دوامات](https://open.spotify.com/album/2PbNvLR2MHgirCervbyo8n) | 4:20 |
 | 40 | [Nasheed Al Abtal](https://open.spotify.com/track/0NWhRdPRI06ABKoOeRSgrb) | [Hani Mitwasi](https://open.spotify.com/artist/5m8fc8h0xd4QfpJzcPI9NK) | [Nasheed Al Abtal](https://open.spotify.com/album/1h6ZfXJnDh0Vvlrv7mj7yh) | 3:07 |
 | 41 | [Hadal Ahbek](https://open.spotify.com/track/0ymn3NBfT1W2QW0d7U5kHS) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/5NUgTQnW5TqzsqzDVEVITx) | 3:29 |
-| 42 | [Nos El Bahr](https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Nos El Bahr](https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp) | 3:58 |
-| 43 | [Howeh El Hob](https://open.spotify.com/track/7o0v7fQ8SJKQjjA1kzSabX) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Howeh El Hob](https://open.spotify.com/album/7CboCx8gUJ67FJ3iB4U9h7) | 4:03 |
+| 42 | [Howeh El Hob](https://open.spotify.com/track/7o0v7fQ8SJKQjjA1kzSabX) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Howeh El Hob](https://open.spotify.com/album/7CboCx8gUJ67FJ3iB4U9h7) | 4:03 |
+| 43 | [Nos El Bahr](https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Nos El Bahr](https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp) | 3:58 |
 | 44 | [Ween El\-Kalam](https://open.spotify.com/track/6ggyvXMDwARoo76Clvlngg) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Ya Bay](https://open.spotify.com/album/1TJ9kHoxjWcyatFa8KMGaS) | 5:36 |
 | 45 | [Wahad Tnean](https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Wahad Tnean](https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt) | 3:07 |
 | 46 | [Ya Bay](https://open.spotify.com/track/25dpNlHr9GTVBvIcUr9cWu) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Aziz Maraka](https://open.spotify.com/album/5FCww0KdMiP4lKUzm4wEXY) | 4:07 |
 | 47 | [Laysa](https://open.spotify.com/track/0FJ7WZEaCsZPFxzt1LZ7Xy) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Laysa](https://open.spotify.com/album/77k4juG5fkQ0oT9zrmNA1m) | 2:26 |
 | 48 | [Nater](https://open.spotify.com/track/6rIWg3D84HSj7aUaVDIfKC) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Nater](https://open.spotify.com/album/09UgMkfwxSfc2Ua3t1MhOf) | 3:24 |
 | 49 | [Rahat](https://open.spotify.com/track/2rQ1W5U8hMYJq044ETw859) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Mahmood Jrere](https://open.spotify.com/artist/5UK6Z30d7qOLkkAK0HfAkC) | [Rahat](https://open.spotify.com/album/2qGc7EAeb9viFG5aGNEmRv) | 4:09 |
-| 50 | [Naskha Mennek](https://open.spotify.com/track/1QvPkpRLq07ps7S9izzQtK) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Naskha Mennek](https://open.spotify.com/album/6vfo2SVprRnGs1hzo8cWiX) | 5:18 |
-| 51 | [Nasi](https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Nasi](https://open.spotify.com/album/5DOX782glZw5iU8P5Wp6iy) | 3:44 |
-| 52 | [Asheek](https://open.spotify.com/track/6G4H20LIYJELDI6fAbWKMo) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3](https://open.spotify.com/album/4noxSq67DwvvPBwYaQiYBH) | 4:51 |
+| 50 | [Nasi](https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Nasi](https://open.spotify.com/album/5DOX782glZw5iU8P5Wp6iy) | 3:44 |
+| 51 | [Asheek](https://open.spotify.com/track/6G4H20LIYJELDI6fAbWKMo) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3](https://open.spotify.com/album/4noxSq67DwvvPBwYaQiYBH) | 4:51 |
+| 52 | [Naskha Mennek](https://open.spotify.com/track/1QvPkpRLq07ps7S9izzQtK) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Naskha Mennek](https://open.spotify.com/album/6vfo2SVprRnGs1hzo8cWiX) | 5:18 |
 | 53 | [Zubalah](https://open.spotify.com/track/2KCBxLXOmiv2skjcuUpePN) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Khusouf Al\-Ard](https://open.spotify.com/album/6gnf8UdhDLssZAvG3PF5Dw) | 3:48 |
 | 54 | [Mabsoot Bhali](https://open.spotify.com/track/39efRQpfCpC418qhWOwE41) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Mabsoot Bhali](https://open.spotify.com/album/1HKy7sOwF0qCUIKLlSluNl) | 3:19 |
 | 55 | [Hada Ma Byentasa](https://open.spotify.com/track/2YSeUVN3O3t8PeK1sGtRFQ) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Hada Ma Byentasa](https://open.spotify.com/album/2BR05zm7GhqfI9G0k6jmvp) | 4:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a>  🚀🚀 with Rezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,497 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,551 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 92 | [SKYLINE\*\*](https://open.spotify.com/track/6uHRgUYrW8FuudgLLYydjU) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [SKYLINE\*\*](https://open.spotify.com/album/4iLLeBu3FMD8jTUM1J1rvo) | 2:42 |
 | 93 | [Restless](https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Restless](https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu) | 3:25 |
 | 94 | [F.Y.U.](https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [F.Y.U.](https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q) | 2:41 |
-| 95 | [F\_\_\_\_\_\_ LOVE YOU](https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [F\_\_\_\_\_\_ LOVE YOU](https://open.spotify.com/album/7EX3l2dzNag3J6IP0UfiZP) | 2:20 |
-| 96 | [Touch Me](https://open.spotify.com/track/4QIUG6jWIhmwBgHeI1WpMD) | [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Touch Me](https://open.spotify.com/album/0Kj2ENnaV93dWUfW8qU4oK) | 2:45 |
+| 95 | [Touch Me](https://open.spotify.com/track/4QIUG6jWIhmwBgHeI1WpMD) | [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Touch Me](https://open.spotify.com/album/0Kj2ENnaV93dWUfW8qU4oK) | 2:45 |
+| 96 | [F\_\_\_\_\_\_ LOVE YOU](https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [F\_\_\_\_\_\_ LOVE YOU](https://open.spotify.com/album/7EX3l2dzNag3J6IP0UfiZP) | 2:20 |
 | 97 | [Satellite \- Wooli Remix](https://open.spotify.com/track/3tiC6D3N07kUIJXKNDRHjy) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Satellite \(Wooli Remix\)](https://open.spotify.com/album/3IcLn86DkBofZ2Z5gqIfrH) | 3:25 |
 | 98 | [Trippy Land](https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Trippy Land](https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI) | 3:06 |
-| 99 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
+| 99 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 |
 | 100 | [CUT ME OUT](https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:42 |
 
 Snapshot ID: `ZxsXwAAAAADkOU1BHPqgwENwiR/JunMr`

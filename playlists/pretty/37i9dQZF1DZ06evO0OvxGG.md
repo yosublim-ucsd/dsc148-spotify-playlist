@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,676 likes - 39 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,679 likes - 39 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 30 | [Rainha do Vinho](https://open.spotify.com/track/6LxX60FmC112LphNhmprc6) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 2:27 |
 | 31 | [Moranguinho](https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Moranguinho](https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK) | 1:54 |
 | 32 | [BÔNUS TRACK](https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [b o u t](https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41), [Brasil Grime Show](https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT) | [BÔNUS TRACK](https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25) | 3:48 |
-| 33 | [14 Sem Vaselina](https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:22 |
+| 33 | [Vem Cá](https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Raikage](https://open.spotify.com/artist/19bJ30PN0LD2NL8gjH2hxY), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:42 |
 | 34 | [Pra Você Ficar a Vontade](https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn) | [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Pra Você Ficar a Vontade](https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c) | 3:27 |
 | 35 | [O PAPO](https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [MONTE RUSH+](https://open.spotify.com/album/3Diovb4bH559HziAhlI21P) | 2:15 |
 | 36 | [Sucessagem](https://open.spotify.com/track/2U22KViUCpahk7mmxuY2av) | [Digital Mafia Corp.](https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Sucessagem](https://open.spotify.com/album/542zPHlOv8RRuc5JzRj7Jt) | 2:33 |
-| 37 | [Vem Cá](https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Raikage](https://open.spotify.com/artist/19bJ30PN0LD2NL8gjH2hxY), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:42 |
+| 37 | [14 Sem Vaselina](https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:22 |
 | 38 | [Preso na Minha BCT](https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [HG RealTrem](https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:48 |
 | 39 | [A Jogada Que É Foda](https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:28 |
 
-Snapshot ID: `ZyAlgAAAAAB0uTNqu5ntRqi9r3Vbva13`
+Snapshot ID: `ZyF3AAAAAAD/XCPECSzW7HiCRj9movSw`

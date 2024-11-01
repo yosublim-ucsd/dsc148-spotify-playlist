@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6965,
+  "num_followers": 6966,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 172526,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Let's Get It",
         "url": "https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 112131,
       "name": "Let's Get It",
       "url": "https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 172526,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
     },
     {
       "added_at": "2024-02-08 23:00:00",

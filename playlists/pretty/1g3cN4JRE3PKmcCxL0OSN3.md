@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-[charlie\*](https://open.spotify.com/user/blank808) - 0 like - 1,345 songs - 3 day 7 hr 44 min
+[charlie\*](https://open.spotify.com/user/blank808) - 0 like - 1,351 songs - 3 day 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1353,5 +1353,11 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 | 1343 | [BLACK FLAG FREESTYLE \(with That Mexican OT\)](https://open.spotify.com/track/1KucENjrvmAEkSVjAgkGH2) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [King Of The Mischievous South Vol\. 2](https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV) | 3:27 |
 | 1344 | [Rewind](https://open.spotify.com/track/2XRYjO0CRTS6OptPmekA8a) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:48 |
 | 1345 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 |
+| 1346 | [Mirrors](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:04 |
+| 1347 | [Well I Wonder \- 2011 Remaster](https://open.spotify.com/track/3OS4XXm4S42pnESQmtN9MG) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Meat Is Murder](https://open.spotify.com/album/5DM1qCdgGt2zbknnsVn1Ca) | 3:59 |
+| 1348 | [Natural](https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:43 |
+| 1349 | [KiCKIN](https://open.spotify.com/track/26XkW38w3jSTVDiul4XO5c) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [KiCKIN](https://open.spotify.com/album/51HW3FtsiuLI3sYGFWDfXs) | 2:22 |
+| 1350 | [Sympathy is a knife](https://open.spotify.com/track/0xOqJjMOnem8EhkHYZKbQS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:31 |
+| 1351 | [GUMMY](https://open.spotify.com/track/42tBlHWL3VfDkUM2iWcc5p) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION II](https://open.spotify.com/album/0XnqQzdSFAml08XZoRt1St) | 4:21 |
 
-Snapshot ID: `AAAFOoGCjDjY30Qj1a0BX30aS1aOjB09`
+Snapshot ID: `AAAFPvgTexHirczLHTfcA6661eAZAaAd`

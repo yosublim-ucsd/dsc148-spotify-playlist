@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 116789,
+  "num_followers": 116834,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "The Best of the Shadow Vol. 1",
-        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
-      },
-      "artists": [
-        {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
-        }
-      ],
-      "duration_ms": 308546,
-      "name": "I Come Out To Play",
-      "url": "https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 195400,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "The Best of the Shadow Vol. 1",
+        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
+        }
+      ],
+      "duration_ms": 308546,
+      "name": "I Come Out To Play",
+      "url": "https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "The Xtatik Circus",
-        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
       },
       "artists": [
         {
           "name": "Machel Montano",
           "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
+      "duration_ms": 218549,
+      "name": "Happiest Man Alive",
+      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1139,18 +1135,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+        "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
       },
       "artists": [
         {
           "name": "Machel Montano",
           "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 218549,
-      "name": "Happiest Man Alive",
-      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
     },
     {
       "added_at": "2024-08-06 01:00:53",

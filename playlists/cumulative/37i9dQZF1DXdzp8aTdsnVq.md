@@ -2,9 +2,9 @@
 
 ### [Lo + del Vallenato](https://open.spotify.com/playlist/37i9dQZF1DXdzp8aTdsnVq)
 
-> Novedades y clásicos del popular género colombiano\. Foto: Binomio de Oro de América
+> Novedades y clásicos del popular género colombiano\. Foto: Elder Dayán Díaz
 
-164 songs - 11 hr 41 min
+165 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [A Mi Manera](https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt) | 4:35 | 2022-09-02 |  |
 | [El Confite](https://open.spotify.com/track/5yzGHMlHHMf859Aek6QgB9) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 3:28 | 2022-09-02 |  |
 | [El Encarte](https://open.spotify.com/track/2M4GHQUCurlGyb9FVAdCUd) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [El Encarte](https://open.spotify.com/album/70snN06pgigNR1FYYaoQfT) | 3:43 | 2022-09-02 | 2023-04-06 |
+| [El Picantico](https://open.spotify.com/track/0N3AaRr6eQ0vBoepAN1Yzy) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [EL CANTOR](https://open.spotify.com/album/7BaZ0Qg89LRnOwSqLIylNp) | 3:43 | 2024-11-01 |  |
 | [El Que No Bebe Se Muere](https://open.spotify.com/track/7ws2k8irXAxlItFvTj9ZCg) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Luis Jose Villa](https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8) | [El Que No Bebe Se Muere](https://open.spotify.com/album/5OPA2GrcXBKGG0xvWZIM2k) | 4:08 | 2024-10-11 |  |
 | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8) | 3:59 | 2022-09-02 |  |
 | [El Terremoto](https://open.spotify.com/track/1W7CMs1bSqQvdEBvkaUexF) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/2bWsAObvGNg2GOwlIPRRZc) | 4:40 | 2023-04-14 | 2024-04-19 |
@@ -136,7 +137,7 @@
 | [Qué Necesidad](https://open.spotify.com/track/0ro1pFg1YLjyuFlYfEOsPL) | [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX) | [Qué Necesidad](https://open.spotify.com/album/6vqaJHsOrJ99j9nrxuZZaw) | 3:41 | 2023-02-13 | 2023-06-17 |
 | [Regálame una Noche](https://open.spotify.com/track/7nuhIriqmo87iVEfVkc58T) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Esto Es Vida](https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se) | 3:56 | 2022-09-02 |  |
 | [Reina Hermosa](https://open.spotify.com/track/0OCtBJjDwWmqqhtUSioB5M) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Reina Hermosa](https://open.spotify.com/album/7b4rPawLztzUbdWs6A4PRI) | 4:04 | 2024-01-26 | 2024-09-07 |
-| [Rojo Manzana](https://open.spotify.com/track/0hFZqhaJ9h4VGrYiTrcArn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Rojo Manzana](https://open.spotify.com/album/4ol1ixQWb7W6zId8HGc7H2) | 4:17 | 2024-09-13 |  |
+| [Rojo Manzana](https://open.spotify.com/track/0hFZqhaJ9h4VGrYiTrcArn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Rojo Manzana](https://open.spotify.com/album/4ol1ixQWb7W6zId8HGc7H2) | 4:17 | 2024-09-13 | 2024-11-01 |
 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 | 2024-01-26 |  |
 | [Señora](https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 3:58 | 2022-09-02 | 2024-04-19 |
 | [Señora](https://open.spotify.com/track/2UlmLofQp0IWtvw45wIzbx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [The Essential Guide To Vallenato](https://open.spotify.com/album/6Llc4RLGwaC9pDmDo4m92L) | 4:00 | 2022-10-21 | 2022-11-14 |

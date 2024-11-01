@@ -2,9 +2,9 @@
 
 ### [Buzz Tracker \#バズトラ](https://open.spotify.com/playlist/37i9dQZF1DXdTxsEGukhp4)
 
-> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: AKASAKI
+> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: こっちのけんと
 
-453 songs - 1 day 2 hr 3 min
+455 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [ふたりの映画](https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ふたりの映画](https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII) | 3:27 | 2024-09-04 | 2024-10-02 |
 | [ぼくのてんし](https://open.spotify.com/track/2vOdEYqxSzIvZdo7IYISmY) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [20](https://open.spotify.com/album/2E6evRJYZ8yknwWA65ICDO) | 3:14 | 2024-06-03 | 2024-10-18 |
 | [まぶた](https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [まぶた](https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP) | 4:16 | 2023-01-26 | 2023-02-10 |
+| [もういいよ](https://open.spotify.com/track/3uTffiZnTs9Zwfg0uIQ4Zw) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [もういいよ](https://open.spotify.com/album/2O6Ndu8lo4d1Ov7wz7bNGO) | 2:57 | 2024-11-01 |  |
 | [もう恋なんてしない \- 2012 Remaster](https://open.spotify.com/track/2GU85vhIa7EGUt5mDNLHK6) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物 \(2012 Remaster\)](https://open.spotify.com/album/0xl7RrBF9tVKPUu5EHHcf3) | 4:33 | 2023-09-14 | 2023-12-15 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-27 | 2023-09-02 |
 | [アスファルト](https://open.spotify.com/track/2AY2OGoQXTbMfabn4otEnG) | [Lot](https://open.spotify.com/artist/34VobEzGgudyNngJ5uYolP) | [アスファルト](https://open.spotify.com/album/4HI9ukQpXnLrZQFvFWtVF7) | 2:49 | 2024-04-18 | 2024-04-26 |
@@ -404,7 +405,7 @@
 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/6Ovj4KMDE0X326qnynqQSO) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:36 | 2023-04-13 | 2023-06-30 |
 | [君は運命の人](https://open.spotify.com/track/34T7ddHko0iSH1J3XHASNk) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [君は運命の人](https://open.spotify.com/album/28UEl2mjOzs43Gg0TYHjcm) | 3:36 | 2024-04-18 | 2024-05-10 |
 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 | 2024-05-09 |  |
-| [夏実](https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [夏実](https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4) | 5:07 | 2024-10-02 |  |
+| [夏実](https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [夏実](https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4) | 5:07 | 2024-10-02 | 2024-11-01 |
 | [夏恋センセイション](https://open.spotify.com/track/4jWIn8qaXFAIBssMhJQMzu) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [夏恋センセイション](https://open.spotify.com/album/6N9JXrnY5nuf74KK25a4CN) | 2:16 | 2023-07-12 | 2023-08-25 |
 | [夏暁](https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [夏暁](https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez) | 3:52 | 2023-09-21 | 2023-11-18 |
 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 | 2023-06-01 | 2023-11-11 |
@@ -421,7 +422,7 @@
 | [居酒屋](https://open.spotify.com/track/27sWCidpvRQsFQUZmUHHLn) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [徳利](https://open.spotify.com/artist/3sbcL5Cfgo2VkJTvzaNvuY) | [Transform \-Charcoal side\-](https://open.spotify.com/album/4nXqGulRXqM99NDche7Qkt) | 3:14 | 2024-04-18 | 2024-05-17 |
 | [平成の乙女 feat.KENTY‐GROSS](https://open.spotify.com/track/0N1NEvQDYmG433dDJvIX3c) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3), [KENTY GROSS](https://open.spotify.com/artist/1FTagLQhl5cBi1focddx1e) | [MOTHER](https://open.spotify.com/album/1vXRAcEl2fOXHdjjwbTz0f) | 5:32 | 2023-03-30 | 2023-06-16 |
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-05-09 |  |
-| [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-10-02 |  |
+| [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-10-02 | 2024-11-01 |
 | [忘れっぽいんだ](https://open.spotify.com/track/4CVSEhpfVizwsj6xMJEhwV) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [忘れっぽいんだ](https://open.spotify.com/album/1yxGeNRH02oKEP5IZTxrM7) | 4:17 | 2023-08-17 | 2023-09-15 |
 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 | 2024-06-06 |  |
 | [悪い人](https://open.spotify.com/track/2YyEI6s1gpyE8TIF9dh1Ux) | [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [悪い人](https://open.spotify.com/album/06bDwjXKGt0aath0TxZ8GY) | 3:15 | 2024-10-17 |  |
@@ -440,6 +441,7 @@
 | [未来図](https://open.spotify.com/track/7DbgLTaylbqko3vR6k4adw) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [未来図](https://open.spotify.com/album/6xgqi8qVneYK5zAehfnRNF) | 3:49 | 2023-10-02 | 2023-10-13 |
 | [桃源郷とタクシー](https://open.spotify.com/track/4ezC3yFDvZUhBX4fCUIjwq) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ロックはか゛わ゛い゛い゛](https://open.spotify.com/album/2q9ug8Pt4cCbO4PLLXygXq) | 4:58 | 2024-09-02 | 2024-09-04 |
 | [桃源郷とタクシー](https://open.spotify.com/track/2WW3SD60gBWS12cooxmfaZ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [桃源郷とタクシー](https://open.spotify.com/album/4iybrmDfQZUvxTweCSTLVa) | 4:58 | 2024-09-02 | 2024-09-03 |
+| [死ぬな！](https://open.spotify.com/track/1ID5KbsGbd0QXvWPzDO7KY) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [死ぬな！](https://open.spotify.com/album/3cV5WVgvinE8Q0ubVEzQ1z) | 3:28 | 2024-11-01 |  |
 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 | 2023-09-01 | 2023-09-15 |
 | [渋沢栄一](https://open.spotify.com/track/5iLlUZC0jiNN49m3HDTmlA) | [Ninja We Made It.](https://open.spotify.com/artist/2X7rMdeSJ6OUUtxY5vY3Vg) | [渋沢栄一](https://open.spotify.com/album/4nfG94Htc9Qy9KGhMh7Tr0) | 1:58 | 2024-07-18 | 2024-09-20 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-13 | 2023-11-11 |

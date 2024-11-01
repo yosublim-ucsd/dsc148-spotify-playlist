@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 
 > This is Whitney Houston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,831 likes - 51 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,861 likes - 51 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 48 | [Jesus Loves Me](https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 5:12 |
 | 49 | [Love Will Save the Day \- Live in Kings Park Stadium, Durban, South Africa \- November 8, 1994](https://open.spotify.com/track/2NhCRAq3klQmpZqshC5bU7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Love Will Save the Day \(Live in Kings Park Stadium, Durban, South Africa \- November 8, 1994\)](https://open.spotify.com/album/5CIxmIO8r4UFKiDAzWWW3m) | 6:16 |
 | 50 | [The Prince Of Egypt \(When You Believe\)](https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 5:01 |
-| 51 | [Lover for Life](https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:49 |
+| 51 | [If You Say My Eyes Are Beautiful \(with Jermaine Jackson\)](https://open.spotify.com/track/66RwIlYInGwQB4BokNhRnd) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P) | [Whitney The Greatest Hits](https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg) | 4:20 |
 
-Snapshot ID: `ZyAlgAAAAADnOSi/XirzxKOYp6KGaUH1`
+Snapshot ID: `ZyF3AAAAAADs84jxe4xJ1pA+8Ed50pYL`

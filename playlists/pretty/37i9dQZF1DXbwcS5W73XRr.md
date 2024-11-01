@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,087 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,116 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 30 | [Get Up, Get Down \(Rough Version\)](https://open.spotify.com/track/4rB2RqyF2JZ1R7wC4wB9FB) | [Curry Gang](https://open.spotify.com/artist/1Ouqd8jtl8sYJ8yOdiFLlk) | [Get Up, Get Down](https://open.spotify.com/album/160s39UNdPOh8u1Jg4pZoC) | 7:57 |
 | 31 | [As Acid Turns \- Remastered](https://open.spotify.com/track/6ifUZhFHTdlbfMbnZHMr4R) | [Liddell Townsell](https://open.spotify.com/artist/0xOcbgGtO2dW15jRS1sTWo) | [Traxbox \(Trax Records Remastered\)](https://open.spotify.com/album/0W9YJK5QTGJdGLwybMJh3w) | 5:12 |
 | 32 | [Distant Planet](https://open.spotify.com/track/7tXx01zHIkh0MKb4EZcquy) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Four Most Cuts Presents \- Mr\. Fingers](https://open.spotify.com/album/0cWsPRLyYxRpm3m8Xlle4J) | 5:20 |
-| 33 | [Jiggerwatts](https://open.spotify.com/track/35qEbPhtPsijSpbDVqtci4) | [Phortune](https://open.spotify.com/artist/3SKiqrQqIsYjfR8KpY5WW3) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 6:09 |
+| 33 | [Jiggerwatts](https://open.spotify.com/track/35qEbPhtPsijSpbDVqtci4) | [Phortune](https://open.spotify.com/artist/3xbPNYVPPquHiGYLySM6bj) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 6:09 |
 | 34 | [Circus Bells \- Original](https://open.spotify.com/track/5Y6M2SWKrHeI2zptDMD7Cc) | [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6) | [Circus Bells](https://open.spotify.com/album/6qfg5Fqz0tYqSFgq2ZLymZ) | 3:51 |
 | 35 | [Acid Tracks](https://open.spotify.com/track/05kXJj11PCg7aIWvQxp683) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/2ytfCSG1WHfz2LP2rGjQ1x) | 12:17 |
-| 36 | [Can You Feel The Bass](https://open.spotify.com/track/19udU6Fps14qvmuvPvwaeW) | [Phortune](https://open.spotify.com/artist/3SKiqrQqIsYjfR8KpY5WW3) | [Acid](https://open.spotify.com/album/4tPLyXfQMxTGakb6qmPCQL) | 5:14 |
+| 36 | [Can You Feel The Bass](https://open.spotify.com/track/19udU6Fps14qvmuvPvwaeW) | [Phortune](https://open.spotify.com/artist/3xbPNYVPPquHiGYLySM6bj) | [Acid](https://open.spotify.com/album/4tPLyXfQMxTGakb6qmPCQL) | 5:14 |
 | 37 | [Feel the Mood \(Remastered\) \[with Hot Hands Hula\]](https://open.spotify.com/track/42BJlSs5Uj10MHzTaFarx4) | [Maurice Joshua](https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd), [Hot Hands Hula](https://open.spotify.com/artist/43hYD3sNCTNkLowMSBZidQ) | [Traxbox \(Trax Records Remastered\)](https://open.spotify.com/album/0W9YJK5QTGJdGLwybMJh3w) | 4:10 |
 | 38 | [That Shit's Wild](https://open.spotify.com/track/6MOG2ZNDvNlDgyhFUTLkFL) | [Dr\. Derelict](https://open.spotify.com/artist/2Za6MJDy9CzxcP1NAQiJH9) | [Acid Trax, Vol\. 2](https://open.spotify.com/album/2aFMnyMBJvJLBzzvQpGnte) | 4:22 |
 | 39 | [Box Energy](https://open.spotify.com/track/1rcF7Pbe9uDmrwa4Sbdns2) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Acid Trax, Vol\. 2](https://open.spotify.com/album/2aFMnyMBJvJLBzzvQpGnte) | 3:48 |

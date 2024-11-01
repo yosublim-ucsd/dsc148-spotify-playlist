@@ -4,11 +4,12 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-93 songs - 5 hr 20 min
+95 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10PM](https://open.spotify.com/track/69pInUCf67loAdr1DoNeMt) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [10PM](https://open.spotify.com/album/7wWcWmM7O58NvPHFS7en5j) | 3:10 | 2024-02-24 |  |
+| [180 Degre](https://open.spotify.com/track/3X2Z3hZrxZEOd3QxvyQQ7M) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q), [Hameda](https://open.spotify.com/artist/7DZpYNnu5wtNuY3cwerbTb) | [180 Degre](https://open.spotify.com/album/6bthKO1rykO71a7llqYQp3) | 4:02 | 2024-10-31 |  |
 | [3almdar](https://open.spotify.com/track/2yi5HVJ7QZl1mJq3UwsZHx) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [3almdar](https://open.spotify.com/album/5VfsO3G05wH1Fr2ySj9AMO) | 2:47 | 2024-02-24 | 2024-04-19 |
 | [7adhramawt](https://open.spotify.com/track/4LDJlpyPK5NT3DgLGM6TD3) | [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [7adhramawt](https://open.spotify.com/album/7A5qHWKwy0cOFso8JgziPw) | 3:03 | 2024-02-24 |  |
 | [9adech Men Mara](https://open.spotify.com/track/0DuaftqTbS98lnbfiEJj5V) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [9adech Men Mara](https://open.spotify.com/album/14LPhzMvyamhLXzaGjltuR) | 2:30 | 2024-02-24 |  |
@@ -39,7 +40,7 @@
 | [Game is Game](https://open.spotify.com/track/0vTT53innCH0coexxq8GZf) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Game is Game](https://open.spotify.com/album/0SFtBQlDpvwpNklAnq8dz6) | 2:06 | 2024-07-04 | 2024-08-21 |
 | [Ghaba](https://open.spotify.com/track/5fJzqNudt8ZdoFGi1LsQbT) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Ghaba](https://open.spotify.com/album/3cjuodS53dH13S46iQavuk) | 3:05 | 2024-04-18 |  |
 | [Ghiri Ena](https://open.spotify.com/track/7bIc7LBLYiTIV9MhpHSJif) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Ghiri Ena](https://open.spotify.com/album/3vUP0vneujlPSieDnbGZsZ) | 3:18 | 2024-02-24 |  |
-| [Haka Tao?](https://open.spotify.com/track/3LT1WIwYXYRm5n7Qv2Xetg) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz), [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [Haka Tao?](https://open.spotify.com/album/5Vo3jtsikRXZwG8Hh7g47V) | 3:37 | 2024-07-26 |  |
+| [Haka Tao?](https://open.spotify.com/track/3LT1WIwYXYRm5n7Qv2Xetg) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz), [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [Haka Tao?](https://open.spotify.com/album/5Vo3jtsikRXZwG8Hh7g47V) | 3:37 | 2024-07-26 | 2024-11-01 |
 | [Hameda Hereb هارب](https://open.spotify.com/track/3LE2O2BQi6astoGXBKXe1V) | [Hameda Hereb](https://open.spotify.com/artist/1xnqi3G6wGYmgPXOA0fu1i) | [Hameda Hereb هارب](https://open.spotify.com/album/2HAqYpg8n9ovBZ2JehbxdZ) | 3:17 | 2024-02-24 |  |
 | [Hayou](https://open.spotify.com/track/7q3b86yEL24ycAI3coYvie) | [Redstar Radi](https://open.spotify.com/artist/3IMbYEUHFZ6Nkocs2GqMxp) | [Hayou](https://open.spotify.com/album/5orl2rXj02e1E2ZgAzDOWI) | 5:14 | 2024-02-24 |  |
 | [Helma](https://open.spotify.com/track/0wd5ZYfUoRZOovKpVCNIPE) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 2:48 | 2024-02-24 | 2024-06-01 |
@@ -58,6 +59,7 @@
 | [Lekbida Tmerjet](https://open.spotify.com/track/6qumsDpLKX99one4xNrZkc) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4) | [Lekbida Tmerjet](https://open.spotify.com/album/5HIsHvcHz1C2z54ukhjMQ6) | 3:49 | 2024-02-24 | 2024-06-06 |
 | [Lella El Baya](https://open.spotify.com/track/0VLispf4BLgivvxIpaW6Ad) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [Lella El Baya](https://open.spotify.com/album/4o0JIe4ijtniXvoCmNvRR4) | 2:56 | 2024-02-24 | 2024-05-04 |
 | [Lezem Lezem](https://open.spotify.com/track/3JAV7VqOYEQDT7tFFfLSqY) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Lezem Lezem](https://open.spotify.com/album/46VkK0IxKyKGBCJGt2BgGI) | 2:28 | 2024-02-24 | 2024-07-05 |
+| [Lili Lili](https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Khorma](https://open.spotify.com/artist/062SHbS2rC3QOGiJ2mDjSS) | [Lili Lili](https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya) | 3:29 | 2024-10-31 |  |
 | [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2024-02-24 |  |
 | [MALADIE](https://open.spotify.com/track/1H9LBYPwEAR0du08prGBGA) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [MALADIE](https://open.spotify.com/album/0i19bbIr56jXJpFiThxq9D) | 3:46 | 2024-05-03 |  |
 | [MANNENI](https://open.spotify.com/track/6DTfaZr5t4Ab32OrmTlhTJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [Feddini](https://open.spotify.com/artist/3PEXA0COjIMn9LfNuHQmuI) | [MANNENI](https://open.spotify.com/album/2vJbcsQ4YTONc1Tkq0U0dk) | 4:00 | 2024-02-24 |  |

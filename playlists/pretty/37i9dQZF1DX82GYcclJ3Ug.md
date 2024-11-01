@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Momma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,442 likes - 127 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,505 likes - 127 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 38 | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz) | 2:30 |
 | 39 | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9) | 2:19 |
 | 40 | [I Look Alive](https://open.spotify.com/track/5vdLIDyjCWDzUGx71q3nOa) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [I Look Alive](https://open.spotify.com/album/4i4HgvJHB3O2cLvAcKOBeY) | 3:58 |
-| 41 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
+| 41 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
 | 42 | [Colourblind](https://open.spotify.com/track/5q1Zaz0jxxPPrU67ddj0us) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Colourblind](https://open.spotify.com/album/47vmh3q3TOtDdLTJPvd9Yk) | 2:44 |
 | 43 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 |
 | 44 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |

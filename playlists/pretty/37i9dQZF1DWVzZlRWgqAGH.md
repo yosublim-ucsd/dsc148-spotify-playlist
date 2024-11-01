@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Music for your soul\. Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,283 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,328 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
+| 1 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 2 | [Rebel Soul](https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Rebel Soul](https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm) | 3:27 |
 | 3 | [OMG](https://open.spotify.com/track/4qowXkItbd8sIw2t3PfdRO) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL](https://open.spotify.com/album/64XKBCW9qJgHqZDuiCg6Qn) | 3:14 |
 | 4 | [Sum Love](https://open.spotify.com/track/1VczlNTqhGoDIEKi1jLCTc) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv) | 2:55 |

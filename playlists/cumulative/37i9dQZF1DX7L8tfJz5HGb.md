@@ -4,7 +4,7 @@
 
 > Enjoy the Weverse Con Festival 2023 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2023 LIVE SET을 즐겨보세요!\)
 
-178 songs - 9 hr 57 min
+178 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,6 @@
 | [Smile](https://open.spotify.com/track/2lVOoHre4RYV0ptY07paTz) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 3:13 | 2023-06-01 | 2023-06-24 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2023-06-01 |  |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-06-01 |  |
-| [Tarantallegra](https://open.spotify.com/track/3osOlWhengHBVkEHBTMtQb) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi), [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq) | [Tarantallegra](https://open.spotify.com/album/5ZuzwlITpNDuP3PakIDknY) | 4:14 | 2023-06-23 |  |
 | [The Final Countdown \- &TEAM ver.](https://open.spotify.com/track/3CHuZLVL2ZNCic0qw7KNn6) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : ME](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) | 3:21 | 2023-06-01 | 2023-06-24 |
 | [The Great Mermaid](https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:57 | 2023-06-23 |  |
 | [The Hydra](https://open.spotify.com/track/0JosgxxZKZ87QbW5TISJDE) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 1:44 | 2023-06-01 | 2023-06-24 |
@@ -186,5 +185,6 @@
 | [괴짜 \(Freak\)](https://open.spotify.com/track/61aMk6VH8dNYFxKLrQRiH6) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/7hV6jCNOCQP17ZKFywnf3h) | 2:49 | 2023-06-26 |  |
 | [꽃](https://open.spotify.com/track/3z5takJnEUSfqGCQBX6wnG) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Flower](https://open.spotify.com/album/4zZesuy7oyjvjOsgVtS316) | 3:33 | 2023-06-23 |  |
 | [나비](https://open.spotify.com/track/38UAq2jcb35mYuIHmFJ2qN) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Flower](https://open.spotify.com/album/4zZesuy7oyjvjOsgVtS316) | 4:00 | 2023-06-23 |  |
+| [사랑이 싫다구요](https://open.spotify.com/track/3osOlWhengHBVkEHBTMtQb) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Tarantallegra](https://open.spotify.com/album/5ZuzwlITpNDuP3PakIDknY) | 3:41 | 2023-06-23 |  |
 
 \*This playlist was first scraped on 2023-06-02. Prior content cannot be recovered.

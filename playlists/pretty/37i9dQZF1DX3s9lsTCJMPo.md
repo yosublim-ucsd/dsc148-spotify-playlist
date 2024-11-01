@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,789 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,834 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 32 | [Bitin Incex](https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ) | [Ronnie McIntosh](https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH) | [Calypsoca 2002](https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs) | 4:31 |
 | 33 | [Long Time](https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC) | [Arrow!!!](https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:50 |
 | 34 | [If Ah Rude Ah Rude](https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1) | [Devon George](https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG) | [Man Ah Bad Man](https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3) | 5:00 |
-| 35 | [I Come Out To Play](https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:08 |
-| 36 | [Girls Gone Wild](https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:15 |
+| 35 | [Girls Gone Wild](https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:15 |
+| 36 | [I Come Out To Play](https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:08 |
 | 37 | [De River](https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1) | [Blue Ventures](https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 4:32 |
 | 38 | [In The Mean Time](https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp) | [Allison Hinds](https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8) | [Soca Gold 1998](https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME) | 4:16 |
 | 39 | [Doh Wine](https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 7:18 |
@@ -70,14 +70,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 60 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
 | 61 | [Famalay](https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6) | 3:19 |
 | 62 | [Savannah Grass](https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA) | 2:59 |
-| 63 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
+| 63 | [Happiest Man Alive](https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:38 |
 | 64 | [So Long](https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ) | 3:03 |
 | 65 | [Hookin' Meh](https://open.spotify.com/track/7a3UBZZ4md9nJUDQbxqk7W) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/4O3wKLSGhkJojPEesmcoGu) | 3:03 |
 | 66 | [Full Extreme](https://open.spotify.com/track/7cRPmS5EeTdWPjgNiDep8e) | [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Full Extreme](https://open.spotify.com/album/1l18YSF3VvABWpP7A2qsUj) | 3:52 |
 | 67 | [Far from Finished](https://open.spotify.com/track/7b2eOI6RKPPcqqdMnCOcQR) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Get Soca 2017](https://open.spotify.com/album/6HJGSZhAvYCqtAoXIZrLEG) | 3:51 |
 | 68 | [Blame It \(on De Music\)](https://open.spotify.com/track/5NPytt77xDitWfE98UeEDV) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 4:18 |
 | 69 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 |
-| 70 | [Happiest Man Alive](https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:38 |
+| 70 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
 | 71 | [Trinidad](https://open.spotify.com/track/0LtVseDA9P0Vo3mKRn6DkS) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 3:01 |
 | 72 | [X Man](https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [X Man](https://open.spotify.com/album/7MWMgPiGXkkuCwSFt8LwAp) | 3:41 |
 | 73 | [Stranger](https://open.spotify.com/track/4cht5aaAj57nUVWpM40L4c) | [Shadow](https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh) | [Just For You](https://open.spotify.com/album/7saxdZjrEeo0bOGiEvm7mT) | 5:38 |

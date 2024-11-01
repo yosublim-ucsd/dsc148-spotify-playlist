@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1181908,
+  "num_followers": 1182378,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "Dead on Arrival",
+        "url": "https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx"
+      },
+      "artists": [
+        {
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Dead on Arrival",
+      "url": "https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "March!",
         "url": "https://open.spotify.com/album/2oKf1enSq9QsAoWqSWMtHa"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 134500,
       "name": "March!",
       "url": "https://open.spotify.com/track/0G4uu3BzqOmgHW7sP5WHBN"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Dead on Arrival",
-        "url": "https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx"
-      },
-      "artists": [
-        {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
-        },
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Dead on Arrival",
-      "url": "https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "MAMBO",
-        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
-      },
-      "artists": [
-        {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
-        }
-      ],
-      "duration_ms": 127925,
-      "name": "MAMBO",
-      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "from up on silent hill",
         "url": "https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 150193,
       "name": "from up on silent hill",
       "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "MAMBO",
+        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "MAMBO",
+      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "lucky7!",
-        "url": "https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ"
+        "name": "BLACKED OUT",
+        "url": "https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ"
       },
       "artists": [
         {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        },
-        {
-          "name": "Pozle",
-          "url": "https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0"
+          "name": "777villain",
+          "url": "https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7"
         }
       ],
-      "duration_ms": 88079,
-      "name": "lucky7!",
-      "url": "https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d"
+      "duration_ms": 133392,
+      "name": "BLACKED OUT",
+      "url": "https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6"
     }
   ],
   "unique_name": "sh\u014dnen",

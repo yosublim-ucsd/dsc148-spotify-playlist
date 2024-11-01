@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: M.G.L, BLANCO ",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: OG Eastbull,  NOUA UNSPE",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -579,6 +579,28 @@
     },
     {
       "album": {
+        "name": "CONTACT FATAL (Enchou Remix)",
+        "url": "https://open.spotify.com/album/1mqDjVA7jJr8xdf0vEtwCW"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Enchou",
+          "url": "https://open.spotify.com/artist/1M7yv1V7YR9HFwgvCJhhUW"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161858,
+      "name": "CONTACT FATAL - Enchou Remix",
+      "url": "https://open.spotify.com/track/6LjoS951OHpoJQmCUMtxCw"
+    },
+    {
+      "album": {
         "name": "CONTACT FATAL 3",
         "url": "https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr"
       },
@@ -590,7 +612,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 171162,
       "name": "CONTACT FATAL 3",
       "url": "https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7"
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 201379,
       "name": "iNGER",
       "url": "https://open.spotify.com/track/4lKDvhNzcRhHYfNOWqTPgx"
@@ -1162,6 +1184,50 @@
       "duration_ms": 149000,
       "name": "Merit mai mult",
       "url": "https://open.spotify.com/track/6er5fC7StXq4wJa8QwKYxB"
+    },
+    {
+      "album": {
+        "name": "MUZEU",
+        "url": "https://open.spotify.com/album/3bd1dMnWuPI1eKBda71qCy"
+      },
+      "artists": [
+        {
+          "name": "OG Eastbull",
+          "url": "https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO"
+        },
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "MUZEU",
+      "url": "https://open.spotify.com/track/70lIMzCAltgvTJRFJe8s2Y"
+    },
+    {
+      "album": {
+        "name": "Ninja (From \"Transilvanian Ninja\")",
+        "url": "https://open.spotify.com/album/5PHg8MUoEgBaweoW6mLWI4"
+      },
+      "artists": [
+        {
+          "name": "Puya",
+          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
+        },
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194712,
+      "name": "Ninja - From \"Transilvanian Ninja\"",
+      "url": "https://open.spotify.com/track/4P0aDGyPXqMKwgWojPypFu"
     },
     {
       "album": {
@@ -1742,7 +1808,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 174066,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/2TMLnhAtlKRTzU45ag82se"

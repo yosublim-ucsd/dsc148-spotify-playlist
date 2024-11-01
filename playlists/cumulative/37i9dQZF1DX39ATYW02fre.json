@@ -579,6 +579,28 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217392,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD"
+    },
+    {
+      "album": {
         "name": "NIGHT OWLS",
         "url": "https://open.spotify.com/album/6Gf5fCz106o92YNU4jgxd9"
       },
@@ -634,7 +656,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 175609,
       "name": "Boat Party",
       "url": "https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1"
@@ -1356,7 +1378,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 254117,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
@@ -1890,7 +1912,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 196071,
       "name": "Kyle (i found you)",
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
@@ -4149,6 +4171,28 @@
     },
     {
       "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184280,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d"
+    },
+    {
+      "album": {
         "name": "sketches of transition (Remixes)",
         "url": "https://open.spotify.com/album/3cjFb8H4iHnCFVBaAVdgwl"
       },
@@ -4636,6 +4680,24 @@
       "duration_ms": 308247,
       "name": "Without You - Original Mix",
       "url": "https://open.spotify.com/track/0uIhwubdgZm8f8WebdhtQQ"
+    },
+    {
+      "album": {
+        "name": "WORRY.",
+        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243282,
+      "name": "WORRY.",
+      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
     },
     {
       "album": {

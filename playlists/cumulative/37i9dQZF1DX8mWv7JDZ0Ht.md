@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Gaab, Lourena
 
-723 songs - 1 day 12 hr 0 min
+724 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Anjo ou Mulher](https://open.spotify.com/track/5eyNyhKJARZvv1jdtzd5mR) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/02G0M9OAq48KLDJ06m6eRU) | 2:45 | 2022-05-13 | 2022-07-29 |
 | [Ano Que Vem](https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Ano Que Vem](https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl) | 2:59 | 2022-12-09 | 2023-03-25 |
 | [Aonde Eu Aperto Pra Voltar](https://open.spotify.com/track/2XBrtjxK2u5pcFXPfA8kzF) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [World, Vol\. 3](https://open.spotify.com/album/46yoelkmItoAKBPjdfoXjH) | 3:00 | 2022-08-01 | 2022-08-06 |
-| [Aonde quer que eu vá](https://open.spotify.com/track/0VHkTxEsIg0Jsa71est8gk) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Aonde quer que eu vá](https://open.spotify.com/album/4zwiaQH7Lrc3SkTRW6vMZn) | 3:19 | 2024-08-02 |  |
+| [Aonde quer que eu vá](https://open.spotify.com/track/0VHkTxEsIg0Jsa71est8gk) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Aonde quer que eu vá](https://open.spotify.com/album/4zwiaQH7Lrc3SkTRW6vMZn) | 3:19 | 2024-08-02 | 2024-11-01 |
 | [Apressa](https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Apressa](https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ) | 2:35 | 2024-06-14 |  |
 | [Aquarela](https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Já ouviu falar de amor?](https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov) | 2:59 | 2023-02-03 | 2023-04-09 |
 | [Ar da Sua Graça](https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Ar da Sua Graça](https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig) | 3:26 | 2023-06-30 | 2023-08-26 |
@@ -389,6 +389,7 @@
 | [Meu Lugar Preferido](https://open.spotify.com/track/3NV9yZRay0t7MdgtZhDrKq) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Meu Lugar Preferido](https://open.spotify.com/album/6Gr1teEljYdbOU07MxcJ4j) | 2:22 | 2023-12-15 | 2024-04-19 |
 | [Meu Quesito é Saber Viver \- Ao Vivo](https://open.spotify.com/track/27UDhlspddipfQ4y5bE2j1) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 3](https://open.spotify.com/album/7G7KssIGmmCFxf57ry7Hi1) | 3:19 | 2023-10-27 | 2023-11-18 |
 | [Meus Boletos](https://open.spotify.com/track/2PIm3q14YWBuD08IZqgJ56) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Meus Boletos](https://open.spotify.com/album/4EdCXFrVKFoxk8twoHJUUc) | 3:35 | 2023-04-14 | 2023-05-06 |
+| [Mina Sereia](https://open.spotify.com/track/73huppxeXhwI3TmQFo29DI) | [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Mina Sereia](https://open.spotify.com/album/72g0VNPFmBYc49hVGY9knn) | 2:45 | 2024-11-01 |  |
 | [Miragem](https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Miragem](https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40) | 2:08 | 2024-06-14 | 2024-09-06 |
 | [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 | 2022-05-13 | 2022-12-10 |
 | [Miudinho](https://open.spotify.com/track/2A59HbqCzekn6QbepGggfX) | [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Miudinho](https://open.spotify.com/album/0iFchnrlmmxgKASQzNz5Ba) | 2:35 | 2022-12-02 | 2023-04-22 |

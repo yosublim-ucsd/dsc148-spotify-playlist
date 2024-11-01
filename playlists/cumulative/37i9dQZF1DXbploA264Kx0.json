@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: L\u00dcCY",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Howard Lee (\u674e\u6d69\u744b)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -418,6 +418,28 @@
       "duration_ms": 222352,
       "name": "Balloon - Sunset Rollercoaster Remake",
       "url": "https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b"
+    },
+    {
+      "album": {
+        "name": "Beef Noodle Soup",
+        "url": "https://open.spotify.com/album/1grhE7u0LPFXq23eRaU8dT"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Howard Lee",
+          "url": "https://open.spotify.com/artist/34EWyPIAhDTLigJuarFsRi"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114864,
+      "name": "Beef Noodle Soup",
+      "url": "https://open.spotify.com/track/68mzSjp9W0RMqG751kBzRT"
     },
     {
       "album": {
@@ -1264,7 +1286,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 260532,
       "name": "For Me",
       "url": "https://open.spotify.com/track/2GVTS8oQaOE3luPlQLuzJd"
@@ -1610,6 +1632,24 @@
       "duration_ms": 195187,
       "name": "HUNG UP",
       "url": "https://open.spotify.com/track/1R2Sq0FGXh7J27Pe4u0Viv"
+    },
+    {
+      "album": {
+        "name": "I Can't Deny",
+        "url": "https://open.spotify.com/album/1W0D7IP4CLGpuNTHY4oxOB"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u7267\u55ac",
+          "url": "https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "I Can't Deny",
+      "url": "https://open.spotify.com/track/1fp3QF4UieOKUMQFToXG7e"
     },
     {
       "album": {
@@ -2994,7 +3034,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 214453,
       "name": "Ridge - Live",
       "url": "https://open.spotify.com/track/5f9QzTJscb6PhuXqGZ7DbE"
@@ -4105,6 +4145,24 @@
     },
     {
       "album": {
+        "name": "What If I",
+        "url": "https://open.spotify.com/album/3BqHJHvihYNPICc7tBnqxl"
+      },
+      "artists": [
+        {
+          "name": "Dena",
+          "url": "https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179302,
+      "name": "What If I",
+      "url": "https://open.spotify.com/track/1jqxpxRDLuIjYzXTL717Dc"
+    },
+    {
+      "album": {
         "name": "WHY AM I HERE",
         "url": "https://open.spotify.com/album/1RVNd9HerLJAD5CUsTFCU1"
       },
@@ -5068,7 +5126,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-01",
       "duration_ms": 212593,
       "name": "\u6bdb\u7dda\u7403\u5c11\u5973 Yarn",
       "url": "https://open.spotify.com/track/4z4wb1p7KpEI9mCjKxs8YP"
