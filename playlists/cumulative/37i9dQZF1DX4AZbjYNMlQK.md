@@ -2,9 +2,9 @@
 
 ### [Feliz Navidad](https://open.spotify.com/playlist/37i9dQZF1DX4AZbjYNMlQK)
 
-> Fresh & new Christmas songs para los días festivos\. Cover: Matisse
+> Fresh & new Christmas songs para los días festivos\. Cover: Thalia
 
-183 songs - 9 hr 53 min
+184 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [A La Nanita Nana](https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Es Navidad](https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf) | 2:18 | 2023-12-20 | 2024-09-22 |
 | [Adeste Fideles](https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Posada](https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI) | 3:07 | 2021-12-15 | 2022-12-20 |
 | [Adornemos los Salones](https://open.spotify.com/track/2nvVj2x4cwZBY8c6b2KYP1) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Caribe Wonderland](https://open.spotify.com/artist/4CBkIh7uqfe3wKKywz1H0j) | [Adornemos los Salones](https://open.spotify.com/album/2mKwTr6J2IKyioMh2vNlfE) | 3:10 | 2022-12-19 | 2023-11-18 |
-| [Al Mundo Paz](https://open.spotify.com/track/4IlsOf3duyAvhJhfICiPJo) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Al Mundo Paz](https://open.spotify.com/album/2DtZvoCBDFwW5mplsyxRoL) | 3:02 | 2022-12-19 |  |
+| [Al Mundo Paz](https://open.spotify.com/track/4IlsOf3duyAvhJhfICiPJo) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Al Mundo Paz](https://open.spotify.com/album/2DtZvoCBDFwW5mplsyxRoL) | 3:02 | 2022-12-19 | 2024-11-02 |
 | [Al Mundo Paz](https://open.spotify.com/track/72RCVgBervTpGb8cgPilKs) | [Dstance](https://open.spotify.com/artist/3G2l8ozoaFgjwxUq8Ars9G), [Playa Limbo](https://open.spotify.com/artist/2RgwK55VFMeb9DkiSaNJIo) | [Naviduetos Vol\. 1](https://open.spotify.com/album/3wAnzbWgdDiY0n7EhNBtk4) | 3:02 | 2022-11-08 | 2022-12-20 |
+| [Al Mundo Paz](https://open.spotify.com/track/77E7lXHMVXgQmvpo5l4pLX) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Navidad Melancólica](https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV) | 2:47 | 2024-11-01 |  |
 | [Al Niño Dios](https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Al Niño Dios](https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo) | 2:33 | 2022-12-19 |  |
 | [Alegría](https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Alegría](https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k) | 3:22 | 2022-12-19 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/4C2WMkrsgCgLHG9wH41rZN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:56 | 2023-11-21 |  |

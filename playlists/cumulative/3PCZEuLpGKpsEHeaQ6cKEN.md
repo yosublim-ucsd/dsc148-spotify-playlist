@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:   Joris Voorn x Pig&amp;Dan
 
-1,203 songs - 2 day 16 hr 29 min
+1,204 songs - 2 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [Pia Pia](https://open.spotify.com/track/6DQ6LUgtfHYgtGl5doSYJt) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Pia Pia](https://open.spotify.com/album/3bb45MCSfDYnmEs4NGLihW) | 3:33 | 2022-08-17 | 2022-09-09 |
 | [Piece Of Art](https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art](https://open.spotify.com/album/2FxV796hbaU52R033iD7s5) | 3:16 | 2022-06-09 | 2023-05-13 |
 | [Pineapples](https://open.spotify.com/track/0jCFFAUXxDEZKgCqkBZX4v) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u) | [Pineapples](https://open.spotify.com/album/0hPadBNpwIBFiwG362rGMu) | 2:55 | 2022-10-13 | 2022-11-25 |
+| [Pizza Cat](https://open.spotify.com/track/2ZkD53foUtBVA5K5WGYZrb) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Carl Bee](https://open.spotify.com/artist/1BjovuKg3qRbCNNy5W9Efv), [Tom Diesel](https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX) | [Pizza Cat](https://open.spotify.com/album/2CqIedfTLzSn39RhKVA29c) | 4:04 | 2024-11-01 |  |
 | [Pop That](https://open.spotify.com/track/2QRGNzgsQVSHCKA3TqH23N) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Pop That](https://open.spotify.com/album/40brUtZEu1GE9QWjNykxFU) | 3:37 | 2024-05-07 | 2024-05-10 |
 | [Post Malone \(feat\. RANI\)](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:54 | 2024-05-07 | 2024-05-10 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2024-05-07 | 2024-05-10 |

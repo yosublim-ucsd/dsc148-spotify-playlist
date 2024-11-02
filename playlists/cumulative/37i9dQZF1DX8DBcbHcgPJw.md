@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: The La Planta & La T y La M.
 
-587 songs - 1 day 5 hr 19 min
+588 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Lo Que Pasa en la Noche](https://open.spotify.com/track/2eOleVJlGvBE027wpnYt2H) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Lo Que Pasa en la Noche](https://open.spotify.com/album/2kQ9FRcU8hcr77TecMXmX3) | 3:01 | 2021-12-23 | 2022-06-01 |
 | [Lo Que Soy](https://open.spotify.com/track/0bbjLBbtPKNVnj27EB8PWf) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Lo Que Soy](https://open.spotify.com/album/6xecqU57d7M9W2fs2lWJqW) | 2:06 | 2021-12-23 | 2022-10-13 |
 | [Lo Siento](https://open.spotify.com/track/3Aa0e22YhtYdeZEch2RyET) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Lo Siento](https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW) | 3:19 | 2021-12-23 | 2022-07-29 |
+| [LOCO](https://open.spotify.com/track/4SNFQOZYF2TEyeP4O66U4k) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [LOCO](https://open.spotify.com/album/0QAjfGWSiitmuiGdkHM449) | 2:28 | 2024-11-01 |  |
 | [Loco \- Remix](https://open.spotify.com/track/6g16gHjGRxr5owlJmNL5UQ) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Sebaa Maza](https://open.spotify.com/artist/3fBBBFMFaxGq71jf80i3O1) | [Loco \(Remix\)](https://open.spotify.com/album/3tlXX1RWqFGYp7aFurb4kL) | 2:22 | 2022-01-14 | 2022-04-16 |
 | [Locuras contigo](https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:11 | 2021-12-23 |  |
 | [LOKITA](https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT) | [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [LOKITA](https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR) | 2:31 | 2023-10-20 | 2024-08-17 |
@@ -389,7 +390,7 @@
 | [Perdí la cuenta](https://open.spotify.com/track/3nYBXAImMXLQm1Kx75AA6R) | [Laguna](https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u), [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Perdí la cuenta](https://open.spotify.com/album/05rxpKDQCVgnTFfCn6b9Pj) | 2:39 | 2022-01-21 | 2022-07-07 |
 | [Perdón](https://open.spotify.com/track/599y33cIzYBxPKerpPUmDG) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Perdón](https://open.spotify.com/album/0L0JB7dfQPRbIFMO7Av4ek) | 2:45 | 2024-10-18 |  |
 | [Perdóname](https://open.spotify.com/track/1myDKm1jNafNgx53GSP3t0) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Perdóname](https://open.spotify.com/album/29b9UQw9UwVIuO4b5aEJGW) | 1:51 | 2022-03-30 | 2022-05-07 |
-| [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs) | 4:56 | 2022-03-30 |  |
+| [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs) | 4:56 | 2022-03-30 | 2024-11-02 |
 | [Pibe Cantina](https://open.spotify.com/track/14P2CPErwCwlRp5HutEZ7i) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Pibe Cantina](https://open.spotify.com/album/1rLmjtiiQyJbIDgp5xfgAm) | 2:13 | 2022-08-26 | 2022-10-08 |
 | [Picaflor](https://open.spotify.com/track/1wEZfd8CB99QIIKHewFZvC) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Picaflor](https://open.spotify.com/album/5R2w6f8WdeG04DcQjKhDJ1) | 1:50 | 2024-01-26 | 2024-02-17 |
 | [Picasso](https://open.spotify.com/track/6iLR0qOc8txYkVBQKVXIIN) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [Picasso](https://open.spotify.com/album/0h88IN1xE99JnL5umOcuaa) | 2:06 | 2022-06-17 | 2022-07-02 |

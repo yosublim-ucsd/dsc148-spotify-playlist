@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: To Eternity
 
-188 songs - 9 hr 44 min
+189 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/track/24UrlcD3tsaFufoRuR5BHy) | [Ганна Польська](https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO) | 2:25 | 2024-06-27 |  |
 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 | 2024-06-27 |  |
 | [жовта маршрутка](https://open.spotify.com/track/7CmYEWtL4Z0P390rwVAaJe) | [Sad Novelist](https://open.spotify.com/artist/4rOBmdIdNqYrYSRea6iYrh), [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [жовта маршрутка](https://open.spotify.com/album/5cdjf5b9V562DbZ0UDAfz7) | 3:39 | 2024-07-12 | 2024-08-24 |
-| [за кордоном](https://open.spotify.com/track/2jr5gE5SOP2EKBGZWxtimw) | [alekkksa](https://open.spotify.com/artist/3KiFi7CRRoB44ztX3jRyk0) | [за кордоном](https://open.spotify.com/album/1VR6uKHyaF3AmmzqqMJe7q) | 2:00 | 2024-06-27 |  |
+| [за кордоном](https://open.spotify.com/track/2jr5gE5SOP2EKBGZWxtimw) | [alekkksa](https://open.spotify.com/artist/3KiFi7CRRoB44ztX3jRyk0) | [за кордоном](https://open.spotify.com/album/1VR6uKHyaF3AmmzqqMJe7q) | 2:00 | 2024-06-27 | 2024-11-02 |
 | [Завтра](https://open.spotify.com/track/3ewQvXUYzZ817ROJaVI2va) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Ти лиш людина](https://open.spotify.com/album/0rcz0rPQfLZSv8ww4Jbcql) | 2:42 | 2024-06-27 |  |
 | [Засинаю перша](https://open.spotify.com/track/5Vuo5Irn3JzftTZkADcOCI) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [Засинаю перша](https://open.spotify.com/album/4BumJN5T1QfIxuSjhQBpg1) | 3:00 | 2024-07-26 | 2024-08-24 |
 | [Зламалось](https://open.spotify.com/track/3ZfLh92AhRBJb9LryDHiqM) | [Кімната Гретхен](https://open.spotify.com/artist/6E4ZDtPGWri8DKXekjg4Gv) | [Зламалось](https://open.spotify.com/album/7CNzfZYXhcq5Qd0kpcNuAX) | 4:02 | 2024-10-18 |  |
@@ -70,6 +70,7 @@
 | [Знову Майбутнє](https://open.spotify.com/track/2n1aIaIWpu4yL6biHOTRc4) | [Максим Тощо](https://open.spotify.com/artist/3Ep1gS5T8izuWbdLi02gLQ), [Тощо](https://open.spotify.com/artist/5xtYAoNSDJqff7kKvLp1VZ) | [Знову Майбутнє](https://open.spotify.com/album/4khTs3umWy1AhotfkruFxb) | 3:03 | 2024-07-26 | 2024-08-24 |
 | [Зорі](https://open.spotify.com/track/3hfNeUEeo0PdYPrF5Tu6R9) | [INGRET](https://open.spotify.com/artist/43Gc9czfpJK1ijNMPOCtYy) | [Зорі](https://open.spotify.com/album/0PXdikZSX69hwMmQ48av23) | 3:07 | 2024-10-18 |  |
 | [Зупиняти кров](https://open.spotify.com/track/118w7P41WH2GEKrscAiUU5) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Зупиняти кров](https://open.spotify.com/album/3xzpyOqDj7t8hwodw1EnXV) | 3:36 | 2024-06-27 | 2024-08-04 |
+| [Зірки](https://open.spotify.com/track/1NdCcKytFz38MOtqQprTMC) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Зірки](https://open.spotify.com/album/1B6W1lCgv5xN3MmAPm0cyh) | 2:57 | 2024-10-18 |  |
 | [Касабланка](https://open.spotify.com/track/1cGIrj2xrj54O8r8t12GEw) | [Максим Тощо](https://open.spotify.com/artist/3Ep1gS5T8izuWbdLi02gLQ), [Тощо](https://open.spotify.com/artist/5xtYAoNSDJqff7kKvLp1VZ) | [Касабланка](https://open.spotify.com/album/1lMlJgqMlxd7GBjv1V57Xw) | 3:07 | 2024-09-13 | 2024-10-05 |
 | [Квартали](https://open.spotify.com/track/1x2CbvlWtd8GAX9A1gZV3S) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Квартали](https://open.spotify.com/album/1G8H3PamI9TrUcoHBbOGhn) | 2:51 | 2024-06-27 |  |
 | [квітка](https://open.spotify.com/track/6OTVx468BE04UttbKJjh7S) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [квітка](https://open.spotify.com/album/7yVcH9pGSNDgFZIBOlZz5Z) | 5:01 | 2024-10-04 | 2024-10-19 |

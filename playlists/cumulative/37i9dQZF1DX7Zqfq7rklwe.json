@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "From An Empire To A Fall",
+        "url": "https://open.spotify.com/album/1WFxhjTthikWB5m20GCgPK"
+      },
+      "artists": [
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248640,
+      "name": "From An Empire To A Fall",
+      "url": "https://open.spotify.com/track/3OVOD34O2bzQGDabjnJvFQ"
+    },
+    {
+      "album": {
         "name": "Haamukirjoitus",
         "url": "https://open.spotify.com/album/7mmTem3c0cqFyED5zerjhk"
       },

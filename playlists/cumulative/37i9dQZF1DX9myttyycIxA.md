@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Shower Curtain
+> Underground indie rock gems\. Cover: urika's bedroom
 
-1,391 songs - 3 day 7 hr 40 min
+1,394 songs - 3 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Brian's Song](https://open.spotify.com/track/7hOzRvvBx8DP72zGUxBVl8) | [Toner](https://open.spotify.com/artist/3F5d8k90zTpcnmzYnqXMRw) | [Brian's Song](https://open.spotify.com/album/2qCh4qe6TQkNj1LApaTynH) | 1:38 | 2023-06-15 | 2023-09-09 |
 | [Brooklyn Baby](https://open.spotify.com/track/4pV0fLXSZLHnEzPoOYX55T) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/4mBmTU89uQZ0BSufoeWTXK) | 3:34 | 2022-05-23 | 2022-07-29 |
 | [Brooklyn Baby](https://open.spotify.com/track/5mSyag0Wf98fKcWRxTbSqt) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/7JGOsvnA3RpWUIRlhjo1FU) | 3:34 | 2022-05-23 | 2022-08-06 |
+| [Brother](https://open.spotify.com/track/0k0mPVleEMaHlFXsUlgNCu) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [Brother](https://open.spotify.com/album/0Yp5hkhW6vKbG5AqLgY4Wf) | 3:56 | 2024-11-01 |  |
 | [Bucktooth](https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Bucktooth](https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW) | 3:29 | 2022-08-26 | 2023-03-04 |
 | [Bull Believer](https://open.spotify.com/track/6wYlN6ikOUsS0PQEI4XJMl) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bull Believer](https://open.spotify.com/album/7snO1rfm1c5QndkfgQVsFb) | 8:30 | 2022-10-07 | 2023-03-04 |
 | [bulletproof](https://open.spotify.com/track/4YPMxwrIkYt4UgjKtTNZdl) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn), [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [bulletproof](https://open.spotify.com/album/2ia7IV4V3rGZH2Gi08IVuZ) | 4:12 | 2022-07-08 | 2022-12-03 |
@@ -800,6 +801,7 @@
 | [Mega](https://open.spotify.com/track/5aFU5EnCiNyBhvZVdS1HLE) | [fantasy of a broken heart](https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe) | [Feats of Engineering](https://open.spotify.com/album/4diLNWTOBZPkqQsRYLgMxj) | 1:40 | 2024-09-27 |  |
 | [Mercy](https://open.spotify.com/track/0Y8pSUf21GSadiskxuRhUl) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/0bHyVYXp5wWwo7smsgGBLC) | 3:07 | 2024-03-01 | 2024-04-13 |
 | [Mercy](https://open.spotify.com/track/0uiWvlPR43hF0OkBuPY6om) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/19K8YQiKWRQ2QNGbA0dDdr) | 3:07 | 2024-01-12 | 2024-03-03 |
+| [Metalhead](https://open.spotify.com/track/6vBlEMm5JlUVZok4pfVjlu) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Big Smile, Black Mire](https://open.spotify.com/album/6DPefrgbEGENBJsewlf58u) | 3:47 | 2024-11-01 |  |
 | [Michigan](https://open.spotify.com/track/1WfEUgnWKJLPpuEbEj69qh) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Michigan](https://open.spotify.com/album/6GKWORJPsbQ2lLP5Sa9s6k) | 2:59 | 2024-05-17 | 2024-08-10 |
 | [Middle Man](https://open.spotify.com/track/2if8XzDccK6q3e6NBCxj1o) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Middle Man](https://open.spotify.com/album/54fId2tvhp88PlC9XtoVpD) | 2:58 | 2022-01-28 | 2022-04-16 |
 | [Miles Away](https://open.spotify.com/track/0crUa9CCdhANfB7vUWVeJ5) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [This Stupid World](https://open.spotify.com/album/3LaJpJFSY3cmLFEHJl2z6E) | 7:30 | 2023-06-15 | 2023-11-18 |
@@ -1162,6 +1164,7 @@
 | [Surprise](https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [Surprise](https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS) | 3:31 | 2022-09-02 | 2022-12-15 |
 | [Sweaters](https://open.spotify.com/track/5TfzJqZLQHzXvCdUIGmc4W) | [The Happy Return](https://open.spotify.com/artist/2zRksKctDvcqmX1nhaydyV) | [Sweaters](https://open.spotify.com/album/5rg22FaF5nxtTUyUrb5lKu) | 2:57 | 2022-07-29 | 2022-12-15 |
 | [Sweet](https://open.spotify.com/track/05vnmfSANBVUgbHuZ6cc8W) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:35 | 2023-06-09 | 2023-06-16 |
+| [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2024-11-01 |  |
 | [Sweet Caroline](https://open.spotify.com/track/4DRKhEKQ1NxncQ2IbhRayU) | [Mr Floyd Larry](https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM) | [Sweet Caroline](https://open.spotify.com/album/7hib9PcyzXjKAxL9YS1ubl) | 1:41 | 2023-12-01 | 2024-05-11 |
 | [Sweet Delila](https://open.spotify.com/track/75RVE1N6t9Lyku02EpOGKd) | [Celler Dwellers](https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx) | [Sweet Delila](https://open.spotify.com/album/4oZfvdDPjf20MludjEHUpS) | 2:47 | 2022-12-02 | 2022-12-15 |
 | [Sweet Lilac](https://open.spotify.com/track/4AvzyTw47aX8JW04H33O1i) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 2:48 | 2024-05-24 |  |

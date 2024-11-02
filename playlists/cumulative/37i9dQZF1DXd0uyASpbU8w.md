@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr?si=snNWeXWATZuP\_5dhnsEmwA">Emtee</a>
 
-4,573 songs - 13 day 6 hr 56 min
+4,574 songs - 13 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3595,6 +3595,7 @@
 | [Sous la Lune](https://open.spotify.com/track/7c9fl0LlCajYbXm265rqe4) | [Lebo Lukewarm](https://open.spotify.com/artist/3b55NPzRM7Zz0hqmt9dpaB) | [Sous la Lune](https://open.spotify.com/album/2uRvkDUmuJA0eVOdSgmSH9) | 3:17 | 2024-07-18 | 2024-07-27 |
 | [South](https://open.spotify.com/track/1S5cdblExndcN7a22BcTYS) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [South](https://open.spotify.com/album/1J4CZxaEi6ZcbfTD98Yvnd) | 3:09 | 2024-10-03 | 2024-10-11 |
 | [South African Jam](https://open.spotify.com/track/54WxmHt1Y5bUJDpsLUQAHa) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [South African Jam](https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC) | 6:04 | 2024-04-25 | 2024-05-03 |
+| [SOUTH OF FRANCE \- REMIX](https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOUTH OF FRANCE \(REMIX\)](https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR) | 3:03 | 2024-10-31 |  |
 | [Soze](https://open.spotify.com/track/3MHNUImZ4jha9iAadMdIPf) | [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Sia Mzizi](https://open.spotify.com/artist/6aVG0HjG8XLqPFF9XILhb8) | [Soze](https://open.spotify.com/album/58CUOLpfimSGvZQ84UfbMC) | 6:56 | 2023-06-02 | 2023-06-09 |
 | [Soze Ndixole](https://open.spotify.com/track/5IE6y5Vqx6bjSws7ZhuCUe) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [047](https://open.spotify.com/artist/6yse1bwFvfDg33dBcLk5x8), [Kwanda](https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr) | [Soze Ndixole](https://open.spotify.com/album/1aKY1cEE7H73nw7U1RPs6h) | 4:22 | 2023-08-31 | 2023-09-09 |
 | [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 | 2024-05-31 | 2024-06-07 |

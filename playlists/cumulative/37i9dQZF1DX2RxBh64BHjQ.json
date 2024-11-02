@@ -1060,6 +1060,32 @@
     {
       "album": {
         "name": "5 Star",
+        "url": "https://open.spotify.com/album/74VyEIWzUs1Nm838tlm9jq"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149915,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/2FdSq3OWUxXraCnSSIGBAn"
+    },
+    {
+      "album": {
+        "name": "5 Star",
         "url": "https://open.spotify.com/album/2jBKKyyYCY4OawmOGNJbsq"
       },
       "artists": [
@@ -1122,6 +1148,28 @@
       "duration_ms": 117190,
       "name": "556 (Green Tip)",
       "url": "https://open.spotify.com/track/35WdGjpHVOHLepJl543eyC"
+    },
+    {
+      "album": {
+        "name": "5BRAZY (FEAT. QUAVO)",
+        "url": "https://open.spotify.com/album/67CSBVsdfdCGHxF7JSModS"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178442,
+      "name": "5BRAZY (FEAT. QUAVO)",
+      "url": "https://open.spotify.com/track/3Rhzm2IHHErnWwKcFgHmRv"
     },
     {
       "album": {
@@ -1220,7 +1268,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 183491,
       "name": "7 AM in Munich (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/0gCyzW9xyAWSGtyHZ9g9bE"
@@ -7280,7 +7328,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 178346,
       "name": "Closure (with Cash Cobain)",
       "url": "https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki"
@@ -8820,6 +8868,24 @@
       "duration_ms": 109766,
       "name": "DELIVER!",
       "url": "https://open.spotify.com/track/6jhTj4vy4vD7n5EIFbuqJv"
+    },
+    {
+      "album": {
+        "name": "delusional",
+        "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131274,
+      "name": "delusional",
+      "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
     },
     {
       "album": {
@@ -11258,7 +11324,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 142171,
       "name": "FACETIME WITH MY MAMA",
       "url": "https://open.spotify.com/track/6f8bXgoJA7izsmzPvcFVx5"
@@ -13870,6 +13936,24 @@
       "duration_ms": 204947,
       "name": "Glock 9 (with Lil Zay Osama)",
       "url": "https://open.spotify.com/track/0tRcyxggR2a32pC7Wl51Bd"
+    },
+    {
+      "album": {
+        "name": "GlockHouse",
+        "url": "https://open.spotify.com/album/08FRcigtdUnZgM9PSa2R2w"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158931,
+      "name": "GlockHouse",
+      "url": "https://open.spotify.com/track/2leh4DuPBGkvJxvQ4rngSu"
     },
     {
       "album": {
@@ -22523,6 +22607,24 @@
     },
     {
       "album": {
+        "name": "Money Virus",
+        "url": "https://open.spotify.com/album/3cmKtSMu8u1xXwfR5kQUqo"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153418,
+      "name": "Money Virus",
+      "url": "https://open.spotify.com/track/6oORSxwCUW8fYS3eixTmVh"
+    },
+    {
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/05xL551uw7yJyDWjM0LAF9"
       },
@@ -24128,6 +24230,24 @@
       "duration_ms": 128457,
       "name": "Nicky Nine Door",
       "url": "https://open.spotify.com/track/0UMmJaSuRVNYlUv47XTZt8"
+    },
+    {
+      "album": {
+        "name": "Nightmare On Yo Street",
+        "url": "https://open.spotify.com/album/6jheLAaTRwGlPuBegNNyqw"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156238,
+      "name": "Nightmare On Yo Street",
+      "url": "https://open.spotify.com/track/1kN8soMYCBGxmCpim1oiMm"
     },
     {
       "album": {
@@ -25966,6 +26086,24 @@
       "duration_ms": 123775,
       "name": "One",
       "url": "https://open.spotify.com/track/1BipJ8VH6LtnJAIioJRinc"
+    },
+    {
+      "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
     },
     {
       "album": {
@@ -29608,7 +29746,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 111455,
       "name": "Really Jimmy?",
       "url": "https://open.spotify.com/track/7l5BOk1PkUOwoDbHMTmWXw"
@@ -30476,7 +30614,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 174246,
       "name": "ROCK WITH THE MOB",
       "url": "https://open.spotify.com/track/06tPkJkv1bTGXYHY2UxzZA"
@@ -31456,7 +31594,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 139802,
       "name": "ScoreGod (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3jvUUI68ZxFYosDbQLuSBL"
@@ -32784,7 +32922,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 163297,
       "name": "Slide (feat. Rob49)",
       "url": "https://open.spotify.com/track/2dEab1MQmvAogL85lPEyPg"
@@ -34056,7 +34194,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 104751,
       "name": "STFU",
       "url": "https://open.spotify.com/track/05oIDnL2jfeUxYiDIIqFP6"
@@ -34220,6 +34358,28 @@
       "duration_ms": 149400,
       "name": "Still In Shocc",
       "url": "https://open.spotify.com/track/2dmbxOmABBBJzVNSTVH5T9"
+    },
+    {
+      "album": {
+        "name": "#TurntUpNotBurntUp",
+        "url": "https://open.spotify.com/album/3GQexjtMTNetpdRfa2vfjG"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152951,
+      "name": "Still Thuggin (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1hwCcLZYjOj8kK21Uefxnl"
     },
     {
       "album": {

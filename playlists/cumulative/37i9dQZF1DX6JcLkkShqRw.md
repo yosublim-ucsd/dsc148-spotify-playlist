@@ -4,7 +4,7 @@
 
 > Flow sudamericano con King Savagge & Loyaltty.
 
-1,484 songs - 3 day 3 hr 22 min
+1,486 songs - 3 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [El Loto](https://open.spotify.com/track/2NiIjG0AYHDE4DsSYZlAQd) | [GIIANPA NK](https://open.spotify.com/artist/1iK0f5NQeoyMew8mHVKEBb) | [El Loto](https://open.spotify.com/album/7ak2i2BO1ki4ZgdAEs2g43) | 2:16 | 2024-06-21 | 2024-07-27 |
 | [El Maquinon](https://open.spotify.com/track/1NOImFygNaIBUSoL3C6Jnt) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [El Maquinon](https://open.spotify.com/album/0bMZM5lXzUqJonFQyMU49P) | 2:16 | 2022-05-27 | 2022-07-11 |
 | [El Tiempo Se Para](https://open.spotify.com/track/0CxQ3ICqj842FNBGMovEuQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [El Tiempo Se Para](https://open.spotify.com/album/6a0r5Kk8CdWzeh3yc88KoP) | 3:03 | 2024-10-04 |  |
+| [El Ultimo](https://open.spotify.com/track/0EYdD1EU7sFUkZM85GTB6f) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [El Ultimo](https://open.spotify.com/album/4nLe8Q4Hc6mCIJBpIDpS3z) | 3:02 | 2024-11-01 |  |
 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 | 2022-01-03 | 2023-02-04 |
 | [ELITE](https://open.spotify.com/track/5eoaxaJxoUIvth6cT5k28M) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [ELITE](https://open.spotify.com/album/0iVhHN4fHQ6LsFniyOFyxo) | 3:38 | 2023-04-14 | 2023-04-25 |
 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 | 2021-12-27 | 2022-05-11 |
@@ -516,6 +517,7 @@
 | [Fichaje \#2](https://open.spotify.com/track/49Z1i130g2Uc5nc81fkuOX) | [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Fichaje \#2](https://open.spotify.com/album/5eveQf10qjsqdkTy0pIyBd) | 2:18 | 2023-03-10 | 2023-03-18 |
 | [Fiebre](https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Fiebre](https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj) | 2:20 | 2024-01-19 | 2024-01-27 |
 | [Finesse](https://open.spotify.com/track/5jRs6APlrIx42hBfmbXSCS) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Finesse](https://open.spotify.com/album/4y2eGTZ4KUQcP57ijZ3uDI) | 2:53 | 2022-02-18 | 2022-04-02 |
+| [fLA$H](https://open.spotify.com/track/4sl0Z8wtMiQa5NuMIIVk36) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [fLA$H](https://open.spotify.com/album/4bHbVaSaEdg7SlM2ZWg2Lc) | 3:08 | 2024-11-01 |  |
 | [Flaca](https://open.spotify.com/track/4OXyQVIU3WpKXDimY4DsU8) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Flaca](https://open.spotify.com/album/2DiPW0TQNv1Xqp0FJ7vgbK) | 4:27 | 2022-01-03 | 2022-07-26 |
 | [Flaitecito](https://open.spotify.com/track/7GEL1W9wBGDkudeoQyHNW1) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Flaitecito](https://open.spotify.com/album/1nE1ymSRGIuRHwrcretrhg) | 2:25 | 2024-01-12 | 2024-03-16 |
 | [Flashback](https://open.spotify.com/track/3ghmJeHGNkPTI89dt9lI4y) | [Canals](https://open.spotify.com/artist/5RxLAt9nYq8Ww3Bg5kmXOn), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Flashback](https://open.spotify.com/album/36mNpSCPexthvypFqDZE5t) | 2:42 | 2023-04-21 | 2023-05-06 |

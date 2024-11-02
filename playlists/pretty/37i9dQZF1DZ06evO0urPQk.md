@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0urPQk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0urPQk)
 
-### [This Is 水樹奈々](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
+### [This Is Nana Mizuki](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
 
-> This is 水樹奈々\. The essential tracks, all in one playlist.
+> This is Nana Mizuki\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,376 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,377 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 | 49 | [ONENESS](https://open.spotify.com/track/3onTTLru4g0vGoOD8H8Aai) | [アイドルマスター\(中村繪里子・山崎はるか・大橋彩香\)](https://open.spotify.com/artist/5PWrN23XkUq3uwhnVHBAFh), [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3), [アフィリア・サーガ](https://open.spotify.com/artist/4Ip0Amlvr3OqSJFDLxRGBB), [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL), [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN), [Wake Up,Girls!](https://open.spotify.com/artist/29tW0ETcoveUVtlTIr1tiI), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU), [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq), [Eri Kitamura](https://open.spotify.com/artist/3IYKCbAUuXkZdkiAeYEKwC), [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [黒崎真音](https://open.spotify.com/artist/4SLTgwsFXbomwbNjsAvs3E), [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6), [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU), [sweet ARMS](https://open.spotify.com/artist/4VNX81QK24dwtTCv4lx8Ae), [鈴木このみ](https://open.spotify.com/artist/2zL2DcyFc5UL5WI9zaWZqR), [STAR☆ANIS](https://open.spotify.com/artist/5AVLn44oMughW4oWx8mvg4), [Takayoshi Tanimoto](https://open.spotify.com/artist/5nCVXtvsB2KsngsMbk8Hat), [田村ゆかり](https://open.spotify.com/artist/7iSJ9H9hMz0BzaL3dOv3DP), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [Animelo Summer Live \(2014 \-ONENESS\-ﾃｰﾏｿﾝｸﾞ\)](https://open.spotify.com/album/6gUAibRBj3baFQ3jzjUenw) | 7:07 |
 | 50 | [Polaris](https://open.spotify.com/track/2orTpDbh1wO0GF76kCbEih) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Silent Bible](https://open.spotify.com/album/4tnnahmbMG1qiJA3GCCL50) | 4:19 |
 
-Snapshot ID: `ZyF3AAAAAACn0xLaPR7Zh1DJuymBJnVN`
+Snapshot ID: `ZyLIgAAAAAD/2stWbK2nGgp615e67zoo`

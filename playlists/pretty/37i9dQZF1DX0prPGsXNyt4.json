@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Kekel",
-  "num_followers": 83363,
+  "num_followers": 83391,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -767,34 +767,6 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Moletom",
-        "url": "https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP"
-      },
-      "artists": [
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC Neguinho do Kaxeta",
-          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 334153,
-      "name": "Moletom",
-      "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
         "name": "Love (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/75CDVz8yhYyB920rQGszBf"
       },
@@ -847,6 +819,34 @@
       "duration_ms": 610515,
       "name": "Love - Ac\u00fastico",
       "url": "https://open.spotify.com/track/59glxsHIDG5MSdPuqh8fpW"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
+        "name": "Moletom",
+        "url": "https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP"
+      },
+      "artists": [
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 334153,
+      "name": "Moletom",
+      "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
     },
     {
       "added_at": "2024-08-16 03:01:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
+        "name": "Tom de Pele",
+        "url": "https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Tom de Pele",
+      "url": "https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
         "name": "Mundo Pequeno",
         "url": "https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Tom de Pele",
-        "url": "https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Tom de Pele",
-      "url": "https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
         "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/6U7WUtuQ4YvVruh9bl6aaG"
       },
@@ -1147,6 +1147,26 @@
       "duration_ms": 172000,
       "name": "Sagit\u00e1rio",
       "url": "https://open.spotify.com/track/0N0JNYiFx3xTyIWmnIVuV7"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
+        "name": "Casal Mandrake",
+        "url": "https://open.spotify.com/album/6hAkf9KXRRAnNL2dT7Mlu9"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "Casal Mandrake",
+      "url": "https://open.spotify.com/track/3PdcogyDv7jXLcbEvqYttT"
     },
     {
       "added_at": "2024-08-16 03:01:00",
@@ -1271,26 +1291,6 @@
       "duration_ms": 420000,
       "name": "Poesia Ac\u00fastica - Paris",
       "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
-        "name": "Casal Mandrake",
-        "url": "https://open.spotify.com/album/6hAkf9KXRRAnNL2dT7Mlu9"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 139826,
-      "name": "Casal Mandrake",
-      "url": "https://open.spotify.com/track/3PdcogyDv7jXLcbEvqYttT"
     }
   ],
   "unique_name": "Casal Mandrake",

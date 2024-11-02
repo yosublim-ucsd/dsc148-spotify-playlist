@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Alice.SE](https://open.spotify.com/user/megustager) - 606 likes - 488 songs - 1 day 9 hr 55 min
+[Alice.SE](https://open.spotify.com/user/megustager) - 607 likes - 489 songs - 1 day 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -496,5 +496,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 486 | [Sacrifice of Fools](https://open.spotify.com/track/6hU3mMCVT0w3GgSwC9dibK) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [つぐ](https://open.spotify.com/artist/5LCM5H9id14UflcAXlNSsC) | [Sacrifice of Fools](https://open.spotify.com/album/3xepL1E9bcFdZpLigcAHvh) | 2:10 |
 | 487 | [The Disaster Sounds](https://open.spotify.com/track/2AdnKn7eM6GbalC1SqYEFj) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [The Disaster Sounds](https://open.spotify.com/album/4znL8KsguH4BQACygRbkRK) | 2:59 |
 | 488 | [FLATLINE](https://open.spotify.com/track/7xNMFJEbDvaJsyRN3IChOK) | [CreepP](https://open.spotify.com/artist/66aR9RFCiVYqefIoJaUzKv), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [FLATLINE](https://open.spotify.com/album/2bfAWaaP4dzWOu2qqIXxYS) | 3:13 |
+| 489 | [Lost in the Abyss](https://open.spotify.com/track/0OiJbU6z2vgdAilOaASNMm) | [Abyssmare](https://open.spotify.com/artist/1b1JNnumZJQBTNOY2Popqv), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Lost in the Abyss](https://open.spotify.com/album/6YJtMkGUyeGJcKL9uyGEtX) | 2:08 |
 
-Snapshot ID: `AAACRvvDpK/CYwnSUiAtM4YlYVCfcMCV`
+Snapshot ID: `AAACRwj0O8/ruOR5GPK9kqr4FBxhkldL`

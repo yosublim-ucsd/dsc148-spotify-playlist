@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb69UWhjrXsW.md) - [plain]
 
 ### [Hits From The Movies](https://open.spotify.com/playlist/37i9dQZF1DXb69UWhjrXsW)
 
-> The greatest songs in the history of cinema\. Cover: Hocus Pocus
+> The greatest songs in the history of cinema\. Cover: The Nightmare Before Christmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,942 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,051 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 2 | [\(I've Had\) The Time Of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:50 |
-| 3 | [Main Title](https://open.spotify.com/track/7dRmMRZHF4y1ExlHguSypM) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hocus Pocus \(Original Score\)](https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu) | 1:31 |
+| 3 | [What's This?](https://open.spotify.com/track/2xqar3ld7feKeOp1aGbmXw) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [The Nightmare Before Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc) | 3:05 |
 | 4 | [Tiny Dancer](https://open.spotify.com/track/6MV9CNu8TCE2281ltK3rh0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Almost Famous \(Music From The Motion Picture\)](https://open.spotify.com/album/3oNY3UpmcQQ4TAicUcKkdf) | 6:13 |
 | 5 | [You're The One That I Want \- From "Grease" Original Motion Picture Soundtrack](https://open.spotify.com/track/1pj3RzpA5AoXkZln0NockI) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(Limited Edition\)](https://open.spotify.com/album/1Dswj6aSRPvC7auzJYJzY7) | 2:49 |
 | 6 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb69UWhjrXsW.md) - [plain]
 | 99 | [Fight The Power](https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Fear Of A Black Planet](https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz) | 4:42 |
 | 100 | [Pretty In Pink](https://open.spotify.com/track/6dMTErrChMf9jUmANoeBSd) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Pretty In Pink](https://open.spotify.com/album/0Q0SN4tLsKMec6pAD4EzGY) | 4:39 |
 
-Snapshot ID: `ZxLGiAAAAAArletGt/VbuPssmkw4Zs8W`
+Snapshot ID: `ZyRSQAAAAAC8SrkHkcfdCY9CdxYN9hgP`

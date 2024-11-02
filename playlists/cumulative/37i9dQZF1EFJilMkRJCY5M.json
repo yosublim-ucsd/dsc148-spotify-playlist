@@ -469,6 +469,24 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/4uMpjZ3LcrGuAB8RuB0eFf"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141225,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1lQSetX6AhrCJD2sU7Jfph"
+    },
+    {
+      "album": {
         "name": "Face In The Crowd",
         "url": "https://open.spotify.com/album/6IRQx9Mm5W4BJdKBG6m7Nh"
       },

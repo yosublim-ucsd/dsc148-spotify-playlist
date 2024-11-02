@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtpyV5uajsB.md) - [plain]
 
 > Listen to the soundtracks of Family By Choice\. \(조립식 가족의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 702 likes - 20 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 745 likes - 20 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtpyV5uajsB.md) - [plain]
 | 6 | [촛불하나](https://open.spotify.com/track/2APM0MB4txhD5Oir3Ahae2) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 3](https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn) | 3:31 |
 | 7 | [Walking With](https://open.spotify.com/track/143MWj1w7d5G5Hpn2bYyqv) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Walking Together](https://open.spotify.com/album/286U6R2fhZmWXDKCRkHbZn) | 4:25 |
 | 8 | [Curated by Jung Chae Yeon](https://open.spotify.com/track/6OdUoHMyjvBlRXocluAXC1) | [Family by Choice](https://open.spotify.com/artist/6ie4KDy332c7PKEYZp5FsF) | [Family by Choice Audio Liners](https://open.spotify.com/album/2AF7oPt7mYFNCNOrn462CB) | 0:43 |
-| 9 | [Will you go out with me](https://open.spotify.com/track/6JaBTAsn2xx1zk54jcNpvq) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [YOLO](https://open.spotify.com/album/6iJzdFBjkKgszQ4GMNzZer) | 3:13 |
-| 10 | [My Sweetie](https://open.spotify.com/track/3TizzRfLv29Iv3wUgCSQ77) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:38 |
-| 11 | [Oldskool](https://open.spotify.com/track/2Q7kTdM2rHHJiP8ikFw12o) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Oldskool](https://open.spotify.com/album/54VKoIUDgO7V5h3H2Ff2i2) | 2:41 |
-| 12 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
-| 13 | [I'll Give You My Love](https://open.spotify.com/track/3WfKOD01gbnqV6WwjtifXf) | [Jang Hye Ri](https://open.spotify.com/artist/5zmpoGs5nzBeRGJ9bs6zri), [장혜리](https://open.spotify.com/artist/7z1y2NeRvBLO2XMVfwcZTb) | [Jang Hye Ri \(I\`ll Give You My Love/Ballad of Memories\)](https://open.spotify.com/album/1AQQJeXi1amL9Dc2ElNM98) | 4:09 |
+| 9 | [In the summer \(Acoustic Ver.\)](https://open.spotify.com/track/2bcbyin6MAQK7OvFT6BVDE) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [In the summer](https://open.spotify.com/album/1w795FmKN4kXH9lM511jwb) | 2:12 |
+| 10 | [Shape](https://open.spotify.com/track/4bA9FWOYtBp3eA42auvK72) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Shape](https://open.spotify.com/album/1rXCbK2LqR1QFQ1LIaOugu) | 4:54 |
+| 11 | [있잖아](https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [연애 플레이리스트 OST Part.2](https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt) | 3:27 |
+| 12 | [HAPPY](https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:09 |
+| 13 | [All Our Days](https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Family by Choice \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT) | 4:48 |
 | 14 | [Curated by Bae Hyeon Seong](https://open.spotify.com/track/30a4CeCW62yESEM2aCkrlG) | [Family by Choice](https://open.spotify.com/artist/6ie4KDy332c7PKEYZp5FsF) | [Family by Choice Audio Liners](https://open.spotify.com/album/2AF7oPt7mYFNCNOrn462CB) | 0:37 |
 | 15 | [Be the Light](https://open.spotify.com/track/1YfVQeKmnq3xwz7U3pPYZs) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Very Good](https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww) | 3:25 |
 | 16 | [Hope](https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Resurrection \- The 3rd Album](https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4) | 4:20 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtpyV5uajsB.md) - [plain]
 | 19 | [Linger On](https://open.spotify.com/track/7e256LLur2qADLXIJbsMEK) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Linger On](https://open.spotify.com/album/4pGKlXNo6TKQame8hMFZI7) | 3:49 |
 | 20 | [Us in Those Days \- Instrumental](https://open.spotify.com/track/2HiR51CAg8MATaPWBt7w2b) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Family by Choice \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0fN94YJdwIdnyL4X5Y0Wk9) | 3:55 |
 
-Snapshot ID: `ZxWvDAAAAABv3yZlvpvb1PUPqUZvptoN`
+Snapshot ID: `ZySAqAAAAABPeCB0+pa9GEU/ks15ZrqM`

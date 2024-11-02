@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 桑尼 \(SONNIE\)
 
-251 songs - 16 hr 14 min
+252 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [在你生命的每個角落](https://open.spotify.com/track/2v3deBGfWOQGCNUKoeECFJ) | [Psquare 四方行](https://open.spotify.com/artist/5lSSzjrjJeGlkVRyFD932R) | [在你生命的每個角落](https://open.spotify.com/album/3WAb55wd3TbyigFu4jl1XY) | 3:38 | 2024-06-28 | 2024-09-20 |
 | [在意與默契](https://open.spotify.com/track/6oFB0Wl59EuRInxdeo8PXP) | [DSPS](https://open.spotify.com/artist/4EJY7H6gmi3nXtTvt2ddD7) | [在意與默契](https://open.spotify.com/album/0sl94q4arsr4cCgzIem8K4) | 6:22 | 2024-08-22 | 2024-09-13 |
 | [埋（《Recall：Empty Wishes 空願》遊戲主題曲）](https://open.spotify.com/track/0uPTAbTiu5swm1QlwUWEnj) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [埋（《Recall：Empty Wishes 空願》遊戲主題曲）](https://open.spotify.com/album/3wjO4kP1WKLlFkBEe70A1h) | 3:48 | 2024-06-28 | 2024-08-30 |
-| [墟 Ashes](https://open.spotify.com/track/02TLgNh7q2KkhN9b7TtPwB) | [桑尼 SONNIE](https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe) | [U Make Me SONNIE](https://open.spotify.com/album/4dCBaTZ553lRteVWRH032A) | 4:16 | 2024-10-31 |  |
+| [墟 Ashes](https://open.spotify.com/track/02TLgNh7q2KkhN9b7TtPwB) | [SONNIE 桑尼](https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe) | [U Make Me SONNIE](https://open.spotify.com/album/4dCBaTZ553lRteVWRH032A) | 4:16 | 2024-10-31 |  |
 | [夜市 Oh Yes](https://open.spotify.com/track/2Kb2FVKKJk6P9jfB8JPSqj) | [WONFU](https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy) | [夜市 Oh Yes](https://open.spotify.com/album/35gW8cliDtjh3hAtXRGOki) | 3:48 | 2024-09-26 | 2024-10-25 |
 | [夢](https://open.spotify.com/track/7L8iXPtQCb7ELLff9Az4bY) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [夢](https://open.spotify.com/album/1olxR5StgQ10ZMv1cnX46k) | 3:54 | 2024-06-28 | 2024-08-23 |
 | [大船入港](https://open.spotify.com/track/3iHFEMzyNBPryMNVxlIyJJ) | [核果人NUTS](https://open.spotify.com/artist/0eYN1dX9ZuhqO3vEqaNPRG) | [尋無歸途的靈魂](https://open.spotify.com/album/2cAN0LT7jk5wlGLEEFvgfR) | 4:06 | 2024-09-06 | 2024-09-27 |
@@ -248,6 +248,7 @@
 | [還能再看到幾次滿月](https://open.spotify.com/track/1KlMrB24N1ox90urr5wJh6) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI) | [還能再看到幾次滿月](https://open.spotify.com/album/4z5vzidxEb1cIZ27rmxnV1) | 5:48 | 2024-09-26 |  |
 | [那天晚上 我數了一千多隻羊](https://open.spotify.com/track/5UEzdXMTs2r16ONDf8xHVI) | [阿克沃](https://open.spotify.com/artist/28ZoG0gqU31xsPBLJU9iEv) | [那天晚上 我數了一千多隻羊](https://open.spotify.com/album/6s0R3GAJ04XAxpTE7yzPQ4) | 4:38 | 2024-08-15 | 2024-09-13 |
 | [醒不来](https://open.spotify.com/track/0SM4o1qnpS097cjFaExfK5) | [melonboii](https://open.spotify.com/artist/1TZwWvsRd9vRm8zIwvLlWH) | [醒不来](https://open.spotify.com/album/4g5e6N4X42gHZ3wkZXI8t0) | 2:55 | 2024-08-22 | 2024-09-13 |
+| [野球乾一杯](https://open.spotify.com/track/0MylZAKGfC2ZPOvX2ZnoGw) | [八十八顆芭樂籽](https://open.spotify.com/artist/7tYJYd9Xr6O4I0uQE2ZGd0) | [浪漫野球戰士列傳](https://open.spotify.com/album/295cUUrYbbFCiLJYDUxXrC) | 5:18 | 2024-10-31 |  |
 | [錯](https://open.spotify.com/track/47H1bkrwpdIbtNTtjzo1co) | [NeciKen](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [你是平靜的](https://open.spotify.com/album/2r6iB01kDKqi8Bd0K6oFAg) | 4:37 | 2024-06-28 | 2024-09-20 |
 | [錯.k \- U](https://open.spotify.com/track/1eYI2Qm7OY7ZlwRQGomcQH) | [NeciKen](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [Unplugged \#3](https://open.spotify.com/album/0U5XxmnltRVcJuD0PI96nM) | 3:48 | 2024-09-19 |  |
 | [開放關係](https://open.spotify.com/track/28qDV2bmJu1Q8ob9kXT6VE) | [Sun Day Night.](https://open.spotify.com/artist/6ipNbvd45mRR8LTdA6K9fD) | [開放關係](https://open.spotify.com/album/1DXNLwhfT3al1toPPQ0bdF) | 3:06 | 2024-06-28 | 2024-07-05 |

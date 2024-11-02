@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Gunship, Ollie Wride, The Bad Dreamers and more
+> With Gunship, Ollie Wride, Siamese Youth and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,700 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,709 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Yesterday](https://open.spotify.com/track/2OVUeLRtxnuyl8whgj840X) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Electric Dreams](https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP) | 4:34 |
 | 50 | [Figuratives](https://open.spotify.com/track/5wJInZJJbCNBFf6u5SoQ7U) | [MODERNS](https://open.spotify.com/artist/11ixZj3J67XqAo6Tzn3vcf) | [Figuratives](https://open.spotify.com/album/4R83r8uqp3zKtTUB8GhCZE) | 3:28 |
 
-Snapshot ID: `ZyRHfgAAAAC+yig2Fw64ep/NTLnymsJw`
+Snapshot ID: `ZyWA2wAAAAA5IbmpUvnoKVZxRHSOFNsY`

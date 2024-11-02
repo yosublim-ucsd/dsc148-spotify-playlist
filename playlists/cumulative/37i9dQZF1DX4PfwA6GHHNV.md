@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-162 songs - 8 hr 6 min
+163 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Do Nada](https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah) | [Do Nada](https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F) | 3:25 | 2023-09-29 | 2024-04-06 |
 | [Doce](https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Doce](https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH) | 2:35 | 2024-06-28 |  |
 | [Doce de Latche](https://open.spotify.com/track/3YacGCNqPQFiN7kRfpDPkV) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH) | [It Girl Pt\. 2](https://open.spotify.com/album/6NZvkPXAtD3ksX7Tm7nFFK) | 2:55 | 2024-04-19 | 2024-07-06 |
+| [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 | 2024-11-01 |  |
 | [Ele Me Falou](https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Ele Me Falou](https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh) | 3:29 | 2023-11-03 | 2023-12-02 |
 | [Elite](https://open.spotify.com/track/1ZkSqrikGhRosF1krrlRd3) | [Lazza](https://open.spotify.com/artist/3D2HMyfRTLvIi7cOOSO6Xs), [Ras Akin](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Elite](https://open.spotify.com/album/1Qn7502SAltX9ciuK7FY7K) | 3:22 | 2024-08-09 |  |
 | [Em Mim](https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Em Mim](https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq) | 2:06 | 2023-09-15 | 2023-12-09 |
@@ -163,7 +164,7 @@
 | [VERÃO](https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 3:34 | 2024-03-01 |  |
 | [Vitória Brindar](https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Vitória Brindar](https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O) | 3:17 | 2023-10-27 | 2023-11-11 |
 | [Wifi](https://open.spotify.com/track/2TFk8hcQ7aLErud6AbhKLo) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [O Queridinho de Deus](https://open.spotify.com/album/12FBYClyofbdrOns5C79yq) | 3:20 | 2024-07-05 | 2024-08-10 |
-| [Xona](https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Xona](https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p) | 3:25 | 2023-09-15 |  |
+| [Xona](https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Xona](https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p) | 3:25 | 2023-09-15 | 2024-11-02 |
 | [YESHUA](https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [YESHUA](https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx) | 2:40 | 2024-08-30 |  |
 | [YEYÊ](https://open.spotify.com/track/5K99hrcPJLnVBQg15v6UYq) | [Ally Akin](https://open.spotify.com/artist/1BcFdQaRLbfN6nzhUIPalx), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [YEYÊ](https://open.spotify.com/album/3MvzSKmhx9dx2wzKP48nMT) | 3:15 | 2024-01-26 | 2024-07-13 |
 | [Yo Quiero Te Namorar](https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf) | [NegrãoDoCéu](https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [Yo Quiero Te Namorar](https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq) | 3:18 | 2023-09-15 | 2024-06-08 |

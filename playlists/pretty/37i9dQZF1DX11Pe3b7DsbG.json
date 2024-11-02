@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 231940,
+  "num_followers": 231936,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
+        "name": "Quatro Grandes Do Samba",
+        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
+      },
+      "artists": [
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "Chove e N\u00e3o Molha",
+      "url": "https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF"
+    },
+    {
+      "added_at": "2024-10-04 13:58:33",
+      "album": {
         "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 146613,
       "name": "Caciqueando - Ao Vivo",
       "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
-    },
-    {
-      "added_at": "2024-10-04 13:58:33",
-      "album": {
-        "name": "Quatro Grandes Do Samba",
-        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
-      },
-      "artists": [
-        {
-          "name": "Elton Medeiros",
-          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "Chove e N\u00e3o Molha",
-      "url": "https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF"
     },
     {
       "added_at": "2024-10-04 13:58:33",

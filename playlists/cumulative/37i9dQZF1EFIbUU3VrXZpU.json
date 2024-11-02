@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "1,2 Step",
+        "url": "https://open.spotify.com/album/4ndsffSWxyh2WuQAgQktIY"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232157,
+      "name": "1, 2 Step (feat. Missy Elliott) - Don Candiani Reggaeton Mix - Edit",
+      "url": "https://open.spotify.com/track/0987Qvix0si3pA18QvQqHW"
+    },
+    {
+      "album": {
         "name": "1, 2 Step (Supersonic)",
         "url": "https://open.spotify.com/album/6dQitA595pWElnXs7oqWZj"
       },
@@ -68,6 +90,28 @@
       "duration_ms": 176640,
       "name": "1, 2 Step (Supersonic)",
       "url": "https://open.spotify.com/track/4ndFwD5xjLgJxGExGRoQYd"
+    },
+    {
+      "album": {
+        "name": "1, 2 Step (DJ HEARTSTRING Remix)",
+        "url": "https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185953,
+      "name": "1, 2 Step - DJ HEARTSTRING Remix",
+      "url": "https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty"
     },
     {
       "album": {
@@ -2490,6 +2534,24 @@
       "duration_ms": 265493,
       "name": "Gettaway (feat. Space & Nicole)",
       "url": "https://open.spotify.com/track/4fWK7zJp17fuhDfQ9YnAei"
+    },
+    {
+      "album": {
+        "name": "Every Night Fantasy",
+        "url": "https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142790,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/3MfysK4blbsihpWvCSDOhy"
     },
     {
       "album": {

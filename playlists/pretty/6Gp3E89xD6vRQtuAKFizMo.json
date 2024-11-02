@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44240,
+  "num_followers": 44241,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZuRnYeltzhpJquvmVpet6yMdsUTtp",
+  "snapshot_id": "AAAZut6wueNCFmkRLxJIkaBZ9wXN+UUf",
   "tracks": [
+    {
+      "added_at": "2024-11-01 16:36:28",
+      "album": {
+        "name": "Barcelona (feat. Cody Bolan) [VIP Mix]",
+        "url": "https://open.spotify.com/album/0xBzRvb3GLshk3F1feoxAh"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Cody Bolan",
+          "url": "https://open.spotify.com/artist/2nnHzLNaFAxbzuzjRhWSkT"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Barcelona (feat. Cody Bolan) - VIP Mix",
+      "url": "https://open.spotify.com/track/4tjfbTzjxwc1hbzfLDreIV"
+    },
     {
       "added_at": "2024-10-30 21:34:35",
       "album": {

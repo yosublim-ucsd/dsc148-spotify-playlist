@@ -8553,6 +8553,24 @@
     },
     {
       "album": {
+        "name": "love me right",
+        "url": "https://open.spotify.com/album/0wt3flcNvffezUNipKm0Z6"
+      },
+      "artists": [
+        {
+          "name": "RISSA",
+          "url": "https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157164,
+      "name": "love me right",
+      "url": "https://open.spotify.com/track/6lkmMyXRTDJv7Gbn0LNGUJ"
+    },
+    {
+      "album": {
         "name": "The Found Album",
         "url": "https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx"
       },
@@ -13182,7 +13200,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 237894,
       "name": "Starstruck - The Breakglass Version",
       "url": "https://open.spotify.com/track/6Mb4aH3v0Rvo67OqbzU4zV"

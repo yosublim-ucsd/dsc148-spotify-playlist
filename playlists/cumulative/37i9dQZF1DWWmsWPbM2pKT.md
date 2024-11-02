@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-280 songs - 17 hr 11 min
+281 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Connections](https://open.spotify.com/track/1Nb2iHmomvQJVKhy8z8V8d) | [Blind Seagull](https://open.spotify.com/artist/1vxBebRw2VD4vDQ5zHTWQI) | [Pressure](https://open.spotify.com/album/2fuqfCEpvlPOtS51DmnkWC) | 2:41 | 2020-12-21 | 2023-02-10 |
 | [Consciousness](https://open.spotify.com/track/2Np4c8DYpNZMLu7b82r0Es) | [Glaring](https://open.spotify.com/artist/576kYuY4OrauYNEzESyxDE) | [Paralyzed](https://open.spotify.com/album/7J5m8IiBGYSjPFF4i8Joo0) | 2:45 | 2023-08-31 |  |
 | [Corona](https://open.spotify.com/track/2lagxNgeQMYlAFDhH5AZqN) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:25 | 2020-12-21 | 2023-02-10 |
+| [Crimson Mask](https://open.spotify.com/track/4qfFALsZju3E00uHZ58Ddu) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Take Up Your Cross and Follow Me](https://open.spotify.com/album/1tAJzZGMlwPbhwgCIw5yQ8) | 3:55 | 2024-11-01 |  |
 | [Current Affair](https://open.spotify.com/track/721rlw9VI4IqhpPhNFrZIv) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/30Tq94VCaG31USW0MsFli2) | 2:49 | 2023-08-31 | 2024-03-20 |
 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 | 2023-02-09 | 2023-09-01 |
 | [dance away tonight](https://open.spotify.com/track/10rQtOwXrmW8008vFEknVm) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [dance away tonight](https://open.spotify.com/album/4EdKyEqSrSK2FI6OBqLDrs) | 2:49 | 2023-09-14 |  |
@@ -229,7 +230,7 @@
 | [Swimming](https://open.spotify.com/track/2tqcqXIBWPmHVP2QMZHmuI) | [RNIE](https://open.spotify.com/artist/6lSHLs9xKAtzB9Eu2aUW2K) | [Figi Afterglow](https://open.spotify.com/album/2ACcabEHEyRsBu5VZKGSjP) | 2:00 | 2023-08-31 |  |
 | [Symbiosis](https://open.spotify.com/track/5LhTGlceDHT1X3Ue1RMp9o) | [Casket Cassette](https://open.spotify.com/artist/7hpTA4ta9iSezFWhwfEbWK) | [Love Letters to Ghosts](https://open.spotify.com/album/4EeECFrtZ2qtDjEBAHCCBu) | 3:12 | 2024-01-11 |  |
 | [Syndrome](https://open.spotify.com/track/0XGOz64pn3NWBHJie7HhpI) | [Antipole](https://open.spotify.com/artist/0XAhl52vBWh87XxU3urEjA), [Paris Alexander](https://open.spotify.com/artist/6wQVB6Evr0IYhAwt5wuqhB) | [Radial Glare](https://open.spotify.com/album/1GcJl0i8C78J9okwrNtocv) | 3:09 | 2023-08-31 |  |
-| [TELL ME WHEN I'M TELLING LIES](https://open.spotify.com/track/17ESn0oRLjI7xtSLkBgTXA) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [TELL ME WHEN I'M TELLING LIES](https://open.spotify.com/album/1VAl4P9cccbRY6NtlPlTEK) | 3:13 | 2023-07-21 |  |
+| [TELL ME WHEN I'M TELLING LIES](https://open.spotify.com/track/17ESn0oRLjI7xtSLkBgTXA) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [TELL ME WHEN I'M TELLING LIES](https://open.spotify.com/album/1VAl4P9cccbRY6NtlPlTEK) | 3:13 | 2023-07-21 | 2024-11-02 |
 | [Temple of Eternity](https://open.spotify.com/track/0rPjceGXpvTxoe2sy3eGiX) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Temple of Eternity](https://open.spotify.com/album/3MDuQ1x6xYgPrW0x70ifl2) | 3:03 | 2020-12-21 | 2023-02-10 |
 | [That House](https://open.spotify.com/track/6lUyyCRoT2wvtGlQQEpk3U) | [Dance With the Dead](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm) | [B\-Sides: Vol\. 1](https://open.spotify.com/album/1NhAWLxOl4dD4WMs56VvsI) | 4:46 | 2020-12-21 | 2023-09-01 |
 | [The Last Stand](https://open.spotify.com/track/2orZvn8uqomZTJAdP77Kt2) | [Carbon Killer](https://open.spotify.com/artist/73CHtFYTjplBsprAdBl0cQ) | [Carbon Inc](https://open.spotify.com/album/4ShwBGVlQwhPccxql4Cdh0) | 5:09 | 2020-12-21 | 2023-02-10 |

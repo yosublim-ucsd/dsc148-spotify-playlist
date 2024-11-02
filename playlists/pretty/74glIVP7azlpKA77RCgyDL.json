@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Better Lovers.",
-  "num_followers": 8748,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Darko US.",
+  "num_followers": 8750,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAM3DDWm4Y8pB4j3GvaAI4k2ocdE0/j",
+  "snapshot_id": "AAAM5DmniChxsKA2ZmjHuche/roOvrc/",
   "tracks": [
+    {
+      "added_at": "2024-11-01 19:59:21",
+      "album": {
+        "name": "BLOOD HOST",
+        "url": "https://open.spotify.com/album/53BT7fEmTb8wmZfvVStfEV"
+      },
+      "artists": [
+        {
+          "name": "Darko US",
+          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
+        }
+      ],
+      "duration_ms": 337339,
+      "name": "BLOOD HOST",
+      "url": "https://open.spotify.com/track/4jnbz6aiphNLoT8W0nfkcR"
+    },
+    {
+      "added_at": "2024-11-01 19:59:35",
+      "album": {
+        "name": "Faded Dream",
+        "url": "https://open.spotify.com/album/6Ab6OuwGKo4KazGhv7vmWR"
+      },
+      "artists": [
+        {
+          "name": "Neon Nightmare",
+          "url": "https://open.spotify.com/artist/0lMcJVE9KZzlfnomZIC7HF"
+        }
+      ],
+      "duration_ms": 338973,
+      "name": "It's All Over (For You)",
+      "url": "https://open.spotify.com/track/33ybzOrdCkudB1fGloubQ8"
+    },
+    {
+      "added_at": "2024-11-01 20:00:16",
+      "album": {
+        "name": "New Eyes",
+        "url": "https://open.spotify.com/album/7cDXpqKhlvzKfGj2lpQJs4"
+      },
+      "artists": [
+        {
+          "name": "Havok",
+          "url": "https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq"
+        }
+      ],
+      "duration_ms": 210273,
+      "name": "Death Is An Illusion",
+      "url": "https://open.spotify.com/track/1ggOzSXW1G50jYL2FUuP7W"
+    },
+    {
+      "added_at": "2024-11-01 20:00:33",
+      "album": {
+        "name": "Life Sentence",
+        "url": "https://open.spotify.com/album/3aZzHYlm07x71wGE4mjNKX"
+      },
+      "artists": [
+        {
+          "name": "Bite Down",
+          "url": "https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l"
+        }
+      ],
+      "duration_ms": 188123,
+      "name": "Life Sentence",
+      "url": "https://open.spotify.com/track/6qdNvTHQJe7PLjVxnqWZr7"
+    },
+    {
+      "added_at": "2024-11-01 20:00:48",
+      "album": {
+        "name": "Angel In The Sand",
+        "url": "https://open.spotify.com/album/6W5o0RyfAcFruntLVD3KVC"
+      },
+      "artists": [
+        {
+          "name": "Leaving Time",
+          "url": "https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y"
+        }
+      ],
+      "duration_ms": 148810,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/1h0YsYLA7gMlfnR51VDYg3"
+    },
+    {
+      "added_at": "2024-11-01 20:01:04",
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/1ic6F5y9ph8qM4UIYkDq0d"
+      },
+      "artists": [
+        {
+          "name": "Strict",
+          "url": "https://open.spotify.com/artist/06beC3T1RvJWUKZAMEMOxa"
+        }
+      ],
+      "duration_ms": 132154,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/4UCEwS1cNO5qvEJKTx8tJC"
+    },
     {
       "added_at": "2024-10-25 18:58:47",
       "album": {

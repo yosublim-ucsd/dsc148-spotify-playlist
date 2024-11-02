@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Nick Day, Stephen McWhirter, Ahjah Walls",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  <a href=\"spotify:artist:6piIAIurGAryW5h1rqQC16\">Passion</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 376526,
       "name": "Amen Of Heaven (Live)",
       "url": "https://open.spotify.com/track/0uJxtoa3LsDnOdxGvWr8Z5"
@@ -4648,6 +4648,32 @@
     {
       "album": {
         "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316843,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe"
+    },
+    {
+      "album": {
+        "name": "He Who Is To Come",
         "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
       },
       "artists": [
@@ -4688,7 +4714,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 390020,
       "name": "He Who Is To Come - Live From Passion 2024",
       "url": "https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf"
@@ -4736,6 +4762,28 @@
       "duration_ms": 431520,
       "name": "Heart & Flesh",
       "url": "https://open.spotify.com/track/5QT13TE0vN29dYa8Ifkz0A"
+    },
+    {
+      "album": {
+        "name": "HEART AND MIND",
+        "url": "https://open.spotify.com/album/7lpLhrtvLdWUNh6fA5DYek"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227085,
+      "name": "HEART AND MIND",
+      "url": "https://open.spotify.com/track/2rTOQ61GqSMPtxCgboHor1"
     },
     {
       "album": {
@@ -4882,6 +4930,28 @@
       "duration_ms": 441746,
       "name": "Highest One - Live",
       "url": "https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza"
+    },
+    {
+      "album": {
+        "name": "Highest Praise",
+        "url": "https://open.spotify.com/album/0J2GvzeCLLt5awJGl7vnu4"
+      },
+      "artists": [
+        {
+          "name": "Celebration Music",
+          "url": "https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp"
+        },
+        {
+          "name": "Lauren Tyler",
+          "url": "https://open.spotify.com/artist/4gRyzQZaBqfaJz4QHppN53"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350264,
+      "name": "Highest Praise",
+      "url": "https://open.spotify.com/track/07KfkF3DR65fiZ8LJp38Cy"
     },
     {
       "album": {
@@ -6526,7 +6596,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 355915,
       "name": "It is Done - Live",
       "url": "https://open.spotify.com/track/737zghobTBR0SauNxmcXrt"
@@ -8060,6 +8130,24 @@
       "duration_ms": 242085,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/1uYqNIeFnuuAyECweX2jI7"
+    },
+    {
+      "album": {
+        "name": "Making Room",
+        "url": "https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261092,
+      "name": "Making Room",
+      "url": "https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt"
     },
     {
       "album": {
@@ -9636,7 +9724,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 425263,
       "name": "Overflow Of Worship - Songs For Church (Live)",
       "url": "https://open.spotify.com/track/6D9SyfrG6zen476lsak8S1"
@@ -10098,7 +10186,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 467000,
       "name": "Preference - Live",
       "url": "https://open.spotify.com/track/4KZBNnHig4PN0cS5UkI6lq"
@@ -11180,6 +11268,24 @@
       "duration_ms": 391933,
       "name": "Spirit Fall (Dove) - Live",
       "url": "https://open.spotify.com/track/726QdTEtmQIkafu0F9PdY2"
+    },
+    {
+      "album": {
+        "name": "Winning Team: [Songs For Church (Live)]",
+        "url": "https://open.spotify.com/album/3YVkedvKSHgFELSUkxtuur"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282040,
+      "name": "Spirit Of God (Breathe In Us) - Songs For Church (Live)",
+      "url": "https://open.spotify.com/track/5DXLxxwIcuLOZI0FIu9f4t"
     },
     {
       "album": {
@@ -13705,6 +13811,28 @@
     },
     {
       "album": {
+        "name": "Wedding of the Lamb",
+        "url": "https://open.spotify.com/album/7LXReoZqUPtuIOUFKZaNjF"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        },
+        {
+          "name": "Holly Halliwell",
+          "url": "https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296104,
+      "name": "Wedding of the Lamb",
+      "url": "https://open.spotify.com/track/21fEcu9jRL7Zv4rmGdYZ05"
+    },
+    {
+      "album": {
         "name": "What a friend",
         "url": "https://open.spotify.com/album/4fORMR5R4m2ZMNUf4KTb6G"
       },
@@ -13876,7 +14004,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 266275,
       "name": "WHAT YOU'RE WORTHY OF",
       "url": "https://open.spotify.com/track/1opOqU6Vph4HcZW1xiloe5"

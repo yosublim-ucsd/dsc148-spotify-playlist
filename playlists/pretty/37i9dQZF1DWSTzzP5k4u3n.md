@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Viikate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,791 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,790 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Muuttumaton](https://open.spotify.com/track/6CrKSyEOIAWZmTQhJpSCVb) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Muuttumaton](https://open.spotify.com/album/2IGdxsIDcxH9LjtMQlQ58v) | 3:37 |
-| 2 | [Haluaako Piepponen turpaan?](https://open.spotify.com/track/08jQ1OPwy0gJ6VrlWRPKH9) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haluaako Piepponen turpaan?](https://open.spotify.com/album/3va93w0LhqBOsmUUKmxmSg) | 3:32 |
+| 2 | [Tulvaniityt](https://open.spotify.com/track/356KJMSfmHLgahPGpz5E9i) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Hiljainen](https://open.spotify.com/album/51QXiCOMZIwTJw9TUfAEG2) | 3:23 |
 | 3 | [VMP](https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [VMP](https://open.spotify.com/album/4KYBQzyfGj65Q73OylcCY5) | 2:42 |
 | 4 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 |
 | 5 | [Meri josta elän](https://open.spotify.com/track/1FGwbuI501ZwGBrncqb4lI) | [Kalle Ahola](https://open.spotify.com/artist/1VkNoO2Us1nyZZWAgdpsds) | [Meri josta elän](https://open.spotify.com/album/76hy36Gdel0t47rj3I08EU) | 4:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Just Run](https://open.spotify.com/track/5zVKm6B5fj8uBqNQwuoo3A) | [Spänk!](https://open.spotify.com/artist/2UwlIXhxWNq1xey9dbifK1) | [Just Run](https://open.spotify.com/album/0JcVDuooUL9OvZ8KC9Qbr3) | 3:43 |
 | 80 | [Kalpeaa valoa](https://open.spotify.com/track/3zUjxPK3ypd5JlfVLHku5B) | [Hullunkruunu](https://open.spotify.com/artist/4e5S9w4n2q9xeePK88mgIx) | [Tumman veden pinta](https://open.spotify.com/album/7qULDZOGiQTQ9OOyh8jc6N) | 4:45 |
 
-Snapshot ID: `ZyP+HAAAAADEtIXqUwL9tRonUVpbN/wX`
+Snapshot ID: `ZySBWwAAAACpi2YB74YIwna4O82zGlQ4`

@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Analog Balaton",
-  "num_followers": 13843,
+  "num_followers": 13849,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "B\u00e1rcsak",
-        "url": "https://open.spotify.com/album/0AZMdeT1KElrsIKCSMCDfK"
-      },
-      "artists": [
-        {
-          "name": "szolnoki",
-          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
-        }
-      ],
-      "duration_ms": 146691,
-      "name": "B\u00e1rcsak",
-      "url": "https://open.spotify.com/track/0cN9PXoc9JX0CZniTaMGVD"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
         "name": "Hull\u00f3csillag",
         "url": "https://open.spotify.com/album/6PdCoLIgZmQCImlOuCsvfI"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 198947,
       "name": "Hull\u00f3csillag",
       "url": "https://open.spotify.com/track/4DGAgKKi6DBuztTTbnHE63"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "B\u00e1rcsak",
+        "url": "https://open.spotify.com/album/0AZMdeT1KElrsIKCSMCDfK"
+      },
+      "artists": [
+        {
+          "name": "szolnoki",
+          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
+        }
+      ],
+      "duration_ms": 146691,
+      "name": "B\u00e1rcsak",
+      "url": "https://open.spotify.com/track/0cN9PXoc9JX0CZniTaMGVD"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "M\u00e9g Egyszer",
-        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
-      },
-      "artists": [
-        {
-          "name": "B. Nagy R\u00e9ka",
-          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "M\u00e9g Egyszer",
-      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
         "name": "Legszebb Hib\u00e1nk",
         "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 164705,
       "name": "Legszebb Hib\u00e1nk",
       "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "M\u00e9g Egyszer",
+        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
+      },
+      "artists": [
+        {
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
+        }
+      ],
+      "duration_ms": 198352,
+      "name": "M\u00e9g Egyszer",
+      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "024",
-        "url": "https://open.spotify.com/album/2SOLffWVX0HiKfHHWAIpAb"
-      },
-      "artists": [
-        {
-          "name": "toldyuuso",
-          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
-        },
-        {
-          "name": "Lil Frakk",
-          "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "024",
-      "url": "https://open.spotify.com/track/4cUIRhXmcBsI3JdP18Ld8f"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
         "name": "M\u00c1SHOGY F\u00daJ",
         "url": "https://open.spotify.com/album/1arncekYqlfYkQDJXc11Je"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 142500,
       "name": "M\u00c1SHOGY F\u00daJ",
       "url": "https://open.spotify.com/track/3AtfBJxq2HLnFHAD6PjKbj"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "024",
+        "url": "https://open.spotify.com/album/2SOLffWVX0HiKfHHWAIpAb"
+      },
+      "artists": [
+        {
+          "name": "toldyuuso",
+          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
+        },
+        {
+          "name": "Lil Frakk",
+          "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "024",
+      "url": "https://open.spotify.com/track/4cUIRhXmcBsI3JdP18Ld8f"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "pontnem",
-        "url": "https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 205980,
-      "name": "pontnem",
-      "url": "https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
         "name": "RENDEZ\u0150I V\u00c1LTOZAT",
         "url": "https://open.spotify.com/album/09nwiPw91kp2jklQHXd5YY"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 202400,
       "name": "RENDEZ\u0150I V\u00c1LTOZAT",
       "url": "https://open.spotify.com/track/4TU5svg9eXvk6USHEZJn84"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "pontnem",
+        "url": "https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 205980,
+      "name": "pontnem",
+      "url": "https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "Sz\u00f6rny vagyok",
-        "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 182952,
-      "name": "Sz\u00f6rny vagyok",
-      "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
         "name": "K\u00e9s\u0151 Van",
         "url": "https://open.spotify.com/album/3dB5Hd0zSS1uQGjLxD24PP"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 156038,
       "name": "K\u00e9s\u0151 Van",
       "url": "https://open.spotify.com/track/5Tshn50cxPx4Zxw43yJ4PI"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "Sz\u00f6rny vagyok",
+        "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 182952,
+      "name": "Sz\u00f6rny vagyok",
+      "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "Diszkomfort",
-        "url": "https://open.spotify.com/album/4TfQVT90BnuML3cWv4LIz8"
-      },
-      "artists": [
-        {
-          "name": "szolnoki",
-          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
-        }
-      ],
-      "duration_ms": 155278,
-      "name": "Diszkomfort",
-      "url": "https://open.spotify.com/track/0KycjsM9rZi1Ys6z15xKxu"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
         "name": "N\u00e9gyes-Hatos",
         "url": "https://open.spotify.com/album/5xywbU931889LMT6JaCcWw"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 162099,
       "name": "N\u00e9gyes-Hatos",
       "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "Diszkomfort",
+        "url": "https://open.spotify.com/album/4TfQVT90BnuML3cWv4LIz8"
+      },
+      "artists": [
+        {
+          "name": "szolnoki",
+          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
+        }
+      ],
+      "duration_ms": 155278,
+      "name": "Diszkomfort",
+      "url": "https://open.spotify.com/track/0KycjsM9rZi1Ys6z15xKxu"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "kurvanagy ???",
-        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "kurvanagy ???",
-      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
         "name": "Megyek ut\u00e1nad",
         "url": "https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 131986,
       "name": "Megyek ut\u00e1nad",
       "url": "https://open.spotify.com/track/7zFTSuwz7CAHhWByjBhmB4"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "kurvanagy ???",
+        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "kurvanagy ???",
+      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
     },
     {
       "added_at": "2024-10-18 15:48:50",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-10-18 15:48:50",
       "album": {
-        "name": "Still Dreamin'",
-        "url": "https://open.spotify.com/album/68NLCJBXQCfpp3Y8TsRg8F"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6rk",
-          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
-        }
-      ],
-      "duration_ms": 193087,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/5xIGCCx2sut6CkZkqFTQ05"
-    },
-    {
-      "added_at": "2024-10-18 15:48:50",
-      "album": {
         "name": "\u00c9jszakai",
         "url": "https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 174545,
       "name": "Az \u00c9n Sz\u00edvem",
       "url": "https://open.spotify.com/track/4Bak4uTIbG7mpILvpbdYEi"
+    },
+    {
+      "added_at": "2024-10-18 15:48:50",
+      "album": {
+        "name": "Still Dreamin'",
+        "url": "https://open.spotify.com/album/68NLCJBXQCfpp3Y8TsRg8F"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6rk",
+          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
+        }
+      ],
+      "duration_ms": 193087,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/5xIGCCx2sut6CkZkqFTQ05"
     }
   ],
   "unique_name": "Nemazapop",

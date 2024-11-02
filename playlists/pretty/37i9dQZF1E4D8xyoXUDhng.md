@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 > With Chicago Mass Choir, Sheri Jones\-Moffett, Dorothy Norwood and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 227 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 228 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [You're The Best Thing That Ever Happened](https://open.spotify.com/track/7LAII4djHnofKYPiOu7dAH) | [James Cleveland](https://open.spotify.com/artist/5g1lWbZIQ0LCWbKmRJDSSn) | [Jesus Is The Best Thing That Ever Happened To Me](https://open.spotify.com/album/7bnFH4Q4L3P3kOsWRJyom4) | 8:59 |
 | 50 | [God Restores](https://open.spotify.com/track/6ZxFLMgvYnwoPp5XJMNsNs) | [Dynamic Praise](https://open.spotify.com/artist/1XIXoUyVergyDlchUQEHLC) | [Testify](https://open.spotify.com/album/2Jvk7srCOVzfI3THwJRArL) | 8:01 |
 
-Snapshot ID: `ZyRNRAAAAAA1wW3Ho4qBZ20cEuKYUDY0`
+Snapshot ID: `ZyWbzAAAAAB5IeB5cNuoAAnYY9pw5weV`

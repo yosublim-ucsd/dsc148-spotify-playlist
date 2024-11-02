@@ -4,7 +4,7 @@
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Shawn Mendes
 
-2,505 songs - 5 day 3 hr 21 min
+2,508 songs - 5 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-20 | 2024-06-28 |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-11 | 2024-07-19 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-16 | 2024-05-24 |
+| [Chill Bae](https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:18 | 2024-10-31 |  |
 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 | 2024-07-26 | 2024-08-02 |
 | [Chocolate](https://open.spotify.com/track/5YGQ29f9zUVj1gSmUxRBTv) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Chocolate](https://open.spotify.com/album/6A7f059hlBK88EB6JV2O91) | 2:25 | 2024-05-30 | 2024-06-07 |
 | [CHROMA 004 ROLA](https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 004](https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol) | 4:49 | 2024-06-27 | 2024-07-05 |
@@ -510,6 +511,7 @@
 | [Dead Man](https://open.spotify.com/track/7vWostJwToRY6nyEzzU4Lp) | [Beatsteaks](https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX) | [Dead Man](https://open.spotify.com/album/4AUQgkFGqELcWdO9hrcQv3) | 2:17 | 2024-05-16 | 2024-05-24 |
 | [Dead To Me](https://open.spotify.com/track/14Shxe1M6sOsRKzdSZsEne) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [Dead To Me](https://open.spotify.com/album/0einC3fWzABlFUyW16WMXD) | 2:44 | 2024-06-13 | 2024-06-21 |
 | [dead to me](https://open.spotify.com/track/1IdsmtCr9Uf0mDDaI9vONX) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [dead to me](https://open.spotify.com/album/3Dy2yTTXSsGy1UPTDDp6L2) | 2:57 | 2024-05-30 | 2024-06-07 |
+| [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 | 2024-10-31 |  |
 | [Death Note](https://open.spotify.com/track/08KFnDhmm8zY3ni1hqYrSB) | [Schubi AKpella](https://open.spotify.com/artist/2SveKtmknwwMpYJtuFkYZj) | [Death Note](https://open.spotify.com/album/4eg22v0Q7BMmBCLiO7sYJN) | 2:00 | 2024-07-18 | 2024-07-27 |
 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-18 | 2024-07-27 |
 | [dede don don dede don dede don](https://open.spotify.com/track/50pM4sNi8kIAek5pzfE4xh) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [dede don don dede don dede don](https://open.spotify.com/album/2kkZqyorUaYtAPTATQC2sf) | 2:19 | 2024-05-23 | 2024-06-01 |
@@ -519,6 +521,7 @@
 | [Deine Schuld](https://open.spotify.com/track/3ByZX2TLmtfaV4gunqrOPN) | [Julia Meladin](https://open.spotify.com/artist/26N7IKzjFJ57y84GdXBd4A) | [Deine Schuld](https://open.spotify.com/album/09ljq9SAxAIH2ge3fnHzDR) | 3:05 | 2024-09-19 | 2024-09-27 |
 | [Deja Vu \(feat\. DJ Drama\)](https://open.spotify.com/track/1hDtQHr9OveHVpE4RlvM9G) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Deja Vu \(feat\. DJ Drama\)](https://open.spotify.com/album/2UoHIfIrdKTAsbS9dcB72k) | 3:21 | 2024-05-30 | 2024-06-07 |
 | [Dejavu](https://open.spotify.com/track/37X5GMyO9FP342KmlhKqdW) | [Oli\. P](https://open.spotify.com/artist/4SP3LwSvQscEr8Fs3HfesU), [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [Dejavu](https://open.spotify.com/album/7nGO64Oo3AEE8isA2kIysR) | 2:27 | 2024-08-22 | 2024-08-30 |
+| [delusional](https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [delusional](https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy) | 2:11 | 2024-10-31 |  |
 | [Demi God](https://open.spotify.com/track/0tksP2JLwvrsOKbm1xjYYF) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sahtyre](https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU) | [Demi God](https://open.spotify.com/album/5q08kDdIVPD5m3XBQGwmUh) | 2:56 | 2024-07-18 | 2024-07-27 |
 | [DENK ZU VIEL NACH](https://open.spotify.com/track/1ctq4FdMatfR9ZNCY8WKbM) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [DENK ZU VIEL NACH](https://open.spotify.com/album/3rIVdn7T2glnMoBobBvjlA) | 2:24 | 2024-07-18 | 2024-07-27 |
 | [Denn sie wissen was sie tun](https://open.spotify.com/track/7CZThz1S4vtKdB6u8U7nq1) | [Tocotronic](https://open.spotify.com/artist/4WOaecAM3RMMmrbZzNx0vu) | [Denn sie wissen was sie tun](https://open.spotify.com/album/00xTQLKZEPnIFWVCytsFa2) | 3:19 | 2024-10-17 | 2024-10-25 |

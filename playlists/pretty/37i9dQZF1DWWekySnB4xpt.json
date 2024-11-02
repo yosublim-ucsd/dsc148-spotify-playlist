@@ -1,12 +1,12 @@
 {
-  "description": "Cover: La cajera de Farmatodo",
-  "num_followers": 239015,
+  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Rawayana & Akapellah",
+  "num_followers": 239193,
   "original_name": "Made In Venezuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxk8JAAAAABd4CobWvtWBTIKaZgA6096",
+  "snapshot_id": "ZyRPVgAAAAD9+3O00xGP22NJ/ssRGnkf",
   "tracks": [
     {
       "added_at": "2024-10-23 17:37:22",
@@ -27,6 +27,26 @@
       "duration_ms": 254664,
       "name": "Veneka",
       "url": "https://open.spotify.com/track/2nWlJ8gwkn5KPADD07zcmw"
+    },
+    {
+      "added_at": "2024-11-01 03:47:34",
+      "album": {
+        "name": "SOTORIUS",
+        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "EL FAVORITO DE MAMI",
+      "url": "https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw"
     },
     {
       "added_at": "2024-10-08 13:46:49",
@@ -1347,26 +1367,6 @@
       "duration_ms": 222413,
       "name": "Cremosa",
       "url": "https://open.spotify.com/track/6UMKk8R4XdJFouZUNHIG5I"
-    },
-    {
-      "added_at": "2024-10-08 13:46:49",
-      "album": {
-        "name": "Albita",
-        "url": "https://open.spotify.com/album/7Es0fexd4HhbkaVa6xeabv"
-      },
-      "artists": [
-        {
-          "name": "Albita",
-          "url": "https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a"
-        },
-        {
-          "name": "Rafael \"Pollo\" Brito",
-          "url": "https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o"
-        }
-      ],
-      "duration_ms": 239488,
-      "name": "La Vaca Mariposa (El Becerrito)",
-      "url": "https://open.spotify.com/track/2W8sdlfr1p6TeWWZCIgcZl"
     },
     {
       "added_at": "2024-10-08 13:46:49",

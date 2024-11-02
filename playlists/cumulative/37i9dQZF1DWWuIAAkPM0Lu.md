@@ -4,7 +4,7 @@
 
 > ..\. nu ligger albummet her: <a href="spotify:album:6IihVWau3jW3N1ho4ySKDk">Fri</a> ✨ <a href="spotify:artist:0YF2oUwHHPo0VTGuqgYG0X">Thor Farlov</a> ✨
 
-2,763 songs - 5 day 22 hr 55 min
+2,765 songs - 5 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 | 2024-07-18 | 2024-07-27 |
 | [deadweight](https://open.spotify.com/track/62REjGo4zteSwjoIb43D2e) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [deadweight](https://open.spotify.com/album/0A10OGdu6vkcW6eybVwZhO) | 1:25 | 2024-10-03 | 2024-10-11 |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-05-30 | 2024-06-07 |
+| [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 | 2024-10-31 |  |
 | [Death Valley High](https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Death Valley High](https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb) | 2:40 | 2024-07-11 | 2024-07-19 |
 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-18 | 2024-07-27 |
 | [DECIBEL](https://open.spotify.com/track/2kiC5fopiYY3YbpZvZE3Pf) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [DECIBEL](https://open.spotify.com/album/06NUaJPqMJnjawwkspDjHz) | 2:36 | 2024-04-26 | 2024-05-03 |
@@ -2662,6 +2663,7 @@
 | [What Can I Say](https://open.spotify.com/track/2PP5711DTbZBdKIE420QIa) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc), [20xx](https://open.spotify.com/artist/5Fn2scSzPPkJTKJrH4nI6b) | [What Can I Say](https://open.spotify.com/album/7CTcEiQMYMZCjPchXqAgfk) | 2:27 | 2024-07-04 | 2024-07-12 |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-05-23 | 2024-06-01 |
 | [what do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [what do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-09 | 2024-08-16 |
+| [What Have You Done To Me?](https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [What Have You Done To Me?](https://open.spotify.com/album/10lnSg9ovtLdS5hNsaO1Gh) | 6:18 | 2024-10-31 |  |
 | [What I Know Now](https://open.spotify.com/track/5nNT5ulZvirF7aA1mn58gO) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [What I Know Now](https://open.spotify.com/album/2dbsq7LPzjXQPJrla8i1Bb) | 2:43 | 2024-06-06 | 2024-06-14 |
 | [What If](https://open.spotify.com/track/0by3Svogff79GiMDrksjzz) | [Joppe](https://open.spotify.com/artist/01P3sI9cTWVijMfNm0Jz7V) | [What If](https://open.spotify.com/album/3lHVxQdANV5kOduVnvVMCA) | 1:42 | 2024-08-09 | 2024-08-16 |
 | [What If](https://open.spotify.com/track/0Vo1QK4BJc9IAzyJuAUnLR) | [On the Phone](https://open.spotify.com/artist/2gbRZs8gxnGhTaNw6BSw6L) | [What If](https://open.spotify.com/album/3Oi4GcFh2f0m1UuyJMN9bm) | 3:15 | 2024-04-26 | 2024-05-03 |

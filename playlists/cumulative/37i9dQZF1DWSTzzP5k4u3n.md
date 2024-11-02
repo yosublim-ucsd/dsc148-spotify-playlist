@@ -4,7 +4,7 @@
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Viikate.
 
-205 songs - 12 hr 5 min
+206 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Epävarmuuden Vankila](https://open.spotify.com/track/04c6LKFI7nhvibijWHldeN) | [Monotonia](https://open.spotify.com/artist/2kvXNdmRbVNYPa42vlPG8N) | [Epävarmuuden Vankila](https://open.spotify.com/album/5R67rTcDI1I9DLqgPfNrjw) | 3:05 | 2024-07-02 |  |
 | [Fuck the system jne.](https://open.spotify.com/track/6Tg9S5JF3sL0CyVagebrsK) | [Riekko Salama](https://open.spotify.com/artist/2h2iwWOgXz3wArEh3StkJx) | [Fuck the system jne.](https://open.spotify.com/album/7DIuJBEAoyP21pMMXXf8hx) | 3:24 | 2024-10-24 |  |
 | [Haamukirjoitus](https://open.spotify.com/track/2VsChldNUjT45aH8Ag4jWi) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haamukirjoitus](https://open.spotify.com/album/7mmTem3c0cqFyED5zerjhk) | 3:10 | 2024-09-19 | 2024-10-25 |
-| [Haluaako Piepponen turpaan?](https://open.spotify.com/track/08jQ1OPwy0gJ6VrlWRPKH9) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haluaako Piepponen turpaan?](https://open.spotify.com/album/3va93w0LhqBOsmUUKmxmSg) | 3:32 | 2024-10-24 |  |
+| [Haluaako Piepponen turpaan?](https://open.spotify.com/track/08jQ1OPwy0gJ6VrlWRPKH9) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haluaako Piepponen turpaan?](https://open.spotify.com/album/3va93w0LhqBOsmUUKmxmSg) | 3:32 | 2024-10-24 | 2024-11-02 |
 | [Hei beibe mul on kliffaa](https://open.spotify.com/track/5iGu2nqwqXOjPDgFDMebTb) | [Kuolleet kuolleet](https://open.spotify.com/artist/4tEP52H8aXLzE6US4x0eDq) | [Hei beibe mul on kliffaa](https://open.spotify.com/album/5H3wENM3IvXIIGcdIQwUP6) | 2:46 | 2024-07-02 | 2024-08-09 |
 | [Hienoo kun oot](https://open.spotify.com/track/37kKYv6HwD8cnmZtSDQSOf) | [Anton Äikäs](https://open.spotify.com/artist/3RgGEK7y9UZFB74SiOgjuk) | [Hienoo kun oot](https://open.spotify.com/album/7G15WeW6VcXg3MCl7Di0GR) | 3:43 | 2024-09-26 |  |
 | [Himaan](https://open.spotify.com/track/1LKsPoSOacCODXxqmMuQxs) | [Haliseva](https://open.spotify.com/artist/47ZXoxgcQWLibUku23lS81) | [Nähdään taas jossain](https://open.spotify.com/album/4L956AqRp8yoAOzEg7WBvT) | 2:59 | 2024-09-19 |  |
@@ -192,6 +192,7 @@
 | [Trumped Up Nation](https://open.spotify.com/track/7rYHoFYBqUcLdYq3MV5VQc) | [Clarkkent](https://open.spotify.com/artist/0kZeUbyN7BV1pBfzxIfPhB) | [Trumped Up Nation](https://open.spotify.com/album/6gPobhCZEmmOTenwySKF3K) | 3:21 | 2024-07-02 | 2024-08-09 |
 | [Tuhat turhaa tarinaa](https://open.spotify.com/track/7nwyLGiHYB8AcNE0T7KNnU) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Tuhat turhaa tarinaa](https://open.spotify.com/album/0My37koWz1cJWJf3fwTV0R) | 3:00 | 2024-10-03 |  |
 | [Tuli\-Yango](https://open.spotify.com/track/7FbAIMEQjtdbf568zYC2PW) | [Panssarijuna](https://open.spotify.com/artist/06IqmaeYyii3Eo7KTISh7O) | [Tuli\-Yango](https://open.spotify.com/album/4ZLo0e6Ygx1rHswqtoFudS) | 4:09 | 2024-07-02 | 2024-09-13 |
+| [Tulvaniityt](https://open.spotify.com/track/356KJMSfmHLgahPGpz5E9i) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Hiljainen](https://open.spotify.com/album/51QXiCOMZIwTJw9TUfAEG2) | 3:23 | 2024-11-01 |  |
 | [Tuonelan tuulet](https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Tuonelan tuulet](https://open.spotify.com/album/1g0dAkEmeS4oKEQJQ8vLUC) | 2:55 | 2024-07-11 |  |
 | [Tyynylinna](https://open.spotify.com/track/1SumhOhn6LHywTuyRtaCU6) | [KIMBE](https://open.spotify.com/artist/5LIMapfAf5mgfAMoMjYeFA) | [Tyynylinna](https://open.spotify.com/album/16vnEbSVInNiijnpJkXvXR) | 3:12 | 2024-10-11 |  |
 | [Tänään lupaan \- Radio Edit](https://open.spotify.com/track/0hdo3lCErWLwfTxmidKVg3) | [HARMAA PARDON?](https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX) | [Tänään lupaan \(Radio Edit\)](https://open.spotify.com/album/02EdBP7yEBYEctENjIWSkg) | 3:07 | 2024-07-04 |  |

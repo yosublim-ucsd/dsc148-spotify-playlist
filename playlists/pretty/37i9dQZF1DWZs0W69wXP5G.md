@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover:  Eisa Davis & Lin\-Manuel Miranda
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,993 likes - 92 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,010 likes - 92 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

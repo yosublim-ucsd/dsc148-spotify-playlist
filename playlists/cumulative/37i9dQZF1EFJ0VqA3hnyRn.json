@@ -5414,10 +5414,32 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 150895,
       "name": "Winning (feat. Big Freedia)",
       "url": "https://open.spotify.com/track/4bDChuuLVtlFzhAIQpfo1O"
+    },
+    {
+      "album": {
+        "name": "CiCi",
+        "url": "https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150895,
+      "name": "Winning (feat. Big Freedia)",
+      "url": "https://open.spotify.com/track/71S0amxrIugHC94xfD9jLW"
     },
     {
       "album": {

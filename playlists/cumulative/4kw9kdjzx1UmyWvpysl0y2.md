@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-851 songs - 2 day 0 hr 29 min
+852 songs - 2 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Only Wide Open Space And Me](https://open.spotify.com/track/3g2vHR1LE5Buctsm2pLQdb) | [Andromedha](https://open.spotify.com/artist/1naIVJt93vo4NJ3UHT6O8q) | [Only Wide Open Space And Me](https://open.spotify.com/album/1wGPEIf0MeTsULFOwbT9zx) | 4:19 | 2022-07-20 | 2022-10-01 |
 | [Only You](https://open.spotify.com/track/4L6ZciTfXvf4XWzIch8sw9) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Only You](https://open.spotify.com/album/2MVqhgj8svqG19mBA0olva) | 4:16 | 2021-11-19 | 2022-01-29 |
 | [Open Spaces \- VIP](https://open.spotify.com/track/2uw8ZLH75sPysaON5hjXbd) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces \(VIP\)](https://open.spotify.com/album/2tUQDJh16INmIVaKv0uUOU) | 3:20 | 2024-07-05 | 2024-09-27 |
+| [Open The Pit](https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Open The Pit](https://open.spotify.com/album/5wiAY7ul5fy4xdzfKq9BV6) | 3:46 | 2024-11-01 |  |
 | [Other Side](https://open.spotify.com/track/5kj5GVUyYb5yXXtsbUeqpw) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Other Side](https://open.spotify.com/album/3luBggRjXhNlC2O3wQACop) | 2:30 | 2021-11-19 | 2022-01-27 |
 | [Other Side \- Factor B's In Loving Memory Remix](https://open.spotify.com/track/3QzeTO4Ylxcl8mAqjyUyHq) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [Factor B](https://open.spotify.com/artist/4OUavLWUepaSy6MNjkNS3g) | [Other Side \(Factor B's In Loving Memory Remix\)](https://open.spotify.com/album/3ABRbWCzvO0vaHLWflNJpE) | 7:56 | 2022-12-08 | 2023-03-09 |
 | [OUR STARS](https://open.spotify.com/track/5jKmm01l9eMLiQusd6qpKi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [OUR STARS](https://open.spotify.com/album/26T9baKkEEWN03XeiMSvvN) | 2:27 | 2024-04-29 | 2024-07-18 |

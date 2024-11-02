@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover:  COLLAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,386 likes - 401 songs - 1 day 0 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,388 likes - 401 songs - 1 day 0 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

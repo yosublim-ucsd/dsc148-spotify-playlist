@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Jirayut
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,454 likes - 87 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,453 likes - 87 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Matisse",
+  "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Thalia",
   "name": "Feliz Navidad",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 182042,
       "name": "Al Mundo Paz",
       "url": "https://open.spotify.com/track/4IlsOf3duyAvhJhfICiPJo"
@@ -180,6 +180,24 @@
       "duration_ms": 182042,
       "name": "Al Mundo Paz",
       "url": "https://open.spotify.com/track/72RCVgBervTpGb8cgPilKs"
+    },
+    {
+      "album": {
+        "name": "Navidad Melanc\u00f3lica",
+        "url": "https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167929,
+      "name": "Al Mundo Paz",
+      "url": "https://open.spotify.com/track/77E7lXHMVXgQmvpo5l4pLX"
     },
     {
       "album": {

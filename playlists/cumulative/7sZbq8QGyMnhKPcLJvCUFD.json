@@ -2313,6 +2313,28 @@
     },
     {
       "album": {
+        "name": "Cyberblade",
+        "url": "https://open.spotify.com/album/0wSb75pCK2ACn2QcdOsjrQ"
+      },
+      "artists": [
+        {
+          "name": "Max Brhon",
+          "url": "https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI"
+        },
+        {
+          "name": "Extra Terra",
+          "url": "https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191073,
+      "name": "Cyberblade",
+      "url": "https://open.spotify.com/track/1bwMhAZ9dzMcUgHot9IPsw"
+    },
+    {
+      "album": {
         "name": "Cybernetic",
         "url": "https://open.spotify.com/album/0lyxsdwiGOmGy9O9cYqsTE"
       },
@@ -5442,6 +5464,24 @@
       "duration_ms": 108750,
       "name": "high4aminute",
       "url": "https://open.spotify.com/track/30yzZdUB2IwJBPHT75z6wN"
+    },
+    {
+      "album": {
+        "name": "Hinterlands",
+        "url": "https://open.spotify.com/album/4rzEnGAJp4uWxc7h7Kn7fM"
+      },
+      "artists": [
+        {
+          "name": "Everen Maxwell",
+          "url": "https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263428,
+      "name": "Hinterlands",
+      "url": "https://open.spotify.com/track/6h3wPSFFiJ7owyARNu8op8"
     },
     {
       "album": {
@@ -8880,6 +8920,32 @@
       "duration_ms": 204006,
       "name": "Perfect 10",
       "url": "https://open.spotify.com/track/2MolFsdE7ydCQQgsmfvX6w"
+    },
+    {
+      "album": {
+        "name": "Perfection",
+        "url": "https://open.spotify.com/album/1SIzNOI2xtlOmv4MsdpwVw"
+      },
+      "artists": [
+        {
+          "name": "Mangoo",
+          "url": "https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3"
+        },
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        },
+        {
+          "name": "Derek Cate",
+          "url": "https://open.spotify.com/artist/6obanUFiN0hVgGy3Nng7FQ"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Perfection",
+      "url": "https://open.spotify.com/track/35uYMUD5cEofl6Z7g2T5x6"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: BINA. ",
-  "num_followers": 178215,
+  "num_followers": 178214,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,26 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Tyla",
+        "url": "https://open.spotify.com/album/2gpVnc299Vw2l5pqjSpHlt"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 134370,
+      "name": "Tyla",
+      "url": "https://open.spotify.com/track/2qzI2cIKKqMM7lCxbgRWFM"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "CHARLOTTE",
         "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 162920,
       "name": "Personal",
       "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Tyla",
-        "url": "https://open.spotify.com/album/2gpVnc299Vw2l5pqjSpHlt"
-      },
-      "artists": [
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 134370,
-      "name": "Tyla",
-      "url": "https://open.spotify.com/track/2qzI2cIKKqMM7lCxbgRWFM"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Prada or Celine",
+        "url": "https://open.spotify.com/album/2sE10E4MWavzGEUsrHEOPd"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        }
+      ],
+      "duration_ms": 140368,
+      "name": "Prada or Celine",
+      "url": "https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Bando Kid",
         "url": "https://open.spotify.com/album/3MJXXZKLhyhbnvNSYy44Xw"
       },
@@ -331,6 +347,22 @@
       "duration_ms": 197455,
       "name": "Bando Kid",
       "url": "https://open.spotify.com/track/6YgDbK0EEsKKi0uXWjLaAl"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "BEAST LIVING",
+        "url": "https://open.spotify.com/album/1Wiu5l7uF3O9kemS30SD8J"
+      },
+      "artists": [
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Same Place",
+      "url": "https://open.spotify.com/track/6yYkaXcKKlBZqftX5zstbw"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -355,22 +387,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "BEAST LIVING",
-        "url": "https://open.spotify.com/album/1Wiu5l7uF3O9kemS30SD8J"
-      },
-      "artists": [
-        {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Same Place",
-      "url": "https://open.spotify.com/track/6yYkaXcKKlBZqftX5zstbw"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Higher Life",
         "url": "https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 198032,
       "name": "Higher Life",
       "url": "https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Prada or Celine",
-        "url": "https://open.spotify.com/album/2sE10E4MWavzGEUsrHEOPd"
-      },
-      "artists": [
-        {
-          "name": "YT",
-          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
-        }
-      ],
-      "duration_ms": 140368,
-      "name": "Prada or Celine",
-      "url": "https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -563,18 +563,26 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
-        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
       "artists": [
         {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 169228,
-      "name": "vinland",
-      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
+      "duration_ms": 180014,
+      "name": "U GOTTA (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -591,6 +599,22 @@
       "duration_ms": 150733,
       "name": "Flight to Brazil",
       "url": "https://open.spotify.com/track/2nQhrGASooch4Uhzch6qZa"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
+        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "duration_ms": 169228,
+      "name": "vinland",
+      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -683,30 +707,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 180014,
-      "name": "U GOTTA (feat. Pharrell)",
-      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "ALL THE GIRLS",
         "url": "https://open.spotify.com/album/2WHnp1HHVNtnPBRRy24oTa"
       },
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
+        "name": "Spirit Box",
+        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 172338,
+      "name": "Let Me Cook",
+      "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
         "name": "Bring Me Up",
         "url": "https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz"
       },
@@ -759,6 +779,22 @@
       "duration_ms": 142299,
       "name": "Bring Me Up",
       "url": "https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "It Means Hope Where I'm From",
+        "url": "https://open.spotify.com/album/2UkbGCBsLryfOXua9EYrBc"
+      },
+      "artists": [
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Can't Be Sad",
+      "url": "https://open.spotify.com/track/0ibOvizonNcEZgAxBpLdwD"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -779,22 +815,6 @@
       "duration_ms": 164000,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "It Means Hope Where I'm From",
-        "url": "https://open.spotify.com/album/2UkbGCBsLryfOXua9EYrBc"
-      },
-      "artists": [
-        {
-          "name": "Bawo",
-          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Can't Be Sad",
-      "url": "https://open.spotify.com/track/0ibOvizonNcEZgAxBpLdwD"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -871,26 +891,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Spirit Box",
-        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        }
-      ],
-      "duration_ms": 172338,
-      "name": "Let Me Cook",
-      "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Jam Toast",
-        "url": "https://open.spotify.com/album/5H0UAwmSaSsgLcpdhkgAqt"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Jam Toast",
-      "url": "https://open.spotify.com/track/7kE2lk45qdnPKccuIhWkqE"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
         "name": "Get Me",
         "url": "https://open.spotify.com/album/0uATdxFoiP0PRKVDqJ6O7F"
       },
@@ -979,6 +963,38 @@
       "duration_ms": 167684,
       "name": "Get Me",
       "url": "https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "We Got Food At Home",
+        "url": "https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M"
+      },
+      "artists": [
+        {
+          "name": "Cap1talA",
+          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
+        }
+      ],
+      "duration_ms": 120409,
+      "name": "Won!",
+      "url": "https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Jam Toast",
+        "url": "https://open.spotify.com/album/5H0UAwmSaSsgLcpdhkgAqt"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Jam Toast",
+      "url": "https://open.spotify.com/track/7kE2lk45qdnPKccuIhWkqE"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "We Got Food At Home",
-        "url": "https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M"
+        "name": "Boss B*tch",
+        "url": "https://open.spotify.com/album/61IbVta6kRXQBoqEdVeizJ"
       },
       "artists": [
         {
-          "name": "Cap1talA",
-          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
         }
       ],
-      "duration_ms": 120409,
-      "name": "Won!",
-      "url": "https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt"
+      "duration_ms": 147605,
+      "name": "Boss B*tch",
+      "url": "https://open.spotify.com/track/0uMk3cDDhfJySp5tjoZ9fW"
     },
     {
       "added_at": "2024-11-01 00:00:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 189781,
       "name": "How Far",
       "url": "https://open.spotify.com/track/0brMxO7UrJkplRm1JhHhw8"
-    },
-    {
-      "added_at": "2024-11-01 00:00:00",
-      "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/1flhhR75WdB4QAjkLA7gb8"
-      },
-      "artists": [
-        {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
-        }
-      ],
-      "duration_ms": 157624,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/41Qqx0ZO35t2wRhgbaQ8mn"
     }
   ],
   "unique_name": "Free Form",

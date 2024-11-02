@@ -4,7 +4,7 @@
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: LAMOON
 
-1,870 songs - 4 day 13 hr 33 min
+1,871 songs - 4 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,6 +786,7 @@
 | [Không Phải Yêu](https://open.spotify.com/track/1KxwXUQALnxBmuVFQcjpEu) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ), [JDen](https://open.spotify.com/artist/7vIlZl7b0qIPmDW79WRzSy) | [Không Phải Yêu](https://open.spotify.com/album/7c9StykGfOBlQVLUWXrcXr) | 4:31 | 2023-06-06 | 2023-08-11 |
 | [Không Quan Trọng](https://open.spotify.com/track/5wuRY7Hf27dsLo1x1N3G7S) | [Tuệ Phương](https://open.spotify.com/artist/72RJ0YGU1V1AMr6E3lqeKV) | [Không Quan Trọng](https://open.spotify.com/album/53YslNYZytihQkES7SwY9t) | 3:35 | 2023-10-05 | 2023-10-13 |
 | [Không Thể Giữ Được Em](https://open.spotify.com/track/2hc79ZvMvnXhTyFL0W0jWU) | [Na](https://open.spotify.com/artist/2WP8403CFULh73tk5ZnRdj) | [Không Thể Giữ Được Em](https://open.spotify.com/album/53Zda61iq7FDVgJKvt4TQy) | 5:28 | 2022-01-06 | 2022-03-11 |
+| [Không Thể Ngưng Tiếc Nuối](https://open.spotify.com/track/33KDsFOe73vc0k6l2UMBl8) | [Hayho](https://open.spotify.com/artist/3fLHhjutcrdkn7R3hS1oxz), [Đàm Ngọc](https://open.spotify.com/artist/7lXxFcWVS3fgWf0X1zKldq) | [Không Thể Ngưng Tiếc Nuối](https://open.spotify.com/album/5up05XiKJNOX9otdF9sciD) | 3:35 | 2024-10-31 |  |
 | [Không Thể Ngừng Yêu](https://open.spotify.com/track/15ugVzPf6C8hFKFqBOX6vy) | [Horus](https://open.spotify.com/artist/6d2R4rHNuK06zYtCy13s13) | [Không Thể Ngừng Yêu](https://open.spotify.com/album/16gnIXSpSd6tnvO3Mgh284) | 2:37 | 2023-08-01 | 2023-10-20 |
 | [Không Xin Phép](https://open.spotify.com/track/6B29qaVL7qfm1T8hHdZq3n) | [Sáo](https://open.spotify.com/artist/0CkuQCslREF7yuvAqJXVuz) | [Không Xin Phép](https://open.spotify.com/album/0O5M2JYGQS1Sn2aBo0Mics) | 3:15 | 2023-11-12 | 2023-11-30 |
 | [Không Yêu Anh Đâu](https://open.spotify.com/track/2pT8biD835sNNbpExqoQey) | [Trang Hàn](https://open.spotify.com/artist/2gugq8LTugkTfMNQKiO7sK), [MTK](https://open.spotify.com/artist/7pcn7teH989aO0IXdbxk67) | [Không Yêu Anh Đâu](https://open.spotify.com/album/1YO7Ycf2Cq9HePmDtuHa8z) | 2:55 | 2023-04-16 | 2023-06-16 |

@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 ### [Jazz\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWUb0uBnlJuTi)
 
-> Jazz\. But funky\. Cover: Sly5thAve
+> Jazz\. But funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,183 likes - 200 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,312 likes - 200 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wonder Boy \- Audiotree Live Version](https://open.spotify.com/track/6QkWcBNgOfs4ue8I0qL7u9) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Huntertones on Audiotree Live](https://open.spotify.com/album/4wwenK3MApnh1R3ky0eaKT) | 4:46 |
-| 2 | [CHIPS & DIP \(EXTRA CHUNKY\)](https://open.spotify.com/track/5CcomoaWjlLHRg7VBOPIi0) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [CHIPS & DIP \(EXTRA CHUNKY\)](https://open.spotify.com/album/0jwlcFngQXwHdTVFNrnTm6) | 5:08 |
-| 3 | [Burning](https://open.spotify.com/track/7ru68qYGq300h0aC0icBOA) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Burning](https://open.spotify.com/album/7tCy6wL8s3hXKXAG6whYG6) | 3:19 |
-| 4 | [THAT'S ALRIGHT](https://open.spotify.com/track/3LzvaRYXRH2ayVehdVrUDZ) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [THAT'S ALRIGHT](https://open.spotify.com/album/1lePRTzq5rKtJf6Mfoog16) | 5:31 |
+| 1 | [ORGANICS](https://open.spotify.com/track/0PAF2exzV27bNk6YPikLt8) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [THE MAN](https://open.spotify.com/album/7LvM2OjHj4lqjkWjUOGN3t) | 3:25 |
+| 2 | [Wonder Boy \- Audiotree Live Version](https://open.spotify.com/track/6QkWcBNgOfs4ue8I0qL7u9) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Huntertones on Audiotree Live](https://open.spotify.com/album/4wwenK3MApnh1R3ky0eaKT) | 4:46 |
+| 3 | [CHIPS & DIP \(EXTRA CHUNKY\)](https://open.spotify.com/track/5CcomoaWjlLHRg7VBOPIi0) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [CHIPS & DIP \(EXTRA CHUNKY\)](https://open.spotify.com/album/0jwlcFngQXwHdTVFNrnTm6) | 5:08 |
+| 4 | [Burning](https://open.spotify.com/track/7ru68qYGq300h0aC0icBOA) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Burning](https://open.spotify.com/album/7tCy6wL8s3hXKXAG6whYG6) | 3:19 |
 | 5 | [50/50](https://open.spotify.com/track/5suoIKSYDiHYDIryo1Q8QX) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [50/50](https://open.spotify.com/album/1NxEX9a6UYppTCfSOr1Ldq) | 3:46 |
 | 6 | [Audio Bicycle Day](https://open.spotify.com/track/4lDY6ELuyvyReJJ3MWUxLT) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Grant Schroff](https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md), [Delvon Lamarr](https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR) | [Audio Bicycle Day](https://open.spotify.com/album/20LESRKaYkgillAMKMCzFy) | 5:41 |
 | 7 | [Silent Dancer](https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 5](https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN) | 4:10 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Feel The Bern \- Alt Take](https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Outtakes: 'Law of Attraction' Session](https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo) | 2:00 |
 | 200 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 |
 
-Snapshot ID: `ZuzzQAAAAAA5uSVLAKNdDLN8z7mWG1nc`
+Snapshot ID: `ZyRSQAAAAAATw649vGyhzVxwZ054XM4Y`

@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Resgate",
-  "num_followers": 140728,
+  "num_followers": 140751,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "Maranata (Trono)",
-        "url": "https://open.spotify.com/album/5LqVnPYwTlK5BPgK347wuw"
-      },
-      "artists": [
-        {
-          "name": "Igor Pinheiro de Lima",
-          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
-        },
-        {
-          "name": "Lari Lindstron",
-          "url": "https://open.spotify.com/artist/15JLGAUpRQL7mhsxj2CdDd"
-        }
-      ],
-      "duration_ms": 303775,
-      "name": "Maranata (Trono)",
-      "url": "https://open.spotify.com/track/607mQzTrTUaQCMyzSd5hQo"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
         "name": "Rei da Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 339580,
       "name": "Rei da Gl\u00f3ria",
       "url": "https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
+        "name": "Maranata (Trono)",
+        "url": "https://open.spotify.com/album/5LqVnPYwTlK5BPgK347wuw"
+      },
+      "artists": [
+        {
+          "name": "Igor Pinheiro de Lima",
+          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
+        },
+        {
+          "name": "Lari Lindstron",
+          "url": "https://open.spotify.com/artist/15JLGAUpRQL7mhsxj2CdDd"
+        }
+      ],
+      "duration_ms": 303775,
+      "name": "Maranata (Trono)",
+      "url": "https://open.spotify.com/track/607mQzTrTUaQCMyzSd5hQo"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "Falhas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
+        "name": "Cantem os Anjos",
+        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
       },
       "artists": [
         {
-          "name": "Daniel Juan",
-          "url": "https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH"
+          "name": "Minist\u00e9rio M3",
+          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
         }
       ],
-      "duration_ms": 379130,
-      "name": "Falhas - Ao Vivo",
-      "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
+      "duration_ms": 194533,
+      "name": "Cantem os Anjos",
+      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
+        "name": "Falhas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
+      },
+      "artists": [
+        {
+          "name": "Daniel Juan",
+          "url": "https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH"
+        }
+      ],
+      "duration_ms": 379130,
+      "name": "Falhas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
         "name": "Me Ensina a Seguir",
         "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
-        "name": "Cantem os Anjos",
-        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio M3",
-          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
+          "name": "Stone Band",
+          "url": "https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc"
         }
       ],
-      "duration_ms": 194533,
-      "name": "Cantem os Anjos",
-      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -843,22 +859,6 @@
       "duration_ms": 769852,
       "name": "Trindade",
       "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
-      },
-      "artists": [
-        {
-          "name": "Stone Band",
-          "url": "https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2024-10-25 15:01:44",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-10-25 15:01:44",
       "album": {
+        "name": "Quebre as Correntes",
+        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
+      },
+      "artists": [
+        {
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        }
+      ],
+      "duration_ms": 248348,
+      "name": "Quebre as Correntes",
+      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
+    },
+    {
+      "added_at": "2024-10-25 15:01:44",
+      "album": {
         "name": "All Your Days",
         "url": "https://open.spotify.com/album/43BrpODFYQ5nhPUL8mrtuG"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 290655,
       "name": "All Your Days",
       "url": "https://open.spotify.com/track/40J1TaiS7nLpfHbF0SBL4K"
-    },
-    {
-      "added_at": "2024-10-25 15:01:44",
-      "album": {
-        "name": "Quebre as Correntes",
-        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
-      },
-      "artists": [
-        {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
-        }
-      ],
-      "duration_ms": 248348,
-      "name": "Quebre as Correntes",
-      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
     },
     {
       "added_at": "2024-10-25 15:01:44",

@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 227441,
       "name": "August",
       "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 283687,
       "name": "Bobcaygeon",
       "url": "https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 234410,
       "name": "Cant Go Home",
       "url": "https://open.spotify.com/track/6QBjsyaQUJOGCy2lL62Qum"
@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Drunk Plans",
+        "url": "https://open.spotify.com/album/1XUGgp5grzRr4ZSZtPo2KQ"
+      },
+      "artists": [
+        {
+          "name": "Taylor-Rae",
+          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204696,
+      "name": "Drunk Plans",
+      "url": "https://open.spotify.com/track/2Ld8Skpij5LaTJ5jcjVUJD"
+    },
+    {
+      "album": {
         "name": "End Game",
         "url": "https://open.spotify.com/album/5uQoGeooNx3xA57poJGnRA"
       },
@@ -778,7 +796,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 227322,
       "name": "Flower Tattoos",
       "url": "https://open.spotify.com/track/64M1eOWdGnNTlkF4vKUmJ5"
@@ -868,7 +886,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 217441,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/0DoAoxKQmd4sKnY1p2EAyC"
@@ -890,6 +908,24 @@
       "duration_ms": 181426,
       "name": "Golden Rules",
       "url": "https://open.spotify.com/track/4cIpz9pVrZ0aaHWqAMMaW7"
+    },
+    {
+      "album": {
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/3TI9SGLtL24wm0sZTTLGFv"
+      },
+      "artists": [
+        {
+          "name": "Zachary Lucky",
+          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234426,
+      "name": "Good at Gettin' Gone",
+      "url": "https://open.spotify.com/track/1TVvBBJbngg3UIHMYieufG"
     },
     {
       "album": {
@@ -1236,7 +1272,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 194471,
       "name": "In Love With La",
       "url": "https://open.spotify.com/track/2lgWZMHYkOJG6695htHd5O"
@@ -1388,7 +1424,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 199574,
       "name": "Livin\u2019 My Life Like a Country Song",
       "url": "https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW"
@@ -1703,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Next To Me",
+        "url": "https://open.spotify.com/album/56EZ3QjVfDtzSUdag8ZHAG"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178240,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/0hDhVVVJWkT6HfAvZa5DbK"
+    },
+    {
+      "album": {
         "name": "Nobody Dies Anymore",
         "url": "https://open.spotify.com/album/7gCbxIpqSafuDrI7ixuMIr"
       },
@@ -1829,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "OVER",
+        "url": "https://open.spotify.com/album/0Zd8c1svsgoMCRmsudp0QS"
+      },
+      "artists": [
+        {
+          "name": "Taylor Jensen",
+          "url": "https://open.spotify.com/artist/71qpTPNujRocmQhpi5hcvF"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189406,
+      "name": "OVER",
+      "url": "https://open.spotify.com/track/6g9btCQhBFWNgOIJTTrRIh"
+    },
+    {
+      "album": {
         "name": "All Night Longer",
         "url": "https://open.spotify.com/album/0X9fkLvLhiBjbMigGPw3qw"
       },
@@ -1905,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "She's Me (Deluxe)",
+        "url": "https://open.spotify.com/album/4I31RC6Z6X5NJme5LG6jny"
+      },
+      "artists": [
+        {
+          "name": "Dayna Reid",
+          "url": "https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161543,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/3FALRV1NRKLvNYiWukGtZC"
+    },
+    {
+      "album": {
         "name": "Pure Country",
         "url": "https://open.spotify.com/album/1gZUQCyi5B18HGD0qbTSX8"
       },
@@ -1978,6 +2068,24 @@
       "duration_ms": 150549,
       "name": "Race To The Bottom",
       "url": "https://open.spotify.com/track/0H5DWpSg5JKBGCClsUpbeH"
+    },
+    {
+      "album": {
+        "name": "Ready To Roll",
+        "url": "https://open.spotify.com/album/4KgXYr3pUz7H0PMLLk3IrA"
+      },
+      "artists": [
+        {
+          "name": "The Redhill Valleys",
+          "url": "https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197043,
+      "name": "Ready To Roll",
+      "url": "https://open.spotify.com/track/6AepOgQoCRCenmlSii4H59"
     },
     {
       "album": {
@@ -2259,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "sometimes",
+        "url": "https://open.spotify.com/album/4BPPmUXxkL4Y03co7Mp3CD"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mitchell",
+          "url": "https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160535,
+      "name": "sometimes",
+      "url": "https://open.spotify.com/track/3NQhWulAjyPb9s9RYpJnY0"
+    },
+    {
+      "album": {
         "name": "Somewhere Tonight",
         "url": "https://open.spotify.com/album/7kyYOT9mx5VaYu8iVoIK57"
       },
@@ -2368,6 +2494,24 @@
       "duration_ms": 219136,
       "name": "That Was The Night",
       "url": "https://open.spotify.com/track/0EIPKmQbx9uRUEV4zDGk4P"
+    },
+    {
+      "album": {
+        "name": "Bruce County (From The Beginning)",
+        "url": "https://open.spotify.com/album/1LfbRC9L0MfNXSHZfX63hq"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299596,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/2eyhcmJHSEbdakGBBDsiqE"
     },
     {
       "album": {
@@ -2541,6 +2685,28 @@
     },
     {
       "album": {
+        "name": "El Viejo (Deluxe)",
+        "url": "https://open.spotify.com/album/1FcT67ew8L55yHnVeAjYHQ"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        },
+        {
+          "name": "Jaida Dreyer",
+          "url": "https://open.spotify.com/artist/35OJ5CJ1uS9gUas2RlDxmF"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191287,
+      "name": "Was Fort Worth Worth It? (Feat. Jaida Dreyer) - Bonus Track",
+      "url": "https://open.spotify.com/track/3bHoEZfTbxj0AsXx8zojDx"
+    },
+    {
+      "album": {
         "name": "Waste Of Space",
         "url": "https://open.spotify.com/album/1ZV6NU52nZL07pMVfncdCR"
       },
@@ -2570,7 +2736,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 237186,
       "name": "Water in the fuel",
       "url": "https://open.spotify.com/track/3dMnMAkB1zzSe9yZxaYGuA"
@@ -2798,7 +2964,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 212613,
       "name": "Wreckin' this Truck",
       "url": "https://open.spotify.com/track/6jtfr9qz4IGhopSc7iYHZR"

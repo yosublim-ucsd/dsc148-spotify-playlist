@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Cover: La cajera de Farmatodo",
+  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Rawayana & Akapellah",
   "name": "Made In Venezuela",
   "tracks": [
     {
@@ -1049,6 +1049,28 @@
     },
     {
       "album": {
+        "name": "SOTORIUS",
+        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "EL FAVORITO DE MAMI",
+      "url": "https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw"
+    },
+    {
+      "album": {
         "name": "El Peor",
         "url": "https://open.spotify.com/album/6Mvh9jth820sgXAxpzrUFT"
       },
@@ -1490,7 +1512,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 239488,
       "name": "La Vaca Mariposa (El Becerrito)",
       "url": "https://open.spotify.com/track/2W8sdlfr1p6TeWWZCIgcZl"

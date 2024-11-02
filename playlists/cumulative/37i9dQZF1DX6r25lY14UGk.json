@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Plim Plim Nursery Rhymes Vol. 12",
+        "url": "https://open.spotify.com/album/4GwWalF2tBiUe7jS7REqGv"
+      },
+      "artists": [
+        {
+          "name": "Plim Plim",
+          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132825,
+      "name": "Beach Song",
+      "url": "https://open.spotify.com/track/6J9cJ7yvqoefgqfLfNN9hG"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/1DIU4TxxG760gMCxDgOQgu"
       },
@@ -6662,6 +6680,24 @@
       "duration_ms": 151730,
       "name": "Making Friends",
       "url": "https://open.spotify.com/track/49tp9gV7tPuiwe57cJR1AJ"
+    },
+    {
+      "album": {
+        "name": "Making Friends - Kids Songs",
+        "url": "https://open.spotify.com/album/12GppSnyahAiuIVe3AHb8w"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139298,
+      "name": "Making Friends - Kids Songs",
+      "url": "https://open.spotify.com/track/4bysWFGZTzA8latnTUt2qT"
     },
     {
       "album": {

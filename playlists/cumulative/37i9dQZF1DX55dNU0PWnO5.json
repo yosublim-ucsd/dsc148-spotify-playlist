@@ -2755,6 +2755,32 @@
     },
     {
       "album": {
+        "name": "FallsLake",
+        "url": "https://open.spotify.com/album/3LJ5SPEuf0Iuw87Gsna7nZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Benny Bock",
+          "url": "https://open.spotify.com/artist/0whJ2FDPMvAL5DQaEox7RD"
+        },
+        {
+          "name": "Hans P. Kjorstad",
+          "url": "https://open.spotify.com/artist/5GUQyp5KqMspjfP1cuHtnc"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262373,
+      "name": "FallsLake",
+      "url": "https://open.spotify.com/track/55PDDJb5I9VMP50hcu2O0e"
+    },
+    {
+      "album": {
         "name": "Figures",
         "url": "https://open.spotify.com/album/6zoX5kJVZ6EaPtuUuyVpJc"
       },
@@ -3764,7 +3790,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 150712,
       "name": "IJ",
       "url": "https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl"
@@ -6259,6 +6285,32 @@
     },
     {
       "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/0K7qZlcArJtLm0PqNwFdfU"
+      },
+      "artists": [
+        {
+          "name": "eun",
+          "url": "https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r"
+        },
+        {
+          "name": "SMTHNGOOD",
+          "url": "https://open.spotify.com/artist/6UwT4pDjGSlegunFtmCPcf"
+        },
+        {
+          "name": "dhyno",
+          "url": "https://open.spotify.com/artist/68A1ZFG3MCIjch52VMXht8"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154840,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/61vVI6qo8zhw2OWM96ReDd"
+    },
+    {
+      "album": {
         "name": "The Emancipation Procrastination",
         "url": "https://open.spotify.com/album/37VcKBnyY3AwQCklkDvcHN"
       },
@@ -7578,7 +7630,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 169263,
       "name": "The Path",
       "url": "https://open.spotify.com/track/4Xr8WBVperOkz9VbNniPdZ"

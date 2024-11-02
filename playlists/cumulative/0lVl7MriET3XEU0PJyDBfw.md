@@ -4,7 +4,7 @@
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-401 songs - 21 hr 0 min
+401 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Everybody's Got to Learn Sometime](https://open.spotify.com/track/50ixUxOy4WLhdcUITYOyXo) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Everybody's Got to Learn Sometime](https://open.spotify.com/album/5233HXvjmNEuh5bwyOkzlt) | 3:13 | 2024-09-27 |  |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-12-31 | 2024-01-09 |
 | [Eyes On Me](https://open.spotify.com/track/3p4p8CUXlXF0LVbHbpfjgQ) | [RDGO](https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c) | [Eyes On Me](https://open.spotify.com/album/4cwhyVpGVDqVpHrWyWJzbG) | 2:35 | 2024-01-29 | 2024-06-24 |
-| [FACTS](https://open.spotify.com/track/3uezCj7xBPyNlBc6cBbtMU) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [FACTS](https://open.spotify.com/album/3YZSUqSHB8FgsfJH0Mgkg9) | 5:21 | 2024-10-28 |  |
+| [FACTS](https://open.spotify.com/track/3uezCj7xBPyNlBc6cBbtMU) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [FACTS](https://open.spotify.com/album/3YZSUqSHB8FgsfJH0Mgkg9) | 3:31 | 2024-10-28 |  |
 | [FactZ](https://open.spotify.com/track/0jo6v9ieGOo4wzGLOjE8Eo) | [Rich DietZ](https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8) | [FactZ](https://open.spotify.com/album/56n2tyEFB7ZebFkm9Ovvo0) | 2:20 | 2024-02-05 | 2024-06-24 |
 | [Fade Away](https://open.spotify.com/track/28ZowgKBdFIhbMxgjD7hEa) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [Fade Away](https://open.spotify.com/album/5Oh0X3gS86QPNqFbpYVTgA) | 3:03 | 2024-06-23 | 2024-08-20 |
 | [Famosa](https://open.spotify.com/track/7snldhGUYG6eEgtIPGfAyN) | [Sonora](https://open.spotify.com/artist/0W26vHOi02JAt4FlfrAbKn), [OFFMODE](https://open.spotify.com/artist/3YHr3uvjnJxpfv2G5UBsde) | [Famosa](https://open.spotify.com/album/6ezXO28rf4ZTOsR6dUUJoL) | 2:24 | 2024-10-12 |  |

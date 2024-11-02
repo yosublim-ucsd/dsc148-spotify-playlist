@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,975 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,979 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 49 | [Pray Before You Start Your Day \- Inspirational Mix 1](https://open.spotify.com/track/5ZOsNAgB6aY2b3Wj1QMNuB) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Izaiah James](https://open.spotify.com/artist/4wZUGoay4DsAjuNtHlpGfG) | [Pray Before You Start Your Day \(Inspirational Mixes\)](https://open.spotify.com/album/1VkwyoBGUQCaXaIwrA3f7m) | 2:27 |
 | 50 | [Today's Your Lucky Day](https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Nikko](https://open.spotify.com/artist/17Zl7UZpsaofiXvKockxNY) | [Today's Your Lucky Day](https://open.spotify.com/album/6SjGljHh3CyDsl7q9TR1K1) | 6:23 |
 
-Snapshot ID: `ZyF3AAAAAACQYaUrdI6JUpSCbnLagxk7`
+Snapshot ID: `ZyLIgAAAAAAIilky9VNLJFDNHcSSKBPG`

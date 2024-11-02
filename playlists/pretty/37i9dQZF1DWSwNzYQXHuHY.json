@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10020,
+  "num_followers": 10033,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "something between us (Romance 101 X george)",
-        "url": "https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 248076,
-      "name": "something between us (Romance 101 X george)",
-      "url": "https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
         "name": "Be Melodramatic (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 168492,
       "name": "Your Shampoo Scent In The Flowers",
       "url": "https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
+        "name": "something between us (Romance 101 X george)",
+        "url": "https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 248076,
+      "name": "something between us (Romance 101 X george)",
+      "url": "https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
+        "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
+        "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
+      },
+      "artists": [
+        {
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+        }
+      ],
+      "duration_ms": 191625,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -619,26 +635,6 @@
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
-        "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
-        "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
-      },
-      "artists": [
-        {
-          "name": "hiko",
-          "url": "https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM"
-        },
-        {
-          "name": "Hoody(\ud6c4\ub514)",
-          "url": "https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB"
-        }
-      ],
-      "duration_ms": 173124,
-      "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
-      "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -663,18 +659,22 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
-        "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
+        "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
+        "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
       },
       "artists": [
         {
-          "name": "Yun DDanDDan",
-          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+          "name": "hiko",
+          "url": "https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM"
+        },
+        {
+          "name": "Hoody(\ud6c4\ub514)",
+          "url": "https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB"
         }
       ],
-      "duration_ms": 191625,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
+      "duration_ms": 173124,
+      "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
+      "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Something Precious",
-      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
         "name": "Friends to lovers",
         "url": "https://open.spotify.com/album/6LyqBkl3PbTOKWcflwXOli"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "Love Diary (Back to You X Lee MinHyuk)",
-        "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
+        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
       },
       "artists": [
         {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
         }
       ],
-      "duration_ms": 230853,
-      "name": "Love Diary (Back to You X Lee MinHyuk)",
-      "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
+      "duration_ms": 209866,
+      "name": "Something Precious",
+      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -819,6 +803,22 @@
       "duration_ms": 169599,
       "name": "how can i do (Feat. YooJeong)",
       "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
+        "name": "Love Diary (Back to You X Lee MinHyuk)",
+        "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Love Diary (Back to You X Lee MinHyuk)",
+      "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
     },
     {
       "added_at": "2024-10-08 11:10:23",

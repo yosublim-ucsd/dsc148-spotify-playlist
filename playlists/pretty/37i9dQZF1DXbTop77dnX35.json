@@ -1,6 +1,6 @@
 {
   "description": "New Music from Davido, YG Marley  and more ",
-  "num_followers": 82740,
+  "num_followers": 83075,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
       "duration_ms": 138352,
       "name": "Awolowo - Remix",
       "url": "https://open.spotify.com/track/1SDOo6cNNrvarL9wqEVAJT"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 138323,
+      "name": "Chill Bae",
+      "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -151,6 +167,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
+        "name": "Stand By You x Irreplaceable",
+        "url": "https://open.spotify.com/album/21j7npxTdQdAwn7ihMkgks"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "duration_ms": 153815,
+      "name": "Stand By You",
+      "url": "https://open.spotify.com/track/08HwJE2HQ74uQi8FzywgQ5"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
         "name": "Lala",
         "url": "https://open.spotify.com/album/2WPJ0fdJMqrr399s5ZoY7M"
       },
@@ -187,6 +219,26 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/5IcsHifVLGG0emBPlMZacj"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 183919,
+      "name": "SOUTH OF FRANCE - REMIX",
+      "url": "https://open.spotify.com/track/5BjYmIIW8NIwItLPGjqKqP"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K"
       },
@@ -199,6 +251,22 @@
       "duration_ms": 179266,
       "name": "One By One",
       "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "Fear When You Fly",
+        "url": "https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 220104,
+      "name": "Fear When You Fly",
+      "url": "https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -364,8 +432,8 @@
           "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
         },
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3ErqtkEiZ8OLxkzjBo0Dpa"
+          "name": "Yo Maps",
+          "url": "https://open.spotify.com/artist/6ctMiUYEAd4cy0CaH355Hk"
         },
         {
           "name": "Kontakt",

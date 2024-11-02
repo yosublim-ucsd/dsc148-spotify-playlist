@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-232 songs - 12 hr 36 min
+234 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Kura Kura](https://open.spotify.com/track/3sroak7dIqGRGmC6VQVDtg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:47 | 2022-03-24 |  |
 | [LAST WALTZ](https://open.spotify.com/track/1Gh4fJxW4T9idXKqiMffJ6) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 2:50 | 2022-03-24 |  |
 | [LAST WALTZ](https://open.spotify.com/track/39kH6C2twlYjyssIW02sbr) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 2:50 | 2022-07-19 | 2024-04-19 |
+| [Lazy Baby \(Feat\. pH\-1\)](https://open.spotify.com/track/7CYnDrufyGMIHCMGVZ3usQ) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 2:42 | 2024-11-01 |  |
 | [Like Ooh\-Ahh](https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Story Begins](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) | 3:35 | 2022-07-19 | 2024-04-19 |
 | [Like Ooh\-Ahh](https://open.spotify.com/track/3i01M7jnvBYrhG6YnAqCdC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Story Begins](https://open.spotify.com/album/2vsOT4A0aFm0HoLMfAZrng) | 3:35 | 2022-03-24 |  |
 | [Likey](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicetagram](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | 3:27 | 2022-07-19 | 2024-04-19 |
@@ -167,6 +168,7 @@
 | [REAL YOU](https://open.spotify.com/track/6RE7FVgSlMCHvDRX3lCID2) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:07 | 2022-03-24 |  |
 | [REWIND](https://open.spotify.com/track/48IF5DE7gZHLnv6znEIGAP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:00 | 2022-03-24 |  |
 | [REWIND](https://open.spotify.com/track/4BBnKqIS2pj2hX0zm0CZZx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:00 | 2022-07-19 | 2024-04-19 |
+| [Run Away](https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 3:18 | 2024-11-01 |  |
 | [RUSH](https://open.spotify.com/track/366hct4ncFRf5TOvEjMVuf) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 2:36 | 2024-02-23 |  |
 | [SAY SOMETHING](https://open.spotify.com/track/2FD1OIYpzEf9y2Z6S8hgJu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 4:07 | 2022-03-24 |  |
 | [SAY SOMETHING](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 4:07 | 2022-07-19 | 2024-04-19 |

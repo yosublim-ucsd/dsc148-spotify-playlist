@@ -6,24 +6,8 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAACV6QXVqlgZkXqGpQLBcP+FzYtPlNy",
+  "snapshot_id": "AAACZ+7zS7qcgPuct4rnHWAeuyLXGd+O",
   "tracks": [
-    {
-      "added_at": "2024-09-27 19:23:05",
-      "album": {
-        "name": "Trouble At The Henhouse",
-        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Ahead By A Century",
-      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
-    },
     {
       "added_at": "2024-10-11 14:17:24",
       "album": {
@@ -55,6 +39,54 @@
       "duration_ms": 408690,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6"
+    },
+    {
+      "added_at": "2024-11-01 13:35:15",
+      "album": {
+        "name": "Weezer 30 (Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/2WBXvIfpIybjK1RSZKakrR"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 263093,
+      "name": "Undone - The Sweater Song - Acoustic / Live At Greater London Radio - January 26, 1995",
+      "url": "https://open.spotify.com/track/6iMUwDw44JlYWoClkz3x1u"
+    },
+    {
+      "added_at": "2024-11-01 13:36:20",
+      "album": {
+        "name": "King Of America & Other Realms (Super Deluxe / 2024 Remaster)",
+        "url": "https://open.spotify.com/album/7MkPAc92bB8Narc9jcy7Sf"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 419960,
+      "name": "Brilliant Mistake / Boulevard Of Broken Dreams - Cape Fear Version",
+      "url": "https://open.spotify.com/track/18SDltYnwj0pKzQnefdgHC"
+    },
+    {
+      "added_at": "2024-11-01 13:35:24",
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "The Man Who Sold The World - Live",
+      "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
     },
     {
       "added_at": "2024-10-25 14:52:06",
@@ -93,24 +125,36 @@
       "url": "https://open.spotify.com/track/1zOJvOAzlLUtBDAHXwOBbn"
     },
     {
-      "added_at": "2024-10-25 14:52:59",
+      "added_at": "2024-10-18 09:31:16",
       "album": {
-        "name": "L.A. Is My Lady (Deluxe Edition / 2024 Mix)",
-        "url": "https://open.spotify.com/album/4Ca98FQtAMzv5h1SiFZjX8"
+        "name": "Long After Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 196493,
-      "name": "L.A. Is My Lady - 2024 Mix",
-      "url": "https://open.spotify.com/track/1ICfHpchiAJ9jfClA4hzHu"
+      "duration_ms": 235213,
+      "name": "Never Be You",
+      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
+    },
+    {
+      "added_at": "2024-11-01 13:34:24",
+      "album": {
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Drawbridge & The Baroness",
+      "url": "https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW"
     },
     {
       "added_at": "2024-10-25 14:53:19",
@@ -131,22 +175,6 @@
       "duration_ms": 551970,
       "name": "Cosmic Love - BBC Proms at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/2aisf4mcN6SdM2Z4Pjekb2"
-    },
-    {
-      "added_at": "2024-10-18 09:31:16",
-      "album": {
-        "name": "Long After Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Never Be You",
-      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
     },
     {
       "added_at": "2024-10-18 09:26:23",
@@ -289,22 +317,6 @@
       "url": "https://open.spotify.com/track/4hi07BHBhWkgDNws5Kbbq8"
     },
     {
-      "added_at": "2024-10-18 09:26:41",
-      "album": {
-        "name": "Joyful Rebel Lion+",
-        "url": "https://open.spotify.com/album/0JtLoKQeVLTo2WLHEKC4KE"
-      },
-      "artists": [
-        {
-          "name": "K-OS",
-          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "The Bed's Too Big Without You - Radio Edit",
-      "url": "https://open.spotify.com/track/3JKIJDzkwt9ncqWSPqqTTe"
-    },
-    {
       "added_at": "2024-10-18 09:26:55",
       "album": {
         "name": "Time On My Hands",
@@ -351,6 +363,22 @@
       "duration_ms": 236933,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
+    },
+    {
+      "added_at": "2024-10-18 09:26:41",
+      "album": {
+        "name": "Joyful Rebel Lion+",
+        "url": "https://open.spotify.com/album/0JtLoKQeVLTo2WLHEKC4KE"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "The Bed's Too Big Without You - Radio Edit",
+      "url": "https://open.spotify.com/track/3JKIJDzkwt9ncqWSPqqTTe"
     },
     {
       "added_at": "2024-09-27 19:23:05",
@@ -423,38 +451,6 @@
     {
       "added_at": "2024-09-27 19:23:05",
       "album": {
-        "name": "Undone - The Sweater Song (Third Practice - February 17, 1992)",
-        "url": "https://open.spotify.com/album/3GdrCN0UEBdlvSmD730Wm5"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Undone - The Sweater Song - Third Practice - February 17, 1992",
-      "url": "https://open.spotify.com/track/0PXBZRk6FrXzzxJfAkmHhd"
-    },
-    {
-      "added_at": "2024-09-27 19:23:05",
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 305533,
-      "name": "Undone - The Sweater Song",
-      "url": "https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV"
-    },
-    {
-      "added_at": "2024-09-27 19:23:05",
-      "album": {
         "name": "Can We Fix Our Nation's Broken Heart",
         "url": "https://open.spotify.com/album/0xnIaAMnfjEyt6Vxs4DxXK"
       },
@@ -487,6 +483,22 @@
       "duration_ms": 265846,
       "name": "The People's House (with The War And Treaty)",
       "url": "https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9"
+    },
+    {
+      "added_at": "2024-09-27 19:23:05",
+      "album": {
+        "name": "Trouble At The Henhouse",
+        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Ahead By A Century",
+      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
     },
     {
       "added_at": "2024-09-27 19:23:05",
@@ -911,6 +923,26 @@
       "duration_ms": 234154,
       "name": "How Do You Keep The Music Playing? - Bob Florence Arrangement - 5/17/84",
       "url": "https://open.spotify.com/track/5vXfb0UVQxUou3HKzlpLnR"
+    },
+    {
+      "added_at": "2024-10-25 14:52:59",
+      "album": {
+        "name": "L.A. Is My Lady (Deluxe Edition / 2024 Mix)",
+        "url": "https://open.spotify.com/album/4Ca98FQtAMzv5h1SiFZjX8"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "L.A. Is My Lady - 2024 Mix",
+      "url": "https://open.spotify.com/track/1ICfHpchiAJ9jfClA4hzHu"
     },
     {
       "added_at": "2024-09-27 19:23:05",

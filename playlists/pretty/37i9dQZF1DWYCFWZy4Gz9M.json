@@ -1,6 +1,6 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 62541,
+  "num_followers": 62559,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
-        "name": "Guembrified",
-        "url": "https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        }
-      ],
-      "duration_ms": 234413,
-      "name": "Guembrified",
-      "url": "https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn"
-    },
-    {
-      "added_at": "2024-10-14 07:27:16",
-      "album": {
         "name": "Gnawa Home Songs",
         "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 44986,
       "name": "Katib Allah",
       "url": "https://open.spotify.com/track/2govhtf5ki65fhzPo54r8x"
+    },
+    {
+      "added_at": "2024-10-14 07:27:16",
+      "album": {
+        "name": "Guembrified",
+        "url": "https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        }
+      ],
+      "duration_ms": 234413,
+      "name": "Guembrified",
+      "url": "https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn"
     },
     {
       "added_at": "2024-10-14 07:27:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
-      },
-      "artists": [
-        {
-          "name": "Amida Boussou",
-          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "Boulila",
-      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
-    },
-    {
-      "added_at": "2024-10-14 07:27:16",
-      "album": {
         "name": "Gnawa Fusion, Vol. 1",
         "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 312581,
       "name": "Soudani",
       "url": "https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV"
+    },
+    {
+      "added_at": "2024-10-14 07:27:16",
+      "album": {
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+      },
+      "artists": [
+        {
+          "name": "Amida Boussou",
+          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "Boulila",
+      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
     },
     {
       "added_at": "2024-10-14 07:27:16",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
-        "name": "Gnawa Fusion, Vol. 4",
-        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
-        }
-      ],
-      "duration_ms": 534987,
-      "name": "La Illaha Illa Allah",
-      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
-    },
-    {
-      "added_at": "2024-10-14 07:27:16",
-      "album": {
         "name": "Gnawa Home Songs",
         "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 417666,
       "name": "Hamadi",
       "url": "https://open.spotify.com/track/5iTnwSlkwGr0HX125tsfFR"
+    },
+    {
+      "added_at": "2024-10-14 07:27:16",
+      "album": {
+        "name": "Gnawa Fusion, Vol. 4",
+        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+        }
+      ],
+      "duration_ms": 534987,
+      "name": "La Illaha Illa Allah",
+      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
     },
     {
       "added_at": "2024-10-14 07:27:16",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
+        "name": "Jah Gnawi",
+        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Impulse",
+          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
+        }
+      ],
+      "duration_ms": 245097,
+      "name": "Lalla Mira - Jan Rase Remix",
+      "url": "https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W"
+    },
+    {
+      "added_at": "2024-10-14 07:27:16",
+      "album": {
         "name": "Safi",
         "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 309000,
       "name": "Mister X",
       "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
-    },
-    {
-      "added_at": "2024-10-14 07:27:16",
-      "album": {
-        "name": "Jah Gnawi",
-        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Impulse",
-          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
-        }
-      ],
-      "duration_ms": 245097,
-      "name": "Lalla Mira - Jan Rase Remix",
-      "url": "https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W"
     },
     {
       "added_at": "2024-10-14 07:27:16",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
-        "name": "Jah Gnawi",
-        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Impulse",
-          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
-        }
-      ],
-      "duration_ms": 353811,
-      "name": "Gnawi Baba Mimoun - Jan Rase Remix",
-      "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
-    },
-    {
-      "added_at": "2024-10-14 07:27:16",
-      "album": {
         "name": "Gnawa Njoum Experience",
         "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
       },
@@ -775,6 +759,42 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
+        "name": "Jah Gnawi",
+        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Impulse",
+          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
+        }
+      ],
+      "duration_ms": 353811,
+      "name": "Gnawi Baba Mimoun - Jan Rase Remix",
+      "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
+    },
+    {
+      "added_at": "2024-10-14 07:27:16",
+      "album": {
+        "name": "King Of Gnawa",
+        "url": "https://open.spotify.com/album/5pjwENIKs1xLXLWXPQINCq"
+      },
+      "artists": [
+        {
+          "name": "SEYSEY",
+          "url": "https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU"
+        },
+        {
+          "name": "Tariq Hmitti",
+          "url": "https://open.spotify.com/artist/4VfCms8XPx6e5diHuVrRaH"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Yalla Y\u00e9",
+      "url": "https://open.spotify.com/track/5Mm7HIvY2KsD5W6TqOQue4"
+    },
+    {
+      "added_at": "2024-10-14 07:27:16",
+      "album": {
         "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
         "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
       },
@@ -807,22 +827,6 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
-        "name": "Marrakech Undermoon: The Black Album, Vol. 2a",
-        "url": "https://open.spotify.com/album/4kerOs40h4AzoV7sjOYrDn"
-      },
-      "artists": [
-        {
-          "name": "The Sons of the Moon-Ouled Kamar",
-          "url": "https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl"
-        }
-      ],
-      "duration_ms": 410573,
-      "name": "Mimouna Gnawa",
-      "url": "https://open.spotify.com/track/7ahy3fhvPApYDTYtI8jHJN"
-    },
-    {
-      "added_at": "2024-10-14 07:27:16",
-      "album": {
         "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
         "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
       },
@@ -835,6 +839,22 @@
       "duration_ms": 201773,
       "name": "Fangara Fangari\u00e9 - Ouled Bambara",
       "url": "https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9"
+    },
+    {
+      "added_at": "2024-10-14 07:27:16",
+      "album": {
+        "name": "Marrakech Undermoon: The Black Album, Vol. 2a",
+        "url": "https://open.spotify.com/album/4kerOs40h4AzoV7sjOYrDn"
+      },
+      "artists": [
+        {
+          "name": "The Sons of the Moon-Ouled Kamar",
+          "url": "https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl"
+        }
+      ],
+      "duration_ms": 410573,
+      "name": "Mimouna Gnawa",
+      "url": "https://open.spotify.com/track/7ahy3fhvPApYDTYtI8jHJN"
     },
     {
       "added_at": "2024-10-14 07:27:16",
@@ -855,22 +875,6 @@
       "duration_ms": 379744,
       "name": "Baniya",
       "url": "https://open.spotify.com/track/0dL5X4UqGdw2jt3DNDUj6T"
-    },
-    {
-      "added_at": "2024-10-14 07:27:16",
-      "album": {
-        "name": "Gnawa - Sahara Desert Music",
-        "url": "https://open.spotify.com/album/0oOMF0xYlNdAgtgOlchO0P"
-      },
-      "artists": [
-        {
-          "name": "Ben Souda Group",
-          "url": "https://open.spotify.com/artist/1cmi0pd20tMWGMJKmaC81l"
-        }
-      ],
-      "duration_ms": 546400,
-      "name": "Moussa bahri",
-      "url": "https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O"
     }
   ],
   "unique_name": "Gnawa Music",

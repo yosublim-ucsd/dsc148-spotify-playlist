@@ -2975,6 +2975,32 @@
     },
     {
       "album": {
+        "name": "End Of Me",
+        "url": "https://open.spotify.com/album/279119bhxgIgHoojZ5wZWV"
+      },
+      "artists": [
+        {
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+        },
+        {
+          "name": "Lucien",
+          "url": "https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod"
+        },
+        {
+          "name": "Zen Waves",
+          "url": "https://open.spotify.com/artist/3cb1iTN6ukqRjCpbu4y8ia"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "End Of Me",
+      "url": "https://open.spotify.com/track/2nxcHeBNJSsHc0wwrUn53s"
+    },
+    {
+      "album": {
         "name": "End of The World",
         "url": "https://open.spotify.com/album/2ZqZK4UOYPTFelGCg10B9s"
       },
@@ -9047,6 +9073,28 @@
     },
     {
       "album": {
+        "name": "only you",
+        "url": "https://open.spotify.com/album/0q5VAnF36O5CfCGPYsb8Og"
+      },
+      "artists": [
+        {
+          "name": "Pablo Leo",
+          "url": "https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9"
+        },
+        {
+          "name": "nunsi",
+          "url": "https://open.spotify.com/artist/0ko8WZ1htClMmTyjMG9ARi"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "only you",
+      "url": "https://open.spotify.com/track/1ADFFBf4Bwq0xZduQ7SRc3"
+    },
+    {
+      "album": {
         "name": "Open My Heart",
         "url": "https://open.spotify.com/album/2u3djXi2f4WrUdAA7YyqqL"
       },
@@ -10434,6 +10482,28 @@
       "duration_ms": 178235,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/0rMuFOja3DhVSuXQeae25C"
+    },
+    {
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/6qnNL37RrTFrc63BZXAqVu"
+      },
+      "artists": [
+        {
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170303,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/24dat5FuBrBOtXNcxygpny"
     },
     {
       "album": {

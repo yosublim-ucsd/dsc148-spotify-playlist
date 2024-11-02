@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Big Soto (Mexa de honor) en portada.",
+  "description": "Bienvenidx a la trampa mexa. El Makabelico en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -3850,7 +3850,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 211138,
       "name": "LPKD",
       "url": "https://open.spotify.com/track/5eo4xwCfGFqwCUyIatfe61"
@@ -5076,7 +5076,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 249528,
       "name": "PD20",
       "url": "https://open.spotify.com/track/0ZuxI7n2hlyyG6qAZ08C4H"
@@ -5837,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "Sagrado Reba\u00f1o",
+        "url": "https://open.spotify.com/album/10hPJMw7P7fzkzhxwnm7Uu"
+      },
+      "artists": [
+        {
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305390,
+      "name": "Sagrado Reba\u00f1o",
+      "url": "https://open.spotify.com/track/5BQJenwhbHZC5owu6kVzyE"
+    },
+    {
+      "album": {
         "name": "SAMBA DRIFT",
         "url": "https://open.spotify.com/album/1mAsj20ARuTB9fMI6gDntL"
       },
@@ -6468,6 +6486,24 @@
       "duration_ms": 182400,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/2rWrjWEG90FvokHkyLPip3"
+    },
+    {
+      "album": {
+        "name": "UK London",
+        "url": "https://open.spotify.com/album/1UJ6KgprTMBpaiVc6AT1kt"
+      },
+      "artists": [
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "UK London",
+      "url": "https://open.spotify.com/track/1RPYiPrkxGUbZqa1xRtcgS"
     },
     {
       "album": {

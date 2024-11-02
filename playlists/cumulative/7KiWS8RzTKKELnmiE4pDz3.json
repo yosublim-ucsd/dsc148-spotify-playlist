@@ -7729,6 +7729,24 @@
     },
     {
       "album": {
+        "name": "Louis V Everything!",
+        "url": "https://open.spotify.com/album/59TP9qgdbF9qPaoopKLyb9"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140851,
+      "name": "Louis V Everything!",
+      "url": "https://open.spotify.com/track/1YEmp5J2h3dUJg98dFGMnr"
+    },
+    {
+      "album": {
         "name": "Paper Route Frank",
         "url": "https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S"
       },

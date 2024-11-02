@@ -1,6 +1,6 @@
 {
   "description": "The best voices in R&B. Cover: Elmiene",
-  "num_followers": 219541,
+  "num_followers": 219595,
   "original_name": "Riffs & Runs",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZyQaAAAAAAAVWtCyHKKQ797ckO9MwgUv",
   "tracks": [
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "Fear When You Fly",
+        "url": "https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 220104,
+      "name": "Fear When You Fly",
+      "url": "https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0"
+    },
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
@@ -167,7 +183,7 @@
     {
       "added_at": "2024-11-01 00:00:00",
       "album": {
-        "name": "Crocodile Tears",
+        "name": "Crocodile Tears (feat. Chase Shakur)",
         "url": "https://open.spotify.com/album/5LZIpzVMyVceRxkVfLv34k"
       },
       "artists": [
@@ -181,7 +197,7 @@
         }
       ],
       "duration_ms": 193817,
-      "name": "Crocodile Tears",
+      "name": "Crocodile Tears (feat. Chase Shakur)",
       "url": "https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg"
     },
     {

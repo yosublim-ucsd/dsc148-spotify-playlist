@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
-  "num_followers": 176254,
+  "num_followers": 176384,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Everything Squared",
-        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 331916,
-      "name": "Multifolds",
-      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
-    },
-    {
       "added_at": "2024-08-07 03:33:24",
       "album": {
         "name": "Do Something!",
@@ -259,6 +243,22 @@
       "duration_ms": 131660,
       "name": "Do Something!",
       "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Everything Squared",
+        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 331916,
+      "name": "Multifolds",
+      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
     },
     {
       "added_at": "2024-10-02 18:17:59",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/5O0NtSxrPa8nNCMrPqyxrQ"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/4uAMrL2VP2EYpDR16HTbyI"
-      },
-      "artists": [
-        {
-          "name": "Lava Gulls",
-          "url": "https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t"
-        }
-      ],
-      "duration_ms": 224552,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/1TelNX4qCZJ9RukqQN35rD"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "All good?",
@@ -563,6 +547,22 @@
       "duration_ms": 483180,
       "name": "be a",
       "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/4uAMrL2VP2EYpDR16HTbyI"
+      },
+      "artists": [
+        {
+          "name": "Lava Gulls",
+          "url": "https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t"
+        }
+      ],
+      "duration_ms": 224552,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/1TelNX4qCZJ9RukqQN35rD"
     },
     {
       "added_at": "2024-10-16 02:02:35",
@@ -597,26 +597,6 @@
       "url": "https://open.spotify.com/track/3DLzc0JZmHUbf5WbbZs10e"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Aprender a Ser: Extended",
-        "url": "https://open.spotify.com/album/0mYAqeT6oxqrGv1mnt56zN"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "El mar me ve\u00eda",
-      "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
-    },
-    {
       "added_at": "2024-10-16 02:02:35",
       "album": {
         "name": "Nocturnos",
@@ -635,6 +615,26 @@
       "duration_ms": 327750,
       "name": "Teclas P\u00e1lidas",
       "url": "https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Aprender a Ser: Extended",
+        "url": "https://open.spotify.com/album/0mYAqeT6oxqrGv1mnt56zN"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "El mar me ve\u00eda",
+      "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/0fcstqCLW7NLjqfsIgD1fw"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Circle Games",
-        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 217475,
-      "name": "Junkie",
-      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Forest Drone",
@@ -775,6 +759,22 @@
       "duration_ms": 287976,
       "name": "Forest Drone",
       "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Circle Games",
+        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 217475,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 280500,
-      "name": "Maracuja Lounge",
-      "url": "https://open.spotify.com/track/5155fLceNWyzwO0Q67dkln"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "retrofit",
@@ -833,20 +817,20 @@
       "url": "https://open.spotify.com/track/2naYWFOkEHp1u5DrbdKC0P"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Blue Note",
-        "url": "https://open.spotify.com/album/7GENUOcqMkxVUumg6TzSLw"
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
       },
       "artists": [
         {
-          "name": "Tanhai Collective",
-          "url": "https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73"
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
         }
       ],
-      "duration_ms": 191124,
-      "name": "Blue Note",
-      "url": "https://open.spotify.com/track/3ukcMPzV23eKxUKLmQQtEZ"
+      "duration_ms": 280500,
+      "name": "Maracuja Lounge",
+      "url": "https://open.spotify.com/track/5155fLceNWyzwO0Q67dkln"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -863,6 +847,22 @@
       "duration_ms": 163088,
       "name": "Inside Confusion",
       "url": "https://open.spotify.com/track/6x2enwmI4i1YppL8AL1GTZ"
+    },
+    {
+      "added_at": "2024-09-18 04:00:00",
+      "album": {
+        "name": "Blue Note",
+        "url": "https://open.spotify.com/album/7GENUOcqMkxVUumg6TzSLw"
+      },
+      "artists": [
+        {
+          "name": "Tanhai Collective",
+          "url": "https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73"
+        }
+      ],
+      "duration_ms": 191124,
+      "name": "Blue Note",
+      "url": "https://open.spotify.com/track/3ukcMPzV23eKxUKLmQQtEZ"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/3PyI7m3K7HY5XjMqjPw4XF"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Hailu",
-        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
-      },
-      "artists": [
-        {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Baraka",
-      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
-    },
-    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "hope's return",
@@ -947,6 +931,22 @@
       "duration_ms": 103250,
       "name": "hope's return",
       "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Hailu",
+        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -997,22 +997,6 @@
       "url": "https://open.spotify.com/track/63xuCdSClTjX06vguT7yZB"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Panamanian Nights",
-        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
-      },
-      "artists": [
-        {
-          "name": "SONSO",
-          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Afro American",
-      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "EXCELSIOR",
@@ -1027,6 +1011,22 @@
       "duration_ms": 65471,
       "name": "Arms, Armor",
       "url": "https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Panamanian Nights",
+        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
+      },
+      "artists": [
+        {
+          "name": "SONSO",
+          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Afro American",
+      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Should I Be Worried",
-        "url": "https://open.spotify.com/album/7Hbybc8aBnwWCt4prnzsbg"
-      },
-      "artists": [
-        {
-          "name": "Theredone",
-          "url": "https://open.spotify.com/artist/5HEGP5hrwkTrMgIo7BMmTn"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Earth to Moon",
-      "url": "https://open.spotify.com/track/0NRHx59VAYHUhBBTzFxTTF"
-    },
-    {
       "added_at": "2024-03-20 13:59:17",
       "album": {
         "name": "L4TA",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "Pokemans",
-        "url": "https://open.spotify.com/album/1dpMryDJlXKZzmLyahGCEi"
+        "name": "Should I Be Worried",
+        "url": "https://open.spotify.com/album/7Hbybc8aBnwWCt4prnzsbg"
       },
       "artists": [
         {
-          "name": "Anna Butterss",
-          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+          "name": "Theredone",
+          "url": "https://open.spotify.com/artist/5HEGP5hrwkTrMgIo7BMmTn"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Pokemans",
-      "url": "https://open.spotify.com/track/3QLQJLs8WjbwnYUer3HEoP"
+      "duration_ms": 265746,
+      "name": "Earth to Moon",
+      "url": "https://open.spotify.com/track/0NRHx59VAYHUhBBTzFxTTF"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1175,6 +1159,22 @@
       "duration_ms": 600010,
       "name": "A Diosa (Non potho reposare)",
       "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Pokemans",
+        "url": "https://open.spotify.com/album/1dpMryDJlXKZzmLyahGCEi"
+      },
+      "artists": [
+        {
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Pokemans",
+      "url": "https://open.spotify.com/track/3QLQJLs8WjbwnYUer3HEoP"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "Plays Stewart Copeland",
-        "url": "https://open.spotify.com/album/0jNrPsoL9SCu7oBffUJuzm"
-      },
-      "artists": [
-        {
-          "name": "Elbtonal Percussion",
-          "url": "https://open.spotify.com/artist/4jU6qaM5xefdW9O12GXX7L"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "The Mud Lions",
-      "url": "https://open.spotify.com/track/69mRQWc56zEKt1YLQZLANw"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
         "name": "Vaporwave Tactical",
         "url": "https://open.spotify.com/album/6H53eDZ20n28AOGUNzxZUv"
       },
@@ -1293,20 +1277,20 @@
       "url": "https://open.spotify.com/track/72tsEmvUXRR7MxFFCNxTIh"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "time is but the drawing of a sword",
-        "url": "https://open.spotify.com/album/10cw8r1YTxCHLFEorxvw6z"
+        "name": "Plays Stewart Copeland",
+        "url": "https://open.spotify.com/album/0jNrPsoL9SCu7oBffUJuzm"
       },
       "artists": [
         {
-          "name": "Lyndsie Alguire",
-          "url": "https://open.spotify.com/artist/2ccPuyFIeFmNpKb9ZVOlBc"
+          "name": "Elbtonal Percussion",
+          "url": "https://open.spotify.com/artist/4jU6qaM5xefdW9O12GXX7L"
         }
       ],
-      "duration_ms": 219057,
-      "name": "bruised",
-      "url": "https://open.spotify.com/track/2mYWLaFIr3hNuG0jugydkz"
+      "duration_ms": 212906,
+      "name": "The Mud Lions",
+      "url": "https://open.spotify.com/track/69mRQWc56zEKt1YLQZLANw"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1339,6 +1323,22 @@
       "duration_ms": 428320,
       "name": "Arbitrary",
       "url": "https://open.spotify.com/track/0k5pUbOXmYI51JQDBh35R4"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "time is but the drawing of a sword",
+        "url": "https://open.spotify.com/album/10cw8r1YTxCHLFEorxvw6z"
+      },
+      "artists": [
+        {
+          "name": "Lyndsie Alguire",
+          "url": "https://open.spotify.com/artist/2ccPuyFIeFmNpKb9ZVOlBc"
+        }
+      ],
+      "duration_ms": 219057,
+      "name": "bruised",
+      "url": "https://open.spotify.com/track/2mYWLaFIr3hNuG0jugydkz"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/3M8rZyevOLlW8hazsAhZ1V"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "A Plastic Gun The Size Of The World",
-        "url": "https://open.spotify.com/album/1GVzSOLU3TVXY9bzO4EbkL"
-      },
-      "artists": [
-        {
-          "name": "Meynsense",
-          "url": "https://open.spotify.com/artist/35X7M5C8Dh8bpHkj10WOVR"
-        }
-      ],
-      "duration_ms": 332776,
-      "name": "A Plastic Gun The Size Of The World",
-      "url": "https://open.spotify.com/track/7oUWVXld8maQDdEQjXZmEZ"
-    },
-    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Meta",
@@ -1459,6 +1443,22 @@
       "duration_ms": 352314,
       "name": "Meta VI",
       "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "A Plastic Gun The Size Of The World",
+        "url": "https://open.spotify.com/album/1GVzSOLU3TVXY9bzO4EbkL"
+      },
+      "artists": [
+        {
+          "name": "Meynsense",
+          "url": "https://open.spotify.com/artist/35X7M5C8Dh8bpHkj10WOVR"
+        }
+      ],
+      "duration_ms": 332776,
+      "name": "A Plastic Gun The Size Of The World",
+      "url": "https://open.spotify.com/track/7oUWVXld8maQDdEQjXZmEZ"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1549,26 +1549,6 @@
       "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Magia Lumen",
-        "url": "https://open.spotify.com/album/44SjzEy0YjKFy26q4UMeEh"
-      },
-      "artists": [
-        {
-          "name": "CHACHO",
-          "url": "https://open.spotify.com/artist/2cBJLMa9r1VxIxEElsJgg4"
-        },
-        {
-          "name": "&Friends",
-          "url": "https://open.spotify.com/artist/06ofJD2wFja8DD6Z0ViWXr"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Fight For",
-      "url": "https://open.spotify.com/track/676csBHpEkLxunlWpYtAT3"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Framework 1 (Vladislav Delay Remix)",
@@ -1587,6 +1567,26 @@
       "duration_ms": 266573,
       "name": "Framework 1 (Vladislav Delay Remix)",
       "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Magia Lumen",
+        "url": "https://open.spotify.com/album/44SjzEy0YjKFy26q4UMeEh"
+      },
+      "artists": [
+        {
+          "name": "CHACHO",
+          "url": "https://open.spotify.com/artist/2cBJLMa9r1VxIxEElsJgg4"
+        },
+        {
+          "name": "&Friends",
+          "url": "https://open.spotify.com/artist/06ofJD2wFja8DD6Z0ViWXr"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Fight For",
+      "url": "https://open.spotify.com/track/676csBHpEkLxunlWpYtAT3"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1681,38 +1681,6 @@
       "url": "https://open.spotify.com/track/5svoaG4SG3ZZ99Yl5vpe4C"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/1UaVb9HcsL0T1UGA2I8nRj"
-      },
-      "artists": [
-        {
-          "name": "Tomin",
-          "url": "https://open.spotify.com/artist/0YMLTyB0Y3pZLxKK2tXcTj"
-        }
-      ],
-      "duration_ms": 337906,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/1KiXq3sy3txoXdNilTFqmd"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "KIngKlav\u00e9",
-        "url": "https://open.spotify.com/album/3U218GVQZykfaAlXkyDDzM"
-      },
-      "artists": [
-        {
-          "name": "KingKlav\u00e9",
-          "url": "https://open.spotify.com/artist/1t1cYpyKUirprOlol4feZF"
-        }
-      ],
-      "duration_ms": 95787,
-      "name": "Intriga",
-      "url": "https://open.spotify.com/track/51ts0A3UFSg2oKx2UA5lOO"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Scapes I",
@@ -1751,6 +1719,38 @@
       "duration_ms": 278657,
       "name": "Time - Nick Walters Remix",
       "url": "https://open.spotify.com/track/5pcDYMTmLdhxmgojty1xCW"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "KIngKlav\u00e9",
+        "url": "https://open.spotify.com/album/3U218GVQZykfaAlXkyDDzM"
+      },
+      "artists": [
+        {
+          "name": "KingKlav\u00e9",
+          "url": "https://open.spotify.com/artist/1t1cYpyKUirprOlol4feZF"
+        }
+      ],
+      "duration_ms": 95787,
+      "name": "Intriga",
+      "url": "https://open.spotify.com/track/51ts0A3UFSg2oKx2UA5lOO"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/1UaVb9HcsL0T1UGA2I8nRj"
+      },
+      "artists": [
+        {
+          "name": "Tomin",
+          "url": "https://open.spotify.com/artist/0YMLTyB0Y3pZLxKK2tXcTj"
+        }
+      ],
+      "duration_ms": 337906,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/1KiXq3sy3txoXdNilTFqmd"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

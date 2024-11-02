@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,567 likes - 150 songs - 7 hr 41 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,570 likes - 150 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 16 | [See You Again](https://open.spotify.com/track/2A0CnLV1i9wfuQZ3fa4LN4) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Betty Bloom](https://open.spotify.com/artist/028AENVWICmqAiAj5xXncO) | [See You Again](https://open.spotify.com/album/63fjHFUZrbPfD4IpBrAzNl) | 3:11 |
 | 17 | [Ghost](https://open.spotify.com/track/0fGFbjbq3cXsdDXxhISEQI) | [Reinn](https://open.spotify.com/artist/2liXii9VDQQTx5kAvF3dIO) | [For The Love Of Progressive EP 2.0](https://open.spotify.com/album/4XaWowqTcNMXCUn98Txb3T) | 4:00 |
 | 18 | [5 Notes From Paradise](https://open.spotify.com/track/3NSiLcsfh1oqbLXYRZqp1x) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [5 Notes From Paradise](https://open.spotify.com/album/2XBLkyTxtVoGBHz12ZNUmn) | 3:32 |
-| 19 | [Someone You Loved](https://open.spotify.com/track/0DFn6gpTjvLGhbtTLUHxLh) | [Danny Suko](https://open.spotify.com/artist/4LmA8fdViKiDkQChO1Tsag), [Dj Squared](https://open.spotify.com/artist/75Obng72MkIaKTFCgK1vKN) | [Someone You Loved](https://open.spotify.com/album/6a87gx0IIyElVAIf2HLaRL) | 2:57 |
+| 19 | [Someone You Loved](https://open.spotify.com/track/0DFn6gpTjvLGhbtTLUHxLh) | [Danny Suko](https://open.spotify.com/artist/4LmA8fdViKiDkQChO1Tsag), [DJ Squared](https://open.spotify.com/artist/40BOroEL14QdSgzGcMrkJY) | [Someone You Loved](https://open.spotify.com/album/6a87gx0IIyElVAIf2HLaRL) | 2:57 |
 | 20 | [Damaru](https://open.spotify.com/track/0phauLON2YMdn7EJBxy22K) | [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [Mëlbëc](https://open.spotify.com/artist/1sheUnPKG2ZarLC6f1MstP) | [Damaru](https://open.spotify.com/album/4H89g4DpPpX9lxxkjLCsIZ) | 3:31 |
 | 21 | [My Love](https://open.spotify.com/track/7eEBF6miPhzP8Ip8ebfpZf) | [Wonbeat & Purpose](https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb) | [My Love](https://open.spotify.com/album/2R1VhIIQyKpX8ieXxvx8Ox) | 2:23 |
 | 22 | [I Am Not Alone](https://open.spotify.com/track/71XHLubd7jxAdg2c74rM1k) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Am Not Alone](https://open.spotify.com/album/55lxLinhvBw7i98d54VeXn) | 3:17 |

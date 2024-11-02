@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:5KGTTFuyg5XfMMep5hTokE\">Christian Singleton</a> ",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:49bzE5vRBRIota4qeHtQM8\">Skillet</a> ",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 223011,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 229500,
       "name": "Become Everything I Hate",
       "url": "https://open.spotify.com/track/1xn3puc4CysCV0UqbLPDtb"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 191786,
       "name": "DARKNESS BEFORE THE DAWN!",
       "url": "https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 313790,
       "name": "Deadman",
       "url": "https://open.spotify.com/track/5hRTySOfrVVhDNOya4IML9"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 254998,
       "name": "Deathgrip",
       "url": "https://open.spotify.com/track/5hC0PHHxcPJnhg6Mnncub4"
@@ -1006,6 +1006,24 @@
       "duration_ms": 231492,
       "name": "Dominion",
       "url": "https://open.spotify.com/track/2fglyYNxnLsjfwE9Zht5eN"
+    },
+    {
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/3JxAO6j6hu3DoCuyLLkpes"
+      },
+      "artists": [
+        {
+          "name": "Ashes Remain",
+          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256946,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/184dbBB3Bg2ktEMFnO9knn"
     },
     {
       "album": {
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 243699,
       "name": "Erase",
       "url": "https://open.spotify.com/track/2YqctNUthRfX4t1KvPXO00"
@@ -1745,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "If You Say So",
+        "url": "https://open.spotify.com/album/1WjUgogBBdknbnDVkbTuur"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226745,
+      "name": "If You Say So",
+      "url": "https://open.spotify.com/track/6i6ICL9Dtjb1ksZiWN24NP"
+    },
+    {
+      "album": {
         "name": "In Christ Alone",
         "url": "https://open.spotify.com/album/3biVnabt12iMMpVIQXh6jG"
       },
@@ -1800,6 +1836,28 @@
       "duration_ms": 283741,
       "name": "In the Night",
       "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
+    },
+    {
+      "album": {
+        "name": "It Is Finished",
+        "url": "https://open.spotify.com/album/1yI817nUEoU91SOVMv8p9W"
+      },
+      "artists": [
+        {
+          "name": "Sean Rodriguez",
+          "url": "https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY"
+        },
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250086,
+      "name": "It Is Finished",
+      "url": "https://open.spotify.com/track/6hmTv34PvjSgSJIQRUhsnw"
     },
     {
       "album": {
@@ -1992,7 +2050,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 225840,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
@@ -2136,7 +2194,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 381692,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0qn0EGCOwcRTYM6oI1X8CL"
@@ -2198,6 +2256,42 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193968,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4"
+    },
+    {
+      "album": {
+        "name": "not by sight",
+        "url": "https://open.spotify.com/album/7CTzi5vHveROnPfswOJBmW"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174612,
+      "name": "not by sight",
+      "url": "https://open.spotify.com/track/2u9kBiQyov0ZI03JT7vvzZ"
     },
     {
       "album": {
@@ -2314,6 +2408,24 @@
       "duration_ms": 269733,
       "name": "Panic Room (featuring Andrew Schwab)",
       "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
+    },
+    {
+      "album": {
+        "name": "PARALLEL (Live)",
+        "url": "https://open.spotify.com/album/4WzVV8wFMiPCPJwLeQ7AK8"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338800,
+      "name": "PARALLEL - Live",
+      "url": "https://open.spotify.com/track/0zENtJckaa2Nn4XKoKwPZK"
     },
     {
       "album": {
@@ -2533,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "When We Were Kings",
+        "url": "https://open.spotify.com/album/5QDA6HSkfTo6VK2sidCHUZ"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271945,
+      "name": "Rhyme of Time",
+      "url": "https://open.spotify.com/track/7kZKoTw34dhxKWx2yZ65hn"
+    },
+    {
+      "album": {
         "name": "Rise to the Call",
         "url": "https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb"
       },
@@ -2624,6 +2754,24 @@
       "duration_ms": 223240,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/5Co6yLI3KGvUphFbkt4nRM"
+      },
+      "artists": [
+        {
+          "name": "Living Again",
+          "url": "https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179283,
+      "name": "Scarlet",
+      "url": "https://open.spotify.com/track/226x3SnfqKmWipiwilLE2G"
     },
     {
       "album": {
@@ -2923,6 +3071,32 @@
     },
     {
       "album": {
+        "name": "Take It All Back",
+        "url": "https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Davies.",
+          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204634,
+      "name": "Take It All Back",
+      "url": "https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj"
+    },
+    {
+      "album": {
         "name": "Farewell to Midnight",
         "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
       },
@@ -3122,7 +3296,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 258706,
       "name": "The Shelter",
       "url": "https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se"
@@ -3205,6 +3379,24 @@
     },
     {
       "album": {
+        "name": "THIS WAR IS NOT MY OWN",
+        "url": "https://open.spotify.com/album/0KURcaY4H0bsQRvOGqMS3j"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233734,
+      "name": "THIS WAR IS NOT MY OWN",
+      "url": "https://open.spotify.com/track/4YyPU3anUrSKDy8t3BZ5CX"
+    },
+    {
+      "album": {
         "name": "Transgressor",
         "url": "https://open.spotify.com/album/2EZ73ukSfYcB9vURLEB4Vl"
       },
@@ -3252,7 +3444,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 185553,
       "name": "Unpopular",
       "url": "https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq"
@@ -3526,7 +3718,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 241470,
       "name": "When We Were Kings",
       "url": "https://open.spotify.com/track/47c3g3qZVvf1myrVQZTnrf"
@@ -3602,6 +3794,24 @@
       "duration_ms": 211906,
       "name": "You Are",
       "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
+    },
+    {
+      "album": {
+        "name": "Your Cross Is Everything",
+        "url": "https://open.spotify.com/album/6HWTO02Y2LAPsPQ8vuaVXR"
+      },
+      "artists": [
+        {
+          "name": "The Band JAREN",
+          "url": "https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235954,
+      "name": "Your Cross Is Everything",
+      "url": "https://open.spotify.com/track/0ze66t6iOmallLyPADgeZ3"
     },
     {
       "album": {

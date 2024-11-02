@@ -4733,6 +4733,24 @@
     },
     {
       "album": {
+        "name": "a piece of me i never let you find.",
+        "url": "https://open.spotify.com/album/1yh863utXtpMuPlIbzM2Uh"
+      },
+      "artists": [
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215001,
+      "name": "Finding Euphoria",
+      "url": "https://open.spotify.com/track/5ria869mOXYHsesQg7QjoF"
+    },
+    {
+      "album": {
         "name": "Firewake",
         "url": "https://open.spotify.com/album/4rf0rEWBkexEneZBSxZDuO"
       },
@@ -5434,7 +5452,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 283520,
       "name": "Hands of Eternity",
       "url": "https://open.spotify.com/track/0XxW9T7qRJkAT6wENRI6kw"

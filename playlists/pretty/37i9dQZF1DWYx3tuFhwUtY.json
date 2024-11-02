@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138290,
+  "num_followers": 138294,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Meet Glen Campbell",
-        "url": "https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 225186,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/0kqSGKnMo3JDbzaW0QrXmA"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "I Don't Know What You See In Me",
         "url": "https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 219360,
       "name": "I Don't Know What You See In Me",
       "url": "https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Meet Glen Campbell",
+        "url": "https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 225186,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/0kqSGKnMo3JDbzaW0QrXmA"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Sand On The Beach",
-        "url": "https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 136510,
-      "name": "Sand On The Beach",
-      "url": "https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Cosas Que Probablemente No Van a Pasar",
         "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 160000,
       "name": "Cosas que probablemente no van a pasar",
       "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Sand On The Beach",
+        "url": "https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 136510,
+      "name": "Sand On The Beach",
+      "url": "https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99"
     },
     {
       "added_at": "2024-07-12 23:20:36",

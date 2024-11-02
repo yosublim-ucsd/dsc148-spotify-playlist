@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,427 likes - 73 songs - 3 hr 35 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,426 likes - 77 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,9 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 71 | [girl$ \- Layton Giordani Remix](https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [girl$ \(Layton Giordani Remix\)](https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN) | 3:04 |
 | 72 | [Lonely Heart](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Lonely Heart](https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH) | 2:43 |
 | 73 | [Hooligans](https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Hooligans](https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE) | 3:59 |
+| 74 | [Sandstorm](https://open.spotify.com/track/5WXH4S3BVZqW4nUE6QT3At) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Sandstorm](https://open.spotify.com/album/2RNSXi73Jg9uVIY0tM4w62) | 2:16 |
+| 75 | [Sierra](https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Sierra](https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX) | 3:21 |
+| 76 | [Forget About Me](https://open.spotify.com/track/637iOVZwfu5BZhE5kAkWFQ) | [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg), [Alka & Feiv](https://open.spotify.com/artist/47kNyPbq5TrXPrbyjI5E2t) | [Forget About Me](https://open.spotify.com/album/3G3DVkSjcGiM7DgmfwImkp) | 2:36 |
+| 77 | [Toca's Miracle](https://open.spotify.com/track/3bcfuk7hCaST9Bapjbatf8) | [Fappe & Bru](https://open.spotify.com/artist/0cQWPaFUVBhwMCkRaCm4bX), [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca's Miracle](https://open.spotify.com/album/4Sj4vFxsEiz85oypqhL3qZ) | 2:51 |
 
-Snapshot ID: `AAAKEZG2driF4psTAg+wJs4E8WCnRGi7`
+Snapshot ID: `AAAKFZ0gaBWu8XUwajtCG86UuWKk0t9S`

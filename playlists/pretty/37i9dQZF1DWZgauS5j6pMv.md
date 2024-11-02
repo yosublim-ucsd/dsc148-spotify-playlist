@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: MonoNeon
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,161 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,225 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Rain On My Parade](https://open.spotify.com/track/7BypZ2B3bsVf2hwqAHqGJe) | [Third Reprise](https://open.spotify.com/artist/2rz5Ap6y8CRp402RQwpRNn), [Henry Platt](https://open.spotify.com/artist/4vh79MMca4x1g4R0D5Q0rR) | [Don't Rain On My Parade](https://open.spotify.com/album/0427oVyapui4sWqFB0Idkz) | 4:23 |
-| 2 | [NEVER CATCH A BREAK](https://open.spotify.com/track/2546nqsIcRLi51Lqp851fy) | [Adam Pastel](https://open.spotify.com/artist/3tqVBzpvOtajAh0uwkHQoh), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [NEVER CATCH A BREAK](https://open.spotify.com/album/0nxG0va2QKT4HDx4HfD6Zl) | 2:54 |
-| 3 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 |
-| 4 | [New Way](https://open.spotify.com/track/11H4y3J3uZiTRMKLQCcmSD) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Disco Nights](https://open.spotify.com/album/393ujegMe0hYDFSeNupT9p) | 3:01 |
-| 5 | [Something](https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Something](https://open.spotify.com/album/6nQbrIplcsesOfWOoWPP8p) | 3:16 |
-| 6 | [Cake](https://open.spotify.com/track/16Y1bKsUo9Dcy1uzwStVjy) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Cake](https://open.spotify.com/album/7DmA6EiEUYmVKZevOulCzI) | 3:05 |
+| 1 | [This Is 4 You](https://open.spotify.com/track/7wEvo5UWrMLBUSnVEfGq4T) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo IV](https://open.spotify.com/album/5OjssA9yeAUq2llLdZcVDG) | 2:31 |
+| 2 | [Don't Rain On My Parade](https://open.spotify.com/track/7BypZ2B3bsVf2hwqAHqGJe) | [Third Reprise](https://open.spotify.com/artist/2rz5Ap6y8CRp402RQwpRNn), [Henry Platt](https://open.spotify.com/artist/4vh79MMca4x1g4R0D5Q0rR) | [Don't Rain On My Parade](https://open.spotify.com/album/0427oVyapui4sWqFB0Idkz) | 4:23 |
+| 3 | [NEVER CATCH A BREAK](https://open.spotify.com/track/2546nqsIcRLi51Lqp851fy) | [Adam Pastel](https://open.spotify.com/artist/3tqVBzpvOtajAh0uwkHQoh), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [NEVER CATCH A BREAK](https://open.spotify.com/album/0nxG0va2QKT4HDx4HfD6Zl) | 2:54 |
+| 4 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 |
+| 5 | [New Way](https://open.spotify.com/track/11H4y3J3uZiTRMKLQCcmSD) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Disco Nights](https://open.spotify.com/album/393ujegMe0hYDFSeNupT9p) | 3:01 |
+| 6 | [Something](https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Something](https://open.spotify.com/album/6nQbrIplcsesOfWOoWPP8p) | 3:16 |
 | 7 | [Play My Guitar](https://open.spotify.com/track/6bfDFOlMraYL4XoYAExz3n) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [Play My Guitar](https://open.spotify.com/album/2hjsDetomg1855StKuMZWs) | 3:21 |
 | 8 | [Hip Replacement](https://open.spotify.com/track/0xbRBmn4poZWxCdnbfvmCq) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/2Sb0autVivIydesNKk5J6p) | 4:13 |
 | 9 | [FYMB \(Free Your Mind Baby\)](https://open.spotify.com/track/7fY9syk6ncZMGwCzNOLGMI) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [FYMB \(Free Your Mind Baby\)](https://open.spotify.com/album/5pBglwuuUxAtlXGQsB0SBj) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [WAIT](https://open.spotify.com/track/5wXBM2qHSD47ezJQvD4xf2) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Wait](https://open.spotify.com/album/3DKc2EtHI0ssLoQV27enK9) | 2:27 |
 | 100 | [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 |
 
-Snapshot ID: `ZxHdQAAAAABeITi1dRENYFBwaF7A+R0W`
+Snapshot ID: `ZyRSQAAAAABT14iwOQgghSQpigJE9Dtk`

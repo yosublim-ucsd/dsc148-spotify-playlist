@@ -4,7 +4,7 @@
 
 > De beste nieuwe releases van de week! Cover: RONDÉ
 
-8,499 songs - 18 day 13 hr 27 min
+8,501 songs - 18 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1349,6 +1349,7 @@
 | [Child's Play](https://open.spotify.com/track/4eVAOym9eKPLfKHsQFpjVW) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Child's Play](https://open.spotify.com/album/3gS5pUJ25J0LHx80ygYdG1) | 2:29 | 2023-04-27 | 2023-05-05 |
 | [Children](https://open.spotify.com/track/6iMyAaTKUoVOWSr4o0vESO) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Children](https://open.spotify.com/album/4NH7dyo0xKA0Tw19ZIeeYR) | 4:35 | 2023-12-01 | 2023-12-09 |
 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 | 2023-08-31 | 2023-09-08 |
+| [Chill Bae](https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:18 | 2024-10-31 |  |
 | [Chill Kill](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:34 | 2023-11-16 | 2023-11-25 |
 | [Chills](https://open.spotify.com/track/73QzOGGE2l8vSvdTrGLvKN) | [Maladroite](https://open.spotify.com/artist/0EuWi2QvTpmvn0aDxEJo6Q) | [Chills](https://open.spotify.com/album/60n3vi0SfPWtWoUIeKj6rI) | 2:01 | 2023-08-31 | 2023-09-08 |
 | [Chills](https://open.spotify.com/track/372vPbWwwgR0DcixFqjdrU) | [Mellie](https://open.spotify.com/artist/0fCB3cu52wsor5eiGb2OhK) | [Chills](https://open.spotify.com/album/28iXoFpyKeQp7sOk6lTVIq) | 2:58 | 2023-09-28 | 2023-10-06 |
@@ -2431,6 +2432,7 @@
 | [Favourite Songs](https://open.spotify.com/track/6HRQ8K09zFUODljpu7lhn6) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Favourite Songs](https://open.spotify.com/album/32ha5xa9acLnslj6OpYcJ9) | 3:34 | 2024-03-28 | 2024-04-05 |
 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 | 2024-05-23 | 2024-06-01 |
 | [Fear \(Single Version\)](https://open.spotify.com/track/5l8xSMTnEhOXOO3Y4CWD9M) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Fear](https://open.spotify.com/album/7qcq8FLWNCIB4OVRwYi7ju) | 3:33 | 2024-02-01 | 2024-02-09 |
+| [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 | 2024-10-31 |  |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-03-17 | 2023-03-25 |
 | [February Stories](https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [February Stories](https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3) | 2:23 | 2023-05-04 | 2023-05-12 |
 | [Feed You To My Dog](https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Feed You To My Dog](https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU) | 3:16 | 2024-05-31 | 2024-06-07 |

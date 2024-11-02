@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pnRTWkm9D7.md) - [plain]
 
 > <a href="spotify:user:spotify:playlist:37i9dQZF1DWXQXM7agvwjO">.ORG</a>  presents Asian Indie songs we loved the most in 2023\. \#SpotifyWrapped Cover: Phum Viphurit
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,559 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,558 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

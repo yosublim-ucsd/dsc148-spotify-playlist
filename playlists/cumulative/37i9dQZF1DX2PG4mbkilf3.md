@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is R&B in Canada\. Elevate your aura with Melanie Fiona from Toronto, ON.
+> This is R&B in Canada\. Elevate your aura with TheHonestGuy from Toronto, ON.
 
-1,199 songs - 2 day 14 hr 49 min
+1,200 songs - 2 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 | 2022-07-15 | 2022-08-13 |
 | [Brand New](https://open.spotify.com/track/4XTXamS1g4g93jPxyuFJJ6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:33 | 2022-03-04 | 2022-03-18 |
 | [Brand New Eyes](https://open.spotify.com/track/51Ozj9fstsB8uHbwDEx5em) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [The Alternate Ending \(Deluxe\)](https://open.spotify.com/album/2t11fLKJrLik2Zn1105uDf) | 2:48 | 2024-10-25 |  |
-| [Brand Nu](https://open.spotify.com/track/4BTAlL3S4ph1tJ9JE1wqnX) | [Adoré](https://open.spotify.com/artist/6bMFP4o3XjL8HQijJou06C) | [Brand Nu](https://open.spotify.com/album/7cTh8qdQwNmwi7xMAgIFxK) | 2:39 | 2024-10-11 |  |
+| [Brand Nu](https://open.spotify.com/track/4BTAlL3S4ph1tJ9JE1wqnX) | [Adoré](https://open.spotify.com/artist/6bMFP4o3XjL8HQijJou06C) | [Brand Nu](https://open.spotify.com/album/7cTh8qdQwNmwi7xMAgIFxK) | 2:39 | 2024-10-11 | 2024-11-02 |
 | [Bravo](https://open.spotify.com/track/19JHmvMUhb5dGLZPufqEUh) | [Jerusha](https://open.spotify.com/artist/3Cq9dfQDBiFja0j9m717cW) | [Bravo](https://open.spotify.com/album/4P88Chg12Vuuwo8fbuqPDZ) | 2:10 | 2022-04-22 | 2022-05-20 |
 | [Breadcrumbs](https://open.spotify.com/track/5wYFEpuiunJSVtZd0vGLOX) | [BAZELLE](https://open.spotify.com/artist/0jwm7oGCwb2uvwtEURfgzZ), [BertsBeatz](https://open.spotify.com/artist/5PhL9D8fkQE0GejhOhC9Lo) | [Breadcrumbs](https://open.spotify.com/album/6TrySjtl9fIlKdzv2kHcCo) | 3:09 | 2022-06-10 | 2022-07-02 |
 | [Break](https://open.spotify.com/track/7MAF260QrFoPLbcigPfRFp) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Break](https://open.spotify.com/album/5BnZ7N719nnVLX9TFSyCIt) | 2:57 | 2022-03-18 | 2022-06-18 |
@@ -1021,6 +1021,7 @@
 | [Take Me Down](https://open.spotify.com/track/5FsKNN0EKXevpZ3IQLURvT) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Take Me Down](https://open.spotify.com/album/1HgUqAtLT1htnY592eO54C) | 3:36 | 2023-11-17 | 2024-01-06 |
 | [Take Off](https://open.spotify.com/track/2QFiTd78rjiCIKBQYESI9m) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Take Off](https://open.spotify.com/album/50b5JY9b4g9fiKcOPESW4a) | 2:41 | 2024-06-14 | 2024-08-24 |
 | [Take What's Given](https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What's Given](https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F) | 2:54 | 2024-02-02 | 2024-03-09 |
+| [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-11-01 |  |
 | [Taking Control](https://open.spotify.com/track/2nuzUJCQ5iWY80FsyUJtk6) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Taking Control](https://open.spotify.com/album/31zEM8HglrCkirKLaxmkkz) | 3:31 | 2023-09-29 | 2023-11-11 |
 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 | 2022-02-18 | 2022-05-14 |
 | [Talk to Me](https://open.spotify.com/track/3NbJm0B7ZFAEqhR8Rc3ZFk) | [Lowgo](https://open.spotify.com/artist/3KqP7d4TwVfuAZIeRMxen4), [Elinore](https://open.spotify.com/artist/2gz5TwAaEzPY0yoCv34011) | [Talk to Me](https://open.spotify.com/album/4mrBnXlSFB8HaskEDyOqR5) | 3:33 | 2024-04-12 | 2024-07-06 |

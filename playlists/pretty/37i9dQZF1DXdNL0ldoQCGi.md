@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá que tá viral no seu feed sabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,118 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,131 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 3 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 |
 | 4 | [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 |
 | 5 | [Piseiro Hawaiano](https://open.spotify.com/track/4b3zlZQaDrpabJcqIo92uD) | [DJ Marcão 019](https://open.spotify.com/artist/6faIprX4PUHAlDbC4SQt8v), [Dj Dédda](https://open.spotify.com/artist/5Dl7oGwpWOyvliLF3Uo2WX), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Piseiro Hawaiano](https://open.spotify.com/album/3MhtaWXDWaa0zX1HqmBaMS) | 2:40 |
-| 6 | [Ritmada Interestelar](https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA) | [DJ DUARTE](https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY), [DJ Kayo Original](https://open.spotify.com/artist/3XbTjpdGElxdiHzbCGn8G7), [MC Rondom](https://open.spotify.com/artist/2QfGTGoOWDlLmRxUvHllCc), [Prime Funk](https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x) | [Ritmada Interestelar](https://open.spotify.com/album/4yGwZSJLoBPCKQNn5zMjWR) | 3:12 |
+| 6 | [Ritmada Interestelar](https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA) | [DJ DUARTE](https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi), [DJ Kayo Original](https://open.spotify.com/artist/3XbTjpdGElxdiHzbCGn8G7), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY), [MC Rondom](https://open.spotify.com/artist/2QfGTGoOWDlLmRxUvHllCc), [Prime Funk](https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x) | [Ritmada Interestelar](https://open.spotify.com/album/4yGwZSJLoBPCKQNn5zMjWR) | 3:12 |
 | 7 | [Eu To Sozinho Eu To Solteiro, Sem Responsabilidade](https://open.spotify.com/track/0q136ECUdJJNpJ9eowozEd) | [TROPA DO MANTÉM](https://open.spotify.com/artist/1Cj6GYoTNXwzjCgvxTeftE) | [Eu To Sozinho Eu To Solteiro, Sem Responsabilidade](https://open.spotify.com/album/2BSgw8GhRzTXi11jB4upLl) | 1:47 |
 | 8 | [Vai Tomar Lapada](https://open.spotify.com/track/5LJZ1pYk6VqgBVnGJ76NQp) | [A TARRAXADA](https://open.spotify.com/artist/4HtfexBbNZWK3WFCDA8mPt), [Kaelly](https://open.spotify.com/artist/184i7n3UsSlAhImNBodzBh) | [Vai Tomar Lapada](https://open.spotify.com/album/3IFaZOL6WN2c7I5b8TgpQ2) | 1:52 |
 | 9 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 |

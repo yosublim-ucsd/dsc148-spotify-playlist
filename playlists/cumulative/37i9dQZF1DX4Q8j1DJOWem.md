@@ -4,7 +4,7 @@
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: sarah salola
 
-205 songs - 12 hr 49 min
+208 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 | 2024-03-28 |  |
 | [beginner](https://open.spotify.com/track/4bcfiaTv3id9jpqhyDv2uV) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [Love & Limerence](https://open.spotify.com/album/3QI3Yxmiebv6OWPw2wU2Nh) | 3:52 | 2024-08-26 |  |
 | [Better Be With Me](https://open.spotify.com/track/5REvRJ8mC6GhCKJqfL1sA1) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr) | [Better Be With Me](https://open.spotify.com/album/6RpXIKlsCwM8sawt4YnhFc) | 2:00 | 2024-10-04 |  |
+| [BODYGUARD](https://open.spotify.com/track/6zb8KlBjdh0CgJch2zic8E) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [BODYGUARD \- Single](https://open.spotify.com/album/0djSHy4lxpLZCznzQyPqRW) | 3:05 | 2024-11-01 |  |
 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 | 2023-04-13 | 2024-03-29 |
 | [BTS](https://open.spotify.com/track/5ny2fV7iSKCRWzLRhUO0CJ) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [BTS](https://open.spotify.com/album/7bmozsYfL8Yh0UNun8onhO) | 2:43 | 2023-01-10 | 2024-01-12 |
 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 | 2022-09-15 | 2023-07-22 |
@@ -57,6 +58,7 @@
 | [Stand By](https://open.spotify.com/track/5gKIQRJmfu3x9F4a9nIKrg) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [Stand By \- Single](https://open.spotify.com/album/1a0KehRZqLKSK69TKsJcxK) | 3:56 | 2024-01-11 | 2024-02-19 |
 | [Stay](https://open.spotify.com/track/12fWIindDPAAsaPXPSAYJK) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Stay](https://open.spotify.com/album/5MwGuY9wRplZgMtA1Bn1UV) | 3:27 | 2023-07-21 | 2023-11-30 |
 | [Stranger](https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Stranger](https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ) | 5:46 | 2022-11-23 | 2023-04-14 |
+| [Swag It Out](https://open.spotify.com/track/3P9KhTVZj708BcY8qQCKUM) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr) | [Swag It Out](https://open.spotify.com/album/6Zo01v0FYlJXq3ZdSEEA7N) | 1:49 | 2024-11-01 |  |
 | [Therapist](https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Therapist](https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR) | 3:13 | 2023-05-12 | 2024-03-29 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-22 | 2024-03-29 |
 | [Today's mood](https://open.spotify.com/track/4kuYISPouD11LYYVjruC8b) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [Today's mood](https://open.spotify.com/album/02FY1dr1nSrTyzMfURRJ2Q) | 2:42 | 2023-11-29 | 2024-01-12 |
@@ -75,6 +77,7 @@
 | [กลัวฝันดี](https://open.spotify.com/track/6dJ87ZODacjSBUkayDNZgg) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [กลัวฝันดี](https://open.spotify.com/album/24fT89spi1h2icDiEne5UO) | 3:49 | 2023-07-07 | 2024-02-19 |
 | [กลางใจไกลจัง](https://open.spotify.com/track/5PKwTBCeHagBke9WP4F6X9) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [กลางใจไกลจัง](https://open.spotify.com/album/7j4BfqLpnYhARG7K4JVPNW) | 3:23 | 2024-03-28 |  |
 | [กลิ่นไอฝน](https://open.spotify.com/track/5zww7lAbXlB9BDS7EY7jhB) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [กลิ่นไอฝน](https://open.spotify.com/album/0y3fI7uqVbqc7EkWBpTsxS) | 4:06 | 2024-09-06 |  |
+| [กล่องความทรงจำ \- Memories Box](https://open.spotify.com/track/4b1grKsPHSPS7wFOT0SrRk) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [กล่องความทรงจำ \(Memories Box\)](https://open.spotify.com/album/4h8L2uKW3WSB4i28utCnLq) | 3:39 | 2024-11-01 |  |
 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/266THkHmSpdcVHJTE6KJJ3) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu) | 3:41 | 2022-10-12 | 2024-03-29 |
 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/3iaCbQ38BeeaqKFLrGXeuE) | 3:41 | 2022-09-15 | 2022-10-14 |
 | [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 | 2023-06-22 | 2023-08-26 |
@@ -103,7 +106,7 @@
 | [จำต้องลา](https://open.spotify.com/track/7tkz8JRnB7IPyXm4403Czz) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จำต้องลา \- Single](https://open.spotify.com/album/3KEYfYPE4lWgzjrYkG2uOC) | 4:14 | 2024-05-31 | 2024-07-30 |
 | [จินตนาการ](https://open.spotify.com/track/7DUIu2I0iJ9ABxFLrQA2JE) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [DREAMLAND](https://open.spotify.com/album/3dHSrJyHreCMV33yGZOFWI) | 4:05 | 2024-07-05 | 2024-10-05 |
 | [จิ๊กโก๋ลาบวช](https://open.spotify.com/track/6pQjWG8NCPuZUKPZJssaTJ) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [จิ๊กโก๋ลาบวช](https://open.spotify.com/album/3QlEM3qaBzU9YESHaQqFxf) | 2:09 | 2023-08-25 | 2023-09-02 |
-| [ฉันคือดวงจันทร์](https://open.spotify.com/track/31zp8z4bBxJrNCv3IfQrMs) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [ฉันคือดวงจันทร์ \- Single](https://open.spotify.com/album/1TZk7mL2G41vPNuVJri3ib) | 3:33 | 2024-03-28 |  |
+| [ฉันคือดวงจันทร์](https://open.spotify.com/track/31zp8z4bBxJrNCv3IfQrMs) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [ฉันคือดวงจันทร์ \- Single](https://open.spotify.com/album/1TZk7mL2G41vPNuVJri3ib) | 3:33 | 2024-03-28 | 2024-11-02 |
 | [ฉันสัญญาจะไม่ร้องไห้ \(ดวงดาวที่โหดร้าย\)](https://open.spotify.com/track/5Rrn7VUOFMyYK5Gy7cA4AK) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันสัญญาจะไม่ร้องไห้ \(ดวงดาวที่โหดร้าย\)](https://open.spotify.com/album/0Dl48BAHraILiXW5rO9uIC) | 4:38 | 2023-04-13 | 2023-08-26 |
 | [ชน](https://open.spotify.com/track/3EVlTT0RzXqVapGHqvxkdf) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ชน](https://open.spotify.com/album/7qcNglOOUH0QeyTtiezm7m) | 2:29 | 2023-09-29 | 2023-10-22 |
 | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/album/5FrFp41GTSuc0q4m63bTPO) | 3:05 | 2023-04-18 | 2023-06-23 |
@@ -144,7 +147,7 @@
 | [มันจะไม่มีอีกครั้ง](https://open.spotify.com/track/7jXFHwmcUVn62SdHkatPk7) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [มันจะไม่มีอีกครั้ง](https://open.spotify.com/album/0ya2sMCdsVp5FrnTr0agDF) | 2:56 | 2022-09-15 | 2023-03-25 |
 | [มาๆหายๆ feat.Karn The Parkinson](https://open.spotify.com/track/4DvOHc5Tguj6RN8o677cWC) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [I GOT LOST BUT LOOK WHAT I FOUND](https://open.spotify.com/album/4P76Ypg17RLMlwr17EPWL6) | 3:10 | 2022-09-15 | 2023-04-14 |
 | [มีผีเสื้อบินอยู่ในท้อง](https://open.spotify.com/track/4Jld23F1idfTmcSqClD0re) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [มีผีเสื้อบินอยู่ในท้อง](https://open.spotify.com/album/1fh1aCaZkBWUtCpjQSvkAq) | 3:35 | 2024-01-11 | 2024-02-19 |
-| [ยังไงอ่ะเรา](https://open.spotify.com/track/0cYJ6A97lmXaZrTBZhWlcY) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [ยังไงอ่ะเรา](https://open.spotify.com/album/3CjW8IchIpbBhnWLTA6Sp1) | 3:54 | 2024-03-28 |  |
+| [ยังไงอ่ะเรา](https://open.spotify.com/track/0cYJ6A97lmXaZrTBZhWlcY) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [ยังไงอ่ะเรา](https://open.spotify.com/album/3CjW8IchIpbBhnWLTA6Sp1) | 3:54 | 2024-03-28 | 2024-11-02 |
 | [ย้าย](https://open.spotify.com/track/0CqwvHOZeAP0kEEOR1NfnI) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [ย้าย](https://open.spotify.com/album/02XG7etkpra35FNMqAphWe) | 3:51 | 2022-09-15 | 2022-09-24 |
 | [รอวันเธอลืมเขา](https://open.spotify.com/track/7IhbsxmWUQi7Q6PSR8Ecq5) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [รอวันเธอลืมเขา](https://open.spotify.com/album/5KYd61ZcqKn5TyYpIHeP3B) | 3:58 | 2022-11-23 | 2023-04-14 |
 | [รอเธอจนหายเปียกปอน](https://open.spotify.com/track/2Ovyq7vslMeRMiyQ3mhvwa) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [รอเธอจนหายเปียกปอน](https://open.spotify.com/album/3ey3g3hudUsosGs4lHuS2j) | 4:33 | 2024-03-28 |  |
@@ -163,7 +166,7 @@
 | [สดใส \(Keep it\)](https://open.spotify.com/track/2xO0vsM5wNXXa9LRtQzfXG) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [สดใส \(Keep it\)](https://open.spotify.com/album/5wra0606tchWv5Ez6h9yxj) | 2:54 | 2024-03-28 | 2024-10-05 |
 | [สำคัญแต่สำรอง](https://open.spotify.com/track/6lervPyDIbvSzaXc6mvY38) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [สำคัญแต่สำรอง](https://open.spotify.com/album/26DspK99DPtbGZGujPNCQz) | 3:12 | 2024-03-28 |  |
 | [สุขสันต์วันครบรอบ](https://open.spotify.com/track/34dOw4pfjiyTNOr4tSLf3Z) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [สุขสันต์วันครบรอบ](https://open.spotify.com/album/4hT9XktGfBnIarFtL2kpcZ) | 4:50 | 2023-05-08 | 2023-06-23 |
-| [หมอน](https://open.spotify.com/track/4Ymg08MNEy5Uqkl9ptSejs) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หมอน](https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2) | 4:03 | 2024-03-28 |  |
+| [หมอน](https://open.spotify.com/track/4Ymg08MNEy5Uqkl9ptSejs) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หมอน](https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2) | 4:03 | 2024-03-28 | 2024-11-02 |
 | [หมอนข้าง](https://open.spotify.com/track/4QBb6jWjJQ4AAZwiCkCyvX) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หมอนข้าง](https://open.spotify.com/album/0Drbw1FOrgz3WiwHfejmFT) | 3:23 | 2023-07-21 | 2024-03-29 |
 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 | 2024-03-28 |  |
 | [หัวใจ \(The Reason Why I Live\)](https://open.spotify.com/track/63QIlrzh79BhQYrd9FuR5A) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [หัวใจ \(The Reason Why I Live\)](https://open.spotify.com/album/4ETXZZ3z3Q4OBTy2Jmnq3Q) | 4:39 | 2023-01-10 | 2023-04-14 |

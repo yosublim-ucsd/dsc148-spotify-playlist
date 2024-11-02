@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-659 songs - 1 day 22 hr 26 min
+660 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Olympus](https://open.spotify.com/track/75drB8mC9kdS43faubXluE) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Olympus](https://open.spotify.com/album/3QDjp3P2RKTyIO5K2tcMKJ) | 6:12 | 2022-07-01 | 2022-07-28 |
 | [On The Fence](https://open.spotify.com/track/4NAEalETvuL5nT4cSpZWx3) | [Rue](https://open.spotify.com/artist/6cmRqzwHMJFTe0cbgyjQb9) | [On The Fence](https://open.spotify.com/album/4eeSVQq7vtCTAUzcmdtEgQ) | 4:00 | 2024-09-05 | 2024-09-08 |
 | [ON THE MOVE](https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY), [Tiana Khasi](https://open.spotify.com/artist/6kM1b2Ze9w94VPfq4KhJF3) | [ON THE MOVE](https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU) | 3:42 | 2024-10-03 |  |
-| [opedge](https://open.spotify.com/track/5Tzwhyt2mCcnCjlD1r5Fri) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [Not Real People](https://open.spotify.com/album/7hepxRy2Sm9yrGoM2aWakU) | 6:58 | 2024-07-04 |  |
+| [opedge](https://open.spotify.com/track/5Tzwhyt2mCcnCjlD1r5Fri) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [Not Real People](https://open.spotify.com/album/7hepxRy2Sm9yrGoM2aWakU) | 6:58 | 2024-07-04 | 2024-11-02 |
 | [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 | 2024-07-11 |  |
 | [Orange\-coloured day](https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Orange\-coloured day](https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj) | 2:48 | 2024-06-06 |  |
 | [Organic Rust](https://open.spotify.com/track/1uSsf748N6MIQWs9R4t2tG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Organic Rust](https://open.spotify.com/album/58s0ZZ32yklGzKK6h6C5nn) | 4:36 | 2021-12-17 | 2022-07-28 |
@@ -526,6 +526,7 @@
 | [Statue](https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f) | [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Statue](https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF) | 3:24 | 2023-03-17 | 2024-05-10 |
 | [Stay](https://open.spotify.com/track/6fcF2gP7MOZjQMSOQ2BvTC) | [Gracie Convert](https://open.spotify.com/artist/0kiZpBpCvMEzvCdFVgsAZN) | [Stay](https://open.spotify.com/album/6hJ2D4rGjEoaghdOHnWD5k) | 2:52 | 2022-03-08 | 2022-04-21 |
 | [Stay Home](https://open.spotify.com/track/6R1R6czIpUXR6vhWWqfgC2) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Stay Home](https://open.spotify.com/album/0MGcACJPvZcVPqOwi97oXd) | 5:00 | 2022-01-07 | 2022-07-29 |
+| [Stellar](https://open.spotify.com/track/4yuMMtpVBlyKSjZeoUQumj) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI) | [Sole Subject](https://open.spotify.com/album/5zB5DkFnigzorF6nOZ9OYt) | 4:19 | 2024-10-24 |  |
 | [Still Connected](https://open.spotify.com/track/1NkqAtsFh8Kg3qWdoNrAwa) | [Jamie Leeming](https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD) | [Still Connected](https://open.spotify.com/album/2Pmt152kyA80qYUC9VYXvn) | 6:13 | 2022-05-19 | 2022-07-20 |
 | [Still Waters](https://open.spotify.com/track/4F5JGx0pSUIOWjQBZFxpcm) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Rising](https://open.spotify.com/album/779CtOedaPfyu3SOhtvEEU) | 6:07 | 2024-05-02 |  |
 | [Streets is Calling \(feat\. M.anifest & Moonchild Sanelly\) \- Single Edit](https://open.spotify.com/track/14SfLWyzXDzoDDsv4aq2eF) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Streets Is Calling \(feat\. Moonchild Sanelly & M.anifest\)](https://open.spotify.com/album/01hBryfAxX4YavSYQAt1sL) | 2:32 | 2024-08-29 | 2024-10-28 |

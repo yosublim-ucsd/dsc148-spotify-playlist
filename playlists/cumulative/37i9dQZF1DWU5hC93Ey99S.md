@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-692 songs - 1 day 12 hr 57 min
+693 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [All my life](https://open.spotify.com/track/43oxw0Qh1iGEy58PV0ppl4) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [All my life](https://open.spotify.com/album/7yMeoIHEJ161J1q1t1LjCL) | 2:42 | 2024-08-08 |  |
 | [All Night](https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:34 | 2023-07-07 | 2024-04-19 |
 | [All Night](https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All Night](https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry) | 3:34 | 2023-04-13 |  |
-| [All Night On My Own](https://open.spotify.com/track/4hd01RIHFRlBLh0sfOyjT2) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [All Night On My Own](https://open.spotify.com/album/6xbEGQEczwqCG7g9sqvq50) | 2:12 | 2024-10-31 |  |
+| [all night on my own](https://open.spotify.com/track/4hd01RIHFRlBLh0sfOyjT2) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [all night on my own](https://open.spotify.com/album/6xbEGQEczwqCG7g9sqvq50) | 2:12 | 2024-10-31 |  |
 | [all over my body](https://open.spotify.com/track/3TEKXl5Wdhi5oWrFbOoTF6) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [all over my body](https://open.spotify.com/album/614zD2PkAmJiq1kgmIztzn) | 2:16 | 2023-06-08 | 2024-01-06 |
 | [all these little words](https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [all these little words](https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ) | 2:17 | 2024-06-20 |  |
 | [ALL U ARE \- Just A Gent Remix](https://open.spotify.com/track/6lqt3XeLmeGfg8osgFql0z) | [LYNAR](https://open.spotify.com/artist/66vddhU28sW74nhLR0sssV), [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [ALL U ARE \(Remixes\)](https://open.spotify.com/album/0BtzOEpyCAzHPiG4UqW0po) | 3:07 | 2023-08-10 | 2023-08-18 |
@@ -189,6 +189,7 @@
 | [Fells \(Where the Story Goes\)](https://open.spotify.com/track/1dbHiZly7TGoFfYa1b8aHX) | [Winter Games](https://open.spotify.com/artist/5u2M5ChnbQM5tLU09YaGj0), [Lumi](https://open.spotify.com/artist/54yHvBSZVMcZkUmTcqmBpm) | [Fells \(Where the Story Goes\)](https://open.spotify.com/album/0uFq1eBr7tQT93Emx5bl5o) | 3:10 | 2023-06-08 | 2023-07-15 |
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-04-25 | 2024-07-03 |
 | [fever](https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [fever](https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG) | 2:20 | 2024-06-20 |  |
+| [Finally \(with Alicia Keys\) \- Killen\. Remix](https://open.spotify.com/track/5E93mFDjFxE2R2pHZxBe3t) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Finally \(Remixes\)](https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg) | 3:59 | 2024-10-31 |  |
 | [Find a Way](https://open.spotify.com/track/4npcaX8c3wKVKXbkdrMWPu) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK), [Mars Twins](https://open.spotify.com/artist/2255cIvJST7JWNyUizO1py) | [Find a Way](https://open.spotify.com/album/5hKGXah8BRysDvwyKuLrda) | 2:16 | 2023-04-27 | 2023-07-08 |
 | [Find Love](https://open.spotify.com/track/0RSeZsQ2AwR6FSidj6G6QN) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Find Love](https://open.spotify.com/album/7rgzTxxUqi2hgXNntYcJCn) | 3:36 | 2023-05-26 | 2024-01-06 |
 | [Fknow It](https://open.spotify.com/track/25OrWN8wbqdUzTFKVSMRT6) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fknow It](https://open.spotify.com/album/3sKCHUJUmKYQPTnYMopHba) | 4:16 | 2023-06-15 | 2024-01-06 |

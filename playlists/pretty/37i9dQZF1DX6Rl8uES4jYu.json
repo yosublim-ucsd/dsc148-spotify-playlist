@@ -1,6 +1,6 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 241236,
+  "num_followers": 241231,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
@@ -1414,6 +1414,10 @@
         {
           "name": "Dizzy Wright",
           "url": "https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq"
+        },
+        {
+          "name": "Mike & Keys",
+          "url": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
         }
       ],
       "duration_ms": 155203,

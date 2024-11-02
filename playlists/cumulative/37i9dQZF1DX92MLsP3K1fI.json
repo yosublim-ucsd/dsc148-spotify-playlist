@@ -1455,6 +1455,28 @@
     },
     {
       "album": {
+        "name": "Como Amigos",
+        "url": "https://open.spotify.com/album/12HWcD77wVcteb98k8svgJ"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131806,
+      "name": "Como Amigos",
+      "url": "https://open.spotify.com/track/3G6AGojyBobTlHNibQ4W48"
+    },
+    {
+      "album": {
         "name": "Como En El Cine",
         "url": "https://open.spotify.com/album/0c3RX7proUtcTvEgjPKwnq"
       },
@@ -3305,6 +3327,28 @@
     },
     {
       "album": {
+        "name": "John Travolta Flow",
+        "url": "https://open.spotify.com/album/6KjzHsjKf0VG2hC0os4pfi"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        },
+        {
+          "name": "Lenchanter",
+          "url": "https://open.spotify.com/artist/5iMB2hljXcBHzgrbK4FUnl"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179626,
+      "name": "John Travolta Flow",
+      "url": "https://open.spotify.com/track/47acvbWSF9jaycIC2tm3cV"
+    },
+    {
+      "album": {
         "name": "Kafka",
         "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
       },
@@ -3974,7 +4018,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 273609,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/3hbkGcYrz1nlFfPAq0w72i"
@@ -5112,7 +5156,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 170241,
       "name": "Otro Mood",
       "url": "https://open.spotify.com/track/3sBi1AWJPDLGGugGfhRR1v"
@@ -5491,6 +5535,28 @@
     },
     {
       "album": {
+        "name": "Por Si las Dudas",
+        "url": "https://open.spotify.com/album/2G72gtZRp1TXdIhpgbCJ1u"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176163,
+      "name": "Por Si las Dudas",
+      "url": "https://open.spotify.com/track/58i55N4Ji6BPyvqI4g1HTS"
+    },
+    {
+      "album": {
         "name": "Lo M\u00e1s Seguro Es Que Qui\u00e9n Sabe",
         "url": "https://open.spotify.com/album/6wSMFRm8HwZI7ygxo0zS0L"
       },
@@ -5560,7 +5626,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 176013,
       "name": "Puro Sapo",
       "url": "https://open.spotify.com/track/0uGsbOGEzgHzuKUffWOhcW"
@@ -5726,7 +5792,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 159497,
       "name": "Qui\u00e9n lo dir\u00eda",
       "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
@@ -5920,6 +5986,24 @@
       "duration_ms": 163733,
       "name": "Se Pone A Beber",
       "url": "https://open.spotify.com/track/5xoFIA7Tp9tEsD78PpkBwn"
+    },
+    {
+      "album": {
+        "name": "SECUELAS",
+        "url": "https://open.spotify.com/album/3q8KeaC1ahPlerRFMcPmd7"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "SECUELAS",
+      "url": "https://open.spotify.com/track/3QAd4QxyiYzbzYyR3iqzHY"
     },
     {
       "album": {

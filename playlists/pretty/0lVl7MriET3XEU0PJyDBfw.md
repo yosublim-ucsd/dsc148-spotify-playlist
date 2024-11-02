@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 10,994 likes - 69 songs - 3 hr 42 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 10,994 likes - 69 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 6 | [Right Action](https://open.spotify.com/track/7CDsdKiYwJfqmjfdPfg78t) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Right Action](https://open.spotify.com/album/7AuSJ2hgeFamx8apBtmEiY) | 3:15 |
 | 7 | [Set Me Free](https://open.spotify.com/track/6nslHVy8MuKPfqPlgNtReB) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [What Is Life](https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU) | 3:46 |
 | 8 | [More Space](https://open.spotify.com/track/7srH6afc3AXhsmU4XcZrPx) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [More Space](https://open.spotify.com/album/53h1Wk7lmh8M918riZ8GHg) | 2:37 |
-| 9 | [FACTS](https://open.spotify.com/track/3uezCj7xBPyNlBc6cBbtMU) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [FACTS](https://open.spotify.com/album/3YZSUqSHB8FgsfJH0Mgkg9) | 5:21 |
+| 9 | [FACTS](https://open.spotify.com/track/3uezCj7xBPyNlBc6cBbtMU) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [FACTS](https://open.spotify.com/album/3YZSUqSHB8FgsfJH0Mgkg9) | 3:31 |
 | 10 | [Hunnid](https://open.spotify.com/track/0foByd4zgjnNQr2vH3aw5P) | [HeyDoc!](https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB) | [Hunnid](https://open.spotify.com/album/5uw7NMcwgS9qPUK5Xob6WK) | 3:55 |
 | 11 | [Too Hot](https://open.spotify.com/track/3KNH2PagNu27psa894EBGP) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Too Hot](https://open.spotify.com/album/2KVRtCWAoUEpdU9JBGvCmm) | 3:15 |
 | 12 | [Alerta \(feat\. Myles O’Neal\)](https://open.spotify.com/track/09i3VLXbk1rtbKqgGeuVEp) | [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1), [Myles O'Neal](https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv) | [Alerta \(feat\. Myles O’Neal\)](https://open.spotify.com/album/2bUI4qyexmvpeR7mZ7XxE8) | 3:03 |

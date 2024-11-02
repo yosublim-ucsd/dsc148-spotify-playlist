@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Dar Es Salaam",
+        "url": "https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153281,
+      "name": "Dar Es Salaam",
+      "url": "https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB"
+    },
+    {
+      "album": {
         "name": "Demu Wangu (Remix)",
         "url": "https://open.spotify.com/album/7zSRhcHQG4jIHEHBSq5euQ"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 264879,
       "name": "Kuchi Kuchi",
       "url": "https://open.spotify.com/track/1EVlvQwykbaVyJubmEo5bM"
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 291800,
       "name": "Nimejipata",
       "url": "https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq"
@@ -1996,6 +2014,24 @@
       "duration_ms": 292437,
       "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
       "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
+    },
+    {
+      "album": {
+        "name": "Tisheti Yangu",
+        "url": "https://open.spotify.com/album/6sZB5jceGSqVR78JEoRiBy"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220807,
+      "name": "Tisheti Yangu",
+      "url": "https://open.spotify.com/track/1WaC2LufvvoGNDCZ75Ozej"
     },
     {
       "album": {

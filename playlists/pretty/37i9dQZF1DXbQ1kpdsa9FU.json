@@ -1,6 +1,6 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always. Cover: <a href=\"spotify:artist:4sdhhi6q1Ez9l5PagQsykC\">Katy Nichole</a>",
-  "num_followers": 619104,
+  "num_followers": 619215,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "One-Way Conversations",
-        "url": "https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW"
-      },
-      "artists": [
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "In Awe",
-      "url": "https://open.spotify.com/track/053yoApAqzVFYZQUcf60Zv"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Saints and Sinners",
         "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Praise God For That",
-        "url": "https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww"
+        "name": "One-Way Conversations",
+        "url": "https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW"
       },
       "artists": [
         {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
         }
       ],
-      "duration_ms": 192273,
-      "name": "Praise God For That",
-      "url": "https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0"
+      "duration_ms": 218133,
+      "name": "In Awe",
+      "url": "https://open.spotify.com/track/053yoApAqzVFYZQUcf60Zv"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -951,6 +935,22 @@
       "duration_ms": 227813,
       "name": "All Because of Mercy",
       "url": "https://open.spotify.com/track/1bq21JiVUbQG41ukuhC8MT"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Praise God For That",
+        "url": "https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 192273,
+      "name": "Praise God For That",
+      "url": "https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0"
     },
     {
       "added_at": "2024-06-23 01:51:00",

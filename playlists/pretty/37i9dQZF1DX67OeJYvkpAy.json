@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Stacy N.K.R.",
-  "num_followers": 89444,
+  "num_followers": 89432,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Scorpio Trait",
-        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
-      },
-      "artists": [
-        {
-          "name": "Fabz",
-          "url": "https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Scorpio Trait",
-      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
         "name": "Akhirah",
         "url": "https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 221570,
       "name": "Akhirah",
       "url": "https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "Scorpio Trait",
+        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
+      },
+      "artists": [
+        {
+          "name": "Fabz",
+          "url": "https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Scorpio Trait",
+      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "The Talking Stage Game",
-        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
+        "name": "Frozen Gold",
+        "url": "https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy"
       },
       "artists": [
         {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "name": "MKAY",
+          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
         }
       ],
-      "duration_ms": 194148,
-      "name": "The Talking Stage Game",
-      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
+      "duration_ms": 138110,
+      "name": "Frozen Gold",
+      "url": "https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1095,6 +1095,22 @@
       "duration_ms": 134193,
       "name": "Again",
       "url": "https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "The Talking Stage Game",
+        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 194148,
+      "name": "The Talking Stage Game",
+      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Frozen Gold",
-        "url": "https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy"
-      },
-      "artists": [
-        {
-          "name": "MKAY",
-          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
-        }
-      ],
-      "duration_ms": 138110,
-      "name": "Frozen Gold",
-      "url": "https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 182608,
       "name": "Derby To Moston",
       "url": "https://open.spotify.com/track/488gyYhx0kuJzJvMEXtouL"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1231,26 +1215,6 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Berlin Luv",
-        "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        },
-        {
-          "name": "AD North",
-          "url": "https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Berlin Luv",
-      "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
         "name": "Up all night",
         "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
       },
@@ -1283,8 +1247,28 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "I Wanna Start My Life Again",
-        "url": "https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO"
+        "name": "Berlin Luv",
+        "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        },
+        {
+          "name": "AD North",
+          "url": "https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Berlin Luv",
+      "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
       },
       "artists": [
         {
@@ -1292,9 +1276,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 150884,
-      "name": "I Wanna Start My Life Again",
-      "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1315,18 +1299,50 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Late Night Trips",
-        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
+        "name": "No Pain",
+        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
       },
       "artists": [
         {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
         }
       ],
-      "duration_ms": 97436,
-      "name": "Late Night Trips",
-      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
+      "duration_ms": 165405,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "Why you gotta lie?",
+        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 156053,
+      "name": "Why you gotta lie?",
+      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "My Girl (Gemini)",
+        "url": "https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
+        }
+      ],
+      "duration_ms": 153045,
+      "name": "My Girl (Gemini)",
+      "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1351,54 +1367,6 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Why you gotta lie?",
-        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 156053,
-      "name": "Why you gotta lie?",
-      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
-        "name": "No Pain",
-        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 165405,
-      "name": "No Pain",
-      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
-        "name": "My Girl (Gemini)",
-        "url": "https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh"
-      },
-      "artists": [
-        {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
-        }
-      ],
-      "duration_ms": 153045,
-      "name": "My Girl (Gemini)",
-      "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
         "name": "Lowkey '",
         "url": "https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X"
       },
@@ -1415,6 +1383,22 @@
       "duration_ms": 154157,
       "name": "Lowkey '",
       "url": "https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1439,22 +1423,18 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Married To Music",
-        "url": "https://open.spotify.com/album/7fbKdr059ApFzZFVgH3Z9v"
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
       },
       "artists": [
         {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        },
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
         }
       ],
-      "duration_ms": 181090,
-      "name": "Married To Music",
-      "url": "https://open.spotify.com/track/0BzkXAdyJcycv5eij2YzaQ"
+      "duration_ms": 97436,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1507,6 +1487,22 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
+        "name": "I Wanna Start My Life Again",
+        "url": "https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 150884,
+      "name": "I Wanna Start My Life Again",
+      "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
         "name": "One Mic",
         "url": "https://open.spotify.com/album/0WjAPpOCAJlotirvomOlrS"
       },
@@ -1527,18 +1523,22 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "I Thought I'd Die In Your Arms",
-        "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
+        "name": "Married To Music",
+        "url": "https://open.spotify.com/album/7fbKdr059ApFzZFVgH3Z9v"
       },
       "artists": [
         {
           "name": "MiSTah Kye",
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        },
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
         }
       ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
+      "duration_ms": 181090,
+      "name": "Married To Music",
+      "url": "https://open.spotify.com/track/0BzkXAdyJcycv5eij2YzaQ"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1607,6 +1607,22 @@
       "duration_ms": 193714,
       "name": "4am",
       "url": "https://open.spotify.com/track/4OSCSOIUKJKvWlHbwXBDah"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "I Thought I'd Die In Your Arms",
+        "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1687,22 +1703,6 @@
       "duration_ms": 203046,
       "name": "Everyone Keeps Asking",
       "url": "https://open.spotify.com/track/4wMeSeTadv1UZ6HE7d5wdE"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
-        "name": "She Comes & Goes",
-        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     },
     {
       "added_at": "2024-06-12 15:11:47",

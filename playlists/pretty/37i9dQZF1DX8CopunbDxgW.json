@@ -1,44 +1,28 @@
 {
-  "description": "The best indie dance tracks of the moment \u2728 with Stuzzi",
-  "num_followers": 871913,
+  "description": "The best indie dance tracks of the moment \u2728 with Sam Gellaitry",
+  "num_followers": 871960,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsXwAAAAAAWLcxD3W38wg7WbcwbL/Of",
+  "snapshot_id": "ZyRdAAAAAABvI8p3nSSYXqt/pZBNELFL",
   "tracks": [
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-11-01 04:45:51",
       "album": {
-        "name": "i get crazy thinking about a life without you and crazier thinking about a life with you",
-        "url": "https://open.spotify.com/album/39aqp3shkeEnnEkoTlGGHS"
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/25CSCR1YpZdrv8abTAPXk2"
       },
       "artists": [
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 225531,
-      "name": "i get crazy thinking about a life without you and crazier thinking about a life with you",
-      "url": "https://open.spotify.com/track/3VMMwa5gAVlfMMESQ6p3o1"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Let's Go Back",
-        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 169651,
-      "name": "Let's Go Back",
-      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
+      "duration_ms": 199173,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1fONtMDgrejXVDC7im22Sw"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -57,24 +41,36 @@
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "find u",
-        "url": "https://open.spotify.com/album/0QORzhl36RhOqt59EwFfw2"
+        "name": "Let's Go Back",
+        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
       },
       "artists": [
         {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
-        },
-        {
-          "name": "Jukaa",
-          "url": "https://open.spotify.com/artist/0htf47H48mOHETJeWErDUb"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 203488,
-      "name": "find u",
-      "url": "https://open.spotify.com/track/25LzzeXYBRlb2svW7tq7NS"
+      "duration_ms": 169651,
+      "name": "Let's Go Back",
+      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "i get crazy thinking about a life without you and crazier thinking about a life with you",
+        "url": "https://open.spotify.com/album/39aqp3shkeEnnEkoTlGGHS"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 225531,
+      "name": "i get crazy thinking about a life without you and crazier thinking about a life with you",
+      "url": "https://open.spotify.com/track/3VMMwa5gAVlfMMESQ6p3o1"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -97,36 +93,48 @@
       "url": "https://open.spotify.com/track/6g9LmVrQJPVYSeBdPVxrrr"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-11-01 04:45:51",
       "album": {
-        "name": "Nenuphar",
-        "url": "https://open.spotify.com/album/7b8GCnrjHnoXtwwEKEpsLp"
+        "name": "Somethin Bout You (with Betsy)",
+        "url": "https://open.spotify.com/album/66hZQRJwU2C2IAw0EP5yYJ"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+        },
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
         }
       ],
-      "duration_ms": 255040,
-      "name": "Nenuphar",
-      "url": "https://open.spotify.com/track/4x9yoEqReJGOW7q7O15930"
+      "duration_ms": 217773,
+      "name": "Somethin Bout You (feat. Betsy) - Korn\u00e9l Kov\u00e1cs Remix",
+      "url": "https://open.spotify.com/track/4qOa6vs4ov95ePvABgU0PL"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Still Riding",
-        "url": "https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172"
+        "name": "find u",
+        "url": "https://open.spotify.com/album/0QORzhl36RhOqt59EwFfw2"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        },
+        {
+          "name": "Jukaa",
+          "url": "https://open.spotify.com/artist/0htf47H48mOHETJeWErDUb"
         }
       ],
-      "duration_ms": 219152,
-      "name": "Still Riding",
-      "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"
+      "duration_ms": 203488,
+      "name": "find u",
+      "url": "https://open.spotify.com/track/25LzzeXYBRlb2svW7tq7NS"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -151,6 +159,70 @@
       "duration_ms": 274920,
       "name": "Smalltown Boy (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
+    },
+    {
+      "added_at": "2024-11-01 04:45:51",
+      "album": {
+        "name": "x-ray eyes",
+        "url": "https://open.spotify.com/album/0NXggkTAhL1M8NOz7tfzAt"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 291506,
+      "name": "x-ray eyes",
+      "url": "https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Still Riding",
+        "url": "https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 219152,
+      "name": "Still Riding",
+      "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Nenuphar",
+        "url": "https://open.spotify.com/album/7b8GCnrjHnoXtwwEKEpsLp"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 255040,
+      "name": "Nenuphar",
+      "url": "https://open.spotify.com/track/4x9yoEqReJGOW7q7O15930"
+    },
+    {
+      "added_at": "2024-11-01 04:45:51",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/369Mk6u4O6PMo13VaLYH6B"
+      },
+      "artists": [
+        {
+          "name": "Fig Tape",
+          "url": "https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/5DMRqUFiuV5CLRK4B9p7Sn"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -193,6 +265,26 @@
       "url": "https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl"
     },
     {
+      "added_at": "2024-11-01 04:45:51",
+      "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/2EhuFctQwCpZiQj8mTu8xU"
+      },
+      "artists": [
+        {
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Kaisha",
+          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
+        }
+      ],
+      "duration_ms": 169588,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/6xPT95WNlVyZRWJn4TPTmi"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "TANZPARTEI II (Mixtape)",
@@ -223,22 +315,6 @@
       "duration_ms": 182847,
       "name": "Rising Stars",
       "url": "https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "SENESCENCE",
-        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -293,6 +369,26 @@
       "url": "https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA"
     },
     {
+      "added_at": "2024-11-01 04:45:51",
+      "album": {
+        "name": "Hey Baby (salute Remix)",
+        "url": "https://open.spotify.com/album/6TejDHnQGR3yqYsrWDCn27"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        },
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 215111,
+      "name": "Hey Baby (salute remix - radio edit)",
+      "url": "https://open.spotify.com/track/3Wt9BeTK8SlTG7c3KEBJN5"
+    },
+    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Back Then, Computer Sound",
@@ -307,6 +403,22 @@
       "duration_ms": 230001,
       "name": "4byfour",
       "url": "https://open.spotify.com/track/4xf4ZZCWTDO4Xnm3qQ2Y0k"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "SENESCENCE 05 + 06",
+        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 170235,
+      "name": "Grin",
+      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -893,22 +1005,6 @@
       "url": "https://open.spotify.com/track/0Sl8DtJ5CYxGtvZ70vAFJz"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "INTRO",
-        "url": "https://open.spotify.com/album/6nLhO0HjISaaG6Snxi8nMF"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 213602,
-      "name": "YOMM",
-      "url": "https://open.spotify.com/track/6JXKKjn3Dl8JTxsZwYXMhV"
-    },
-    {
       "added_at": "2024-09-03 16:53:52",
       "album": {
         "name": "Why's this dealer?",
@@ -1039,22 +1135,6 @@
       "duration_ms": 221030,
       "name": "Life at Full Speed",
       "url": "https://open.spotify.com/track/29pC8YWSnfFq6x9mOXsafF"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "SENESCENCE 05 + 06",
-        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 170235,
-      "name": "Grin",
-      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1465,22 +1545,6 @@
       "url": "https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Hold You EP",
-        "url": "https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Type of Girl",
@@ -1515,22 +1579,6 @@
       "duration_ms": 215000,
       "name": "Chasing a Comfort",
       "url": "https://open.spotify.com/track/4YHAfaaYdCdcvwhOD9YcOG"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1669,26 +1717,6 @@
       "url": "https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Late Night Tails",
-        "url": "https://open.spotify.com/album/673Knbuukfc84494HkQeTv"
-      },
-      "artists": [
-        {
-          "name": "Luke Million",
-          "url": "https://open.spotify.com/artist/1khu4DLsGK5MWLbUlfKkgz"
-        },
-        {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Be Here Tonight",
-      "url": "https://open.spotify.com/track/3U3zQQcN4EUFI2F0erJyG2"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Living It Up",
@@ -1703,22 +1731,6 @@
       "duration_ms": 200500,
       "name": "Living It Up",
       "url": "https://open.spotify.com/track/05HfcpAJ4PBRp15enPGv0P"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "bloom",
-        "url": "https://open.spotify.com/album/4Zv0bNgVK4TsiXgbpGZjep"
-      },
-      "artists": [
-        {
-          "name": "The Sanctuary",
-          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
-        }
-      ],
-      "duration_ms": 170246,
-      "name": "bloom",
-      "url": "https://open.spotify.com/track/52bxrBYszKwhqRw0xXyHxD"
     },
     {
       "added_at": "2024-07-26 05:08:01",

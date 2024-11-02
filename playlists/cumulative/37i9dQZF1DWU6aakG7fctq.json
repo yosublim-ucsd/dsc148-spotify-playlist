@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: day2k",
+  "description": "Fresh Latin Indie you should know. Cover: Gus",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 264500,
       "name": "A C\u00e1mara Lenta",
       "url": "https://open.spotify.com/track/1iKFiYONcwgZQK1pZEFBbg"
@@ -3863,6 +3863,28 @@
     },
     {
       "album": {
+        "name": "En El Aire",
+        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "En El Aire",
+      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
+    },
+    {
+      "album": {
         "name": "EN EL MISMO LUGAR",
         "url": "https://open.spotify.com/album/0aNzPJUm5O1BjrCjWfp5ml"
       },
@@ -4435,6 +4457,24 @@
     },
     {
       "album": {
+        "name": "ETERNO RESPLANDOR",
+        "url": "https://open.spotify.com/album/3xjKxy9YtsQ5wbcwGy7cqf"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "ETERNO RESPLANDOR",
+      "url": "https://open.spotify.com/track/3CZBERnMlSszfxH5I4SGQS"
+    },
+    {
+      "album": {
         "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
         "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
       },
@@ -4776,7 +4816,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 241333,
       "name": "Frankies",
       "url": "https://open.spotify.com/track/3kiD3rIZcfyYHIAdjwSkm3"
@@ -4993,6 +5033,24 @@
     },
     {
       "album": {
+        "name": "GIRASOLES",
+        "url": "https://open.spotify.com/album/4BPQWsZkMR3o3ByxuOtSTY"
+      },
+      "artists": [
+        {
+          "name": "Dante Ouvi\u00f1a",
+          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195418,
+      "name": "GIRASOLES",
+      "url": "https://open.spotify.com/track/5VPQneasbclOBneViHONQK"
+    },
+    {
+      "album": {
         "name": "Gobi\u00e9rname",
         "url": "https://open.spotify.com/album/3cAjgVllvtmZAFN8xodK08"
       },
@@ -5192,7 +5250,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 185390,
       "name": "HAT TRICK",
       "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
@@ -5572,7 +5630,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 174123,
       "name": "Imit\u00e1ndote",
       "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
@@ -7226,7 +7284,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 223540,
       "name": "Luna Nueva",
       "url": "https://open.spotify.com/track/0SvxXdM7sXZkG2Kf4eolcO"
@@ -9840,7 +9898,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 156667,
       "name": "Pal\u00edndromo",
       "url": "https://open.spotify.com/track/1nCidg1Hrskh7gL9Wz5Uj0"
@@ -10732,7 +10790,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 172102,
       "name": "QUE ARRECHERA (no tener dinero)",
       "url": "https://open.spotify.com/track/45xGL2wLPl8Bz9S6WDCWGh"
@@ -12858,7 +12916,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 148437,
       "name": "Te Recuerdo",
       "url": "https://open.spotify.com/track/6SmVHW7Q7Whp8WrUx8EdD2"
@@ -14140,7 +14198,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 253934,
       "name": "vidas",
       "url": "https://open.spotify.com/track/1feOGbkJwLkkv6Y2FUO7CK"
@@ -14512,7 +14570,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 239000,
       "name": "YNMA",
       "url": "https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D"

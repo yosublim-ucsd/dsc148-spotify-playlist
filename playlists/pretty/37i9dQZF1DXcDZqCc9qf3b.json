@@ -1,6 +1,6 @@
 {
   "description": "Groove to music from your Netflix Kids favorites! Cover: Saving Bikini Bottom",
-  "num_followers": 66289,
+  "num_followers": 66343,
   "original_name": "Netflix Kids Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -102,6 +102,10 @@
         {
           "name": "Hot Wheels Let's Race",
           "url": "https://open.spotify.com/artist/47KiFGj9XRfpLHfUHtzxUL"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
         }
       ],
       "duration_ms": 104000,

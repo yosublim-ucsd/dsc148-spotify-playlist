@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Bonus",
+        "url": "https://open.spotify.com/album/1cnXfI7iFgPj3qn2P2WaRz"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236107,
+      "name": "Bonus",
+      "url": "https://open.spotify.com/track/1D6nBTLIdy8SejLOjDTY6R"
+    },
+    {
+      "album": {
         "name": "boys, bugs and men",
         "url": "https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ"
       },

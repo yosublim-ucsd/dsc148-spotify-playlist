@@ -4,7 +4,7 @@
 
 > Cesara Linaaaaaaa
 
-725 songs - 2 day 4 hr 11 min
+726 songs - 2 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Feeling Alive](https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Feeling Alive](https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt) | 3:49 | 2024-08-08 |  |
 | [Feels INTL](https://open.spotify.com/track/0ujUvKlzv8vjOdOwixVwgd) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [FEELS INTL](https://open.spotify.com/album/0dDuRsHnkK3981tZe381BY) | 3:54 | 2023-06-29 | 2023-08-02 |
 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 | 2023-10-12 | 2024-06-21 |
+| [Finally \(with Alicia Keys\) \- Eran Hersh & Shooma Remix](https://open.spotify.com/track/79VtNwEpKTQCJWQpRHKZlW) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Shooma](https://open.spotify.com/artist/5gVzUUccqWoWM8Gm7t7Oju) | [Finally \(Remixes\)](https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg) | 3:30 | 2024-10-31 |  |
 | [Fine Day \- BLR Afro Summer Mix](https://open.spotify.com/track/1MYPCcjGTjdpyU3fB3Fj49) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Fine Day \(BLR Afro Summer Mix\)](https://open.spotify.com/album/2G1TJXG45LkIK9TTgCpjIc) | 3:58 | 2024-10-03 |  |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2023-04-13 | 2023-08-02 |
 | [Flores \- Meera \(NO\) Remix](https://open.spotify.com/track/7hJdfNjNHfzXMEmO5PIObo) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Flores \(Meera Remix\)](https://open.spotify.com/album/0vNnO7EV8asQ3ZcHxXy8lk) | 8:16 | 2024-04-11 | 2024-06-21 |

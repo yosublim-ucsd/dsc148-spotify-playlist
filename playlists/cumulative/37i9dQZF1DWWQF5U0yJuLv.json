@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Kelly Lee Owens",
+        "url": "https://open.spotify.com/album/7z6fUAxSNYLKEkxrcPcfZx"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315266,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/5FauIrURBh6U8fWJAffI9P"
+    },
+    {
+      "album": {
         "name": "Out of Reality EP",
         "url": "https://open.spotify.com/album/7cmS4iTUYbnBXngtlq2br7"
       },
@@ -868,7 +886,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 260133,
       "name": "Eyen",
       "url": "https://open.spotify.com/track/4VJBvbJO0hb8rbksWMwVyC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4B4YYJ0BAYBK86yxqQV7mu\">Funky</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:0rOLLmeuTbBAx7YKcVEECH\">Gabriel EMC</a> y <a href=\"spotify:artist:0WI8OfWCRvK4nGHmKfFQmd\">Alex Zurdo</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1022,6 +1022,28 @@
       "duration_ms": 242570,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2SWzVaubaZL8tVapoBBg10"
+    },
+    {
+      "album": {
+        "name": "intimidad",
+        "url": "https://open.spotify.com/album/6GKFwod17OHtDzGBdAmJfH"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364605,
+      "name": "Amamos tanto tu presencia + Santo",
+      "url": "https://open.spotify.com/track/1h8X947GsdwsdlhP3L80vC"
     },
     {
       "album": {
@@ -2517,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Uno En Cristo",
+        "url": "https://open.spotify.com/album/7Ej7F5v4YIFhd9LFwBVCaX"
+      },
+      "artists": [
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376174,
+      "name": "Conmigo Est\u00e1s - Live",
+      "url": "https://open.spotify.com/track/1kdUFEZwGLkOIysxdshXy4"
+    },
+    {
+      "album": {
         "name": "Construir\u00e9 Mi Vida",
         "url": "https://open.spotify.com/album/2sqh2FQIadwmWaycktFzkr"
       },
@@ -3490,7 +3530,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 731465,
       "name": "Desirable",
       "url": "https://open.spotify.com/track/5UREzf4cUiZ9gkmcl7poLe"
@@ -6658,7 +6698,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 336662,
       "name": "Jehov\u00e1 Jireh",
       "url": "https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO"
@@ -7974,7 +8014,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 226264,
       "name": "Mi Amado",
       "url": "https://open.spotify.com/track/1nfTVyVDsqJwL0WzP0eWix"
@@ -8228,7 +8268,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 278274,
       "name": "Mi Libertador / My Deliverer [Versi\u00f3n en Espa\u00f1ol e Ingl\u00e9s]",
       "url": "https://open.spotify.com/track/2gSXfmbsFjPspt3uxLDGk9"
@@ -8318,7 +8358,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 247103,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/0eRkknh8nVAbPadLYhoHbL"
@@ -9077,6 +9117,28 @@
     },
     {
       "album": {
+        "name": "No Me Averg\u00fcenzo",
+        "url": "https://open.spotify.com/album/3YIlrzmzBejp0V5nSgytMh"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275057,
+      "name": "No Me Averg\u00fcenzo",
+      "url": "https://open.spotify.com/track/3DIxROb3rax8yTeetjGxMg"
+    },
+    {
+      "album": {
         "name": "No Me Dejar\u00e1s (feat. Amara Rodes)",
         "url": "https://open.spotify.com/album/6ydI30e7VlZTCY1ChdvW7M"
       },
@@ -9180,6 +9242,24 @@
       "duration_ms": 549180,
       "name": "No Other Place Is Higher (No Hay Lugar M\u00e1s Alto) - Live",
       "url": "https://open.spotify.com/track/3ULNSGnunCeYaINoPgej2D"
+    },
+    {
+      "album": {
+        "name": "No S\u00e9",
+        "url": "https://open.spotify.com/album/6jXL0Nm8MZT6Dv7kq3DLIR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187981,
+      "name": "No S\u00e9",
+      "url": "https://open.spotify.com/track/2hn1HsIVyF4NRh9AzOA1SW"
     },
     {
       "album": {
@@ -9409,6 +9489,24 @@
     },
     {
       "album": {
+        "name": "NOVUS",
+        "url": "https://open.spotify.com/album/26Dv1GG4Ar8Ag1TvfmpdiY"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218138,
+      "name": "Novus",
+      "url": "https://open.spotify.com/track/3UrfZcpiYUiuUZxvf2mkKc"
+    },
+    {
+      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/3MSk7DD57l7CqyCIZl6hVQ"
       },
@@ -9502,6 +9600,24 @@
       "duration_ms": 143577,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/1qgTb6NDWkpyQLt4pQT9iJ"
+    },
+    {
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/5OZRIdpZD8OuTNF9KAhydo"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/17nibmm08dDXmL2U8mtjaR"
     },
     {
       "album": {
@@ -10502,6 +10618,28 @@
       "duration_ms": 253120,
       "name": "Recu\u00e9rdame x Evan Craft (En vivo desde Bogot\u00e1, Colombia)",
       "url": "https://open.spotify.com/track/4lNNKtUqG7PHiuWtl2swZR"
+    },
+    {
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/7ikYSGaGQ3nE2jTnlUvrEA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "RELEVO",
+      "url": "https://open.spotify.com/track/6zy5hNOab70RmhJVDPQ42q"
     },
     {
       "album": {
@@ -12816,7 +12954,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 345996,
       "name": "Tu Mesa Sana (A Tua Mesa Cura)",
       "url": "https://open.spotify.com/track/3PGs71XnOHZhOWlrIZLbv9"
@@ -12882,7 +13020,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 500624,
       "name": "Tu Presencia me Llam\u00f3 - Me Atraiu - Vers\u00e3o Espanhol",
       "url": "https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6"

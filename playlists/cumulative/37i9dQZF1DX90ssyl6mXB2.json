@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 125039,
       "name": "Ciao!",
       "url": "https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ"
@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "did you mean it ?",
+        "url": "https://open.spotify.com/album/1fkU262XlkuMzCBZLoneRV"
+      },
+      "artists": [
+        {
+          "name": "OVI WOOD",
+          "url": "https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148909,
+      "name": "did you mean it ?",
+      "url": "https://open.spotify.com/track/3crlsGG2XuwWIeSYYneyhg"
+    },
+    {
+      "album": {
         "name": "Digestive's Story",
         "url": "https://open.spotify.com/album/4MY8oKLiXztJ1DbR2DJCFk"
       },
@@ -696,6 +714,24 @@
       "duration_ms": 157575,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/1MuSaxhOeNsFXdftnS5Ldc"
+    },
+    {
+      "album": {
+        "name": "Double Time",
+        "url": "https://open.spotify.com/album/1BMXPORYXkdUNmkPrUow1z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125350,
+      "name": "Double Time",
+      "url": "https://open.spotify.com/track/1TbRmfLl7wT5MjrKKigGbU"
     },
     {
       "album": {
@@ -866,6 +902,24 @@
       "duration_ms": 196933,
       "name": "Fatal Attraction",
       "url": "https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt"
+    },
+    {
+      "album": {
+        "name": "UNTL",
+        "url": "https://open.spotify.com/album/5tnoL3rV57PcLA1Q5FuWmG"
+      },
+      "artists": [
+        {
+          "name": "Nobu Woods",
+          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "FAULT",
+      "url": "https://open.spotify.com/track/6Bnweg54wjd437ncj6s9qO"
     },
     {
       "album": {
@@ -2560,6 +2614,24 @@
       "duration_ms": 141675,
       "name": "Without Me (MajorStage Original)",
       "url": "https://open.spotify.com/track/4sTKQ9YjcmrxJ0823U6jAf"
+    },
+    {
+      "album": {
+        "name": "worst behaviour",
+        "url": "https://open.spotify.com/album/1QDdD3BJIcadQhuWBnuGTh"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178992,
+      "name": "worst behaviour",
+      "url": "https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ"
     },
     {
       "album": {

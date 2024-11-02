@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A collection of the best recent Prog Rock tracks. Cover: Weather Systems",
+  "description": "A collection of the best recent prog rock track. Cover: VOLA",
   "name": "Prog Rock",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 255930,
       "name": "Blast of Silence",
       "url": "https://open.spotify.com/track/2EhBaUmjUCkULpO8aDBdSA"
@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Phantom Island",
+        "url": "https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316137,
+      "name": "Phantom Island",
+      "url": "https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp"
+    },
+    {
+      "album": {
         "name": "Phototroph",
         "url": "https://open.spotify.com/album/2qfghxH803q4OFSszIDEt3"
       },
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 90000,
       "name": "Steamhappy",
       "url": "https://open.spotify.com/track/50VAiuDXEeqgGnA244Cxpw"
@@ -3454,6 +3472,28 @@
       "duration_ms": 241066,
       "name": "The Monster Roars",
       "url": "https://open.spotify.com/track/32xyRA1ED50D5C42SOVrXu"
+    },
+    {
+      "album": {
+        "name": "The Old Peace (2024 Remaster)",
+        "url": "https://open.spotify.com/album/61pU9e4BXyseqfdCaAbrpd"
+      },
+      "artists": [
+        {
+          "name": "Steven Wilson",
+          "url": "https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0"
+        },
+        {
+          "name": "Mariusz Duda",
+          "url": "https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "The Old Peace - 2024 Remaster",
+      "url": "https://open.spotify.com/track/4W8KJ5AfVf5O4VIlOwbgTG"
     },
     {
       "album": {
@@ -3869,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "Friend Of A Phantom",
+        "url": "https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265066,
+      "name": "We Will Not Disband",
+      "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"
+    },
+    {
+      "album": {
         "name": "Against the Fall of Night",
         "url": "https://open.spotify.com/album/1dixxA709bADWmK1rxnvug"
       },
@@ -4010,7 +4068,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 308733,
       "name": "\u8607\u9192 Frailty",
       "url": "https://open.spotify.com/track/1WqezPw5PiMu0x2yOPCx5e"

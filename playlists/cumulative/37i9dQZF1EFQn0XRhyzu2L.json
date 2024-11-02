@@ -6741,6 +6741,28 @@
     },
     {
       "album": {
+        "name": "Otro Level",
+        "url": "https://open.spotify.com/album/4RxTRvsmseN1LEUzvjaYSd"
+      },
+      "artists": [
+        {
+          "name": "stuck in 98",
+          "url": "https://open.spotify.com/artist/1AONy6lGpBqVE5dALEhBID"
+        },
+        {
+          "name": "Y si Ah",
+          "url": "https://open.spotify.com/artist/1tBnZZW7w92XbA4rVYbblF"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121970,
+      "name": "Otro Level",
+      "url": "https://open.spotify.com/track/3da999B9jdR1aXbr3MkA5d"
+    },
+    {
+      "album": {
         "name": "sYrup!",
         "url": "https://open.spotify.com/album/1IqtsopYsIEaj4dLgsSKxM"
       },

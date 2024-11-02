@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 81132,
+  "num_followers": 81172,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "M\u00e1quina de Escrever M\u00fasica (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7o5qJh2A57nroT64dUV2vz"
+      },
+      "artists": [
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        }
+      ],
+      "duration_ms": 297573,
+      "name": "Deusa do Amor",
+      "url": "https://open.spotify.com/track/5bYc3SytNlaeXiprYUrPK1"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Nem Vem Que N\u00e3o Tem",
         "url": "https://open.spotify.com/album/2T4SgxLYyvVJxqwWGk4Pjq"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 152680,
       "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
       "url": "https://open.spotify.com/track/5G5uIDkQytLq7yOacUcjJ9"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "M\u00e1quina de Escrever M\u00fasica (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7o5qJh2A57nroT64dUV2vz"
-      },
-      "artists": [
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        }
-      ],
-      "duration_ms": 297573,
-      "name": "Deusa do Amor",
-      "url": "https://open.spotify.com/track/5bYc3SytNlaeXiprYUrPK1"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Feiti\u00e7o Caboclo",
-        "url": "https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW"
-      },
-      "artists": [
-        {
-          "name": "Dona Onete",
-          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
-        }
-      ],
-      "duration_ms": 267120,
-      "name": "Jamburana",
-      "url": "https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Mart'n\u00e1lia em Berlim (Ao Vivo)",
         "url": "https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 256053,
       "name": "P\u00e9 do Meu Samba - Ao Vivo",
       "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Feiti\u00e7o Caboclo",
+        "url": "https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW"
+      },
+      "artists": [
+        {
+          "name": "Dona Onete",
+          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
+        }
+      ],
+      "duration_ms": 267120,
+      "name": "Jamburana",
+      "url": "https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM"
     },
     {
       "added_at": "2022-09-22 18:13:04",

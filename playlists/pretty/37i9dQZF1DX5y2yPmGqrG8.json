@@ -1,6 +1,6 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 393223,
+  "num_followers": 393264,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Gallery Love",
+        "url": "https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64"
+      },
+      "artists": [
+        {
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+        }
+      ],
+      "duration_ms": 302190,
+      "name": "Virtual U",
+      "url": "https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Waende",
         "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 232742,
       "name": "Waende",
       "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Laughing Stock",
-        "url": "https://open.spotify.com/album/7vqMpYHIqqWQQc0IVR03ue"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 586440,
-      "name": "New Grass",
-      "url": "https://open.spotify.com/track/51Lt2RN3W0u2xI0LiARCRm"
     }
   ],
   "unique_name": "Deep Listening",

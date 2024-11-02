@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb?si=GjjIMWPgTDitOBH6dFdbUw">ONS</a>
 
-1,301 songs - 3 day 0 hr 51 min
+1,303 songs - 3 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Boksemdais](https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Boksemdais](https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0) | 3:08 | 2023-10-12 | 2024-01-26 |
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 | 2022-11-25 |
 | [Bon Voyage](https://open.spotify.com/track/0NrSDP2mXZs6qYMOJD39vs) | [Frieda van den Heever](https://open.spotify.com/artist/39GnCS0FNh3jBO81XCyKSZ), [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Spoorsny](https://open.spotify.com/album/6cfkfFuG6AQNE77E0h4w45) | 3:29 | 2024-03-08 | 2024-03-23 |
-| [Boskreet](https://open.spotify.com/track/2txilzH44pSNYq46y3022n) | [Wildebeest Brandewyn Vriende](https://open.spotify.com/artist/6dJljdfznbKeVJRrz6BHLw), [Wynand Strydom](https://open.spotify.com/artist/513hBvcWaf7eEc1il4Q7Pj), [Neil Somers](https://open.spotify.com/artist/1jO22tNfag5lkLQboj0npK), [Marulaboom](https://open.spotify.com/artist/2CvUjmvI4vm4pBhXjxuW4H) | [Boskreet](https://open.spotify.com/album/2ciYrbXHMd1DRzkanbfIb6) | 3:36 | 2024-05-23 |  |
+| [Boskreet](https://open.spotify.com/track/2txilzH44pSNYq46y3022n) | [Wildebeest Brandewyn Vriende](https://open.spotify.com/artist/6dJljdfznbKeVJRrz6BHLw), [Wynand Strydom](https://open.spotify.com/artist/513hBvcWaf7eEc1il4Q7Pj), [Neil Somers](https://open.spotify.com/artist/1jO22tNfag5lkLQboj0npK), [Marulaboom](https://open.spotify.com/artist/2CvUjmvI4vm4pBhXjxuW4H) | [Boskreet](https://open.spotify.com/album/2ciYrbXHMd1DRzkanbfIb6) | 3:36 | 2024-05-23 | 2024-11-02 |
 | [Bosveld Dans](https://open.spotify.com/track/489YLHaA5sh1CD7awfMRTD) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Bosveld Dans](https://open.spotify.com/album/7K7LqdCep5KSEnpaRyYnA0) | 3:14 | 2024-05-02 | 2024-09-27 |
 | [Bosveld Gevoel](https://open.spotify.com/track/4VCimZRWUQhdx4prBKwm1B) | [Lion Jay](https://open.spotify.com/artist/5HlRrR2lWajSDstA7bJvGU) | [In my kraal](https://open.spotify.com/album/1vkV9IaMyVaQmU6jWmpqYB) | 3:32 | 2024-06-06 | 2024-06-29 |
 | [Bosveld Oase](https://open.spotify.com/track/2MDYZM1w5xC6gvhc0yGEKL) | [JohnJ](https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT) | [Bosveld Oase](https://open.spotify.com/album/7wF4JLQwkG3hdBHr1x0n9N) | 3:22 | 2024-10-03 | 2024-10-11 |
@@ -518,6 +518,7 @@
 | [Is Ons Al Daar](https://open.spotify.com/track/7ftdt824a7EUY6Nd2hftAj) | [RAAF](https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi) | [Is Ons Al Daar](https://open.spotify.com/album/4A03tTrsxnVrTQrOeXQmve) | 3:12 | 2023-09-14 | 2023-09-29 |
 | [Jakkalsdans](https://open.spotify.com/track/002j5hLHQwXzl0g51aiYbb) | [Rita Li](https://open.spotify.com/artist/1K7LgVQOUidDGnDvugQi3V) | [Jakkalsdans](https://open.spotify.com/album/3ual8hMD2UI5zzWjtVFblL) | 3:30 | 2022-11-17 | 2023-02-03 |
 | [Jaloers](https://open.spotify.com/track/2FNleyVGNXbEAQc1rX5Grf) | [Dwayne Griffin](https://open.spotify.com/artist/1jqur7Uppp7Wu2rBiq2tDI) | [Jaloers](https://open.spotify.com/album/6g7Gd8MYlTvUa0Tm5X2OTx) | 3:12 | 2024-05-30 | 2024-06-07 |
+| [Jan Asseblief](https://open.spotify.com/track/1BbgTIFrI7uNHg189LjkqJ) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Jan Asseblief](https://open.spotify.com/album/1rGDaJtxnzwDDPBgKpg3M2) | 2:58 | 2024-11-01 |  |
 | [Jan Asseblief Tog Squeeze My](https://open.spotify.com/track/3lGJjc6pZRlqPsGHEigkAk) | [Dozi](https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf) | [Storm Op Die Horison](https://open.spotify.com/album/6FlbJYNRwwl4lSaQ6eMwPi) | 2:36 | 2023-12-29 | 2024-01-06 |
 | [Jan Ek Kan Nie Dans Nie](https://open.spotify.com/track/2rOiYASLcLXCX8HDhiQa0F) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r) | [Elmboog Na Bo](https://open.spotify.com/album/3IoJEK7GxZfjjB9nUxnsxz) | 2:53 | 2022-12-27 | 2023-01-02 |
 | [Janneman](https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Janneman](https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk) | 3:15 | 2023-11-02 | 2023-11-17 |
@@ -1053,6 +1054,7 @@
 | [Spieël](https://open.spotify.com/track/4GflVdoiBXowjLvi0Yx92y) | [Reets](https://open.spotify.com/artist/23l2yZyJ9WJ84VLZMshWvk) | [Spieël](https://open.spotify.com/album/7xYbXgNXXVkWclXADHn1xi) | 4:13 | 2023-02-23 | 2023-03-18 |
 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 | 2023-11-30 | 2023-12-22 |
 | [Spitsverkeer\(D\)](https://open.spotify.com/track/1LTLsEcVJto2rs82XEtlPp) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Spitsverkeer\(D\)](https://open.spotify.com/album/2xk4b9wcfDMILyM5nD4FaJ) | 2:40 | 2023-01-12 | 2023-02-04 |
+| [Splinter En Bakkies \(Episode 2\)](https://open.spotify.com/track/5hoF78jcfLfFDmBASral52) | [Stefan Jansen](https://open.spotify.com/artist/3OurTd4MJqH8J5U8ubA0rS) | [Splinter En Bakkies \(Episode 2\)](https://open.spotify.com/album/0ox8CKMxvutig16JgHRobi) | 2:41 | 2024-11-01 |  |
 | [Spook](https://open.spotify.com/track/2hYNiTBXQhI0LCfAW8i9CO) | [Shakira Peach](https://open.spotify.com/artist/3FYg4uUY2Mtunx0NldiDWG) | [Spook](https://open.spotify.com/album/3WOFr8y6LmftDTkUpjwHtk) | 3:28 | 2024-09-05 | 2024-09-27 |
 | [Spook by My](https://open.spotify.com/track/35epM76n7gnUapzw5DqhiO) | [Julanie J](https://open.spotify.com/artist/5FWjsO7SEyEQj4pTFUGsUD) | [Spook by My](https://open.spotify.com/album/0eOiAv7BkeGY3duTFukj3V) | 2:15 | 2024-10-31 |  |
 | [Spookasem](https://open.spotify.com/track/5iixpDNk42G7tDFoABm1sD) | [Egmond](https://open.spotify.com/artist/1RmtGwzpTsP4jlI2WhSgDd) | [Spookasem](https://open.spotify.com/album/3xo0hPBRoUQUIkfPxdAJWr) | 2:50 | 2024-10-10 | 2024-10-18 |

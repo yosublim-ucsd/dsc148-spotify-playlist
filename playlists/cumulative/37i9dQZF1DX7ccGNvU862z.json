@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YOUNGOHM",
+  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Saran, Blackheart, Rifle",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 280825,
       "name": "02100",
       "url": "https://open.spotify.com/track/1EXw7rqJcFIvMtj4Q8fhKw"
@@ -42,6 +42,32 @@
       "duration_ms": 222256,
       "name": "24SUMMERS",
       "url": "https://open.spotify.com/track/3XpHJArkRUAXIR4kXDdFeY"
+    },
+    {
+      "album": {
+        "name": "2AM (\u0e04\u0e38\u0e13\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e21\u0e32\u0e01\u0e46\u0e21\u0e31\u0e49\u0e22?)",
+        "url": "https://open.spotify.com/album/3CDUojnPiIiyslUq2WuTWb"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "BlackHeart",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        },
+        {
+          "name": "Rifle",
+          "url": "https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "2AM (\u0e04\u0e38\u0e13\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e21\u0e32\u0e01\u0e46\u0e21\u0e31\u0e49\u0e22?)",
+      "url": "https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF"
     },
     {
       "album": {
@@ -2836,7 +2862,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 147040,
       "name": "NEED 2 TALK",
       "url": "https://open.spotify.com/track/5bl5LQuMjxbgtyysB5kV4j"
@@ -4177,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Swag It Out",
+        "url": "https://open.spotify.com/album/6Zo01v0FYlJXq3ZdSEEA7N"
+      },
+      "artists": [
+        {
+          "name": "Percy",
+          "url": "https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109268,
+      "name": "Swag It Out",
+      "url": "https://open.spotify.com/track/3P9KhTVZj708BcY8qQCKUM"
+    },
+    {
+      "album": {
         "name": "Swipe Your Tears Out",
         "url": "https://open.spotify.com/album/7BRMncrJNGkwuBVsNQ3x5F"
       },
@@ -5014,6 +5058,28 @@
       "duration_ms": 238332,
       "name": "\u0e02\u0e2d\u0e2a\u0e31\u0e01\u0e17\u0e35",
       "url": "https://open.spotify.com/track/5i5phIWFygOD0Cpsc64Lui"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e41\u0e04\u0e48\u0e1d\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/5SUp1csVZEHZoQI0J3MbG9"
+      },
+      "artists": [
+        {
+          "name": "SAMBLACK",
+          "url": "https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C"
+        },
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199125,
+      "name": "\u0e02\u0e2d\u0e41\u0e04\u0e48\u0e1d\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/07Z8ao9yf1SrqJ0Q9P7pNG"
     },
     {
       "album": {
@@ -7846,7 +7912,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 219573,
       "name": "\u0e25\u0e31\u0e48\u0e19\u0e44\u0e01",
       "url": "https://open.spotify.com/track/4gfNL0Jjz8zBey4uhkZJnG"
@@ -8224,6 +8290,24 @@
       "duration_ms": 259469,
       "name": "\u0e2a\u0e38\u0e14\u0e43\u0e08",
       "url": "https://open.spotify.com/track/23YIgLVPlRRzLj1yttUvWU"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e39\u0e49\u0e0a\u0e35\u0e27\u0e34\u0e15",
+        "url": "https://open.spotify.com/album/0Gm2vRjDHWdXlUqppST7t4"
+      },
+      "artists": [
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "\u0e2a\u0e39\u0e49\u0e0a\u0e35\u0e27\u0e34\u0e15",
+      "url": "https://open.spotify.com/track/4fzdo7CHLOoEGtXRr4IBzP"
     },
     {
       "album": {
@@ -9066,7 +9150,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 210960,
       "name": "\u0e40\u0e18\u0e2d\u0e23\u0e39\u0e49\u0e21\u0e31\u0e49\u0e22\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 \u0e09\u0e31\u0e19\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e1b\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48",
       "url": "https://open.spotify.com/track/3eHNbtm3zR0fGBd203kQIT"

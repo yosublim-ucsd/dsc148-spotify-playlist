@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: HAN RORO(\ud55c\ub85c\ub85c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 238448,
+  "num_followers": 238641,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,22 @@
     {
       "added_at": "2024-10-31 04:00:00",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+        "name": "Cure (VIVINOS - ALNST Original Soundtrack Part.7)",
+        "url": "https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "AKUGETSU",
+          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
+        },
+        {
+          "name": "PARK BYEONG HOON",
+          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
         }
       ],
-      "duration_ms": 161546,
-      "name": "Fate",
-      "url": "https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2"
+      "duration_ms": 247941,
+      "name": "Cure (VIVINOS - ALNST Original Soundtrack Part.7)",
+      "url": "https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF"
     },
     {
       "added_at": "2024-10-31 04:00:00",
@@ -255,22 +259,18 @@
     {
       "added_at": "2024-10-31 04:00:00",
       "album": {
-        "name": "Cure (VIVINOS - ALNST Original Soundtrack Part.7)",
-        "url": "https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe"
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
       },
       "artists": [
         {
-          "name": "AKUGETSU",
-          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
-        },
-        {
-          "name": "PARK BYEONG HOON",
-          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 247941,
-      "name": "Cure (VIVINOS - ALNST Original Soundtrack Part.7)",
-      "url": "https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF"
+      "duration_ms": 161546,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2"
     },
     {
       "added_at": "2024-10-31 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-10-31 04:00:00",
       "album": {
-        "name": "Lovely Runner, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 218042,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR"
-    },
-    {
-      "added_at": "2024-10-31 04:00:00",
-      "album": {
         "name": "ENTITY",
         "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 173986,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
+    },
+    {
+      "added_at": "2024-10-31 04:00:00",
+      "album": {
+        "name": "Lovely Runner, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 218042,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR"
     },
     {
       "added_at": "2024-10-31 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-10-31 04:00:00",
       "album": {
-        "name": "ASTERUM",
-        "url": "https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 231986,
-      "name": "Wait for you",
-      "url": "https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g"
-    },
-    {
-      "added_at": "2024-10-31 04:00:00",
-      "album": {
         "name": "[Dystopia : Lose Myself]",
         "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 189546,
       "name": "BOCA",
       "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
+    },
+    {
+      "added_at": "2024-10-31 04:00:00",
+      "album": {
+        "name": "ASTERUM",
+        "url": "https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 231986,
+      "name": "Wait for you",
+      "url": "https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g"
     },
     {
       "added_at": "2024-10-31 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-10-31 04:00:00",
       "album": {
-        "name": "FLY HIGH PROJECT #2 'Rooftop'",
-        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 210652,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
-    },
-    {
-      "added_at": "2024-10-31 04:00:00",
-      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 237512,
       "name": "SOBER",
       "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
+    },
+    {
+      "added_at": "2024-10-31 04:00:00",
+      "album": {
+        "name": "FLY HIGH PROJECT #2 'Rooftop'",
+        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 210652,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
     },
     {
       "added_at": "2024-10-31 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-10-31 04:00:00",
       "album": {
-        "name": "[Apocalypse : From us]",
-        "url": "https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 213506,
-      "name": "BONVOYAGE",
-      "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
-    },
-    {
-      "added_at": "2024-10-31 04:00:00",
-      "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 191788,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
+    },
+    {
+      "added_at": "2024-10-31 04:00:00",
+      "album": {
+        "name": "[Apocalypse : From us]",
+        "url": "https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 213506,
+      "name": "BONVOYAGE",
+      "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
     },
     {
       "added_at": "2024-10-31 04:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-10-31 04:00:00",
       "album": {
+        "name": "Regret of the Times (2024 aespa Remake Version) - SM STATION",
+        "url": "https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Regret of the Times - 2024 aespa Remake Version",
+      "url": "https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA"
+    },
+    {
+      "added_at": "2024-10-31 04:00:00",
+      "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2024-10-31 04:00:00",
       "album": {
-        "name": "Regret of the Times (2024 aespa Remake Version) - SM STATION",
-        "url": "https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh"
+        "name": "[Apocalypse : Save us]",
+        "url": "https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 171946,
-      "name": "Regret of the Times - 2024 aespa Remake Version",
-      "url": "https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA"
+      "duration_ms": 185733,
+      "name": "MAISON",
+      "url": "https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e"
     },
     {
       "added_at": "2024-10-31 04:00:00",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2024-10-31 04:00:00",
       "album": {
-        "name": "[Apocalypse : Save us]",
-        "url": "https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "MAISON",
-      "url": "https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e"
-    },
-    {
-      "added_at": "2024-10-31 04:00:00",
-      "album": {
         "name": "ONLY LOVERS LEFT",
         "url": "https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-10-31 04:00:00",
       "album": {
-        "name": "better (with you)",
-        "url": "https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn"
-      },
-      "artists": [
-        {
-          "name": "Crying City",
-          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "better (with you)",
-      "url": "https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm"
-    },
-    {
-      "added_at": "2024-10-31 04:00:00",
-      "album": {
         "name": "Peanut Butter & Tears",
         "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 225613,
       "name": "Peanut Butter & Tears",
       "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
+    },
+    {
+      "added_at": "2024-10-31 04:00:00",
+      "album": {
+        "name": "better (with you)",
+        "url": "https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn"
+      },
+      "artists": [
+        {
+          "name": "Crying City",
+          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "better (with you)",
+      "url": "https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm"
     },
     {
       "added_at": "2024-10-31 04:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-10-31 04:00:00",
       "album": {
-        "name": "Expectation - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+        "name": "Once in a BLUE MOON",
+        "url": "https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4"
       },
       "artists": [
         {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
         }
       ],
-      "duration_ms": 176186,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/6piqcwymeAa2yyqIP8AjNj"
+      "duration_ms": 215093,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

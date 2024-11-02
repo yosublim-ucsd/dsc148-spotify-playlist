@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "HAASHVILLE",
+        "url": "https://open.spotify.com/album/3z71IM4XCA5UMiORkkr66P"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224914,
+      "name": "A las 12 Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/6u1UWAkgEhlGzYe24QNFxg"
+    },
+    {
+      "album": {
         "name": "Set the Record Straight",
         "url": "https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE"
       },
@@ -2246,6 +2268,24 @@
       "duration_ms": 192126,
       "name": "Nada es Mejor (Nothing's Better - Spanish Version)",
       "url": "https://open.spotify.com/track/2qx6CtuCTZtZiUZbk5B8F9"
+    },
+    {
+      "album": {
+        "name": "Nada Nos Detiene",
+        "url": "https://open.spotify.com/album/3XZIrgnYU3XnKZKZhuMkCm"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201702,
+      "name": "Nada Nos Detiene",
+      "url": "https://open.spotify.com/track/7b05BeveEYIUsp8Av8vtdR"
     },
     {
       "album": {

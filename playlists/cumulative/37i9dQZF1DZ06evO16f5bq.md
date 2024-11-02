@@ -4,7 +4,7 @@
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 48 min
+72 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 | 2023-09-18 |  |
 | [Carro Forte](https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 4:00 | 2023-09-18 |  |
 | [Carta Aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Carta Aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 | 2023-12-13 |  |
-| [ciúme bobo \- bônus track](https://open.spotify.com/track/0S1FlLc06jaC38AgS9BVON) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vinho](https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9) | 2:52 | 2024-10-13 |  |
+| [ciúme bobo \- bônus track](https://open.spotify.com/track/0S1FlLc06jaC38AgS9BVON) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vinho](https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9) | 2:52 | 2024-10-13 | 2024-11-02 |
+| [ciúme bobo \- bônus track](https://open.spotify.com/track/5kRHcPpwskPBHsKZUMfLwn) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vinho](https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h) | 2:52 | 2024-11-02 |  |
 | [De Marola](https://open.spotify.com/track/29xj2LAbTtApESdBIQvfIp) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [De Marola](https://open.spotify.com/album/7xCEWCYlRzfNTTgYgbqEK5) | 2:49 | 2023-09-25 | 2023-12-26 |
 | [De Marola](https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Paz Terrível](https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90) | 2:49 | 2024-08-03 |  |
 | [De Menino Virou Little Hair](https://open.spotify.com/track/7GnuK3atOK5lz9nJKe5YUl) | [DJ Meek](https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK), [MC HULK](https://open.spotify.com/artist/4qkstx5FIQ8dl7WHa6X86Q), [DINDO OG](https://open.spotify.com/artist/12u2DOVwAEO8J86VqfDjne), [DJDAVIDOB13](https://open.spotify.com/artist/4XKaUDBk0BdRMqp2m06fXL), [DJ Geh da LGD](https://open.spotify.com/artist/5ioi2enpp7F0LKSSOHur3P), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [De Menino Virou Little Hair](https://open.spotify.com/album/77Gk0cJc7VYQW3DgQFjART) | 3:01 | 2024-09-22 |  |

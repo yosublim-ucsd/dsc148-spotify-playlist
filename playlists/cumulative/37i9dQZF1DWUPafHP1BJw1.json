@@ -361,32 +361,6 @@
     },
     {
       "album": {
-        "name": "Pulse",
-        "url": "https://open.spotify.com/album/3V4SxOn6qK58LEA3c5afo8"
-      },
-      "artists": [
-        {
-          "name": "Guy-Manuel de Homem-Christo",
-          "url": "https://open.spotify.com/artist/2NvZ35VexRu6LmfVlArMPq"
-        },
-        {
-          "name": "Thomas Bangalter",
-          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
-        },
-        {
-          "name": "Shani Diluka",
-          "url": "https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73"
-        }
-      ],
-      "date_added": "2024-10-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167893,
-      "name": "Bangalter, de Homem-Christo: Veridis Quo",
-      "url": "https://open.spotify.com/track/0GLR6oEa3L4AUft3XBk0L4"
-    },
-    {
-      "album": {
         "name": "Barbie Girl",
         "url": "https://open.spotify.com/album/7GSCQKkADBRS7uGz4Gig6m"
       },
@@ -3840,6 +3814,32 @@
       "duration_ms": 221612,
       "name": "Vampire",
       "url": "https://open.spotify.com/track/5y4aQFRElzXJCJi0T6ol6C"
+    },
+    {
+      "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/3V4SxOn6qK58LEA3c5afo8"
+      },
+      "artists": [
+        {
+          "name": "Guy-Manuel de Homem-Christo",
+          "url": "https://open.spotify.com/artist/2NvZ35VexRu6LmfVlArMPq"
+        },
+        {
+          "name": "Thomas Bangalter",
+          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
+        },
+        {
+          "name": "Shani Diluka",
+          "url": "https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167893,
+      "name": "Veridis quo",
+      "url": "https://open.spotify.com/track/0GLR6oEa3L4AUft3XBk0L4"
     },
     {
       "album": {

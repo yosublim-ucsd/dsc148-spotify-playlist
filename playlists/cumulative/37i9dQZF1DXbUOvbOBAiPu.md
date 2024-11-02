@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Damso
 
-2,460 songs - 5 day 10 hr 40 min
+2,462 songs - 5 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Chicken Grease](https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp) | 2:41 | 2024-08-16 | 2024-08-23 |
 | [Chicokis](https://open.spotify.com/track/0B4pPvg3BkxwfqleM2ZSWM) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chicokis](https://open.spotify.com/album/7nwpYVW58MD6SmbW8beX7s) | 3:05 | 2024-06-13 | 2024-06-21 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-16 | 2024-05-24 |
+| [Chill Bae](https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:18 | 2024-10-31 |  |
 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 | 2024-07-26 | 2024-08-02 |
 | [Chin Chin](https://open.spotify.com/track/7sEe6B2uzEziUaMAszvnF7) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Chin Chin](https://open.spotify.com/album/0yRFDaWNxewWlMdelzLOqZ) | 2:28 | 2024-09-19 | 2024-09-27 |
 | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx) | 2:49 | 2024-06-13 | 2024-06-21 |
@@ -699,6 +700,7 @@
 | [Favourite Girl](https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Favourite Girl](https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR) | 2:39 | 2024-10-24 | 2024-11-01 |
 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 | 2024-05-23 | 2024-06-01 |
 | [Fear :\)](https://open.spotify.com/track/3Jfiihhe6vzkJzrJbkfvpN) | [Ronker](https://open.spotify.com/artist/2dALGLJwjsKqfueVsXlXYM) | [Fear Is a Funny Thing, Now Smile Like a Big Boy](https://open.spotify.com/album/5TVxirvSrETTy3ggxL0UZt) | 4:50 | 2024-05-09 | 2024-05-17 |
+| [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 | 2024-10-31 |  |
 | [Federig \- Demo](https://open.spotify.com/track/7AKz4S1YTXlivfls4gxS3l) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Federig](https://open.spotify.com/album/7EypBYAxXbqtvLGFy2Fsos) | 4:29 | 2024-06-20 | 2024-06-28 |
 | [Feed You To My Dog](https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Feed You To My Dog](https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU) | 3:16 | 2024-05-31 | 2024-06-07 |
 | [feel again](https://open.spotify.com/track/7LAFTet7LRO1ydBaqNRgr9) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [feel again](https://open.spotify.com/album/2LlVenmalkzuTsDMMKSxEK) | 3:30 | 2024-09-26 | 2024-10-04 |

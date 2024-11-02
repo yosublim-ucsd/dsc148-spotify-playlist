@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Peach Pit
 
-1,679 songs - 3 day 21 hr 0 min
+1,683 songs - 3 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Better Than I Know Myself](https://open.spotify.com/track/0xg79a3ac7iAOILS1QQbPa) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Better Than I Know Myself](https://open.spotify.com/album/6UB2H0P4aSqExfV7GWvtKO) | 4:22 | 2021-07-23 | 2022-06-11 |
 | [Better Than Nothing](https://open.spotify.com/track/1lYWpkFVDY9HvVDWuAnyA6) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Better Than Nothing](https://open.spotify.com/album/3BiDzIyOjLyXSbPaNr1xoR) | 3:43 | 2024-01-26 | 2024-04-06 |
 | [Between Your Teeth](https://open.spotify.com/track/1uwmPWrxBZ4V4WQ0QwGaZ0) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Between Your Teeth](https://open.spotify.com/album/4QstdyKGItbksEglSAglQR) | 5:11 | 2023-11-10 | 2024-01-27 |
+| [Biblical Love](https://open.spotify.com/track/4WlGgwoZdNI96WPwsW6Nz5) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Girl Prometheus](https://open.spotify.com/album/3ctSCjMyiG82FJIdXHnSQo) | 3:46 | 2024-11-01 |  |
 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 | 2023-07-31 | 2023-10-14 |
 | [Big Black Hearse](https://open.spotify.com/track/2QjtinOX9eezxLtKyOqZpf) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [Big Black Hearse](https://open.spotify.com/album/6QoWnNOaDubg2300l06GZS) | 3:29 | 2024-07-12 | 2024-10-12 |
 | [Big Swimmer](https://open.spotify.com/track/3msstebr0HfNT4kdJexWXe) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Big Swimmer](https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc) | 5:22 | 2024-06-07 | 2024-08-31 |
@@ -419,6 +420,7 @@
 | [Dig!](https://open.spotify.com/track/0jhhWCD0oXc4E480bMl6L7) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/2Hs7jUW49pEuMW7jirgbt8) | 2:41 | 2022-09-02 | 2022-09-26 |
 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 | 2023-05-24 | 2023-08-12 |
 | [Ding Dong Ditch](https://open.spotify.com/track/0H1HzSuaTWP8a8xVX5NBmE) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Natural Part](https://open.spotify.com/album/0ozxNaOvwaEpFcQDd8kRHd) | 2:42 | 2022-06-17 | 2022-07-19 |
+| [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 | 2024-11-01 |  |
 | [Disappointment](https://open.spotify.com/track/3q08Ty0Y32SXBDumtlFT8v) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Disappointment](https://open.spotify.com/album/3vdEPdCmjkdxlprWNkgRsZ) | 3:48 | 2023-03-10 | 2023-05-06 |
 | [Disassociate](https://open.spotify.com/track/0Apty1GYyLLBkG6MHehlqF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Disassociate](https://open.spotify.com/album/1IQv4Zj4RFkydAxXfS7CLJ) | 3:19 | 2021-06-11 | 2022-04-20 |
 | [Disco](https://open.spotify.com/track/644hazYIWNQq4URUn7CPnQ) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Heaven Surrounds You](https://open.spotify.com/album/1bCQnu3tpmINpX3tvXQjb1) | 2:32 | 2021-06-07 | 2022-06-11 |
@@ -1308,6 +1310,7 @@
 | [Slow Motion](https://open.spotify.com/track/7dNJzsQdvmkX7tQEkH1h4Q) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Slow Motion](https://open.spotify.com/album/3DmSolgySJQElDoJMIVrGF) | 2:30 | 2021-08-13 | 2022-06-11 |
 | [Slow Ready](https://open.spotify.com/track/19AXHJvTBkh8n9aRrlRqv6) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Dripfield](https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV) | 5:06 | 2022-06-25 | 2022-07-09 |
 | [Slowburn](https://open.spotify.com/track/1VPE8fiA7AeycpjG7HfdJL) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Slowburn](https://open.spotify.com/album/4uNVAFeEBTT9faHponCGf2) | 2:52 | 2023-07-21 | 2023-09-09 |
+| [Slowly](https://open.spotify.com/track/1bMV1Dw8B2feFudpLAdZQ8) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Slowly](https://open.spotify.com/album/79y81CFMfBcPq0B0qlEjwM) | 3:18 | 2024-11-01 |  |
 | [Slowly](https://open.spotify.com/track/3METNlutAzAhnNKgzZBA1a) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Slowly](https://open.spotify.com/album/6SvGZhGt46WiZayR9bB1ox) | 3:05 | 2021-06-07 | 2022-04-20 |
 | [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 | 2023-06-30 | 2023-09-09 |
 | [Smello Coffee](https://open.spotify.com/track/7I0f1ZuxL5hj4zAMhYfhVR) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Smello Coffee](https://open.spotify.com/album/19z5CTEg4X1SN7sSypMuHN) | 4:08 | 2022-04-15 | 2022-06-11 |
@@ -1440,6 +1443,7 @@
 | [Terrify](https://open.spotify.com/track/6cLnBdjkUmxt5TYJssSSTu) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Terrify](https://open.spotify.com/album/6oP8VAZA3zOn40lyLxBEtG) | 2:48 | 2023-05-05 | 2023-07-15 |
 | [Tesla](https://open.spotify.com/track/0N5AyKOTiKUDMNKidsGK5w) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Tesla](https://open.spotify.com/album/3XfJy3aZxGNDFyiaDUGWPe) | 3:56 | 2022-01-14 | 2022-03-30 |
 | [Thank You for Sending Me an Angel](https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Thank You for Sending Me an Angel](https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9) | 3:08 | 2024-05-17 | 2024-07-27 |
+| [That Guy](https://open.spotify.com/track/5vpIijHSKmN7h07nIuQZN9) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [That Guy](https://open.spotify.com/album/6Z2EHFIAYvaiMcxC3xHyhQ) | 3:02 | 2024-11-01 |  |
 | [the angel of 8th ave.](https://open.spotify.com/track/4QMSoa7Fh3y4kmMNuBtOgt) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [the angel of 8th ave.](https://open.spotify.com/album/3nyaiiTRMC9IvbMPoGe4r8) | 3:58 | 2021-06-18 | 2022-04-21 |
 | [The Backwards Heart](https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:06 | 2024-05-17 | 2024-09-14 |
 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 | 2024-04-12 | 2024-05-18 |

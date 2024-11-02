@@ -222,10 +222,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 181440,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
+    },
+    {
+      "album": {
+        "name": "Her Most Famous Recordings (New Stereo Remaster 2024)",
+        "url": "https://open.spotify.com/album/7D7NBY98jYwnnUm1TZg4Re"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181659,
+      "name": "All Of Me - New Stereo Remaster 2024",
+      "url": "https://open.spotify.com/track/5344umbmfWcxodiLFvL9SL"
     },
     {
       "album": {
@@ -964,7 +982,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 180093,
       "name": "Carlota",
       "url": "https://open.spotify.com/track/6Dyk6nOBaeHMjf3MXqGw1o"
@@ -5098,6 +5116,32 @@
       "duration_ms": 307466,
       "name": "Porter / Orch. Spialek & Russell Bennett: Gay Divorce: Overture",
       "url": "https://open.spotify.com/track/1tZKBo1pwcNnMZkMU9wnTu"
+    },
+    {
+      "album": {
+        "name": "Mexican Hayride",
+        "url": "https://open.spotify.com/album/7LnGM9UAwO7x7MykkgRmvJ"
+      },
+      "artists": [
+        {
+          "name": "Corinna Mura",
+          "url": "https://open.spotify.com/artist/5puO9FYyM4Fkt1Si4L8hYx"
+        },
+        {
+          "name": "Male Chorus",
+          "url": "https://open.spotify.com/artist/50qo8RvRhI4EDfvCk04Tl0"
+        },
+        {
+          "name": "Harry Sosnik",
+          "url": "https://open.spotify.com/artist/1o3RmDxsS0PE0J0AyhtgSC"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192440,
+      "name": "Porter: Carlotta",
+      "url": "https://open.spotify.com/track/6pz1522Ki83GO4knHRHMFD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: CRO, BUNT.
 
-2,251 songs - 4 day 9 hr 50 min
+2,253 songs - 4 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [ChatGPT \(prod\. by BUNT.\)](https://open.spotify.com/track/45Gc0gFE9mty0uGnZ8KkSn) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [ChatGPT \(prod\. by BUNT.\)](https://open.spotify.com/album/3cR93mR68Ff7osXfz56u8l) | 2:36 | 2024-07-26 | 2024-08-13 |
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-13 | 2023-04-28 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-27 | 2023-05-05 |
+| [Chill Bae](https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:18 | 2024-10-31 |  |
 | [Chopard](https://open.spotify.com/track/4U5QQLxxig0D7dipnsGzBQ) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv) | [Chopard](https://open.spotify.com/album/7MIXNwtuzp7rJYrRoBvkW8) | 2:09 | 2024-10-24 |  |
 | [Chrysanthemen](https://open.spotify.com/track/15i5jSYn8X8NdXMIJEUr2X) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Chrysanthemen](https://open.spotify.com/album/6igORa4loN6Ym7IDED0dO7) | 3:04 | 2023-02-23 | 2023-03-31 |
 | [Church \(feat\. Teddy Verseti\)](https://open.spotify.com/track/7cyBdix7HId2onf99SrJBV) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Teddy Verseti](https://open.spotify.com/artist/4Jl5W4ETxUCyEDgOEnqI4z) | [Epiphany \(Expanded Edition\)](https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h) | 4:01 | 2023-10-26 | 2024-03-08 |
@@ -1790,6 +1791,7 @@
 | [Sonya Kraus](https://open.spotify.com/track/0tBOhljPme48bgRayGRn6y) | [Rrotzer](https://open.spotify.com/artist/6a3Hepy65IU5aex19pUwjd) | [Sonya Kraus](https://open.spotify.com/album/0maVlY8ocV4CedH6KFSvg4) | 1:51 | 2024-06-13 | 2024-07-19 |
 | [Sorgen](https://open.spotify.com/track/6QVwP6pLyXoqmZAX9zu1HY) | [Lugatti & 9ine](https://open.spotify.com/artist/4eZg2h2Qez5XuD6PQAqGie) | [Sorgen](https://open.spotify.com/album/539AERgxjSzzA19YXxUHp0) | 2:33 | 2023-07-06 | 2023-07-28 |
 | [SOS](https://open.spotify.com/track/5KPPwG3v0m6IExWNby02eJ) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [SOS](https://open.spotify.com/album/0dO8QSi4feDnQUJSNVqBvK) | 2:38 | 2023-08-10 | 2023-09-15 |
+| [SOUTH OF FRANCE \- REMIX](https://open.spotify.com/track/5BjYmIIW8NIwItLPGjqKqP) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MIXTAPE PLUTO](https://open.spotify.com/album/5IcsHifVLGG0emBPlMZacj) | 3:03 | 2024-10-31 |  |
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2022-07-19 | 2023-08-15 |
 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 | 2022-06-09 | 2022-07-14 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2023-08-07 | 2023-08-30 |

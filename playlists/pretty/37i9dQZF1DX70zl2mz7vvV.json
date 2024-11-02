@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 57078,
+  "num_followers": 57106,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Oh No It's Red Rat",
-        "url": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
-      },
-      "artists": [
-        {
-          "name": "Red Rat",
-          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "Tight Up Skirt",
-      "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Escape From Babylon",
         "url": "https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 254906,
       "name": "No Cocaine",
       "url": "https://open.spotify.com/track/07QuKUTu5O40AibYYPx98I"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Oh No It's Red Rat",
+        "url": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
+      },
+      "artists": [
+        {
+          "name": "Red Rat",
+          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "Tight Up Skirt",
+      "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
     },
     {
       "added_at": "2020-10-19 09:02:25",

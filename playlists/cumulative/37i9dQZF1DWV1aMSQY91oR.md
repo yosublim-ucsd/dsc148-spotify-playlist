@@ -2,7 +2,7 @@
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest hip\-hop, refreshed weekly\.  Cover: Megan Thee Stallion
+> We'll be back next week\. 🫡  Check out <a href="spotify:playlist:37i9dQZF1DX5DfG8gQdC3F">New Music Friday</a> in the mean time\. Cover: Megan Thee Stallion
 
 2,874 songs - 5 day 18 hr 34 min
 

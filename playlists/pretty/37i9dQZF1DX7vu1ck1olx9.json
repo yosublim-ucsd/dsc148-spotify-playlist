@@ -1,6 +1,6 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 91895,
+  "num_followers": 91961,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Close To Home",
-        "url": "https://open.spotify.com/album/4gWonxCCuVvGg3hcnF2Gzk"
-      },
-      "artists": [
-        {
-          "name": "Bcalm",
-          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
-        }
-      ],
-      "duration_ms": 144615,
-      "name": "Wishful",
-      "url": "https://open.spotify.com/track/7LQLDASdfCRXYNCw6pUukK"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "pillow dreams",
         "url": "https://open.spotify.com/album/5vaW6YNNd77zXYVrAAVTpL"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 121967,
       "name": "pillow dreams",
       "url": "https://open.spotify.com/track/3VolXPYyNr222J89OHl8u0"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Close To Home",
+        "url": "https://open.spotify.com/album/4gWonxCCuVvGg3hcnF2Gzk"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        }
+      ],
+      "duration_ms": 144615,
+      "name": "Wishful",
+      "url": "https://open.spotify.com/track/7LQLDASdfCRXYNCw6pUukK"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Call It A Night",
-        "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
-      },
-      "artists": [
-        {
-          "name": "jon pm",
-          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Call It A Night",
-      "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "wayitis",
         "url": "https://open.spotify.com/album/65F6S0mhOFnwLcmXTscLOC"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 191117,
       "name": "wayitis",
       "url": "https://open.spotify.com/track/4YlAlxDG0YuYbTF2YteMl0"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Call It A Night",
+        "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
+      },
+      "artists": [
+        {
+          "name": "jon pm",
+          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Call It A Night",
+      "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -763,38 +763,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Are We There Yet",
-        "url": "https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ"
-      },
-      "artists": [
-        {
-          "name": "Velvet Haven",
-          "url": "https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F"
-        }
-      ],
-      "duration_ms": 154383,
-      "name": "Are We There Yet",
-      "url": "https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "lightweight",
-        "url": "https://open.spotify.com/album/2EYX11kUH7SUsVpKWUePDD"
-      },
-      "artists": [
-        {
-          "name": "aUra Lu",
-          "url": "https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag"
-        }
-      ],
-      "duration_ms": 120633,
-      "name": "lightweight",
-      "url": "https://open.spotify.com/track/3b546lgRsZJ7TFlXdmiQ7u"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "blue bird",
         "url": "https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA"
       },
@@ -815,6 +783,38 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "lightweight",
+        "url": "https://open.spotify.com/album/2EYX11kUH7SUsVpKWUePDD"
+      },
+      "artists": [
+        {
+          "name": "aUra Lu",
+          "url": "https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag"
+        }
+      ],
+      "duration_ms": 120633,
+      "name": "lightweight",
+      "url": "https://open.spotify.com/track/3b546lgRsZJ7TFlXdmiQ7u"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Are We There Yet",
+        "url": "https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ"
+      },
+      "artists": [
+        {
+          "name": "Velvet Haven",
+          "url": "https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F"
+        }
+      ],
+      "duration_ms": 154383,
+      "name": "Are We There Yet",
+      "url": "https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Western Promises",
         "url": "https://open.spotify.com/album/2Ag8bFCPDnHwv5Yvix1ptV"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 130000,
       "name": "Western Promises",
       "url": "https://open.spotify.com/track/3X6akQdLtqrMkGJntH7AhD"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Through the Portal",
+        "url": "https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "duration_ms": 115233,
+      "name": "Through the Portal",
+      "url": "https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -851,18 +867,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Through the Portal",
-        "url": "https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F"
+        "name": "typewriter",
+        "url": "https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa"
       },
       "artists": [
         {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+          "name": "shawn pink",
+          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
         }
       ],
-      "duration_ms": 115233,
-      "name": "Through the Portal",
-      "url": "https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT"
+      "duration_ms": 123500,
+      "name": "typewriter",
+      "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -879,22 +895,6 @@
       "duration_ms": 126500,
       "name": "fingerlock",
       "url": "https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "typewriter",
-        "url": "https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa"
-      },
-      "artists": [
-        {
-          "name": "shawn pink",
-          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "typewriter",
-      "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Will-O-Wisp",
-        "url": "https://open.spotify.com/album/55AtXtIgnt45wGa2122dbA"
-      },
-      "artists": [
-        {
-          "name": "Kuma",
-          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
-        }
-      ],
-      "duration_ms": 154772,
-      "name": "Will-O-Wisp",
-      "url": "https://open.spotify.com/track/5lxlQXt8CadUQR4ARnSLep"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Intersections",
         "url": "https://open.spotify.com/album/5iLI3eUZ57osvD1pdjEL5w"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 131400,
       "name": "Intersections",
       "url": "https://open.spotify.com/track/51NtpncCFm7jTLxIcGpHgR"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Will-O-Wisp",
+        "url": "https://open.spotify.com/album/55AtXtIgnt45wGa2122dbA"
+      },
+      "artists": [
+        {
+          "name": "Kuma",
+          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
+        }
+      ],
+      "duration_ms": 154772,
+      "name": "Will-O-Wisp",
+      "url": "https://open.spotify.com/track/5lxlQXt8CadUQR4ARnSLep"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "calathea",
-        "url": "https://open.spotify.com/album/05cvQx4EI7gnOn9Hn2inrd"
-      },
-      "artists": [
-        {
-          "name": "Kolorama",
-          "url": "https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC"
-        }
-      ],
-      "duration_ms": 106946,
-      "name": "calathea",
-      "url": "https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Warm Weather",
         "url": "https://open.spotify.com/album/47PV2WKeOwohlF0OzZ9lrt"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 149119,
       "name": "Warm Weather",
       "url": "https://open.spotify.com/track/5WyejtsDpXpq2CGz2hzMju"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "calathea",
+        "url": "https://open.spotify.com/album/05cvQx4EI7gnOn9Hn2inrd"
+      },
+      "artists": [
+        {
+          "name": "Kolorama",
+          "url": "https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC"
+        }
+      ],
+      "duration_ms": 106946,
+      "name": "calathea",
+      "url": "https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "neurons",
-        "url": "https://open.spotify.com/album/1k7kfXsz1gqbtkN0nsGTOz"
-      },
-      "artists": [
-        {
-          "name": "Ryder 003",
-          "url": "https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz"
-        }
-      ],
-      "duration_ms": 131047,
-      "name": "neurons",
-      "url": "https://open.spotify.com/track/4L3zseq5LsfZGlewJ8Pqwh"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Tenderly",
         "url": "https://open.spotify.com/album/294lejL4WlfdM1zI3aqHwn"
       },
@@ -1731,18 +1715,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Turnarounds",
-        "url": "https://open.spotify.com/album/59pR0anVAX7bEA1nlDnGdA"
+        "name": "neurons",
+        "url": "https://open.spotify.com/album/1k7kfXsz1gqbtkN0nsGTOz"
       },
       "artists": [
         {
-          "name": "HLY WUD",
-          "url": "https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S"
+          "name": "Ryder 003",
+          "url": "https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz"
         }
       ],
-      "duration_ms": 116624,
-      "name": "Turnarounds",
-      "url": "https://open.spotify.com/track/4d2UJiZtKRJMc4DZMqo9m9"
+      "duration_ms": 131047,
+      "name": "neurons",
+      "url": "https://open.spotify.com/track/4L3zseq5LsfZGlewJ8Pqwh"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1759,6 +1743,22 @@
       "duration_ms": 143339,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Turnarounds",
+        "url": "https://open.spotify.com/album/59pR0anVAX7bEA1nlDnGdA"
+      },
+      "artists": [
+        {
+          "name": "HLY WUD",
+          "url": "https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S"
+        }
+      ],
+      "duration_ms": 116624,
+      "name": "Turnarounds",
+      "url": "https://open.spotify.com/track/4d2UJiZtKRJMc4DZMqo9m9"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "my girl",
-        "url": "https://open.spotify.com/album/00BGyfJc3D9WMFHrox5g86"
-      },
-      "artists": [
-        {
-          "name": "Idris Jem",
-          "url": "https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY"
-        }
-      ],
-      "duration_ms": 92500,
-      "name": "my girl",
-      "url": "https://open.spotify.com/track/2tmwtHHqbNYtZTMhGrINgW"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "soul",
         "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 215713,
       "name": "memory",
       "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "my girl",
+        "url": "https://open.spotify.com/album/00BGyfJc3D9WMFHrox5g86"
+      },
+      "artists": [
+        {
+          "name": "Idris Jem",
+          "url": "https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY"
+        }
+      ],
+      "duration_ms": 92500,
+      "name": "my girl",
+      "url": "https://open.spotify.com/track/2tmwtHHqbNYtZTMhGrINgW"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Dreemin'",
-        "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
+        "name": "Trouble In Smoky Paradise",
+        "url": "https://open.spotify.com/album/6LvEYsVFTVzi0Mcllrt2jd"
       },
       "artists": [
         {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+          "name": "X56.aif",
+          "url": "https://open.spotify.com/artist/0sslEoFr85krxkxnGR8HnB"
         }
       ],
-      "duration_ms": 131641,
-      "name": "Dreemin'",
-      "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
+      "duration_ms": 148657,
+      "name": "Trouble In Smoky Paradise",
+      "url": "https://open.spotify.com/track/4xbDrO1BWWmmMpShGcCYTf"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Trouble In Smoky Paradise",
-        "url": "https://open.spotify.com/album/6LvEYsVFTVzi0Mcllrt2jd"
+        "name": "Dreemin'",
+        "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
       },
       "artists": [
         {
-          "name": "X56.aif",
-          "url": "https://open.spotify.com/artist/0sslEoFr85krxkxnGR8HnB"
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
         }
       ],
-      "duration_ms": 148657,
-      "name": "Trouble In Smoky Paradise",
-      "url": "https://open.spotify.com/track/4xbDrO1BWWmmMpShGcCYTf"
+      "duration_ms": 131641,
+      "name": "Dreemin'",
+      "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "the eagle",
-        "url": "https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd"
-      },
-      "artists": [
-        {
-          "name": "karlaplan.",
-          "url": "https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "the eagle",
-      "url": "https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Devine",
         "url": "https://open.spotify.com/album/52KSCzrUXBM0seRkCbgtCS"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 122758,
       "name": "Devine",
       "url": "https://open.spotify.com/track/2UAZ0GqmyRh5O3A17FOlOy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "the eagle",
+        "url": "https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd"
+      },
+      "artists": [
+        {
+          "name": "karlaplan.",
+          "url": "https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "the eagle",
+      "url": "https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2371,26 +2371,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Pixels",
-        "url": "https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb"
-      },
-      "artists": [
-        {
-          "name": "Anatomy Park",
-          "url": "https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN"
-        },
-        {
-          "name": "Noflik",
-          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Pixels",
-      "url": "https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF"
       },
@@ -2415,6 +2395,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Pixels",
+        "url": "https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Park",
+          "url": "https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Pixels",
+      "url": "https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "If It Moves",
         "url": "https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw"
       },
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "night.owls",
-        "url": "https://open.spotify.com/album/38C1rKJer6SKMCqW6opJZR"
-      },
-      "artists": [
-        {
-          "name": "flat.moon.society",
-          "url": "https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "night.owls",
-      "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "dreamers",
         "url": "https://open.spotify.com/album/3CD8VYak1Ubhkreu3mnYWO"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 153000,
       "name": "dreamers",
       "url": "https://open.spotify.com/track/4bPJW9pNtuvMujHnbxEN1g"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "night.owls",
+        "url": "https://open.spotify.com/album/38C1rKJer6SKMCqW6opJZR"
+      },
+      "artists": [
+        {
+          "name": "flat.moon.society",
+          "url": "https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "night.owls",
+      "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
     }
   ],
   "unique_name": "lofi cool down",

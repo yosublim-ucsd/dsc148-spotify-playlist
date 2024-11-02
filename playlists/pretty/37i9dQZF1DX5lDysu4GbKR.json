@@ -1,32 +1,28 @@
 {
   "description": "Relax to these acoustic soul songs. Cover: Teddy Swims",
-  "num_followers": 605111,
+  "num_followers": 605154,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxRCGAAAAAAX37pbK7EWVodcjlb3aY3a",
+  "snapshot_id": "ZyRSQAAAAAAJNboHMqw+DNDfpjgdoC5z",
   "tracks": [
     {
-      "added_at": "2024-10-19 23:34:48",
+      "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "TORI. (+ a lil more)",
-        "url": "https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg"
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF"
       },
       "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
         {
           "name": "Pink Sweat$",
           "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 122000,
-      "name": "beautiful war (feat. Pink Sweat$)",
-      "url": "https://open.spotify.com/track/7nT6RNdexQaPonsiV4pWNH"
+      "duration_ms": 162802,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU"
     },
     {
       "added_at": "2024-10-19 23:34:48",
@@ -75,6 +71,26 @@
       "duration_ms": 206739,
       "name": "Outside The Gate",
       "url": "https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww"
+    },
+    {
+      "added_at": "2024-10-19 23:34:48",
+      "album": {
+        "name": "TORI. (+ a lil more)",
+        "url": "https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "beautiful war (feat. Pink Sweat$)",
+      "url": "https://open.spotify.com/track/7nT6RNdexQaPonsiV4pWNH"
     },
     {
       "added_at": "2024-08-16 04:00:00",

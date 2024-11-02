@@ -1,6 +1,6 @@
 {
   "description": "Cesara Linaaaaaaa",
-  "num_followers": 326095,
+  "num_followers": 326681,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,34 @@
       "duration_ms": 340160,
       "name": "Back On 74 - Rework",
       "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Finally (Remixes)",
+        "url": "https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Shooma",
+          "url": "https://open.spotify.com/artist/5gVzUUccqWoWM8Gm7t7Oju"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "Finally (with Alicia Keys) - Eran Hersh & Shooma Remix",
+      "url": "https://open.spotify.com/track/79VtNwEpKTQCJWQpRHKZlW"
     },
     {
       "added_at": "2024-10-31 23:00:00",

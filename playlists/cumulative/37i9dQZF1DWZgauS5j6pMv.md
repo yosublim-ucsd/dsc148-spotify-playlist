@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-455 songs - 1 day 2 hr 43 min
+456 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [BURN YOU OUT](https://open.spotify.com/track/3p3RcGXbWFY9SfMuLYfXET) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [BURN YOU OUT](https://open.spotify.com/album/22BaiIbE2S8cYv5wWmAnR2) | 3:04 | 2022-02-25 | 2022-11-13 |
 | [BURN YOU OUT](https://open.spotify.com/track/6XTiMdM4asDBoJlZ6VTmUR) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 3:04 | 2022-02-25 | 2023-05-24 |
 | [Business](https://open.spotify.com/track/02hKpGoEiktnpLqB4CpPf5) | [JM Bales](https://open.spotify.com/artist/2JyNzzFJh2wkkZo7ZjMSs2) | [Business](https://open.spotify.com/album/57JZIPQFEt4AGiLGhM8JAb) | 2:55 | 2024-03-01 |  |
-| [Cake](https://open.spotify.com/track/16Y1bKsUo9Dcy1uzwStVjy) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Cake](https://open.spotify.com/album/7DmA6EiEUYmVKZevOulCzI) | 3:05 | 2024-10-11 |  |
+| [Cake](https://open.spotify.com/track/16Y1bKsUo9Dcy1uzwStVjy) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Cake](https://open.spotify.com/album/7DmA6EiEUYmVKZevOulCzI) | 3:05 | 2024-10-11 | 2024-11-02 |
 | [Call Me Wild](https://open.spotify.com/track/5rjBkIfx9piQDuab6fonru) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Call Me Wild](https://open.spotify.com/album/1YLvobKUqac9M0PeUZ8WeV) | 3:04 | 2023-08-11 | 2023-09-23 |
 | [CAN'T GO HOME](https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [CAN'T GO HOME](https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc) | 2:52 | 2023-01-23 | 2023-08-26 |
 | [Can't Stay Away](https://open.spotify.com/track/0kCDVx0CUreSrv87CUt6fY) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/6KMagDFExzgx5x4AhZ8Sdh) | 3:00 | 2021-05-28 | 2022-07-30 |
@@ -397,6 +397,7 @@
 | [The Way You Make Me Feel](https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [The Way You Make Me Feel](https://open.spotify.com/album/3YzSZa0NOzbojLGnhKohbk) | 3:24 | 2021-10-15 | 2022-05-20 |
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2021-09-24 | 2022-05-20 |
 | [Thing for You](https://open.spotify.com/track/2OLD64kN8JzvNn3Aar7O26) | [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C), [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT), [Demrick](https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR) | [Summer Solstice: The Mixtape](https://open.spotify.com/album/1mxyxZOLzdnG2TMu1jxFs1) | 3:12 | 2020-11-20 | 2022-04-09 |
+| [This Is 4 You](https://open.spotify.com/track/7wEvo5UWrMLBUSnVEfGq4T) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo IV](https://open.spotify.com/album/5OjssA9yeAUq2llLdZcVDG) | 2:31 | 2024-11-01 |  |
 | [This is It \(feat\. Cory Wong\)](https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:05 | 2022-09-23 | 2024-06-15 |
 | [This Must Be The Place](https://open.spotify.com/track/0recPimKvrGzvi3Fr6x1fj) | [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv) | [Touch My Soul](https://open.spotify.com/album/08N9IgrPVylNF3EANm2M2p) | 4:58 | 2023-04-28 |  |
 | [This Vibe](https://open.spotify.com/track/1Y9z7IqlSnet2A5raxs22e) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [This Vibe](https://open.spotify.com/album/46gXRt1zGMf89qJPSI9cje) | 4:12 | 2022-08-19 | 2024-01-20 |

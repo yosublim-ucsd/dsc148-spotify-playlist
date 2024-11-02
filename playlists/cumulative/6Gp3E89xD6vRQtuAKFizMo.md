@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-369 songs - 17 hr 46 min
+370 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bandra](https://open.spotify.com/track/2e6Ev7IkvZypybbOm7gJzB) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Bandra](https://open.spotify.com/album/15YzlYwz6AubkRMlAq1Zu7) | 2:42 | 2024-05-17 |  |
 | [Barbie \(feat\. Melissa Brooks\)](https://open.spotify.com/track/6mgdm4CSdu8E3EAO3IMbLj) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Melissa Brooks](https://open.spotify.com/artist/0L8mLYqMuEW3901GuLVVVr) | [Barbie \(feat\. Melissa Brooks\)](https://open.spotify.com/album/44ksgbVSEp80E8K94zwDvH) | 2:31 | 2023-06-09 |  |
 | [Barcelona \(feat\. Cody Bolan\)](https://open.spotify.com/track/712Gj0cFeFX7tLEnmmAmDU) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Cody Bolan](https://open.spotify.com/artist/2nnHzLNaFAxbzuzjRhWSkT) | [Barcelona \(feat\. Cody Bolan\)](https://open.spotify.com/album/42hXBz46sMvJst0z5qy1nO) | 2:26 | 2024-08-09 |  |
+| [Barcelona \(feat\. Cody Bolan\) \- VIP Mix](https://open.spotify.com/track/4tjfbTzjxwc1hbzfLDreIV) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Cody Bolan](https://open.spotify.com/artist/2nnHzLNaFAxbzuzjRhWSkT) | [Barcelona \(feat\. Cody Bolan\) \[VIP Mix\]](https://open.spotify.com/album/0xBzRvb3GLshk3F1feoxAh) | 3:00 | 2024-11-01 |  |
 | [Bass Drop](https://open.spotify.com/track/1tBKWCgUdm3oMtUKbu9gYK) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Bass Drop](https://open.spotify.com/album/2wEpgFSaoe6g7CncCfdn05) | 2:20 | 2024-05-03 |  |
 | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/track/5jjGgAp2RC0ZFlhEcLkAyv) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Ramlode](https://open.spotify.com/artist/5bVbzfyZTpqz8pys7V9Yk7), [2ka](https://open.spotify.com/artist/1pMJ813KdUF6uEBeKMPwo4) | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/album/2o7w2FNR74JTSKERxiwCOV) | 2:35 | 2023-05-19 |  |
 | [Bassline](https://open.spotify.com/track/1PiALnVslHSZ5VlpxwAVOm) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Bassline](https://open.spotify.com/album/0M2LKloVUYhCCADQ915mgl) | 2:34 | 2023-12-01 |  |

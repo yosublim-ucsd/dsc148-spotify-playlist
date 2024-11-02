@@ -1,28 +1,100 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Mack Keane",
-  "num_followers": 52669,
+  "description": "R&B of the moment by the artists of the future. Cover: Jordan Hawkins",
+  "num_followers": 52683,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxtKBgAAAADQMTxKCIy0SJUDBtD3gWMK",
+  "snapshot_id": "ZyRSQAAAAACAwJa2Shrl+fYpJ2KmTcJP",
   "tracks": [
     {
-      "added_at": "2024-10-25 07:34:30",
+      "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Heal U / Out My Hair",
-        "url": "https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J"
+        "name": "Love So Good",
+        "url": "https://open.spotify.com/album/5mkBg9NiLCnnr2xijskvsb"
       },
       "artists": [
         {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
         }
       ],
-      "duration_ms": 178019,
-      "name": "Out My Hair",
-      "url": "https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT"
+      "duration_ms": 242000,
+      "name": "Love So Good",
+      "url": "https://open.spotify.com/track/1I8ZT8kG2cCquUagTfaZ7M"
+    },
+    {
+      "added_at": "2024-10-04 07:31:04",
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/1FLtRgrXDoaFc1b71MX43S"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        },
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 225696,
+      "name": "Natural High",
+      "url": "https://open.spotify.com/track/7GMXtSyoJ2xAs9abge7E1s"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/7trfAzxwXmdxFnZZT3TQ5y"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/3HiVqLksar2QNbgXOjDRYm"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/2WPJ0fdJMqrr399s5ZoY7M"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 143288,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/08MdRulXeDYEjkBEc6u3Ts"
+    },
+    {
+      "added_at": "2024-10-18 19:42:43",
+      "album": {
+        "name": "LYIN",
+        "url": "https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "LYIN",
+      "url": "https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55"
     },
     {
       "added_at": "2024-10-18 19:42:43",
@@ -41,20 +113,40 @@
       "url": "https://open.spotify.com/track/6ndnCPIrXUMMIOK5QfaFlY"
     },
     {
-      "added_at": "2024-10-18 19:42:43",
+      "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "LYIN",
-        "url": "https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok"
+        "name": "More Remix",
+        "url": "https://open.spotify.com/album/32sP30tPFEpZh6agcS3ytj"
       },
       "artists": [
         {
-          "name": "Zyah Belle",
-          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 259466,
-      "name": "LYIN",
-      "url": "https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55"
+      "duration_ms": 167435,
+      "name": "More Remix",
+      "url": "https://open.spotify.com/track/1wNAWdTCiJPMydS62QRgrS"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "worst behaviour",
+        "url": "https://open.spotify.com/album/1QDdD3BJIcadQhuWBnuGTh"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 178992,
+      "name": "worst behaviour",
+      "url": "https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ"
     },
     {
       "added_at": "2024-10-18 19:42:43",
@@ -91,6 +183,54 @@
     {
       "added_at": "2024-10-18 19:42:43",
       "album": {
+        "name": "SUPERSONICS",
+        "url": "https://open.spotify.com/album/6hktKa9Ru7GRaF6XIKRsa0"
+      },
+      "artists": [
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "SUPERSONICS",
+      "url": "https://open.spotify.com/track/7yUnhwAewhRV8PcEbh4u8O"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 204447,
+      "name": "AAA",
+      "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
+    },
+    {
+      "added_at": "2024-10-25 07:34:30",
+      "album": {
+        "name": "Heal U / Out My Hair",
+        "url": "https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 178019,
+      "name": "Out My Hair",
+      "url": "https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT"
+    },
+    {
+      "added_at": "2024-10-18 19:42:43",
+      "album": {
         "name": "Hillside (feat. Savannah R\u00e9)",
         "url": "https://open.spotify.com/album/08yGUFP2pDEh8gqeUqPY4W"
       },
@@ -107,6 +247,26 @@
       "duration_ms": 159077,
       "name": "Hillside (feat. Savannah R\u00e9)",
       "url": "https://open.spotify.com/track/5uPoubTLkvcCMy7VfqZZPi"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Crocodile Tears (feat. Chase Shakur)",
+        "url": "https://open.spotify.com/album/5LZIpzVMyVceRxkVfLv34k"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 193817,
+      "name": "Crocodile Tears (feat. Chase Shakur)",
+      "url": "https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg"
     },
     {
       "added_at": "2024-10-18 19:42:43",
@@ -127,22 +287,6 @@
       "duration_ms": 168994,
       "name": "SAVIOR",
       "url": "https://open.spotify.com/track/4qUlp9rJtbi9gBZa2Ie3Xx"
-    },
-    {
-      "added_at": "2024-10-18 19:42:43",
-      "album": {
-        "name": "SUPERSONICS",
-        "url": "https://open.spotify.com/album/6hktKa9Ru7GRaF6XIKRsa0"
-      },
-      "artists": [
-        {
-          "name": "3ee",
-          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "SUPERSONICS",
-      "url": "https://open.spotify.com/track/7yUnhwAewhRV8PcEbh4u8O"
     },
     {
       "added_at": "2024-10-25 07:34:30",
@@ -463,26 +607,6 @@
       "duration_ms": 220122,
       "name": "Passenger Princess (feat. Aqyila)",
       "url": "https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v"
-    },
-    {
-      "added_at": "2024-10-04 07:31:04",
-      "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/1FLtRgrXDoaFc1b71MX43S"
-      },
-      "artists": [
-        {
-          "name": "Gemaine",
-          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
-        },
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 225696,
-      "name": "Natural High",
-      "url": "https://open.spotify.com/track/7GMXtSyoJ2xAs9abge7E1s"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1091,22 +1215,6 @@
       "duration_ms": 156333,
       "name": "Oakland Pt. 2",
       "url": "https://open.spotify.com/track/53ZSD18jfaGFqSnj4FL8Lq"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Keep the Peace",
-        "url": "https://open.spotify.com/album/67TQCIH80WNEuL1sshxRox"
-      },
-      "artists": [
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 145723,
-      "name": "Keep the Peace",
-      "url": "https://open.spotify.com/track/6y16kkreqMbCVHf8ahb25m"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1727,42 +1835,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "i do this sh*t in my sleep",
-        "url": "https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 123820,
-      "name": "YOU DON\u2019T KNOW (feat. Alex Isley)",
-      "url": "https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "eyes wide open",
-        "url": "https://open.spotify.com/album/1DIpIdMFlsZwv0UW9kTtmR"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 153648,
-      "name": "eyes wide open",
-      "url": "https://open.spotify.com/track/47yqCBu6gwfquchEQiBahu"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Drugs n' Lullabies",
         "url": "https://open.spotify.com/album/5RCX37apVif9l79WKxKRl8"
       },
@@ -2133,22 +2205,6 @@
       "url": "https://open.spotify.com/track/4siTPKthioqW6tOBC0l7AS"
     },
     {
-      "added_at": "2024-06-14 07:24:46",
-      "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/6InOh4KLVmqBTYMJx8vtRp"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 216042,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/487C5rvchmcP1p2YzzRw5Z"
-    },
-    {
       "added_at": "2024-06-21 07:14:56",
       "album": {
         "name": "Something/Someone New",
@@ -2381,26 +2437,6 @@
       "url": "https://open.spotify.com/track/0uxZZQzJr8peyn0QyxGlIA"
     },
     {
-      "added_at": "2024-05-31 07:31:18",
-      "album": {
-        "name": "unruly",
-        "url": "https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 144446,
-      "name": "unruly",
-      "url": "https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46"
-    },
-    {
       "added_at": "2024-05-24 07:18:06",
       "album": {
         "name": "5 Minutes",
@@ -2439,22 +2475,6 @@
       "duration_ms": 118073,
       "name": "Touchin\u2019 (feat. Capella Grey)",
       "url": "https://open.spotify.com/track/1s8gUJ98VZJKuzOMO7QERt"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/7aQBwzoV1J4izjQa8D1rAN"
-      },
-      "artists": [
-        {
-          "name": "The Amours",
-          "url": "https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE"
-        }
-      ],
-      "duration_ms": 143960,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/4kZFUJrhhy6JwHUnd3M1jD"
     },
     {
       "added_at": "2024-03-29 07:17:40",
@@ -2543,22 +2563,6 @@
       "duration_ms": 162625,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
-    },
-    {
-      "added_at": "2024-01-19 06:47:03",
-      "album": {
-        "name": "Nothing Sweeter",
-        "url": "https://open.spotify.com/album/0lCIshkOsKjTmEUSYi2ADc"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 265386,
-      "name": "Nothing Sweeter",
-      "url": "https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5"
     },
     {
       "added_at": "2024-01-10 17:00:00",

@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Kid Yugi in cover della playlist urban più grande in Italia 🔥
+> Capo Plaza in cover della playlist urban più grande in Italia 🔥
 
-628 songs - 1 day 6 hr 51 min
+629 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [40 GRADI](https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [40 GRADI](https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St) | 2:42 | 2024-09-09 |  |
 | [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/track/4cMCuC4B7crtuZ7E67xsGV) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/album/41GxAohZ17bgydgX3w5yLB) | 3:50 | 2024-09-23 | 2024-10-25 |
 | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB) | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/album/1myCEAZlP8KQeTwNc3XVtb) | 2:55 | 2024-09-05 |  |
+| [6SEI6 \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/4cgWgEjmaMICqGyt8Tc6JU) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:15 | 2024-11-01 |  |
 | [90 SPECIAL \(feat\. Sfera Ebbasta & Shiva\)](https://open.spotify.com/track/5MmCEVccxedh3clyDoxubA) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 2:53 | 2023-06-29 | 2023-09-29 |
 | [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-07-21 | 2022-09-02 |
 | [A TE E FAMIGLIA](https://open.spotify.com/track/1nkvAikEmFzfGuJGRRmtwS) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [A TE E FAMIGLIA](https://open.spotify.com/album/60yspPJFP249kQ0kzbsG8D) | 2:51 | 2023-12-28 | 2024-01-12 |
@@ -534,7 +535,7 @@
 | [Senza Emotions \(feat\. ANNA\)](https://open.spotify.com/track/71LQrUFG59w2vjhYe8Epue) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Senza Emotions \(feat\. ANNA\)](https://open.spotify.com/album/0FNNeKxLa3jbl3Fl4JzRch) | 2:20 | 2022-09-08 | 2023-01-06 |
 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2rMhztfOqEt00j47vpCfKl) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/album/3QDP4EG7nlyN38o7720rye) | 2:47 | 2024-06-03 | 2024-09-13 |
 | [Settembre](https://open.spotify.com/track/4hUS2xbkB22ErKwVi8PyCg) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Settembre](https://open.spotify.com/album/1W06j6H9EF3HEMxX6yEr3J) | 2:16 | 2022-11-10 | 2022-12-06 |
-| [Sex Appeal](https://open.spotify.com/track/7um15LqVMfsUNaqtpv0cBG) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Sex Appeal](https://open.spotify.com/album/1xrXkVdiu7BlPV1z0KYapO) | 2:24 | 2024-10-03 |  |
+| [Sex Appeal](https://open.spotify.com/track/7um15LqVMfsUNaqtpv0cBG) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Sex Appeal](https://open.spotify.com/album/1xrXkVdiu7BlPV1z0KYapO) | 2:24 | 2024-10-03 | 2024-11-02 |
 | [SEXY \(feat\. Guè\)](https://open.spotify.com/track/6iOZlieTgmYWDCQmq4Auu6) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NO STRESS](https://open.spotify.com/album/6QqDUInH8FiRADP1bG8LZF) | 2:36 | 2023-07-06 | 2023-07-21 |
 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 | 2022-05-09 | 2022-06-03 |
 | [Sharm El Sheikh](https://open.spotify.com/track/1mmYcbjgplZto84xmMFJA3) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Sharm El Sheikh](https://open.spotify.com/album/2nS6UzfcpGjaukHeQOiofW) | 2:05 | 2022-10-24 | 2023-02-09 |

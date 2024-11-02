@@ -651,6 +651,28 @@
     },
     {
       "album": {
+        "name": "Barcelona (feat. Cody Bolan) [VIP Mix]",
+        "url": "https://open.spotify.com/album/0xBzRvb3GLshk3F1feoxAh"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Cody Bolan",
+          "url": "https://open.spotify.com/artist/2nnHzLNaFAxbzuzjRhWSkT"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Barcelona (feat. Cody Bolan) - VIP Mix",
+      "url": "https://open.spotify.com/track/4tjfbTzjxwc1hbzfLDreIV"
+    },
+    {
+      "album": {
         "name": "Bass Drop",
         "url": "https://open.spotify.com/album/2wEpgFSaoe6g7CncCfdn05"
       },

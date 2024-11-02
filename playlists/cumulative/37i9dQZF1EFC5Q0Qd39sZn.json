@@ -2210,10 +2210,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 234240,
       "name": "Emotional Fire",
       "url": "https://open.spotify.com/track/74dOVbgf0hlCvsbFRLoSnV"
+    },
+    {
+      "album": {
+        "name": "Emotional Fire",
+        "url": "https://open.spotify.com/album/3lyRFZvFmRFxMfAoiYyz1S"
+      },
+      "artists": [
+        {
+          "name": "Denise",
+          "url": "https://open.spotify.com/artist/0c2b43v45DAQa34Xbzbx7H"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336040,
+      "name": "Emotional Fire",
+      "url": "https://open.spotify.com/track/4kQrlvq96vwdZx1OwOTaNS"
     },
     {
       "album": {

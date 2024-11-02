@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,881 likes - 145 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,091 likes - 145 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 23 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
 | 24 | [Tonight, Tonight \- String Quartet Version](https://open.spotify.com/track/6zAFywZrsjmamhBQgzzsxS) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [String Quartet Hits, Vol\. 1 \(String Quartet Versions\)](https://open.spotify.com/album/0Met7qKdwfhrGgulIHUa6Z) | 3:23 |
 | 25 | [Typa Girl \- String Quartet Version](https://open.spotify.com/track/0PvPB4YkMAvqdPu27xpqHm) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Typa Girl \(String Quartet Version\)](https://open.spotify.com/album/0k65v7B6jV6ugzU5NBaUka) | 3:20 |
-| 26 | [Bangalter, de Homem\-Christo: Veridis Quo](https://open.spotify.com/track/0GLR6oEa3L4AUft3XBk0L4) | [Guy\-Manuel de Homem\-Christo](https://open.spotify.com/artist/2NvZ35VexRu6LmfVlArMPq), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Pulse](https://open.spotify.com/album/3V4SxOn6qK58LEA3c5afo8) | 2:47 |
+| 26 | [Veridis quo](https://open.spotify.com/track/0GLR6oEa3L4AUft3XBk0L4) | [Guy\-Manuel de Homem\-Christo](https://open.spotify.com/artist/2NvZ35VexRu6LmfVlArMPq), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Pulse](https://open.spotify.com/album/3V4SxOn6qK58LEA3c5afo8) | 2:47 |
 | 27 | [I'm So Excited](https://open.spotify.com/track/7gHFnR21egTmmq4roYJzpk) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [I'm So Excited](https://open.spotify.com/album/16L8DnFO9c4BFggDDv3b2o) | 3:15 |
 | 28 | [\(I Just\) Died In Your Arms \- Symphony Orchestra Version](https://open.spotify.com/track/1QW9fdfmKQbbEWKpxwcToS) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [\(I Just\) Died In Your Arms \[Symphony Orchestra Version\]](https://open.spotify.com/album/4Oe8mCQe5va5ItLsvJtvnq) | 3:10 |
 | 29 | [Eyes Closed](https://open.spotify.com/track/3rKLkTn7GgLEVaIJjoDH8G) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Eyes Closed](https://open.spotify.com/album/2cwhtJvpJXig9amktNpiMr) | 3:14 |

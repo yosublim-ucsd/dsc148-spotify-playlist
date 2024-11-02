@@ -2509,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "En Efecto",
+        "url": "https://open.spotify.com/album/2Uc44YK6diInkr4ro3gpnX"
+      },
+      "artists": [
+        {
+          "name": "Don Zares",
+          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223027,
+      "name": "En Efecto",
+      "url": "https://open.spotify.com/track/5P0Xi9ZFJwJEWQ1mKw7Ren"
+    },
+    {
+      "album": {
         "name": "25 A\u00f1os Vol. 1",
         "url": "https://open.spotify.com/album/1KFSWUORRh8TeDlhnTbt9Z"
       },
@@ -4894,7 +4912,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 128733,
       "name": "Por una Mujer Casada",
       "url": "https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo"

@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Nice Life ",
-  "num_followers": 210563,
+  "num_followers": 210605,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Lobo da Labo",
+        "url": "https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9"
+      },
+      "artists": [
+        {
+          "name": "Labo Music",
+          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
+        },
+        {
+          "name": "J Levy",
+          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
+        }
+      ],
+      "duration_ms": 204721,
+      "name": "Companhia",
+      "url": "https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Teu Corpo",
         "url": "https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63"
       },
@@ -1043,6 +1063,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 219712,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Menta",
         "url": "https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk"
       },
@@ -1063,18 +1099,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
+        "name": "Nha Mos",
+        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
         }
       ],
-      "duration_ms": 219712,
-      "name": "365",
-      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
+      "duration_ms": 196923,
+      "name": "Nha Mos",
+      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1103,22 +1139,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Nha Mos",
-        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Nha Mos",
-      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Longe de Ti",
         "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
       },
@@ -1131,46 +1151,6 @@
       "duration_ms": 248000,
       "name": "Voc\u00ea Me Kuia",
       "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Lobo da Labo",
-        "url": "https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9"
-      },
-      "artists": [
-        {
-          "name": "Labo Music",
-          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
-        },
-        {
-          "name": "J Levy",
-          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
-        }
-      ],
-      "duration_ms": 204721,
-      "name": "Companhia",
-      "url": "https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Monarquia",
-        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Mylson",
-          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
-        }
-      ],
-      "duration_ms": 202032,
-      "name": "Monarquia",
-      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1207,6 +1187,26 @@
       "duration_ms": 224256,
       "name": "Vai Por Mim",
       "url": "https://open.spotify.com/track/4iVckCZapMMHjbaJFyNxRz"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Monarquia",
+        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Mylson",
+          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
+        }
+      ],
+      "duration_ms": 202032,
+      "name": "Monarquia",
+      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Apaxonado",
+        "url": "https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb"
+      },
+      "artists": [
+        {
+          "name": "Charbel",
+          "url": "https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Belissima",
+      "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "The Gentleman",
         "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 226626,
       "name": "Nha Rainha (feat. Dino D'Santiago)",
       "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Apaxonado",
-        "url": "https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb"
-      },
-      "artists": [
-        {
-          "name": "Charbel",
-          "url": "https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "Belissima",
-      "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
     },
     {
       "added_at": "2024-10-24 23:00:00",

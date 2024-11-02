@@ -584,9 +584,27 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "date_added": "2024-10-31",
+      "date_added": "2024-11-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 269280,
+      "name": "Gave You I Gave You I",
+      "url": "https://open.spotify.com/track/7GaLluiRWvNfhayWKIZ9Xt"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-11-02",
       "duration_ms": 236480,
       "name": "Good Luck Charlie",
       "url": "https://open.spotify.com/track/3aO5affZSi1dOB3LMmP9mO"

@@ -3391,6 +3391,32 @@
     },
     {
       "album": {
+        "name": "EAT OR GET ATE 2",
+        "url": "https://open.spotify.com/album/1W3GUzk78oQx00xm7T2IAt"
+      },
+      "artists": [
+        {
+          "name": "Big Moochie Grape",
+          "url": "https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "Kenny Muney",
+          "url": "https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179560,
+      "name": "Bigg Azz Bands",
+      "url": "https://open.spotify.com/track/57wgDkavSqa3HZ6dyTX069"
+    },
+    {
+      "album": {
         "name": "Family & Mula",
         "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
       },
@@ -4238,7 +4264,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 180152,
       "name": "Bout it Bout it",
       "url": "https://open.spotify.com/track/7cj1vlRdQcnYaxxxcUrpgz"
@@ -10445,6 +10471,24 @@
     },
     {
       "album": {
+        "name": "GlockHouse",
+        "url": "https://open.spotify.com/album/08FRcigtdUnZgM9PSa2R2w"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158931,
+      "name": "GlockHouse",
+      "url": "https://open.spotify.com/track/2leh4DuPBGkvJxvQ4rngSu"
+    },
+    {
+      "album": {
         "name": "GO",
         "url": "https://open.spotify.com/album/2Z4Mvd7jnU20NIWDrCRozY"
       },
@@ -11010,6 +11054,24 @@
       "duration_ms": 157204,
       "name": "Green Hearts",
       "url": "https://open.spotify.com/track/51UCBlvZizsxw98H5QkNeh"
+    },
+    {
+      "album": {
+        "name": "The Streets Calling My Name, Pt. 2",
+        "url": "https://open.spotify.com/album/0cMxjVZ2M5xuwBHIJC6A3z"
+      },
+      "artists": [
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131199,
+      "name": "Grew Up Different",
+      "url": "https://open.spotify.com/track/1a3OTQy3UWxv3t8IzqkL8g"
     },
     {
       "album": {
@@ -12824,7 +12886,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 171428,
       "name": "I AIN\u2019T GOING",
       "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
@@ -13528,7 +13590,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 172461,
       "name": "If I'm Scared",
       "url": "https://open.spotify.com/track/6WIsXkA2hqn8akCV3SG4ka"
@@ -14126,7 +14188,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 174133,
       "name": "John Wayne (feat. Metro Boomin)",
       "url": "https://open.spotify.com/track/4mfaQcqYhlv0X9xF2bDWxG"
@@ -15030,7 +15092,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 152526,
       "name": "Last Ones Left",
       "url": "https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5"
@@ -15208,10 +15270,32 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 131818,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0kZLYZ9qpZrQYedUMI7s58"
+    },
+    {
+      "album": {
+        "name": "#TurntUpNotBurntUp",
+        "url": "https://open.spotify.com/album/3GQexjtMTNetpdRfa2vfjG"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Legends (feat. King Von)",
+      "url": "https://open.spotify.com/track/32OYAD7aebvEIIrnXqkj6F"
     },
     {
       "album": {
@@ -15584,6 +15668,24 @@
     {
       "album": {
         "name": "Like This",
+        "url": "https://open.spotify.com/album/0kDSGcv4qDCEqeEAuvEQyX"
+      },
+      "artists": [
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183111,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4AgUBh21AOcQib8wO3ZxIL"
+    },
+    {
+      "album": {
+        "name": "Like This",
         "url": "https://open.spotify.com/album/5C5ppCQzmnD3FR5YoQAdo9"
       },
       "artists": [
@@ -15802,6 +15904,28 @@
       "duration_ms": 223258,
       "name": "LLOGCLAY",
       "url": "https://open.spotify.com/track/4CGUa53VCVIM7wQBTMPWoa"
+    },
+    {
+      "album": {
+        "name": "Load Out (feat. LAZER DIM 700)",
+        "url": "https://open.spotify.com/album/52xYp4ZJjmOSPiW2bc9kPu"
+      },
+      "artists": [
+        {
+          "name": "Benji Blue Bills",
+          "url": "https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC"
+        },
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147945,
+      "name": "Load Out (feat. LAZER DIM 700)",
+      "url": "https://open.spotify.com/track/5Wpfapjmj9nbpIT9CBZTTX"
     },
     {
       "album": {
@@ -21469,6 +21593,32 @@
     },
     {
       "album": {
+        "name": "Pleads (feat. Chief Keef & Nardo Wick)",
+        "url": "https://open.spotify.com/album/6WhHRfRwwupleCL3cK782f"
+      },
+      "artists": [
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179222,
+      "name": "Pleads (feat. Chief Keef & Nardo Wick)",
+      "url": "https://open.spotify.com/track/72nY8ePnCkQfWJEVzQNkT1"
+    },
+    {
+      "album": {
         "name": "Plenty",
         "url": "https://open.spotify.com/album/097aY57QMnEguasSbYWyoW"
       },
@@ -26929,6 +27079,28 @@
     },
     {
       "album": {
+        "name": "#TurntUpNotBurntUp",
+        "url": "https://open.spotify.com/album/3GQexjtMTNetpdRfa2vfjG"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152951,
+      "name": "Still Thuggin (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1hwCcLZYjOj8kK21Uefxnl"
+    },
+    {
+      "album": {
         "name": "STOMP STEP",
         "url": "https://open.spotify.com/album/7cJ2Nqti3Rf5m8MDfmxhfQ"
       },
@@ -27092,7 +27264,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 121211,
       "name": "Streets Calling My Name",
       "url": "https://open.spotify.com/track/3S8eVueSVnzE0CI0UyKTVQ"
@@ -27296,7 +27468,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 158937,
       "name": "SUMN PRETTY",
       "url": "https://open.spotify.com/track/6mMePkdSUNhOw8NexGiKFb"
@@ -27668,6 +27840,28 @@
       "duration_ms": 161779,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5XPDCL8gWjS1M9cpdY0OGL"
+    },
+    {
+      "album": {
+        "name": "Zombie Love Kensington Paradise",
+        "url": "https://open.spotify.com/album/2FqcuBuYAngz86cqeejHGK"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182015,
+      "name": "Talk (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/6A00ULEfNqDLuEuKE6Mrxm"
     },
     {
       "album": {
@@ -29072,7 +29266,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 135322,
       "name": "Trapionship",
       "url": "https://open.spotify.com/track/3XptYTSSsK3Xq7qS0KFVJZ"
@@ -29744,7 +29938,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 178029,
       "name": "Ungrateful (feat. Lil Crix)",
       "url": "https://open.spotify.com/track/6xJK99KebVnVxt5zAJBZmw"
@@ -30388,6 +30582,28 @@
       "duration_ms": 166039,
       "name": "Walk",
       "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
+    },
+    {
+      "album": {
+        "name": "Live From The 6 (Part Two)",
+        "url": "https://open.spotify.com/album/08QAwWZ6DHaqTq9x0EjJV7"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "Bankroll Freddie",
+          "url": "https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151340,
+      "name": "Walk Down (feat. Bankroll Freddie)",
+      "url": "https://open.spotify.com/track/1jZwZ3r34vHCvYe7cbv4MX"
     },
     {
       "album": {

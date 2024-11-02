@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: PAS TASTA",
-  "num_followers": 59265,
+  "num_followers": 59273,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-10-29 15:00:00",
       "album": {
-        "name": "\u597d\u4eba\u7d00\u884c",
-        "url": "https://open.spotify.com/album/0PPj5HcWUa6ltwCmR0lRun"
-      },
-      "artists": [
-        {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
-        }
-      ],
-      "duration_ms": 243100,
-      "name": "\u597d\u4eba\u7d00\u884c",
-      "url": "https://open.spotify.com/track/77y1TjSTPoJpK4Qfvi2gHP"
-    },
-    {
-      "added_at": "2024-10-29 15:00:00",
-      "album": {
         "name": "Make a Move",
         "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 157133,
       "name": "Make a Move",
       "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
+    },
+    {
+      "added_at": "2024-10-29 15:00:00",
+      "album": {
+        "name": "\u597d\u4eba\u7d00\u884c",
+        "url": "https://open.spotify.com/album/0PPj5HcWUa6ltwCmR0lRun"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "duration_ms": 243100,
+      "name": "\u597d\u4eba\u7d00\u884c",
+      "url": "https://open.spotify.com/track/77y1TjSTPoJpK4Qfvi2gHP"
     },
     {
       "added_at": "2024-10-29 15:00:00",
@@ -819,6 +819,22 @@
       "duration_ms": 149271,
       "name": "SUKIYAKI",
       "url": "https://open.spotify.com/track/1Ps2Yky3EWKGuB48xK0xti"
+    },
+    {
+      "added_at": "2024-10-29 15:00:00",
+      "album": {
+        "name": "Sick!!!",
+        "url": "https://open.spotify.com/album/0MMBAMCR1kJEtSZr9z6D6d"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "duration_ms": 244416,
+      "name": "Sick!!!",
+      "url": "https://open.spotify.com/track/7FSlB8echKJVC9yjf9caGK"
     },
     {
       "added_at": "2024-10-29 15:00:00",
@@ -911,38 +927,6 @@
     {
       "added_at": "2024-10-29 15:00:00",
       "album": {
-        "name": "Sick!!!",
-        "url": "https://open.spotify.com/album/0MMBAMCR1kJEtSZr9z6D6d"
-      },
-      "artists": [
-        {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
-        }
-      ],
-      "duration_ms": 244416,
-      "name": "Sick!!!",
-      "url": "https://open.spotify.com/track/7FSlB8echKJVC9yjf9caGK"
-    },
-    {
-      "added_at": "2024-10-29 15:00:00",
-      "album": {
-        "name": "\u30b0\u30ec\u30fc",
-        "url": "https://open.spotify.com/album/6vqpq472JxEatGTOlwrLZR"
-      },
-      "artists": [
-        {
-          "name": "Hedigan\u2019s",
-          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
-        }
-      ],
-      "duration_ms": 209391,
-      "name": "\u30b0\u30ec\u30fc",
-      "url": "https://open.spotify.com/track/7zDtaZKT3Q1RRzXjnRIv4B"
-    },
-    {
-      "added_at": "2024-10-29 15:00:00",
-      "album": {
         "name": "MEBAE",
         "url": "https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 209256,
       "name": "Shock!!\u4e2d\u6bd2",
       "url": "https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD"
+    },
+    {
+      "added_at": "2024-10-29 15:00:00",
+      "album": {
+        "name": "\u30b0\u30ec\u30fc",
+        "url": "https://open.spotify.com/album/6vqpq472JxEatGTOlwrLZR"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "duration_ms": 209391,
+      "name": "\u30b0\u30ec\u30fc",
+      "url": "https://open.spotify.com/track/7zDtaZKT3Q1RRzXjnRIv4B"
     },
     {
       "added_at": "2024-10-29 15:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-29 15:00:00",
       "album": {
-        "name": "\u72c2\u3063\u3066\u3069\u3046\u306b\u304b\u306a\u308a\u305d\u3046\u306a\u3093\u3060\u3002",
-        "url": "https://open.spotify.com/album/16l6P3XA1iep6gtWBpgKJK"
-      },
-      "artists": [
-        {
-          "name": "Narita",
-          "url": "https://open.spotify.com/artist/3sEl6ZVveEM2iKeJSKskiN"
-        }
-      ],
-      "duration_ms": 118695,
-      "name": "\u60aa\u9b54\u3092\u98fc\u3063\u3066\u308b",
-      "url": "https://open.spotify.com/track/5500y1N4gRYCcb3dKfuOxN"
-    },
-    {
-      "added_at": "2024-10-29 15:00:00",
-      "album": {
         "name": "\u3057\u3068\u308d\u3093\u306e\u9031\u672b",
         "url": "https://open.spotify.com/album/3zlBk9mRBJHPMQnd6hnCvj"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 184506,
       "name": "\u3057\u3068\u308d\u3093\u306e\u9031\u672b",
       "url": "https://open.spotify.com/track/73JuWT6msVqFaYfyFvxEnr"
+    },
+    {
+      "added_at": "2024-10-29 15:00:00",
+      "album": {
+        "name": "\u72c2\u3063\u3066\u3069\u3046\u306b\u304b\u306a\u308a\u305d\u3046\u306a\u3093\u3060\u3002",
+        "url": "https://open.spotify.com/album/16l6P3XA1iep6gtWBpgKJK"
+      },
+      "artists": [
+        {
+          "name": "Narita",
+          "url": "https://open.spotify.com/artist/3sEl6ZVveEM2iKeJSKskiN"
+        }
+      ],
+      "duration_ms": 118695,
+      "name": "\u60aa\u9b54\u3092\u98fc\u3063\u3066\u308b",
+      "url": "https://open.spotify.com/track/5500y1N4gRYCcb3dKfuOxN"
     },
     {
       "added_at": "2024-10-29 15:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-10-29 15:00:00",
       "album": {
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1Q9XRAfWT01mx7MFGxJOFF"
+      },
+      "artists": [
+        {
+          "name": "Amiide",
+          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/5GMK8sduhOa6g3mcW9gwi6"
+    },
+    {
+      "added_at": "2024-10-29 15:00:00",
+      "album": {
         "name": "THE FAKE ESCAPE",
         "url": "https://open.spotify.com/album/69tv2teYIILTpu7DYyORy1"
       },
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2024-10-29 15:00:00",
       "album": {
-        "name": "LET GO",
-        "url": "https://open.spotify.com/album/1Q9XRAfWT01mx7MFGxJOFF"
+        "name": "\u30af\u30ba\u30a2\u30f3\u30c9\u30d4\u30fc\u30b9/\u30dd\u30e1\u30e9\u30cb\u30a2\u30f3",
+        "url": "https://open.spotify.com/album/0GomZFVLvII7BCJoufCwl4"
       },
       "artists": [
         {
-          "name": "Amiide",
-          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+          "name": "Yujiro Kudo",
+          "url": "https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA"
         }
       ],
-      "duration_ms": 130666,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/5GMK8sduhOa6g3mcW9gwi6"
+      "duration_ms": 203541,
+      "name": "\u30af\u30ba\u30a2\u30f3\u30c9\u30d4\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/4JnZyGMjxj9f7AK74y6Cbu"
     },
     {
       "added_at": "2024-10-29 15:00:00",
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2024-10-29 15:00:00",
       "album": {
-        "name": "\u30af\u30ba\u30a2\u30f3\u30c9\u30d4\u30fc\u30b9/\u30dd\u30e1\u30e9\u30cb\u30a2\u30f3",
-        "url": "https://open.spotify.com/album/0GomZFVLvII7BCJoufCwl4"
+        "name": "\u3072\u304b\u308a\u3092\u7de8\u3080\u99d0\u8eca\u5834",
+        "url": "https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV"
       },
       "artists": [
         {
-          "name": "Yujiro Kudo",
-          "url": "https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA"
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
         }
       ],
-      "duration_ms": 203541,
-      "name": "\u30af\u30ba\u30a2\u30f3\u30c9\u30d4\u30fc\u30b9",
-      "url": "https://open.spotify.com/track/4JnZyGMjxj9f7AK74y6Cbu"
+      "duration_ms": 175578,
+      "name": "\u5929\u624d\u306f\u4eca\u5ea6",
+      "url": "https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF"
     },
     {
       "added_at": "2024-10-29 15:00:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 399978,
       "name": "\u304d\u305b\u3064",
       "url": "https://open.spotify.com/track/5fOOVuvHuFQMUS4MTW1rdI"
-    },
-    {
-      "added_at": "2024-10-29 15:00:00",
-      "album": {
-        "name": "\u3072\u304b\u308a\u3092\u7de8\u3080\u99d0\u8eca\u5834",
-        "url": "https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
-          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
-        }
-      ],
-      "duration_ms": 175578,
-      "name": "\u5929\u624d\u306f\u4eca\u5ea6",
-      "url": "https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF"
     }
   ],
   "unique_name": "Edge!",

@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-488 songs - 1 day 9 hr 55 min
+489 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Longinus](https://open.spotify.com/track/4BlfZaJSOekHNunoG8XItm) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [The Angel's Message](https://open.spotify.com/album/6ic1DFb2x9WIhAz1y0o5aD) | 4:01 | 2019-01-29 |  |
 | [Loss of Polarity](https://open.spotify.com/track/24tSlq7EcKVLcdbf9acQlW) | [LU\-I](https://open.spotify.com/artist/7GzQljkebaUm94GJaAmzM1) | [Invitation to the Fallen 2](https://open.spotify.com/album/2v5vnkf70VSNJjfKCn1btL) | 4:43 | 2020-09-15 |  |
 | [Lost in Darkness](https://open.spotify.com/track/0FrpbaLkxS75nMyLZ4HpqV) | [Meccano Twins](https://open.spotify.com/artist/4SYJNUTeuqa13uUqrRGGgt), [6th](https://open.spotify.com/artist/1OC1dqSbe6zNiv0NBtODX1) | [Lost in Darkness](https://open.spotify.com/album/6nwB626aDPSc2ZM464L4vA) | 4:33 | 2020-02-12 |  |
+| [Lost in the Abyss](https://open.spotify.com/track/0OiJbU6z2vgdAilOaASNMm) | [Abyssmare](https://open.spotify.com/artist/1b1JNnumZJQBTNOY2Popqv), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Lost in the Abyss](https://open.spotify.com/album/6YJtMkGUyeGJcKL9uyGEtX) | 2:08 | 2024-11-01 |  |
 | [Love Kills U](https://open.spotify.com/track/41NO2jzdSFiQtFxwFEv3ix) | [EmoCosine](https://open.spotify.com/artist/6JeMAHza4KM4VaMixmrcIs) | [Love Kills U](https://open.spotify.com/album/6uHJP3rfi7Cn1baOr1ZM4F) | 2:18 | 2022-12-09 |  |
 | [Love me U \(kenta\-v.ez\. rEmix\)](https://open.spotify.com/track/0fqgdPbk7rc0g6AZMPtoFl) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [TANO\*C REMIXES 3](https://open.spotify.com/album/5tft6VXWYoxtgtyNWCeQST) | 4:29 | 2019-03-03 |  |
 | [Lovely Shit](https://open.spotify.com/track/6md8bOLXqVlkKaf1I6Jhf0) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Bright Colors 4](https://open.spotify.com/album/3QgansZQCzC9ZICCC0STb3) | 4:00 | 2019-02-03 |  |

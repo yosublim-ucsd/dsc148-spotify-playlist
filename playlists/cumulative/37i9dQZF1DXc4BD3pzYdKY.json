@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:78DvQP3rczGqfgEiLfFnCD\">Torey D'Shaun</a>",
+  "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:5BfKKSmpGmj2moMNlaWeJK\">Marty</a>",
   "name": "The Flow",
   "tracks": [
     {
@@ -2896,7 +2896,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 157714,
       "name": "Boost It Up",
       "url": "https://open.spotify.com/track/1M4xXF3ysXJhy0oOXYn60J"
@@ -10721,6 +10721,24 @@
     },
     {
       "album": {
+        "name": "Lightchild",
+        "url": "https://open.spotify.com/album/6hAtXCrwWc4hBgXL9Ax5FQ"
+      },
+      "artists": [
+        {
+          "name": "Kieran the Light",
+          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/54hXDJQ2KX68JUBJN8T92x"
+    },
+    {
+      "album": {
         "name": "God is Iconic",
         "url": "https://open.spotify.com/album/2oEyCsPPHDBmN7yRjI9pkp"
       },
@@ -12208,7 +12226,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 138904,
       "name": "LOVE LIKE YOU",
       "url": "https://open.spotify.com/track/3WdPLocQAWQv5QuMnsh94F"
@@ -14906,7 +14924,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 170118,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
@@ -15904,6 +15922,28 @@
       "duration_ms": 164000,
       "name": "POWER",
       "url": "https://open.spotify.com/track/2vqmCvD4K1L2yt5qiF3fxg"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2orSspOqeZwGiVzo9krNN0"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144059,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7fv1A3To8SjgnlPcfWiGZo"
     },
     {
       "album": {
@@ -17068,7 +17108,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 180000,
       "name": "Remote Job",
       "url": "https://open.spotify.com/track/2PaLHn5rC6MphhTtiNjYcK"
@@ -22426,6 +22466,28 @@
       "duration_ms": 214773,
       "name": "Where Do We Go?",
       "url": "https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY"
+    },
+    {
+      "album": {
+        "name": "FLOP ERA VOL. 2 (DELUXE)",
+        "url": "https://open.spotify.com/album/71SdmNkyW7xTl6hXsgP0fL"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125948,
+      "name": "WHITE ELEPHANT",
+      "url": "https://open.spotify.com/track/3C9sUtiSUvAkhwko0kcmas"
     },
     {
       "album": {

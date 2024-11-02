@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di  Kid Yugi, Tredici Pietro, Don Joe e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,666 likes - 98 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,686 likes - 98 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 24 | [non lo so !](https://open.spotify.com/track/44nxwhhGPYORaaH0i6clUs) | [Frostee](https://open.spotify.com/artist/6xZVjHaQyPmX5XIXqAWfae) | [clueless](https://open.spotify.com/album/3PDKScfiNtIpLupsqs2yUl) | 3:07 |
 | 25 | [BROKER](https://open.spotify.com/track/6GbELElaCiUeok1zEdcCBF) | [Mocro Yakuza](https://open.spotify.com/artist/3To9zBWMwJt0ohLMHPxxSV) | [BROKER](https://open.spotify.com/album/1DRBrhYobmGDDfRomHJPvz) | 1:37 |
 | 26 | [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/album/1gHHbM7rsEjkl4P6eQ7CKp) | 2:08 |
-| 27 | [Galassia](https://open.spotify.com/track/1rJ4uHHqZLFo7vrhcgnKkP) | [Mastafive](https://open.spotify.com/artist/5j8VwVgzqtJ8FG4KcLGvMb), [Sesto Carnera](https://open.spotify.com/artist/62Dvna5Mkmv2jftR22IWAu), [Blo/B](https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH), [De Angelo Parpalione](https://open.spotify.com/artist/0hxegPDqrP3s00egAM8VNZ) | [Galassia](https://open.spotify.com/album/1QQ1d5TeUqPbV4j8TUWyM4) | 4:30 |
+| 27 | [Galassia](https://open.spotify.com/track/1rJ4uHHqZLFo7vrhcgnKkP) | [Mastafive](https://open.spotify.com/artist/5j8VwVgzqtJ8FG4KcLGvMb), [Sesto Carnera](https://open.spotify.com/artist/62Dvna5Mkmv2jftR22IWAu), [Blo/B](https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH), [De Angelo Parpaglione](https://open.spotify.com/artist/0Q60ViXHj1FcqhVskzLZq1) | [Galassia](https://open.spotify.com/album/1QQ1d5TeUqPbV4j8TUWyM4) | 4:30 |
 | 28 | [MAI MIA](https://open.spotify.com/track/6VQWJW3H4GHqdtphxffcNd) | [L1TH](https://open.spotify.com/artist/74ev8MCIoaVx8Di1zTUBFr), [SPINE](https://open.spotify.com/artist/5mKGpfEqTSeUslDPMAKXe7) | [MAI MIA](https://open.spotify.com/album/0Oekd7C1HErakBUqjyLufi) | 2:56 |
 | 29 | [Hania](https://open.spotify.com/track/15RAs4OBrCzCelLxwl1Qeg) | [Accaoui](https://open.spotify.com/artist/0ZH9vErkeklBVpizfUWo6M), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Hania](https://open.spotify.com/album/0U6RdT49ira25w1MOncuRv) | 3:02 |
 | 30 | [FAMMI SORRIDERE](https://open.spotify.com/track/2p8cVYrKgRG2jHTSVSwEAB) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [FAMMI SORRIDERE](https://open.spotify.com/album/7MwyGus32DX1M867YzS720) | 2:18 |

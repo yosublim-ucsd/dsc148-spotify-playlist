@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,232 likes - 100 songs - 5 hr 6 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,233 likes - 101 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 98 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 |
 | 99 | [Hey DJ \- Joel Corry VIP Mix](https://open.spotify.com/track/20Z0uJ0fP8ENJ3bpMUzgOu) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ \(The Remixes\)](https://open.spotify.com/album/7GKY1CExwlxN9Cn8HMPyd7) | 2:34 |
 | 100 | [Bad Boy For Life](https://open.spotify.com/track/21svQEALLlrbJNYeRxMeWg) | [Vasovski Live](https://open.spotify.com/artist/2tDYKg6IgydH7HnIdEz0v7) | [Bad Boy for Life](https://open.spotify.com/album/0ffRbCgRegpS6ucR1MBTcE) | 2:08 |
+| 101 | [Deep Down](https://open.spotify.com/track/61k2wuStVOfO1qzFaHW2HL) | [KeinKlang](https://open.spotify.com/artist/60T6JUeMdx8kOBWg3zTxy8) | [Deep Down](https://open.spotify.com/album/4AL45M0AQbhnlJToC0K1ZV) | 2:59 |
 
-Snapshot ID: `AAAPiTvt6USu6uxiQgUbmHWwpnpO+jkx`
+Snapshot ID: `AAAPilIlDoYxa7c+/NXFiLAv0YBcquos`

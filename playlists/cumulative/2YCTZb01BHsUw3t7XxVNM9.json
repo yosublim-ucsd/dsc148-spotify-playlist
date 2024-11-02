@@ -4829,6 +4829,28 @@
     },
     {
       "album": {
+        "name": "Lost in the Abyss",
+        "url": "https://open.spotify.com/album/6YJtMkGUyeGJcKL9uyGEtX"
+      },
+      "artists": [
+        {
+          "name": "Abyssmare",
+          "url": "https://open.spotify.com/artist/1b1JNnumZJQBTNOY2Popqv"
+        },
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128957,
+      "name": "Lost in the Abyss",
+      "url": "https://open.spotify.com/track/0OiJbU6z2vgdAilOaASNMm"
+    },
+    {
+      "album": {
         "name": "Love Kills U",
         "url": "https://open.spotify.com/album/6uHJP3rfi7Cn1baOr1ZM4F"
       },

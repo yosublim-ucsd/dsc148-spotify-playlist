@@ -17201,6 +17201,32 @@
     },
     {
       "album": {
+        "name": "Pizza Cat",
+        "url": "https://open.spotify.com/album/2CqIedfTLzSn39RhKVA29c"
+      },
+      "artists": [
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        },
+        {
+          "name": "Carl Bee",
+          "url": "https://open.spotify.com/artist/1BjovuKg3qRbCNNy5W9Efv"
+        },
+        {
+          "name": "Tom Diesel",
+          "url": "https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244315,
+      "name": "Pizza Cat",
+      "url": "https://open.spotify.com/track/2ZkD53foUtBVA5K5WGYZrb"
+    },
+    {
+      "album": {
         "name": "Pop That",
         "url": "https://open.spotify.com/album/40brUtZEu1GE9QWjNykxFU"
       },

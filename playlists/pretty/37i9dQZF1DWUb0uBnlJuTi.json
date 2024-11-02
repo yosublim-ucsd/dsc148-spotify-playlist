@@ -1,13 +1,29 @@
 {
-  "description": "Jazz. But funky. Cover: Sly5thAve",
-  "num_followers": 358183,
+  "description": "Jazz. But funky. Cover: Skinny Hightower",
+  "num_followers": 358312,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAAA5uSVLAKNdDLN8z7mWG1nc",
+  "snapshot_id": "ZyRSQAAAAAATw649vGyhzVxwZ054XM4Y",
   "tracks": [
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "THE MAN",
+        "url": "https://open.spotify.com/album/7LvM2OjHj4lqjkWjUOGN3t"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "ORGANICS",
+      "url": "https://open.spotify.com/track/0PAF2exzV27bNk6YPikLt8"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
@@ -63,22 +79,6 @@
       "duration_ms": 199060,
       "name": "Burning",
       "url": "https://open.spotify.com/track/7ru68qYGq300h0aC0icBOA"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "THAT'S ALRIGHT",
-        "url": "https://open.spotify.com/album/1lePRTzq5rKtJf6Mfoog16"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        }
-      ],
-      "duration_ms": 331000,
-      "name": "THAT'S ALRIGHT",
-      "url": "https://open.spotify.com/track/3LzvaRYXRH2ayVehdVrUDZ"
     },
     {
       "added_at": "2024-09-13 04:00:00",

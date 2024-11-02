@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14638,
+  "num_followers": 14640,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "EROTIK ERA",
-        "url": "https://open.spotify.com/album/6KXlPEuTkJITCD6zzCeAjF"
-      },
-      "artists": [
-        {
-          "name": "Mery Spolsky",
-          "url": "https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx"
-        }
-      ],
-      "duration_ms": 180293,
-      "name": "MARIA PRZED O\u0141TARZEM",
-      "url": "https://open.spotify.com/track/4cAlhZl3ytWpHKkAosthiB"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "HEARTCORE",
         "url": "https://open.spotify.com/album/2wu6Xg4fyZuoTSsu4GBJhN"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 269266,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6qjbwqkGuUj7XI31Gfawfs"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "EROTIK ERA",
+        "url": "https://open.spotify.com/album/6KXlPEuTkJITCD6zzCeAjF"
+      },
+      "artists": [
+        {
+          "name": "Mery Spolsky",
+          "url": "https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx"
+        }
+      ],
+      "duration_ms": 180293,
+      "name": "MARIA PRZED O\u0141TARZEM",
+      "url": "https://open.spotify.com/track/4cAlhZl3ytWpHKkAosthiB"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Some Old Songs",
-        "url": "https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee"
-      },
-      "artists": [
-        {
-          "name": "Tomek Zi\u0119tek",
-          "url": "https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy"
-        }
-      ],
-      "duration_ms": 206415,
-      "name": "Your Kiss",
-      "url": "https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Mikromusic z G\u00f3rnej P\u00f3\u0142ki",
         "url": "https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 471480,
       "name": "W Ogniu \u015awiat",
       "url": "https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Some Old Songs",
+        "url": "https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee"
+      },
+      "artists": [
+        {
+          "name": "Tomek Zi\u0119tek",
+          "url": "https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy"
+        }
+      ],
+      "duration_ms": 206415,
+      "name": "Your Kiss",
+      "url": "https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
-      },
-      "artists": [
-        {
-          "name": "Same Suki",
-          "url": "https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd"
-        }
-      ],
-      "duration_ms": 99000,
-      "name": "Pie\u015b\u0144 baby",
-      "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "IMAGO (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
+      },
+      "artists": [
+        {
+          "name": "Same Suki",
+          "url": "https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Pie\u015b\u0144 baby",
+      "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Unde Malum",
         "url": "https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Matecki",
-        "url": "https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe"
-      },
-      "artists": [
-        {
-          "name": "Matecki",
-          "url": "https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w"
-        }
-      ],
-      "duration_ms": 181548,
-      "name": "Summerland",
-      "url": "https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "AFR AI D",
         "url": "https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 222800,
       "name": "I Love To Chat With You",
       "url": "https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Matecki",
+        "url": "https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe"
+      },
+      "artists": [
+        {
+          "name": "Matecki",
+          "url": "https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w"
+        }
+      ],
+      "duration_ms": 181548,
+      "name": "Summerland",
+      "url": "https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "perception of preception",
-        "url": "https://open.spotify.com/album/7FP9VDLmGKbG7u6K3KbOZq"
-      },
-      "artists": [
-        {
-          "name": "Irka Zapolska Quartet",
-          "url": "https://open.spotify.com/artist/54xNZbyRTTQh0HNR8uw8lu"
-        }
-      ],
-      "duration_ms": 850960,
-      "name": "a Story of Perception",
-      "url": "https://open.spotify.com/track/7Lf7GfnDGC3RWWYvQ6a18h"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Krzysztof Meyer: Sonata No.4, Op.22: IV. Interludio II",
         "url": "https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 238518,
       "name": "Krzysztof Meyer: Sonata No.4, Op.22: IV. Interludio II",
       "url": "https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "perception of preception",
+        "url": "https://open.spotify.com/album/7FP9VDLmGKbG7u6K3KbOZq"
+      },
+      "artists": [
+        {
+          "name": "Irka Zapolska Quartet",
+          "url": "https://open.spotify.com/artist/54xNZbyRTTQh0HNR8uw8lu"
+        }
+      ],
+      "duration_ms": 850960,
+      "name": "a Story of Perception",
+      "url": "https://open.spotify.com/track/7Lf7GfnDGC3RWWYvQ6a18h"
     },
     {
       "added_at": "2024-03-25 08:52:09",

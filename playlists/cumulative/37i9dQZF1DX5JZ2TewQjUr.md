@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Juniper Care
 
-1,215 songs - 2 day 20 hr 52 min
+1,216 songs - 2 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,6 +1069,7 @@
 | [橋橋](https://open.spotify.com/track/6S5GiwCiruw4YSY8S20zdZ) | [MC $oHo & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [橋橋](https://open.spotify.com/album/4Fm76Jj5H8gq8g5BuLC7bD) | 4:12 | 2023-04-27 | 2023-09-01 |
 | [歌手職訓101](https://open.spotify.com/track/2tM6ukbTDeDLHPpdPCe3oC) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌手職訓101](https://open.spotify.com/album/7HrKG5OOMmKIjMur9xHlDF) | 2:54 | 2023-04-27 | 2023-07-14 |
 | [此在 \(Day Version\)](https://open.spotify.com/track/34jpkyoDBqKFDLWj8hINHN) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT), [楊智遠](https://open.spotify.com/artist/3z1plF2EanRX8DWiJ24jbU) | [此在 \(Day Version\)](https://open.spotify.com/album/7uQiVWRn2oY2DrSaWbnpAN) | 2:59 | 2022-05-26 | 2022-06-10 |
+| [歷史的垃圾時間論是個偽命題](https://open.spotify.com/track/2M7w0gndqY9FCsXsNngR99) | [Chiwai Cheang](https://open.spotify.com/artist/6fTknbeGNi5zSLEkF05kRv) | [歷史的垃圾時間論是個偽命題](https://open.spotify.com/album/2V7u5z8jLwGZlbo3k5hq1w) | 3:35 | 2024-10-31 |  |
 | [死了 又如何](https://open.spotify.com/track/3LEJpRgPtjqdMXLKxFjKEd) | [Calvin Lam](https://open.spotify.com/artist/3r4XztI8HmZRNJmyRUjGAs) | [死了 又如何](https://open.spotify.com/album/43nIfevfLd1tRev7wqd1o8) | 3:51 | 2024-07-04 |  |
 | [死𡃁仔](https://open.spotify.com/track/17wMXqTu0krrUIkuzuQZMj) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [死𡃁仔](https://open.spotify.com/album/3HuM7AFXmJrz5DT5MtQ3sM) | 2:22 | 2022-12-29 | 2023-05-26 |
 | [每一天 Everyday](https://open.spotify.com/track/6kQQWKDWgUXxu9gxL7eSwo) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [每一天 Everyday](https://open.spotify.com/album/7kzlU1smfQkmlYwXYRkjLa) | 7:14 | 2024-02-22 | 2024-06-07 |

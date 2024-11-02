@@ -1,13 +1,29 @@
 {
   "description": "Gazing at pedals, soaring celestially high. cover: Trauma Ray",
-  "num_followers": 183645,
+  "num_followers": 183699,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxvQlQAAAACGK+K2mJkg+kO/rdBvWHFB",
+  "snapshot_id": "ZyThgAAAAAChYQeQFkmWCfR8sbjU1QYs",
   "tracks": [
+    {
+      "added_at": "2024-11-01 14:11:12",
+      "album": {
+        "name": "I remember how your hands felt on mine",
+        "url": "https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 195968,
+      "name": "I remember how your hands felt on mine",
+      "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy"
+    },
     {
       "added_at": "2024-10-25 17:08:37",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn"
     },
     {
+      "added_at": "2024-11-01 14:11:12",
+      "album": {
+        "name": "Songs Of A Lost World",
+        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 321101,
+      "name": "All I Ever Am",
+      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
+    },
+    {
       "added_at": "2024-10-25 17:08:37",
       "album": {
         "name": "Daymom",
@@ -59,22 +91,6 @@
     {
       "added_at": "2024-10-25 17:08:37",
       "album": {
-        "name": "chrome is lullaby",
-        "url": "https://open.spotify.com/album/2RSFZOEGjPPrZHRCnkfRIb"
-      },
-      "artists": [
-        {
-          "name": "Her New Knife",
-          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
-        }
-      ],
-      "duration_ms": 182777,
-      "name": "kittyriff",
-      "url": "https://open.spotify.com/track/1fafMla0Vggy1EqB79OsRW"
-    },
-    {
-      "added_at": "2024-10-25 17:08:37",
-      "album": {
         "name": "Son of the Rambling Dawn",
         "url": "https://open.spotify.com/album/5KXNsOwsHSbaNe8ZJTTeNW"
       },
@@ -87,6 +103,38 @@
       "duration_ms": 218186,
       "name": "Son of the Rambling Dawn",
       "url": "https://open.spotify.com/track/5ff4r3TKIiDmrSu1yrSqRo"
+    },
+    {
+      "added_at": "2024-11-01 14:11:12",
+      "album": {
+        "name": "midheaven",
+        "url": "https://open.spotify.com/album/7Ltq6s4Gl37or5SkaLHJad"
+      },
+      "artists": [
+        {
+          "name": "dottie",
+          "url": "https://open.spotify.com/artist/40grr46nSRIMZm8h4wdyKY"
+        }
+      ],
+      "duration_ms": 198513,
+      "name": "midheaven",
+      "url": "https://open.spotify.com/track/1NMyMy40F03F3JVF1trUKK"
+    },
+    {
+      "added_at": "2024-11-01 14:11:12",
+      "album": {
+        "name": "Angel In The Sand",
+        "url": "https://open.spotify.com/album/6W5o0RyfAcFruntLVD3KVC"
+      },
+      "artists": [
+        {
+          "name": "Leaving Time",
+          "url": "https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y"
+        }
+      ],
+      "duration_ms": 148810,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/1h0YsYLA7gMlfnR51VDYg3"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -151,6 +199,38 @@
       "duration_ms": 212240,
       "name": "Sugarcoat",
       "url": "https://open.spotify.com/track/3LTjRvhLnoc0dCqlPUtU08"
+    },
+    {
+      "added_at": "2024-10-25 17:08:37",
+      "album": {
+        "name": "chrome is lullaby",
+        "url": "https://open.spotify.com/album/2RSFZOEGjPPrZHRCnkfRIb"
+      },
+      "artists": [
+        {
+          "name": "Her New Knife",
+          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+        }
+      ],
+      "duration_ms": 182777,
+      "name": "kittyriff",
+      "url": "https://open.spotify.com/track/1fafMla0Vggy1EqB79OsRW"
+    },
+    {
+      "added_at": "2024-11-01 14:11:12",
+      "album": {
+        "name": "Catcher",
+        "url": "https://open.spotify.com/album/5s4PtDiumQ7P1R6msZMjpw"
+      },
+      "artists": [
+        {
+          "name": "High.",
+          "url": "https://open.spotify.com/artist/59LpxUqe2EStKGfpogJqxi"
+        }
+      ],
+      "duration_ms": 245744,
+      "name": "Catcher",
+      "url": "https://open.spotify.com/track/2traL005j0eZH2ruQqpPSa"
     },
     {
       "added_at": "2024-10-25 17:08:37",

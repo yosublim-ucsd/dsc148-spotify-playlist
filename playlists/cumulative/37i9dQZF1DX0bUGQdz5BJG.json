@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Tyler Joe Miller",
+  "description": "Music City must-hears. Cover: Jenna Davis",
   "name": "Next From Nashville",
   "tracks": [
     {
@@ -3060,7 +3060,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 150242,
       "name": "Bad For Me",
       "url": "https://open.spotify.com/track/51r2wYUn1d4Y0Z25F9GSCH"
@@ -9486,7 +9486,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 180592,
       "name": "Different People",
       "url": "https://open.spotify.com/track/3uQnqJHqOiSCRuz7mTxgf4"
@@ -11578,6 +11578,28 @@
       "duration_ms": 196825,
       "name": "Every Rain",
       "url": "https://open.spotify.com/track/4jkjmYDBLnYzaeLTBCUIak"
+    },
+    {
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/6vNx2KXI59ivBPUYA4tKAN"
+      },
+      "artists": [
+        {
+          "name": "Callista Clark",
+          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188326,
+      "name": "Every River",
+      "url": "https://open.spotify.com/track/6ARiI27WDrnxu0Xx9Z4dW2"
     },
     {
       "album": {
@@ -15891,6 +15913,42 @@
     },
     {
       "album": {
+        "name": "Hate You First",
+        "url": "https://open.spotify.com/album/0jPpTPyn2CToiLygT0ep7w"
+      },
+      "artists": [
+        {
+          "name": "Abby Anderson",
+          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204928,
+      "name": "Hate You First",
+      "url": "https://open.spotify.com/track/7KD62wcuoYowuZBuALpEs7"
+    },
+    {
+      "album": {
+        "name": "Hate You Too",
+        "url": "https://open.spotify.com/album/5K5xOYa5PJXnGfInszf6q1"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158900,
+      "name": "Hate You Too",
+      "url": "https://open.spotify.com/track/39d5CBzlOXcb2sgKFYPGoC"
+    },
+    {
+      "album": {
         "name": "Dallas/Fort Worth",
         "url": "https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7"
       },
@@ -16176,7 +16234,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 198693,
       "name": "Heart Like This",
       "url": "https://open.spotify.com/track/73KQhe6foBjiEspdYRap0I"
@@ -22078,7 +22136,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 162159,
       "name": "King Of Dallas",
       "url": "https://open.spotify.com/track/7fEngwKjaWimFt1emLQOsM"
@@ -22140,6 +22198,24 @@
       "duration_ms": 188253,
       "name": "Kiss Like You Dance (feat. Kip Moore)",
       "url": "https://open.spotify.com/track/2xGExNivG32XJ2yld1jtRj"
+    },
+    {
+      "album": {
+        "name": "Kiss To Forget",
+        "url": "https://open.spotify.com/album/5zencxbgsvea22S6GeKNwi"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164933,
+      "name": "Kiss To Forget",
+      "url": "https://open.spotify.com/track/4D5xizvX1nScgcu257lUu8"
     },
     {
       "album": {
@@ -24979,6 +25055,24 @@
     },
     {
       "album": {
+        "name": "Lubbock",
+        "url": "https://open.spotify.com/album/1L2BXSzOHFrPYNJBjSJtSx"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264496,
+      "name": "Lubbock",
+      "url": "https://open.spotify.com/track/3Sm3nz2NiDq1THpq0iJIw3"
+    },
+    {
+      "album": {
         "name": "Luck Don't Live Around Here",
         "url": "https://open.spotify.com/album/6tHjUnHjLbWmrQSt4owm5H"
       },
@@ -26100,6 +26194,24 @@
       "duration_ms": 199733,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/6XMD3tkYTDzdU6FJxlbsVa"
+    },
+    {
+      "album": {
+        "name": "Marshall County Man",
+        "url": "https://open.spotify.com/album/1i0aUfwuDNTT3FG2YPaSQE"
+      },
+      "artists": [
+        {
+          "name": "The Band Loula",
+          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248040,
+      "name": "Marshall County Man",
+      "url": "https://open.spotify.com/track/4jwXjfTnFl2gwauP5lmsxd"
     },
     {
       "album": {
@@ -29054,7 +29166,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 166035,
       "name": "Nothin'",
       "url": "https://open.spotify.com/track/3IQdoO0iboyHHgUJsPQx3v"
@@ -33006,7 +33118,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 170169,
       "name": "River Black",
       "url": "https://open.spotify.com/track/4ZebmxjLdT4TFC52HUnxlj"
@@ -38812,7 +38924,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 159360,
       "name": "Tennessee Sunset",
       "url": "https://open.spotify.com/track/0ML0dlLrd12FpH5DfsX5P7"
@@ -39277,6 +39389,24 @@
     },
     {
       "album": {
+        "name": "Bruce County (From The Beginning)",
+        "url": "https://open.spotify.com/album/1LfbRC9L0MfNXSHZfX63hq"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299596,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/2eyhcmJHSEbdakGBBDsiqE"
+    },
+    {
+      "album": {
         "name": "The Card You Gamble (Main Theme From Monarch)",
         "url": "https://open.spotify.com/album/6Xi49KOKJfy60TkU5BJ61o"
       },
@@ -39458,6 +39588,24 @@
       "duration_ms": 217580,
       "name": "The Kiss Or The Crash",
       "url": "https://open.spotify.com/track/7rOQ2KxjEYkVYVwNn9Ffgf"
+    },
+    {
+      "album": {
+        "name": "Why I Sing This Way",
+        "url": "https://open.spotify.com/album/0PSax1j2O1fKLTObWkv6Rq"
+      },
+      "artists": [
+        {
+          "name": "Belle Frantz",
+          "url": "https://open.spotify.com/artist/7impCQSfqOMNU2WJPuoGXL"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175815,
+      "name": "The Last One To Know",
+      "url": "https://open.spotify.com/track/5F2cmxTzfeYxxyIIEeusKD"
     },
     {
       "album": {
@@ -40534,6 +40682,42 @@
       "duration_ms": 153508,
       "name": "Things You Do In A Truck (feat. Trea Landon)",
       "url": "https://open.spotify.com/track/13Rps3IUeSZp3JNqRKBXKr"
+    },
+    {
+      "album": {
+        "name": "Think of Somethin'",
+        "url": "https://open.spotify.com/album/1RHPPtF9zfFIcXzh3XRkjv"
+      },
+      "artists": [
+        {
+          "name": "Trea Landon",
+          "url": "https://open.spotify.com/artist/0uzF7KK6coJpJvOW6Vrv1H"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201413,
+      "name": "Think of Somethin'",
+      "url": "https://open.spotify.com/track/3jiVQ3bJBGEcAutotNwpZ1"
+    },
+    {
+      "album": {
+        "name": "Boy Can Dream",
+        "url": "https://open.spotify.com/album/1A65R5hJWOQmFaDCSFaWEn"
+      },
+      "artists": [
+        {
+          "name": "Dipper",
+          "url": "https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173603,
+      "name": "Think Of You",
+      "url": "https://open.spotify.com/track/3kjyxnqkOFojczG56pa6s9"
     },
     {
       "album": {
@@ -42406,6 +42590,24 @@
       "duration_ms": 189146,
       "name": "Up Yours",
       "url": "https://open.spotify.com/track/32cOhoqi47gRehXNGO301L"
+    },
+    {
+      "album": {
+        "name": "Up, Out, and Leaving",
+        "url": "https://open.spotify.com/album/7dLrScDTAmItYhp6j6lcQK"
+      },
+      "artists": [
+        {
+          "name": "Hayden Blount",
+          "url": "https://open.spotify.com/artist/3lMuNq4oBlVIMBJcpAuT4j"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Up, Out, and Leaving",
+      "url": "https://open.spotify.com/track/6WHXhjdjzNKvb0pgG7DcEj"
     },
     {
       "album": {

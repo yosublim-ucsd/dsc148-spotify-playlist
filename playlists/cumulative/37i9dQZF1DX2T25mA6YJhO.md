@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: LA MILAGROSA.
 
-205 songs - 10 hr 37 min
+207 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Amores y Errores](https://open.spotify.com/track/0m9HSvl7fLvBxNPDSFTW2D) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [Entre Amores y Errores](https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc) | 2:45 | 2024-09-12 |  |
 | [Angel Genetics](https://open.spotify.com/track/27JBVGR4cIeWEzU39zIRJl) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Angel Genetics](https://open.spotify.com/album/2RlMCybg9FBNhmXYotqmyM) | 5:04 | 2024-06-27 | 2024-10-25 |
 | [Antes era campo todo esto](https://open.spotify.com/track/6jGI3vbERKOJdY4QnnCy66) | [El Buen Hijo](https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr) | [Antes era campo todo esto](https://open.spotify.com/album/2prGPwqXPUcXxjwQ2WFTaR) | 3:04 | 2024-06-27 | 2024-08-23 |
-| [Apuntando a tu sien](https://open.spotify.com/track/54f5xQWeTgoZ9T28xS3no1) | [Mi Capitán](https://open.spotify.com/artist/5IFjdKpLNCRPCRxdeXlFY9) | [Como Ladrones Sorprendidos](https://open.spotify.com/album/515qU2fMggG3p2WD50Axhs) | 3:26 | 2024-06-27 |  |
+| [Apuntando a tu sien](https://open.spotify.com/track/54f5xQWeTgoZ9T28xS3no1) | [Mi Capitán](https://open.spotify.com/artist/5IFjdKpLNCRPCRxdeXlFY9) | [Como Ladrones Sorprendidos](https://open.spotify.com/album/515qU2fMggG3p2WD50Axhs) | 3:26 | 2024-06-27 | 2024-11-02 |
 | [Arder en Fuego](https://open.spotify.com/track/3JHcfsP9SZP77qZ7ueGbuk) | [Ojos Pardos](https://open.spotify.com/artist/60KgmRLqSZArlIE22XoBgb) | [Arder en Fuego](https://open.spotify.com/album/79Q52YHjjoTEgzpiOrA2ZB) | 3:50 | 2024-07-25 | 2024-10-18 |
 | [arghHhh!](https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [arghHhh!](https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH) | 4:13 | 2024-10-24 |  |
 | [Azul Oscuro Casi Negro](https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Azul Oscuro Casi Negro](https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj) | 2:40 | 2024-06-27 |  |
@@ -80,6 +80,7 @@
 | [Hago lo que quiero](https://open.spotify.com/track/3ovVn2nRqhzrIIUJsUnDl8) | [Los Vinagres](https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS) | [Hago lo que quiero](https://open.spotify.com/album/6tGbYLMLltcvrohfxWayvp) | 2:52 | 2024-06-27 | 2024-08-16 |
 | [Hamburguesas](https://open.spotify.com/track/6FUFVQrn1RvyydcLsL4xdJ) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Hamburguesas](https://open.spotify.com/album/2KH4h632xtY2Y0u9C4I7Jw) | 3:04 | 2024-10-24 |  |
 | [Himno de las flores](https://open.spotify.com/track/5gKX2PDvk4682feasZf58s) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN), [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Himno de las flores](https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T) | 3:48 | 2024-10-03 |  |
+| [Historia Triste](https://open.spotify.com/track/2mis3ZNjBoMXR7DCejSSZC) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [DIRECTOS AL INFIERNO](https://open.spotify.com/album/5UX28qeYNKDt1xk2LzZspP) | 2:02 | 2024-10-31 |  |
 | [Hodeiak](https://open.spotify.com/track/4R2qpsnBHA9vE5JmbMgHhx) | [Mirail](https://open.spotify.com/artist/0NXP4vNGC4bcTTsBgFNlf9) | [Hodeiak](https://open.spotify.com/album/79KFuR360Eef4wuyX3WosR) | 3:54 | 2024-08-22 | 2024-09-13 |
 | [Huella de ti](https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Huella de ti](https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH) | 3:17 | 2024-09-05 |  |
 | [Imaginación política](https://open.spotify.com/track/6wG01AZ6GnIEPNd1s9VBh8) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [Imaginación política](https://open.spotify.com/album/205R6tg1Own5Q9LAAE0lMA) | 3:24 | 2024-07-11 | 2024-08-02 |
@@ -171,7 +172,7 @@
 | [Sangre Azul](https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [Sangre Azul](https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG) | 2:24 | 2024-07-25 |  |
 | [Santas Pascuas](https://open.spotify.com/track/2tNFq8fnljBjfpbnF61As4) | [PELIGRO!](https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3) | [Santas Pascuas](https://open.spotify.com/album/1uvsVK56FgVStxDCJGbCfg) | 2:16 | 2024-08-29 | 2024-09-06 |
 | [Si No Es Hoy Cuándo Es](https://open.spotify.com/track/3lhfjRNPYpOL9IIF15IEWo) | [Dame Area](https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl) | [Si No Es Hoy Cuándo Es](https://open.spotify.com/album/0PU2uRa2fJkbjgB45e1PoA) | 5:32 | 2024-07-04 | 2024-07-27 |
-| [Si Piensas en Mí](https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Si Piensas En Mí](https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ) | 4:04 | 2024-07-11 |  |
+| [Si Piensas en Mí](https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Si Piensas En Mí](https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ) | 4:04 | 2024-07-11 | 2024-11-02 |
 | [Silla de Mimbre](https://open.spotify.com/track/6ycJdHZMueNIA3ZM1rvBwB) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Silla de Mimbre](https://open.spotify.com/album/00KBXaGYuIZmX4KprFEam8) | 3:36 | 2024-07-18 | 2024-10-04 |
 | [Sin Hablar](https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Repion](https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R) | 3:25 | 2024-06-27 | 2024-10-13 |
 | [Sin Más](https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Sin Más](https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ) | 3:18 | 2024-06-27 |  |
@@ -181,6 +182,7 @@
 | [SUMMER NOSTALGIA](https://open.spotify.com/track/1MlLMl7vrGvoR7LOHdqdv0) | [Johnny Garso](https://open.spotify.com/artist/6zvsUJE9zNUpP3mV3tQsCg) | [SUMMER NOSTALGIA](https://open.spotify.com/album/61S51d00CHdUHH7FTTVhtL) | 2:57 | 2024-09-05 | 2024-09-27 |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-25 | 2024-08-23 |
 | [TDA](https://open.spotify.com/track/2mIpVnpIHhIAOXo9Uzr0Hm) | [Los Bengala](https://open.spotify.com/artist/5aaHaDy8RxAsa3S0SB8pxW) | [TDA](https://open.spotify.com/album/0eBbJ6ZPUz9WcJGhnu4Hpp) | 2:24 | 2024-08-29 | 2024-10-11 |
+| [Te vi en el concierto](https://open.spotify.com/track/4hKLszgJbdLdIKvWq6kCFM) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW), [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Te vi en el concierto](https://open.spotify.com/album/2Aagt3zBoR5sNhY8Tysml5) | 2:41 | 2024-10-31 |  |
 | [Tekken](https://open.spotify.com/track/5kxroIDsvS0AQck5X8EKYN) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Tekken](https://open.spotify.com/album/43Ost0Cu1JwQPIVA8fgxXs) | 4:21 | 2024-06-27 | 2024-08-02 |
 | [The Bed, The Room, The Rain and You](https://open.spotify.com/track/73MkKDeELnYufTdyA3Xj5R) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Bed, The Room, The Rain and You](https://open.spotify.com/album/1TPWuITTFW8RdqRfrNVEO5) | 2:28 | 2024-08-15 | 2024-09-06 |
 | [The Last of Us](https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [The Last of Us](https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw) | 4:30 | 2024-06-27 | 2024-09-27 |

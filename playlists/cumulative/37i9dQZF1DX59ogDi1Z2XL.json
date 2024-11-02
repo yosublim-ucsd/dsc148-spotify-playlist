@@ -3850,7 +3850,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 146632,
       "name": "Big Spenders",
       "url": "https://open.spotify.com/track/3WkVvNXoStVrQNxN7Ht33F"
@@ -9960,7 +9960,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 160730,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/3SoilStUg8K4yg7n3cAqu1"
@@ -12002,6 +12002,28 @@
       "duration_ms": 132172,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/2z4QiyjKuIFXnRne4AVrCi"
+    },
+    {
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/46KYdMyw37LpoZ156aJayG"
+      },
+      "artists": [
+        {
+          "name": "Mindflip",
+          "url": "https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi"
+        },
+        {
+          "name": "LeRoyce",
+          "url": "https://open.spotify.com/artist/02eLls9aGOtRCaIr39nq4X"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2tzABP9sVtpioKm1etJpcZ"
     },
     {
       "album": {
@@ -14130,7 +14152,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 160051,
       "name": "I Remember, I Remember",
       "url": "https://open.spotify.com/track/1xJqkQWja5OV8hN9eCPmhW"
@@ -26678,7 +26700,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 132800,
       "name": "SODA PARTY",
       "url": "https://open.spotify.com/track/3C2ZXa3c9Df2HSg7cQVSbr"
@@ -30183,6 +30205,28 @@
     },
     {
       "album": {
+        "name": "TOO LATE II",
+        "url": "https://open.spotify.com/album/2UnNUtWS47noKHC9EZlq9g"
+      },
+      "artists": [
+        {
+          "name": "Malik Elijah",
+          "url": "https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176970,
+      "name": "TOO LATE II",
+      "url": "https://open.spotify.com/track/5Bt4KILKgEXVU3cIln0Kjd"
+    },
+    {
+      "album": {
         "name": "Too Many Losses (feat. Dave East)",
         "url": "https://open.spotify.com/album/3GK4KP2YMk25msLBUnPYAF"
       },
@@ -31011,6 +31055,24 @@
     },
     {
       "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/2tihzsOg9XnrmkCQ5LLDnY"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/5L32IjZD1VIyuF7Rw9Xmio"
+    },
+    {
+      "album": {
         "name": "Unfollow Me",
         "url": "https://open.spotify.com/album/0gjIVN0S5uQ5sDZZYKAMIQ"
       },
@@ -31164,6 +31226,24 @@
       "duration_ms": 165650,
       "name": "UPTOWN",
       "url": "https://open.spotify.com/track/1WvSl4dDdvazHNEy7SaYxW"
+    },
+    {
+      "album": {
+        "name": "they said it would rain...",
+        "url": "https://open.spotify.com/album/3BXsSGQ3Kc4OYnbQPSoegi"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174494,
+      "name": "validate",
+      "url": "https://open.spotify.com/track/3nqBdyumPYpb8ydPKCRAcu"
     },
     {
       "album": {

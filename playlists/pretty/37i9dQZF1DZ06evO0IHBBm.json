@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30041,
+  "num_followers": 30043,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAABUqL3ATJxYR4loSmBYuTou",
+  "snapshot_id": "ZyLIgAAAAABQbQSe8HSnH6msAn/31Wa5",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 402826,
-      "name": "Apocalipse",
-      "url": "https://open.spotify.com/track/3VSH4Sf48KMwRzt788M5B7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terceiro C\u00e9u",
         "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 312287,
       "name": "Sou Eu",
       "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 402826,
+      "name": "Apocalipse",
+      "url": "https://open.spotify.com/track/3VSH4Sf48KMwRzt788M5B7"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
       "duration_ms": 284560,
       "name": "Quem Viver Ver\u00e1",
       "url": "https://open.spotify.com/track/1V12zsH9LzszGEwxcPUhWo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 355880,
-      "name": "Milagre",
-      "url": "https://open.spotify.com/track/3S2tOr5qzFpVAQhVMiEUYW"
     },
     {
       "added_at": null,
@@ -367,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 355880,
+      "name": "Milagre",
+      "url": "https://open.spotify.com/track/3S2tOr5qzFpVAQhVMiEUYW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamante (2010)",
         "url": "https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 371333,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/6ER3frVW05ALc50ffXLRrv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Di\u00e1rio de um Vencedor",
-        "url": "https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 324520,
-      "name": "Di\u00e1rio de um Vencedor",
-      "url": "https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
       "duration_ms": 295373,
       "name": "A Ess\u00eancia da Adora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1hCpXH3ZEm6LkEfWbodNCv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Di\u00e1rio de um Vencedor",
+        "url": "https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 324520,
+      "name": "Di\u00e1rio de um Vencedor",
+      "url": "https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+        "name": "Damares 2011 (ao vivo)",
+        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 286533,
-      "name": "Escondido Nele",
-      "url": "https://open.spotify.com/track/7x3qHc3QKCC9ObpYaWPJNz"
+      "duration_ms": 401213,
+      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares 2011 (ao vivo)",
-        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 401213,
-      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
+      "duration_ms": 286533,
+      "name": "Escondido Nele",
+      "url": "https://open.spotify.com/track/7x3qHc3QKCC9ObpYaWPJNz"
     },
     {
       "added_at": null,

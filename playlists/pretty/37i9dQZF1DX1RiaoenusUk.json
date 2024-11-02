@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 28391,
+  "num_followers": 28399,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Impar",
+        "url": "https://open.spotify.com/album/2OgzrpSgi8c6dfcLvaJQaf"
+      },
+      "artists": [
+        {
+          "name": "Maleboux",
+          "url": "https://open.spotify.com/artist/1mPrcNDZMNpWoy6Cio5inH"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/3Q8XtLWm9c53nqFvp29WeI"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "Polvo C\u00f3smico (Remix)",
         "url": "https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx"
       },
@@ -1535,18 +1551,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Impar",
-        "url": "https://open.spotify.com/album/2OgzrpSgi8c6dfcLvaJQaf"
+        "name": "Foulmouth",
+        "url": "https://open.spotify.com/album/7ywQCYXKnCG4zxufG5bpAP"
       },
       "artists": [
         {
-          "name": "Maleboux",
-          "url": "https://open.spotify.com/artist/1mPrcNDZMNpWoy6Cio5inH"
+          "name": "Fern\u00e1ndez 4",
+          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
+        },
+        {
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/3Q8XtLWm9c53nqFvp29WeI"
+      "duration_ms": 174273,
+      "name": "Foulmouth",
+      "url": "https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1567,26 +1587,6 @@
       "duration_ms": 215480,
       "name": "Agitando",
       "url": "https://open.spotify.com/track/6cZ0HOx7jElFdcfARajfnd"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Foulmouth",
-        "url": "https://open.spotify.com/album/7ywQCYXKnCG4zxufG5bpAP"
-      },
-      "artists": [
-        {
-          "name": "Fern\u00e1ndez 4",
-          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
-        },
-        {
-          "name": "Cirilo Fernandez",
-          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
-        }
-      ],
-      "duration_ms": 174273,
-      "name": "Foulmouth",
-      "url": "https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5"
     },
     {
       "added_at": "2024-08-26 13:43:56",

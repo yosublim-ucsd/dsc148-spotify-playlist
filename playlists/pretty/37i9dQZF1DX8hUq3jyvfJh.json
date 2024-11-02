@@ -1,6 +1,6 @@
 {
   "description": "Escute Mc Luanna e mais mulheres no volume m\u00e1ximo! Co-curadoria com <a href=\"spotify:playlist:37i9dQZF1DZ06evO45TXx1\">Mc Luanna</a>.",
-  "num_followers": 187074,
+  "num_followers": 187062,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ"
-      },
-      "artists": [
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 161486,
-      "name": "Alvo",
-      "url": "https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd"
-    },
-    {
-      "added_at": "2024-10-11 14:42:33",
-      "album": {
         "name": "Vou de Mizuno",
         "url": "https://open.spotify.com/album/3AzstrF0w35AXgGeMDBVSz"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 127384,
       "name": "Vou de Mizuno",
       "url": "https://open.spotify.com/track/6yMjjg1VuPPNGpngwYIlMH"
+    },
+    {
+      "added_at": "2024-10-11 14:42:33",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ"
+      },
+      "artists": [
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 161486,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd"
     },
     {
       "added_at": "2024-10-11 14:42:33",

@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 74409,
+  "num_followers": 74415,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 390013,
+      "name": "Someone Great",
+      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "Lucky Boy At Night",
         "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 218626,
       "name": "Signatune - Thomas Bangalter Short Edit",
       "url": "https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 390013,
-      "name": "Someone Great",
-      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Lambs Anger",
+        "url": "https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Gay Dentists",
+      "url": "https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "From Then Until Now",
         "url": "https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 351094,
       "name": "Let Me Back Up - Crookers Tetsujin Remix",
       "url": "https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Lambs Anger",
-        "url": "https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Gay Dentists",
-      "url": "https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW"
     },
     {
       "added_at": "2024-08-08 18:53:25",

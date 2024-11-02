@@ -1649,6 +1649,28 @@
     },
     {
       "album": {
+        "name": "Aulas e Aulas",
+        "url": "https://open.spotify.com/album/0O3KM43uWl5fq0NsT2n8Gk"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Duckjay",
+          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Aulas e Aulas",
+      "url": "https://open.spotify.com/track/5gkVKCDN2ZYaYt38DAKVgA"
+    },
+    {
+      "album": {
         "name": "Aumenta o N\u00edvel (Papatracks#17)",
         "url": "https://open.spotify.com/album/7JBMeSCDAKqi7TRGgTa8C3"
       },
@@ -5439,6 +5461,32 @@
     },
     {
       "album": {
+        "name": "DR",
+        "url": "https://open.spotify.com/album/0S6FxoEOTW11jkFXk37jbG"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "HERvolution",
+          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
+        },
+        {
+          "name": "Avila Beatz",
+          "url": "https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "DR",
+      "url": "https://open.spotify.com/track/67JOAnFpH9GVN70Ysz7vPv"
+    },
+    {
+      "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3"
       },
@@ -5832,6 +5880,24 @@
       "duration_ms": 186666,
       "name": "Entressafra 2",
       "url": "https://open.spotify.com/track/4InTZyhqn4XHsYO4yoSuJG"
+    },
+    {
+      "album": {
+        "name": "Equilibrio",
+        "url": "https://open.spotify.com/album/1KkGgyKmtwTDcDqMuDEGpc"
+      },
+      "artists": [
+        {
+          "name": "Thiago Malakai",
+          "url": "https://open.spotify.com/artist/5dGDpIgdIWQGHFThNGwhKV"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218812,
+      "name": "Equilibrio",
+      "url": "https://open.spotify.com/track/0pObsCFkAxESEbS4cHWgcN"
     },
     {
       "album": {
@@ -7194,6 +7260,32 @@
       "duration_ms": 125005,
       "name": "Fragmentado",
       "url": "https://open.spotify.com/track/4e0p6uPUomr9Jm2Mg8wbXC"
+    },
+    {
+      "album": {
+        "name": "Ciclo Vicioso (Deluxe)",
+        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Saffi",
+          "url": "https://open.spotify.com/artist/5TPmdgtQDTntLIj5VWWtsb"
+        },
+        {
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173562,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3Wb5YWd4OQDGzPejuCMDpX"
     },
     {
       "album": {
@@ -10418,6 +10510,32 @@
       "duration_ms": 296000,
       "name": "Mente Vazia",
       "url": "https://open.spotify.com/track/4p9lDnwg9ppTYE45jufcxn"
+    },
+    {
+      "album": {
+        "name": "Revolta",
+        "url": "https://open.spotify.com/album/2PRUId7L5EGK4g1VOm6bsu"
+      },
+      "artists": [
+        {
+          "name": "X Sem Peita",
+          "url": "https://open.spotify.com/artist/082vDMJAfkNZ3U13mjBYfY"
+        },
+        {
+          "name": "Luiz Brazil",
+          "url": "https://open.spotify.com/artist/4eVBI7aLNfxuynEDNki3wk"
+        },
+        {
+          "name": "Weeze Cooker",
+          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Mesa Cheia",
+      "url": "https://open.spotify.com/track/05XpwhuyeiXFdjOqDmwEjV"
     },
     {
       "album": {
@@ -13830,6 +13948,28 @@
       "duration_ms": 178517,
       "name": "piscina vazia",
       "url": "https://open.spotify.com/track/51Hgjd6p6uiZc1zwdbAxK7"
+    },
+    {
+      "album": {
+        "name": "Pistache",
+        "url": "https://open.spotify.com/album/26dTIq5SV7iuc61mhqq1zr"
+      },
+      "artists": [
+        {
+          "name": "Murica",
+          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
+        },
+        {
+          "name": "Dario Beats",
+          "url": "https://open.spotify.com/artist/4Dma3KMepzSKhe0LJIzZwr"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142921,
+      "name": "Pistache",
+      "url": "https://open.spotify.com/track/4MWI2cYBs61h8CBYNPSaX3"
     },
     {
       "album": {

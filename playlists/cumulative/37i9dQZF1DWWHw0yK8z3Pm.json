@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 172929,
       "name": "How Far Will We Take It?",
       "url": "https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x"
@@ -4772,6 +4772,24 @@
       "duration_ms": 180068,
       "name": "Leaving It All Behind",
       "url": "https://open.spotify.com/track/6XpXDtDIvaOqVuHDthfWwK"
+    },
+    {
+      "album": {
+        "name": "Easygoing",
+        "url": "https://open.spotify.com/album/5I7ecirlZpSSDtUFEQ6XNQ"
+      },
+      "artists": [
+        {
+          "name": "Skinny Dyck",
+          "url": "https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "Less Stress",
+      "url": "https://open.spotify.com/track/2bIUrjwlTuuzpMdWFU5pCx"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 60858,
+  "num_followers": 60857,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAIk2Dw5X5WRXShM7oA0VyOThqdPk73",
+  "snapshot_id": "AAAIlYj5/vDzn+qWu/2/gquiEoWimYmj",
   "tracks": [
     {
       "added_at": "2024-10-04 16:01:05",
@@ -87,6 +87,38 @@
       "duration_ms": 204869,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/7e1x3ozyFOOe77bdYuNg3k"
+    },
+    {
+      "added_at": "2024-11-01 15:05:39",
+      "album": {
+        "name": "(Make My) Country Rock [Harder]",
+        "url": "https://open.spotify.com/album/1p4OTnKOPXFesY2Y5SOG0E"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        },
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        },
+        {
+          "name": "Mick Mars",
+          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
+        },
+        {
+          "name": "Sully Erna",
+          "url": "https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "(Make My) Country Rock - Harder",
+      "url": "https://open.spotify.com/track/2VLXWFJpLcQvAXf4xLgilI"
     },
     {
       "added_at": "2024-10-25 15:20:37",

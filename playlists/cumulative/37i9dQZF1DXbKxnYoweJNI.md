@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: Blueburn
 
-973 songs - 2 day 8 hr 39 min
+975 songs - 2 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@
 | [勇氣](https://open.spotify.com/track/5OX4FQgEKpbpMgU69dPVwS) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [勇氣](https://open.spotify.com/album/0oWBwGUzkI9C12FzdvAZ9B) | 4:21 | 2024-07-18 | 2024-08-16 |
 | [勾了勾](https://open.spotify.com/track/75ODuGTZ75oZi2qpbWUEAQ) | [Salty Ian](https://open.spotify.com/artist/606nTAxPsLROdPC6jQ2S4F) | [勾了勾](https://open.spotify.com/album/2UJSekg2NR8XrJnLl29Qve) | 3:17 | 2024-07-25 | 2024-08-16 |
 | [勿忘我](https://open.spotify.com/track/7GEZIhdLfobgW7D5d9ORRb) | [Colbie王思涵](https://open.spotify.com/artist/6NO4KtoS7iSjcg88n151zp) | [勿忘我](https://open.spotify.com/album/0IGZ2Q4yapyjrTIwTjzGd4) | 4:42 | 2024-10-31 |  |
-| [北海](https://open.spotify.com/track/45AxtcQN1gDHHOgFmYB4rY) | [陳婧霏](https://open.spotify.com/artist/6mZOIX7NzdJvWeXocQOsb8) | [北海](https://open.spotify.com/album/6w9DvArJsxGTwT1NtiEfA8) | 3:48 | 2024-10-31 |  |
+| [北海 Homecoming](https://open.spotify.com/track/45AxtcQN1gDHHOgFmYB4rY) | [陳婧霏](https://open.spotify.com/artist/6mZOIX7NzdJvWeXocQOsb8) | [北海 Homecoming](https://open.spotify.com/album/6w9DvArJsxGTwT1NtiEfA8) | 3:48 | 2024-10-31 |  |
 | [匯流向海 Into the Ocean \- 2024 Version](https://open.spotify.com/track/5f2h3glhTXNVMNWwXk8cbR) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC) | [回返 \(十五週年自選集\) Coastland Revisited \(A Remake of Select Pieces\)](https://open.spotify.com/album/3BNIcRAbuTLeIbGRByRWHJ) | 8:57 | 2024-07-18 | 2024-08-09 |
 | [匱乏的模樣](https://open.spotify.com/track/7K93H3QtwVAf6ixz8MowYU) | [蘇研之](https://open.spotify.com/artist/4cbEBwZICHpVIBPo9hgCdD) | [匱乏的模樣](https://open.spotify.com/album/1O06XZ6hFapcznJ8atwJqH) | 5:21 | 2024-10-17 |  |
 | [十二月的夜色](https://open.spotify.com/track/43xiQdyyfixaCvW0NsvpLq) | [北迴線](https://open.spotify.com/artist/1PbSZsHK6UJKTulBGBY0xm) | [十二月的夜色](https://open.spotify.com/album/3YIMVuwIUqIQlpqnrI51rG) | 5:02 | 2024-07-11 | 2024-08-02 |
@@ -465,7 +465,7 @@
 | [垃圾鬼](https://open.spotify.com/track/1ZTwUpSrn6UK0HABDQ16HU) | [芮鯊 RapShark](https://open.spotify.com/artist/7AE76qHA80HDxXfqGCKbJZ) | [垃圾鬼](https://open.spotify.com/album/63b8MbeKbKBpzgGcDbHmNy) | 2:54 | 2024-10-10 | 2024-11-01 |
 | [埋（《Recall：Empty Wishes 空願》遊戲主題曲）](https://open.spotify.com/track/0uPTAbTiu5swm1QlwUWEnj) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [埋（《Recall：Empty Wishes 空願》遊戲主題曲）](https://open.spotify.com/album/3wjO4kP1WKLlFkBEe70A1h) | 3:48 | 2024-06-27 | 2024-07-12 |
 | [塑膠翅膀](https://open.spotify.com/track/5Qq56jkhrfaCWmiEyfNoHO) | [吳獻 Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [Good Enough](https://open.spotify.com/album/2Abirr61TubwCkRRgmRQpr) | 4:12 | 2024-09-26 | 2024-10-25 |
-| [墟 Ashes](https://open.spotify.com/track/02TLgNh7q2KkhN9b7TtPwB) | [桑尼 SONNIE](https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe) | [U Make Me SONNIE](https://open.spotify.com/album/4dCBaTZ553lRteVWRH032A) | 4:16 | 2024-10-31 |  |
+| [墟 Ashes](https://open.spotify.com/track/02TLgNh7q2KkhN9b7TtPwB) | [SONNIE 桑尼](https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe) | [U Make Me SONNIE](https://open.spotify.com/album/4dCBaTZ553lRteVWRH032A) | 4:16 | 2024-10-31 |  |
 | [夏天的微笑 \(原創版\)](https://open.spotify.com/track/0mJISCFvLcJ7YYGfHPdIVf) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [夏天的微笑 \(原創版\)](https://open.spotify.com/album/2pebVEzJzkX2bpt5co7Lam) | 4:51 | 2024-08-29 | 2024-09-13 |
 | [多想給妳我的愛](https://open.spotify.com/track/6o6NQ0DUlqrSYOftBhQue1) | [Coy6oi](https://open.spotify.com/artist/3UN0S5PuO1xQtE9P9XJ2TV) | [多想給妳我的愛](https://open.spotify.com/album/02xGae8EuPIfeAv6XfR2pC) | 2:51 | 2024-10-03 | 2024-10-25 |
 | [多莉](https://open.spotify.com/track/3aXQpVUYA6NPDd585R2Oo6) | [黃號](https://open.spotify.com/artist/6qtpMdYXlctoS7te9gBcdG) | [多莉](https://open.spotify.com/album/4EwaGqdXwX9kLQ2f2aQZ87) | 2:55 | 2024-06-27 | 2024-07-12 |
@@ -560,7 +560,7 @@
 | [想和你](https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [想和你](https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry) | 3:03 | 2024-09-19 | 2024-10-11 |
 | [想和妳窩在這 Ft.UTIN喻婷](https://open.spotify.com/track/6zhDjbA3C0JstfEOpG8n3J) | [柯蕭](https://open.spotify.com/artist/1svBXoia2Gb8epja6SWO51), [UTIN喻婷](https://open.spotify.com/artist/5J242BlorKsL8dwkf5Gm0h) | [別](https://open.spotify.com/album/4oAZi0cz0zzJA0sxgeIAh5) | 2:58 | 2024-08-15 | 2024-09-06 |
 | [想太多](https://open.spotify.com/track/0CDG1WwerlWNv1OqHyYgVt) | [Matt Lv](https://open.spotify.com/artist/71vPRIlP7xw7wawonVE4ax) | [想太多](https://open.spotify.com/album/3C3W9N3Ar5vkfr0q0rMa26) | 3:10 | 2024-10-17 |  |
-| [想太多](https://open.spotify.com/track/70X5NZdfkX4pEd2fBE1ywD) | [Pika Chiu](https://open.spotify.com/artist/5SIsztzgW9ErZcWRnp2hdS) | [re:start](https://open.spotify.com/album/58QNgpJYrrvvuYVYQqAR44) | 3:49 | 2024-10-31 |  |
+| [想太多](https://open.spotify.com/track/70X5NZdfkX4pEd2fBE1ywD) | [Pika Chiu](https://open.spotify.com/artist/5SIsztzgW9ErZcWRnp2hdS) | [re:start](https://open.spotify.com/album/58QNgpJYrrvvuYVYQqAR44) | 3:49 | 2024-10-31 | 2024-11-02 |
 | [想妳規暝](https://open.spotify.com/track/60cNRxIkBa0GX4e1uJTD86) | [丹恩DaN](https://open.spotify.com/artist/5kkdShSDDV0EyPUYR1v3rt) | [想妳規暝](https://open.spotify.com/album/6WczJ91O35ZR2GRIQe7ggm) | 4:50 | 2024-09-26 | 2024-11-01 |
 | [想起你《角頭》原聲帶](https://open.spotify.com/track/7Ju8A9iADHBsMkwPGLdxff) | [荒山亮](https://open.spotify.com/artist/0SOlTkn1UElgcoONp254HS) | [想起你《角頭》原聲帶](https://open.spotify.com/album/1MTBwZjiSEHN4s9pk1AYY7) | 4:30 | 2024-06-27 | 2024-07-19 |
 | [想跟你在一起](https://open.spotify.com/track/14WpnRxRHlg8RQD0JDOZXV) | [D'Trophe 豆浆](https://open.spotify.com/artist/4AQw8kaUipmeuWqmcwetyc) | [想跟你在一起](https://open.spotify.com/album/5cQcaDpnDD9WQhTwkT8AVB) | 3:12 | 2024-10-17 | 2024-10-25 |
@@ -744,6 +744,7 @@
 | [漂浮](https://open.spotify.com/track/1uwosvAibBbV92JmWyTGDu) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [漂浮](https://open.spotify.com/album/4Ic97actVFJGtIelKAfnCV) | 3:47 | 2024-07-18 | 2024-08-16 |
 | [漂浮到](https://open.spotify.com/track/2tEat0o8grx2D736tA0nXa) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [漂浮到](https://open.spotify.com/album/3MoX2wrCJkObmCadnscuRO) | 3:50 | 2024-10-17 |  |
 | [演](https://open.spotify.com/track/5RCDbaMiy8OOilzzZRKYdW) | [ChiliChill](https://open.spotify.com/artist/4Aets4vGG15UDeIffZ6Cbo), [三无Marblue](https://open.spotify.com/artist/55PpxchrNSh1sHtNaCtHyk) | [演](https://open.spotify.com/album/5D3muRjYY26JbYq4uK0nvD) | 3:30 | 2024-08-01 | 2024-08-23 |
+| [漩渦](https://open.spotify.com/track/3ID7rVVvR42foQoPX3PW0w) | [Pika Chiu](https://open.spotify.com/artist/5SIsztzgW9ErZcWRnp2hdS) | [re:start](https://open.spotify.com/album/58QNgpJYrrvvuYVYQqAR44) | 4:07 | 2024-11-01 |  |
 | [漩渦Swirl](https://open.spotify.com/track/3I6pZg5OlU9mmTJ6EqXrMv) | [OuiMCB](https://open.spotify.com/artist/4E1CT4sw3JisO0nEx5xqHP) | [漩渦Swirl](https://open.spotify.com/album/1EMhrAxyCOGjHM3hDlgdl0) | 3:13 | 2024-08-22 | 2024-09-13 |
 | [潮汐夜晝](https://open.spotify.com/track/0lLwkbok1DfVIlypYn8fM9) | [魏恩佳](https://open.spotify.com/artist/6wCf5YtXMh00baQjInfWXU) | [潮汐夜晝](https://open.spotify.com/album/4DxcqPqXnKheCFDhFk22Ht) | 3:57 | 2024-10-31 |  |
 | [火柴 \(Acoustic\) \- Spotify Singles](https://open.spotify.com/track/649FdTxihcffxQnTMa2q2x) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Spotify Singles](https://open.spotify.com/album/1grN24m5hhYp7pCzNkkdIX) | 2:52 | 2024-10-17 |  |
@@ -928,6 +929,7 @@
 | [那天晚上 我數了一千多隻羊](https://open.spotify.com/track/5UEzdXMTs2r16ONDf8xHVI) | [阿克沃](https://open.spotify.com/artist/28ZoG0gqU31xsPBLJU9iEv) | [那天晚上 我數了一千多隻羊](https://open.spotify.com/album/6s0R3GAJ04XAxpTE7yzPQ4) | 4:38 | 2024-08-15 | 2024-09-06 |
 | [郭孟寧](https://open.spotify.com/track/2zgyF9FHZZ9NO26Bx7LeNn) | [YoungLee](https://open.spotify.com/artist/37SCZVt9ssGoiuzN972Vud) | [郭孟寧](https://open.spotify.com/album/1ivaa8FWOm7FAFVfjs58B3) | 3:23 | 2024-06-27 | 2024-07-27 |
 | [醒不来](https://open.spotify.com/track/0SM4o1qnpS097cjFaExfK5) | [melonboii](https://open.spotify.com/artist/1TZwWvsRd9vRm8zIwvLlWH) | [醒不来](https://open.spotify.com/album/4g5e6N4X42gHZ3wkZXI8t0) | 2:55 | 2024-08-22 | 2024-10-11 |
+| [野球乾一杯](https://open.spotify.com/track/0MylZAKGfC2ZPOvX2ZnoGw) | [八十八顆芭樂籽](https://open.spotify.com/artist/7tYJYd9Xr6O4I0uQE2ZGd0) | [浪漫野球戰士列傳](https://open.spotify.com/album/295cUUrYbbFCiLJYDUxXrC) | 5:18 | 2024-10-31 |  |
 | [銀河戀人](https://open.spotify.com/track/1q1eNDfa8472kanewiWNaI) | [Öne Cat](https://open.spotify.com/artist/7uYMKMyv6BVU3bnpzrng72), [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO) | [銀河戀人](https://open.spotify.com/album/2iLyxrs8Lag4SmLETFIbTO) | 2:31 | 2024-09-12 | 2024-10-04 |
 | [銀色的移動城堡](https://open.spotify.com/track/6zHOmCEdlmKLwtbhI51P6W) | [吳獻 Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [銀色的移動城堡](https://open.spotify.com/album/6VLssXYYz9HFg073o4gOOV) | 3:48 | 2024-08-15 | 2024-09-06 |
 | [錯.k \- U](https://open.spotify.com/track/1eYI2Qm7OY7ZlwRQGomcQH) | [NeciKen](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [Unplugged \#3](https://open.spotify.com/album/0U5XxmnltRVcJuD0PI96nM) | 3:48 | 2024-09-19 | 2024-10-11 |

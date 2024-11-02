@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: UVERworld",
-  "num_followers": 46041,
+  "num_followers": 46047,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
+        "name": "800TRIBUTE-champloo is the BEST!!2-",
+        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 260278,
+      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
         "name": "10-feat",
         "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
-        "name": "800TRIBUTE-champloo is the BEST!!2-",
-        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 260278,
-      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "THE ETERNAL DOOM",
-        "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
-      },
-      "artists": [
-        {
-          "name": "Knosis",
-          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "\u5384\u707d",
-      "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "Cure",
         "url": "https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
+        "name": "THE ETERNAL DOOM",
+        "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
         }
       ],
-      "duration_ms": 197995,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
+      "duration_ms": 180666,
+      "name": "\u5384\u707d",
+      "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -967,6 +951,22 @@
       "duration_ms": 167000,
       "name": "SONGS",
       "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 131680,
-      "name": "Drain Water",
-      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "META",
         "url": "https://open.spotify.com/album/1YoxX5dJa8vm0bz1Skiljh"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 267234,
       "name": "META",
       "url": "https://open.spotify.com/track/7FN4l3ORF68GwwOavytbps"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Drain Water",
+      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "\u30cd\u30b3\u30ab\u30df\u305f\u3044",
-        "url": "https://open.spotify.com/album/2X5Q4BIgK7pHLWO6bOx3xj"
-      },
-      "artists": [
-        {
-          "name": "Kyuso Nekokami",
-          "url": "https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb"
-        }
-      ],
-      "duration_ms": 249017,
-      "name": "\u30cd\u30b3\u30ab\u30df\u305f\u3044",
-      "url": "https://open.spotify.com/track/7boEo0vZJ8TyndiwtzLfqp"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "Hateful Failures",
         "url": "https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 196573,
       "name": "Drive Far",
       "url": "https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "\u30cd\u30b3\u30ab\u30df\u305f\u3044",
+        "url": "https://open.spotify.com/album/2X5Q4BIgK7pHLWO6bOx3xj"
+      },
+      "artists": [
+        {
+          "name": "Kyuso Nekokami",
+          "url": "https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb"
+        }
+      ],
+      "duration_ms": 249017,
+      "name": "\u30cd\u30b3\u30ab\u30df\u305f\u3044",
+      "url": "https://open.spotify.com/track/7boEo0vZJ8TyndiwtzLfqp"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "\u307c\u3061\u307c\u3061\u30d9\u30c6\u30e9\u30f3",
-        "url": "https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm"
-      },
-      "artists": [
-        {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
-        }
-      ],
-      "duration_ms": 207301,
-      "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
-      "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "Shussou",
         "url": "https://open.spotify.com/album/6u0mRNp8OUxHtGjyZA4ik2"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
+        "name": "\u307c\u3061\u307c\u3061\u30d9\u30c6\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm"
+      },
+      "artists": [
+        {
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
+      "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
         "name": "Protect You",
         "url": "https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy"
       },
@@ -1551,6 +1551,38 @@
       "duration_ms": 192558,
       "name": "Protect You",
       "url": "https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "\u97f3\u6a02",
+        "url": "https://open.spotify.com/album/6YEPeFr7BwExXt6ZxLQ8SM"
+      },
+      "artists": [
+        {
+          "name": "SPARK!!SOUND!!SHOW!!",
+          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "\u3080\u305a\u304b\u3057\u3044\u3066\u308c\u3071\u3057\u3044",
+      "url": "https://open.spotify.com/track/3gK4FH3UWiitJgVzvgun0K"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "RED APHELION",
+        "url": "https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1591,22 +1623,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "\u97f3\u6a02",
-        "url": "https://open.spotify.com/album/6YEPeFr7BwExXt6ZxLQ8SM"
-      },
-      "artists": [
-        {
-          "name": "SPARK!!SOUND!!SHOW!!",
-          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "\u3080\u305a\u304b\u3057\u3044\u3066\u308c\u3071\u3057\u3044",
-      "url": "https://open.spotify.com/track/3gK4FH3UWiitJgVzvgun0K"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "\u8f1d\u304f\u3082\u306e\u5929\u3088\u308a\u5815\u3061",
         "url": "https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 218242,
       "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
       "url": "https://open.spotify.com/track/5y2qz18Ryt51C2WHnqOkYR"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
-        "name": "RED APHELION",
-        "url": "https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU"
-      },
-      "artists": [
-        {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT"
     },
     {
       "added_at": "2024-10-15 15:00:00",

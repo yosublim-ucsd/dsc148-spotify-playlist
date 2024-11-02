@@ -1,12 +1,12 @@
 {
-  "description": "The greatest songs in the history of cinema. Cover: Hocus Pocus ",
-  "num_followers": 921942,
+  "description": "The greatest songs in the history of cinema. Cover: The Nightmare Before Christmas",
+  "num_followers": 922051,
   "original_name": "Hits From The Movies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxLGiAAAAAArletGt/VbuPssmkw4Zs8W",
+  "snapshot_id": "ZyRSQAAAAAC8SrkHkcfdCY9CdxYN9hgP",
   "tracks": [
     {
       "added_at": "2024-05-15 19:47:01",
@@ -45,20 +45,20 @@
       "url": "https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F"
     },
     {
-      "added_at": "2024-10-18 20:35:20",
+      "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Hocus Pocus (Original Score)",
-        "url": "https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu"
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
       },
       "artists": [
         {
-          "name": "John Debney",
-          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
         }
       ],
-      "duration_ms": 91360,
-      "name": "Main Title",
-      "url": "https://open.spotify.com/track/7dRmMRZHF4y1ExlHguSypM"
+      "duration_ms": 185573,
+      "name": "What's This?",
+      "url": "https://open.spotify.com/track/2xqar3ld7feKeOp1aGbmXw"
     },
     {
       "added_at": "2024-05-15 19:47:01",

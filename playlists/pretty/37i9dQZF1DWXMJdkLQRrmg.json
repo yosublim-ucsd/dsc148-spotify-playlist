@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 342354,
+  "num_followers": 342409,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "A Thousand Suns (Bonus Edition)",
         "url": "https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 181893,
       "name": "The Messenger",
       "url": "https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Behind Your Walls",
+        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Behind Your Walls - Acoustic",
+      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "Flames (feat. Avril Lavigne) [Acoustic]",
         "url": "https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 147357,
       "name": "Flames (feat. Avril Lavigne) [Acoustic]",
       "url": "https://open.spotify.com/track/6bHO3zGU6RarIsp62su2DI"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Behind Your Walls",
-        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Behind Your Walls - Acoustic",
-      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'",
-        "url": "https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo"
+        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
+        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
       },
       "artists": [
         {
-          "name": "Civil Twilight",
-          "url": "https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8"
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
         }
       ],
-      "duration_ms": 258706,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX"
+      "duration_ms": 231653,
+      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
+      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
-        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
+        "name": "Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'",
+        "url": "https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo"
       },
       "artists": [
         {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+          "name": "Civil Twilight",
+          "url": "https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
-      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
+      "duration_ms": 258706,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX"
     },
     {
       "added_at": "2024-07-05 19:40:49",

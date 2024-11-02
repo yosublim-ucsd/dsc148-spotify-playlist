@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RIoBpXsHyD.md) - [plain]
 
 > Unleash the power of Persona and immerse yourself in the world of this epic RPG series with this\. 『ペルソナ３リロード: Episode Aegis』を含む、ペルソナシリーズの世界に浸れる公式プレイリスト！ⒸATLUS\. ⒸSEGA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,700 likes - 87 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,771 likes - 87 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RIoBpXsHyD.md) - [plain]
 | 54 | [The Whims of Fate](https://open.spotify.com/track/7kmNHFPbTZRaV3t0DSPvTJ) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5』オリジナル・サウンドトラック](https://open.spotify.com/album/23R5mT3eEeFXjsJYxvzC74) | 3:13 |
 | 55 | [Rivers In the Desert](https://open.spotify.com/track/6GQABgwJZtdmV15Rp2gSAp) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5』オリジナル・サウンドトラック](https://open.spotify.com/album/23R5mT3eEeFXjsJYxvzC74) | 5:15 |
 | 56 | [星と僕らと](https://open.spotify.com/track/2cG37rWMo5qHa6DjizEOq0) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5』オリジナル・サウンドトラック](https://open.spotify.com/album/23R5mT3eEeFXjsJYxvzC74) | 7:09 |
-| 57 | [Colors Flying High](https://open.spotify.com/track/3VgqRAN4q0ibXnhislvMo3) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 4:01 |
-| 58 | [Take Over](https://open.spotify.com/track/6Q6zMZHJytPA1yCDvVq3ri) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 3:09 |
-| 59 | [I believe](https://open.spotify.com/track/6mUe0fvy1hvB83H2nklnCf) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 4:30 |
-| 60 | [Throw Away Your Mask](https://open.spotify.com/track/0l4PLfgj4NNLO864TyEV9R) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 4:02 |
-| 61 | [僕らの光](https://open.spotify.com/track/67R5GlshGBZ6aY8NIc8BN1) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 7:14 |
+| 57 | [Colors Flying High](https://open.spotify.com/track/3VgqRAN4q0ibXnhislvMo3) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５　ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 4:01 |
+| 58 | [Take Over](https://open.spotify.com/track/6Q6zMZHJytPA1yCDvVq3ri) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５　ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 3:09 |
+| 59 | [I believe](https://open.spotify.com/track/6mUe0fvy1hvB83H2nklnCf) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５　ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 4:30 |
+| 60 | [Throw Away Your Mask](https://open.spotify.com/track/0l4PLfgj4NNLO864TyEV9R) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５　ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 4:02 |
+| 61 | [僕らの光](https://open.spotify.com/track/67R5GlshGBZ6aY8NIc8BN1) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ５　ザ・ロイヤル』 オリジナル・サウンドトラック](https://open.spotify.com/album/0xCpbOIkAeeBh44hNVRV8B) | 7:14 |
 | 62 | [You Are Stronger](https://open.spotify.com/track/5yFztk05d2X1QnlmEBNWot) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 スクランブル ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 4:12 |
 | 63 | [Last Surprise \- Scramble](https://open.spotify.com/track/449WY5R7Zf7aJDX3Q929VK) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 スクランブル ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 4:07 |
 | 64 | [Daredevil](https://open.spotify.com/track/6xrnAqFmfkFAGzyfRGLiNe) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5 スクランブル ザ ファントム ストライカーズ』 オリジナル・サウンドトラック](https://open.spotify.com/album/6tB4SVH1p0HZzLCipn2qeu) | 4:55 |

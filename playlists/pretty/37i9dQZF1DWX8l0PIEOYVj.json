@@ -579,7 +579,7 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "Flowers (feat. Luma)",
+        "name": "Flowers",
         "url": "https://open.spotify.com/album/3OxTeVLLcxfff2I9Xqrgk1"
       },
       "artists": [
@@ -593,7 +593,7 @@
         }
       ],
       "duration_ms": 204600,
-      "name": "Flowers (feat. Luma)",
+      "name": "Flowers",
       "url": "https://open.spotify.com/track/5m8RidUEtePXyQVlTXzTFd"
     },
     {
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "Just A Mirage",
-        "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        },
-        {
-          "name": "ILLUSIO",
-          "url": "https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Just A Mirage",
-      "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
         "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) [Dabin Remix]",
         "url": "https://open.spotify.com/album/01dB7W8wlec9wswyT2jRsw"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 148645,
       "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) - Dabin Remix",
       "url": "https://open.spotify.com/track/0BsPNqJHgzMgJfcSE7rjNe"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "Just A Mirage",
+        "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "ILLUSIO",
+          "url": "https://open.spotify.com/artist/6rMBEaw5vp8wycwK4dleKp"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Just A Mirage",
+      "url": "https://open.spotify.com/track/5n4pqdTlMJcbc9lJGhE0ZZ"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2019,6 +2019,26 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/758dRwMuCONb5iIYRyqxfu"
+      },
+      "artists": [
+        {
+          "name": "MVSE",
+          "url": "https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3cvDUJKnGT9N43dwJB3EcC"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/3EsFLxuzw23LOKbaG33jAe"
       },
@@ -2031,22 +2051,6 @@
       "duration_ms": 286779,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/67lUp5rf0rzq8PhAZ805Lc"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Alive (Radio Edit)",
-      "url": "https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2071,22 +2075,18 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/758dRwMuCONb5iIYRyqxfu"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC"
       },
       "artists": [
         {
-          "name": "MVSE",
-          "url": "https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/3cvDUJKnGT9N43dwJB3EcC"
+      "duration_ms": 166400,
+      "name": "Alive (Radio Edit)",
+      "url": "https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2155,26 +2155,6 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "Dancing With Myself",
-        "url": "https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        }
-      ],
-      "duration_ms": 163714,
-      "name": "Dancing With Myself",
-      "url": "https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
         "name": "Someone To Forget",
         "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
       },
@@ -2191,6 +2171,26 @@
       "duration_ms": 241714,
       "name": "Someone To Forget",
       "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "Dancing With Myself",
+        "url": "https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 163714,
+      "name": "Dancing With Myself",
+      "url": "https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2231,26 +2231,6 @@
       "duration_ms": 235714,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/0EkUz1zkIuFeEUbyT1lLNe"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "LSZEE",
-        "url": "https://open.spotify.com/album/6zvEWF6B5eSUpX1UTU5FqS"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "FRENCH DREAM",
-      "url": "https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2299,6 +2279,26 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
+        "name": "LSZEE",
+        "url": "https://open.spotify.com/album/6zvEWF6B5eSUpX1UTU5FqS"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "FRENCH DREAM",
+      "url": "https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
         "name": "Made For",
         "url": "https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS"
       },
@@ -2319,6 +2319,26 @@
       "duration_ms": 200869,
       "name": "Made For",
       "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "If The World Was Ending",
+        "url": "https://open.spotify.com/album/3P12oVJ6YKmeZXUajqTMEh"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Dayce Williams",
+          "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
+        }
+      ],
+      "duration_ms": 248798,
+      "name": "If The World Was Ending",
+      "url": "https://open.spotify.com/track/6TxfKUTPFXpD9TWNVTxXtj"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2347,22 +2367,18 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "If The World Was Ending",
-        "url": "https://open.spotify.com/album/3P12oVJ6YKmeZXUajqTMEh"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc"
       },
       "artists": [
         {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Dayce Williams",
-          "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
         }
       ],
-      "duration_ms": 248798,
-      "name": "If The World Was Ending",
-      "url": "https://open.spotify.com/track/6TxfKUTPFXpD9TWNVTxXtj"
+      "duration_ms": 230800,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2411,6 +2427,26 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
+        "name": "Edge Of Your Heart",
+        "url": "https://open.spotify.com/album/11uYQSYEp3qMKZrnJ7lwBB"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "TruFeelz",
+          "url": "https://open.spotify.com/artist/5fWsUipLkXJCfrbUK0VvPt"
+        }
+      ],
+      "duration_ms": 217808,
+      "name": "Edge Of Your Heart",
+      "url": "https://open.spotify.com/track/2ed3la4TGm10Ngm3bErHWe"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
         "name": "LSZEE",
         "url": "https://open.spotify.com/album/633geRmMguveturqYAb9k2"
       },
@@ -2443,42 +2479,6 @@
       "duration_ms": 238095,
       "name": "September Nights",
       "url": "https://open.spotify.com/track/20NGAb04LqwxDX2dsSgHZi"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "Edge Of Your Heart",
-        "url": "https://open.spotify.com/album/11uYQSYEp3qMKZrnJ7lwBB"
-      },
-      "artists": [
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        },
-        {
-          "name": "TruFeelz",
-          "url": "https://open.spotify.com/artist/5fWsUipLkXJCfrbUK0VvPt"
-        }
-      ],
-      "duration_ms": 217808,
-      "name": "Edge Of Your Heart",
-      "url": "https://open.spotify.com/track/2ed3la4TGm10Ngm3bErHWe"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2559,6 +2559,26 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
+        "name": "iloveitwhentheyrun",
+        "url": "https://open.spotify.com/album/3XlSEKQ4K8luPp5icnTYKo"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Conrad",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        }
+      ],
+      "duration_ms": 188793,
+      "name": "get my way",
+      "url": "https://open.spotify.com/track/03JEVI9w0PKZ7e2h72XAfl"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ"
       },
@@ -2591,26 +2611,6 @@
       "duration_ms": 225000,
       "name": "Memory Of You",
       "url": "https://open.spotify.com/track/5yKmlKc4W8BH8JD0Hsx0EP"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "iloveitwhentheyrun",
-        "url": "https://open.spotify.com/album/3XlSEKQ4K8luPp5icnTYKo"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        },
-        {
-          "name": "Conrad",
-          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
-        }
-      ],
-      "duration_ms": 188793,
-      "name": "get my way",
-      "url": "https://open.spotify.com/track/03JEVI9w0PKZ7e2h72XAfl"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -2967,22 +2967,6 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "Make You Feel",
-        "url": "https://open.spotify.com/album/427R6OpWe7trKs2GYCIVJv"
-      },
-      "artists": [
-        {
-          "name": "Maddy O'Neal",
-          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Make You Feel",
-      "url": "https://open.spotify.com/track/67H5Yw5pIfyViVWBMems4V"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
         "name": "Falling Into Mystery",
         "url": "https://open.spotify.com/album/5DwjKbl2SqOzkyM7IHIfNV"
       },
@@ -2999,26 +2983,6 @@
       "duration_ms": 227200,
       "name": "Falling Into Mystery",
       "url": "https://open.spotify.com/track/1A0ECqKGWzslHTq0KKcpPi"
-    },
-    {
-      "added_at": "2024-10-04 19:07:00",
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/6bnBZsz7uOiJBgvNZNuHPT"
-      },
-      "artists": [
-        {
-          "name": "Crystal Skies",
-          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
-        },
-        {
-          "name": "Luxtides",
-          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Other Side",
-      "url": "https://open.spotify.com/track/5fSCgdPiucneXsFbGfmvax"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -3047,6 +3011,26 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/6bnBZsz7uOiJBgvNZNuHPT"
+      },
+      "artists": [
+        {
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        {
+          "name": "Luxtides",
+          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/5fSCgdPiucneXsFbGfmvax"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
         "name": "Lie",
         "url": "https://open.spotify.com/album/4dno18wmZxZldvHiApenIa"
       },
@@ -3059,6 +3043,22 @@
       "duration_ms": 210000,
       "name": "Lie",
       "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"
+    },
+    {
+      "added_at": "2024-10-04 19:07:00",
+      "album": {
+        "name": "Make You Feel",
+        "url": "https://open.spotify.com/album/427R6OpWe7trKs2GYCIVJv"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Make You Feel",
+      "url": "https://open.spotify.com/track/67H5Yw5pIfyViVWBMems4V"
     },
     {
       "added_at": "2024-10-04 19:07:00",
@@ -3103,22 +3103,18 @@
     {
       "added_at": "2024-10-04 19:07:00",
       "album": {
-        "name": "Pyroclastic",
-        "url": "https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39"
+        "name": "Nobody Compares",
+        "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
       },
       "artists": [
         {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        },
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
         }
       ],
-      "duration_ms": 208200,
-      "name": "Pyroclastic",
-      "url": "https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB"
+      "duration_ms": 244000,
+      "name": "Nobody Compares",
+      "url": "https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc"
     }
   ],
   "unique_name": "Bass Lounge",

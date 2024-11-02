@@ -2,9 +2,9 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Delfina Dib en Portada
+> Mujeres raperas rompiéndola en toda Latinoamérica\. Ms\. Ambar en Portada
 
-340 songs - 16 hr 57 min
+341 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Sandunguea](https://open.spotify.com/track/4Y4DgE7hqT4XwDgODir0Lh) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Sandunguea](https://open.spotify.com/album/4pfnzgk81dawquIVD10u96) | 2:37 | 2023-09-29 | 2024-07-19 |
 | [Scorpio](https://open.spotify.com/track/5RwbPOgYWW4xis3fcxS7nv) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Scorpio](https://open.spotify.com/album/2c60EOZQHHsaW0YnSMbgpQ) | 2:51 | 2023-11-17 | 2024-08-10 |
 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 | 2021-12-13 | 2022-03-09 |
-| [SENSOU](https://open.spotify.com/track/4Kd8F1bIzXqAcyesoAOlUO) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [SENSOU](https://open.spotify.com/album/2kIclQyee6jM7Z2DhASF9D) | 3:15 | 2024-05-24 |  |
+| [SENSOU](https://open.spotify.com/track/4Kd8F1bIzXqAcyesoAOlUO) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [SENSOU](https://open.spotify.com/album/2kIclQyee6jM7Z2DhASF9D) | 3:15 | 2024-05-24 | 2024-11-02 |
 | [SEÑALES](https://open.spotify.com/track/0ixfANWAebkhsYZboAQwBq) | [Camí Rozman](https://open.spotify.com/artist/3dwDDgc3WneLDpJYl2gsJt) | [SEÑALES](https://open.spotify.com/album/0DIj36pLzLfoTJ5EpraR1S) | 2:53 | 2023-04-14 | 2024-05-11 |
 | [Shock](https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [La Bala](https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF) | 3:30 | 2021-12-13 | 2023-10-07 |
 | [Siento](https://open.spotify.com/track/13DWRxHcQ0rRKOZ0nUpiww) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr), [Frida Lagarto](https://open.spotify.com/artist/3chJqlLTvlra2vRTPM9edK) | [Siento](https://open.spotify.com/album/3BYPPpFZ5PLIp1H0K2WLfU) | 1:58 | 2024-04-12 |  |
@@ -347,6 +347,7 @@
 | [¿Algo Que Decir?](https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c) | [¿Algo Que Decir?](https://open.spotify.com/album/3ESxHrgjrVxQAWxZKPn78a) | 2:23 | 2024-08-23 |  |
 | [¿Qué Pasó?](https://open.spotify.com/track/0fT5Z1yon9HQbvO8Rc9bce) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [¿Qué Pasó?](https://open.spotify.com/album/30dn71E64gblVEnseumlgK) | 2:20 | 2021-12-13 | 2022-07-29 |
 | [¿Qué Vas a Hacer?](https://open.spotify.com/track/5LxOVQ907XF7bHKnesDsh2) | [Linda Habitante](https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE) | [¿Qué Vas a Hacer?](https://open.spotify.com/album/7hDYANxnUCnGI5Ro2Q1umN) | 2:54 | 2023-11-17 | 2023-12-16 |
+| [Ámbar](https://open.spotify.com/track/43imHJT2isdxnQjW9SZ6cy) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [14•28](https://open.spotify.com/album/3XB5oRpIJquSb5RP3uBFQW) | 2:44 | 2024-11-01 |  |
 | [Últimamente](https://open.spotify.com/track/0TkvjgWhJWu3jvcmTaAKWE) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Últimamente](https://open.spotify.com/album/1jDdp6VLMKPTU8trOHFYGo) | 3:44 | 2023-03-03 | 2023-09-23 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

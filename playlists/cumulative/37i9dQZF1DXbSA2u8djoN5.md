@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: OG Eastbull,  NOUA UNSPE
 
-93 songs - 4 hr 20 min
+94 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [iNGER](https://open.spotify.com/track/4lKDvhNzcRhHYfNOWqTPgx) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv) | [iNGER](https://open.spotify.com/album/6NWyRBmyZAWLE76D3DhJSw) | 3:21 | 2024-06-27 | 2024-11-01 |
 | [Joacă](https://open.spotify.com/track/2P4d947MikKNSQw5I3lHSv) | [DOC](https://open.spotify.com/artist/6pWa7vRheyK4dmNJ2cg0gA), [Hardplay](https://open.spotify.com/artist/5oNOqzbZ0wPu4tn0mM5vmH) | [Aproape TOT](https://open.spotify.com/album/1Qb2fUJIgv2xKKYGo1WWl7) | 1:51 | 2024-10-03 | 2024-10-21 |
 | [Legenda](https://open.spotify.com/track/6dqC4isK1jxuzhjxsSBo5S) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Legenda](https://open.spotify.com/album/15IKtAuzpuD5JeBr35X7uP) | 2:39 | 2024-06-27 | 2024-10-04 |
+| [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 | 2024-10-31 |  |
 | [LUNA](https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx) | [4 226](https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [Ravisval](https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [CO$ANO$TRA](https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8) | 3:01 | 2024-06-27 |  |
 | [Lupta Continua](https://open.spotify.com/track/2WsUkvcfIp2CJQV84nOcSO) | [La Familia](https://open.spotify.com/artist/0MBEd6qd0GmDdDW8Pyftuv), [Phunk B](https://open.spotify.com/artist/2uY1K2tEdWUdDiK6tzBwwo), [Cedry2k](https://open.spotify.com/artist/7FDJIY6t5G8guWfwx4lXRd) | [FOARTE](https://open.spotify.com/album/2PCNCVJEjTH7mLrKSjsM2X) | 3:36 | 2024-06-27 | 2024-08-02 |
 | [Meditez](https://open.spotify.com/track/4oIlgjCDVa54Xi5YinqNyw) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Double Edd](https://open.spotify.com/artist/1JybKX6kJizwltWhwwuoOG) | [Meditez](https://open.spotify.com/album/1NiNEqg5QMusfJEzTlyhFv) | 2:10 | 2024-06-27 | 2024-08-16 |
@@ -77,7 +78,7 @@
 | [REGELE S\-A ÎNTORS](https://open.spotify.com/track/6xCiEdYc7mOoxO3c9K3Cp1) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol) | [REGELE S\-A ÎNTORS](https://open.spotify.com/album/0qKOiVCm7rKGH3iZPu1Ijm) | 3:15 | 2024-06-27 | 2024-07-05 |
 | [ROLLIE](https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ROLLIE](https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn) | 3:25 | 2024-10-17 |  |
 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 | 2024-09-19 |  |
-| [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 | 2024-06-27 |  |
+| [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 | 2024-06-27 | 2024-11-02 |
 | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/track/3okomQtoPOKU2MZARYyPiS) | [Serotone](https://open.spotify.com/artist/7nN2m7VvqkvB9bbFVgzBYn), [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/album/2DIGNFof9SDrDuzf1PZpyd) | 2:40 | 2024-08-01 | 2024-08-23 |
 | [Seria 5](https://open.spotify.com/track/41oOSj88trRGw0i16Rh9u1) | [Kepa](https://open.spotify.com/artist/0Mx93t13mwLCqOoQTQnILw), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Seria 5](https://open.spotify.com/album/3oCFqA2d4sGzfbY2Gx6c4I) | 2:32 | 2024-07-26 | 2024-09-20 |
 | [Shot](https://open.spotify.com/track/7oRs530KPTYBT8NdSIh6Kx) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [BAZOOKA](https://open.spotify.com/artist/5VF7pRN0tgUIRWjsVmnpY1), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [Shot](https://open.spotify.com/album/3Mmx6Jw7tay29R7KQzE8KE) | 3:48 | 2024-09-26 |  |

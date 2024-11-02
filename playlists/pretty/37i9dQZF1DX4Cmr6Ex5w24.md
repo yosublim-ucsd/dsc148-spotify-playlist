@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,742 likes - 75 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,782 likes - 75 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 15 | [Ennavale Adi Ennavale](https://open.spotify.com/track/7AH2SbY4kpTmvxp9zAsHDS) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX) | [Kaadhalan](https://open.spotify.com/album/69KnM0TANwkgU1LCJGOjYT) | 5:12 |
 | 16 | [Mudhalvanae](https://open.spotify.com/track/1xVbvazLCguoPCUbV9wXcw) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Mudhalvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HNLeUTKiANw8DtcLLpHPA) | 6:32 |
 | 17 | [Varayo En Thozhi](https://open.spotify.com/track/0LA3US8io1lgFoY7YSypct) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 5:48 |
-| 18 | [Vennilavin Theril Yeri](https://open.spotify.com/track/29KTBIKFx7HxFX1DhHGg0y) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 4:09 |
-| 19 | [Chinna Chinna Asai](https://open.spotify.com/track/301uYgwDevsSCzCBW6t7JC) | [Minmini](https://open.spotify.com/artist/22hTOnub1VZYjuQultOi4Q) | [Roja](https://open.spotify.com/album/4aLMaanVxHRKd9Mf4KJo2H) | 4:53 |
+| 18 | [Chinna Chinna Asai](https://open.spotify.com/track/301uYgwDevsSCzCBW6t7JC) | [Minmini](https://open.spotify.com/artist/22hTOnub1VZYjuQultOi4Q) | [Roja](https://open.spotify.com/album/4aLMaanVxHRKd9Mf4KJo2H) | 4:53 |
+| 19 | [Vennilavin Theril Yeri](https://open.spotify.com/track/29KTBIKFx7HxFX1DhHGg0y) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 4:09 |
 | 20 | [MINSARA KANNA](https://open.spotify.com/track/5C7jL8A15C30ksUYLc4kwW) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Nithyasree Mahadevan](https://open.spotify.com/artist/6UPWm7jqlonf0Xy4EB3x2m) | [A.R.RAHMAN VIBRATION](https://open.spotify.com/album/2xcX4329gzbTfJu6xc0Kui) | 6:19 |
 | 21 | [Urvashi Uravashi](https://open.spotify.com/track/2vGVScEqLhQXZNkeoDIyMP) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45), [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP) | [Kaadhalan](https://open.spotify.com/album/69KnM0TANwkgU1LCJGOjYT) | 5:40 |
 | 22 | [Nila Kaaigiradhu\(Male Version\)](https://open.spotify.com/track/5M4z4zaSIeSCC3wUa3nQKq) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Indira](https://open.spotify.com/album/0WA88rP1L6ZbZOYjv4dAqt) | 4:15 |

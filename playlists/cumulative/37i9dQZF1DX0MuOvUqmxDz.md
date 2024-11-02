@@ -2,9 +2,9 @@
 
 ### [Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0MuOvUqmxDz)
 
-> Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Dasha
+> Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Brett Eldredge
 
-326 songs - 17 hr 40 min
+329 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Winter Wonderland](https://open.spotify.com/track/4Jg17t8vuAYi2hr0N250ei) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/79zxqDwDXxoaachqEr7NDh) | 3:47 | 2022-12-16 | 2023-10-28 |
 | [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 | 2021-12-16 | 2023-10-02 |
 | [All I Want For Christmas](https://open.spotify.com/track/2FPFSnekLjOKZ61X7jYaGM) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [All I Want For Christmas](https://open.spotify.com/album/3nfEsZpJwyLq0lYp2uhDRi) | 4:05 | 2022-12-09 |  |
+| [All I Want for Christmas is a Cowboy](https://open.spotify.com/track/3LelA67J3InQRCvUnyHomd) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Blue Christmas ...duh](https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl) | 3:17 | 2024-11-01 |  |
 | [All I Want for Christmas Is a Real Good Tan](https://open.spotify.com/track/0la64DF1pXfSU0Ff6EH8Cr) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [All I Want For Christmas Is A Real Good Tan](https://open.spotify.com/album/4vLpAl3eThYWwJCX0Ru3DD) | 4:38 | 2021-12-16 | 2022-11-05 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/43IPpuDIrY2PIe43mreKty) | [Brooke Moriber](https://open.spotify.com/artist/5EVT7zUfk97zmNleljnavR) | [All I Want for Christmas Is You](https://open.spotify.com/album/3SovtaTjNB73Wm0963PqkX) | 4:25 | 2022-10-14 | 2022-11-12 |
 | [All I Want for Christmas is You](https://open.spotify.com/track/5a6Nppm9XECvayvkbMDUlU) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [All I Want for Christmas is You](https://open.spotify.com/album/2WXAEtkrhikD1eDUP1sXFP) | 2:58 | 2021-12-16 | 2024-10-19 |
@@ -29,6 +30,7 @@
 | [Blue Christmas](https://open.spotify.com/track/3p47LAxCgFOSmgj20WqBdH) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Blue Christmas](https://open.spotify.com/album/51qIyccjvJCDMNW2L5K7xi) | 2:08 | 2024-10-25 |  |
 | [Blue Christmas](https://open.spotify.com/track/4hjZLWozJ5kmqnjAGV7nBC) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Blue Christmas](https://open.spotify.com/album/6eF0Qn1pCKtgRP1ChIvijA) | 2:50 | 2022-10-28 | 2023-10-28 |
 | [Blue Christmas](https://open.spotify.com/track/7bPW9SCgNTkATn4bogwQyW) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Blue Christmas](https://open.spotify.com/album/1wQDiRoDF4Y0SGLHG8BdVi) | 2:08 | 2023-10-27 |  |
+| [Blue Christmas](https://open.spotify.com/track/5zFO3pI7qV2YLBI5wp61hX) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Blue Christmas ...duh](https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl) | 2:31 | 2024-11-01 |  |
 | [Blue Christmas](https://open.spotify.com/track/60eELuQwcjoTbJKcgJLfo8) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Blue Christmas](https://open.spotify.com/album/4eXDJg77YaPvyNZ8AKVxxq) | 2:15 | 2021-12-16 | 2022-11-12 |
 | [Blue Christmas](https://open.spotify.com/track/4UgD2DtrrEEtAH5vgNIJmu) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Blue Christmas](https://open.spotify.com/album/2B4PBr4D50B4E7ZpylWCIT) | 3:13 | 2021-12-16 | 2022-10-08 |
 | [Blue Christmas](https://open.spotify.com/track/5GKKuPZMIC8M1U9h6uG6rh) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Blue Christmas](https://open.spotify.com/album/6tVWfcDolOGbPJm0SWfOP4) | 3:05 | 2021-12-16 | 2022-11-05 |
@@ -145,6 +147,7 @@
 | [I'll Be Home For Christmas](https://open.spotify.com/track/5RMuRiyV5fVzQriQjGyIhp) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Cody Johnson Christmas](https://open.spotify.com/album/0cLuZfaaFMtFmMIadVO0z8) | 4:05 | 2021-12-16 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/1GjuT0FXHHve3t5CzqU9Wd) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [I'll Be Home For Christmas](https://open.spotify.com/album/3obmcueQA0HPnQcUmYykic) | 3:20 | 2024-10-25 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/2TgckUnL0YZX4CQ5LKcjVF) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [I'll Be Home for Christmas](https://open.spotify.com/album/4nQbwU5bY6C0yRSD9N0ayp) | 3:15 | 2022-11-25 | 2023-10-28 |
+| [I'll Be Home For Christmas](https://open.spotify.com/track/6qHC7PTkjgIZiFqCCLGPE3) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [I'll Be Home For Christmas](https://open.spotify.com/album/70qzmIrJAfu3CLjEEg8k0m) | 3:21 | 2024-11-01 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/0V2Anxn5pgRHZElbYbCip0) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [I'll Be Home for Christmas](https://open.spotify.com/album/3sJ5zX6tqTL3Mjo9NIkWri) | 3:11 | 2021-12-16 | 2022-11-12 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/7K3i0GUuw4tdIy2BtXVqtW) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Unwrapped \- EP](https://open.spotify.com/album/5UxCYp9ugSxlZtp7TIaJoV) | 3:27 | 2021-12-16 | 2022-11-18 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/4EerGFQs2IRgYaQtubh4xD) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [I'll Be Home for Christmas](https://open.spotify.com/album/5U08gfc0QlLly0YlQhbC1Z) | 2:55 | 2021-12-16 | 2022-10-08 |

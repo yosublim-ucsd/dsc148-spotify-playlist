@@ -4,13 +4,14 @@
 
 > Country music with a Latin flair\. Cover: Kat Luna
 
-186 songs - 10 hr 14 min
+188 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til I Can Make It On My Own](https://open.spotify.com/track/3VuQUuFw1QPNUqbsTOWDie) | [Savannah Rae](https://open.spotify.com/artist/0MCORpw49PaeUUsSZwH0pw), [Georgette Jones](https://open.spotify.com/artist/6ofwDVSodVYTHLohoLDKSw) | ['Til I Can Make It On My Own](https://open.spotify.com/album/0Y3PDimWHc95usGdTNObKx) | 3:09 | 2023-01-20 | 2024-04-10 |
 | [1990s Drunk](https://open.spotify.com/track/70DLKdtq1mq4UT05jnXh8Z) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [1990s Drunk](https://open.spotify.com/album/4T7NUH0KI8yXRcCrgs0Doz) | 2:58 | 2022-10-07 | 2024-04-13 |
 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 | 2022-09-02 | 2024-04-10 |
+| [A las 12 Te Olvidé](https://open.spotify.com/track/6u1UWAkgEhlGzYe24QNFxg) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAASHVILLE](https://open.spotify.com/album/3z71IM4XCA5UMiORkkr66P) | 3:44 | 2024-11-01 |  |
 | [Achy Breaky Heart 25 \(Spanglish\) \[feat\. Jencarlos Canela\]](https://open.spotify.com/track/6AJJN8totfQ19PPft5qJqt) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Set the Record Straight](https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE) | 3:14 | 2022-07-08 | 2024-04-10 |
 | [Achy Breaky Heart 25 \- Spanglish \(feat\. Jencarlos Canela\)](https://open.spotify.com/track/7BsOKmHxQ9vvpFZaRR8Tzm) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [The Silver Mullet Band](https://open.spotify.com/artist/0OUA8eU4zKdxFX9DL2sdkR), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Achy Breaky Heart 25 \- Spanglish \(feat\. Jencarlos Canela\)](https://open.spotify.com/album/3fO7J7vXdxv5IdixnK2O3K) | 3:14 | 2021-12-10 | 2022-07-29 |
 | [Adiós Amor \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:22 | 2021-12-10 | 2024-04-10 |
@@ -124,6 +125,7 @@
 | [Mountains](https://open.spotify.com/track/0YrVuZbN2BmMjXYdyUQo4k) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Mountains](https://open.spotify.com/album/7n1yMlzN1ciH8dEsWFYmmZ) | 3:15 | 2022-05-13 | 2024-04-10 |
 | [Nace Un Borracho](https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:56 | 2021-12-10 | 2024-04-10 |
 | [Nada es Mejor \(Nothing's Better \- Spanish Version\)](https://open.spotify.com/track/2qx6CtuCTZtZiUZbk5B8F9) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Nada es Mejor \(Nothing's Better \- Spanish Version\)](https://open.spotify.com/album/4E1SCECKwmYJp3to4EMCzl) | 3:12 | 2022-05-20 | 2024-04-10 |
+| [Nada Nos Detiene](https://open.spotify.com/track/7b05BeveEYIUsp8Av8vtdR) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Nada Nos Detiene](https://open.spotify.com/album/3XZIrgnYU3XnKZKZhuMkCm) | 3:21 | 2024-11-01 |  |
 | [Neil Young](https://open.spotify.com/track/1cWGEn37KTIQhsRkBVTmT0) | [Los eternos](https://open.spotify.com/artist/6oE0GszhdtC6IcGv1HFls8) | [Vientos Solitarios](https://open.spotify.com/album/6On6L6sEBLBn0bv26utzek) | 2:55 | 2021-12-10 | 2024-04-10 |
 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 | 2021-12-10 |  |
 | [Never Have I Ever \- Yo Nunca He..\. / Spanish Version](https://open.spotify.com/track/4UwGBrXXpGWXdBWuvtU5hZ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Never Have I Ever \(Yo Nunca He..\. / Spanish Version\)](https://open.spotify.com/album/41pi8PQFunXaqPy3xuVUlM) | 3:09 | 2021-12-10 | 2024-04-10 |

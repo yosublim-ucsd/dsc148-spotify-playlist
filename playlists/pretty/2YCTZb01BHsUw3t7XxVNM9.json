@@ -1,12 +1,12 @@
 {
   "description": "Western orientated Hardcore Music by Japanese Artists",
-  "num_followers": 606,
+  "num_followers": 607,
   "original_name": "Japanese Hardstyle/Hardcore | J-Core | WeebCore |",
   "owner": {
     "name": "Alice.SE",
     "url": "https://open.spotify.com/user/megustager"
   },
-  "snapshot_id": "AAACRvvDpK/CYwnSUiAtM4YlYVCfcMCV",
+  "snapshot_id": "AAACRwj0O8/ruOR5GPK9kqr4FBxhkldL",
   "tracks": [
     {
       "added_at": "2019-01-29 19:29:28",
@@ -8455,6 +8455,26 @@
       "duration_ms": 193667,
       "name": "FLATLINE",
       "url": "https://open.spotify.com/track/7xNMFJEbDvaJsyRN3IChOK"
+    },
+    {
+      "added_at": "2024-11-01 13:47:56",
+      "album": {
+        "name": "Lost in the Abyss",
+        "url": "https://open.spotify.com/album/6YJtMkGUyeGJcKL9uyGEtX"
+      },
+      "artists": [
+        {
+          "name": "Abyssmare",
+          "url": "https://open.spotify.com/artist/1b1JNnumZJQBTNOY2Popqv"
+        },
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        }
+      ],
+      "duration_ms": 128957,
+      "name": "Lost in the Abyss",
+      "url": "https://open.spotify.com/track/0OiJbU6z2vgdAilOaASNMm"
     }
   ],
   "unique_name": "Japanese Hardstyle/Hardcore | J-Core | WeebCore |",

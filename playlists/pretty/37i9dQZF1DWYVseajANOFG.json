@@ -1,29 +1,13 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech",
-  "num_followers": 121766,
+  "num_followers": 121803,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsXwAAAAAD5l6h0574j/B+7K0RcPLuK",
+  "snapshot_id": "ZyRSQAAAAADKsEQ7vLH0zVfHDTFLYIiU",
   "tracks": [
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "TOY PERDIO",
-        "url": "https://open.spotify.com/album/41Fx3xFa1msZKkLGXVgm4t"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 175102,
-      "name": "TOY PERDIO",
-      "url": "https://open.spotify.com/track/3JXGcoxUTyBU7AYdpsLdH6"
-    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -63,6 +47,26 @@
       "duration_ms": 153900,
       "name": "Yo Te Llamo",
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "FAVELA",
+        "url": "https://open.spotify.com/album/2tjEG5AdeMjpYyCR6nbXU6"
+      },
+      "artists": [
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+        }
+      ],
+      "duration_ms": 183958,
+      "name": "FAVELA",
+      "url": "https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -173,40 +177,36 @@
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
+      "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "FAVELA",
-        "url": "https://open.spotify.com/album/2tjEG5AdeMjpYyCR6nbXU6"
+        "name": "Sundae",
+        "url": "https://open.spotify.com/album/4Vj5iLDMXcOPteG1T4dAOy"
       },
       "artists": [
         {
-          "name": "Valentino GRM",
-          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
-        },
-        {
-          "name": "SMILE BEATS",
-          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+          "name": "Makano",
+          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
         }
       ],
-      "duration_ms": 183958,
-      "name": "FAVELA",
-      "url": "https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK"
+      "duration_ms": 202835,
+      "name": "Sundae",
+      "url": "https://open.spotify.com/track/60EnNoq0Qx38LBdt0I62jz"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Guerrero de Yavh\u00e9",
-        "url": "https://open.spotify.com/album/2KH1B8GQ0CTGAv8XtbgsM3"
+        "name": "TOY PERDIO",
+        "url": "https://open.spotify.com/album/41Fx3xFa1msZKkLGXVgm4t"
       },
       "artists": [
         {
-          "name": "Kafu Banton",
-          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 160750,
-      "name": "Guerrero de Yavh\u00e9",
-      "url": "https://open.spotify.com/track/0EdhElBICTHMtthD0t9J5y"
+      "duration_ms": 175102,
+      "name": "TOY PERDIO",
+      "url": "https://open.spotify.com/track/3JXGcoxUTyBU7AYdpsLdH6"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/3F5xUtUiSC6W1CDIwC3jnc"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Descansa En Paz",
-        "url": "https://open.spotify.com/album/2juqhhfkL8ShyNc8YXvzKQ"
-      },
-      "artists": [
-        {
-          "name": "Rik",
-          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
-        }
-      ],
-      "duration_ms": 160206,
-      "name": "Descansa En Paz",
-      "url": "https://open.spotify.com/track/61xQvQwGU7NMG9IPGbSL2U"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Besitos",
@@ -481,26 +465,6 @@
       "url": "https://open.spotify.com/track/1tD2tcdB8WpLlJCEBaJV4r"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "LA PANTERA NEGRA (DELUXE)",
-        "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 228746,
-      "name": "OTRO NIVEL \ud83d\udc51 (feat. Sech)",
-      "url": "https://open.spotify.com/track/2OhDOv9O8BUEtckF7DDRCP"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Literatura",
@@ -553,20 +517,32 @@
       "url": "https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "DE PARTY X TI",
-        "url": "https://open.spotify.com/album/0MlQNRFhEfOehAbLu7ao3N"
+        "name": "Isabella",
+        "url": "https://open.spotify.com/album/4sZeixSfEmvt279D2H1lFk"
       },
       "artists": [
         {
-          "name": "Jorkan",
-          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+        },
+        {
+          "name": "Mole",
+          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "Predikador",
+          "url": "https://open.spotify.com/artist/2thPpoFosFJC33Yy4xIAWY"
         }
       ],
-      "duration_ms": 146526,
-      "name": "DE PARTY X TI",
-      "url": "https://open.spotify.com/track/72acHoAGS9ffGIVPdabc9H"
+      "duration_ms": 288712,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/5xgj78ymAYJSo6zkfhQCQw"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -665,40 +641,20 @@
       "url": "https://open.spotify.com/track/6vIAesoAJNm0g3mPN8EXpB"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "No Me Llore",
-        "url": "https://open.spotify.com/album/4sQzfeWk8NxrnfsnAEufhF"
+        "name": "Rayito de Sol",
+        "url": "https://open.spotify.com/album/4TWdudiLF0Idxns9eATxYM"
       },
       "artists": [
         {
-          "name": "Josuan",
-          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
-        },
-        {
-          "name": "Andiex",
-          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
-        },
-        {
-          "name": "Eiby",
-          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
-        },
-        {
-          "name": "Don Pablo Mures",
-          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
-        },
-        {
-          "name": "Bin$ho",
-          "url": "https://open.spotify.com/artist/0b0ghBgG9mQtHd9iWBKStQ"
-        },
-        {
-          "name": "Alexito OTB",
-          "url": "https://open.spotify.com/artist/401ecmR8ImKSXueRLk9MwT"
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
         }
       ],
-      "duration_ms": 286530,
-      "name": "No Me Llore",
-      "url": "https://open.spotify.com/track/6wVwNV3dm999v7XTeINoAE"
+      "duration_ms": 229200,
+      "name": "Rayito de Sol",
+      "url": "https://open.spotify.com/track/64TFVyPOGaCWHOZyTEIqJv"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -759,6 +715,30 @@
       "duration_ms": 174051,
       "name": "Barco de Papel",
       "url": "https://open.spotify.com/track/4Xv8GKn2YSnIWYFyBJji3S"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Muchote",
+        "url": "https://open.spotify.com/album/3akuUJa5zLhvVRkTD7JTcZ"
+      },
+      "artists": [
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        },
+        {
+          "name": "Kabliz",
+          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
+        },
+        {
+          "name": "Sami Boy",
+          "url": "https://open.spotify.com/artist/1ESd6ktTBrYTTACNlfHB8Q"
+        }
+      ],
+      "duration_ms": 168785,
+      "name": "Muchote",
+      "url": "https://open.spotify.com/track/5TAxUB87THgbijNahOV9em"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -859,6 +839,22 @@
       "duration_ms": 175417,
       "name": "Ego Sexual",
       "url": "https://open.spotify.com/track/0jYb9kx7BNJTJQIQQdffdN"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "PET FRIENDLY",
+        "url": "https://open.spotify.com/album/5odRkAnIvO6lDUeRgqzM1j"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "PET FRIENDLY",
+      "url": "https://open.spotify.com/track/4jXTntAwrKWm1veNk8UZDQ"
     },
     {
       "added_at": "2024-09-13 04:00:00",

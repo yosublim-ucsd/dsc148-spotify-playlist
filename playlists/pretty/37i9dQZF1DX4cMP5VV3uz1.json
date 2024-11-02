@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 159966,
+  "num_followers": 160000,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 191724,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Jungle Diva",
         "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 189176,
       "name": "Jungle Diva",
       "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "CONTEXT",
-        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        }
-      ],
-      "duration_ms": 137624,
-      "name": "CONTEXT",
-      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Dubplate SZN",
         "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
@@ -907,6 +887,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "CONTEXT",
+        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "duration_ms": 137624,
+      "name": "CONTEXT",
+      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/08X4CBD7KhJyTeYTSCEi94"
       },
@@ -923,6 +923,42 @@
       "duration_ms": 199090,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Bass & Treble",
+        "url": "https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH"
+      },
+      "artists": [
+        {
+          "name": "Jappa",
+          "url": "https://open.spotify.com/artist/1YjOQxSsA8Le5egt7q7RaI"
+        },
+        {
+          "name": "Wish Master",
+          "url": "https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn"
+        }
+      ],
+      "duration_ms": 228024,
+      "name": "Bass & Treble",
+      "url": "https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Hazmat / Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -955,42 +991,6 @@
       "duration_ms": 290742,
       "name": "Gunner",
       "url": "https://open.spotify.com/track/3IpHOdzNvOfeTjlPSajNAV"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Hazmat / Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Bass & Treble",
-        "url": "https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH"
-      },
-      "artists": [
-        {
-          "name": "Jappa",
-          "url": "https://open.spotify.com/artist/1YjOQxSsA8Le5egt7q7RaI"
-        },
-        {
-          "name": "Wish Master",
-          "url": "https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn"
-        }
-      ],
-      "duration_ms": 228024,
-      "name": "Bass & Treble",
-      "url": "https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "We No Care",
         "url": "https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 249600,
       "name": "We No Care",
       "url": "https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2qq6oecO8ZswOYJNg3igki"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0RapNiCTYLb0VCK4aSlnHc"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/1ygUJq7xxvjmEs56MY5Hjl"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 175125,
       "name": "Control",
       "url": "https://open.spotify.com/track/0tjk8L9aFCsH9BlkVAixct"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Killamanjaro",
-        "url": "https://open.spotify.com/album/4h8n2kBOltdmxBg5t4kmIr"
-      },
-      "artists": [
-        {
-          "name": "Jamezy",
-          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "Killamanjaro",
-      "url": "https://open.spotify.com/track/3TV6mC42yaxfmJNNaup61G"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/2qq6oecO8ZswOYJNg3igki"
+        "name": "Killamanjaro",
+        "url": "https://open.spotify.com/album/4h8n2kBOltdmxBg5t4kmIr"
       },
       "artists": [
         {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
         },
         {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/0RapNiCTYLb0VCK4aSlnHc"
+      "duration_ms": 178466,
+      "name": "Killamanjaro",
+      "url": "https://open.spotify.com/track/3TV6mC42yaxfmJNNaup61G"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/07SV9ag0yEoTbXLLWkhaxs"
-      },
-      "artists": [
-        {
-          "name": "S.P.Y",
-          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
-        },
-        {
-          "name": "T-Man",
-          "url": "https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2"
-        }
-      ],
-      "duration_ms": 220789,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2MdNjzz8wXf0PlfXupqela"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Hardcore Riddim",
         "url": "https://open.spotify.com/album/5do913Q6Mwjn26EGhHESzM"
       },
@@ -1467,6 +1447,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/07SV9ag0yEoTbXLLWkhaxs"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        },
+        {
+          "name": "T-Man",
+          "url": "https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2"
+        }
+      ],
+      "duration_ms": 220789,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2MdNjzz8wXf0PlfXupqela"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/4whr45Olu7a2aO7GLEVWWP"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 185142,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/3UGNkp6UluxzrztoMu9q1C"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz"
+      },
+      "artists": [
+        {
+          "name": "Krakota",
+          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Stop Talking",
+      "url": "https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1551,34 +1567,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/46pWepYfmFsjoZIOQMz1GD"
       },
       "artists": [
         {
-          "name": "Krakota",
-          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Stop Talking",
-      "url": "https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Sabertooth",
-        "url": "https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl"
-      },
-      "artists": [
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        },
         {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+          "name": "Tempza",
+          "url": "https://open.spotify.com/artist/4L3I92jE3sohrZafi1UNdC"
+        },
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
         }
       ],
-      "duration_ms": 266057,
-      "name": "Sabertooth",
-      "url": "https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie"
+      "duration_ms": 167068,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW"
     }
   ],
   "unique_name": "Proper Naughty ",

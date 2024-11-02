@@ -2,7 +2,7 @@
 
 ### [Disney Hits Latino](https://open.spotify.com/playlist/37i9dQZF1DX6ygqbbD1pKk)
 
-> Todos tus éxitos favoritos de Disney.
+> Todos tus éxitos favoritos de Disney\. Moana 2, Encanto, Frozen y mucho más!
 
 138 songs - 7 hr 0 min
 

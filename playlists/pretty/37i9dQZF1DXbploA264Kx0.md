@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Howard Lee \(李浩瑋\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,338 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,342 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Beef Noodle Soup](https://open.spotify.com/track/68mzSjp9W0RMqG751kBzRT) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Howard Lee](https://open.spotify.com/artist/34EWyPIAhDTLigJuarFsRi) | [Beef Noodle Soup](https://open.spotify.com/album/1grhE7u0LPFXq23eRaU8dT) | 1:54 |
+| 1 | [Beef Noodle Soup](https://open.spotify.com/track/68mzSjp9W0RMqG751kBzRT) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Beef Noodle Soup](https://open.spotify.com/album/1grhE7u0LPFXq23eRaU8dT) | 1:54 |
 | 2 | [What If I](https://open.spotify.com/track/1jqxpxRDLuIjYzXTL717Dc) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [What If I](https://open.spotify.com/album/3BqHJHvihYNPICc7tBnqxl) | 2:59 |
 | 3 | [I Can't Deny](https://open.spotify.com/track/1fp3QF4UieOKUMQFToXG7e) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [I Can't Deny](https://open.spotify.com/album/1W0D7IP4CLGpuNTHY4oxOB) | 2:49 |
 | 4 | [About You](https://open.spotify.com/track/4BqlTz6a3BSQtuOgw58iyT) | [Jimmy KUAN](https://open.spotify.com/artist/0RvW6NX5Txwg455rTgalox) | [About You](https://open.spotify.com/album/5wVxiN2wjVBlSOHGSJC8Rm) | 2:41 |

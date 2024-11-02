@@ -3679,6 +3679,24 @@
     },
     {
       "album": {
+        "name": "...l",
+        "url": "https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188790,
+      "name": "GPT",
+      "url": "https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu"
+    },
+    {
+      "album": {
         "name": "Grey Suit - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
       },
@@ -4474,6 +4492,24 @@
       "duration_ms": 168026,
       "name": "If I\u2019m S, Can You Be My N?",
       "url": "https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO"
+    },
+    {
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
       "album": {
@@ -8490,7 +8526,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 184723,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf"
@@ -9541,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "THE BOYZ 9TH MINI ALBUM [TRIGGER]",
+        "url": "https://open.spotify.com/album/6aBgONIIYJr8ondQP2gjOO"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "TRIGGER",
+      "url": "https://open.spotify.com/track/41B7FamCASDTknlXUhcb76"
+    },
+    {
+      "album": {
         "name": "TTYL",
         "url": "https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg"
       },
@@ -9842,7 +9896,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 173875,
       "name": "Wait",
       "url": "https://open.spotify.com/track/564FztYymI6tdSy7hV8nYS"
@@ -10620,7 +10674,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 182795,
       "name": "\ubcc4\ubcc4\ubcc4 (See that?)",
       "url": "https://open.spotify.com/track/2Oc0j4x7HkDRVZq8JsgACT"

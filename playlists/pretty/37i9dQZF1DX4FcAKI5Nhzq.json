@@ -1,13 +1,61 @@
 {
-  "description": "Future K-Pop hits! Cover: PURPLE KISS",
-  "num_followers": 815158,
+  "description": "Future K-Pop hits! Cover: BABYMONSTER",
+  "num_followers": 815289,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxnR5wAAAAA66TKmuufjHYiKWzsm9PNu",
+  "snapshot_id": "ZyRSQAAAAAD2VgaRq0vjSq9Y0YkUgJn8",
   "tracks": [
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "BABYMONSTER 1st FULL ALBUM [DRIP]",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+    },
+    {
+      "added_at": "2024-10-24 04:49:43",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Kep1er The 6th Mini Album <TIPI-TAP>",
+        "url": "https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 172670,
+      "name": "TIPI-TAP",
+      "url": "https://open.spotify.com/track/5ufLXgP0f4GTghZO05XMpy"
+    },
     {
       "added_at": "2024-10-24 04:49:43",
       "album": {
@@ -39,22 +87,6 @@
       "duration_ms": 189335,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/6SzXlH7Xy7RlUSPx5Obbe3"
-    },
-    {
-      "added_at": "2024-10-24 04:49:43",
-      "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 131786,
-      "name": "Igloo",
-      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
       "added_at": "2024-10-24 04:49:43",
@@ -655,42 +687,6 @@
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
-    },
-    {
-      "added_at": "2024-10-24 04:49:43",
-      "album": {
-        "name": "Find YOU",
-        "url": "https://open.spotify.com/album/7GsX3SQSkUvDWnYT0ziJuK"
-      },
-      "artists": [
-        {
-          "name": "LEE DAE HWI",
-          "url": "https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB"
-        },
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 192525,
-      "name": "KILL ME",
-      "url": "https://open.spotify.com/track/4TBLxFV7UNywrpfVBzeSFb"
-    },
-    {
-      "added_at": "2024-10-24 04:49:43",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "17",
-      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
     },
     {
       "added_at": "2024-10-24 04:49:43",

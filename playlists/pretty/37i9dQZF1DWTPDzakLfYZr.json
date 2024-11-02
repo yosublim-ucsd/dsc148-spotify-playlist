@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Greeicy & Jay Wheeler",
-  "num_followers": 649656,
+  "num_followers": 649645,
   "original_name": "Popet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsKRwAAAACIC6kV0rSErxZQLjCYDR6i",
+  "snapshot_id": "ZyRCdAAAAADCF5c14BxDn/Vl0dmFzsyg",
   "tracks": [
     {
       "added_at": "2024-10-25 03:02:31",
@@ -67,6 +67,26 @@
       "duration_ms": 194210,
       "name": "ANTES",
       "url": "https://open.spotify.com/track/18z0oXWIOBLT3qruaegt5o"
+    },
+    {
+      "added_at": "2024-11-01 02:52:36",
+      "album": {
+        "name": "A Veces A Besos (Remix)",
+        "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "A Veces A Besos - Remix",
+      "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
     },
     {
       "added_at": "2024-10-25 03:02:31",
@@ -1503,22 +1523,6 @@
       "duration_ms": 225416,
       "name": "Quiereme Mientras se Pueda - Remix",
       "url": "https://open.spotify.com/track/3F7qB0cVZ4msKvy4jbvLRx"
-    },
-    {
-      "added_at": "2024-10-25 03:02:31",
-      "album": {
-        "name": "ADMV (Versi\u00f3n Urbana)",
-        "url": "https://open.spotify.com/album/2icmaSfpEsztZeSqmlOOtz"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "ADMV - Versi\u00f3n Urbana",
-      "url": "https://open.spotify.com/track/3wBKCNw7BFIalnqe4VXzdK"
     },
     {
       "added_at": "2024-10-25 03:02:31",

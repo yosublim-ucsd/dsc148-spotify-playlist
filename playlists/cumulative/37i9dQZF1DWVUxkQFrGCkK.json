@@ -4551,6 +4551,36 @@
     },
     {
       "album": {
+        "name": "Finally (Remixes)",
+        "url": "https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Shooma",
+          "url": "https://open.spotify.com/artist/5gVzUUccqWoWM8Gm7t7Oju"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210491,
+      "name": "Finally (with Alicia Keys) - Eran Hersh & Shooma Remix",
+      "url": "https://open.spotify.com/track/79VtNwEpKTQCJWQpRHKZlW"
+    },
+    {
+      "album": {
         "name": "Fine Day (BLR Afro Summer Mix)",
         "url": "https://open.spotify.com/album/2G1TJXG45LkIK9TTgCpjIc"
       },

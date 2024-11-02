@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: CRO, BUNT.",
-  "num_followers": 473924,
+  "num_followers": 473898,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
       "duration_ms": 188871,
       "name": "liebe das",
       "url": "https://open.spotify.com/track/2fiGJgDY0OamG8wX0WaMnO"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 138323,
+      "name": "Chill Bae",
+      "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1147,6 +1163,26 @@
       "duration_ms": 97391,
       "name": "Bundeswehr",
       "url": "https://open.spotify.com/track/5JLbgRkto4OrrkWgAHcJZT"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/5IcsHifVLGG0emBPlMZacj"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 183919,
+      "name": "SOUTH OF FRANCE - REMIX",
+      "url": "https://open.spotify.com/track/5BjYmIIW8NIwItLPGjqKqP"
     },
     {
       "added_at": "2024-10-31 23:00:00",

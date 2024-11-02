@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606 likes - 45 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 607 likes - 45 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 44 | [Leaving Lone Pine Falls](https://open.spotify.com/track/6kMVwV8S6VV3LDgJ02dDwm) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 2:34 |
 | 45 | [The Legend Of The Phoenix](https://open.spotify.com/track/7jAuPo2gGQJGKCT9iDW1MQ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:03 |
 
-Snapshot ID: `ZyF3AAAAAADT9MwAor2hM/xfV8Z4gwen`
+Snapshot ID: `ZyLIgAAAAABthpQOD/+N4k9jqdKjJKRs`

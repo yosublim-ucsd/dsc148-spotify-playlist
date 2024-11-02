@@ -2781,6 +2781,28 @@
     },
     {
       "album": {
+        "name": "La Mejor de Todas",
+        "url": "https://open.spotify.com/album/1zfJFT7uRTwtw1ltjTSfNS"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147816,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/1AzjlvmSsC7ULBPHLCmHL7"
+    },
+    {
+      "album": {
         "name": "La Noche",
         "url": "https://open.spotify.com/album/06Z89FVJ5rOZKw3wRRAexV"
       },
@@ -3368,7 +3390,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 147857,
       "name": "Me Hizo Un Favor",
       "url": "https://open.spotify.com/track/6C7iyH1qFSNmMhCMNzyiJz"
@@ -5700,7 +5722,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 155023,
       "name": "Te Juro Que No Es Verdad",
       "url": "https://open.spotify.com/track/2aWgJioTPpqp5LRqmOngYo"
@@ -6808,6 +6830,28 @@
       "duration_ms": 164022,
       "name": "Yo Te Esperare",
       "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
+    },
+    {
+      "album": {
+        "name": "Yo Te Quiero",
+        "url": "https://open.spotify.com/album/7FsltKZuJw6Lbd1t8eRcwp"
+      },
+      "artists": [
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215450,
+      "name": "Yo Te Quiero",
+      "url": "https://open.spotify.com/track/3ogRdwXNsRj7yYp6pQHIon"
     },
     {
       "album": {

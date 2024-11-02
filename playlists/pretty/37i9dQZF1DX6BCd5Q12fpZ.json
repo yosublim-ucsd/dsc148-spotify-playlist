@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65803,
+  "num_followers": 65798,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "We Are the Winners",
+        "url": "https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9"
+      },
+      "artists": [
+        {
+          "name": "LT United",
+          "url": "https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "We Are the Winners - Original Version",
+      "url": "https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Verona",
         "url": "https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 182548,
       "name": "Verona - Eurovision 2017 - Estonia",
       "url": "https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "We Are the Winners",
-        "url": "https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9"
-      },
-      "artists": [
-        {
-          "name": "LT United",
-          "url": "https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "We Are the Winners - Original Version",
-      "url": "https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02"
     },
     {
       "added_at": "2023-05-05 17:20:54",

@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 405290,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/72jFUmoipIJVLJLZmlqo1p"
@@ -3156,7 +3156,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 181710,
       "name": "Good God II",
       "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
@@ -4642,7 +4642,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 213212,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/14eJGzC2IWvU1H4d1UzuZ9"
@@ -6347,6 +6347,24 @@
     },
     {
       "album": {
+        "name": "Love Gospel",
+        "url": "https://open.spotify.com/album/3i4Xye87pIozs5U1bmHoQe"
+      },
+      "artists": [
+        {
+          "name": "JOKIA",
+          "url": "https://open.spotify.com/artist/0ookqFkmQpJCmnG9lzI45E"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Love - Remix",
+      "url": "https://open.spotify.com/track/1e9c4u7CBk2TXyJsTaFjkg"
+    },
+    {
+      "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd"
       },
@@ -6786,6 +6804,32 @@
       "duration_ms": 754005,
       "name": "Mighty God",
       "url": "https://open.spotify.com/track/0i3gYcDvPo71gcVpwozRo3"
+    },
+    {
+      "album": {
+        "name": "Mighty Good",
+        "url": "https://open.spotify.com/album/4LfzhIBpiVFXVJqPYgQox0"
+      },
+      "artists": [
+        {
+          "name": "Cru Alxndr",
+          "url": "https://open.spotify.com/artist/1nExCVqTaxTCoGW4aJ4ZI2"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "ANTHNY",
+          "url": "https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219794,
+      "name": "Mighty Good",
+      "url": "https://open.spotify.com/track/4nIJcdjVVQNJC5loKZsvfJ"
     },
     {
       "album": {
@@ -7514,7 +7558,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 241107,
       "name": "No words",
       "url": "https://open.spotify.com/track/6vORdtborYd1kyGbsjc1OW"
@@ -8325,6 +8369,24 @@
     },
     {
       "album": {
+        "name": "Prodigal Savior",
+        "url": "https://open.spotify.com/album/5KACVmGq3DafhRnVBiyeUl"
+      },
+      "artists": [
+        {
+          "name": "Community Music",
+          "url": "https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Prodigal Savior",
+      "url": "https://open.spotify.com/track/7M6Hi977QBDMKUON0SWkho"
+    },
+    {
+      "album": {
         "name": "Promise Keeper",
         "url": "https://open.spotify.com/album/0GRtoCgh0GL3kUgxHxuVtv"
       },
@@ -8826,6 +8888,24 @@
       "duration_ms": 294796,
       "name": "Secret Place",
       "url": "https://open.spotify.com/track/639aMJotRbNr4OU3jycPRh"
+    },
+    {
+      "album": {
+        "name": "SEE FINISH",
+        "url": "https://open.spotify.com/album/0p2KVZZFYpMPPMrk1poe8d"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263730,
+      "name": "SEE FINISH",
+      "url": "https://open.spotify.com/track/6mUfx1LZjnsZuUkrk8G1Ig"
     },
     {
       "album": {
@@ -9802,6 +9882,32 @@
     {
       "album": {
         "name": "Testify",
+        "url": "https://open.spotify.com/album/43uBdNNWPiNoXyrTk7p4lJ"
+      },
+      "artists": [
+        {
+          "name": "Angela Moss Poole",
+          "url": "https://open.spotify.com/artist/703jiLLQUIFP7fmC1UZtox"
+        },
+        {
+          "name": "Pastor Charles A.R.",
+          "url": "https://open.spotify.com/artist/6k6t8U8gfxooRFD6Vu6V0j"
+        },
+        {
+          "name": "Gia Wyre",
+          "url": "https://open.spotify.com/artist/7FmDSNZC7LqUFprT5hCuTt"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155604,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/2CwHuSuo3MeFy2TkvL4c6S"
+    },
+    {
+      "album": {
+        "name": "Testify",
         "url": "https://open.spotify.com/album/2q0V47HUyl2owPU4prhlpj"
       },
       "artists": [
@@ -10252,7 +10358,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 418709,
       "name": "The Sound - Live",
       "url": "https://open.spotify.com/track/3fmyZavgB6JWrgqv3POviV"

@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Better Lovers.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Darko US.
 
-828 songs - 2 day 4 hr 8 min
+834 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Blood and Teeth](https://open.spotify.com/track/763y47autx5wDMOwd9bMpZ) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death: An Anthology](https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd) | 6:45 | 2024-02-02 |  |
 | [Blood Blind](https://open.spotify.com/track/5zOv6iLz86br9r8aN8EyNr) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Blood Blind](https://open.spotify.com/album/0sy729QNw0BRIt62zXu9dj) | 4:34 | 2023-06-23 | 2024-02-03 |
 | [Blood Feast](https://open.spotify.com/track/5hZfFjT1jpsOGqlaPEEXFR) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Blood Feast](https://open.spotify.com/album/3AH1Rojety6iTDmI3XzOYs) | 4:16 | 2023-02-24 | 2024-02-03 |
+| [BLOOD HOST](https://open.spotify.com/track/4jnbz6aiphNLoT8W0nfkcR) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [BLOOD HOST](https://open.spotify.com/album/53BT7fEmTb8wmZfvVStfEV) | 5:37 | 2024-11-01 |  |
 | [Blood Soaked Death Dream](https://open.spotify.com/track/7uqhFyyXbE0j6OZzbgzajW) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Blood Soaked Death Dream](https://open.spotify.com/album/38LpPqOan6RdUbUwQcifXs) | 2:47 | 2024-05-31 |  |
 | [Bloodbath \(feat\. Chino Moreno\)](https://open.spotify.com/track/2IMHE3XJcsqTIbSGOIY6Jy) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 3:50 | 2022-10-28 | 2023-07-15 |
 | [BLOODHOUND](https://open.spotify.com/track/7jibT2RXLPJQpHgdoKARXY) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [BLOODHOUND](https://open.spotify.com/album/1Hkyxl3PVLdATfkp8q1drD) | 3:12 | 2024-06-28 |  |
@@ -125,6 +126,7 @@
 | [Charade \(feat\. Vincente Void & Hash Gordon\)](https://open.spotify.com/track/1DtT0SdnHV3rGR8qKESC8l) | [Omerta](https://open.spotify.com/artist/0OYajuHduapwq21Xh1WLwo), [Vincente Void](https://open.spotify.com/artist/7dG9i6mXD95KlPRLW5Mspl), [Hash Gordon](https://open.spotify.com/artist/60uraf0ie3HSrCD0W6o9Wk) | [Charade \(feat\. Vincente Void & Hash Gordon\)](https://open.spotify.com/album/3j3LJ6aa4oA1SXGJnN9rB0) | 5:07 | 2024-05-03 |  |
 | [Chewing The Scenery](https://open.spotify.com/track/5BsNWRk2n7MCzm1IeugikG) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Chewing The Scenery](https://open.spotify.com/album/3Mhb8bZlvkUh7QsofvZvkE) | 3:49 | 2023-08-25 | 2024-02-03 |
 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 | 2023-10-06 | 2024-02-03 |
+| [Choke](https://open.spotify.com/track/1h0YsYLA7gMlfnR51VDYg3) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [Angel In The Sand](https://open.spotify.com/album/6W5o0RyfAcFruntLVD3KVC) | 2:28 | 2024-11-01 |  |
 | [Christian Missile Crisis](https://open.spotify.com/track/7mvDc5Xwp1SMcOJUduRBA5) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Christian Missile Crisis](https://open.spotify.com/album/67DLHlnVU77iC8AszFPB5W) | 4:57 | 2022-09-30 | 2023-07-15 |
 | [Church Burns](https://open.spotify.com/track/5a6VEGwYR8xM6daWuhml9j) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Church Burns](https://open.spotify.com/album/6Ox5BbUgNycErk1kekWaMB) | 3:03 | 2022-01-21 | 2023-07-15 |
 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 | 2023-04-07 | 2024-02-03 |
@@ -170,6 +172,7 @@
 | [Death Before Designer \(feat\. SosMula\)](https://open.spotify.com/track/3hqDihPfqmf5tpybblro6a) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [Death Before Designer \(feat\. SosMula\)](https://open.spotify.com/album/19nFdELhwOhpFp3FwR7Sfp) | 2:02 | 2023-06-09 | 2024-02-03 |
 | [Death Cantation](https://open.spotify.com/track/3pAHBYxCvJ5GjkeTahTYgc) | [Yatra](https://open.spotify.com/artist/5siBVlARqSszzBborgWF7j) | [Death Cantation](https://open.spotify.com/album/7r1GY0QUqDh3Glxg59iqRD) | 3:56 | 2022-04-29 | 2023-07-15 |
 | [Death Is A Relief](https://open.spotify.com/track/3rKVRJE0yFl7Un8fMt4l28) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Is A Relief](https://open.spotify.com/album/6zWFEJ9oUQZRyqqLdEnvNt) | 5:53 | 2022-03-18 | 2023-07-15 |
+| [Death Is An Illusion](https://open.spotify.com/track/1ggOzSXW1G50jYL2FUuP7W) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [New Eyes](https://open.spotify.com/album/7cDXpqKhlvzKfGj2lpQJs4) | 3:30 | 2024-11-01 |  |
 | [Death Is The Beginning](https://open.spotify.com/track/6Z9I47gF0XIqgZpVZ7fakB) | [Somnuri](https://open.spotify.com/artist/0lTd1p9wnZHsZvZJgrgqvN) | [Death Is The Beginning](https://open.spotify.com/album/3Nv9xXoF8VcDnIEEN0d8Cf) | 5:07 | 2023-06-02 | 2024-02-03 |
 | [Death Ov Circumstance](https://open.spotify.com/track/4aMw1McEiSKcwVzW2qwt2c) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Death Ov Circumstance](https://open.spotify.com/album/6lXJ45JATRhRieaySjLApg) | 4:33 | 2022-12-02 | 2023-07-15 |
 | [Death Won't Stop Me](https://open.spotify.com/track/6KfuErlMswYM7E1vfgfPfu) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Death Won't Stop Me](https://open.spotify.com/album/4zpaNtcVAhRuRmOOs4G774) | 4:26 | 2023-03-24 | 2024-02-03 |
@@ -365,6 +368,7 @@
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 | 2023-07-15 |
 | [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-08-04 | 2024-02-03 |
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 | 2023-07-15 |
+| [It's All Over \(For You\)](https://open.spotify.com/track/33ybzOrdCkudB1fGloubQ8) | [Neon Nightmare](https://open.spotify.com/artist/0lMcJVE9KZzlfnomZIC7HF) | [Faded Dream](https://open.spotify.com/album/6Ab6OuwGKo4KazGhv7vmWR) | 5:38 | 2024-11-01 |  |
 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-08-25 | 2024-02-03 |
 | [Jawbreaker](https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Jawbreaker](https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd) | 2:09 | 2024-08-02 |  |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-13 | 2024-02-03 |
@@ -388,6 +392,7 @@
 | [Leech](https://open.spotify.com/track/21xcGKZuN8jF4rzio4LrdM) | [Street Power](https://open.spotify.com/artist/0MRYZGQXTt3HN6u34YtEYr), [Instigate](https://open.spotify.com/artist/0zgXtH4JPojjU14vp2B6sp) | [Threads of Hate](https://open.spotify.com/album/3dWQcNgpTi538c4gKpnJ9e) | 2:09 | 2023-09-01 | 2024-02-03 |
 | [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 | 2023-03-03 | 2024-02-03 |
 | [Liar](https://open.spotify.com/track/09j7RIpXYTfic5Uds4CHsa) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Liar](https://open.spotify.com/album/0TMn3YSFvsM1sVl5COdjVO) | 3:22 | 2022-07-29 | 2023-07-15 |
+| [Life Sentence](https://open.spotify.com/track/6qdNvTHQJe7PLjVxnqWZr7) | [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l) | [Life Sentence](https://open.spotify.com/album/3aZzHYlm07x71wGE4mjNKX) | 3:08 | 2024-11-01 |  |
 | [Life Unknown](https://open.spotify.com/track/0trsDMSa16iKVLvGuwoee2) | [Praise](https://open.spotify.com/artist/5pBjhwqwoCpxGm4igqvgCi) | [Life Unknown](https://open.spotify.com/album/2OHDTjpGe1QosiQiy7UVwe) | 3:37 | 2022-04-22 | 2023-07-15 |
 | [Lifeless On The Ground](https://open.spotify.com/track/0fM2G8froODHDkJR1wZlY3) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Not Through Blood](https://open.spotify.com/album/72qCyvqc1Spr8Vwx97NTTA) | 2:25 | 2023-09-08 | 2024-02-03 |
 | [Light The Shortening Fuse](https://open.spotify.com/track/4UFpR9JKj5XIZuwOu6pdro) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Light The Shortening Fuse](https://open.spotify.com/album/50UUnWSbhJ2KMdV7ukscIe) | 4:28 | 2022-03-04 | 2023-07-15 |
@@ -574,6 +579,7 @@
 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 | 2022-06-10 | 2023-07-15 |
 | [Save Yourself](https://open.spotify.com/track/5LRSgPo7BKrhIBYrX1mL8z) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:45 | 2024-03-29 |  |
 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 | 2022-01-07 | 2023-07-15 |
+| [Say It](https://open.spotify.com/track/4UCEwS1cNO5qvEJKTx8tJC) | [Strict](https://open.spotify.com/artist/06beC3T1RvJWUKZAMEMOxa) | [Say It](https://open.spotify.com/album/1ic6F5y9ph8qM4UIYkDq0d) | 2:12 | 2024-11-01 |  |
 | [Scorpion](https://open.spotify.com/track/2JxlxDssmAHyRigZik38Fy) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [Scorpion](https://open.spotify.com/album/1JxF9qHTv5atiG43b7xkYe) | 3:34 | 2023-06-30 | 2024-02-03 |
 | [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 | 2024-02-03 |
 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 | 2023-12-08 | 2024-02-03 |

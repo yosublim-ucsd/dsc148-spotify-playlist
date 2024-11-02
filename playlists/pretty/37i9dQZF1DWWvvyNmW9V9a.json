@@ -1,12 +1,12 @@
 {
   "description": "laufey with olivia and chappell?! this is my world series",
-  "num_followers": 2149054,
+  "num_followers": 2148862,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLqrAAAAAAjIORXp11SNy2htFJO141j",
+  "snapshot_id": "ZyRSQAAAAAC4ZtBK0lnYMq2DZM/Kb0gU",
   "tracks": [
     {
       "added_at": "2024-10-09 04:10:07",
@@ -107,6 +107,22 @@
       "duration_ms": 186346,
       "name": "THE DINER",
       "url": "https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "UNSAID",
+        "url": "https://open.spotify.com/album/6qymOSCWulOMM6D7LxuZtl"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 126748,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/6TgRJPRmu9l75M2bneEyyh"
     },
     {
       "added_at": "2024-10-25 04:31:07",

@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: The Wiggles
 
-612 songs - 1 day 2 hr 11 min
+614 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Be Colorful](https://open.spotify.com/track/0E0OI6WdGo32R59vaPXHNm) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Be Colorful](https://open.spotify.com/album/0ZKr57xgHCzNXZLmoaFtYW) | 1:24 | 2024-07-12 |  |
 | [Be the Light \(feat\. SaulPaul\)](https://open.spotify.com/track/5DKgL6ACLMjVfNgCpROmIU) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg), [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 3:33 | 2022-04-15 | 2023-10-21 |
 | [Be Yourself](https://open.spotify.com/track/5dezcmeHDqLPVGpQ4Kflcf) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:31 | 2022-04-15 | 2023-12-02 |
+| [Beach Song](https://open.spotify.com/track/6J9cJ7yvqoefgqfLfNN9hG) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Plim Plim Nursery Rhymes Vol\. 12](https://open.spotify.com/album/4GwWalF2tBiUe7jS7REqGv) | 2:12 | 2024-11-01 |  |
 | [Beautiful Things](https://open.spotify.com/track/4UwaYZvF4EhJ4y2IgKbdX2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Beautiful Things](https://open.spotify.com/album/1DIU4TxxG760gMCxDgOQgu) | 3:00 | 2024-05-17 |  |
 | [Beautiful Things](https://open.spotify.com/track/7hSDlHtzSoCbiQfAWDAMdu) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Beautiful Things](https://open.spotify.com/album/6aQjKAkvlCs3Xba4eKQbSb) | 3:03 | 2024-06-07 |  |
 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 | 2022-04-15 | 2023-10-21 |
@@ -348,6 +349,7 @@
 | [Make a Funny Face](https://open.spotify.com/track/63Q5CyN54WQ6ZSyCQTAoM1) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Make a Funny Face](https://open.spotify.com/album/3jiIk4C1Nt70CuLoVFahg2) | 2:21 | 2024-03-29 | 2024-08-24 |
 | [Make New Friends](https://open.spotify.com/track/023TXy52tzrzfR1JRXx4PL) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Carlitta Durand](https://open.spotify.com/artist/16VW2tIJ6vyhe06xfI3T7t) | [D.A.D](https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N) | 4:43 | 2022-04-15 | 2024-01-05 |
 | [Making Friends](https://open.spotify.com/track/49tp9gV7tPuiwe57cJR1AJ) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [The Barbie Band](https://open.spotify.com/album/36SFNX3CRkshptX6KIxpHN) | 2:31 | 2024-05-31 |  |
+| [Making Friends \- Kids Songs](https://open.spotify.com/track/4bysWFGZTzA8latnTUt2qT) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Making Friends \- Kids Songs](https://open.spotify.com/album/12GppSnyahAiuIVe3AHb8w) | 2:19 | 2024-11-01 |  |
 | [Making Waves](https://open.spotify.com/track/5APTTD2bk28pIH6JmWkVYj) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Ariel](https://open.spotify.com/album/2FUUYtMQDnYIndqOQcsRIs) | 1:56 | 2024-06-28 |  |
 | [March Together](https://open.spotify.com/track/4xvXnmxM594ZJIlBZjSVAn) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Shine & The Moonbeams](https://open.spotify.com/artist/3113UIzVXpx1FROG4LCgDo) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 2:39 | 2022-04-15 | 2023-10-21 |
 | [Marshmallow](https://open.spotify.com/track/6GM2N6NnjeRwBq3ElKgkvF) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggle and Learn: 100 Educational Songs for Children](https://open.spotify.com/album/3OF13nG2NafIlsVk90770I) | 1:59 | 2024-08-16 |  |

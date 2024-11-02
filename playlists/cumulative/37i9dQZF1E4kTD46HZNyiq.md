@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LAVE, The Ivy, The Wild Wind and more
+> With LAVE, The Wild Wind, The Ivy and more
 
 1,378 songs - 3 day 16 hr 20 min
 

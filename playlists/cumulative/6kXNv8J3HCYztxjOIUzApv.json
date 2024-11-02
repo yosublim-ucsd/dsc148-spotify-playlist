@@ -39,6 +39,40 @@
     },
     {
       "album": {
+        "name": "(Make My) Country Rock [Harder]",
+        "url": "https://open.spotify.com/album/1p4OTnKOPXFesY2Y5SOG0E"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        },
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        },
+        {
+          "name": "Mick Mars",
+          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
+        },
+        {
+          "name": "Sully Erna",
+          "url": "https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191746,
+      "name": "(Make My) Country Rock - Harder",
+      "url": "https://open.spotify.com/track/2VLXWFJpLcQvAXf4xLgilI"
+    },
+    {
+      "album": {
         "name": "(This Is Our) House",
         "url": "https://open.spotify.com/album/6XmPgfXIwRuJHHs496oiMY"
       },

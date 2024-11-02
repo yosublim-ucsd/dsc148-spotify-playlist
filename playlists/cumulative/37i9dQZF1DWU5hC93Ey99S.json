@@ -567,7 +567,7 @@
     },
     {
       "album": {
-        "name": "All Night On My Own",
+        "name": "all night on my own",
         "url": "https://open.spotify.com/album/6xbEGQEczwqCG7g9sqvq50"
       },
       "artists": [
@@ -580,7 +580,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 132328,
-      "name": "All Night On My Own",
+      "name": "all night on my own",
       "url": "https://open.spotify.com/track/4hd01RIHFRlBLh0sfOyjT2"
     },
     {
@@ -3700,6 +3700,32 @@
       "duration_ms": 140952,
       "name": "fever",
       "url": "https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb"
+    },
+    {
+      "album": {
+        "name": "Finally (Remixes)",
+        "url": "https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239576,
+      "name": "Finally (with Alicia Keys) - Killen. Remix",
+      "url": "https://open.spotify.com/track/5E93mFDjFxE2R2pHZxBe3t"
     },
     {
       "album": {

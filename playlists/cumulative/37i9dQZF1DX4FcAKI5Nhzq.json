@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: PURPLE KISS",
+  "description": "Future K-Pop hits! Cover: BABYMONSTER",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 170533,
       "name": "17",
       "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
@@ -5543,6 +5543,24 @@
     },
     {
       "album": {
+        "name": "BABYMONSTER 1st FULL ALBUM [DRIP]",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+    },
+    {
+      "album": {
         "name": "MY",
         "url": "https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl"
       },
@@ -10124,7 +10142,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 192525,
       "name": "KILL ME",
       "url": "https://open.spotify.com/track/4TBLxFV7UNywrpfVBzeSFb"
@@ -19274,6 +19292,24 @@
       "duration_ms": 214355,
       "name": "Time Spent Walking Through Memories (Feat. 10CM)",
       "url": "https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh"
+    },
+    {
+      "album": {
+        "name": "Kep1er The 6th Mini Album <TIPI-TAP>",
+        "url": "https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172670,
+      "name": "TIPI-TAP",
+      "url": "https://open.spotify.com/track/5ufLXgP0f4GTghZO05XMpy"
     },
     {
       "album": {

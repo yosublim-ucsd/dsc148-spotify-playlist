@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 180804,
       "name": "GABANNA",
       "url": "https://open.spotify.com/track/1bsmgqxtkjJXYqKNxzbTe3"
@@ -1846,6 +1846,24 @@
       "duration_ms": 161102,
       "name": "Hadharani",
       "url": "https://open.spotify.com/track/4itiO6J4bjyHFiQOzkYtSB"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/6dHjQJ64xxfYEodavxuFfy"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288653,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/0CJHsFBmL3ectL4N8kVk6u"
     },
     {
       "album": {

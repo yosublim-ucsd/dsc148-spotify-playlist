@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: גבריאל גיא
 
-122 songs - 7 hr 23 min
+123 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL) | 3:46 | 2024-06-27 | 2024-10-29 |
 | [הדבר האמיתי](https://open.spotify.com/track/424f6LZLl4MpDRBFhCJVJw) | [Meirav Hellinger](https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy), [דניאל ברזילאי](https://open.spotify.com/artist/5iklnNC2aChGQXXhheEyzF) | [הדבר האמיתי](https://open.spotify.com/album/6pfsgNjqvF5SvLbpQv9xil) | 3:27 | 2024-08-22 | 2024-09-13 |
 | [הדרך היא בית](https://open.spotify.com/track/7KgsAanEew4U8CobJwXj9c) | [Sun Tailor](https://open.spotify.com/artist/66OcrfmtH2NhgKsGdkkbAi) | [הדרך היא בית](https://open.spotify.com/album/6LDnRZK48a7sDwoV9R7wCc) | 3:35 | 2024-07-25 | 2024-08-09 |
+| [החומר הכחול](https://open.spotify.com/track/7dMyM3DhvQwrRnZ48C9iQF) | [Kochevet Al](https://open.spotify.com/artist/0EoyHTFM5aZdVoeP0O4PjC) | [החומר הכחול](https://open.spotify.com/album/3EmbyxWkGuC9tcTRTGGJzL) | 3:23 | 2024-10-17 |  |
 | [החיים שלי פיגוע יפיפה](https://open.spotify.com/track/6mJzamOGdc5LmVNpCRuQ5X) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [החיים שלי פיגוע יפיפה](https://open.spotify.com/album/0QXun3wB20gm0vOZ0KfGWZ) | 4:49 | 2024-08-15 | 2024-09-13 |
 | [היא תמשיך גם בלעדיך](https://open.spotify.com/track/0GRj6FvKdaMTNqxStUGHHM) | [Alon Oleartchik](https://open.spotify.com/artist/7oXPj4DkjAxME8ExDAfwJP) | [מתקרבים הכוכבים](https://open.spotify.com/album/0yYCbp4oZSPFWsqPA3dYZ9) | 3:03 | 2024-07-25 | 2024-08-23 |
 | [היא תמשיך גם בלעדיך](https://open.spotify.com/track/63MZV8fBPGsf7ub7ZadhpX) | [Alon Oleartchik](https://open.spotify.com/artist/7oXPj4DkjAxME8ExDAfwJP) | [היא תמשיך גם בלעדיך](https://open.spotify.com/album/4Cwr2wOmmGgmcqI74ZBe0g) | 3:03 | 2024-07-11 | 2024-07-27 |
@@ -105,7 +106,7 @@
 | [מראה שבורה \- לייב](https://open.spotify.com/track/6T1jIQSlwvQ7L3uHIX2PgJ) | [איתי דלומי](https://open.spotify.com/artist/0aCKA0bYDFN7BIt7v2YJrB), [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h), [Eran Weitz](https://open.spotify.com/artist/3D99a797NmPrmX4s9WA750) | [מראה שבורה \(לייב\)](https://open.spotify.com/album/6NupFAXRVQ7qw2VrJwf1AE) | 3:46 | 2024-06-27 | 2024-07-12 |
 | [משהו בי חי](https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [משהו בי חי](https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH) | 2:57 | 2024-08-08 |  |
 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 | 2024-06-27 |  |
-| [נהרות ומפלים](https://open.spotify.com/track/3gpfzYhbbxaHlgbDQsPCON) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [נהרות ומפלים](https://open.spotify.com/album/4TKOCUq3Ya9j4mI2eQe0NG) | 3:38 | 2024-06-27 |  |
+| [נהרות ומפלים](https://open.spotify.com/track/3gpfzYhbbxaHlgbDQsPCON) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [נהרות ומפלים](https://open.spotify.com/album/4TKOCUq3Ya9j4mI2eQe0NG) | 3:38 | 2024-06-27 | 2024-11-02 |
 | [נורי](https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק א'](https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC) | 3:42 | 2024-06-27 |  |
 | [נכנע לך](https://open.spotify.com/track/1HHfRiRLtMmRedkKSnaneH) | [The White Screen](https://open.spotify.com/artist/1CpLH8A3xibzzmyKZ1VtH7), [Shekel](https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM) | [נכנע לך](https://open.spotify.com/album/7aR3BakZBsbkgqGpNtqp5o) | 4:25 | 2024-06-27 | 2024-07-12 |
 | [נשמה יקרה](https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [נשמה יקרה](https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk) | 3:26 | 2024-09-12 |  |

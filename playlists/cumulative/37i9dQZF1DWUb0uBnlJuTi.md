@@ -2,9 +2,9 @@
 
 ### [Jazz\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWUb0uBnlJuTi)
 
-> Jazz\. But funky\. Cover: Sly5thAve
+> Jazz\. But funky\. Cover: Skinny Hightower
 
-431 songs - 1 day 8 hr 51 min
+432 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Oozing](https://open.spotify.com/track/6xKoMynnenKx4iYNYWohj9) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Uzi Ramirez](https://open.spotify.com/artist/3lTo1RLFeLDQeytnn94IUm), [Ofri Nehemya](https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX) | [Oozing](https://open.spotify.com/album/0JV9K93YG2HRIyZNatCCnf) | 4:40 | 2022-11-11 | 2023-04-30 |
 | [Oozing](https://open.spotify.com/track/72FdNmSimeEJrUKE9l9iUH) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Uzi Ramirez](https://open.spotify.com/artist/3lTo1RLFeLDQeytnn94IUm), [Ofri Nehemya](https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX) | [Oozing](https://open.spotify.com/album/1qYiorYpWx4macFmQ2bj0f) | 4:40 | 2022-11-18 | 2024-03-09 |
 | [Open Sesame](https://open.spotify.com/track/4lvCJIy2hOB4hwkHm06xsU) | [Beggar & Co.](https://open.spotify.com/artist/0SxsCZtZBwcd6hzwXAQLgl), [The Jazz Funk Collective](https://open.spotify.com/artist/3MbFOvsNcExYWIIwuQzjDl) | [Open Sesame](https://open.spotify.com/album/1B6rnmCG6ewSB6qWEOqNzM) | 5:35 | 2020-10-09 | 2024-06-15 |
+| [ORGANICS](https://open.spotify.com/track/0PAF2exzV27bNk6YPikLt8) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [THE MAN](https://open.spotify.com/album/7LvM2OjHj4lqjkWjUOGN3t) | 3:25 | 2024-11-01 |  |
 | [Other Way Pt\. III](https://open.spotify.com/track/0ybJLX9Kg0NRKmTGf66KOF) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Other Way Pt\. III](https://open.spotify.com/album/0MAIK4mHFehGM9U3tri0kn) | 4:02 | 2021-07-16 | 2022-07-29 |
 | [Pace](https://open.spotify.com/track/1RdLaq5tDG4k22fGRr9a6L) | [Ferge X Fisherman](https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV), [Victoryaz](https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk) | [Pace](https://open.spotify.com/album/3lD5NKDqVxqs2zedgYt9mS) | 3:17 | 2021-11-26 |  |
 | [Palm Grease](https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Thrust](https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k) | 10:36 | 2020-10-09 | 2023-05-13 |
@@ -355,7 +356,7 @@
 | [That Bop](https://open.spotify.com/track/13l9DL9EA5hResA7mVmd7M) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [Jazz Hands](https://open.spotify.com/album/3KjGDmuYOd0EO8kSSQ8Kwh) | 4:43 | 2023-09-15 |  |
 | [That Funky Cat](https://open.spotify.com/track/2TgatpWXEFVjh85YDIdjwT) | [Paul Downing](https://open.spotify.com/artist/1d0NGjwQHbYRjnaCafcYMa), [Mark Allaway](https://open.spotify.com/artist/0wEFD9x6OXt64oSnqwf4mc) | [Instrumental Explorations](https://open.spotify.com/album/71sj1sfpdjVpQMVo64acAr) | 3:36 | 2022-07-29 | 2024-02-24 |
 | [That Thang](https://open.spotify.com/track/602QHytqd7LKE2xwKG1KWI) | [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [That Thang](https://open.spotify.com/album/0mvRX9cftJgdQEFDtG8qcM) | 3:11 | 2024-02-23 |  |
-| [THAT'S ALRIGHT](https://open.spotify.com/track/3LzvaRYXRH2ayVehdVrUDZ) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [THAT'S ALRIGHT](https://open.spotify.com/album/1lePRTzq5rKtJf6Mfoog16) | 5:31 | 2024-09-06 |  |
+| [THAT'S ALRIGHT](https://open.spotify.com/track/3LzvaRYXRH2ayVehdVrUDZ) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [THAT'S ALRIGHT](https://open.spotify.com/album/1lePRTzq5rKtJf6Mfoog16) | 5:31 | 2024-09-06 | 2024-11-02 |
 | [The Chant](https://open.spotify.com/track/0mFTShnrAE9pSdSfWygBXf) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Irvin Pierce](https://open.spotify.com/artist/14NF1jyQ0dY6HLrb9r7hSi), [Darryl Jones](https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [The Chant](https://open.spotify.com/album/6pdfgUTHW2zhJHNEPjEVtj) | 4:26 | 2022-01-07 | 2022-07-25 |
 | [The Chant](https://open.spotify.com/track/1Fs2kqyfm1wnFE83eIAqF7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Irvin Pierce](https://open.spotify.com/artist/14NF1jyQ0dY6HLrb9r7hSi), [Darryl Jones](https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [The Chicago Experiment](https://open.spotify.com/album/5Cd510D2p3u7ZKjIuZP8ZA) | 4:26 | 2022-01-07 | 2023-09-16 |
 | [The Check In](https://open.spotify.com/track/6TeBNoedebZvrVU3qQ8vho) | [Jost Nickel](https://open.spotify.com/artist/79UXe6ws5EuoiJFj7jdUYx) | [The Check In](https://open.spotify.com/album/58SL6A7W0FWf5hhIWNklEV) | 5:40 | 2021-04-23 |  |

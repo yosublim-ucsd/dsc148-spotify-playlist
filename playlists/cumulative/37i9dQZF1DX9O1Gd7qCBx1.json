@@ -1947,6 +1947,32 @@
     },
     {
       "album": {
+        "name": "Monarcas las mariposas",
+        "url": "https://open.spotify.com/album/4WoQTaFnjAO1XnTsWiuynG"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        },
+        {
+          "name": "Sara Curruchich",
+          "url": "https://open.spotify.com/artist/2WvH8EDy9SoE7BbcSQCIOJ"
+        },
+        {
+          "name": "Mimi Fox",
+          "url": "https://open.spotify.com/artist/6kLgsx8bXpP3Ry9PSbnz7a"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Monarcas las mariposas",
+      "url": "https://open.spotify.com/track/3WSbWkNV3Jjtuu5xbh6enm"
+    },
+    {
+      "album": {
         "name": "Rosa Mexicano",
         "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
       },
@@ -2986,7 +3012,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-02",
       "duration_ms": 217053,
       "name": "Xochipitzahua",
       "url": "https://open.spotify.com/track/0r82j8iwYUY9XMA2YX5S9s"

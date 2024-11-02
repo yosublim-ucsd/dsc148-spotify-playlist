@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Flor de Rap & Ana Tijoux.
 
-216 songs - 12 hr 22 min
+217 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Respect](https://open.spotify.com/track/32CqjOSjvS2yP2BCs0xLYb) | [Omega El CTM](https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP), [Jbeat](https://open.spotify.com/artist/2uEEbhhd2BWUo2ou8eruk5), [Dj Akrylik](https://open.spotify.com/artist/4DpQwUtMbnw1jVj8Luu32p) | [Respect](https://open.spotify.com/album/2UDyYc2Z8PQjWasQzbr5Qi) | 2:29 | 2022-01-06 | 2022-02-19 |
 | [Rimas Bravas](https://open.spotify.com/track/3AY1xH0YVYggPz4AKajxvE) | [Adickta Sinfonía](https://open.spotify.com/artist/3McbjZPGQECT5OMujemGpi) | [Rimas Bravas](https://open.spotify.com/album/2aXT7tp2VhvKzY8JLFmIom) | 4:22 | 2022-02-11 |  |
 | [Román](https://open.spotify.com/track/2mG2scTTF6D6EFRobc6o2q) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Román](https://open.spotify.com/album/5T3151N9bRLHwYOzLw6sN5) | 2:42 | 2024-08-23 |  |
+| [Roncan](https://open.spotify.com/track/0gjtd0kOGZ2xq6NDXHM8wg) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Roncan](https://open.spotify.com/album/1YnIiEP2vFj5Eq8sTVg8jy) | 3:58 | 2024-11-01 |  |
 | [Salsa Pa Mojar](https://open.spotify.com/track/0geGIDlCTNMVI5N7r6fijq) | [Uf Dog](https://open.spotify.com/artist/1iVcZZlVsqI9wdrGL31aWs), [Jay Saez](https://open.spotify.com/artist/4rxh3Sd5DrduNCOerUzHeu), [Joakinmolto](https://open.spotify.com/artist/1sWPh2x4MH7CI23FAva5Vk), [Skinnykitar](https://open.spotify.com/artist/51fg42p51MJJSHVPw1OZZx) | [Salsa Pa Mojar](https://open.spotify.com/album/2xky3eAe6BF7xkNOnoN5xQ) | 3:41 | 2022-01-06 | 2022-07-29 |
 | [Salsa Pa Mojar](https://open.spotify.com/track/4CZhVmdMZCAiIVL3VluXbe) | [Uf Dog](https://open.spotify.com/artist/1iVcZZlVsqI9wdrGL31aWs), [Jay Saez](https://open.spotify.com/artist/4rxh3Sd5DrduNCOerUzHeu), [Joakinmolto](https://open.spotify.com/artist/1sWPh2x4MH7CI23FAva5Vk), [Skinnykitar](https://open.spotify.com/artist/51fg42p51MJJSHVPw1OZZx) | [Salsa Pa Mojar](https://open.spotify.com/album/5R8jyYKP6cF947niAFlh1Z) | 3:41 | 2022-07-15 | 2023-02-04 |
 | [Saquen Bocina](https://open.spotify.com/track/3BbCLRLSUgrbZyxoqZvqo5) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Brayan Booz](https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD) | [Saquen Bocina](https://open.spotify.com/album/2gezQguJVzzvOMxIGhGZaZ) | 3:15 | 2022-01-06 |  |

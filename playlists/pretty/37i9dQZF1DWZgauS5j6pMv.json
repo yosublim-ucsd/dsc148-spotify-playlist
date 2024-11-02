@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 334161,
+  "num_followers": 334225,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAABeITi1dRENYFBwaF7A+R0W",
+  "snapshot_id": "ZyRSQAAAAABT14iwOQgghSQpigJE9Dtk",
   "tracks": [
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Tuxedo IV",
+        "url": "https://open.spotify.com/album/5OjssA9yeAUq2llLdZcVDG"
+      },
+      "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "This Is 4 You",
+      "url": "https://open.spotify.com/track/7wEvo5UWrMLBUSnVEfGq4T"
+    },
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
@@ -111,22 +127,6 @@
       "duration_ms": 196488,
       "name": "Something",
       "url": "https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Cake",
-        "url": "https://open.spotify.com/album/7DmA6EiEUYmVKZevOulCzI"
-      },
-      "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/16Y1bKsUo9Dcy1uzwStVjy"
     },
     {
       "added_at": "2024-08-30 04:00:00",

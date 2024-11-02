@@ -2,9 +2,9 @@
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
+> A collection of the best recent prog rock track\. Cover: VOLA
 
-216 songs - 19 hr 9 min
+219 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Awakening](https://open.spotify.com/track/1SsCjS2hxhTY0ebE5XAKYu) | [Airbag](https://open.spotify.com/artist/0gTqi1zdqD9s6islG2wLKC) | [The Century of the Self](https://open.spotify.com/album/2fm83K2Z3EwR9dnPy1iiTw) | 6:44 | 2024-09-19 |  |
 | [Becoming Human](https://open.spotify.com/track/1l4dlmvEmLKgEgpezRrgxH) | [Simon Collins](https://open.spotify.com/artist/7GXoTDCcMmarUIZtrdrTa9) | [Becoming Human](https://open.spotify.com/album/0oLJEU3ZuMqdzp09VdPdoP) | 4:17 | 2022-05-20 | 2024-09-07 |
 | [Behind the Veil of a Smile](https://open.spotify.com/track/38j95SnduEqEJ12BqISkSk) | [Galahad](https://open.spotify.com/artist/2IYfNXFeQLyNhYaU1I0ZiI) | [The Long Goodbye](https://open.spotify.com/album/04qrGX5HIteDnpUN2JaISK) | 6:19 | 2024-09-06 |  |
-| [Blast of Silence](https://open.spotify.com/track/2EhBaUmjUCkULpO8aDBdSA) | [O.R.k.](https://open.spotify.com/artist/5rkJj1VYae5gFozDas6Dsg) | [Blast Of Silence](https://open.spotify.com/album/6AVzZ6OQndJasW4JCZfzrC) | 4:15 | 2024-10-18 |  |
+| [Blast of Silence](https://open.spotify.com/track/2EhBaUmjUCkULpO8aDBdSA) | [O.R.k.](https://open.spotify.com/artist/5rkJj1VYae5gFozDas6Dsg) | [Blast Of Silence](https://open.spotify.com/album/6AVzZ6OQndJasW4JCZfzrC) | 4:15 | 2024-10-18 | 2024-11-02 |
 | [Blind Side Sonny](https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Blind Side Sonny](https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ) | 2:22 | 2024-10-04 | 2024-10-19 |
 | [Blood Moon](https://open.spotify.com/track/2Hf617oOAOOweOpLdsnGmr) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Blood Moon](https://open.spotify.com/album/7CgshNfNl5h5CNYR9RVPKi) | 7:50 | 2022-05-20 | 2024-09-09 |
 | [Blood Moon Night](https://open.spotify.com/track/2KHMoCEEB4ILFrjIufKKMK) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/3598rImSp7s7aaOkQZFGme) | 11:04 | 2022-11-17 | 2024-04-19 |
@@ -133,6 +133,7 @@
 | [One for Sorrow](https://open.spotify.com/track/0K8cizxiEav4hLMxBThTt4) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [One for Sorrow](https://open.spotify.com/album/0aGFhzgwXwISvmeYDk7PDj) | 6:34 | 2024-09-06 | 2024-10-12 |
 | [Out in the Open, Pt\. 1 \- Overture](https://open.spotify.com/track/0vCKXnx3uideNj9LsOf1um) | [Beardfish](https://open.spotify.com/artist/5g8zU3hIMirIT8gwhV6Hlz) | [Out in the Open, Pt\. 1 \- Overture](https://open.spotify.com/album/6EyNrb1tgiCGJQUnV2fuPB) | 2:23 | 2024-10-25 |  |
 | [Paris Stadium \- Live](https://open.spotify.com/track/5I9EN8ouxkisB1sKdAm9pu) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Paris Stadium](https://open.spotify.com/album/1RnVbufi8VU1gGAiD81dT7) | 6:27 | 2024-10-18 |  |
+| [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc) | 5:16 | 2024-11-01 |  |
 | [Phototroph](https://open.spotify.com/track/3VenV3gVJnX9EKPXKrl4Lh) | [Moon Tooth](https://open.spotify.com/artist/7ssGZO3qDsbwCaBOBcQ4aA) | [Phototroph](https://open.spotify.com/album/2qfghxH803q4OFSszIDEt3) | 4:04 | 2022-05-20 | 2024-09-07 |
 | [Picture Perfect](https://open.spotify.com/track/7ftAV0BluUCWNRAP8o9um9) | [Coliah](https://open.spotify.com/artist/0IuJmtLkQJDC3Q4NjqDQqN) | [Picture Perfect](https://open.spotify.com/album/0F4XuURxfUG5yUwtdjuewY) | 4:15 | 2022-05-20 |  |
 | [Pleasant Valley/Milner Field \(with Cory Wells\)](https://open.spotify.com/track/3UyLM2TScJQTGAF8VvfN73) | [Secret Gardens](https://open.spotify.com/artist/0ZJoU0Z8MIukDaRiFwMZcp), [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Impermanent Amber](https://open.spotify.com/album/2i7khwqLPmgXYl9ByCyiEE) | 4:26 | 2024-10-25 |  |
@@ -173,7 +174,7 @@
 | [Space Collapse](https://open.spotify.com/track/6iXuXa7U8dGCFNO3M89E48) | [Exxasens](https://open.spotify.com/artist/7935eVYpj7jQM3mRJ3kGeX) | [Space Collapse](https://open.spotify.com/album/76D3gPc6jEvoA4dHv24dip) | 4:19 | 2024-09-13 | 2024-10-19 |
 | [Spectre At The Feast](https://open.spotify.com/track/6kxmj5XxH1AJV1NjBERhg9) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/0PdQurxGKXWlIlTseFO0ZF) | 4:18 | 2022-11-17 | 2024-04-19 |
 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 | 2022-05-20 | 2024-09-09 |
-| [Steamhappy](https://open.spotify.com/track/50VAiuDXEeqgGnA244Cxpw) | [Varra](https://open.spotify.com/artist/5ftlDLqup1wvAk1VTPIC6R) | [Steamhappy](https://open.spotify.com/album/0dsKUDUILPsRzRijsst8Oo) | 1:30 | 2024-10-11 |  |
+| [Steamhappy](https://open.spotify.com/track/50VAiuDXEeqgGnA244Cxpw) | [Varra](https://open.spotify.com/artist/5ftlDLqup1wvAk1VTPIC6R) | [Steamhappy](https://open.spotify.com/album/0dsKUDUILPsRzRijsst8Oo) | 1:30 | 2024-10-11 | 2024-11-02 |
 | [Still Believing in Dreams](https://open.spotify.com/track/2KzJaCPKiRAt4iy1JPhWo4) | [Marco Monteverde](https://open.spotify.com/artist/2QRn3v6CBwWq5R2P9oH3zl), [The NC Project](https://open.spotify.com/artist/3jw8gQ2YShBbTsPLfu7ar4) | [One of the Near Futures of the Conspiracy](https://open.spotify.com/album/23EcpSrrLymiurL2i1EDJo) | 3:16 | 2024-10-11 |  |
 | [Street Midnight Vibe](https://open.spotify.com/track/7HJol5wD13TW4okLuG4OBB) | [Felix Martin](https://open.spotify.com/artist/3uDBxcooIKOzH5ltdpGb4h), [I Built the Sky](https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN) | [Street Midnight Vibe](https://open.spotify.com/album/4I6OOYFlNUroBb3rAZxaPG) | 3:29 | 2024-10-11 |  |
 | [Suffering](https://open.spotify.com/track/3awtlr6uIsrUvZr1SCeQN0) | [pg.lost](https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS) | [Suffering](https://open.spotify.com/album/2N3vxBj5sxogFtGTUU5BIG) | 5:51 | 2022-05-20 |  |
@@ -194,6 +195,7 @@
 | [The Heart's Whisper](https://open.spotify.com/track/0gBLuIMjh4NGICdhq23XKc) | [Our Oceans](https://open.spotify.com/artist/4AEpHs6Dphr48rEfYytk07) | [The Heart's Whisper](https://open.spotify.com/album/5TAUBW8rBrvuma11VCDdQh) | 5:29 | 2022-05-20 | 2024-09-09 |
 | [The Heart's Whisper](https://open.spotify.com/track/2zoufCsixCSZ7G9uA0V03Y) | [Our Oceans](https://open.spotify.com/artist/4AEpHs6Dphr48rEfYytk07) | [While Time Disappears](https://open.spotify.com/album/0n3CI3qSwoRyKcKM2ADRwu) | 5:29 | 2022-05-20 | 2024-04-19 |
 | [The Monster Roars](https://open.spotify.com/track/32xyRA1ED50D5C42SOVrXu) | [Magnum](https://open.spotify.com/artist/3Nu9hoMBT4SkDcaNvmK4G1) | [The Monster Roars](https://open.spotify.com/album/286a0luh0FDCtNoPdQh57A) | 4:01 | 2022-05-20 | 2024-09-13 |
+| [The Old Peace \- 2024 Remaster](https://open.spotify.com/track/4W8KJ5AfVf5O4VIlOwbgTG) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0), [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [The Old Peace \(2024 Remaster\)](https://open.spotify.com/album/61pU9e4BXyseqfdCaAbrpd) | 5:54 | 2024-11-01 |  |
 | [The Piper's Call](https://open.spotify.com/track/4gS6q6RhJfM2QBr8g1U8Mu) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Luck and Strange](https://open.spotify.com/album/5ds8DFWVozMIxRP3qr5Vii) | 5:15 | 2024-10-04 |  |
 | [The Pursuit](https://open.spotify.com/track/2VMVBdS8oZ4BzAxTABWdE9) | [Carlotta Valdes](https://open.spotify.com/artist/2u7iH1kPQUPFS4WaNcUMu6) | [The Pursuit](https://open.spotify.com/album/1wPYB7hjyCQjbrYcTqzLvv) | 4:57 | 2022-05-20 |  |
 | [The Siren](https://open.spotify.com/track/4EYrwXmCcnCw9bRuFrK21W) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [The Siren](https://open.spotify.com/album/2yR9vhxFCXePR2qrQhEn0B) | 7:19 | 2022-05-20 | 2024-09-28 |
@@ -216,6 +218,7 @@
 | [Walking Corpse Syndrome](https://open.spotify.com/track/45QkPnwPmfAkvvOgljo0tc) | [Oreophilum](https://open.spotify.com/artist/4gWdc2HvXKctawUF70V1AQ), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [Walking Corpse Syndrome](https://open.spotify.com/album/2hJrjgl8UBCU4FsqmnOnU8) | 3:14 | 2024-10-04 | 2024-10-19 |
 | [Wanderlust](https://open.spotify.com/track/7q9dOX2Jm8EKVTJ8jGvOY8) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [Wanderlust](https://open.spotify.com/album/01LxuZpEF7GvsfAytHRbxt) | 4:23 | 2024-10-25 |  |
 | [We Who Lament](https://open.spotify.com/track/1QOh6wDKZqUXISc3UKLtEP) | [Earthside](https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg), [Keturah](https://open.spotify.com/artist/7rGrW6Gs43zOpEmPAFl3jp) | [Pattern Of Rebirth](https://open.spotify.com/album/74lRZTMzPU5XHk6CNEyGF9) | 8:44 | 2024-09-06 | 2024-10-12 |
+| [We Will Not Disband](https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Friend Of A Phantom](https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX) | 4:25 | 2024-11-01 |  |
 | [Whalefall](https://open.spotify.com/track/2mD2qLbEmcMG6wux05vVHT) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF), [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Against the Fall of Night](https://open.spotify.com/album/1dixxA709bADWmK1rxnvug) | 5:46 | 2024-09-27 |  |
 | [Worlds Beyond \- English version](https://open.spotify.com/track/5MIpqy1hikpfckODOn1E9y) | [Premiata Forneria Marconi](https://open.spotify.com/artist/1MD5pgVzlusqGyuSTcTxvu) | [Worlds Beyond \(English version\)](https://open.spotify.com/album/4zdr9AN102ytgCRNv9umnb) | 3:17 | 2022-05-20 |  |
 | [YOU CAN'T RUN AWAY](https://open.spotify.com/track/34yWYCjZzUAhRy6DKDlYWn) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [YOU CAN'T RUN AWAY](https://open.spotify.com/album/6dtR0STntbvuJx4ytx6gZP) | 4:09 | 2022-05-20 | 2024-10-26 |
@@ -223,6 +226,6 @@
 | [Zeus in Chains](https://open.spotify.com/track/0uWkdIaPDYuoKE6he7f6J0) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Zeus In Chains](https://open.spotify.com/album/0g71E3gzdQsWuO7wT3Z2dt) | 4:38 | 2022-05-20 | 2024-09-28 |
 | [Zeus in Chains](https://open.spotify.com/track/65eO1v5FQKMXWJMD4BLti5) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Inviolate](https://open.spotify.com/album/084PBfKRx4oXa6xQyPAold) | 4:38 | 2022-11-17 | 2024-04-19 |
 | [§3](https://open.spotify.com/track/72U6mVliG329C2zGWxDNte) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§3](https://open.spotify.com/album/2iuWDE716ZKi7EB6cRpTGt) | 5:10 | 2024-09-08 |  |
-| [蘇醒 Frailty](https://open.spotify.com/track/1WqezPw5PiMu0x2yOPCx5e) | [OU](https://open.spotify.com/artist/3jErOJR4avnhfZuyHogWRb) | [蘇醒 II: Frailty](https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH) | 5:08 | 2024-10-18 |  |
+| [蘇醒 Frailty](https://open.spotify.com/track/1WqezPw5PiMu0x2yOPCx5e) | [OU](https://open.spotify.com/artist/3jErOJR4avnhfZuyHogWRb) | [蘇醒 II: Frailty](https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH) | 5:08 | 2024-10-18 | 2024-11-02 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.
