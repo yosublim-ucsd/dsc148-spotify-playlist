@@ -1,6 +1,6 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 45829,
+  "num_followers": 45936,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Sincere",
-        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Heatstroke",
-      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -495,22 +495,18 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Dirty (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 173361,
-      "name": "Dirty (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -531,22 +527,6 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
         "name": "Somebody to Someone (I Just Wanna Fall in Love)",
         "url": "https://open.spotify.com/album/3azyEFtI48wqFlyWHG2Oxe"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 157683,
       "name": "Somebody to Someone (I Just Wanna Fall in Love)",
       "url": "https://open.spotify.com/track/1EsQXJmZYsrQJoCam6StOW"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
+        "name": "Dirty (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 173361,
+      "name": "Dirty (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Unaired",
-        "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
+        "name": "Life 2",
+        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 237213,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
+      "duration_ms": 203157,
+      "name": "Life 2",
+      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Life 2",
-        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
+        "name": "Unaired",
+        "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
       },
       "artists": [
         {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 203157,
-      "name": "Life 2",
-      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
+      "duration_ms": 237213,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "What Do You Believe In?",
-        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 190474,
-      "name": "What Do You Believe In?",
-      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
         "name": "Still The Same",
         "url": "https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 194928,
       "name": "Still The Same",
       "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
+        "name": "What Do You Believe In?",
+        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 190474,
+      "name": "What Do You Believe In?",
+      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 203666,
       "name": "Natural Disaster",
       "url": "https://open.spotify.com/track/49PxAddYDPWtMY1HcHAV8B"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 195862,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Pocket",
-        "url": "https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 205887,
-      "name": "Pocket",
-      "url": "https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
         "name": "People Still Show Up",
         "url": "https://open.spotify.com/album/4RAsOX4JG7hH7BCvGoBfK4"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 172719,
       "name": "People Still Show Up",
       "url": "https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 205887,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Intermission",
-        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+        "name": "Rush Of Blood",
+        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
         }
       ],
-      "duration_ms": 216720,
-      "name": "push me over",
-      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
+      "duration_ms": 202266,
+      "name": "Rush Of Blood",
+      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Rush Of Blood",
-        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
       },
       "artists": [
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 202266,
-      "name": "Rush Of Blood",
-      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
+      "duration_ms": 216720,
+      "name": "push me over",
+      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Overglow",
-        "url": "https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 158785,
-      "name": "Overglow",
-      "url": "https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
         "name": "John Wayne",
         "url": "https://open.spotify.com/album/3Lj7kvwaqdVKIKQMAOW5NX"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 160536,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/4kXCN5ZhRSPTm1DZOhfZyf"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
+        "name": "Overglow",
+        "url": "https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 158785,
+      "name": "Overglow",
+      "url": "https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/2DECZqJgZddWX9TtPlzPIE"
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy"
       },
       "artists": [
         {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
         }
       ],
-      "duration_ms": 175247,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/1r3g6STDMeHV7ga3MTZpXI"
+      "duration_ms": 142906,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
     },
     {
       "added_at": "2024-10-25 08:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-10-25 08:00:00",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy"
-      },
-      "artists": [
-        {
-          "name": "Bradley Simpson",
-          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
-    },
-    {
-      "added_at": "2024-10-25 08:00:00",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 218253,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
+    },
+    {
+      "added_at": "2024-10-25 08:00:00",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/2DECZqJgZddWX9TtPlzPIE"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "duration_ms": 175247,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/1r3g6STDMeHV7ga3MTZpXI"
     },
     {
       "added_at": "2024-10-25 08:00:00",

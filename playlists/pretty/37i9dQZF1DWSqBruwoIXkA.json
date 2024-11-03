@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like this - cover: Lauren Spencer Smith",
-  "num_followers": 2067936,
+  "num_followers": 2067984,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Before You Leave Me",
-        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 176178,
-      "name": "Before You Leave Me",
-      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 180902,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "Hold the Rhythm",
+        "url": "https://open.spotify.com/album/4nof0TI1S49a6Gogj33yue"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
         "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Hold the Rhythm",
-        "url": "https://open.spotify.com/album/4nof0TI1S49a6Gogj33yue"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 284305,
-      "name": "This Is How It Feels (with Laufey)",
-      "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "28 (with Dean Lewis)",
         "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
       },
@@ -1387,6 +1367,26 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 284305,
+      "name": "This Is How It Feels (with Laufey)",
+      "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "I GUESS I'M IN LOVE",
         "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
       },
@@ -1399,22 +1399,6 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "I Never Loved You",
-        "url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 249530,
-      "name": "I Never Loved You",
-      "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1431,6 +1415,22 @@
       "duration_ms": 168978,
       "name": "Tummy Hurts",
       "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "I Never Loved You",
+        "url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 249530,
+      "name": "I Never Loved You",
+      "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Astronomy",
-        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 243907,
-      "name": "Astronomy",
-      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Astronomy",
+        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 243907,
+      "name": "Astronomy",
+      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "right person, wrong time",
-        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "right person, wrong time",
-      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 175075,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/79y56tQjNRUextz6CReVXg"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 210070,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/37gousVr7Tfh7798ae6eac"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP"
       },
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "never knew a heart could break itself",
-        "url": "https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/79y56tQjNRUextz6CReVXg"
       },
       "artists": [
         {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 155223,
-      "name": "never knew a heart could break itself",
-      "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
+      "duration_ms": 210070,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/37gousVr7Tfh7798ae6eac"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1823,22 +1807,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "i wish you cheated",
-        "url": "https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "i wish you cheated",
-      "url": "https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Rolling Up the Welcome Mat",
         "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
@@ -1851,6 +1819,38 @@
       "duration_ms": 183080,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "never knew a heart could break itself",
+        "url": "https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 155223,
+      "name": "never knew a heart could break itself",
+      "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "i wish you cheated",
+        "url": "https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "i wish you cheated",
+      "url": "https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2197,22 +2197,6 @@
       "url": "https://open.spotify.com/track/4p6MZZx5zusaVnlzclH8Ut"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Oceans & Engines",
-        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Oceans & Engines",
-      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "love's not pain",
@@ -2227,22 +2211,6 @@
       "duration_ms": 146835,
       "name": "love's not pain",
       "url": "https://open.spotify.com/track/2mElFGDLWCZnuyHt6APKdl"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2024-10-04 04:04:16",
@@ -2263,6 +2231,54 @@
       "duration_ms": 200439,
       "name": "Happy Ever After",
       "url": "https://open.spotify.com/track/4PbUHeQucvx6RvlhRkMJII"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Oceans & Engines",
+        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Oceans & Engines",
+      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "Heather - Spotify Singles",
+      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2299,18 +2315,18 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
+        "name": "Left on McKinney",
+        "url": "https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
         }
       ],
-      "duration_ms": 190652,
-      "name": "Heather - Spotify Singles",
-      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+      "duration_ms": 176289,
+      "name": "Get There When I Get There",
+      "url": "https://open.spotify.com/track/3A8glnhkz52eDkT5e52xSm"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2327,22 +2343,6 @@
       "duration_ms": 180493,
       "name": "In The Cards",
       "url": "https://open.spotify.com/track/5oEoCJsMs5fsPgOKuwdFmE"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Left on McKinney",
-        "url": "https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        }
-      ],
-      "duration_ms": 176289,
-      "name": "Get There When I Get There",
-      "url": "https://open.spotify.com/track/3A8glnhkz52eDkT5e52xSm"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Hearts Get Broken",
-        "url": "https://open.spotify.com/album/0LEc3UGGhRAy8kluAyeTzA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 186898,
-      "name": "Hearts Get Broken",
-      "url": "https://open.spotify.com/track/2RfhtA4okIMdaWAo1JOzyu"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 204413,
       "name": "do all my friends hate me?",
       "url": "https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Hearts Get Broken",
+        "url": "https://open.spotify.com/album/0LEc3UGGhRAy8kluAyeTzA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 186898,
+      "name": "Hearts Get Broken",
+      "url": "https://open.spotify.com/track/2RfhtA4okIMdaWAo1JOzyu"
     },
     {
       "added_at": "2024-10-18 04:00:00",

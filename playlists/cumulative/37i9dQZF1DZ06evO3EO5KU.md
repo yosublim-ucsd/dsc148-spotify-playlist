@@ -4,7 +4,7 @@
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-121 songs - 6 hr 33 min
+122 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [El Güero Colorado](https://open.spotify.com/track/2ObxcTBFkkpqIdWmtofZVg) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm) | 3:39 | 2024-09-29 |  |
 | [El Güero Colorado](https://open.spotify.com/track/3qXNBRZfzJbSLJRHmg6Tt6) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK) | 3:39 | 2022-06-01 | 2022-12-04 |
 | [El Hombre Tranquilo](https://open.spotify.com/track/3Jb1F5CRVKqNBpzrjDTBHA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 3:07 | 2022-06-01 | 2023-01-07 |
-| [El Karma](https://open.spotify.com/track/13R9AXTH4UccfzSof4Qecf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/7uHs4aANFXcETXJ3REH0kM) | 3:30 | 2024-09-28 |  |
+| [El Karma](https://open.spotify.com/track/13R9AXTH4UccfzSof4Qecf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/7uHs4aANFXcETXJ3REH0kM) | 3:30 | 2024-09-28 | 2024-11-03 |
 | [El Karma](https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [5 Años Despues](https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2) | 3:30 | 2022-12-09 | 2024-09-28 |
 | [El Karma](https://open.spotify.com/track/5fjNbyD1WPSvsV14nlON4O) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [5 Años Despues](https://open.spotify.com/album/0TAcAAyHawoEQy8UoxOoi9) | 3:30 | 2022-06-01 | 2022-12-10 |
 | [El Karma \- En Vivo](https://open.spotify.com/track/7oujcLedO67EJM5VwZxAL2) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Karma \(En Vivo\)](https://open.spotify.com/album/6yuQu3xTKUyPFx2wijolt7) | 3:36 | 2024-09-15 |  |
@@ -127,6 +127,7 @@
 | [Vida Truncada](https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:37 | 2022-06-01 |  |
 | [Ya lo Superé](https://open.spotify.com/track/7KLvYoh4CK9FSzQvQGmCTh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:49 | 2022-06-01 |  |
 | [Yo Quisiera Entrar](https://open.spotify.com/track/5sbnGS8meG63nqxeihnAQv) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 4:51 | 2022-06-01 |  |
+| [Yo Ya Sabia Pa' Donde Iba \- En Vivo](https://open.spotify.com/track/7fbN1oIzqmdNmotd0GhpPv) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Entre Cuerdas y Recuerdos \(En Vivo\)](https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV) | 3:29 | 2024-11-03 |  |
 | [¿Por Qué Me Haces Llorar? \- En Vivo](https://open.spotify.com/track/6YuIK9sCV6g89yVmkNZtla) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [¿Por Qué Me Haces Llorar? \(En Vivo\)](https://open.spotify.com/album/7LosuoGd6sHiY1QKXimQUW) | 3:18 | 2024-10-13 |  |
 | [Órdenes Directas](https://open.spotify.com/track/7w9libenk5qFo5LUoHGO7j) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Órdenes Directas \(Deltas\)](https://open.spotify.com/album/6spcpkPGLE5ERczqKcjwUU) | 2:27 | 2022-08-27 | 2023-05-09 |
 

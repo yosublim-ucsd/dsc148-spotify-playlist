@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Fin del Mundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,770 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,772 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 35 | [Última fuerza](https://open.spotify.com/track/3cbjpIGLyADDB0GYF3Ru41) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Última fuerza](https://open.spotify.com/album/7kEcwjomzNk2XFK8jFmKkR) | 4:04 |
 | 36 | [Chinos Ojos Rojos](https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr) | 4:15 |
 | 37 | [Ya No Quiero Bailar](https://open.spotify.com/track/3NMp7NOrfSsCtx4DjOzY3e) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Varias Paredes Pintadas](https://open.spotify.com/album/2LWOlZkkp3aXYCEVkBpyv6) | 3:59 |
-| 38 | [Manos](https://open.spotify.com/track/3HVHb5Xbb8G8HPKzaCWffe) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Pendeja](https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe) | 3:31 |
+| 38 | [Manos](https://open.spotify.com/track/3HVHb5Xbb8G8HPKzaCWffe) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF) | [Pendeja](https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe) | 3:31 |
 | 39 | [Dopamina](https://open.spotify.com/track/0VMUzNfWNx3egfZko8bOhS) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Dopamina](https://open.spotify.com/album/1EV4jUvno8aaw2yUEqdVg0) | 6:15 |
 | 40 | [Pagando de Más](https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Barato Ideal](https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg) | 2:51 |
 | 41 | [Sal chivo](https://open.spotify.com/track/4pBjPkFU6AVk4WBdljdMm7) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Sal chivo](https://open.spotify.com/album/6n85JjMfghPhCttGoo9U6p) | 3:21 |

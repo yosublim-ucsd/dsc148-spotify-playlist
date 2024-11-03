@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,979 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,045 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 50 | [4AM](https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [4AM](https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX) | 2:57 |
 | 51 | [Quanto Tempo Demora Um Mês](https://open.spotify.com/track/64kByFEamIW6sVECquQlRm) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quanto Tempo Demora Um Mês](https://open.spotify.com/album/6umXN07xdVY0zfabiVqrf8) | 3:30 |
 | 52 | [Tudo Fica Bem \- Acústico](https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Tudo Fica Bem \(Acústico\)](https://open.spotify.com/album/3ELasphaer4uFY996px5iC) | 2:45 |
-| 53 | [Nada](https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm) | [CORA](https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp) | [Nada](https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY) | 2:29 |
+| 53 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |
 | 54 | [Só Hoje \- Strings Orchestra](https://open.spotify.com/track/1WMoGAaApDZWppKKSjdP9h) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Só Hoje \(Strings Orchestra\)](https://open.spotify.com/album/2bDZbub5i4W1JE4sEg6tOq) | 3:29 |
-| 55 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |
-| 56 | [No Delta dos Rios](https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Power Trio](https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR) | 4:03 |
-| 57 | [Eu Quero Tanto](https://open.spotify.com/track/7y10XfBIaOWkWX5ksbBpuV) | [Cogumelo Plutão](https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee) | [Eu Quero Tanto](https://open.spotify.com/album/3g9SmqvLP3GeoHUIFTcWOA) | 3:07 |
+| 55 | [Nada](https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm) | [CORA](https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp) | [Nada](https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY) | 2:29 |
+| 56 | [Eu Quero Tanto](https://open.spotify.com/track/7y10XfBIaOWkWX5ksbBpuV) | [Cogumelo Plutão](https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee) | [Eu Quero Tanto](https://open.spotify.com/album/3g9SmqvLP3GeoHUIFTcWOA) | 3:07 |
+| 57 | [No Delta dos Rios](https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Power Trio](https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR) | 4:03 |
 | 58 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 |
 | 59 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
 | 60 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 63 | [Estive com Stevie](https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Supernova](https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr) | 3:36 |
 | 64 | [Sweet Virginia](https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Martin Mendonça](https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b), [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Sweet Virginia / Across the Universe](https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6) | 4:33 |
 | 65 | [Proposta](https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO) | [Davi Leão](https://open.spotify.com/artist/63PbB9qmaVblxOqBoOb2g7) | [Proposta](https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle) | 2:46 |
-| 66 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 |
-| 67 | [VOU ESTAR AQUI](https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 4:16 |
+| 66 | [VOU ESTAR AQUI](https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 4:16 |
+| 67 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 |
 | 68 | [Espetacular](https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ) | [Márcio Greyck](https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4) | [Espetacular](https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc) | 4:33 |
 | 69 | [Vamos Fingir](https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Vamos Fingir](https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8) | 4:26 |
 | 70 | [Wake Me Up \- Ao Vivo](https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V) | [Dr\. Sin](https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D) | [Acustico Dr\. Sin 1 \(Ao Vivo\)](https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm) | 4:34 |
-| 71 | [A Gente Sabe Se Amar](https://open.spotify.com/track/6aQ6Tcs6w0efuVzWrimGRC) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [DAVI](https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA) | 2:44 |
-| 72 | [Vou Te Encontrar \- Ao Vivo](https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Vou Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr) | 4:30 |
+| 71 | [Vou Te Encontrar \- Ao Vivo](https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Vou Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr) | 4:30 |
+| 72 | [A Gente Sabe Se Amar](https://open.spotify.com/track/6aQ6Tcs6w0efuVzWrimGRC) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [DAVI](https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA) | 2:44 |
 | 73 | [Invisível](https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn) | [Invisível](https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf) | 3:32 |
 | 74 | [Mais um Trabalhador](https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ) | [BÁRBARA SILVA](https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV) | [Mais um Trabalhador](https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d) | 3:19 |
 | 75 | [Insensatez](https://open.spotify.com/track/0eWjcSCH69BGN3UwLjqHXT) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Insensatez](https://open.spotify.com/album/2XaJHxbfCTLl0FmWRgvnsT) | 4:35 |

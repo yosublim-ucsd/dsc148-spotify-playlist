@@ -4,7 +4,7 @@
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 8 min
+45 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Giving The Past Away](https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Giving The Past Away](https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc) | 3:31 | 2022-11-17 |  |
 | [Head To Wall](https://open.spotify.com/track/75EwFbw7cPAoTFDAxtFfzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:07 | 2022-11-17 |  |
 | [Holy Dub \(Hallowed Be Thy Name\)](https://open.spotify.com/track/5WMjstig44rt0AbrlhLeMH) | [New Age Doom](https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Holy Dub \(Hallowed Be Thy Name\)](https://open.spotify.com/album/2fQxNB6cAEwzIrpvbkOlwW) | 3:43 | 2022-12-03 | 2023-05-17 |
+| [Holy Dub \(Hallowed Be Thy Name\) \- Quicksand](https://open.spotify.com/track/6iVSedeP8615YRje2jh4NZ) | [New Age Doom](https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Remix The Universe](https://open.spotify.com/album/5M8jj6Qj5E41nNJantp8pT) | 3:04 | 2024-11-03 |  |
 | [Hyperion](https://open.spotify.com/track/24ZZPWkt2ELVI26tpiZZ1K) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:34 | 2023-06-24 | 2023-07-03 |
 | [Hypno Jam With Dan](https://open.spotify.com/track/05i8S2cGUeh0cIxS8mJfBa) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Quicksand](https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S) | 1:57 | 2022-11-17 | 2024-09-21 |
 | [Illuminant](https://open.spotify.com/track/2rpJtmeLU52N5WbR7BLfUX) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:53 | 2022-11-17 |  |
@@ -46,7 +47,8 @@
 | [Skinny \(It's Overflowing\)](https://open.spotify.com/track/5rXtZxzaKjc518TIMF2x0y) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:26 | 2023-12-29 |  |
 | [Slip](https://open.spotify.com/track/4Z3zmjixkCoawWXC4IbBan) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 2:21 | 2023-09-25 | 2024-10-19 |
 | [Spoken Through Clouds](https://open.spotify.com/track/5fmbZlkalVRdnXklTnnI3G) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Triptych Continuum](https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0) | 3:07 | 2022-11-17 |  |
-| [Supercollider](https://open.spotify.com/track/2MFdVzNvUHTmrORjmBnycc) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/00K0NjjQMnHH0pbNB6a31a) | 2:49 | 2024-10-31 |  |
+| [Supercollider](https://open.spotify.com/track/2MFdVzNvUHTmrORjmBnycc) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/00K0NjjQMnHH0pbNB6a31a) | 2:49 | 2024-10-31 | 2024-11-03 |
+| [Supercollider](https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:49 | 2024-11-03 |  |
 | [The Philosopher](https://open.spotify.com/track/4784qRJpsaPr7oZPPTOha6) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:28 | 2023-08-04 | 2023-08-08 |
 | [Thorn In My Side](https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:36 | 2022-11-17 |  |
 | [Under The Screw](https://open.spotify.com/track/0PrZsr6FIiBu3p8uJrbFjg) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 2:56 | 2022-11-17 |  |

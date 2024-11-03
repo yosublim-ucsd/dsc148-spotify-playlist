@@ -1,6 +1,6 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 189510,
+  "num_followers": 189596,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Papa Ain't Salty",
-      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "His Best: The Electric B.B. King (Expanded Edition)",
         "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 309373,
       "name": "Don't Answer The Door",
       "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Papa Ain't Salty",
+      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/4gJDG1h0eFxWeYIVJsT8ks"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "I Loved Another Woman",
-      "url": "https://open.spotify.com/track/5Lh4aGwVSl2bBR4W5mBr9V"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 214320,
       "name": "Dirt Road Blues - 2022 Remix",
       "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/4gJDG1h0eFxWeYIVJsT8ks"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "I Loved Another Woman",
+      "url": "https://open.spotify.com/track/5Lh4aGwVSl2bBR4W5mBr9V"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "English Rose",
-        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/08uXaXe243pD2BPI5uB3JM"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 319466,
       "name": "I Put My Trust In You",
       "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "English Rose",
+        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/08uXaXe243pD2BPI5uB3JM"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Love on the Rocks",
-        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
-      },
-      "artists": [
-        {
-          "name": "Lauren Anderson",
-          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Love on the Rocks",
-      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Standing My Ground",
         "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+        "name": "Love on the Rocks",
+        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
       },
       "artists": [
         {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+          "name": "Lauren Anderson",
+          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
         }
       ],
-      "duration_ms": 186493,
-      "name": "Drifting From Town To Town",
-      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+      "duration_ms": 222826,
+      "name": "Love on the Rocks",
+      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1019,6 +1003,22 @@
       "duration_ms": 193130,
       "name": "Your Lies",
       "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Drifting From Town To Town",
+      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Hoodoo Lady (1933-1937)",
         "url": "https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 157640,
       "name": "Keep On Eatin'",
       "url": "https://open.spotify.com/track/6CAYAC2lehhq20LE95nrVg"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
     },
     {
       "added_at": "2024-05-28 18:29:55",

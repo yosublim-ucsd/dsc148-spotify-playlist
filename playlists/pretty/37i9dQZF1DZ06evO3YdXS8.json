@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 624566,
+  "num_followers": 624639,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAABLp3lZ7OkxTHdMnpNmdtaZ",
+  "snapshot_id": "ZyQaAAAAAAANbjnMncz926NTmvxU1e3z",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J"
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Siempre Hace Frio",
+      "url": "https://open.spotify.com/track/3KVzV6YRMIWkaH5QsMXwuV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 284973,
       "name": "Buenos Amigos",
       "url": "https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Siempre Hace Frio",
-      "url": "https://open.spotify.com/track/3KVzV6YRMIWkaH5QsMXwuV"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "Las Cadenas",
-      "url": "https://open.spotify.com/track/0lPQT4BthmWqa6PQPCJTE3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ven Conmigo - Selena 20 Years Of Music",
         "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 177066,
       "name": "No Quiero Saber - 1990 Version",
       "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "Las Cadenas",
+      "url": "https://open.spotify.com/track/0lPQT4BthmWqa6PQPCJTE3"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Yo Te Sigo Queriendo",
-      "url": "https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selena: The Series Soundtrack",
         "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 183933,
       "name": "Yo Fui Aquella - .",
       "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Yo Te Sigo Queriendo",
+      "url": "https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
-        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
-      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Primeros \u00c9xitos",
         "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 191133,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
+        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
+      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 413986,
-      "name": "La Carcacha/Besitos - Live",
-      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Primeros \u00c9xitos",
         "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 217133,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 413986,
+      "name": "La Carcacha/Besitos - Live",
+      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
     },
     {
       "added_at": null,

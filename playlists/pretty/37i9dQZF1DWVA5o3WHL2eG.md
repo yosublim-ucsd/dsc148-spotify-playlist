@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,177 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,185 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 42 | [abused](https://open.spotify.com/track/04eAwj1S7LBrImIZVnl2yq) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [abused](https://open.spotify.com/album/0FPHvkFMpuMpVfaNlxadU9) | 3:08 |
 | 43 | [My Melody](https://open.spotify.com/track/6abYvlEKi1JLymoapJLnuT) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [My Melody](https://open.spotify.com/album/6BK5VZGzz4rk6bkMzIWNau) | 2:46 |
 | 44 | [fuck you paris](https://open.spotify.com/track/65uI2xul4j4UD8mX8tSg7w) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [fuck you paris](https://open.spotify.com/album/61SCR2w7ZqD01Dxlg6mI2b) | 2:27 |
-| 45 | [Once You Laugh](https://open.spotify.com/track/5MgacnNdBstpZpgGwAT25K) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [Once You Laugh](https://open.spotify.com/album/2j1jn3B1uPdcxhFrOCXtjY) | 2:17 |
-| 46 | [Lonely Men](https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677) | [MOREA](https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX) | [Lonely Men](https://open.spotify.com/album/5snyBoy81dc2LxzvCT4Zt6) | 3:45 |
+| 45 | [Lonely Men](https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677) | [MOREA](https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX) | [Lonely Men](https://open.spotify.com/album/5snyBoy81dc2LxzvCT4Zt6) | 3:45 |
+| 46 | [Once You Laugh](https://open.spotify.com/track/5MgacnNdBstpZpgGwAT25K) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [Once You Laugh](https://open.spotify.com/album/2j1jn3B1uPdcxhFrOCXtjY) | 2:17 |
 | 47 | [Landscape Escape \- Nine Years Later](https://open.spotify.com/track/5YTVwELHfJD93lVmFDgUec) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Dahlia](https://open.spotify.com/album/14WAFfaJHHYb69jyaBXML8) | 5:11 |
 | 48 | [Girl in a Band](https://open.spotify.com/track/17F1rDQyWwxxfG16TQNOhp) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 3:12 |
 | 49 | [Im\_Possible](https://open.spotify.com/track/2SmZcm0DEOGVk5kFJdDeiS) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Im\_Possible](https://open.spotify.com/album/65WNRRyeYrxmJ7pgwsFGHc) | 2:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Grüezi! This is 100% made in Switzerland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,783 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,785 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 35 | [Again](https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Again](https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE) | 3:09 |
 | 36 | [Full 180](https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Full 180](https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER) | 3:36 |
 | 37 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 |
-| 38 | [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 |
-| 39 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 |
+| 38 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 |
+| 39 | [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 |
 | 40 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 |
 | 41 | [Soft](https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Soft](https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn) | 3:03 |
 | 42 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 |
 | 43 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 |
-| 44 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 |
-| 45 | [High Hopes](https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [High Hopes](https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe) | 3:12 |
+| 44 | [High Hopes](https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [High Hopes](https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe) | 3:12 |
+| 45 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 |
 | 46 | [Good Love](https://open.spotify.com/track/4nOfERRA2RjU40hNSRshs5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Good Love](https://open.spotify.com/album/3QP4KzSLMMQfmY1pqB4d9r) | 2:45 |
 | 47 | [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 |
 | 48 | [Stay With Me](https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ), [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Stay With Me](https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73) | 2:57 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 59 | [Julia?](https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Julia?](https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi) | 3:44 |
 | 60 | [Beautiful Day](https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Beautiful Day](https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy) | 3:05 |
 | 61 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 |
-| 62 | [Kale Juice](https://open.spotify.com/track/7xJ0Lpz7f3LNWDpRyOzbzo) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Teary\-Eyed](https://open.spotify.com/album/0mIPQTtZphFbz2dghvqxa4) | 2:38 |
-| 63 | [Snooze](https://open.spotify.com/track/5aC4WmADiTLODiVefda591) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Snooze](https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ) | 3:02 |
-| 64 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 |
-| 65 | [2560](https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [2560](https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv) | 3:18 |
+| 62 | [Snooze](https://open.spotify.com/track/5aC4WmADiTLODiVefda591) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Snooze](https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ) | 3:02 |
+| 63 | [Kale Juice](https://open.spotify.com/track/7xJ0Lpz7f3LNWDpRyOzbzo) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Teary\-Eyed](https://open.spotify.com/album/0mIPQTtZphFbz2dghvqxa4) | 2:38 |
+| 64 | [2560](https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [2560](https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv) | 3:18 |
+| 65 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 |
 | 66 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 |
 | 67 | [Losing Grip](https://open.spotify.com/track/4Vmn4tPZSp6B82XH2KMsHZ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Losing Grip](https://open.spotify.com/album/2gQ3GaQhjnXM8M6PlBYAkO) | 2:55 |
 | 68 | [Prosecco](https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Prosecco](https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug) | 3:19 |

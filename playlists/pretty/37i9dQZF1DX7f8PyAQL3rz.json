@@ -1,6 +1,6 @@
 {
   "description": "correndo SEMPRE atr\u00e1s do som",
-  "num_followers": 1402402,
+  "num_followers": 1402430,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -343,30 +343,6 @@
     {
       "added_at": "2024-10-25 03:03:00",
       "album": {
-        "name": "Clack Bum",
-        "url": "https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H"
-      },
-      "artists": [
-        {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
-        },
-        {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
-        },
-        {
-          "name": "DJ Borest",
-          "url": "https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46"
-        }
-      ],
-      "duration_ms": 141230,
-      "name": "Clack Bum",
-      "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
-    },
-    {
-      "added_at": "2024-10-25 03:03:00",
-      "album": {
         "name": "Vida de Artista",
         "url": "https://open.spotify.com/album/2gMhGYe4x6O1vDG9AUjIwW"
       },
@@ -387,6 +363,30 @@
       "duration_ms": 196000,
       "name": "Vida de Artista",
       "url": "https://open.spotify.com/track/7BLjPZwgbxQSLZ4rWbboJY"
+    },
+    {
+      "added_at": "2024-10-25 03:03:00",
+      "album": {
+        "name": "Clack Bum",
+        "url": "https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H"
+      },
+      "artists": [
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "DJ Borest",
+          "url": "https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46"
+        }
+      ],
+      "duration_ms": 141230,
+      "name": "Clack Bum",
+      "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
     },
     {
       "added_at": "2024-10-25 03:03:00",
@@ -1615,34 +1615,6 @@
     {
       "added_at": "2024-10-25 03:03:00",
       "album": {
-        "name": "M.A.D 2",
-        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
-        },
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        }
-      ],
-      "duration_ms": 181985,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
-    },
-    {
-      "added_at": "2024-10-25 03:03:00",
-      "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
@@ -1667,6 +1639,34 @@
       "duration_ms": 150616,
       "name": "Disk P@#$%&!",
       "url": "https://open.spotify.com/track/6X8aYB2eFCge9jpkgjecPR"
+    },
+    {
+      "added_at": "2024-10-25 03:03:00",
+      "album": {
+        "name": "M.A.D 2",
+        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "duration_ms": 181985,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
     },
     {
       "added_at": "2024-10-25 03:03:00",
@@ -1704,7 +1704,7 @@
       },
       "artists": [
         {
-          "name": "Ajuliacosta",
+          "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {

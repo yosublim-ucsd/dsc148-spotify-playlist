@@ -1,6 +1,6 @@
 {
   "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: tripleS) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
-  "num_followers": 856886,
+  "num_followers": 856904,
   "original_name": "K-Dance Party",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,18 @@
     {
       "added_at": "2024-10-23 09:16:58",
       "album": {
-        "name": "Smeraldo Garden Marching Band (feat. Loco)",
-        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
+        "name": "We Go Up",
+        "url": "https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 182840,
-      "name": "Smeraldo Garden Marching Band (feat. Loco)",
-      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
+      "duration_ms": 183293,
+      "name": "We Go Up",
+      "url": "https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW"
     },
     {
       "added_at": "2024-10-23 09:16:58",
@@ -819,18 +815,22 @@
     {
       "added_at": "2024-10-23 09:16:58",
       "album": {
-        "name": "I NEVER DIE",
-        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+        "name": "Smeraldo Garden Marching Band (feat. Loco)",
+        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         }
       ],
-      "duration_ms": 174386,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
+      "duration_ms": 182840,
+      "name": "Smeraldo Garden Marching Band (feat. Loco)",
+      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
     }
   ],
   "unique_name": "K-Dance Party",

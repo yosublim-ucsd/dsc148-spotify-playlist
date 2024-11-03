@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: AKRIILA, TAICHU
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,887 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,907 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 47 | [Pasame la Botella \- Remix](https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Malito Malozo](https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD), [El Maniako The Boost](https://open.spotify.com/artist/5lwU7m62FDvwm2hnNxfStO), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Pasame la Botella \(Remix\)](https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN) | 5:48 |
 | 48 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 |
 | 49 | [POPPER!](https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POPPER!](https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp) | 1:50 |
-| 50 | [Enemigo](https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Enemigo](https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd) | 2:30 |
-| 51 | [Uy k raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy k raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
+| 50 | [Uy k raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy k raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
+| 51 | [Enemigo](https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Enemigo](https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd) | 2:30 |
 | 52 | [Qué Rico Repetirlo](https://open.spotify.com/track/63tc67n05008BFsuVhGgNb) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Qué Rico Repetirlo](https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI) | 3:06 |
 | 53 | [Quiero Verte](https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Quiero Verte](https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn) | 2:54 |
 | 54 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |

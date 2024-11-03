@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: Lvbel C5
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,098 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,302 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 22 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 |
 | 23 | [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 |
 | 24 | [Bertaraf](https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SIR](https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk) | 2:34 |
-| 25 | [Yakışıklı](https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yakışıklı](https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae) | 2:26 |
-| 26 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 |
+| 25 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 |
+| 26 | [Yakışıklı](https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yakışıklı](https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae) | 2:26 |
 | 27 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 |
 | 28 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 |
 | 29 | [Kader Sağ Olsun](https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:47 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 43 | [Ben Bilmem](https://open.spotify.com/track/5YbygGKXlC5HP55xGtSkx8) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Bir Bakmışsın](https://open.spotify.com/album/4lefgXP8RY8zV7QLQ7DJvS) | 4:24 |
 | 44 | [Ankara Rüzgarı](https://open.spotify.com/track/7c610NPD7aqC9654KMUS2o) | [Retrobüs](https://open.spotify.com/artist/2lYjnZ0AY9sLUbCP8Vv2Vx) | [Ankara Rüzgarı](https://open.spotify.com/album/6vdGMPltRgQTYMNBJBnKOv) | 2:53 |
 | 45 | [Diva Yorgun](https://open.spotify.com/track/006oGnrSZevqZTimsD2oh4) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Diva Yorgun](https://open.spotify.com/album/1CmMKVtTFW7yG4k6PlfWzQ) | 4:19 |
-| 46 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 |
-| 47 | [Geri Dönüş Olsa](https://open.spotify.com/track/1KtqOkEN42OUqs9ombxk1E) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Aşklarım Büyük Benden](https://open.spotify.com/album/0SwcauyqVd20ht25l9ctWZ) | 3:18 |
+| 46 | [Geri Dönüş Olsa](https://open.spotify.com/track/1KtqOkEN42OUqs9ombxk1E) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Aşklarım Büyük Benden](https://open.spotify.com/album/0SwcauyqVd20ht25l9ctWZ) | 3:18 |
+| 47 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 |
 | 48 | [Gitme](https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Gitme](https://open.spotify.com/album/2PbxeqlKK3G3MzRCJbBnVW) | 2:50 |
 | 49 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 |
 | 50 | [Bir Bela](https://open.spotify.com/track/5kR2RqcjHEyCDXkE9WHhoF) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Kraliçe](https://open.spotify.com/album/4kHAWGBdk9ZlMAqSKW7LCU) | 4:33 |

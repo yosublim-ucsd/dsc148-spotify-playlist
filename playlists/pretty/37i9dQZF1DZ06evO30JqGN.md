@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,703 likes - 44 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,733 likes - 44 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 36 | [Deeper](https://open.spotify.com/track/7uwpgQQufpSsFIhhGJDHQF) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 2:58 |
 | 37 | [Constant Bullshit](https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:17 |
 | 38 | [Deserve Me \(with Summer Walker\)](https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 4:25 |
-| 39 | [+1 \(404\) 476\-6404](https://open.spotify.com/track/4OLXP8Bgh2AouRvSKQTRbj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [+1 \(404\) 476\-6404](https://open.spotify.com/album/41Bnkkh7oh5qMLw7bI32DX) | 0:48 |
+| 39 | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM) | 3:34 |
 | 40 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
-| 41 | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM) | 3:34 |
+| 41 | [+1 \(404\) 476\-6404](https://open.spotify.com/track/4OLXP8Bgh2AouRvSKQTRbj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [+1 \(404\) 476\-6404](https://open.spotify.com/album/41Bnkkh7oh5qMLw7bI32DX) | 0:48 |
 | 42 | [D & G \(feat\. Summer Walker\)](https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 |
 | 43 | [Wasted](https://open.spotify.com/track/2L3nFptzwy0jlVKSzXHjnL) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR](https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY) | 2:34 |
 | 44 | [SWV \(with NO1\-NOAH\)](https://open.spotify.com/track/4ii5S0UcGpdAANl098llgB) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:02 |
 
-Snapshot ID: `ZyF3AAAAAAC9tOASJoXLUTqr2IEaH/o4`
+Snapshot ID: `ZyQaAAAAAADvIr55X+l2HBmEF7bZiYR7`

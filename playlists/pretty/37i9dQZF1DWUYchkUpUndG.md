@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=N0Z61C\-DSEutGSlpm\_fQ3g>Anendlessocean</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,674 likes - 101 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,690 likes - 101 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

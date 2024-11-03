@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-996 songs - 2 day 23 hr 30 min
+997 songs - 2 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,6 +786,7 @@
 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 | 2023-02-07 | 2024-04-19 |
 | [Speak to Me](https://open.spotify.com/track/574y1r7o2tRA009FW0LE7v) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 1:05 | 2019-07-25 | 2020-10-19 |
 | [SPELLBOUND](https://open.spotify.com/track/4HnWzzLIaJoaTzxjZgPO7k) | [TUNA DISPLAY](https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J) | [HEAD RUSH](https://open.spotify.com/album/7GZ7FkFUEPdICv4kzWp9Wg) | 3:24 | 2024-08-05 | 2024-10-16 |
+| [Spells \(Paris\)](https://open.spotify.com/track/64xYzhrU688ZTn500UrVZF) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Spells \(Paris\)](https://open.spotify.com/album/24gb3Okb5PrHzewgwjiv14) | 11:54 | 2024-11-01 |  |
 | [Spike](https://open.spotify.com/track/4DxGYJgokpQi2ChUzQEzp6) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Spike](https://open.spotify.com/album/0QrP0xTuWwy3CBz0dHBpgs) | 7:36 | 2020-10-30 | 2023-05-15 |
 | [SPIRITO](https://open.spotify.com/track/6IZp7TxrMCj1e7gLnCHjxy) | [Foriero](https://open.spotify.com/artist/4MI0uLVTwd4pOKNXMha2FL) | [SPIRITO](https://open.spotify.com/album/5JBEg4lSHVqkBr45YKiY9G) | 4:51 | 2024-03-15 | 2024-03-22 |
 | [Squarepusher Theme](https://open.spotify.com/track/058ko08nDcxWAEXJXkDNYC) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things \(Remastered\)](https://open.spotify.com/album/3mr4Eo5QyvLqvghU1usLM4) | 6:21 | 2022-07-01 | 2023-02-02 |
@@ -857,7 +858,7 @@
 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 | 2021-08-27 | 2023-05-06 |
 | [The Departure](https://open.spotify.com/track/70a2Em6lDF6zowPLHWjWTA) | [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum) | [The Departure](https://open.spotify.com/album/04hOO4j9BcyvVAy2s5rCW1) | 3:30 | 2019-06-19\* | 2020-08-26 |
 | [The Fall](https://open.spotify.com/track/0DSWzEDLX2QjkBIUzFuQAX) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM) | [The Fall](https://open.spotify.com/album/18Jz4mjnghTjTztG4LQNGJ) | 4:58 | 2024-09-14 | 2024-10-08 |
-| [the family we find](https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [the family we find](https://open.spotify.com/album/67zHY0h8gHftAP9SruFsEK) | 4:57 | 2024-06-14 |  |
+| [the family we find](https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [the family we find](https://open.spotify.com/album/67zHY0h8gHftAP9SruFsEK) | 4:57 | 2024-06-14 | 2024-11-03 |
 | [The Frequency of the Universe](https://open.spotify.com/track/33xzOMLKWD1QdYYKETCkY5) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/0AWWSwlrkbHqGUKDLil3vo) | 3:45 | 2021-02-22 | 2023-12-16 |
 | [The Frequency of the Universe](https://open.spotify.com/track/5KfM7YEZPwfW7ooacdlJmm) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/7eNWltkpqeyaNNnbQkbOWt) | 3:45 | 2024-02-02 | 2024-04-19 |
 | [The Frontier \(High Desert Synthapella\)](https://open.spotify.com/track/2YHCMi1Jh6jeI5Y8jl4FZp) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Whities 006](https://open.spotify.com/album/65lnxFX6QyjxKTuBmnGP7P) | 2:21 | 2019-05-26\* | 2022-04-20 |

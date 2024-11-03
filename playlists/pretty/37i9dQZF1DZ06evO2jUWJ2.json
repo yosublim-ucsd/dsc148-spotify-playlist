@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 286064,
+  "num_followers": 286120,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAAC7blO5wdCzS+D9li0Frsk1",
+  "snapshot_id": "ZyQaAAAAAABHc4CnXDKoLC94931qMIC0",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+        "name": "Vida aos Sepulcros",
+        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 276036,
-      "name": "What I See (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4A6zhvBNk6MAUp4u07p7kD"
+      "duration_ms": 293702,
+      "name": "Vida aos Sepulcros",
+      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
     },
     {
       "added_at": null,
@@ -647,22 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida aos Sepulcros",
-        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 293702,
-      "name": "Vida aos Sepulcros",
-      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
+      "duration_ms": 276036,
+      "name": "What I See (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4A6zhvBNk6MAUp4u07p7kD"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another One (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 392308,
-      "name": "Another One (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tumbas A Jardines",
         "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 419491,
       "name": "La Bendici\u00f3n (The Blessing)",
       "url": "https://open.spotify.com/track/5KNP7zONOFZqOL3ixeWMOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another One (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 392308,
+      "name": "Another One (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
     },
     {
       "added_at": null,

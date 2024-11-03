@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Lvbel C5",
-  "num_followers": 496098,
+  "num_followers": 496302,
   "original_name": "trend 2024",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "Yak\u0131\u015f\u0131kl\u0131",
-        "url": "https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae"
-      },
-      "artists": [
-        {
-          "name": "K\u00d6FN",
-          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
-        },
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Yak\u0131\u015f\u0131kl\u0131",
-      "url": "https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
         "name": "Yine \u00c7al\u0131yor",
         "url": "https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 135372,
       "name": "Kafam\u0131n \u0130\u00e7i",
       "url": "https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
+        "name": "Yak\u0131\u015f\u0131kl\u0131",
+        "url": "https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        },
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Yak\u0131\u015f\u0131kl\u0131",
+      "url": "https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "Olmu\u015fum Leyla",
-        "url": "https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 172154,
-      "name": "Olmu\u015fum Leyla",
-      "url": "https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
         "name": "A\u015fklar\u0131m B\u00fcy\u00fck Benden",
         "url": "https://open.spotify.com/album/0SwcauyqVd20ht25l9ctWZ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 198577,
       "name": "Geri D\u00f6n\u00fc\u015f Olsa",
       "url": "https://open.spotify.com/track/1KtqOkEN42OUqs9ombxk1E"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
+        "name": "Olmu\u015fum Leyla",
+        "url": "https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA"
+      },
+      "artists": [
+        {
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+        }
+      ],
+      "duration_ms": 172154,
+      "name": "Olmu\u015fum Leyla",
+      "url": "https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj"
     },
     {
       "added_at": "2024-10-24 21:00:00",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: G\-DRAGON
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,209 likes - 83 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,236 likes - 83 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
-| 2 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER 1st FULL ALBUM \[DRIP\]](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
+| 2 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
 | 3 | [Firasat Berbicara](https://open.spotify.com/track/6vJnVHRW3CJycI3ufWmU86) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Firasat Berbicara](https://open.spotify.com/album/53QtC3DsAS9dHNvtunOWaK) | 3:51 |
 | 4 | [Bukan Hati Yang Kutunggu](https://open.spotify.com/track/41e8w4f1X5ynQvrjBbaEXP) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT), [Pika Iskandar](https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo) | [Bukan Hati Yang Kutunggu](https://open.spotify.com/album/0uLmrILkMpzlwLNAtNyCKW) | 3:41 |
 | 5 | [Surga](https://open.spotify.com/track/4cbtN78MM14iygONiGKkXN) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Sarwa Renjana](https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC) | 3:26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 571298,
+  "num_followers": 571306,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAADl87FkmJsZ+w1mq+jfXOpM",
+  "snapshot_id": "ZyQaAAAAAAD80Bjrsj8HyOq6CBICWfkI",
   "tracks": [
     {
       "added_at": null,
@@ -298,11 +298,15 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "Afro-X",
+          "url": "https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z"
         }
       ],
-      "duration_ms": 527360,
-      "name": "Da Ponte pra C\u00e1",
-      "url": "https://open.spotify.com/track/77ZXEJcwC7r4gfodNwERJz"
+      "duration_ms": 433200,
+      "name": "A Vida \u00c9 Desafio",
+      "url": "https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT"
     },
     {
       "added_at": null,
@@ -370,15 +374,11 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "Afro-X",
-          "url": "https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z"
         }
       ],
-      "duration_ms": 433200,
-      "name": "A Vida \u00c9 Desafio",
-      "url": "https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT"
+      "duration_ms": 527360,
+      "name": "Da Ponte pra C\u00e1",
+      "url": "https://open.spotify.com/track/77ZXEJcwC7r4gfodNwERJz"
     },
     {
       "added_at": null,

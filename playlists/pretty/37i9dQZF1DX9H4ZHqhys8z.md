@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: LILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,442 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,451 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -8902,6 +8902,10 @@
         {
           "name": "Brown Family",
           "url": "https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW"
+        },
+        {
+          "name": "HAWA B",
+          "url": "https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam"
         }
       ],
       "date_added": "2024-11-01",
@@ -8964,6 +8968,24 @@
       "duration_ms": 180228,
       "name": "Chor\u00e9",
       "url": "https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN"
+    },
+    {
+      "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155066,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
     },
     {
       "album": {
@@ -13942,7 +13964,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 184573,
       "name": "DOUTE (feat. Zamdane)",
       "url": "https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk"

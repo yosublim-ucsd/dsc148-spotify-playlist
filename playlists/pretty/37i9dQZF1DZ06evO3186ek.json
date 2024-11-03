@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 150440,
+  "num_followers": 150484,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAAosq65QOWX1mUoWSCcdB5Y",
+  "snapshot_id": "ZyQaAAAAAACMJ4i+OX4S81iTFys/HxSX",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+        }
+      ],
+      "duration_ms": 542193,
+      "name": "Man of Your Word (feat. KJ Scriven)",
+      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -599,30 +623,6 @@
       "duration_ms": 228148,
       "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
       "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
-        }
-      ],
-      "duration_ms": 542193,
-      "name": "Man of Your Word (feat. KJ Scriven)",
-      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
     },
     {
       "added_at": null,
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAVHOUSE",
         "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 149520,
       "name": "Let Me Remind You (feat. Naomi Raine)",
       "url": "https://open.spotify.com/track/23fy3jpfhyLZAAv9MTX2A9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 272348,
-      "name": "Bless Me",
-      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        }
-      ],
-      "duration_ms": 726770,
-      "name": "Most Beautiful / So in Love",
-      "url": "https://open.spotify.com/track/79BblsZXMVB4gEEt6yQIft"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 565833,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 726770,
+      "name": "Most Beautiful / So in Love",
+      "url": "https://open.spotify.com/track/79BblsZXMVB4gEEt6yQIft"
     },
     {
       "added_at": null,
@@ -879,34 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Karen Espinosa",
-          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
-        },
-        {
-          "name": "Johnny Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
-        }
-      ],
-      "duration_ms": 469125,
-      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
-      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -935,8 +907,36 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "duration_ms": 469125,
+      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
       "artists": [
         {
@@ -944,17 +944,25 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/4s4I3L3OOyeR5b5Ecmpynm"
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        },
+        {
+          "name": "Za Smith",
+          "url": "https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X"
+        },
+        {
+          "name": "Roman Collins",
+          "url": "https://open.spotify.com/artist/0Eaw8bBAVJWKzwHdVCvmkH"
         }
       ],
-      "duration_ms": 766715,
-      "name": "Have My Heart (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
+      "duration_ms": 225768,
+      "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
+      "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
     },
     {
       "added_at": null,
@@ -975,6 +983,30 @@
       "duration_ms": 629316,
       "name": "You Keep on Getting Better (feat. Majesty Rose)",
       "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/4s4I3L3OOyeR5b5Ecmpynm"
+        }
+      ],
+      "duration_ms": 766715,
+      "name": "Have My Heart (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
     },
     {
       "added_at": null,
@@ -1027,58 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        }
-      ],
-      "duration_ms": 432294,
-      "name": "Such an Awesome God (feat. Maryanne J. George)",
-      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAVHOUSE",
-        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        },
-        {
-          "name": "Za Smith",
-          "url": "https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X"
-        },
-        {
-          "name": "Roman Collins",
-          "url": "https://open.spotify.com/artist/0Eaw8bBAVJWKzwHdVCvmkH"
-        }
-      ],
-      "duration_ms": 225768,
-      "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
-      "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breathe - EP",
         "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 326500,
       "name": "Breathe (feat. Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
       "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "duration_ms": 432294,
+      "name": "Such an Awesome God (feat. Maryanne J. George)",
+      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
     },
     {
       "added_at": null,

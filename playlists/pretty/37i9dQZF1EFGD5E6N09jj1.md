@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,474 likes - 180 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,479 likes - 180 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,10 +183,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 173 | [Joan of Arc](https://open.spotify.com/track/0WV4nwEWOsQy0vkyK9uGxq) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Joan of Arc](https://open.spotify.com/album/1UKS69HsGgT0ELOTdqrLWm) | 3:55 |
 | 174 | [Gravity](https://open.spotify.com/track/2KlqtN25qB3zXsSEclZgo0) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 3:47 |
 | 175 | [Deadstream \- Rostam Version](https://open.spotify.com/track/7ntAb3KnQscHU3beKUI012) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Deadstream \(Rostam Version\)](https://open.spotify.com/album/1uRWSPrJvL0tS1BBuuFnvK) | 3:16 |
-| 176 | [Heavy](https://open.spotify.com/track/1x6irsZMkJAQBYSUJYG74G) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/1noBhgsjRFveHzVr4QFwxv) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 3:21 |
+| 176 | [Heavy](https://open.spotify.com/track/1x6irsZMkJAQBYSUJYG74G) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 3:21 |
 | 177 | [Smile](https://open.spotify.com/track/2PvZwG4ol6nLQQ266kKrmk) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Chapter II \(Deluxe\)](https://open.spotify.com/album/1IMBoaFPmzHBHQjR8vVO2v) | 3:47 |
 | 178 | [Lost in Space](https://open.spotify.com/track/6xEuFZLg0OK5b94n8ZJy25) | [Starkey](https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Space Traitor, Vol\. 2](https://open.spotify.com/album/03sCimdfQYiG02SZDyAyGQ) | 4:46 |
-| 179 | [Bullets](https://open.spotify.com/track/5k5PKZ18CNLgubRSa5aIQ9) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/1noBhgsjRFveHzVr4QFwxv) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:43 |
+| 179 | [Bullets](https://open.spotify.com/track/5k5PKZ18CNLgubRSa5aIQ9) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:43 |
 | 180 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `AbgX1AAAAAC+8FpM20rxY2NzThuEVXkg`
+Snapshot ID: `AbgdagAAAAC5dFQ8lScBhYqRJmmqp/VO`

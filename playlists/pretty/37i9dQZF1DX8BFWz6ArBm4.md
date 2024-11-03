@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Ivi Adamou
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,922 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,939 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 11 | [Allo](https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Allo](https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav) | 3:33 |
 | 12 | [Iroas Ise](https://open.spotify.com/track/5GR7jdfBTJSQPRYdcB4DdZ) | [Nikiforos](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Iroas Ise](https://open.spotify.com/album/6M0pY9mFCyV0F0JOaUO4HF) | 3:49 |
 | 13 | [Psahno Na Vro](https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Psahno Na Vro](https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo) | 3:19 |
-| 14 | [I Gineka Tis Zois Sou](https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [1994](https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp) | 3:31 |
-| 15 | [Lekes](https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Lekes](https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF) | 4:15 |
+| 14 | [Lekes](https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Lekes](https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF) | 4:15 |
+| 15 | [I Gineka Tis Zois Sou](https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [1994](https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp) | 3:31 |
 | 16 | [Nikises](https://open.spotify.com/track/1N5289ic1M2dNcyJWHwY92) | [Konstantinos Koutsavakis](https://open.spotify.com/artist/2N3NhoOodUZklC4W87Jyxu), [Lefteris Pantazis](https://open.spotify.com/artist/5ZCCZxsnf0NCy3LBpPtH9Q), [XRISTINA KITSOULI](https://open.spotify.com/artist/29sIVAnR1n6YeLhS8rHNky) | [Nikises](https://open.spotify.com/album/0Fu04JGmgZV2EM3fZHwFsB) | 3:38 |
 | 17 | [Parallili Agapi](https://open.spotify.com/track/2SsaxxtqBdweyrZew2O6Ej) | [Christina Salti](https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr) | [Parallili Agapi](https://open.spotify.com/album/2S1gFwCroLJTVsPJoRbqxt) | 4:02 |
 | 18 | [Me Ponaei](https://open.spotify.com/track/2dK3r0Xn0GQ12ZbLIcNZ0d) | [Greg](https://open.spotify.com/artist/3uBNVjDel3HFDLBmNt4ork), [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Me Ponaei](https://open.spotify.com/album/5olYx0oR3jSnao5f6SeeNu) | 2:50 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 25 | [Na Pernas](https://open.spotify.com/track/26NCpU53AnjX6J148Xdsis) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Na Pernas](https://open.spotify.com/album/3HRF6TnVay0JANK4sWGABI) | 4:21 |
 | 26 | [Den Proskinisa](https://open.spotify.com/track/6pdrwsbECUSEtQbI5n8Q5p) | [Christos Menidiatis](https://open.spotify.com/artist/4SU6LvM9nyvqJqycIt1M0X) | [Den Proskinisa](https://open.spotify.com/album/4y4By6vNrmQUkzacM91dR1) | 3:42 |
 | 27 | [Floga](https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Efhi](https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB) | 3:00 |
-| 28 | [Shik Shak Shock](https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q) | [Andreas Habibi](https://open.spotify.com/artist/3ly58pp32vcAlUdLTubUbG), [Takinio Soul](https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk), [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Shik Shak Shock](https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL) | 2:39 |
-| 29 | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0) | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT) | 3:10 |
+| 28 | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0) | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT) | 3:10 |
+| 29 | [Shik Shak Shock](https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q) | [Andreas Habibi](https://open.spotify.com/artist/3ly58pp32vcAlUdLTubUbG), [Takinio Soul](https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk), [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Shik Shak Shock](https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL) | 2:39 |
 | 30 | [Alitheia](https://open.spotify.com/track/6kRNvc7eOG6Lnb873QWYTL) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Alitheia](https://open.spotify.com/album/6zdvmUtelQ0yvWOu4sYoF2) | 2:52 |
 | 31 | [De Mas Xorizei Tipota](https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv), [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [De Mas Xorizei Tipota](https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE) | 3:23 |
 | 32 | [Savvato Vrady](https://open.spotify.com/track/4v3ddZLCXUt947jF004vE7) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Savvato Vrady](https://open.spotify.com/album/2pwZE1wMOiMYZpPpBNIYpk) | 3:08 |

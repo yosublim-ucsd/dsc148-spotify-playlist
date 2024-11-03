@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 173538,
       "name": "8 Days - Wuki Remix",
       "url": "https://open.spotify.com/track/4lY3nqqbiBpK9LM59EWJTb"
@@ -3104,7 +3104,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 171105,
       "name": "Beat the Bass up",
       "url": "https://open.spotify.com/track/0VlL5Cr6q7c9vptbS8A5lB"
@@ -4338,6 +4338,36 @@
       "duration_ms": 235862,
       "name": "Bonanza (Feat. Raekwon)",
       "url": "https://open.spotify.com/track/5Wa1UEthUYiEAivLbNyRu2"
+    },
+    {
+      "album": {
+        "name": "Boneyard Cypher Volume II",
+        "url": "https://open.spotify.com/album/4cbDuHXzhpJiSnsXFHcJeU"
+      },
+      "artists": [
+        {
+          "name": "Zack Bone",
+          "url": "https://open.spotify.com/artist/2pRQ3QqVuVNi34FqnIqpOP"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Dirrty B",
+          "url": "https://open.spotify.com/artist/7sMdEFKLItyR1Pmj2JOon8"
+        },
+        {
+          "name": "Saint B",
+          "url": "https://open.spotify.com/artist/7gBZSnuuLirdlgGi9Qsl2N"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214045,
+      "name": "Boneyard Cypher Volume II",
+      "url": "https://open.spotify.com/track/5SREWCUWs21jqplpbKmK7J"
     },
     {
       "album": {
@@ -7442,7 +7472,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 320826,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
@@ -14292,7 +14322,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 176034,
       "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
@@ -15042,6 +15072,28 @@
       "duration_ms": 282853,
       "name": "Heidrun (2023 Remix)",
       "url": "https://open.spotify.com/track/4ZmcdD9qI3RYmWcPymv3mw"
+    },
+    {
+      "album": {
+        "name": "Helen's Theme (Electric Guitar Version)",
+        "url": "https://open.spotify.com/album/2OmPt3bNutz6nMeEjBD7Fv"
+      },
+      "artists": [
+        {
+          "name": "Sergio Sorrentino",
+          "url": "https://open.spotify.com/artist/2hV0tEHHlVNNr8qxpBr1qN"
+        },
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80136,
+      "name": "Helen's Theme - Electric Guitar Version",
+      "url": "https://open.spotify.com/track/33hiqXry5A2Ziq0sylcmHC"
     },
     {
       "album": {
@@ -16844,7 +16896,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 204733,
       "name": "If You Can Count",
       "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
@@ -18966,7 +19018,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 241818,
       "name": "King Illusion",
       "url": "https://open.spotify.com/track/6Ia6oCCkZneqsbQFh5eH2P"
@@ -19430,7 +19482,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 384827,
       "name": "La Llorona - Live",
       "url": "https://open.spotify.com/track/0yrzo7DTvSa21L2rGyafdT"
@@ -19936,6 +19988,28 @@
       "duration_ms": 199540,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/237yGWGEvX2phAuOgf7HHx"
+    },
+    {
+      "album": {
+        "name": "Spirit Box",
+        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172338,
+      "name": "Let Me Cook",
+      "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
     },
     {
       "album": {
@@ -23754,6 +23828,24 @@
       "duration_ms": 173133,
       "name": "My Funny Valentine - Instrumental",
       "url": "https://open.spotify.com/track/7gna6BQcAir2ZszbDqDpqm"
+    },
+    {
+      "album": {
+        "name": "My Funny Valentine (Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert])",
+        "url": "https://open.spotify.com/album/5DDiKk0BqvLTHEWckejdE3"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 740098,
+      "name": "My Funny Valentine - Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert]",
+      "url": "https://open.spotify.com/track/7C5x1Us4oj2LUjzXvLSyyT"
     },
     {
       "album": {
@@ -30337,6 +30429,28 @@
     },
     {
       "album": {
+        "name": "2nd Round",
+        "url": "https://open.spotify.com/album/7eUhSTAq1w4oGOLrFpzulg"
+      },
+      "artists": [
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
+        },
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256285,
+      "name": "SCYLLA - 2nd Round",
+      "url": "https://open.spotify.com/track/1xVjbg3E9n6SnN4RaGb11R"
+    },
+    {
+      "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },
@@ -32358,7 +32472,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 197019,
       "name": "St. Chroma (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
@@ -32804,7 +32918,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
@@ -40860,7 +40974,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 186506,
       "name": "X",
       "url": "https://open.spotify.com/track/5LfSEltyBQ0o10ravNgvLM"

@@ -4,7 +4,7 @@
 
 > Let's go! 👟
 
-276 songs - 15 hr 58 min
+277 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-08-12 | 2023-01-21 |
 | [Jealous \(I Ain't With It\)](https://open.spotify.com/track/0CaHZUniQtDRZleX6XK9p7) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/0U78mbujuFjpprS0G9QcTx) | 3:48 | 2022-01-21 | 2022-04-21 |
 | [Jealous \(I Ain't With It\)](https://open.spotify.com/track/3R5FA1Ay1NxgtwbElR78by) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj) | 3:48 | 2022-03-31 | 2024-04-13 |
-| [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 | 2024-03-08 |  |
+| [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 | 2024-03-08 | 2024-11-03 |
 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 | 2024-03-08 | 2024-04-08 |
 | [Junk Of The Heart \(Happy\)](https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 3:07 | 2022-01-21 |  |
 | [Kangaroo Court](https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:43 | 2022-01-21 | 2024-10-24 |
@@ -264,6 +264,7 @@
 | [Too Late Now](https://open.spotify.com/track/6OH7Zxopr4NxIVPfORUEoR) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Too Late Now / Oh No](https://open.spotify.com/album/0c1zD1xhhczlpTNzhuOtvS) | 3:29 | 2022-02-21 | 2022-03-01 |
 | [Up!](https://open.spotify.com/track/0kOlfVP8Vg17Q41RkWGbWY) | [The Legends](https://open.spotify.com/artist/0GSCJJOY6dLofAwE68vMPd), [Vilma Flood](https://open.spotify.com/artist/34mQpvCjyifYcrScoIlcmW) | [Up!](https://open.spotify.com/album/2P9XEw3s2JBOyXG09KBSKw) | 1:56 | 2022-01-21 | 2022-11-12 |
 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 | 2022-01-21 | 2024-08-15 |
+| [Wake Me Up](https://open.spotify.com/track/4kSCNra5VuD1ZfiwAe8bTD) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 4:23 | 2024-05-21 |  |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2024-04-12 |  |
 | [Want Me](https://open.spotify.com/track/6ONTW7En776d3rHoJ2oynA) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis \(Deluxe\)](https://open.spotify.com/album/2OqDjO2moqMLtBEfFiu8OB) | 4:18 | 2024-05-21 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2022-11-17 | 2023-02-16 |

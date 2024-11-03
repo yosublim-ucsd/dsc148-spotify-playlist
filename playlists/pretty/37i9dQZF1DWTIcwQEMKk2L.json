@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 69447,
+  "num_followers": 69451,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Sand Time",
-        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
-      },
-      "artists": [
-        {
-          "name": "Emil Negri",
-          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
-        }
-      ],
-      "duration_ms": 178585,
-      "name": "Sand Time",
-      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Living Memories",
         "url": "https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 185188,
       "name": "White Light",
       "url": "https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Sand Time",
+        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
+      },
+      "artists": [
+        {
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+        }
+      ],
+      "duration_ms": 178585,
+      "name": "Sand Time",
+      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Isla De Flores",
-        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 159124,
-      "name": "Isla De Flores",
-      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Soft Piano Tunes",
         "url": "https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 248350,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Isla De Flores",
+        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 159124,
+      "name": "Isla De Flores",
+      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "The Secret Piano",
-        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 115227,
-      "name": "Last Song",
-      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Compass",
         "url": "https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 140241,
       "name": "Compass",
       "url": "https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "The Secret Piano",
+        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 115227,
+      "name": "Last Song",
+      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Head, Shoulders, Knees and Toes",
-        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
-      },
-      "artists": [
-        {
-          "name": "Martha Blackburn",
-          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
-        }
-      ],
-      "duration_ms": 77672,
-      "name": "Hickory Dickory Dock",
-      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Intervention",
         "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 68250,
       "name": "Eeny Meeny Miny Moe",
       "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Head, Shoulders, Knees and Toes",
+        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
+      },
+      "artists": [
+        {
+          "name": "Martha Blackburn",
+          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
+        }
+      ],
+      "duration_ms": 77672,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
+        "name": "Fall Pieces",
+        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
+      },
+      "artists": [
+        {
+          "name": "Sonya O'Malley",
+          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
         "name": "Kiss the Rain",
         "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Fall Pieces",
-        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
-      },
-      "artists": [
-        {
-          "name": "Sonya O'Malley",
-          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "In The Stillness",
         "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Water Lilly Pond",
-        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
-      },
-      "artists": [
-        {
-          "name": "Malouvia",
-          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
-        }
-      ],
-      "duration_ms": 188025,
-      "name": "Water Lilly Pond",
-      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Still in Love With You",
         "url": "https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 156125,
       "name": "Still in Love With You",
       "url": "https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Water Lilly Pond",
+        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
+      },
+      "artists": [
+        {
+          "name": "Malouvia",
+          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
+        }
+      ],
+      "duration_ms": 188025,
+      "name": "Water Lilly Pond",
+      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "A Perceptual Process",
-        "url": "https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl"
-      },
-      "artists": [
-        {
-          "name": "Dominique Marais",
-          "url": "https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K"
-        }
-      ],
-      "duration_ms": 113820,
-      "name": "A Perceptual Process",
-      "url": "https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Stella's lullaby",
         "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 145874,
       "name": "Stella's lullaby",
       "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "A Perceptual Process",
+        "url": "https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl"
+      },
+      "artists": [
+        {
+          "name": "Dominique Marais",
+          "url": "https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K"
+        }
+      ],
+      "duration_ms": 113820,
+      "name": "A Perceptual Process",
+      "url": "https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "fading memories",
-        "url": "https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar"
+        "name": "I See the Light - From \"Tangled\"",
+        "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
       },
       "artists": [
         {
-          "name": "Signe Bratlie",
-          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
+          "name": "Gregory Bevill",
+          "url": "https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY"
         }
       ],
-      "duration_ms": 196250,
-      "name": "follow me home",
-      "url": "https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf"
+      "duration_ms": 200812,
+      "name": "I See the Light - From \"Tangled\"",
+      "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "I See the Light - From \"Tangled\"",
-        "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
+        "name": "fading memories",
+        "url": "https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar"
       },
       "artists": [
         {
-          "name": "Gregory Bevill",
-          "url": "https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY"
+          "name": "Signe Bratlie",
+          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
         }
       ],
-      "duration_ms": 200812,
-      "name": "I See the Light - From \"Tangled\"",
-      "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
+      "duration_ms": 196250,
+      "name": "follow me home",
+      "url": "https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "See you in the morning",
-        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
-      },
-      "artists": [
-        {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See you in the morning",
-      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Sibelius: Piano Music, Vol. 4",
         "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 125133,
       "name": "13 Pieces, Op. 76: No. 10 Elegiaco",
       "url": "https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "See you in the morning",
+        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
+      },
+      "artists": [
+        {
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "See you in the morning",
+      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Amorous Rebound",
-        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
-      },
-      "artists": [
-        {
-          "name": "Sumsar",
-          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
-        }
-      ],
-      "duration_ms": 109440,
-      "name": "Amorous Rebound",
-      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
-    },
-    {
-      "added_at": "2024-10-14 02:35:48",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 282824,
       "name": "Home",
       "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
+    },
+    {
+      "added_at": "2024-10-14 02:35:48",
+      "album": {
+        "name": "Amorous Rebound",
+        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
+      },
+      "artists": [
+        {
+          "name": "Sumsar",
+          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
+        }
+      ],
+      "duration_ms": 109440,
+      "name": "Amorous Rebound",
+      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "The Giant",
-        "url": "https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU"
+        "name": "Variante Alta",
+        "url": "https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K"
       },
       "artists": [
         {
-          "name": "Dilia",
-          "url": "https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z"
+          "name": "Flavio Apicella",
+          "url": "https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v"
         }
       ],
-      "duration_ms": 183686,
-      "name": "The Giant",
-      "url": "https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm"
+      "duration_ms": 232934,
+      "name": "Variante Alta",
+      "url": "https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S"
     },
     {
       "added_at": "2024-10-14 02:35:48",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-10-14 02:35:48",
       "album": {
-        "name": "Variante Alta",
-        "url": "https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K"
+        "name": "The Giant",
+        "url": "https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU"
       },
       "artists": [
         {
-          "name": "Flavio Apicella",
-          "url": "https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v"
+          "name": "Dilia",
+          "url": "https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z"
         }
       ],
-      "duration_ms": 232934,
-      "name": "Variante Alta",
-      "url": "https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S"
+      "duration_ms": 183686,
+      "name": "The Giant",
+      "url": "https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm"
     },
     {
       "added_at": "2024-10-14 02:35:48",

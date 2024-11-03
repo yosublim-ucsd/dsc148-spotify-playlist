@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=wdppI\-fhS1qjt9pyyAggSQ>Judikay</a>
 
-407 songs - 1 day 15 hr 52 min
+408 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Covenant Keeper](https://open.spotify.com/track/3oHMTQYoGL1eEAqFDK4bRh) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 3:52 | 2022-10-14 | 2022-11-05 |
 | [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/track/11rRKeoYIb3eloAr5nqHAA) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Mahazel](https://open.spotify.com/artist/15On8moHOaky2qVhWIp1xA) | [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/album/1xYW4XrZ5EdxQFeWFPl8Fw) | 9:51 | 2023-12-22 | 2024-01-23 |
 | [Cover me](https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Cover me](https://open.spotify.com/album/0mkQUdyVmm7l1mSfPYGLFs) | 2:37 | 2024-05-24 | 2024-06-01 |
+| [D2D](https://open.spotify.com/track/3OZy7WilXMYvEkLoFrMiOq) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [OCTAGON](https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf) | 2:37 | 2024-11-01 |  |
 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 | 2022-07-22 |  |
 | [Daddy Wey Dey Pamper \- Gbedu Version](https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/2vFfnAxG1DEPzxRxakdE5r) | 3:28 | 2023-12-05 | 2023-12-11 |
 | [Dadi](https://open.spotify.com/track/1jsNfKk9Jv6QuGaQWFh872) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Dadi](https://open.spotify.com/album/0JGojovVFDXUzBOh4zw9p2) | 2:57 | 2023-05-26 | 2023-06-09 |
@@ -213,7 +214,7 @@
 | [MAJO](https://open.spotify.com/track/3ixbMvMSAZLWRhqNdlQbnd) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [MAJO](https://open.spotify.com/album/3rcxWLvZXA2ZtmZzvPNqec) | 2:53 | 2023-12-15 | 2024-01-15 |
 | [Making Me](https://open.spotify.com/track/1dzDNpfxZs4uunBbSfrhP7) | [Tee Supreme](https://open.spotify.com/artist/6RqXGNrD0Sob28HXBsjqTk), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Making Me](https://open.spotify.com/album/4Lwj9GfrvpYFAlrXYnhj9O) | 2:47 | 2024-05-14 | 2024-05-24 |
 | [Malaika x Bien](https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Malaika x Bien](https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3) | 3:55 | 2024-06-21 | 2024-09-14 |
-| [Man Wey God Show Mercy](https://open.spotify.com/track/3sOVXmrMfjM9Cyb0EFussg) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Man Wey God Show Mercy](https://open.spotify.com/album/5PDUNqju1XfVwaYlnB9ReW) | 4:24 | 2024-10-11 |  |
+| [Man Wey God Show Mercy](https://open.spotify.com/track/3sOVXmrMfjM9Cyb0EFussg) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Man Wey God Show Mercy](https://open.spotify.com/album/5PDUNqju1XfVwaYlnB9ReW) | 4:24 | 2024-10-11 | 2024-11-03 |
 | [Maranatha](https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 6:35 | 2023-01-27 | 2024-03-16 |
 | [Melodies](https://open.spotify.com/track/1Evjgpabe7O551q1MGZ1Qb) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Melodies](https://open.spotify.com/album/2wfiWkB0R8e3PaJNsMxKNA) | 2:34 | 2024-10-11 |  |
 | [Mensuro](https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 6:48 | 2022-06-09 | 2023-06-16 |

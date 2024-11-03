@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Nia Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,207 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,279 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,18 +21,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 11 | [Light Work](https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Light Work](https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe) | 3:37 |
 | 12 | [Around Me](https://open.spotify.com/track/1YEVx89VQ53Lj96DuDs6Et) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Around Me](https://open.spotify.com/album/637AZlOAncgk471qGUVCvP) | 2:54 |
 | 13 | [Fine By Myself](https://open.spotify.com/track/6wPAtoGq4fvAHALzbgEjFP) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:43 |
-| 14 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 |
+| 14 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
 | 15 | [LDN](https://open.spotify.com/track/1hyfDqeOomUgiDZZehFP3D) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Full Circle](https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z) | 1:52 |
-| 16 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
-| 17 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 |
-| 18 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 |
+| 16 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 |
+| 17 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 |
+| 18 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 |
 | 19 | [BAD4U](https://open.spotify.com/track/5299KaEOLIQoPBO69jMRgN) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [BAD4U](https://open.spotify.com/album/4qHTcBrDRkp7X9gfypo0RX) | 3:37 |
 | 20 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
 | 21 | [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 |
 | 22 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
-| 23 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 |
-| 24 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
-| 25 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 |
+| 23 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 |
+| 24 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 |
+| 25 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
 | 26 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 |
 | 27 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 |
 | 28 | [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 51 | [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 |
 | 52 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
 | 53 | [25!](https://open.spotify.com/track/0bxpbu9nyLiWVEoAB40hlz) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [25!](https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A) | 2:09 |
-| 54 | [Stone \(feat\. Bakar\)](https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Stone \(feat\. Bakar\)](https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ) | 3:20 |
-| 55 | [I Wanna](https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [I Wanna](https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0) | 2:10 |
+| 54 | [I Wanna](https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [I Wanna](https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0) | 2:10 |
+| 55 | [Stone \(feat\. Bakar\)](https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Stone \(feat\. Bakar\)](https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ) | 3:20 |
 | 56 | [Fallin 4 A Thug](https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Fallin 4 A Thug](https://open.spotify.com/album/08two7eshES8TNEHi6WBGl) | 2:30 |
-| 57 | [The Love Is Gone](https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [The Love Is Gone](https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j) | 3:19 |
-| 58 | [Itch](https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Itch](https://open.spotify.com/album/2Sa9sXkfZiiFlLzZpczAq3) | 4:25 |
+| 57 | [Itch](https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Itch](https://open.spotify.com/album/2Sa9sXkfZiiFlLzZpczAq3) | 4:25 |
+| 58 | [The Love Is Gone](https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [The Love Is Gone](https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j) | 3:19 |
 | 59 | [No Bad Energy](https://open.spotify.com/track/4RuCu5EaKXY60YcOzdLZYt) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [No Bad Energy](https://open.spotify.com/album/2SIpildhIlKFKx0eULa3dN) | 3:13 |
 | 60 | [Escape Plan](https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Escape Plan](https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy) | 3:35 |
 

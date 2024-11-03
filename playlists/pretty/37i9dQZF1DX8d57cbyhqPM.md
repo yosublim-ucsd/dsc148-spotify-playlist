@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. 🌍 Photo: Tonton Bramsito
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,445 likes - 63 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,496 likes - 63 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

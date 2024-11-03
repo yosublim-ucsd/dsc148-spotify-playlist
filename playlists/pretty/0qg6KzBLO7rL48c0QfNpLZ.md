@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 114,127 likes - 237 songs - 10 hr 18 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 114,432 likes - 237 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reality](https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:39 |
 | 2 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
 | 3 | [Sky Full Of Stars](https://open.spotify.com/track/0y8LNQMusxx6J9j2mRuvyu) | [Altrøx](https://open.spotify.com/artist/045vOffxVPFfgpn3qjn5Yo), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR), [Jon Nelson](https://open.spotify.com/artist/7xMCtIUuXgjNjccvaFotD4), [LoudNæss](https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w) | [Sky Full Of Stars](https://open.spotify.com/album/0k8NGwTdfbKvRQ5zLEAr1q) | 3:18 |
-| 4 | [Hiding](https://open.spotify.com/track/2o0el6UlLq6I1QCyLetFRz) | [Nyday](https://open.spotify.com/artist/0L8JYDELi85NGgYy30MbRa), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Hiding](https://open.spotify.com/album/0NtWULkgSdjZfJB1x56A68) | 2:40 |
+| 4 | [Hiding](https://open.spotify.com/track/2o0el6UlLq6I1QCyLetFRz) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Nyday](https://open.spotify.com/artist/0L8JYDELi85NGgYy30MbRa) | [Hiding](https://open.spotify.com/album/0NtWULkgSdjZfJB1x56A68) | 2:40 |
 | 5 | [I Don't Wanna Wait](https://open.spotify.com/track/0K7rNlTUvPkA40eju6eE3y) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [I Don't Wanna Wait](https://open.spotify.com/album/3MvUqE3bKm73Z6Ttksg3id) | 2:52 |
 | 6 | [Wake Me Up](https://open.spotify.com/track/3OmjZrycraEy41ASkFH1Vj) | [LUKUS](https://open.spotify.com/artist/1MRIxJ469v984abDvc1sMi), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7) | [Wake Me Up](https://open.spotify.com/album/4iEmdHtgMRMGNPt92SZsrT) | 2:39 |
 | 7 | [When The Beat Drops Out](https://open.spotify.com/track/0TV5O9DZxQ561w1fNc0TSg) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [When The Beat Drops Out](https://open.spotify.com/album/5BLj4vYsELaoM95lOU2Ogg) | 2:24 |

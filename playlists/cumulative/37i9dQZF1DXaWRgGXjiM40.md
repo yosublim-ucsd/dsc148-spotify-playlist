@@ -4,7 +4,7 @@
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-104 songs - 5 hr 19 min
+105 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Espelho Meu \- Ao Vivo](https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Espelho Meu \(Ao Vivo\)](https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC) | 2:41 | 2024-10-11 |  |
 | [Eu Nunca Fui \- Ao Vivo](https://open.spotify.com/track/3gqzwytSXoWI8xgRloB6WL) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Eu Nunca Fui \(Ao Vivo\)](https://open.spotify.com/album/3H4aDTT9MmDdYCkrwiczJf) | 2:42 | 2023-02-17 | 2023-05-21 |
 | [Eu, Você, O Mar e Ela](https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [1977](https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww) | 3:07 | 2023-04-07 |  |
+| [Exclusividade \- Ao Vivo](https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:12 | 2024-10-11 |  |
 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 | 2023-02-10 |  |
 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 | 2023-02-10 |  |
 | [Ficha Limpa](https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 1](https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2) | 3:12 | 2023-02-10 |  |
@@ -104,7 +105,7 @@
 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 | 2024-01-05 | 2024-11-01 |
 | [Todo Mundo Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:34 | 2023-02-17 |  |
 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 | 2024-03-14 |  |
-| [Vagabundo](https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vagabundo](https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v) | 2:45 | 2023-02-10 |  |
+| [Vagabundo](https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vagabundo](https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v) | 2:45 | 2023-02-10 | 2024-11-03 |
 | [Vestido Curto \- Ao Vivo](https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vestido Curto \(Ao Vivo\)](https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC) | 2:31 | 2023-12-22 |  |
 | [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 | 2024-01-05 |  |
 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 | 2023-04-07 | 2024-04-19 |

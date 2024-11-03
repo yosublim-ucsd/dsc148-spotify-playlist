@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 297226,
+  "num_followers": 297440,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAD8gvpwTpCZqJhleerkj0Uw",
+  "snapshot_id": "ZyQaAAAAAADNTuRzLoE2c5Vj/IAH2bHx",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys Cry Too (with Noah Kahan)",
-        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
+        "name": "Live From Fenway Park",
+        "url": "https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6"
       },
       "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Cowboys Cry Too (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
+      "duration_ms": 140327,
+      "name": "Pain Is Cold Water - Live From Fenway Park",
+      "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
     },
     {
       "added_at": null,
@@ -283,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From Fenway Park",
-        "url": "https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6"
+        "name": "Cowboys Cry Too (with Noah Kahan)",
+        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
       "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 140327,
-      "name": "Pain Is Cold Water - Live From Fenway Park",
-      "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
+      "duration_ms": 230600,
+      "name": "Cowboys Cry Too (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
     },
     {
       "added_at": null,

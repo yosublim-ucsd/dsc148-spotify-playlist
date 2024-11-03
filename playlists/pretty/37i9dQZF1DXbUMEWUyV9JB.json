@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: DeMasters, Pedro Cap\u00f3, LiL CaKe.",
-  "num_followers": 273645,
+  "num_followers": 273649,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-10-10 22:30:18",
       "album": {
-        "name": "A LA ORDEN",
-        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "A LA ORDEN",
-      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
-    },
-    {
-      "added_at": "2024-10-10 22:30:18",
-      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 156379,
       "name": "Te Perdonar\u00eda",
       "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
+    },
+    {
+      "added_at": "2024-10-10 22:30:18",
+      "album": {
+        "name": "A LA ORDEN",
+        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "A LA ORDEN",
+      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
     },
     {
       "added_at": "2024-10-10 22:30:18",
@@ -759,18 +759,22 @@
     {
       "added_at": "2024-10-10 22:30:18",
       "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
+        "name": "Borracho Enamorado",
+        "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
       "artists": [
         {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Coraz\u00f3n Adolorido",
-      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+      "duration_ms": 152776,
+      "name": "Borracho Enamorado",
+      "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
     },
     {
       "added_at": "2024-10-10 22:30:18",
@@ -791,22 +795,18 @@
     {
       "added_at": "2024-10-10 22:30:18",
       "album": {
-        "name": "Borracho Enamorado",
-        "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
       "artists": [
         {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 152776,
-      "name": "Borracho Enamorado",
-      "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
+      "duration_ms": 230133,
+      "name": "Coraz\u00f3n Adolorido",
+      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
     },
     {
       "added_at": "2024-10-10 22:30:18",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-10 22:30:18",
       "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 264413,
-      "name": "He Cre\u00eddo",
-      "url": "https://open.spotify.com/track/0VOPCehPHWW9El3rHVsNmJ"
-    },
-    {
-      "added_at": "2024-10-10 22:30:18",
-      "album": {
         "name": "Pasi\u00f3n Y Cumbia",
         "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 186133,
       "name": "Amigos Nunca",
       "url": "https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW"
+    },
+    {
+      "added_at": "2024-10-10 22:30:18",
+      "album": {
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 264413,
+      "name": "He Cre\u00eddo",
+      "url": "https://open.spotify.com/track/0VOPCehPHWW9El3rHVsNmJ"
     },
     {
       "added_at": "2024-10-10 22:30:18",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-10-10 22:30:18",
       "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+        "name": "Recuerdos Andinos",
+        "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
       },
       "artists": [
         {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+      "duration_ms": 236813,
+      "name": "Cumbia Azteca",
+      "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
     },
     {
       "added_at": "2024-10-10 22:30:18",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-10-10 22:30:18",
       "album": {
-        "name": "Recuerdos Andinos",
-        "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 236813,
-      "name": "Cumbia Azteca",
-      "url": "https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR"
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
     },
     {
       "added_at": "2024-10-10 22:30:18",
@@ -1475,8 +1475,8 @@
     {
       "added_at": "2024-10-10 22:30:18",
       "album": {
-        "name": "Se Agradece",
-        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
+        "name": "La Cumbia Triste",
+        "url": "https://open.spotify.com/album/2GKBfuu1ab0QKzOpyrvMva"
       },
       "artists": [
         {
@@ -1484,13 +1484,13 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         },
         {
-          "name": "Eliades Ochoa",
-          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 201077,
-      "name": "Nac\u00ed en un Pueblo de Latinoam\u00e9rica",
-      "url": "https://open.spotify.com/track/0XZo5RtHQbNIuQqMm7ZXuz"
+      "duration_ms": 210960,
+      "name": "La Cumbia Triste",
+      "url": "https://open.spotify.com/track/5tsZWdsk2emPhUXNYs5Jnr"
     },
     {
       "added_at": "2024-10-10 22:30:18",

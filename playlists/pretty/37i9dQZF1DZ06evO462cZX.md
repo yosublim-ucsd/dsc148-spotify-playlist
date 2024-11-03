@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,057 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,070 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 24 | [Si Tú No Estás Aquí \(feat\. LÚA\)](https://open.spotify.com/track/0a95aNz4gEBw9zqR0zZIIH) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 4:03 |
 | 25 | [Without Your Love](https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Without Your Love](https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs) | 2:34 |
 | 26 | [PINK](https://open.spotify.com/track/5JIywJ2IgYvFVNk8cU3CyA) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [PINK](https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo) | 3:41 |
-| 27 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 |
-| 28 | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv) | 2:45 |
+| 27 | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv) | 2:45 |
+| 28 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 |
 | 29 | [Cuando](https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Cuando](https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D) | 2:50 |
 | 30 | [Camaron Pelao](https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Camaron Pelao](https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF) | 3:30 |
 | 31 | [Te Va a Doler \- Deorro Remix](https://open.spotify.com/track/3fGULDOpjc4bmDvTvPrvaP) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [A Mucha Honra](https://open.spotify.com/album/1IbcDpHFX8oKYnipXxeZmG) | 3:14 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 46 | [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 |
 | 47 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 |
 | 48 | [Que Es Eso \(feat\. Young Eiby\)](https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Young Eiby](https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:40 |
-| 49 | [Descontrol](https://open.spotify.com/track/32P1jzQQ8K3zp97AirjLFG) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Descontrol](https://open.spotify.com/album/6DRs1wUbne7sb2hBxMxIah) | 2:34 |
-| 50 | [¡MAS CRAZY!](https://open.spotify.com/track/5BZlwePMT2J54TWq7Eaks7) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [¡MAS CRAZY!](https://open.spotify.com/album/5rSmIwMeJMNV2eBK6JJvQx) | 2:34 |
+| 49 | [¡MAS CRAZY!](https://open.spotify.com/track/5BZlwePMT2J54TWq7Eaks7) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [¡MAS CRAZY!](https://open.spotify.com/album/5rSmIwMeJMNV2eBK6JJvQx) | 2:34 |
+| 50 | [Descontrol](https://open.spotify.com/track/32P1jzQQ8K3zp97AirjLFG) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Descontrol](https://open.spotify.com/album/6DRs1wUbne7sb2hBxMxIah) | 2:34 |
 
-Snapshot ID: `ZyLIgAAAAACI6hxoFMBqK1j7r5ppnqbN`
+Snapshot ID: `ZyQaAAAAAACcg3f+zQvQ4Pz0B9Y3ZP6z`

@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Mia Salinas, ganadora de nuestro concurso Mi Primer Escenario, en portada.",
-  "num_followers": 707368,
+  "num_followers": 707458,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,22 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
-        "name": "Tal Vez Fui Yo",
-        "url": "https://open.spotify.com/album/69jwXCQWJp72tQCYlSkiNs"
+        "name": "Volver Al Futuro",
+        "url": "https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6"
       },
       "artists": [
         {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 150365,
-      "name": "Tal Vez Fui Yo",
-      "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
+      "duration_ms": 204102,
+      "name": "Volver Al Futuro",
+      "url": "https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL"
     },
     {
       "added_at": "2024-10-22 17:00:00",
@@ -467,22 +471,18 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
-        "name": "Volver Al Futuro",
-        "url": "https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6"
+        "name": "Tal Vez Fui Yo",
+        "url": "https://open.spotify.com/album/69jwXCQWJp72tQCYlSkiNs"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 204102,
-      "name": "Volver Al Futuro",
-      "url": "https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL"
+      "duration_ms": 150365,
+      "name": "Tal Vez Fui Yo",
+      "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
     },
     {
       "added_at": "2024-10-10 00:14:35",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
-        "name": "Todo a Su Tiempo",
-        "url": "https://open.spotify.com/album/6kvBev4PFHNvLzWn3IMpEh"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 238240,
-      "name": "Todo a Su Tiempo",
-      "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
-    },
-    {
-      "added_at": "2024-10-10 00:14:35",
-      "album": {
         "name": "Cu\u00eddamela Bien",
         "url": "https://open.spotify.com/album/4dJ1jkHv0md3zBVBRd1LtU"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 223442,
       "name": "Cu\u00eddamela Bien",
       "url": "https://open.spotify.com/track/0WNgUUri9HDc4WUvkvHqT5"
+    },
+    {
+      "added_at": "2024-10-10 00:14:35",
+      "album": {
+        "name": "Todo a Su Tiempo",
+        "url": "https://open.spotify.com/album/6kvBev4PFHNvLzWn3IMpEh"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 238240,
+      "name": "Todo a Su Tiempo",
+      "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
     },
     {
       "added_at": "2024-10-10 00:14:35",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
-        "name": "Chula",
-        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 150724,
-      "name": "Chula",
-      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
-    },
-    {
-      "added_at": "2024-10-10 00:14:35",
-      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 173195,
       "name": "Dime",
       "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
+    },
+    {
+      "added_at": "2024-10-10 00:14:35",
+      "album": {
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 150724,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
     },
     {
       "added_at": "2024-10-10 00:14:35",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/097u0yAwcEdC4L0J8ZNF2f"
+        "name": "Para Que Seas Feliz",
+        "url": "https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV"
       },
       "artists": [
         {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 153402,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU"
+      "duration_ms": 182513,
+      "name": "Para Que Seas Feliz",
+      "url": "https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ"
     },
     {
       "added_at": "2024-10-10 00:14:35",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-10-10 00:14:35",
       "album": {
-        "name": "Para Que Seas Feliz",
-        "url": "https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV"
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/097u0yAwcEdC4L0J8ZNF2f"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
         }
       ],
-      "duration_ms": 182513,
-      "name": "Para Que Seas Feliz",
-      "url": "https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ"
+      "duration_ms": 153402,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU"
     },
     {
       "added_at": "2024-10-10 00:14:35",

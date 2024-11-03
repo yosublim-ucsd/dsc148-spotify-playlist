@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 125703,
+  "num_followers": 125733,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAC9tOASJoXLUTqr2IEaH/o4",
+  "snapshot_id": "ZyQaAAAAAADvIr55X+l2HBmEF7bZiYR7",
   "tracks": [
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "+1 (404) 476-6404",
-        "url": "https://open.spotify.com/album/41Bnkkh7oh5qMLw7bI32DX"
+        "name": "Your Friends (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM"
       },
       "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 48000,
-      "name": "+1 (404) 476-6404",
-      "url": "https://open.spotify.com/track/4OLXP8Bgh2AouRvSKQTRbj"
+      "duration_ms": 214038,
+      "name": "Your Friends (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX"
     },
     {
       "added_at": null,
@@ -755,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Friends (feat. Summer Walker)",
-        "url": "https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM"
+        "name": "+1 (404) 476-6404",
+        "url": "https://open.spotify.com/album/41Bnkkh7oh5qMLw7bI32DX"
       },
       "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 214038,
-      "name": "Your Friends (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX"
+      "duration_ms": 48000,
+      "name": "+1 (404) 476-6404",
+      "url": "https://open.spotify.com/track/4OLXP8Bgh2AouRvSKQTRbj"
     },
     {
       "added_at": null,

@@ -10388,7 +10388,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 175179,
       "name": "Overrated!",
       "url": "https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM"
@@ -24930,6 +24930,24 @@
       "duration_ms": 239371,
       "name": "\u53ef\u611b\u3044\u30e6\u30ca\u3061\u3083\u3093",
       "url": "https://open.spotify.com/track/51Wglv2PINrDBmgjFBZAet"
+    },
+    {
+      "album": {
+        "name": "\u5408\u9375\u3068\u30a2\u30a4\u30ed\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/3ydU0e13X6At2DnAsNG1Qf"
+      },
+      "artists": [
+        {
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
+        }
+      ],
+      "date_added": "2024-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172305,
+      "name": "\u5408\u9375\u3068\u30a2\u30a4\u30ed\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/6Ne6n6vGbAy8yVULukUSZg"
     },
     {
       "album": {

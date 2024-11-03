@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,773 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,767 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 34 | [Amianto](https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Spazio](https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p) | 2:59 |
 | 35 | [JAPANESE](https://open.spotify.com/track/58gzVKHQ3HTTJhUnt65XDP) | [ViraH](https://open.spotify.com/artist/69o2pHVfX91A567pn3hehS) | [JAPANESE](https://open.spotify.com/album/6AkuFnGVxtCpRVE4HRUWBP) | 3:06 |
 | 36 | [TheBestVersionOfMyself](https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:12 |
-| 37 | [Rest](https://open.spotify.com/track/5wz9se6PQr0raxQtmsdBQm) | [Wicca Phase Springs Eternal](https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A) | [Suffer On](https://open.spotify.com/album/2xFuWOCqvKkABqxIQReMGX) | 2:10 |
-| 38 | [CUORE RINCHIUSO](https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [CUORE RINCHIUSO](https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX) | 2:15 |
+| 37 | [CUORE RINCHIUSO](https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [CUORE RINCHIUSO](https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX) | 2:15 |
+| 38 | [Rest](https://open.spotify.com/track/5wz9se6PQr0raxQtmsdBQm) | [Wicca Phase Springs Eternal](https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A) | [Suffer On](https://open.spotify.com/album/2xFuWOCqvKkABqxIQReMGX) | 2:10 |
 | 39 | [14](https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ) | [Jayred](https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [14](https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk) | 1:50 |
 | 40 | [RABBIA DISTILLATA](https://open.spotify.com/track/3em916bP0hSXqbfWpYWP9g) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [CHE IO MI AIUTI](https://open.spotify.com/album/0EPRc36lZm7irBGc6dVQTY) | 2:36 |
 | 41 | [Lei No \(Il Tradito\)](https://open.spotify.com/track/1thFyozce9U4LsdXYpheBl) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo \(67 Edition\)](https://open.spotify.com/album/3jaseqJUAT1PMLbpYKCUPq) | 3:42 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 97 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 |
 | 98 | [Amelie](https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Amelie](https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q) | 3:18 |
 | 99 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
-| 100 | [NON MI RICONOSCO ≠ \(con centomilacarie, Salmo\)](https://open.spotify.com/track/02qmjMWNK9hiO9PsndeLLQ) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:36 |
+| 100 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 |
 
 Snapshot ID: `ZxGJHAAAAAAkOLoYXPrI/4+NsfliksNa`

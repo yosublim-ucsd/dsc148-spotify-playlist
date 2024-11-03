@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 157304,
+  "num_followers": 157399,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAABkQArKdP1yYUPmAaYUARg0",
+  "snapshot_id": "ZyQaAAAAAAB4aibrQpm+zbWg42eHu1vO",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Me Than You",
-        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 203637,
-      "name": "It Is What It Is (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5oq7ssOOA3U6UbQ5vjYQvO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harder Than Ever",
         "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 247054,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 203637,
+      "name": "It Is What It Is (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5oq7ssOOA3U6UbQ5vjYQvO"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "go crazy",
+      "url": "https://open.spotify.com/track/6YD8EpsddOfEwAhaymGu0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
         "url": "https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 156097,
       "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
       "url": "https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "go crazy",
-      "url": "https://open.spotify.com/track/6YD8EpsddOfEwAhaymGu0Q"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "turned your back",
+      "url": "https://open.spotify.com/track/7Aq3pnhSzI8FnHt7T6TPsX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sold Out Dates (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "turned your back",
-      "url": "https://open.spotify.com/track/7Aq3pnhSzI8FnHt7T6TPsX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -543,6 +543,26 @@
       "duration_ms": 122693,
       "name": "south to west",
       "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Certified Hitmaker",
+        "url": "https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 123560,
+      "name": "Stuck In A Dream (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"
     },
     {
       "added_at": null,
@@ -567,26 +587,6 @@
       "duration_ms": 194732,
       "name": "Never Recover (Lil Baby & Gunna, Drake)",
       "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Certified Hitmaker",
-        "url": "https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 123560,
-      "name": "Stuck In A Dream (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Style Rare (with Gunna)",
-        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Style Rare (with Gunna)",
-      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7220",
         "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Style Rare (with Gunna)",
+        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Style Rare (with Gunna)",
+      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
     },
     {
       "added_at": null,
@@ -851,22 +851,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Brownprint",
-        "url": "https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9"
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
       "artists": [
         {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 178424,
-      "name": "Losing Myself (feat. Gunna)",
-      "url": "https://open.spotify.com/track/2ANRizlq2UYXBJm3zpotTM"
+      "duration_ms": 152333,
+      "name": "Ski",
+      "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
     },
     {
       "added_at": null,
@@ -891,26 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Language 2",
-        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+        "name": "The Brownprint",
+        "url": "https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9"
       },
       "artists": [
         {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
         },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 152333,
-      "name": "Ski",
-      "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
+      "duration_ms": 178424,
+      "name": "Losing Myself (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2ANRizlq2UYXBJm3zpotTM"
     },
     {
       "added_at": null,

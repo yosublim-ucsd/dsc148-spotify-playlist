@@ -4,7 +4,7 @@
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 53 min
+85 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Little Lion Man](https://open.spotify.com/track/2KrN3MCNztKcSleZgHEj83) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/0kjj3EUl6EOrKSC9iDurZq) | 4:05 | 2022-10-21 |  |
 | [Little Lion Man](https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:06 | 2022-09-16 | 2022-10-22 |
 | [Little Lion Man](https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:07 | 2022-11-06 | 2024-10-28 |
-| [Lover Of The Light](https://open.spotify.com/track/0Qp1eaUp7ophvR2lo7fQuN) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 5:14 | 2022-10-25 |  |
+| [Lover Of The Light](https://open.spotify.com/track/0Qp1eaUp7ophvR2lo7fQuN) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 5:14 | 2022-10-25 | 2024-11-03 |
+| [Lover of the Light](https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn) | 5:14 | 2024-11-03 |  |
 | [Lover of the Light](https://open.spotify.com/track/48dghEx4vhyQQfFLwxPfHD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:14 | 2022-09-16 | 2022-10-26 |
 | [Lover of the Light](https://open.spotify.com/track/6NUr2TMn5nsaerT4tuHpFb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:14 | 2022-11-02 | 2024-10-25 |
 | [Monster](https://open.spotify.com/track/4ma2AbPdsy5ijCyJn16mAv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:56 | 2022-09-16 | 2022-10-15 |

@@ -1,6 +1,6 @@
 {
   "description": "100% British - 100% R&B. Cover: Nia Smith",
-  "num_followers": 151207,
+  "num_followers": 151279,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -231,38 +231,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Suns Out",
-        "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        }
-      ],
-      "duration_ms": 151788,
-      "name": "Suns Out",
-      "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
-      },
-      "artists": [
-        {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
-        }
-      ],
-      "duration_ms": 112938,
-      "name": "LDN",
-      "url": "https://open.spotify.com/track/1hyfDqeOomUgiDZZehFP3D"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "AUCTION",
         "url": "https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU"
       },
@@ -283,22 +251,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Hold You Down",
-        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
         }
       ],
-      "duration_ms": 158069,
-      "name": "Hold You Down",
-      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
+      "duration_ms": 112938,
+      "name": "LDN",
+      "url": "https://open.spotify.com/track/1hyfDqeOomUgiDZZehFP3D"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -315,6 +279,42 @@
       "duration_ms": 153648,
       "name": "eyes wide open",
       "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Suns Out",
+        "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 151788,
+      "name": "Suns Out",
+      "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Can I Call You Rose? (Cover)",
+        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Can I Call You Rose? - Cover",
+      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 136318,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Can I Call You Rose? (Cover)",
-        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Can I Call You Rose? - Cover",
-      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0"
+      },
+      "artists": [
+        {
+          "name": "Essii",
+          "url": "https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ"
+        }
+      ],
+      "duration_ms": 130841,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Stone (feat. Bakar)",
         "url": "https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0"
-      },
-      "artists": [
-        {
-          "name": "Essii",
-          "url": "https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ"
-        }
-      ],
-      "duration_ms": 130841,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Fallin 4 A Thug",
         "url": "https://open.spotify.com/album/08two7eshES8TNEHi6WBGl"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "The Love Is Gone",
-        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
-      },
-      "artists": [
-        {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
-        }
-      ],
-      "duration_ms": 199732,
-      "name": "The Love Is Gone",
-      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Itch",
         "url": "https://open.spotify.com/album/2Sa9sXkfZiiFlLzZpczAq3"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 265120,
       "name": "Itch",
       "url": "https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "The Love Is Gone",
+        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "The Love Is Gone",
+      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
     },
     {
       "added_at": "2024-10-24 23:00:00",

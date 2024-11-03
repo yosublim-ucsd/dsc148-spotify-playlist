@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  <a href="spotify:artist:6piIAIurGAryW5h1rqQC16">Passion</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,483 likes - 100 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,555 likes - 100 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 37 | [Let Me See Jesus \- Live](https://open.spotify.com/track/6sigFENDLLKQaMc874J7T3) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Coming Back To The Heart \(Live Collection\)](https://open.spotify.com/album/0hZCaD2xckc6RSZjQHY97E) | 6:21 |
 | 38 | [Holy Spirit Come \- Live](https://open.spotify.com/track/0PoeMVEQBD6AjW0NsR95cD) | [Damascus Worship](https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Holy Spirit Come \(Live\)](https://open.spotify.com/album/397lpit5k0ZFJnxOrMHv2V) | 7:29 |
 | 39 | [Abide \- Radio Version](https://open.spotify.com/track/1kjy5475BVdvJ4ZgG2So9L) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C) | [Abide \(Radio Version\)](https://open.spotify.com/album/0tpFk1aYmsJ7xo1Zsc2N9G) | 3:48 |
-| 40 | [Highest Praise](https://open.spotify.com/track/07KfkF3DR65fiZ8LJp38Cy) | [Celebration Music](https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp), [Lauren Tyler](https://open.spotify.com/artist/4gRyzQZaBqfaJz4QHppN53) | [Highest Praise](https://open.spotify.com/album/0J2GvzeCLLt5awJGl7vnu4) | 5:50 |
+| 40 | [Highest Praise](https://open.spotify.com/track/07KfkF3DR65fiZ8LJp38Cy) | [Celebration Music](https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp), [Lauren Tyler](https://open.spotify.com/artist/6ZjRHo4yTEMkH4xHer95CF) | [Highest Praise](https://open.spotify.com/album/0J2GvzeCLLt5awJGl7vnu4) | 5:50 |
 | 41 | [Who Is Like You](https://open.spotify.com/track/3Gr7zPy6KiLaa6vfK4SYOR) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw) | [Who Is Like You](https://open.spotify.com/album/42HN6Vo3MNDXUvFbIzvy5d) | 5:40 |
 | 42 | [As For Me And My House](https://open.spotify.com/track/7h5gGePVD30yqhh7WIu3lC) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4), [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [As For Me And My House](https://open.spotify.com/album/2ZTI4YFIoKGoWPHcTLGBoT) | 3:35 |
 | 43 | [Endless Well / Show Me Your Face](https://open.spotify.com/track/6RDfVNCRkNkoXPpncyHTkH) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Sounds From The House \(Vol\. 1\)](https://open.spotify.com/album/5OmEixUzkXth6PVgD7OAoJ) | 5:59 |

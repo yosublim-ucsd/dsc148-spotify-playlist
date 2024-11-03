@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,741 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,778 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 59 | [Sigo Aquí](https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Sigo Aquí](https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX) | 4:00 |
 | 60 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
 | 61 | [Ayer Pedi](https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Ayer Pedi](https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o) | 3:25 |
-| 62 | [Vas a Llorar](https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Vas a Llorar](https://open.spotify.com/album/63I1RAXIkhhIVpsG8b8aQK) | 3:24 |
+| 62 | [No Te Vayas Corazon](https://open.spotify.com/track/3v0sMPPtovPNwDpAtLpfhf) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Nº 1](https://open.spotify.com/album/6d3DZcUcdsMgFIyGB91FN5) | 3:14 |
 | 63 | [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 |
 | 64 | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [ROMEA](https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1) | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52) | 2:22 |
-| 65 | [No Te Vayas Corazon](https://open.spotify.com/track/3v0sMPPtovPNwDpAtLpfhf) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Nº 1](https://open.spotify.com/album/6d3DZcUcdsMgFIyGB91FN5) | 3:14 |
+| 65 | [Vas a Llorar](https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Vas a Llorar](https://open.spotify.com/album/63I1RAXIkhhIVpsG8b8aQK) | 3:24 |
 
 Snapshot ID: `Zq0VnwAAAADw3PX37OZsrhgRrNhJil1X`

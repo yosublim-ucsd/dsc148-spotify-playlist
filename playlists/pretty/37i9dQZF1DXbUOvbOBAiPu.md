@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Damso
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,373 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,389 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 76 | [Broken Sunshine](https://open.spotify.com/track/0dN8k9rJg8uQnERTw5w5Vy) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Broken Sunshine](https://open.spotify.com/album/7vucHZXvKvdwPhlZzzJvTR) | 2:55 |
 | 77 | [seaside](https://open.spotify.com/track/1JRoKdlVPLg8hotBeouj1b) | [ciggy sunday](https://open.spotify.com/artist/0QwvTI58dfvAdVnuJggykY) | [seaside](https://open.spotify.com/album/1IJdHiEi9JTy9PKxQpZuAu) | 3:03 |
 | 78 | [Bliss](https://open.spotify.com/track/6PuYXPmuCWC9yMNvheWiqG) | [Slowcooker](https://open.spotify.com/artist/6Q7YKzFpvOZ06F0PIeUQq8) | [Bliss](https://open.spotify.com/album/0kf0YZNv9ycjKRyRtBfuKx) | 3:47 |
-| 79 | [little, red little blue](https://open.spotify.com/track/549B1CdMdo8ow94Xrj4gYl) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [little red, little blue](https://open.spotify.com/album/1Oz14C4aJ9PknMdmcSFKPS) | 2:48 |
+| 79 | [little, red little blue](https://open.spotify.com/track/549B1CdMdo8ow94Xrj4gYl) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [little, red little blue](https://open.spotify.com/album/1Oz14C4aJ9PknMdmcSFKPS) | 2:48 |
 | 80 | [BIGREAL \#4](https://open.spotify.com/track/4ab7hStKdpZk9DcafikFLu) | [REA](https://open.spotify.com/artist/3WmCagv2mdu1DAXPi6qKnJ) | [BIGREAL \#4](https://open.spotify.com/album/0I4Tu1AqUV33rNzAKFgdzt) | 2:09 |
 | 81 | [Those Were The Days](https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Those Were The Days](https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN) | 3:00 |
 | 82 | [Garmonbozia](https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Garmonbozia](https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc) | 3:33 |

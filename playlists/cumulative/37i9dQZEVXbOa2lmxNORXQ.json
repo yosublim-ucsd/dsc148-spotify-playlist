@@ -7064,7 +7064,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -7118,7 +7118,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -8460,7 +8460,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 234733,
       "name": "Gata Oficial",
       "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
@@ -8796,7 +8796,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 219358,
       "name": "GODIVA",
       "url": "https://open.spotify.com/track/3DY25d8SrkLEI6Xugzf6tT"
@@ -12616,7 +12616,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "Malo H - Remix",
       "url": "https://open.spotify.com/track/4tAxviSnEboFWHkvIyRo88"
@@ -15015,6 +15015,28 @@
     },
     {
       "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217547,
+      "name": "Nueva Era",
+      "url": "https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF"
+    },
+    {
+      "album": {
         "name": "Nunca Digas Jam\u00e1s",
         "url": "https://open.spotify.com/album/68eOK9YTfbG2IUEt3BH7Zm"
       },
@@ -15744,7 +15766,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 214120,
       "name": "Pa' Que La Pases Bien",
       "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
@@ -17060,7 +17082,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
@@ -17738,7 +17760,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 150927,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/0zNMdrDEs5N0JPQ7RYQZln"
@@ -23714,7 +23736,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 195535,
       "name": "Yo Te Quiero (feat. Chris Jonex)",
       "url": "https://open.spotify.com/track/5rRYtMoEDY3HrvV13jcsom"

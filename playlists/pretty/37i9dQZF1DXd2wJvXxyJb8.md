@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,456,823 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,457,072 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 42 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
 | 43 | [Subindo e Descendo](https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Alcateia](https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok) | 3:12 |
 | 44 | [DENTRO DA HILUX](https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [DENTRO DA HILUX](https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU) | 2:43 |
-| 45 | [A Internet É Toxica](https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk) | [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY), [DJ JOAO DA INESTAN](https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p) | [A Internet É Toxica](https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM) | 2:41 |
+| 45 | [A Internet É Toxica](https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk) | [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY), [DJ JOAO DA INESTAN](https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Complexo dos Hits](https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G) | [A Internet É Toxica](https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM) | 2:41 |
 | 46 | [POCPOC](https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [POCPOC](https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX) | 2:07 |
 | 47 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 |
 | 48 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 |

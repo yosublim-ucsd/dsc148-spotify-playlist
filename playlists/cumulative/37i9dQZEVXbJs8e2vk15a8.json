@@ -862,7 +862,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -8135,6 +8135,28 @@
     },
     {
       "album": {
+        "name": "CHAPA",
+        "url": "https://open.spotify.com/album/0dNtIStGkXFYTSdyfMxC2G"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120052,
+      "name": "CHAPA",
+      "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
+    },
+    {
+      "album": {
         "name": "Che Che",
         "url": "https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS"
       },
@@ -10492,7 +10514,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 148850,
       "name": "Dale 2",
       "url": "https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl"
@@ -17681,6 +17703,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "album": {
         "name": "GigaChad Theme (Phonk House Version)",
         "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
       },
@@ -22437,6 +22477,32 @@
     },
     {
       "album": {
+        "name": "LA MAYOR\u00cdA DE LAS NENAS LINDAS",
+        "url": "https://open.spotify.com/album/3t17jnHFwz8hLaEXaM0Bfw"
+      },
+      "artists": [
+        {
+          "name": "Piromano El Del Flow Gitano",
+          "url": "https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0"
+        },
+        {
+          "name": "Napo99",
+          "url": "https://open.spotify.com/artist/0TQwhbavW288eFTFenPeRa"
+        },
+        {
+          "name": "teekyy",
+          "url": "https://open.spotify.com/artist/6RqfZDh96RLufabBRbE2Js"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215257,
+      "name": "LA MAYOR\u00cdA DE LAS NENAS LINDAS",
+      "url": "https://open.spotify.com/track/0IVaOnXV1QqPwhbW2PpMoM"
+    },
+    {
+      "album": {
         "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
         "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
       },
@@ -22732,7 +22798,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 154890,
       "name": "LA QUE PUEDE, PUEDE",
       "url": "https://open.spotify.com/track/6gIWpyqE5r0Ebgacpg5i0M"
@@ -25252,6 +25318,24 @@
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "album": {
+        "name": "Dead Silence (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61ANZC1Vl8djjAZ6fw6mRc"
+      },
+      "artists": [
+        {
+          "name": "Charlie Clouser",
+          "url": "https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176586,
+      "name": "Main Titles",
+      "url": "https://open.spotify.com/track/2aAbjYIg2uHBm8sBFlGdBZ"
     },
     {
       "album": {
@@ -27885,32 +27969,6 @@
     },
     {
       "album": {
-        "name": "MIENTES TAN BIEN",
-        "url": "https://open.spotify.com/album/3t17jnHFwz8hLaEXaM0Bfw"
-      },
-      "artists": [
-        {
-          "name": "Piromano El Del Flow Gitano",
-          "url": "https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0"
-        },
-        {
-          "name": "Napo99",
-          "url": "https://open.spotify.com/artist/0TQwhbavW288eFTFenPeRa"
-        },
-        {
-          "name": "teekyy",
-          "url": "https://open.spotify.com/artist/6RqfZDh96RLufabBRbE2Js"
-        }
-      ],
-      "date_added": "2024-10-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215257,
-      "name": "MIENTES TAN BIEN",
-      "url": "https://open.spotify.com/track/0IVaOnXV1QqPwhbW2PpMoM"
-    },
-    {
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -29386,6 +29444,24 @@
       "duration_ms": 180937,
       "name": "MY BLOOD",
       "url": "https://open.spotify.com/track/4hxBeVfWIj1NsqJYScSd5C"
+    },
+    {
+      "album": {
+        "name": "October Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX"
+      },
+      "artists": [
+        {
+          "name": "October Country",
+          "url": "https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126840,
+      "name": "My Girlfriend Is a Witch",
+      "url": "https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD"
     },
     {
       "album": {
@@ -48512,7 +48588,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 212720,
       "name": "XQ ERES AS\u00cd",
       "url": "https://open.spotify.com/track/5V3CFqzpQSp3frtlVp4T3D"

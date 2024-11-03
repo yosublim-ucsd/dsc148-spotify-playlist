@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "delusional",
+        "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131274,
+      "name": "delusional",
+      "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
+    },
+    {
+      "album": {
         "name": "XTENDED",
         "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },

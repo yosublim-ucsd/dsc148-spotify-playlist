@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,320 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,374 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 43 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 |
 | 44 | [Rainha da Minha Bateria](https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL) | [Rainha da Minha Bateria](https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu) | 4:03 |
 | 45 | [Te Amar É Fácil](https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Te Amar É Fácil](https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa) | 2:38 |
-| 46 | [Que Sorte](https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Gente](https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z) | 3:16 |
-| 47 | [Flor de Aruanda \- Infusão](https://open.spotify.com/track/3P8ZgPBITvYwQb3vwhxABO) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Capim\-Cidreira \(Infusão\)](https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5) | 3:33 |
+| 46 | [Flor de Aruanda \- Infusão](https://open.spotify.com/track/3P8ZgPBITvYwQb3vwhxABO) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Capim\-Cidreira \(Infusão\)](https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5) | 3:33 |
+| 47 | [Que Sorte](https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Gente](https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z) | 3:16 |
 | 48 | [Carnaval a Dois](https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois](https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw) | 3:05 |
 | 49 | [Conto as Horas](https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Início](https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr) | 3:12 |
 | 50 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 |

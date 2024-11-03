@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "DIPLOMATICO",
+        "url": "https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196697,
+      "name": "DIPLOMATICO",
+      "url": "https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk"
+    },
+    {
+      "album": {
         "name": "Dirou Niyya (Official Moroccan Fan Chant)",
         "url": "https://open.spotify.com/album/4dh7GUAykeLvwzGOVM1lcb"
       },
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 183947,
       "name": "Fi Derbi (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe"

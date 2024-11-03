@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-126 songs - 7 hr 8 min
+127 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [O Que a Levada Pede](https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym) | [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [O Que a Levada Pede](https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg) | 2:07 | 2024-02-23 | 2024-03-09 |
 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 | 2023-07-03 |  |
 | [O que é teu te encontra](https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [O que é teu te encontra](https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn) | 2:31 | 2024-07-19 |  |
-| [Our Love](https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb) | [Our Love](https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf) | 2:44 | 2024-03-08 |  |
+| [Our Love](https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb) | [Our Love](https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf) | 2:44 | 2024-03-08 | 2024-11-03 |
 | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Passa a Bola \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs) | 3:08 | 2024-07-19 |  |
 | [Pedra Preciosa](https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Pedra Preciosa](https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY) | 3:24 | 2024-02-23 |  |
 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 | 2023-07-03 |  |
@@ -124,6 +124,7 @@
 | [Tô Falando Sério](https://open.spotify.com/track/6z2uY9gMkM0L5tLhUqRf9K) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Tô Falando Sério](https://open.spotify.com/album/3K8vP1P69XZSzHRnqRhdLG) | 2:26 | 2023-07-03 | 2024-02-24 |
 | [Tô Te Esperando pra Dançar](https://open.spotify.com/track/1qBn46JiD592bFbumAR3G7) | [Gu Andersen](https://open.spotify.com/artist/66b5vc5HnjIcG0cwWg5ITA), [Bells](https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN) | [Tô Te Esperando pra Dançar](https://open.spotify.com/album/1YDBkaJhuTl1S9FRFxiw2h) | 3:18 | 2024-08-30 |  |
 | [Um Anjo do Céu](https://open.spotify.com/track/2YgAAAq8h7nPIMVLVVSHtK) | [Maskavo](https://open.spotify.com/artist/4wvAGBushcLkCZ1lEZsYMf) | [Já](https://open.spotify.com/album/6TVsnE10smdfVGIEG5BFbM) | 3:19 | 2023-07-03 |  |
+| [Um Sinal](https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq) | [André Rios](https://open.spotify.com/artist/23FxtHny3wE7UQrAAgAhS8), [Lira](https://open.spotify.com/artist/1AN06k2GZImDBqRo4jWcAT), [Carlos Malta](https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM) | [Um Sinal](https://open.spotify.com/album/0As3k5d0ljs7Mcy8cSdb09) | 3:58 | 2024-09-30 |  |
 | [Uma Noite E 1/2](https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS) | [Rodrigo Costa](https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7) | [Uma Noite E 1/2](https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua) | 2:50 | 2023-07-03 |  |
 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 | 2023-07-03 |  |
 | [Vestido De Seda](https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Origem](https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE) | 2:33 | 2024-09-30 |  |

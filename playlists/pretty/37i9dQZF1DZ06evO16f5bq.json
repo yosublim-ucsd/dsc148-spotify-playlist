@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 147299,
+  "num_followers": 147350,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAABXxHoK4uDs7vEUKpvuBFmp",
+  "snapshot_id": "ZyQaAAAAAABYvBQZhfGfxhCWcP+gFrlu",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "ci\u00fame bobo - b\u00f4nus track",
+      "url": "https://open.spotify.com/track/5kRHcPpwskPBHsKZUMfLwn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Cara do Crime 4 (Acendo a Flor)",
         "url": "https://open.spotify.com/album/1wfZi9HzzLz2IoXjt7UVC6"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 308243,
       "name": "A Cara do Crime 4 (Acendo a Flor)",
       "url": "https://open.spotify.com/track/77VEEXFqs8GlKhT1lWHcsE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "ci\u00fame bobo - b\u00f4nus track",
-      "url": "https://open.spotify.com/track/5kRHcPpwskPBHsKZUMfLwn"
     },
     {
       "added_at": null,
@@ -1159,6 +1159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "GOTHAM",
+      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 192021,
       "name": "UMA WAVE",
       "url": "https://open.spotify.com/track/0z16szxzLfeR5Ic8PN8Qkt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "GOTHAM",
-      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
     },
     {
       "added_at": null,
@@ -1259,6 +1259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "EU TE AVISEI",
+      "url": "https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RICKNELSO",
         "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 165230,
       "name": "L\u00e1 no PPG",
       "url": "https://open.spotify.com/track/6Oj0oJD4feRnzrAbcYqURl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "EU TE AVISEI",
-      "url": "https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx"
     },
     {
       "added_at": null,
@@ -1363,6 +1363,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "OUTRA DIMENS\u00c3O",
+      "url": "https://open.spotify.com/track/6dLkUsssDfk54mmJ3FZdA1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Virus Love",
         "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
       },
@@ -1391,30 +1415,6 @@
       "duration_ms": 174193,
       "name": "Logo Eu",
       "url": "https://open.spotify.com/track/1pYPtkKcoJpXcqfSNuGjRg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "OUTRA DIMENS\u00c3O",
-      "url": "https://open.spotify.com/track/6dLkUsssDfk54mmJ3FZdA1"
     },
     {
       "added_at": null,

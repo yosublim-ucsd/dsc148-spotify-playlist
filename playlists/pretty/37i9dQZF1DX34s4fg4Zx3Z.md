@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: LAMOON
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,701 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,708 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 10 | [Bí Đỏ](https://open.spotify.com/track/3QXjaVyveOkMmO99IH4ELL) | [Mũ Len.](https://open.spotify.com/artist/45lpgI6ITJrVqau83nBFwN), [dknâgn](https://open.spotify.com/artist/0Fl954pzIFCYSQgdWo30c1) | [Bí Đỏ](https://open.spotify.com/album/11YskLhhBfsof3IjN8sCHq) | 2:51 |
 | 11 | [Giá Như](https://open.spotify.com/track/4EVq1AvuezRBbStPVQ8GQn) | [Jombie](https://open.spotify.com/artist/4P5sYDkznyMel8jtD0CgE4), [Bean](https://open.spotify.com/artist/5f1AcgE40fpMMWEBomGz91) | [Giá Như](https://open.spotify.com/album/6NzyjH3JBOsW1Ro1PEpvFz) | 4:50 |
 | 12 | [Tan Tành](https://open.spotify.com/track/2rl9sDroR81Nr5tr2YeoZX) | [Ân Nhi](https://open.spotify.com/artist/7zwJ09FAPbh7EJYvwEAqDD) | [Tan Tành](https://open.spotify.com/album/3MBL9Qjh4POcTIZDhF5BYX) | 4:18 |
-| 13 | [Từ Từ Thôi](https://open.spotify.com/track/1mH4FG3sT2ih1TnMXtirUU) | [Keyo](https://open.spotify.com/artist/3v51tz8QfvAyKbA6rE6kTm) | [Từ Từ Thôi](https://open.spotify.com/album/3W8FNwh1KMtNO95hILZRuP) | 4:24 |
+| 13 | [Từ Từ Thôi](https://open.spotify.com/track/1mH4FG3sT2ih1TnMXtirUU) | [Keyo](https://open.spotify.com/artist/3v51tz8QfvAyKbA6rE6kTm), [LeNham](https://open.spotify.com/artist/1OddV3rTOMzXoQtOHdS0qW) | [Từ Từ Thôi](https://open.spotify.com/album/3W8FNwh1KMtNO95hILZRuP) | 4:24 |
 | 14 | [Vị Khách Đặc Biệt](https://open.spotify.com/track/3mEY8ZLOVipuWGFrWn9Zcy) | [Lập Nguyên](https://open.spotify.com/artist/3ymuVFLSS5P2PCK5aOmhEB) | [Vị Khách Đặc Biệt](https://open.spotify.com/album/4QllSjkehgqy230enDuWlA) | 5:36 |
 | 15 | [uocgicoaynoiyeutoi \- w1bi Remix](https://open.spotify.com/track/1lJIqkWldq8GQ2HX38epAJ) | [w1bi](https://open.spotify.com/artist/4nstWR7lu0hmAixmpM3Soh), [Lil Liem](https://open.spotify.com/artist/5WtJZwEnoNM2Te1jh6Uftx) | [uocgicoaynoiyeutoi \(w1bi Remix\)](https://open.spotify.com/album/2Is9iclR9GU7FB6vRucq79) | 3:46 |
 | 16 | [tần số](https://open.spotify.com/track/0PxWlquX7IFnyY7X3TybIY) | [Anzz](https://open.spotify.com/artist/5y2RBcWcJfnvuoZ4OomdiO), [sh1r0](https://open.spotify.com/artist/3tZdbAzoTh5F0F8mi72VD3) | [hôm ấy em kiểu...](https://open.spotify.com/album/6y0zlnn4PtQqeeMN1qyV4K) | 3:15 |

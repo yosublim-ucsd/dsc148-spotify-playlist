@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: UNFAIR RULE",
-  "num_followers": 15815,
+  "num_followers": 15825,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "\u793e\u4f1a\u306e\u7a93",
-        "url": "https://open.spotify.com/album/7F5svuiFOfQk9nbukmemfV"
-      },
-      "artists": [
-        {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
-        }
-      ],
-      "duration_ms": 166538,
-      "name": "\u793e\u4f1a\u306e\u7a93",
-      "url": "https://open.spotify.com/track/6lUBiOrB0ilG4wQ0y86oOf"
-    },
-    {
-      "added_at": "2024-10-15 18:20:46",
-      "album": {
         "name": "23\u6625",
         "url": "https://open.spotify.com/album/1KGEUbiIrHnuN18SQ9LKOF"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 170624,
       "name": "\u541b\u306e\u305d\u3070",
       "url": "https://open.spotify.com/track/3ENZ9t8yvPfD1fNK4T3Lli"
+    },
+    {
+      "added_at": "2024-10-15 18:20:46",
+      "album": {
+        "name": "\u793e\u4f1a\u306e\u7a93",
+        "url": "https://open.spotify.com/album/7F5svuiFOfQk9nbukmemfV"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "duration_ms": 166538,
+      "name": "\u793e\u4f1a\u306e\u7a93",
+      "url": "https://open.spotify.com/track/6lUBiOrB0ilG4wQ0y86oOf"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "TRIANGLE",
-        "url": "https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD"
+        "name": "\u30a2\u30a6\u30c8\u30d5\u30a9\u30fc\u30ab\u30b9",
+        "url": "https://open.spotify.com/album/5fSOoIC9xzQCy0PDlgjtRx"
       },
       "artists": [
         {
-          "name": "DISH//",
-          "url": "https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil"
+          "name": "This is LAST",
+          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
         }
       ],
-      "duration_ms": 236173,
-      "name": "\u3057\u308f\u304f\u3061\u3083\u306a\u96f2\u3092\u62b1\u3044\u3066",
-      "url": "https://open.spotify.com/track/7DGg065lDV4sAOSGvZhcEO"
+      "duration_ms": 201280,
+      "name": "\u30a2\u30a6\u30c8\u30d5\u30a9\u30fc\u30ab\u30b9",
+      "url": "https://open.spotify.com/track/2sTxEt2fDr4UDblYvad1gq"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
+        "name": "TRIANGLE",
+        "url": "https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD"
+      },
+      "artists": [
+        {
+          "name": "DISH//",
+          "url": "https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "\u3057\u308f\u304f\u3061\u3083\u306a\u96f2\u3092\u62b1\u3044\u3066",
+      "url": "https://open.spotify.com/track/7DGg065lDV4sAOSGvZhcEO"
+    },
+    {
+      "added_at": "2024-10-15 18:20:46",
+      "album": {
         "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
         "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "\u30a2\u30a6\u30c8\u30d5\u30a9\u30fc\u30ab\u30b9",
-        "url": "https://open.spotify.com/album/5fSOoIC9xzQCy0PDlgjtRx"
+        "name": "\u30d0\u30c3\u30c8\u30ea\u30a2\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU"
       },
       "artists": [
         {
-          "name": "This is LAST",
-          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
         }
       ],
-      "duration_ms": 201280,
-      "name": "\u30a2\u30a6\u30c8\u30d5\u30a9\u30fc\u30ab\u30b9",
-      "url": "https://open.spotify.com/track/2sTxEt2fDr4UDblYvad1gq"
+      "duration_ms": 192878,
+      "name": "\u5922\u307f\u308b\u30b9\u30fc\u30d1\u30fc\u30de\u30f3",
+      "url": "https://open.spotify.com/track/7JEYvQLv4io6Xi5FldZMqw"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1159,22 +1175,6 @@
       "duration_ms": 145384,
       "name": "\u30a8\u30e2\u3081\u306e\u590f",
       "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
-    },
-    {
-      "added_at": "2024-10-15 18:20:46",
-      "album": {
-        "name": "\u30d0\u30c3\u30c8\u30ea\u30a2\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 192878,
-      "name": "\u5922\u307f\u308b\u30b9\u30fc\u30d1\u30fc\u30de\u30f3",
-      "url": "https://open.spotify.com/track/7JEYvQLv4io6Xi5FldZMqw"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
-        "url": "https://open.spotify.com/album/3l8S4siqt51PnT0ovOa0Ep"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
-      "url": "https://open.spotify.com/track/3LVE6OIo1gNe5LtO8jyclr"
-    },
-    {
-      "added_at": "2024-10-15 18:20:46",
-      "album": {
         "name": "\u611b\u306e\u8f4d",
         "url": "https://open.spotify.com/album/55NZ1KkUPQlWBQyCfDJaSA"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 192430,
       "name": "\u611b\u306e\u8f4d",
       "url": "https://open.spotify.com/track/6uYn3JdjsjkSL7ruuM9sIQ"
+    },
+    {
+      "added_at": "2024-10-15 18:20:46",
+      "album": {
+        "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
+        "url": "https://open.spotify.com/album/3l8S4siqt51PnT0ovOa0Ep"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "\u63a5\u543b\u306e\u624b\u5f15\u304d",
+      "url": "https://open.spotify.com/track/3LVE6OIo1gNe5LtO8jyclr"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA"
-      },
-      "artists": [
-        {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
-        }
-      ],
-      "duration_ms": 183637,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1"
-    },
-    {
-      "added_at": "2024-10-15 18:20:46",
-      "album": {
         "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
         "url": "https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 268235,
       "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
       "url": "https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8"
+    },
+    {
+      "added_at": "2024-10-15 18:20:46",
+      "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "duration_ms": 183637,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1"
     },
     {
       "added_at": "2024-10-15 18:20:46",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-10-15 18:20:46",
       "album": {
-        "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/5f2MrNwTwXAW7Qo8GKiwZN"
-      },
-      "artists": [
-        {
-          "name": "NEE",
-          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
-        }
-      ],
-      "duration_ms": 181170,
-      "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG"
-    },
-    {
-      "added_at": "2024-10-15 18:20:46",
-      "album": {
         "name": "\u541b\u306b\u5922\u4e2d!!",
         "url": "https://open.spotify.com/album/5HX6NuxtG5ajeJpJB7FF5m"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 233037,
       "name": "\u541b\u306b\u5922\u4e2d!!",
       "url": "https://open.spotify.com/track/2Vu9VkTShTMN0LHhR0zGFu"
+    },
+    {
+      "added_at": "2024-10-15 18:20:46",
+      "album": {
+        "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/5f2MrNwTwXAW7Qo8GKiwZN"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "duration_ms": 181170,
+      "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG"
     },
     {
       "added_at": "2024-10-15 18:20:46",

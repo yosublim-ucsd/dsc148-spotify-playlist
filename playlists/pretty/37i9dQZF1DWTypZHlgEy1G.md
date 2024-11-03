@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,915 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,922 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 14 | [Les amoureux des bancs publics](https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Georges Brassens interprète ses dernières compositions N°2](https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0) | 3:00 |
 | 15 | [La foule](https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [de l'accordeoniste a milord](https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS) | 2:58 |
 | 16 | [J'aime les filles](https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:57 |
-| 17 | [La montagne](https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La Montagne](https://open.spotify.com/album/4VG6Utj03XZ26BnoCH8C0P) | 3:04 |
-| 18 | [La mer \- Remasterisé en 2017](https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [1943 \- 1948 \(Remasterisé en 2017\)](https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ) | 3:21 |
+| 17 | [La mer \- Remasterisé en 2017](https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [1943 \- 1948 \(Remasterisé en 2017\)](https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ) | 3:21 |
+| 18 | [La montagne](https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La Montagne](https://open.spotify.com/album/4VG6Utj03XZ26BnoCH8C0P) | 3:04 |
 | 19 | [La chanson d'Hélène](https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9) | [Michel Piccoli](https://open.spotify.com/artist/2QsRmnoI00agPNYw1umyEy), [Philippe Sarde](https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK), [Romy Schneider](https://open.spotify.com/artist/2DbluJLyOOKvRcZFN22lY9) | [Les Choses De La Vie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV) | 2:51 |
 | 20 | [Paroles… paroles…](https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 4:03 |
 | 21 | [Nathalie](https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 4:07 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 43 | [Et maintenant \(Version 1966\) \- Remasterisé en 2011](https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Edition 60e anniversaire](https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL) | 2:39 |
 | 44 | [Chanson pour l'Auvergnat](https://open.spotify.com/track/5nuTwIhmN6AzktesqJh6p7) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [George Brassens: Douce France](https://open.spotify.com/album/61jtgow8SNKJWfd8gFFeUJ) | 3:03 |
 | 45 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |
-| 46 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED) | [Lucienne Delyle](https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM) | [Mon amant de St Jean](https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB) | 3:09 |
-| 47 | [Tu verras](https://open.spotify.com/track/1YVd6hMLgMWk5wAfjFaH53) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [L'Essentiel Studio 1962 \- 1985](https://open.spotify.com/album/4Dp614rQojtU5SlmllzRCW) | 3:13 |
+| 46 | [Tu verras](https://open.spotify.com/track/1YVd6hMLgMWk5wAfjFaH53) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [L'Essentiel Studio 1962 \- 1985](https://open.spotify.com/album/4Dp614rQojtU5SlmllzRCW) | 3:13 |
+| 47 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED) | [Lucienne Delyle](https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM) | [Mon amant de St Jean](https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB) | 3:09 |
 | 48 | [Les rupins](https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef) | [Catherine Sauvage](https://open.spotify.com/artist/4NjkPdOPwWlQBF59ff6YoV) | [Heritage \- Jolie Môme \- Philips \(1961\)](https://open.spotify.com/album/3cmSgfLLDmlPguaIk8L4A9) | 2:46 |
 | 49 | [Les feuilles mortes](https://open.spotify.com/track/30bqPdEUBZhn44u10awaup) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand \- Les feuilles mortes](https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE) | 3:23 |
 | 50 | [Les roses blanches](https://open.spotify.com/track/1BQXfo0ZYVqOUndPef2pAi) | [Berthe Silva](https://open.spotify.com/artist/72UR9TdmSwOx2wLoNMrP9t) | [Deluxe: Les roses blanches](https://open.spotify.com/album/3Rkjk3ZZYfGygICKyhqN6j) | 3:26 |

@@ -6,56 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB/20M04WMG6/jjEfz6B/Lz",
+  "snapshot_id": "AAAAAAAAAADR0wcbcR4s+LamC9MgrPiF",
   "tracks": [
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 197019,
-      "name": "St. Chroma (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 255915,
-      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
-      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
-    },
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
@@ -71,26 +23,6 @@
       "duration_ms": 138323,
       "name": "Chill Bae",
       "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Money 'N' Bitches (ft. Danny Brown) [Remix]",
-        "url": "https://open.spotify.com/album/6GsVotsj8ikMI0tuDWfu1l"
-      },
-      "artists": [
-        {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 157867,
-      "name": "Money 'N' Bitches (ft. Danny Brown) - Remix",
-      "url": "https://open.spotify.com/track/27SrGib7ZLuMiyFl6n6exs"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -115,46 +47,42 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
+        "name": "Hey Rudy",
+        "url": "https://open.spotify.com/album/3eiocwg4ruTp6TaEKelCen"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
         },
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
         }
       ],
-      "duration_ms": 176034,
-      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
+      "duration_ms": 160007,
+      "name": "Hey Rudy (with The Roots)",
+      "url": "https://open.spotify.com/track/04IzM8tyRnsjN6Em9LNBpR"
     },
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "No More Costumes",
-        "url": "https://open.spotify.com/album/1pq8LSaDQvvkICYojowtGn"
+        "name": "Money 'N' Bitches (ft. Danny Brown) [Remix]",
+        "url": "https://open.spotify.com/album/6GsVotsj8ikMI0tuDWfu1l"
       },
       "artists": [
         {
-          "name": "Ave the Fox",
-          "url": "https://open.spotify.com/artist/4grfwArjhjtuqX0KmI3u73"
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
         },
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
         }
       ],
-      "duration_ms": 282217,
-      "name": "Black Batman",
-      "url": "https://open.spotify.com/track/720jHxQyhubRRlWEC9gLaE"
+      "duration_ms": 157867,
+      "name": "Money 'N' Bitches (ft. Danny Brown) - Remix",
+      "url": "https://open.spotify.com/track/27SrGib7ZLuMiyFl6n6exs"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -179,38 +107,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Hey Rudy",
-        "url": "https://open.spotify.com/album/3eiocwg4ruTp6TaEKelCen"
+        "name": "No More Costumes",
+        "url": "https://open.spotify.com/album/1pq8LSaDQvvkICYojowtGn"
       },
       "artists": [
         {
-          "name": "Jimmy Fallon",
-          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+          "name": "Ave the Fox",
+          "url": "https://open.spotify.com/artist/4grfwArjhjtuqX0KmI3u73"
         },
         {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 160007,
-      "name": "Hey Rudy (with The Roots)",
-      "url": "https://open.spotify.com/track/04IzM8tyRnsjN6Em9LNBpR"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "I Send a Message (Vocal Remixed Version)",
-        "url": "https://open.spotify.com/album/37BRhaCQLlvL3Li1Ms2se0"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "I Send a Message - Vocal Remixed Version",
-      "url": "https://open.spotify.com/track/1EX0ypIZAyVIFOq7syrewU"
+      "duration_ms": 282217,
+      "name": "Black Batman",
+      "url": "https://open.spotify.com/track/720jHxQyhubRRlWEC9gLaE"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -239,18 +151,86 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "In Paris - The complete 1955-1956 Barclay sessions",
-        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
+        "name": "Spirit Box",
+        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
         }
       ],
-      "duration_ms": 186866,
-      "name": "Dinah - Complete Take 2",
-      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
+      "duration_ms": 172338,
+      "name": "Let Me Cook",
+      "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "2nd Round",
+        "url": "https://open.spotify.com/album/7eUhSTAq1w4oGOLrFpzulg"
+      },
+      "artists": [
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
+        },
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        }
+      ],
+      "duration_ms": 256285,
+      "name": "SCYLLA - 2nd Round",
+      "url": "https://open.spotify.com/track/1xVjbg3E9n6SnN4RaGb11R"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "I Send a Message (Vocal Remixed Version)",
+        "url": "https://open.spotify.com/album/37BRhaCQLlvL3Li1Ms2se0"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "I Send a Message - Vocal Remixed Version",
+      "url": "https://open.spotify.com/track/1EX0ypIZAyVIFOq7syrewU"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Boneyard Cypher Volume II",
+        "url": "https://open.spotify.com/album/4cbDuHXzhpJiSnsXFHcJeU"
+      },
+      "artists": [
+        {
+          "name": "Zack Bone",
+          "url": "https://open.spotify.com/artist/2pRQ3QqVuVNi34FqnIqpOP"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Dirrty B",
+          "url": "https://open.spotify.com/artist/7sMdEFKLItyR1Pmj2JOon8"
+        },
+        {
+          "name": "Saint B",
+          "url": "https://open.spotify.com/artist/7gBZSnuuLirdlgGi9Qsl2N"
+        }
+      ],
+      "duration_ms": 214045,
+      "name": "Boneyard Cypher Volume II",
+      "url": "https://open.spotify.com/track/5SREWCUWs21jqplpbKmK7J"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -267,6 +247,58 @@
       "duration_ms": 202200,
       "name": "Feeling So Real 2024",
       "url": "https://open.spotify.com/track/4bzrhnr9taRlRvKgoPEl4p"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Helen's Theme (Electric Guitar Version)",
+        "url": "https://open.spotify.com/album/2OmPt3bNutz6nMeEjBD7Fv"
+      },
+      "artists": [
+        {
+          "name": "Sergio Sorrentino",
+          "url": "https://open.spotify.com/artist/2hV0tEHHlVNNr8qxpBr1qN"
+        },
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "duration_ms": 80136,
+      "name": "Helen's Theme - Electric Guitar Version",
+      "url": "https://open.spotify.com/track/33hiqXry5A2Ziq0sylcmHC"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "In Paris - The complete 1955-1956 Barclay sessions",
+        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Dinah - Complete Take 2",
+      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "My Funny Valentine (Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert])",
+        "url": "https://open.spotify.com/album/5DDiKk0BqvLTHEWckejdE3"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 740098,
+      "name": "My Funny Valentine - Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert]",
+      "url": "https://open.spotify.com/track/7C5x1Us4oj2LUjzXvLSyyT"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -351,6 +383,70 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Words2LiveBy (feat. Earl Sweatshirt)",
+        "url": "https://open.spotify.com/album/7BKRDai83KpPU96CA586gV"
+      },
+      "artists": [
+        {
+          "name": "El Cousteau",
+          "url": "https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 136874,
+      "name": "Words2LiveBy (feat. Earl Sweatshirt)",
+      "url": "https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Te'Kill'Ya",
+        "url": "https://open.spotify.com/album/29kd82BQka5Gs290XCHC4G"
+      },
+      "artists": [
+        {
+          "name": "GXTP",
+          "url": "https://open.spotify.com/artist/7aJ0lXaVRlmeij1J0NrrFK"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 219189,
+      "name": "Te'Kill'Ya",
+      "url": "https://open.spotify.com/track/2FY3V309Dc0X6VS8OWFxC9"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "How to Impress God",
+        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "How to Impress God",
+      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
       },
@@ -391,42 +487,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Words2LiveBy (feat. Earl Sweatshirt)",
-        "url": "https://open.spotify.com/album/7BKRDai83KpPU96CA586gV"
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
       "artists": [
         {
-          "name": "El Cousteau",
-          "url": "https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 136874,
-      "name": "Words2LiveBy (feat. Earl Sweatshirt)",
-      "url": "https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "How to Impress God",
-        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No ID",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "How to Impress God",
-      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
+      "duration_ms": 154983,
+      "name": "American Idiot (Alt. Version) - Demo",
+      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -451,42 +523,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Te'Kill'Ya",
-        "url": "https://open.spotify.com/album/29kd82BQka5Gs290XCHC4G"
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
       },
       "artists": [
         {
-          "name": "GXTP",
-          "url": "https://open.spotify.com/artist/7aJ0lXaVRlmeij1J0NrrFK"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 219189,
-      "name": "Te'Kill'Ya",
-      "url": "https://open.spotify.com/track/2FY3V309Dc0X6VS8OWFxC9"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "American Idiot (Alt. Version) - Demo",
-      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
+      "duration_ms": 204733,
+      "name": "If You Can Count",
+      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -503,6 +551,42 @@
       "duration_ms": 183193,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "The Kickflip",
+        "url": "https://open.spotify.com/album/7qeYu5SHMSBsNWMa2kdz30"
+      },
+      "artists": [
+        {
+          "name": "Damn Skippy",
+          "url": "https://open.spotify.com/artist/2uVoa0d4dequ0RVIR77R1h"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 171105,
+      "name": "Beat the Bass up",
+      "url": "https://open.spotify.com/track/0VlL5Cr6q7c9vptbS8A5lB"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "King Illusion",
+        "url": "https://open.spotify.com/album/3cuVbtM9fc7vmcS0BC7toy"
+      },
+      "artists": [
+        {
+          "name": "The Cost",
+          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+        }
+      ],
+      "duration_ms": 241818,
+      "name": "King Illusion",
+      "url": "https://open.spotify.com/track/6Ia6oCCkZneqsbQFh5eH2P"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -539,6 +623,50 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "WIPLASH",
+        "url": "https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5LfSEltyBQ0o10ravNgvLM"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "3:AM (feat. Erykah Badu) [Slowed and Throwed in Dallas]",
+        "url": "https://open.spotify.com/album/5NKcgx9HBSdS2xwqUbQf3F"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Lonestarrmuzik",
+          "url": "https://open.spotify.com/artist/6NpNOOo68SV2RtnI2JYgFm"
+        }
+      ],
+      "duration_ms": 243237,
+      "name": "3:AM (feat. Erykah Badu) - Slowed and Throwed in Dallas",
+      "url": "https://open.spotify.com/track/7bXseaPk89BFH69ZRO0oPC"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Like A Tree It Grows",
         "url": "https://open.spotify.com/album/23W15PVhBPoAUh2EcELrtW"
       },
@@ -567,26 +695,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "3:AM (feat. Erykah Badu) [Slowed and Throwed in Dallas]",
-        "url": "https://open.spotify.com/album/5NKcgx9HBSdS2xwqUbQf3F"
+        "name": "8 Days (Remixes)",
+        "url": "https://open.spotify.com/album/4h91KGw31tC1ygdlDDqCDX"
       },
       "artists": [
         {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         },
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "Lonestarrmuzik",
-          "url": "https://open.spotify.com/artist/6NpNOOo68SV2RtnI2JYgFm"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 243237,
-      "name": "3:AM (feat. Erykah Badu) - Slowed and Throwed in Dallas",
-      "url": "https://open.spotify.com/track/7bXseaPk89BFH69ZRO0oPC"
+      "duration_ms": 173538,
+      "name": "8 Days - Wuki Remix",
+      "url": "https://open.spotify.com/track/4lY3nqqbiBpK9LM59EWJTb"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -639,6 +763,26 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Recurring (Live At King's Place)",
+        "url": "https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+        }
+      ],
+      "duration_ms": 320826,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Merci",
         "url": "https://open.spotify.com/album/6elZDCjnrPGBvIVfdKYLDw"
       },
@@ -659,6 +803,22 @@
       "duration_ms": 206346,
       "name": "Berceuse, Op. 16",
       "url": "https://open.spotify.com/track/4FwIwI5NGVUP4DrPwrweMz"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "The Essential Melody Gardot",
+        "url": "https://open.spotify.com/album/7wrIaVOzLdLi6kao638zAY"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 384827,
+      "name": "La Llorona - Live",
+      "url": "https://open.spotify.com/track/0yrzo7DTvSa21L2rGyafdT"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

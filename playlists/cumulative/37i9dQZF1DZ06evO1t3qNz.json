@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Sip",
+        "url": "https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172163,
+      "name": "Sip",
+      "url": "https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX"
+    },
+    {
+      "album": {
         "name": "Sobriety",
         "url": "https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk"
       },

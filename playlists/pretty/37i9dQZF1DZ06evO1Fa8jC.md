@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,066 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,091 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 20 | [Flaca huella](https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:07 |
 | 21 | [Suena la Alarma](https://open.spotify.com/track/1JhSOyxBOmnHBr4RnGkMBe) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:17 |
 | 22 | [Mostrame Como Sos \- Versión 25 Años](https://open.spotify.com/track/3XV0BKVTN6XXlANGdMcq0t) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:24 |
-| 23 | [Sin Gamulán](https://open.spotify.com/track/1ccEBfPmipV4R41R6Y3ouy) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 3:44 |
-| 24 | [Puedo](https://open.spotify.com/track/0TWTda4yD1jdsIlRTQLoA0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:15 |
+| 23 | [Puedo](https://open.spotify.com/track/0TWTda4yD1jdsIlRTQLoA0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:15 |
+| 24 | [Sin Gamulán](https://open.spotify.com/track/1ccEBfPmipV4R41R6Y3ouy) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 3:44 |
 | 25 | [A Pesar](https://open.spotify.com/track/4Mhl9Xa2PL0OKHuF7jLQrj) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 3:43 |
 | 26 | [El Ángel \- Versión 25 Años](https://open.spotify.com/track/11WUrYOeZgefPOIuEDxJd8) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:06 |
 | 27 | [Woman](https://open.spotify.com/track/5fpFzu6nqLodx3UZbmpIFX) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 3:36 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 34 | [Sólo un Pensamiento \- Versión 25 Años](https://open.spotify.com/track/2gDIa4YN7mAIwFpFNnvCZq) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:31 |
 | 35 | [Se Va de Mí](https://open.spotify.com/track/4K7SetvOiFCZPEWk08wM4Z) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:31 |
 | 36 | [Mientras tanto](https://open.spotify.com/track/42uzgH9HbRS3hTGyq0Ilr2) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:14 |
-| 37 | [Quedándote O Yéndote](https://open.spotify.com/track/2zH2SJsU74xiNq14SuhRKz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 3:25 |
-| 38 | [La receta](https://open.spotify.com/track/1h33O6bsMRrKWlBzbylA0t) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Instinto](https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0) | 3:47 |
+| 37 | [La receta](https://open.spotify.com/track/1h33O6bsMRrKWlBzbylA0t) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Instinto](https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0) | 3:47 |
+| 38 | [Quedándote O Yéndote](https://open.spotify.com/track/2zH2SJsU74xiNq14SuhRKz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 3:25 |
 | 39 | [Tu Meta](https://open.spotify.com/track/7sU2dcP1FPM70V9TwGgjQL) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:48 |
 | 40 | [Mi Aliento](https://open.spotify.com/track/5KHWBI8FTuKOVu80l5M3xz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:03 |
 | 41 | [Acto Salvaje](https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acto Salvaje](https://open.spotify.com/album/4EKPGoTkb0oq3i1H3Al9NJ) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Escritorio](https://open.spotify.com/track/5pOli51fQo1bNV3oO2HHls) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 3:51 |
 | 50 | [Esclavo](https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Esclavo](https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8) | 4:16 |
 
-Snapshot ID: `ZyF3AAAAAAC+X2zv896TbbPs9OuzS6qb`
+Snapshot ID: `ZyQaAAAAAABTLF3HnRWYR7R+hFeC+sj8`

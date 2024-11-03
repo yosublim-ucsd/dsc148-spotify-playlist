@@ -115,22 +115,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 150236,
       "name": "A m\u00ed ya me iba mal de antes",
       "url": "https://open.spotify.com/track/51AdRQrcgO0ds6i7uZaNsA"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "Canciones Tristes",
+        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 186266,
+      "name": "Canciones Tristes",
+      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Nada Para Ti",
         "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
       },
@@ -327,18 +343,18 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "Canciones Tristes",
-        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
         }
       ],
-      "duration_ms": 186266,
-      "name": "Canciones Tristes",
-      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
+      "duration_ms": 229531,
+      "name": "Toda la Noche",
+      "url": "https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -355,22 +371,6 @@
       "duration_ms": 196000,
       "name": "Fue un adi\u00f3s",
       "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
-      },
-      "artists": [
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        }
-      ],
-      "duration_ms": 229531,
-      "name": "Toda la Noche",
-      "url": "https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "Todo vuelve al punto de partida",
+        "url": "https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 195392,
+      "name": "Panamericana",
+      "url": "https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "no llamaste (Remix)",
         "url": "https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 174975,
       "name": "No s\u00e9 qu\u00e9 tienes",
       "url": "https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "Todo vuelve al punto de partida",
-        "url": "https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 195392,
-      "name": "Panamericana",
-      "url": "https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "te vas a lamentar :'(",
-        "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        },
-        {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "te vas a lamentar :'(",
-      "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 156771,
       "name": "Cero",
       "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "te vas a lamentar :'(",
+        "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "te vas a lamentar :'(",
+      "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "me da miedo que escuches esto",
-        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 138509,
-      "name": "A TI",
-      "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "La Loba",
         "url": "https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 186764,
       "name": "Agua",
       "url": "https://open.spotify.com/track/4OWi0FuiCj3Yy178rGV9NB"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "me da miedo que escuches esto",
+        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 138509,
+      "name": "A TI",
+      "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -987,34 +987,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "BLESSED",
-        "url": "https://open.spotify.com/album/0ThXnszjIO8XyZwXKdmVXP"
-      },
-      "artists": [
-        {
-          "name": "GATITAS VEGANAS",
-          "url": "https://open.spotify.com/artist/5l7iFbjqZQtvFVzAF9Kv28"
-        },
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        },
-        {
-          "name": "Chipi Chipi",
-          "url": "https://open.spotify.com/artist/08r9ZpucGE4jjArjLmbjfc"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "BLESSED",
-      "url": "https://open.spotify.com/track/3pMP9qcLMWQ1FEgaqOIvaa"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
         "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
@@ -1043,6 +1015,34 @@
       "duration_ms": 386900,
       "name": "Chica Violeta",
       "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/0ThXnszjIO8XyZwXKdmVXP"
+      },
+      "artists": [
+        {
+          "name": "GATITAS VEGANAS",
+          "url": "https://open.spotify.com/artist/5l7iFbjqZQtvFVzAF9Kv28"
+        },
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        },
+        {
+          "name": "Chipi Chipi",
+          "url": "https://open.spotify.com/artist/08r9ZpucGE4jjArjLmbjfc"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "BLESSED",
+      "url": "https://open.spotify.com/track/3pMP9qcLMWQ1FEgaqOIvaa"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "Male",
+        "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
+      },
+      "artists": [
+        {
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Ba\u00f1era",
         "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 152381,
       "name": "Ba\u00f1era",
       "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "Male",
-        "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
-      },
-      "artists": [
-        {
-          "name": "Clara_mente",
-          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Male",
-      "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "La Torpeza",
-        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
+        "name": "San Juan",
+        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
       },
       "artists": [
         {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
         }
       ],
-      "duration_ms": 260000,
-      "name": "La Torpeza",
-      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
+      "duration_ms": 225587,
+      "name": "San Juan",
+      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "San Juan",
-        "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
+        "name": "La Torpeza",
+        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
       },
       "artists": [
         {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
         }
       ],
-      "duration_ms": 225587,
-      "name": "San Juan",
-      "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
+      "duration_ms": 260000,
+      "name": "La Torpeza",
+      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
     },
     {
       "added_at": "2024-09-12 21:12:12",

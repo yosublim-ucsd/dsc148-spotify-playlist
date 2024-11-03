@@ -1,6 +1,6 @@
 {
   "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: Kep1er(\ucf00\ud50c\ub7ec)",
-  "num_followers": 863974,
+  "num_followers": 864068,
   "original_name": "Girl Krush",
   "owner": {
     "name": "Spotify",
@@ -27,7 +27,7 @@
     {
       "added_at": "2024-11-01 07:29:49",
       "album": {
-        "name": "BABYMONSTER 1st FULL ALBUM [DRIP]",
+        "name": "DRIP",
         "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
       "artists": [
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-11-01 07:29:49",
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 168085,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+    },
+    {
+      "added_at": "2024-11-01 07:29:49",
+      "album": {
         "name": "\u2018The ReVe Festival\u2019 Finale",
         "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2024-11-01 07:29:49",
       "album": {
-        "name": "IVE SWITCH",
-        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "\ud574\uc57c (HEYA)",
-      "url": "https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z"
-    },
-    {
-      "added_at": "2024-11-01 07:29:49",
-      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-11-01 07:29:49",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+        "name": "IVE SWITCH",
+        "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 168085,
-      "name": "On The Ground",
-      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+      "duration_ms": 189680,
+      "name": "\ud574\uc57c (HEYA)",
+      "url": "https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z"
     },
     {
       "added_at": "2024-11-01 07:29:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Ana Castela e os artistas mais ouvidos no Brasil em 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,657 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,745 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 2 | [Traumatizei \- Ao Vivo Em Brasília](https://open.spotify.com/track/7r8yMaSOy4XmuhRz7iv1gi) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/4KanzzLcDoiraz456AUvEl) | 2:52 |
 | 3 | [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 |
 | 4 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
-| 5 | [Dói](https://open.spotify.com/track/5qjwjBzWAxXjjqinjENzIF) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Dói](https://open.spotify.com/album/23xCMjuFXyFuQ2k1Q4EXyx) | 3:02 |
+| 5 | [Dói](https://open.spotify.com/track/5qjwjBzWAxXjjqinjENzIF) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Dói](https://open.spotify.com/album/23xCMjuFXyFuQ2k1Q4EXyx) | 3:03 |
 | 6 | [Desejo Imortal \(It Must Have Been Love\) \- Ao Vivo](https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Desejo Imortal \(It Must Have Been Love\) \[Ao Vivo\]](https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC) | 3:04 |
 | 7 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 | 8 | [Novo Balanço](https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 2:20 |

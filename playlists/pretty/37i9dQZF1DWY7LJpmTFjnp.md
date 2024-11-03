@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Panteón Rococó en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,283 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,328 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 80 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 |
 | 81 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
 | 82 | [Brujería](https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Brujería](https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0) | 2:53 |
-| 83 | [Tenochtitlán](https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tenochtitlán](https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf) | 4:13 |
-| 84 | [El Negro](https://open.spotify.com/track/09FGzfEnIn0BY009Ni7tzN) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [El Negro](https://open.spotify.com/album/6q9iams2yWgUlFo4hG2gO3) | 4:29 |
+| 83 | [El Negro](https://open.spotify.com/track/09FGzfEnIn0BY009Ni7tzN) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [El Negro](https://open.spotify.com/album/6q9iams2yWgUlFo4hG2gO3) | 4:29 |
+| 84 | [Tenochtitlán](https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tenochtitlán](https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf) | 4:13 |
 | 85 | [Love Song](https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Dean Fraser](https://open.spotify.com/artist/2NgsVYg7cMgPQNYXW7CO6R) | [Love Song](https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8) | 4:26 |
 | 86 | [Tu Te Vas](https://open.spotify.com/track/369f9Gi3CcBouwL49C8HZx) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Laeti](https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf) | [Tu Te Vas](https://open.spotify.com/album/6Wl9NMhu7szXfbjJSB9YO0) | 3:25 |
 | 87 | [Secuaz \- Noches de Salón](https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Secuaz \(Noches de Salón\)](https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD) | 3:57 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 89 | [Silencio](https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Silencio](https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH) | 5:25 |
 | 90 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
 | 91 | [São Paulo Motoboy](https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [São Paulo Motoboy](https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP) | 2:28 |
-| 92 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
-| 93 | [Viernes](https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q) | [Camiseta 22](https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Viernes](https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1) | 4:08 |
+| 92 | [Viernes](https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q) | [Camiseta 22](https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Viernes](https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1) | 4:08 |
+| 93 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
 | 94 | [Chale](https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn) | [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Maria Barracuda](https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9) | 3:21 |
 | 95 | [Contra Todo Pronóstico](https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Contra Todo Pronóstico](https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4) | 4:12 |
 | 96 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 |

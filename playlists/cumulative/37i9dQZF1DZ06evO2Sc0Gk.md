@@ -4,7 +4,7 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-140 songs - 7 hr 3 min
+141 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Falling For U](https://open.spotify.com/track/1RrayK8ea3tDtD1QnNMUL9) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:03 | 2024-08-03 |  |
 | [Fefe Ne Fefe](https://open.spotify.com/track/4RxqGYYDnx1R6JfQAfd7B9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fefe Ne Fefe](https://open.spotify.com/album/24ZhqMl3si2HuUPZC9IjZc) | 2:26 | 2023-11-10 | 2024-04-02 |
 | [Flex \- Remix](https://open.spotify.com/track/2FZpTgE0ksf5lmxi4wx6Zf) | [Lethal Bizzle](https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Flex \(Remix\)](https://open.spotify.com/album/28lLHSP8gEMBg4hroCrQK8) | 3:12 | 2021-12-28 | 2022-08-12 |
+| [For My Head](https://open.spotify.com/track/2MctqofDb7O3NA0gpsAu3U) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [For My Head](https://open.spotify.com/album/2KWphjOXkBBrKcMA7YDHht) | 2:40 | 2024-11-03 |  |
 | [Fààjí](https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fààjí](https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt) | 2:29 | 2021-12-28 |  |
 | [Genging](https://open.spotify.com/track/5V2Kj7uULK3qSk7EnQlpZS) | [Banku Music](https://open.spotify.com/artist/3lr22Ch1Uee6iOJZ48vVsx), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Genging](https://open.spotify.com/album/17LVU6TEclskNloInycf35) | 3:01 | 2022-03-02 | 2022-10-13 |
 | [Genging](https://open.spotify.com/track/6eLzbtSMbVP0Z6uZgjT4oE) | [Banku Music](https://open.spotify.com/artist/4zSirYAg96BEMDTNPIOY3E), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Genging](https://open.spotify.com/album/0mLjn3Kh9Q9BJShhmZHrOm) | 3:01 | 2022-02-14 | 2022-03-01 |

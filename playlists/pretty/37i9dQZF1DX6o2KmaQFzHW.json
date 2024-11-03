@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Soledad",
-  "num_followers": 191724,
+  "num_followers": 191776,
   "original_name": "Folclore Argentino",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
+        "name": "From Argentina To The World",
+        "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "El Arriero",
+      "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
         "name": "Chamame",
         "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 171399,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
-        "name": "From Argentina To The World",
-        "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "El Arriero",
-      "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "His Great Songs",
-        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 236813,
       "name": "Viejo Pescador del Paran\u00e1 (with Teresa Parodi & Chango Spasiuk)",
       "url": "https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
+        "name": "His Great Songs",
+        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "Guitarra, D\u00edmelo Tu",
-        "url": "https://open.spotify.com/album/3H30zV8WQtf4I2hKhOpEwx"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 254960,
-      "name": "Milonga Del Solitario",
-      "url": "https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Para Cantar He Nacido",
         "url": "https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 206853,
       "name": "Para Cantar He Nacido",
       "url": "https://open.spotify.com/track/447ORDEfYxu77edFodcfr6"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
+        "name": "Guitarra, D\u00edmelo Tu",
+        "url": "https://open.spotify.com/album/3H30zV8WQtf4I2hKhOpEwx"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 254960,
+      "name": "Milonga Del Solitario",
+      "url": "https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "Luna Tucumana",
-        "url": "https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 261055,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 195266,
       "name": "Mama Vieja",
       "url": "https://open.spotify.com/track/7GxW2uJnZEkDeDiO74hanI"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
+        "name": "Luna Tucumana",
+        "url": "https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 261055,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "Lo Mejor de la Zamba Argentina",
-        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "El Corralero",
-      "url": "https://open.spotify.com/track/5h9oRMXy6afiP2MPGMJIxy"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Conviccion",
         "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 204226,
       "name": "Cuando Me Abandone el Alma",
       "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
+        "name": "Lo Mejor de la Zamba Argentina",
+        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "El Corralero",
+      "url": "https://open.spotify.com/track/5h9oRMXy6afiP2MPGMJIxy"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Recuerdo Salte\u00f1o",
+      "url": "https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
         "name": "Secretos de Familia",
         "url": "https://open.spotify.com/album/52Y9ibi8pyfcZRMyFNwJ2c"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 205680,
       "name": "El Linyerita",
       "url": "https://open.spotify.com/track/7ereLsS9rzQ5TJJfD3dpAR"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Recuerdo Salte\u00f1o",
-      "url": "https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
+        "name": "Toda Una Vida",
+        "url": "https://open.spotify.com/album/121Kqyyc83tndCB8NWb9Gt"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Adonde Est\u00e1n los P\u00e1jaros Que Mueren",
+      "url": "https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
         "name": "Tonada del viejo amor",
         "url": "https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 131899,
       "name": "San Ju\u00e1n",
       "url": "https://open.spotify.com/track/2I9Cb067Un0slXouhfvdti"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
-        "name": "Toda Una Vida",
-        "url": "https://open.spotify.com/album/121Kqyyc83tndCB8NWb9Gt"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Adonde Est\u00e1n los P\u00e1jaros Que Mueren",
-      "url": "https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m"
     },
     {
       "added_at": "2024-10-22 19:01:40",

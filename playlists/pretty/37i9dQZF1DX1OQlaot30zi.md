@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di  Kid Yugi, Tredici Pietro, Don Joe e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,686 likes - 98 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,694 likes - 98 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

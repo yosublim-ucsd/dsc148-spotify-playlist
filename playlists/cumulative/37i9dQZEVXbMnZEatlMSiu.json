@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
@@ -2836,6 +2836,24 @@
       "duration_ms": 201391,
       "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
+    },
+    {
+      "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     },
     {
       "album": {
@@ -3734,7 +3752,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
@@ -3756,6 +3774,24 @@
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
+    },
+    {
+      "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/6b6KXDbDn0s0Jepxm8a3nr"
     },
     {
       "album": {
@@ -6546,10 +6582,32 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 186386,
       "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
       "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
+    },
+    {
+      "album": {
+        "name": "LOVE, MONEY, FAME (feat. DJ Khaled) (Timbaland Remix)",
+        "url": "https://open.spotify.com/album/75dYF3lceMhO7v151kAvKL"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+      "url": "https://open.spotify.com/track/3I2OBA3kKdbDYzFAkDuc81"
     },
     {
       "album": {
@@ -9284,7 +9342,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"

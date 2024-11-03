@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 38290,
+  "num_followers": 38293,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAACvCLqyac6zQQQIexoK5goX",
+  "snapshot_id": "ZyQaAAAAAACMua8hatMwlK0eZQsEbfxe",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caramel (feat. City Girls)",
-        "url": "https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM"
+        "name": "Act Bad",
+        "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
       },
       "artists": [
         {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
         }
       ],
-      "duration_ms": 232941,
-      "name": "Caramel (feat. City Girls)",
-      "url": "https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu"
+      "duration_ms": 192000,
+      "name": "Act Bad",
+      "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
     },
     {
       "added_at": null,
@@ -619,26 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Act Bad",
-        "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
+        "name": "Caramel (feat. City Girls)",
+        "url": "https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM"
       },
       "artists": [
         {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Act Bad",
-      "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
+      "duration_ms": 232941,
+      "name": "Caramel (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen of Da Souf",
-        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "In n Out (feat. City Girls)",
-      "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -727,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Pi\u00f1ata",
-      "url": "https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15",
         "url": "https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12"
       },
@@ -759,6 +723,42 @@
       "duration_ms": 170560,
       "name": "Yung and Bhad (feat. City Girls)",
       "url": "https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "In n Out (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "Pi\u00f1ata",
+      "url": "https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Need A Thug",
-        "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 117806,
-      "name": "I Need A Thug",
-      "url": "https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly"
       },
@@ -903,22 +887,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "43VA HEARTLESS",
-        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
+        "name": "I Need A Thug",
+        "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
       },
       "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 142395,
-      "name": "4 Da Moment (feat. City Girls)",
-      "url": "https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU"
+      "duration_ms": 117806,
+      "name": "I Need A Thug",
+      "url": "https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3"
     },
     {
       "added_at": null,
@@ -935,6 +915,26 @@
       "duration_ms": 119893,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "43VA HEARTLESS",
+        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 142395,
+      "name": "4 Da Moment (feat. City Girls)",
+      "url": "https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU"
     },
     {
       "added_at": null,

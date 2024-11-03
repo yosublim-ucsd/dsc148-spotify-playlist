@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,500 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,527 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 18 | [Guaguancó Triste](https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [El Bestial Sonido de](https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f) | 5:23 |
 | 19 | [Guaguancó Raro](https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:21 |
 | 20 | [Right On](https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 2:47 |
-| 21 | [A la la E](https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6) | [Pete Terrace](https://open.spotify.com/artist/1WzIuVArOislB6oLlBkxMP) | [Pachanguerisimo, Vol\. 1](https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq) | 2:24 |
-| 22 | [Pata Pata](https://open.spotify.com/track/2C06v7c02nnrZLPCR2TgHO) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va) | 3:15 |
+| 21 | [Pata Pata](https://open.spotify.com/track/2C06v7c02nnrZLPCR2TgHO) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va) | 3:15 |
+| 22 | [A la la E](https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6) | [Pete Terrace](https://open.spotify.com/artist/1WzIuVArOislB6oLlBkxMP) | [Pachanguerisimo, Vol\. 1](https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq) | 2:24 |
 | 23 | [Boogaloo Blues](https://open.spotify.com/track/48pCzNTXLLKneVT6Uel2oT) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Boogaloo Blues](https://open.spotify.com/album/1ME1gBqz9bt3A0LXDQYHB4) | 6:51 |
 | 24 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Latin Bugalu](https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH) | 2:28 |
 | 25 | [La Bamba](https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:58 |

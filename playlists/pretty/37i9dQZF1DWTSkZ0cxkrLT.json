@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 422670,
+  "num_followers": 422680,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Tinta y Tiempo",
-        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 249144,
-      "name": "Tinta y Tiempo",
-      "url": "https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
         "name": "A Roar Of Southern Clouds",
         "url": "https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 185933,
       "name": "A Primera Vista",
       "url": "https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
+        "name": "Tinta y Tiempo",
+        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 249144,
+      "name": "Tinta y Tiempo",
+      "url": "https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Un Amor Que Se Termina",
-        "url": "https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 156056,
-      "name": "Un Amor Que Se Termina",
-      "url": "https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
         "name": "Monoambiente en Capital",
         "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 181087,
       "name": "Monoambiente en Capital",
       "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
+        "name": "Un Amor Que Se Termina",
+        "url": "https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 156056,
+      "name": "Un Amor Que Se Termina",
+      "url": "https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Gal\u00e1ctica",
-        "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Gal\u00e1ctica",
-      "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -831,18 +811,22 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Pu\u00f1al",
-        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
+        "name": "Gal\u00e1ctica",
+        "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
       },
       "artists": [
         {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 218800,
-      "name": "Soltar",
-      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
+      "duration_ms": 207000,
+      "name": "Gal\u00e1ctica",
+      "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -859,6 +843,22 @@
       "duration_ms": 150859,
       "name": "Am\u00e1ndote",
       "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
+        "name": "Pu\u00f1al",
+        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
         "name": "Besos en la Espalda",
         "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 210266,
       "name": "Tardes de Melancol\u00eda",
       "url": "https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2024-08-29 19:40:05",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-08-29 19:40:05",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 238128,
-      "name": "Los Paisajes",
-      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
-    },
-    {
-      "added_at": "2024-08-29 19:40:05",
-      "album": {
         "name": "Diecinueve",
         "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 213105,
       "name": "Fuimos",
       "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+    },
+    {
+      "added_at": "2024-08-29 19:40:05",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 238128,
+      "name": "Los Paisajes",
+      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
     },
     {
       "added_at": "2024-08-29 19:40:05",

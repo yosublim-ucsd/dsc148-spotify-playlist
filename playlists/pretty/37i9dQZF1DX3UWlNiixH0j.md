@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: PAS TASTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,273 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,275 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 30 | [Blue](https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Blue Inside You](https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA) | 3:26 |
 | 31 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 |
 | 32 | [you left the story of my life](https://open.spotify.com/track/1IOzjkapv2XcXl4KuuL7ho) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [you left the story of my life](https://open.spotify.com/album/6sjj56JBEsHR0qGKdQe4Ic) | 2:53 |
-| 33 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 |
-| 34 | [Alone in the Sky](https://open.spotify.com/track/14x0Y9WmUG3C82BxJhnR2n) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Alone in the Sky](https://open.spotify.com/album/1rZZaAycfdqKMcbKuwI5Pg) | 4:29 |
+| 33 | [Alone in the Sky](https://open.spotify.com/track/14x0Y9WmUG3C82BxJhnR2n) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Alone in the Sky](https://open.spotify.com/album/1rZZaAycfdqKMcbKuwI5Pg) | 4:29 |
+| 34 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 |
 | 35 | [声を聞かせて](https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 2:28 |
 | 36 | [ふたりの映画](https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ふたりの映画](https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII) | 3:27 |
 | 37 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 53 | [素直 \- My Favorite Things Ver.](https://open.spotify.com/track/4UT4ZIYNEZGNySxuaRQXD2) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [素直 \(My Favorite Things Ver.\)](https://open.spotify.com/album/1zVYXR52oPGXd2MiJqqwIU) | 3:52 |
 | 54 | [チャーミー](https://open.spotify.com/track/2uYVZuH5I0V7ttt6K1joAY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [チャーミー](https://open.spotify.com/album/4be8Zrc2bh0nwNx8ylHlp5) | 3:57 |
 | 55 | [地下鉄の揺れるリズムで](https://open.spotify.com/track/3yFvHFqIWNFhJNcQw3C3Lx) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [村上基](https://open.spotify.com/artist/4EKTa0k3mRu5mJT5HcRRVu) | [地下鉄の揺れるリズムで](https://open.spotify.com/album/4QG8QxpqHUBXucaDMWxPy9) | 3:39 |
-| 56 | [MEBAE](https://open.spotify.com/track/5ZLptCYUfgM5daGHcpObgk) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [MEBAE](https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3) | 4:05 |
-| 57 | [Shock!!中毒](https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [Saladbowl](https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt) | 3:29 |
+| 56 | [Shock!!中毒](https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [Saladbowl](https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt) | 3:29 |
+| 57 | [MEBAE](https://open.spotify.com/track/5ZLptCYUfgM5daGHcpObgk) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [MEBAE](https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3) | 4:05 |
 | 58 | [グレー](https://open.spotify.com/track/7zDtaZKT3Q1RRzXjnRIv4B) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [グレー](https://open.spotify.com/album/6vqpq472JxEatGTOlwrLZR) | 3:29 |
 | 59 | [Petillant](https://open.spotify.com/track/1L4uVdBzKUt1so7Pgys21k) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Love Deluxe](https://open.spotify.com/album/21F5oKkCpE0DuOlA7S3KCl) | 3:32 |
 | 60 | [世界に君一人だけ](https://open.spotify.com/track/2MBYHLxowxWCAhA6wd73G6) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [世界に君一人だけ](https://open.spotify.com/album/0aZ5fxz1ePR5Yug1lS0bz0) | 4:07 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 63 | [しとろんの週末](https://open.spotify.com/track/73JuWT6msVqFaYfyFvxEnr) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [しとろんの週末](https://open.spotify.com/album/3zlBk9mRBJHPMQnd6hnCvj) | 3:04 |
 | 64 | [悪魔を飼ってる](https://open.spotify.com/track/5500y1N4gRYCcb3dKfuOxN) | [Narita](https://open.spotify.com/artist/3sEl6ZVveEM2iKeJSKskiN) | [狂ってどうにかなりそうなんだ。](https://open.spotify.com/album/16l6P3XA1iep6gtWBpgKJK) | 1:58 |
 | 65 | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/track/0nfnFUOskb0vIO4hM08c39) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Day by Day \(feat\. Zee Avi\)](https://open.spotify.com/album/4oqJVoFDVsAGLzteRJa7uP) | 3:07 |
-| 66 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
-| 67 | [Daijoubu Desu](https://open.spotify.com/track/5H5lr2tSCUgUUZHOGAh91m) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Daijoubu Desu](https://open.spotify.com/album/3pZa7BlQQabiAqEunrmaR6) | 3:19 |
-| 68 | [LET GO](https://open.spotify.com/track/5GMK8sduhOa6g3mcW9gwi6) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR) | [LET GO](https://open.spotify.com/album/1Q9XRAfWT01mx7MFGxJOFF) | 2:10 |
-| 69 | [THE FAKE ESCAPE](https://open.spotify.com/track/23CNXLcMvLKgeWBEXt7JKS) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [THE FAKE ESCAPE](https://open.spotify.com/album/69tv2teYIILTpu7DYyORy1) | 3:40 |
-| 70 | [クズアンドピース](https://open.spotify.com/track/4JnZyGMjxj9f7AK74y6Cbu) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [クズアンドピース/ポメラニアン](https://open.spotify.com/album/0GomZFVLvII7BCJoufCwl4) | 3:23 |
+| 66 | [LET GO](https://open.spotify.com/track/5GMK8sduhOa6g3mcW9gwi6) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR) | [LET GO](https://open.spotify.com/album/1Q9XRAfWT01mx7MFGxJOFF) | 2:10 |
+| 67 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
+| 68 | [Daijoubu Desu](https://open.spotify.com/track/5H5lr2tSCUgUUZHOGAh91m) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Daijoubu Desu](https://open.spotify.com/album/3pZa7BlQQabiAqEunrmaR6) | 3:19 |
+| 69 | [クズアンドピース](https://open.spotify.com/track/4JnZyGMjxj9f7AK74y6Cbu) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [クズアンドピース/ポメラニアン](https://open.spotify.com/album/0GomZFVLvII7BCJoufCwl4) | 3:23 |
+| 70 | [THE FAKE ESCAPE](https://open.spotify.com/track/23CNXLcMvLKgeWBEXt7JKS) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [THE FAKE ESCAPE](https://open.spotify.com/album/69tv2teYIILTpu7DYyORy1) | 3:40 |
 | 71 | [人のダンス](https://open.spotify.com/track/2QxNK2zmMkJFpa6T4fMhwL) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遊泳の音楽](https://open.spotify.com/album/3gikLkjddA26RnH0l12cJ6) | 4:45 |
 | 72 | [惑星](https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [惑星](https://open.spotify.com/album/5GPaYEIdlA6ozkFDrz34Zx) | 3:36 |
 | 73 | [天才は今度](https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりを編む駐車場](https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV) | 2:55 |
-| 74 | [よか](https://open.spotify.com/track/0ceCCzzxs7PyUB7Yl5j1Kj) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [よか](https://open.spotify.com/album/6V01wVHdl54mAT70xGUxxw) | 3:09 |
-| 75 | [きせつ](https://open.spotify.com/track/5fOOVuvHuFQMUS4MTW1rdI) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [きせつ](https://open.spotify.com/album/0paHDBJvF2pIZO2JUW8cMM) | 6:39 |
+| 74 | [Wanderlust](https://open.spotify.com/track/7q9dOX2Jm8EKVTJ8jGvOY8) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [Wanderlust](https://open.spotify.com/album/01LxuZpEF7GvsfAytHRbxt) | 4:23 |
+| 75 | [よか](https://open.spotify.com/track/0ceCCzzxs7PyUB7Yl5j1Kj) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [よか](https://open.spotify.com/album/6V01wVHdl54mAT70xGUxxw) | 3:09 |
 
 Snapshot ID: `ZyD4cAAAAAABVRmx65qHiL6C6B6Fqckr`

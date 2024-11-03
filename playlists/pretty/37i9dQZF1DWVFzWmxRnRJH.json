@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 293966,
+  "num_followers": 294096,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 152866,
       "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
       "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "Diamond Rio",
         "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 198333,
       "name": "Meet In the Middle",
       "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "The Incredible Machine",
-        "url": "https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf"
-      },
-      "artists": [
-        {
-          "name": "Sugarland",
-          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "Stuck Like Glue",
-      "url": "https://open.spotify.com/track/0JcKdUGNR7zI4jJDLyYXbi"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 248280,
       "name": "My Wish",
       "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "The Incredible Machine",
+        "url": "https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf"
+      },
+      "artists": [
+        {
+          "name": "Sugarland",
+          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
+        }
+      ],
+      "duration_ms": 247586,
+      "name": "Stuck Like Glue",
+      "url": "https://open.spotify.com/track/0JcKdUGNR7zI4jJDLyYXbi"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Teach Your Children",
+      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
       },
@@ -1243,6 +1259,22 @@
       "duration_ms": 147306,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "American Honey",
+      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -1275,38 +1307,6 @@
       "duration_ms": 249360,
       "name": "Don't Take The Girl",
       "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "American Honey",
-      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Teach Your Children",
-      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Fancy Free",
-        "url": "https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Elvira",
-      "url": "https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "One Piece At A Time",
         "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 241813,
       "name": "One Piece at a Time",
       "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Fancy Free",
+        "url": "https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Elvira",
+      "url": "https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax"
     },
     {
       "added_at": "2024-06-01 02:04:50",

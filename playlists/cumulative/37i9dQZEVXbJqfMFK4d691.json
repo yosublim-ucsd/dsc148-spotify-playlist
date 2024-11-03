@@ -648,7 +648,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 153564,
       "name": "AGORA",
       "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -2308,6 +2308,28 @@
       "duration_ms": 234000,
       "name": "Burda de Feliz",
       "url": "https://open.spotify.com/track/6cfTMCrEtr5OiGv381P2JT"
+    },
+    {
+      "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194447,
+      "name": "Buscarte Lejos",
+      "url": "https://open.spotify.com/track/7b9hpzFQJaKUAAKsOeDafS"
     },
     {
       "album": {
@@ -2834,7 +2856,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 195586,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
@@ -2972,7 +2994,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
@@ -6360,7 +6382,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 181677,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU"
@@ -7254,6 +7276,24 @@
       "duration_ms": 254920,
       "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
+    },
+    {
+      "album": {
+        "name": "La luna",
+        "url": "https://open.spotify.com/album/5kzHg1rzZo82VdATlKXDaM"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179879,
+      "name": "La luna",
+      "url": "https://open.spotify.com/track/7sCy2Xzs12MKH8JQmgNANq"
     },
     {
       "album": {
@@ -10394,6 +10434,28 @@
       "duration_ms": 265386,
       "name": "Nuestra Canci\u00f3n (feat. Vicente Garc\u00eda)",
       "url": "https://open.spotify.com/track/0qP9Kt3gmpDFoDUzl3REGs"
+    },
+    {
+      "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217547,
+      "name": "Nueva Era",
+      "url": "https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF"
     },
     {
       "album": {
@@ -13928,7 +13990,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 156000,
       "name": "SI NO ES CONTIGO",
       "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
@@ -16060,6 +16122,28 @@
       "duration_ms": 184721,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs"
+    },
+    {
+      "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181503,
+      "name": "Vida De Rock",
+      "url": "https://open.spotify.com/track/26y2gBrbiFJIOUjIlSQfdH"
     },
     {
       "album": {

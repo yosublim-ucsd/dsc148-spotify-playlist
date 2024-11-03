@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,107 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,148 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 45 | [High](https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD) | 3:16 |
 | 46 | [Keep On](https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 3:38 |
 | 47 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 |
-| 48 | [OUR LOVE \(80'S\)](https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [OUR LOVE \(80'S\)](https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX) | 2:59 |
-| 49 | [High Notes](https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High Notes](https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv) | 2:32 |
+| 48 | [High Notes](https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High Notes](https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv) | 2:32 |
+| 49 | [OUR LOVE \(80'S\)](https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [OUR LOVE \(80'S\)](https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX) | 2:59 |
 | 50 | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy) | 3:21 |
 | 51 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
 | 52 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 |

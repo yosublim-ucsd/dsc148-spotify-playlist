@@ -1265,6 +1265,28 @@
     },
     {
       "album": {
+        "name": "Rich Mafia Vol. 1",
+        "url": "https://open.spotify.com/album/64esOhbm4ceNKRyjm4iQhj"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236002,
+      "name": "Abran Paso",
+      "url": "https://open.spotify.com/track/1Swd8UbwQki9BK5zDFhflv"
+    },
+    {
+      "album": {
         "name": "Abran Paso",
         "url": "https://open.spotify.com/album/4pMFJL9AAor8UG0uAkIbl5"
       },
@@ -1280,7 +1302,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 236002,
       "name": "Abran Paso",
       "url": "https://open.spotify.com/track/5ryLHMXzsxUdtThQ9gyxXr"
@@ -6669,7 +6691,7 @@
       "artists": [
         {
           "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/75myVgZbKQkWpyHAlLUCmG"
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         },
         {
           "name": "Celso Pi\u00f1a Arvizu",
@@ -6678,7 +6700,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 260974,
       "name": "Calaveritas",
       "url": "https://open.spotify.com/track/1rfOVVrDPHouBZhiTL3kzs"
@@ -11388,7 +11410,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
@@ -13049,6 +13071,24 @@
     },
     {
       "album": {
+        "name": "El Esqueleto",
+        "url": "https://open.spotify.com/album/0SY9BSzGpcohHMNKnXd5H8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/7b44hAQm65hOYcsiesm3zc"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165227,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/3WLf5aW48LL1FFS4UrdthD"
+    },
+    {
+      "album": {
         "name": "Ya Aprend\u00ed la Lecci\u00f3n",
         "url": "https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8"
       },
@@ -13310,7 +13350,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 121670,
       "name": "El Latido de mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5GqGavoD0DCHBcRxfRK7v1"
@@ -13874,7 +13914,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 119225,
       "name": "El Twist del Esqueleto",
       "url": "https://open.spotify.com/track/6r3JeSUyr2wfsGFwftdd4t"
@@ -14054,7 +14094,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -17595,6 +17635,24 @@
     },
     {
       "album": {
+        "name": "Goosebumps (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7vqZjtCd0D9jfk5WlZ95KD"
+      },
+      "artists": [
+        {
+          "name": "Jack Lenz",
+          "url": "https://open.spotify.com/artist/3LzSjgXJnvwHq4w9aN2uwA"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64525,
+      "name": "Goosebumps Original Theme Song",
+      "url": "https://open.spotify.com/track/0gs6G0qcP6yXVBntg8PC3L"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/5PqZvEQFscV66LOl52oGBS"
       },
@@ -17806,7 +17864,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 175333,
       "name": "Halloween Theme - Main Title",
       "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
@@ -20352,7 +20410,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 143000,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/25pmPsla5NEPR3PW6w4Zo8"
@@ -20388,7 +20446,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 242468,
       "name": "Kamikaze NATANAEL CANO VICTOR MENDIVIL URIEL GAXIOLA X GANGGY",
       "url": "https://open.spotify.com/track/4gfTlhVn6IzO7THPXHGBDl"
@@ -20877,7 +20935,7 @@
     },
     {
       "album": {
-        "name": "\"Por Siempre\"",
+        "name": "\"Por Siempre\" Lo Mejor de Amparo Ochoa (Remasterizada 2006)",
         "url": "https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q"
       },
       "artists": [
@@ -20888,9 +20946,9 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 310013,
-      "name": "La Calaca",
+      "name": "La Calaca - Remasterizada 2006",
       "url": "https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU"
     },
     {
@@ -21413,6 +21471,24 @@
     },
     {
       "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/4M7yln2ZtrETNYYp3bUDeK"
+      },
+      "artists": [
+        {
+          "name": "Lizi Lay",
+          "url": "https://open.spotify.com/artist/1ePXokISu6GVKdSaw5XWic"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322730,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/6jx0vGHHRI7iOBkiXEdgXq"
+    },
+    {
+      "album": {
         "name": "La Loca (En Vivo)",
         "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
       },
@@ -21682,7 +21758,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 115466,
       "name": "La P-90",
       "url": "https://open.spotify.com/track/1nMXGIFXA2bWyuqv3Q283w"
@@ -25587,6 +25663,24 @@
     },
     {
       "album": {
+        "name": "Manuel Loco Valdes",
+        "url": "https://open.spotify.com/album/1UgZCihTRtUr7kTgK1sJBr"
+      },
+      "artists": [
+        {
+          "name": "Manuel Loco Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0jgf6PnmEhXnLqORB50vYk"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143360,
+      "name": "Medico Brujo",
+      "url": "https://open.spotify.com/track/7z3MwI69jrhDrMZ1OG77jx"
+    },
+    {
+      "album": {
         "name": "UVV Vol. 8 (En Vivo)",
         "url": "https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3"
       },
@@ -27738,6 +27832,24 @@
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
+    },
+    {
+      "album": {
+        "name": "October Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX"
+      },
+      "artists": [
+        {
+          "name": "October Country",
+          "url": "https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126840,
+      "name": "My Girlfriend Is a Witch",
+      "url": "https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD"
     },
     {
       "album": {
@@ -32226,7 +32338,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 240669,
       "name": "PI\u00c9NSALO",
       "url": "https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr"
@@ -36282,7 +36394,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 182155,
       "name": "SAN TURRONA REMIX",
       "url": "https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32"
@@ -38540,7 +38652,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
@@ -38566,7 +38678,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 142022,
       "name": "Soltera - W Sound 01",
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
@@ -39672,7 +39784,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 114693,
       "name": "Super Tuna",
       "url": "https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf"

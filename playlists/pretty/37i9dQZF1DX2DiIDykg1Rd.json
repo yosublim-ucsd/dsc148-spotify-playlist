@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 741,
+  "num_followers": 740,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 142969,
-      "name": "ASTROTHUNDER",
-      "url": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 304760,
       "name": "Super Rich Kids",
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 142969,
+      "name": "ASTROTHUNDER",
+      "url": "https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -131,18 +131,18 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 218283,
-      "name": "NO BYSTANDERS",
-      "url": "https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn"
+      "duration_ms": 229040,
+      "name": "Yo (Excuse Me Miss)",
+      "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 229040,
-      "name": "Yo (Excuse Me Miss)",
-      "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
+      "duration_ms": 218283,
+      "name": "NO BYSTANDERS",
+      "url": "https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "Sonder Son",
+        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 159485,
+      "name": "Talk 2 U",
+      "url": "https://open.spotify.com/track/1Xm9CQRcJbOgTCpKCpS9s5"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "ASTROWORLD",
         "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 292865,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "Sonder Son",
-        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 159485,
-      "name": "Talk 2 U",
-      "url": "https://open.spotify.com/track/1Xm9CQRcJbOgTCpKCpS9s5"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 172669,
-      "name": "Chinatown",
-      "url": "https://open.spotify.com/track/4XLCFFvRG1qQ8kT4uzwYZC"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
         "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 214280,
       "name": "IN THE MOMENT feat. Tyler, The Creator",
       "url": "https://open.spotify.com/track/1tXWUIFKPPHLAth1zCGfmj"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 172669,
+      "name": "Chinatown",
+      "url": "https://open.spotify.com/track/4XLCFFvRG1qQ8kT4uzwYZC"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 99213,
-      "name": "Break from Toronto",
-      "url": "https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
         "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 184066,
       "name": "VIOLET SKIES",
       "url": "https://open.spotify.com/track/50mNDRWNIKysdc8v07H8iu"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 99213,
+      "name": "Break from Toronto",
+      "url": "https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g"
     },
     {
       "added_at": "2023-01-01 05:00:00",

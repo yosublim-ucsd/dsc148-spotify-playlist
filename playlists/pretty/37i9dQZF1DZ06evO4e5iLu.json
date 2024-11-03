@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1269379,
+  "num_followers": 1269712,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAAbn3DdwJknp7QvxFv/irBB",
+  "snapshot_id": "ZyQaAAAAAABOEPOnbtXicdaHvqNlAkyw",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivo Por Ella (feat. KAROL G)",
-        "url": "https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Vivo Por Ella (feat. KAROL G)",
-      "url": "https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 233160,
       "name": "Caramelo - Remix",
       "url": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivo Por Ella (feat. KAROL G)",
+        "url": "https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Vivo Por Ella (feat. KAROL G)",
+      "url": "https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS"
     },
     {
       "added_at": null,
@@ -891,6 +891,34 @@
       "duration_ms": 393280,
       "name": "Poblado - Remix",
       "url": "https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Family (feat. Migos) [from \"The Addams Family\"]",
+        "url": "https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Rock Mafia",
+          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
+        }
+      ],
+      "duration_ms": 177352,
+      "name": "My Family - from \"The Addams Family\"",
+      "url": "https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3"
     },
     {
       "added_at": null,

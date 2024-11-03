@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 156923,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs"
@@ -3742,6 +3742,28 @@
       "duration_ms": 172258,
       "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
       "url": "https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn"
+    },
+    {
+      "album": {
+        "name": "La Santa",
+        "url": "https://open.spotify.com/album/5RWwj0Z3WDYmBSvVacIjQA"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Onemenor02",
+          "url": "https://open.spotify.com/artist/4MTZ8fohTxtA66OPDZHoFj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149769,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/1JWCzNYRYMbt8m39RVc0Wd"
     },
     {
       "album": {

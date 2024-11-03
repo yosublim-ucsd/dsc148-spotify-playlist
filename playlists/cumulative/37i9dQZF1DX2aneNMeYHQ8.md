@@ -4,7 +4,7 @@
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: James Bay
 
-521 songs - 1 day 7 hr 46 min
+522 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Burnout](https://open.spotify.com/track/0TvdoyqP2Vi2pA1BBVHYD0) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O) | [Burnout / Feel Less Bad](https://open.spotify.com/album/6KW2sO4EPL3CtzEqY0IxSP) | 2:33 | 2024-07-12 | 2024-09-21 |
 | [California Rain](https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [California Rain](https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw) | 3:23 | 2024-07-12 | 2024-10-30 |
 | [Call It Like It Is](https://open.spotify.com/track/676Y7rEtzssvdvvqEZLMnI) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Tired Hearts](https://open.spotify.com/album/206PHdzpiAp3dy97erlYuw) | 3:24 | 2023-06-09 | 2024-09-17 |
+| [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 | 2024-10-14 |  |
 | [Can't You See](https://open.spotify.com/track/4zKmIWfueAoDC9PGxtK3kN) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/0kWAbbzDOr4jMznmbTOPHC) | 3:30 | 2021-09-10 | 2022-07-28 |
 | [Can't You See](https://open.spotify.com/track/7CpvqCIiimMVOzFICK5Pxr) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/6AJjWiP7hffkRm6q0ORVX9) | 3:30 | 2022-07-01 | 2022-12-02 |
 | [Cannabis Tree](https://open.spotify.com/track/0JhW4OheoZ3N2OaLqvT5PR) | [Rome & Duddy](https://open.spotify.com/artist/56sqxTFviOe84mo1jj3faF) | [Cannabis Tree](https://open.spotify.com/album/3kNkXgyw5SatiRBU8lTGFS) | 4:51 | 2022-10-21 | 2022-11-12 |
@@ -220,7 +221,7 @@
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 | 2021-09-17 | 2022-10-07 |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 | 2022-08-28 | 2024-04-19 |
 | [I Feel Like I'm Falling](https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [I Feel Like I'm Falling](https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe) | 2:24 | 2021-11-12 | 2022-01-12 |
-| [If God Is A Woman](https://open.spotify.com/track/54bGJlYr8LGaYzJ2piL3Op) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [If God Is A woman](https://open.spotify.com/album/564oj2NGIjqVfN6h4BFnYw) | 3:25 | 2024-10-14 |  |
+| [If God Is A Woman](https://open.spotify.com/track/54bGJlYr8LGaYzJ2piL3Op) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [If God Is A woman](https://open.spotify.com/album/564oj2NGIjqVfN6h4BFnYw) | 3:25 | 2024-10-14 | 2024-11-03 |
 | [If We Were Vampires \(feat\. Wesley Schultz\) \- Spotify Singles](https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 3:37 | 2023-05-12 | 2024-07-13 |
 | [In Memory \(Of When I Cared\)](https://open.spotify.com/track/6ckJkoKEqCJi0jmtEVuvGc) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [In Memory \(Of When I Cared\)](https://open.spotify.com/album/4JmtSJv4Hl3QAVhIjJKIT4) | 2:53 | 2022-05-25 | 2022-07-09 |
 | [in the wake of your leave](https://open.spotify.com/track/4vjB69VckVUeu0GzAxoZRm) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [in the wake of your leave](https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7) | 4:03 | 2022-01-11 | 2024-09-17 |

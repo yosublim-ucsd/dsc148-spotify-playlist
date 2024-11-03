@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Poppy",
-  "num_followers": 701172,
+  "num_followers": 701463,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Don't Give Me Names",
-        "url": "https://open.spotify.com/album/37GjnYxAXPk9EPXgL4jv4s"
-      },
-      "artists": [
-        {
-          "name": "Guano Apes",
-          "url": "https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "Big in Japan",
-      "url": "https://open.spotify.com/track/3lQO10djAi0Ym506za76Wt"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "The Phantom Agony (Expanded Edition)",
         "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 289306,
       "name": "Sensorium",
       "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Don't Give Me Names",
+        "url": "https://open.spotify.com/album/37GjnYxAXPk9EPXgL4jv4s"
+      },
+      "artists": [
+        {
+          "name": "Guano Apes",
+          "url": "https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "Big in Japan",
+      "url": "https://open.spotify.com/track/3lQO10djAi0Ym506za76Wt"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "KILL[H]ER",
-        "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 145735,
-      "name": "KILL[H]ER",
-      "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 186173,
       "name": "Antagonist",
       "url": "https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "KILL[H]ER",
+        "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 145735,
+      "name": "KILL[H]ER",
+      "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        },
-        {
-          "name": "Will King",
-          "url": "https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt"
-        }
-      ],
-      "duration_ms": 192919,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "WITCH",
         "url": "https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 234111,
       "name": "WITCH",
       "url": "https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        },
+        {
+          "name": "Will King",
+          "url": "https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt"
+        }
+      ],
+      "duration_ms": 192919,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
+        "name": "weapon",
+        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "weapon",
+      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
         "name": "SAWAYAMA",
         "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "weapon",
-        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
+        "name": "86",
+        "url": "https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w"
       },
       "artists": [
         {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+          "name": "Infected Rain",
+          "url": "https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY"
         }
       ],
-      "duration_ms": 197209,
-      "name": "weapon",
-      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
+      "duration_ms": 288867,
+      "name": "Orphan Soul",
+      "url": "https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -851,22 +867,6 @@
       "duration_ms": 212310,
       "name": "Paralyzed (feat. Attack Attack!)",
       "url": "https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
-        "name": "86",
-        "url": "https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w"
-      },
-      "artists": [
-        {
-          "name": "Infected Rain",
-          "url": "https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY"
-        }
-      ],
-      "duration_ms": 288867,
-      "name": "Orphan Soul",
-      "url": "https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL"
     },
     {
       "added_at": "2024-07-19 14:26:43",

@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: üçkuruş
 
-146 songs - 7 hr 1 min
+147 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Beni Seviyo](https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP) | [Alara Serena](https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu) | [Beni Seviyo](https://open.spotify.com/album/131EG59oUCxBSezj1EDY11) | 2:41 | 2024-06-20 | 2024-08-09 |
 | [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-08-29 |  |
 | [Bi' İnansan Güzelim](https://open.spotify.com/track/4EzVfclpptuWdeMSRmNy04) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Bi' İnansan Güzelim](https://open.spotify.com/album/5kGD0QdQpyVjhG3zw0vLU8) | 3:27 | 2024-09-05 | 2024-11-01 |
+| [Bir Aşk Biter](https://open.spotify.com/track/4NobbDtfMdaJP0sxA72K9j) | [Hasan Kutan](https://open.spotify.com/artist/4JANYRn1io9jc8aPjjVpX8) | [Bir Aşk Biter](https://open.spotify.com/album/2S9l8ynEn2rLG60up8vxAK) | 3:09 | 2024-10-24 |  |
 | [Bir Bir](https://open.spotify.com/track/3ICdfm7CAO0vg14gyUFjkG) | [Hakan Kurtaş](https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt) | [Bir Bir](https://open.spotify.com/album/1OEwwB2FESKuziGRR8tqiY) | 2:55 | 2024-08-22 |  |
 | [Bitti Hikayemiz](https://open.spotify.com/track/0R6PCc8mr0v2DlRZQCzW35) | [Nazlı Yaşan](https://open.spotify.com/artist/6wEC8NwWVlVXzvKRKETpMp) | [Bitti Hikayemiz](https://open.spotify.com/album/0eaiRgGguSXCQNopYBRYGy) | 2:43 | 2024-10-10 |  |
 | [bizdenbaşka.](https://open.spotify.com/track/17IjdDXjobLTdHZDjldsO9) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [bizdenbaşka.](https://open.spotify.com/album/30XUUMWhEYXRuVZnvYo01R) | 3:00 | 2024-06-20 |  |
@@ -56,7 +57,7 @@
 | [Elveda](https://open.spotify.com/track/1Cq43stElh7czsd1h0yf2w) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Elveda](https://open.spotify.com/album/7vIiGmRqM2UZDJBlYHtE8I) | 2:28 | 2024-08-01 |  |
 | [Enfus](https://open.spotify.com/track/3ce5WNaKnWb7IB3LJnZlU9) | [Elif Kaya](https://open.spotify.com/artist/0YP9sio4vk1BLyCWg3DG1r) | [Enfus](https://open.spotify.com/album/2VnweK6Od0fDlJFAnqIRbO) | 3:50 | 2024-10-03 | 2024-10-22 |
 | [Eskisi Gibi](https://open.spotify.com/track/3xm7mzzbsNOAbyeOWYepAT) | [GOSS](https://open.spotify.com/artist/4Jg1d2IdzvSjuOzbIRMu2f) | [Eskisi Gibi](https://open.spotify.com/album/3W2dxJBBFjZ5RB7LWnCyqg) | 3:36 | 2024-06-20 | 2024-07-10 |
-| [gece gündüz](https://open.spotify.com/track/5vT94MAha3TdhV4LPsECyG) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [gece gündüz](https://open.spotify.com/album/0sNUfaDpHlSkgLDlm7gfQx) | 2:28 | 2024-08-01 |  |
+| [gece gündüz](https://open.spotify.com/track/5vT94MAha3TdhV4LPsECyG) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [gece gündüz](https://open.spotify.com/album/0sNUfaDpHlSkgLDlm7gfQx) | 2:28 | 2024-08-01 | 2024-11-03 |
 | [Geri Dön](https://open.spotify.com/track/51RNqadonzyl4efQSMKaaG) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Geri Dön](https://open.spotify.com/album/4BQGAzfwDbrVW4O54xKhhG) | 2:44 | 2024-09-05 |  |
 | [Gitme](https://open.spotify.com/track/2XPoqEh2BVlVPyFbUKxHFX) | [Milat](https://open.spotify.com/artist/5BJ04QfXObFjFkvZCn6T9v) | [Gitme](https://open.spotify.com/album/7fOyzC83TBSOGpTHU61R5J) | 2:53 | 2024-09-05 | 2024-09-11 |
 | [Gitmem Gerek](https://open.spotify.com/track/1zEw0uSFAI80ayq89nwTA4) | [ARAS İdol](https://open.spotify.com/artist/4S55arVgMLWyaabu95NKIx) | [Gitmem Gerek](https://open.spotify.com/album/1GlwklstEmxnpyObVnKngZ) | 3:28 | 2024-09-05 | 2024-09-20 |

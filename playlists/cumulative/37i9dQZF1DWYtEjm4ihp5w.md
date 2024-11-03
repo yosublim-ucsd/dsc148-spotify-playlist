@@ -4,7 +4,7 @@
 
 > a7san ma kayn f rap maghribi.
 
-309 songs - 16 hr 36 min
+310 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [DIFFERENT V2](https://open.spotify.com/track/3nMLSphMk9zGtpJCB1zm8K) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [DIFFERENT V2](https://open.spotify.com/album/0pXh9lyVEqChCz3XGkWcLU) | 3:31 | 2023-02-10 | 2023-05-21 |
 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 | 2024-10-23 |  |
 | [Dmess](https://open.spotify.com/track/2aEsMXEDpyKWdZ3JJspbai) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Dmess](https://open.spotify.com/album/7bybuogra71XLFPeOLRVhe) | 2:51 | 2024-10-09 | 2024-10-31 |
+| [Dmou3 L'Croco](https://open.spotify.com/track/07sFckxlPXEYKgTjR8ZdEw) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Dmou3 L'Croco](https://open.spotify.com/album/6c3o3VCnDA2wKfoJbnnKgu) | 3:11 | 2024-11-02 |  |
 | [Do It Again](https://open.spotify.com/track/7jsvjOtuzYXeYl8m90S5BA) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:44 | 2023-06-22 | 2023-12-08 |
 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2023-12-07 | 2024-02-09 |
 | [Dokhana](https://open.spotify.com/track/5Yd23nlQjtvyceg2u2BnxQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 2:52 | 2024-06-27 | 2024-07-19 |
@@ -292,7 +293,7 @@
 | [Wa3ra](https://open.spotify.com/track/4ZhL9IgqKHsVa7goaJ6MVD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Wa3ra](https://open.spotify.com/album/1K2UJSMp9GcnyESsOk9Zmg) | 2:16 | 2024-04-26 |  |
 | [Wassup Fam](https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 2:57 | 2023-05-25 | 2023-08-13 |
 | [Wassup Fam](https://open.spotify.com/track/0aOGcylPs9MtS21nfhTDJj) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Wassup Fam](https://open.spotify.com/album/4gSUb0XWeu3v0zd2NJSzjO) | 2:57 | 2023-06-22 | 2023-06-29 |
-| [Wayli](https://open.spotify.com/track/0cPYsatszcbMWoFWo5LHiZ) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/4AlWJRJ8Up3nw0N1ChRvwD) | 4:19 | 2024-10-09 |  |
+| [Wayli](https://open.spotify.com/track/0cPYsatszcbMWoFWo5LHiZ) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/4AlWJRJ8Up3nw0N1ChRvwD) | 4:19 | 2024-10-09 | 2024-11-03 |
 | [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 | 2022-11-14 | 2023-12-17 |
 | [We9tna](https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9) | 3:20 | 2024-10-02 |  |
 | [We9tna](https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:20 | 2024-06-27 | 2024-10-03 |

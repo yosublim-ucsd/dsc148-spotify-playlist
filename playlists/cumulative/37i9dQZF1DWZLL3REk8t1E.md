@@ -4,7 +4,7 @@
 
 > ¡A calentar garganta!
 
-308 songs - 16 hr 34 min
+309 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [De Uno Y De Todos Los Modos \- Version Bolero](https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Situaciones](https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM) | 3:53 | 2024-02-23 |  |
 | [Decepciones](https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Decepciones](https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT) | 3:43 | 2021-12-27 | 2024-02-23 |
 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 | 2022-06-08 | 2022-12-10 |
-| [Delante De Mi](https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:02 | 2024-07-15 |  |
+| [Delante De Mi](https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:02 | 2024-07-15 | 2024-11-03 |
 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 | 2022-06-08 | 2022-11-14 |
 | [Desprecio](https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 | 2024-07-15 | 2024-10-24 |
 | [Difícil Tu Caso](https://open.spotify.com/track/6QAQyyDoacQPvSm1BfJtv2) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Difícil Tu Caso](https://open.spotify.com/album/4toyhAt9fgtGec8ZacJerj) | 2:40 | 2023-09-22 | 2024-02-13 |
@@ -114,6 +114,7 @@
 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 | 2023-04-10 | 2023-11-21 |
 | [En los Mismos Errores](https://open.spotify.com/track/6BGdSqb7RQb8aSx6xpihCa) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [En los Mismos Errores](https://open.spotify.com/album/0KMITUHQQCnpkKXltICoiK) | 2:48 | 2024-10-23 |  |
 | [En Tu Pelo](https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 3:00 | 2024-02-23 | 2024-07-08 |
+| [Encerrado](https://open.spotify.com/track/5sac0GAyBzR3RI2R52yPlH) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z), [Banda Territorial de Monterrey](https://open.spotify.com/artist/7i5aucBkMCpaey8tM7OcAO) | [TPT](https://open.spotify.com/album/2Uy8mynSjaUJgM5ICpcbWC) | 3:24 | 2024-10-23 |  |
 | [Enloquecido](https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho) | 3:32 | 2024-02-23 | 2024-06-04 |
 | [Entonces Que Somos](https://open.spotify.com/track/4xgBQfC09yhhY44xgcN6vx) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Haciendo Historia](https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO) | 3:20 | 2021-12-27 | 2024-07-16 |
 | [Entre El Amar Y El Querer](https://open.spotify.com/track/5SvFpAJFgnuVzGX7TeK5CS) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Entre El Amar Y El Querer](https://open.spotify.com/album/2k9WSDU5yDudkeNsmxqnz5) | 3:22 | 2022-12-09 | 2023-06-20 |

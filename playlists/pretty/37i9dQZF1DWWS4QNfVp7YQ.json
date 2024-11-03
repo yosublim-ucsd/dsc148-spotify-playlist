@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 82108,
+  "num_followers": 82164,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,34 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Si Me Tocan Esta Play, Si Bailo (Guaracha)",
-        "url": "https://open.spotify.com/album/0jK7zKpYPn2TcudoAvylOd"
+        "name": "Baila Conmigo (feat. Kelly Ruiz) [Alan Rosales & TBX Remix]",
+        "url": "https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ"
       },
       "artists": [
         {
-          "name": "J-Alex Stylee",
-          "url": "https://open.spotify.com/artist/2LAyRJWNuuNRbok5t3K70i"
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Alan Rosales",
+          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/2RFBrX0e7Zypt7D6BFF0W2"
+        },
+        {
+          "name": "Kelly Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
         }
       ],
-      "duration_ms": 194977,
-      "name": "Si Me Tocan Esta Play, Si Bailo - Guaracha, Aleteo, Zapateo, Tribal, House",
-      "url": "https://open.spotify.com/track/1em725YNxISJ79QoT5ruUE"
+      "duration_ms": 142514,
+      "name": "Baila Conmigo (feat. Kelly Ruiz) - Alan Rosales & TBX Remix",
+      "url": "https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -299,34 +315,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Baila Conmigo (feat. Kelly Ruiz) [Alan Rosales & TBX Remix]",
-        "url": "https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ"
+        "name": "Si Me Tocan Esta Play, Si Bailo (Guaracha)",
+        "url": "https://open.spotify.com/album/0jK7zKpYPn2TcudoAvylOd"
       },
       "artists": [
         {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
-        },
-        {
-          "name": "Alan Rosales",
-          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
-        },
-        {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/2RFBrX0e7Zypt7D6BFF0W2"
-        },
-        {
-          "name": "Kelly Ru\u00edz",
-          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
+          "name": "J-Alex Stylee",
+          "url": "https://open.spotify.com/artist/2LAyRJWNuuNRbok5t3K70i"
         }
       ],
-      "duration_ms": 142514,
-      "name": "Baila Conmigo (feat. Kelly Ruiz) - Alan Rosales & TBX Remix",
-      "url": "https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI"
+      "duration_ms": 194977,
+      "name": "Si Me Tocan Esta Play, Si Bailo - Guaracha, Aleteo, Zapateo, Tribal, House",
+      "url": "https://open.spotify.com/track/1em725YNxISJ79QoT5ruUE"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -487,30 +487,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Tus Besos",
-        "url": "https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg"
-      },
-      "artists": [
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        },
-        {
-          "name": "Cuvan",
-          "url": "https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0"
-        },
-        {
-          "name": "Aneth",
-          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Tus Besos",
-      "url": "https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Bao Bao",
         "url": "https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 203076,
       "name": "Bao Bao",
       "url": "https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Tus Besos",
+        "url": "https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg"
+      },
+      "artists": [
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Cuvan",
+          "url": "https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0"
+        },
+        {
+          "name": "Aneth",
+          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn"
     },
     {
       "added_at": "2024-07-05 22:41:57",

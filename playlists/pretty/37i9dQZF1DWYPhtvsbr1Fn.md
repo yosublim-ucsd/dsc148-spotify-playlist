@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 
 > resurging tracks coming in hot\. cover: Michael Jackson  in his "Thriller" era
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,105 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,217 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

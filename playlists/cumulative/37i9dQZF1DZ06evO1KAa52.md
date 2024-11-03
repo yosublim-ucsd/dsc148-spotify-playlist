@@ -4,7 +4,7 @@
 
 > This is Justin Timberlake\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 43 min
+84 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,5 +91,6 @@
 | [Until The End Of Time \(with Beyoncé\)](https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 5:22 | 2023-07-28 |  |
 | [What Goes Around.../...Comes Around \(Interlude\)](https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 7:28 | 2023-07-28 |  |
 | [What U Workin' With?](https://open.spotify.com/track/3IxRWXccxjVsUjyQZnKqYa) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:12 | 2023-07-28 |  |
+| [You’ll Be There \(with Justin Timberlake\)](https://open.spotify.com/track/5Jjdx7PGSQ5ZqKJSxRgs9m) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [You’ll Be There](https://open.spotify.com/album/0UviFWfhkRPshqdYeYAfrA) | 3:21 | 2024-11-03 |  |
 
 \*This playlist was first scraped on 2023-07-29. Prior content cannot be recovered.

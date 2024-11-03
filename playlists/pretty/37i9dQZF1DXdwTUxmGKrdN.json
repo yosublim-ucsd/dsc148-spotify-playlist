@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 438101,
+  "num_followers": 438141,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 293533,
-      "name": "Undun",
-      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 256973,
       "name": "Pacifica",
       "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "Undun",
+      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -375,6 +375,26 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
+        "name": "Deep Blue C",
+        "url": "https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0"
+      },
+      "artists": [
+        {
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        },
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 266717,
+      "name": "Deep Blue C",
+      "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
         "name": "A Song For You",
         "url": "https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 264453,
       "name": "Bluewave Bossanova",
       "url": "https://open.spotify.com/track/2QOqnhCrTIqTLzByQD7YQJ"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
-        "name": "Deep Blue C",
-        "url": "https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0"
-      },
-      "artists": [
-        {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        },
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 266717,
-      "name": "Deep Blue C",
-      "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Burnin' up",
-        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
       },
       "artists": [
         {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+          "name": "Brendan Rothwell",
+          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
         }
       ],
-      "duration_ms": 285500,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
+      "duration_ms": 240172,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+        "name": "Burnin' up",
+        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
       },
       "artists": [
         {
-          "name": "Brendan Rothwell",
-          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
         }
       ],
-      "duration_ms": 240172,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
+      "duration_ms": 285500,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Listen to This",
-        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
-      },
-      "artists": [
-        {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        }
-      ],
-      "duration_ms": 253577,
-      "name": "Listen to This",
-      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Undercover",
         "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 238600,
       "name": "Avenue",
       "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Listen to This",
+        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
+      },
+      "artists": [
+        {
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        }
+      ],
+      "duration_ms": 253577,
+      "name": "Listen to This",
+      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Global Force",
-        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
-      },
-      "artists": [
-        {
-          "name": "3rd Force",
-          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Big Shot",
-      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 278200,
       "name": "My Song for You",
       "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Global Force",
+        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
+      },
+      "artists": [
+        {
+          "name": "3rd Force",
+          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Just Once (Radio Edit)",
-        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
-      },
-      "artists": [
-        {
-          "name": "Vandell Andrew",
-          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
-        }
-      ],
-      "duration_ms": 244450,
-      "name": "Just Once (Radio Edit)",
-      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/7bljLOiLPMG0ZbVVduZfzb"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 282533,
       "name": "Embrace \u200b",
       "url": "https://open.spotify.com/track/1ZXt69SBkxQXPiVuMJ7RhH"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Just Once (Radio Edit)",
+        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "duration_ms": 244450,
+      "name": "Just Once (Radio Edit)",
+      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
-      },
-      "artists": [
-        {
-          "name": "Phil Denny",
-          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
-        }
-      ],
-      "duration_ms": 260746,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "Forecast",
         "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 343213,
       "name": "Keep Holding On",
       "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
+      },
+      "artists": [
+        {
+          "name": "Phil Denny",
+          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Gypsy Soul",
-        "url": "https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld"
-      },
-      "artists": [
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
-        }
-      ],
-      "duration_ms": 222747,
-      "name": "Gypsy Soul",
-      "url": "https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
         "name": "So Many Ways",
         "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "A New Day",
-        "url": "https://open.spotify.com/album/5ydYCx0gJvLnWqzH517jWV"
+        "name": "Gypsy Soul",
+        "url": "https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld"
       },
       "artists": [
         {
-          "name": "Urban Jazz Coalition",
-          "url": "https://open.spotify.com/artist/5Nop1LOUEwGRc4ZTG84MGX"
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
         }
       ],
-      "duration_ms": 279186,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/1s769CVjgzGrBA4Aq6svfU"
+      "duration_ms": 222747,
+      "name": "Gypsy Soul",
+      "url": "https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
-        "name": "Sippin the Yak",
-        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/5ydYCx0gJvLnWqzH517jWV"
       },
       "artists": [
         {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+          "name": "Urban Jazz Coalition",
+          "url": "https://open.spotify.com/artist/5Nop1LOUEwGRc4ZTG84MGX"
         }
       ],
-      "duration_ms": 267913,
-      "name": "Sippin the Yak",
-      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
+      "duration_ms": 279186,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/1s769CVjgzGrBA4Aq6svfU"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1283,6 +1267,22 @@
       "duration_ms": 280280,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/2vBjecyzspx6GsoL3FU6mF"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
+        "name": "Sippin the Yak",
+        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
+      },
+      "artists": [
+        {
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+        }
+      ],
+      "duration_ms": 267913,
+      "name": "Sippin the Yak",
+      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U"
+      },
+      "artists": [
+        {
+          "name": "Alex Bugnon",
+          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
+        }
+      ],
+      "duration_ms": 324133,
+      "name": "His Coolness",
+      "url": "https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
         "name": "Velvet Groove",
         "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 237029,
       "name": "Velvet Groove",
       "url": "https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U"
-      },
-      "artists": [
-        {
-          "name": "Alex Bugnon",
-          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
-        }
-      ],
-      "duration_ms": 324133,
-      "name": "His Coolness",
-      "url": "https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 292253,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 223853,
       "name": "Soleh",
       "url": "https://open.spotify.com/track/56YE4O9RrVQa1JNy0ytneB"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        }
-      ],
-      "duration_ms": 292253,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
     },
     {
       "added_at": "2024-07-29 02:46:44",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-07-29 02:46:44",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
+    },
+    {
+      "added_at": "2024-07-29 02:46:44",
+      "album": {
         "name": "Let's Ride",
         "url": "https://open.spotify.com/album/50NyCk4oDOFJTTuBvxv3fL"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 318977,
       "name": "New Hope",
       "url": "https://open.spotify.com/track/1Sg5r4ji96C4GoKc7koDgz"
-    },
-    {
-      "added_at": "2024-07-29 02:46:44",
-      "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
     },
     {
       "added_at": "2024-07-29 02:46:44",

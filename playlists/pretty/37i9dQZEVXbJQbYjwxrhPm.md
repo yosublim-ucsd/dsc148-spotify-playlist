@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Ти си топ](https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx) | [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI), [Mile Kitic](https://open.spotify.com/artist/2OhGtVGxKAJJuc7bEKB7wH) | [Ти си топ](https://open.spotify.com/album/5uN7YJXOapE9kHW6igaXez) | 2:51 |
 | 50 | [Centrofuga](https://open.spotify.com/track/1lKpsuiY1GKU0Tj7QE8EWX) | [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn), [Don Mario](https://open.spotify.com/artist/2lKSCvxuWDRCyImWLIXqre) | [Centrofuga](https://open.spotify.com/album/7Ga74OnzbimmtV9bCiERom) | 3:37 |
 
-Snapshot ID: `LrhByAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LrmVoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

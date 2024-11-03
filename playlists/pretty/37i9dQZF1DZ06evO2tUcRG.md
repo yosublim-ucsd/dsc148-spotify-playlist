@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,256 likes - 52 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,264 likes - 52 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 47 | [Teu Santo Nome \- Ao Vivo](https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 7:16 |
 | 48 | [Hosana \- Ao Vivo](https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA) | 5:26 |
 | 49 | [Não Vou Calar Meus Lábios](https://open.spotify.com/track/1mbrpFshkUSfbqgCdgawwQ) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Não Vou Calar Meus Lábios](https://open.spotify.com/album/2HLQRl4hX19lciv1rJUWAD) | 3:15 |
-| 50 | [Santo Espírito Vem](https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 6:56 |
-| 51 | [Agnus Dei \- Ao Vivo](https://open.spotify.com/track/16hnXXqWrwbQGoNtvLx72r) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Agnus Dei \(Ao Vivo\)](https://open.spotify.com/album/0xyj8syjIH4Mlg1ZrnBzxF) | 4:46 |
+| 50 | [Agnus Dei \- Ao Vivo](https://open.spotify.com/track/16hnXXqWrwbQGoNtvLx72r) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Agnus Dei \(Ao Vivo\)](https://open.spotify.com/album/0xyj8syjIH4Mlg1ZrnBzxF) | 4:46 |
+| 51 | [Santo Espírito Vem](https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 6:56 |
 | 52 | [Me Lembro \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/2no4Dq2nbKKTjpraKC8Hq1) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Lembro \(feat\. Gabriela Rocha\) \[Ao Vivo\]](https://open.spotify.com/album/466xz1jfDwRSeHZxxLXpsw) | 8:55 |
 
-Snapshot ID: `ZyLIgAAAAADX3CCJnqa1TdOInwgdFNzD`
+Snapshot ID: `ZyQaAAAAAACs0HLs1pAMwwbGDhwOQZLS`

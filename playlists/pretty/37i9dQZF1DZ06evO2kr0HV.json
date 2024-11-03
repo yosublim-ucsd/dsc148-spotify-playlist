@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 36896,
+  "num_followers": 36905,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAACNflsefXm52b1Ah3lZ/Rqf",
+  "snapshot_id": "ZyQaAAAAAAAoajmow17ytWfb4NZUDANx",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 186853,
-      "name": "Noches De Verano",
-      "url": "https://open.spotify.com/track/6V3rv3WLYQCta6jadsslm0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Besos y Pendientes",
         "url": "https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 171680,
       "name": "Besos y Pendientes",
       "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 186853,
+      "name": "Noches De Verano",
+      "url": "https://open.spotify.com/track/6V3rv3WLYQCta6jadsslm0"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 165133,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
+      "duration_ms": 183640,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 183640,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY"
+      "duration_ms": 165133,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
     },
     {
       "added_at": null,

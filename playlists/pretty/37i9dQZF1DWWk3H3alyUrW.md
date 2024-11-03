@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,380 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,382 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 40 | [Segâh Peşrev \- Segâh](https://open.spotify.com/track/50lyXPqNvboCr2Xi8v2grj) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Makamlarla Türk Din Mûsîkisi Eğitim Seti, Vol\. 3 / Segâh Nihavend Acemaşîran](https://open.spotify.com/album/4LjCB3MA5i8yKUkVji2ZN0) | 1:45 |
 | 41 | [Unutulmuş Ne Varsa](https://open.spotify.com/track/3LLs8Cisml6Oe26f2Jhi3C) | [Turgut Özüfler](https://open.spotify.com/artist/05g84ITA7SKNtR7HUtb4Bs), [Yıldıran Güz](https://open.spotify.com/artist/1BIiyYKngGrDIESG6g8UrK), [Çorlulu Savaş](https://open.spotify.com/artist/2tQaTSCwyoMTEQofuEqmwH), [İsmail Nar](https://open.spotify.com/artist/5k9pDFmgrENJOW2LWWHq4K), [Şener Yolal](https://open.spotify.com/artist/1KPKarMXdRPGbDLEKkFDG3) | [Alaturka İstanbul, Vol\. 2](https://open.spotify.com/album/5AUAj74jUxryODLsNyWaiN) | 2:40 |
 | 42 | [Nikriz Sirto](https://open.spotify.com/track/12FUbeXrIS60ZTYpwO29yf) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:20 |
-| 43 | [Esinti \(Kürdi Saz Eseri\)](https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 4:37 |
-| 44 | [Aşkın ile ey nevcivan](https://open.spotify.com/track/7Mmr4jBoLeDdoRgROd4FbK) | [Münip Utandı](https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR) | [Sevda Yolunda](https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf) | 4:53 |
+| 43 | [Aşkın ile ey nevcivan](https://open.spotify.com/track/7Mmr4jBoLeDdoRgROd4FbK) | [Münip Utandı](https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR) | [Sevda Yolunda](https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf) | 4:53 |
+| 44 | [Esinti \(Kürdi Saz Eseri\)](https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 4:37 |
 | 45 | [Saba Taksim](https://open.spotify.com/track/5Zp63IoUOx2VyZ5xuTa2Ey) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 2:11 |
 | 46 | [Rast Ud Taksimi\-Başak Harmancı](https://open.spotify.com/track/2wVSkZnzZEfZhAtrx7STu2) | [Ahmet Hakkı Turabi](https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R) | [Ona Selam](https://open.spotify.com/album/6nSKMtfL7HZ1IVtDxHL5sM) | 1:30 |
 | 47 | [Sazkar Peşrev](https://open.spotify.com/track/2fWkFDijycAeSC1iQmZLJn) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 5:34 |
 | 48 | [Çargah Sirto](https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd) | [Ahmet Cennetoğlu](https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8) | [Kaftan \(Instrumental Palace of Songs\)](https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW) | 1:20 |
 | 49 | [Hüzzam Saz Semai](https://open.spotify.com/track/2g0dHAFlelutOOWJKnW5am) | [Ahmet Özhan](https://open.spotify.com/artist/6Du3hAAxRtIdKp3zF66Z78) | [Ahmet Özhan](https://open.spotify.com/album/5Nf1taWXqdReHYkdzZo2MX) | 1:24 |
-| 50 | [Şarkılar Söylüyorsan \(Nihavent Şarkı\)](https://open.spotify.com/track/4BEPW6QrhMA7FyKcMzuaW8) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 6:09 |
+| 50 | [I Love You](https://open.spotify.com/track/31XYFVQ7dDOI27uph3YoCC) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [One Truth](https://open.spotify.com/album/0MdJHpvioyqmW6j7MzyJma) | 8:12 |
 
 Snapshot ID: `ZoKtBwAAAAAw1EzxSRjOZGvvNK6I9dp9`

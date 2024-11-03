@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 244223,
+  "num_followers": 244210,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,18 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
       },
       "artists": [
         {
           "name": "AVAION",
           "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
         }
       ],
-      "duration_ms": 177120,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
+      "duration_ms": 198451,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -891,18 +887,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
       },
       "artists": [
         {
           "name": "AVAION",
           "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
         }
       ],
-      "duration_ms": 198451,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
+      "duration_ms": 177120,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
     },
     {
       "added_at": "2024-08-01 10:59:15",

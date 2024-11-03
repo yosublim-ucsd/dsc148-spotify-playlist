@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: UVERworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,047 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,052 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 90 | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/track/213nQotWKjNWnD92F6NWVx) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/album/5ZuHwoWf9rMyj5F1DsexIt) | 3:28 |
 | 91 | [Shussou](https://open.spotify.com/track/05cArZuv1f0fErj6aAkuhe) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Shussou](https://open.spotify.com/album/6u0mRNp8OUxHtGjyZA4ik2) | 3:55 |
 | 92 | [部長ぷっちょどう？](https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ぼちぼちベテラン](https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm) | 3:27 |
-| 93 | [Protect You](https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Protect You](https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy) | 3:12 |
-| 94 | [むずかしいてれぱしい](https://open.spotify.com/track/3gK4FH3UWiitJgVzvgun0K) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [音樂](https://open.spotify.com/album/6YEPeFr7BwExXt6ZxLQ8SM) | 2:49 |
-| 95 | [Something New](https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RED APHELION](https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU) | 3:57 |
-| 96 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 |
-| 97 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 |
-| 98 | [ひとつの曲ができるまで](https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [輝くもの天より堕ち](https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK) | 2:24 |
+| 93 | [むずかしいてれぱしい](https://open.spotify.com/track/3gK4FH3UWiitJgVzvgun0K) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [音樂](https://open.spotify.com/album/6YEPeFr7BwExXt6ZxLQ8SM) | 2:49 |
+| 94 | [Something New](https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RED APHELION](https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU) | 3:57 |
+| 95 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 |
+| 96 | [Protect You](https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Protect You](https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy) | 3:12 |
+| 97 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 |
+| 98 | [山嵐](https://open.spotify.com/track/5kKpQuwb71B8rxqDZLrU4a) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [極上音楽集](https://open.spotify.com/album/34oqkY5B32dJBw54GVnfwU) | 3:17 |
 | 99 | [カモン栄一](https://open.spotify.com/track/5y2qz18Ryt51C2WHnqOkYR) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [カモン栄一](https://open.spotify.com/album/3Q67hGPemhh0Zj7WYVm9g7) | 3:38 |
-| 100 | [山嵐](https://open.spotify.com/track/5kKpQuwb71B8rxqDZLrU4a) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [極上音楽集](https://open.spotify.com/album/34oqkY5B32dJBw54GVnfwU) | 3:17 |
+| 100 | [ひとつの曲ができるまで](https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [輝くもの天より堕ち](https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK) | 2:24 |
 
 Snapshot ID: `Zw6DcAAAAAB9TYrws3B58VGRMsfR8E8L`

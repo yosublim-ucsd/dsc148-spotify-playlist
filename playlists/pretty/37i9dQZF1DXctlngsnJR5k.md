@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctlngsnJR5k.md) - [plain]
 
 > Los mejores éxitos de hoy en Ecuador\. Foto: Blessd & Ovy On The Drums
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,921 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,974 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 90720,
+  "num_followers": 90740,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Sweet and Sour",
-        "url": "https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG"
+        "name": "Unapologetically",
+        "url": "https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8"
       },
       "artists": [
         {
-          "name": "Lemon",
-          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
+          "name": "Mon\u00e9t X Change",
+          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
         }
       ],
-      "duration_ms": 108000,
-      "name": "Sweet and Sour",
-      "url": "https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE"
+      "duration_ms": 176643,
+      "name": "Beyonc\u00e9",
+      "url": "https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Unapologetically",
-        "url": "https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8"
+        "name": "Sweet and Sour",
+        "url": "https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG"
       },
       "artists": [
         {
-          "name": "Mon\u00e9t X Change",
-          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
+          "name": "Lemon",
+          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
         }
       ],
-      "duration_ms": 176643,
-      "name": "Beyonc\u00e9",
-      "url": "https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu"
+      "duration_ms": 108000,
+      "name": "Sweet and Sour",
+      "url": "https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -435,42 +435,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Soak It Up",
-        "url": "https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9t X Change",
-          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
-        },
-        {
-          "name": "Bob the Drag Queen",
-          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
-        }
-      ],
-      "duration_ms": 256298,
-      "name": "Soak It Up (Remix)",
-      "url": "https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
         "url": "https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO"
       },
@@ -491,6 +455,42 @@
       "duration_ms": 248973,
       "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
       "url": "https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Soak It Up",
+        "url": "https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t X Change",
+          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
+        },
+        {
+          "name": "Bob the Drag Queen",
+          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
+        }
+      ],
+      "duration_ms": 256298,
+      "name": "Soak It Up (Remix)",
+      "url": "https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -611,18 +611,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Know-It-All",
-        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
+        "name": "Everybody Hates Linux",
+        "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
       },
       "artists": [
         {
-          "name": "Jinkx Monsoon",
-          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
+          "name": "Linux",
+          "url": "https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6"
+        },
+        {
+          "name": "Aquaria",
+          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
         }
       ],
-      "duration_ms": 268459,
-      "name": "Know-It-All",
-      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
+      "duration_ms": 254111,
+      "name": "Looks (feat. Aquaria)",
+      "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -643,22 +647,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Everybody Hates Linux",
-        "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
+        "name": "Know-It-All",
+        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
       },
       "artists": [
         {
-          "name": "Linux",
-          "url": "https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6"
-        },
-        {
-          "name": "Aquaria",
-          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
+          "name": "Jinkx Monsoon",
+          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
         }
       ],
-      "duration_ms": 254111,
-      "name": "Looks (feat. Aquaria)",
-      "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
+      "duration_ms": 268459,
+      "name": "Know-It-All",
+      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "PUMPKIN TITS - Single",
-        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
-      },
-      "artists": [
-        {
-          "name": "JIMBO the Drag Clown",
-          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
-        }
-      ],
-      "duration_ms": 176215,
-      "name": "PUMPKIN TITS",
-      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Burn Rubber",
         "url": "https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 173333,
       "name": "Burn Rubber",
       "url": "https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "PUMPKIN TITS - Single",
+        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
+      },
+      "artists": [
+        {
+          "name": "JIMBO the Drag Clown",
+          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
+        }
+      ],
+      "duration_ms": 176215,
+      "name": "PUMPKIN TITS",
+      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -851,8 +851,8 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
+        "name": "Fight for Love",
+        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
       },
       "artists": [
         {
@@ -860,25 +860,9 @@
           "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
         }
       ],
-      "duration_ms": 202476,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Drag Den",
-        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
-      },
-      "artists": [
-        {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
-        }
-      ],
-      "duration_ms": 195474,
-      "name": "Drag Den",
-      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
+      "duration_ms": 176000,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -895,6 +879,22 @@
       "duration_ms": 198391,
       "name": "Flamin' Hot",
       "url": "https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Drag Den",
+        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
+      },
+      "artists": [
+        {
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+        }
+      ],
+      "duration_ms": 195474,
+      "name": "Drag Den",
+      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -951,8 +951,8 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Fight for Love",
-        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
+      "duration_ms": 202476,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1195,8 +1195,8 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
+        "name": "Stars (Disco Mix)",
+        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
       },
       "artists": [
         {
@@ -1204,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
         }
       ],
-      "duration_ms": 251250,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
+      "duration_ms": 252500,
+      "name": "Stars - Disco Mix",
+      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1327,8 +1327,8 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Stars (Disco Mix)",
-        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
       },
       "artists": [
         {
@@ -1336,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
         }
       ],
-      "duration_ms": 252500,
-      "name": "Stars - Disco Mix",
-      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
+      "duration_ms": 251250,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
     },
     {
       "added_at": "2024-05-31 17:55:47",

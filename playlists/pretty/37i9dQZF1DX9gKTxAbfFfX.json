@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 753825,
+  "num_followers": 753830,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "Tengo Un Plan",
-        "url": "https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6"
-      },
-      "artists": [
-        {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        }
-      ],
-      "duration_ms": 189282,
-      "name": "Tengo Un Plan",
-      "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "Calma (Remix)",
         "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 238200,
       "name": "Calma - Remix",
       "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "Tengo Un Plan",
+        "url": "https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        }
+      ],
+      "duration_ms": 189282,
+      "name": "Tengo Un Plan",
+      "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
+        "name": "Rueda",
+        "url": "https://open.spotify.com/album/4PqwikwnDaRaY7w8Fvlt5e"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 210528,
+      "name": "Rueda",
+      "url": "https://open.spotify.com/track/4yB4AnDLdxyLIXtUWrkdxM"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
         "name": "bellodrama",
         "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 169677,
       "name": "A Un Paso De La Luna",
       "url": "https://open.spotify.com/track/1vNYb4aLINWNy0plIsLQeX"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "Rueda",
-        "url": "https://open.spotify.com/album/4PqwikwnDaRaY7w8Fvlt5e"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 210528,
-      "name": "Rueda",
-      "url": "https://open.spotify.com/track/4yB4AnDLdxyLIXtUWrkdxM"
     },
     {
       "added_at": "2024-09-02 07:47:14",

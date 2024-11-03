@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 > The top 100 best love songs\. Dream away with the best love songs \. ❤️
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 495,152 likes - 100 songs - 6 hr 33 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 495,149 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

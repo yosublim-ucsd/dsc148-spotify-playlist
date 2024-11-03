@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1999 \- EASYFUN Remix](https://open.spotify.com/track/3dBX8EkjAHcq9kaKLsq4NP) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [1999 \(Remixes\)](https://open.spotify.com/album/5hSAQEXQkBiiMiHDbzNLl0) | 3:12 | 2024-09-15 |  |
+| [1999 \- EASYFUN Remix](https://open.spotify.com/track/3dBX8EkjAHcq9kaKLsq4NP) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [1999 \(Remixes\)](https://open.spotify.com/album/5hSAQEXQkBiiMiHDbzNLl0) | 3:12 | 2024-09-15 |  |
 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 | 2024-09-15 |  |
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-09-15 |  |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-09-15 |  |

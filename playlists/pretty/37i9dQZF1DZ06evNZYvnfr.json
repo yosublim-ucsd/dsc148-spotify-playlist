@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 3431,
+  "num_followers": 3437,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAABpO1OCafKb36wNwqHA15tS",
+  "snapshot_id": "ZyQaAAAAAABg2X02o8OOW+1PeOcLYo16",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+        "name": "Feels Like Joy",
+        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 200829,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz"
+      "duration_ms": 172200,
+      "name": "Feels Like Joy",
+      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Joy",
-        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Feels Like Joy",
-      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
+      "duration_ms": 200829,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 374700,
-      "name": "Wretch No More",
-      "url": "https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE"
+      "duration_ms": 259159,
+      "name": "Remember This",
+      "url": "https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 259159,
-      "name": "Remember This",
-      "url": "https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk"
+      "duration_ms": 374700,
+      "name": "Wretch No More",
+      "url": "https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE"
     },
     {
       "added_at": null,

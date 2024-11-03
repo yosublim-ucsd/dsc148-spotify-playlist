@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "After the First Kiss",
@@ -819,6 +803,22 @@
       "duration_ms": 214756,
       "name": "After the First Kiss",
       "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -989,6 +989,38 @@
       "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 113385,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Creatures In Heaven",
+        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 221670,
+      "name": "Creatures in Heaven",
+      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Even (with Cat Burns)",
@@ -1009,36 +1041,20 @@
       "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Creatures In Heaven",
-        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
         }
       ],
-      "duration_ms": 221670,
-      "name": "Creatures in Heaven",
-      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 113385,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
+      "duration_ms": 193887,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1055,22 +1071,6 @@
       "duration_ms": 183189,
       "name": "Scumbag",
       "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 193887,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Cacophony",
-        "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 259273,
-      "name": "last woman on earth",
-      "url": "https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "DIVE",
@@ -1223,6 +1207,22 @@
       "duration_ms": 182380,
       "name": "jupiter",
       "url": "https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Cacophony",
+        "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 259273,
+      "name": "last woman on earth",
+      "url": "https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Good Neighbours",
-        "url": "https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 186405,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "I Lied, I'm Sorry",
         "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 162300,
       "name": "I Lied, I'm Sorry",
       "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Good Neighbours",
+        "url": "https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 186405,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "I'm Not Afraid Of Music Anymore",
-        "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 177071,
-      "name": "Along For The Ride",
-      "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Who Said",
@@ -1419,6 +1403,22 @@
       "duration_ms": 187348,
       "name": "Who Said",
       "url": "https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "I'm Not Afraid Of Music Anymore",
+        "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 177071,
+      "name": "Along For The Ride",
+      "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Bestie, Move On",
         "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
       },
@@ -1471,34 +1455,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Too Much Of A Good Thing",
-        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 171618,
-      "name": "Too Much Of A Good Thing",
-      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Oregon Coast",
-        "url": "https://open.spotify.com/album/6zccNwsj1cvQe36GJEmqsY"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 189784,
-      "name": "Doug Fir",
-      "url": "https://open.spotify.com/track/2sNzDHc3e7J7QbW1Cstkr1"
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1519,6 +1487,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 171618,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Take Me to the River",
         "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 264066,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Oregon Coast",
+        "url": "https://open.spotify.com/album/6zccNwsj1cvQe36GJEmqsY"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 189784,
+      "name": "Doug Fir",
+      "url": "https://open.spotify.com/track/2sNzDHc3e7J7QbW1Cstkr1"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1547,22 +1547,6 @@
       "duration_ms": 207587,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Image",
-        "url": "https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Image",
-      "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1597,20 +1581,20 @@
       "url": "https://open.spotify.com/track/7F35nM1uBD2AzkXSYgLenE"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "family and friends",
-        "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
+        "name": "Image",
+        "url": "https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD"
       },
       "artists": [
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 176730,
-      "name": "family and friends",
-      "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
+      "duration_ms": 212866,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1627,6 +1611,22 @@
       "duration_ms": 168226,
       "name": "cherry cola",
       "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "family and friends",
+        "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 176730,
+      "name": "family and friends",
+      "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
     },
     {
       "added_at": "2024-09-27 04:00:00",

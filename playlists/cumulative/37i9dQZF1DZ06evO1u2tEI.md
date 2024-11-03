@@ -4,7 +4,7 @@
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-127 songs - 6 hr 49 min
+128 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Independence Day](https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:04 | 2022-09-16 |  |
 | [Junk Bond Trader](https://open.spotify.com/track/5I82Gy3FcoPGP4rzYbXADt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:49 | 2022-09-18 | 2024-07-23 |
 | [King's Crossing](https://open.spotify.com/track/0YydEayh3crkMEovsELWbQ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq) | 4:57 | 2023-05-04 | 2023-06-04 |
-| [King's Crossing](https://open.spotify.com/track/0pMazmJOCNRnIWe3I8COVd) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:57 | 2023-06-03 | 2024-09-18 |
+| [King's Crossing](https://open.spotify.com/track/0pMazmJOCNRnIWe3I8COVd) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:57 | 2023-06-03 |  |
 | [King's Crossing](https://open.spotify.com/track/2GsiKnbHHXDpoL7R6cJUTZ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:57 | 2022-09-16 | 2023-05-05 |
 | [Kiwi Maddog 20/20 \(version 2 of 2\)](https://open.spotify.com/track/32gMbrYoS2qIA54JmZ9TFn) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:40 | 2022-10-12 | 2023-05-06 |
 | [Kiwi Maddog 20/20 \(version 2 of 2\)](https://open.spotify.com/track/5GwXU2PDHWykajNQ2Gaj8e) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:40 | 2023-06-05 |  |
@@ -127,9 +127,10 @@
 | [The White Lady Loves You More](https://open.spotify.com/track/75l3rO9pLGAas7P4O22RDE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:24 | 2022-09-16 | 2023-05-04 |
 | [Thirteen](https://open.spotify.com/track/5iU2CYMavJ66Gg1XuzloLU) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:43 | 2023-12-24 |  |
 | [Tomorrow Tomorrow](https://open.spotify.com/track/1cYudm5fk5igcsjroJKmFw) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:07 | 2024-05-15 | 2024-07-23 |
-| [Twilight](https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:29 | 2023-06-15 |  |
+| [Twilight](https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:29 | 2023-06-15 | 2024-11-03 |
 | [Twilight](https://open.spotify.com/track/5YoR2agiVdBpuAuW9PvgKD) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:29 | 2022-09-16 | 2023-05-02 |
 | [Twilight](https://open.spotify.com/track/4UPLlFF10U3St7PaaQGPgi) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq) | 4:29 | 2023-05-01 | 2023-06-16 |
+| [Twilight \- 2024 Remaster](https://open.spotify.com/track/7KJV8LXCYZ8VZSv5aHnXni) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill \(2024 Remaster\)](https://open.spotify.com/album/0MvmQIKwWDPTuyAh2wfsbg) | 4:29 | 2024-11-03 |  |
 | [Untitled Guitar Finger Picking \- Demo](https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Heaven Adores You Soundtrack](https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M) | 1:24 | 2022-12-14 |  |
 | [Waltz \#2 \(XO\)](https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 4:40 | 2022-09-16 |  |
 | [Whatever \(Folk Song In C\)](https://open.spotify.com/track/4B0ev59DimAmNoBNTQ0NGd) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 2:17 | 2023-05-05 | 2023-05-18 |

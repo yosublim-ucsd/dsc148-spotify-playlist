@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,459 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,466 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 10 | [Liberen A Los Changos](https://open.spotify.com/track/1nvgi76oESzmuaLUto6eqp) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 6:39 |
 | 11 | [Susano's Calipso](https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB) | [Cristobal Lopez](https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI) | [Dream Maker \(Guitar Smooth Jazz\)](https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc) | 3:22 |
 | 12 | [Breakfast At Tiffany's](https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd) | [Abraham Laboriel](https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW) | [Guidum](https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx) | 2:47 |
-| 13 | [Dejé mi amor en San Francisco \(I Left My Heart in San Francisco\)](https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp) | [Tommy Rodriguez Y Su Saxofon Magico](https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ) | [Grandes de la Musica Instrumental](https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP) | 1:53 |
-| 14 | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg) | [Magos Herrera](https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz) | 4:14 |
+| 13 | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg) | [Magos Herrera](https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz) | 4:14 |
+| 14 | [Dejé mi amor en San Francisco \(I Left My Heart in San Francisco\)](https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp) | [Tommy Rodriguez Y Su Saxofon Magico](https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ) | [Grandes de la Musica Instrumental](https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP) | 1:53 |
 | 15 | [La Iguana](https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY) | [Mexkla](https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u) | [Bernalejo](https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G) | 4:24 |
 | 16 | [Mambo en Sax](https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj) | [Los Músicos De José](https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd) | [Dilo! Homenaje a Pérez Prado](https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY) | 3:15 |
 | 17 | [Los Pequeños Detalles](https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Zinco Big Band](https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv) | [Así Era Entonces, Ahora...](https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX) | 4:30 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 46 | [Ana's Song](https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0) | [Patricia Carrión](https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj) | [Mujer De Luna](https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4) | 4:45 |
 | 47 | [Bula](https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To) | [Chucho Zarzosa Su Piano y su Conjunto](https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH) | [Chucho en Chipp's](https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs) | 2:35 |
 | 48 | [Andamos Huyendo](https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J) | [Amanda Tovalin](https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK) | [Andamos Huyendo](https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ) | 4:51 |
-| 49 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
+| 49 | [Those People](https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8) | [Gabriel Balderas Quartet](https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH), [John Vince](https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF) | [Voices from the Border](https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA) | 7:23 |
 | 50 | [Fíeme una Coca, No?](https://open.spotify.com/track/1ItJeVpac8LmFL9LyqMFJo) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 7:01 |
 
 Snapshot ID: `Zs/mYwAAAACiHxCygDdCddsFz2PVilpO`

@@ -25700,7 +25700,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 224906,
       "name": "I Never Lie",
       "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
@@ -25896,6 +25896,24 @@
       "duration_ms": 278293,
       "name": "I Think I Like When It Rains",
       "url": "https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X"
+    },
+    {
+      "album": {
+        "name": "I Think They Call This Love",
+        "url": "https://open.spotify.com/album/5bZT73mZyTvxu3de7BBhEu"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193573,
+      "name": "I Think They Call This Love",
+      "url": "https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX"
     },
     {
       "album": {
@@ -44358,7 +44376,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -50612,7 +50630,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 127626,
       "name": "Spooky, Scary Skeletons",
       "url": "https://open.spotify.com/track/23V08GxMeaZNSf8Gy6KF6t"

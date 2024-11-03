@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-374 songs - 23 hr 23 min
+375 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [The Big One](https://open.spotify.com/track/2yzo8yTdYCJ6VEBO8qUyNB) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [The Big One](https://open.spotify.com/album/7pwt1GDIuIvHcWkirF8OwQ) | 3:39 | 2022-03-11 | 2022-07-29 |
 | [The Breach](https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:13 | 2022-05-13 |  |
 | [The Breeze / My Baby Cries](https://open.spotify.com/track/32QtDJN4oRfo3Jwy6gpoWN) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Loving Takes This Course \- a Tribute to the Songs of Kath Bloom](https://open.spotify.com/album/45Ae8sd3ZB5gbBHNNIZaGY) | 6:23 | 2024-02-23 |  |
+| [The Life](https://open.spotify.com/track/6v2NgEbmGFOulY74emLe6u) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [The Life](https://open.spotify.com/album/0P7elKGRg3sqrIoxF5gHqw) | 2:26 | 2024-07-05 |  |
 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 | 2022-02-07 |  |
 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 | 2022-07-22 | 2024-04-10 |
 | [The Rains](https://open.spotify.com/track/5Wvf91821sBE8aErRtpfRN) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Rains](https://open.spotify.com/album/2yYjpXzVcJhQ2D0e9dkwjX) | 3:31 | 2021-11-05 | 2022-07-29 |
@@ -376,7 +377,7 @@
 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 | 2021-11-05 |  |
 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-11-05 | 2022-11-21 |
 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 | 2021-11-05 |  |
-| [Worst Day \- Stripped Version](https://open.spotify.com/track/7dWVYMBp1sAECRjWKh3ySp) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Worst Day \(Stripped Version\)](https://open.spotify.com/album/1DYJdrMj7pXgVzj8HD5b51) | 2:48 | 2023-01-03 |  |
+| [Worst Day \- Stripped Version](https://open.spotify.com/track/7dWVYMBp1sAECRjWKh3ySp) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Worst Day \(Stripped Version\)](https://open.spotify.com/album/1DYJdrMj7pXgVzj8HD5b51) | 2:48 | 2023-01-03 | 2024-11-03 |
 | [You and I](https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:13 | 2023-05-05 | 2024-04-19 |
 | [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 | 2022-08-02 | 2023-05-10 |
 | [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 | 2022-07-22 | 2022-11-13 |

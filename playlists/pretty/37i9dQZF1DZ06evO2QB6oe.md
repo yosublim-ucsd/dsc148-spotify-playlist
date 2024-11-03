@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,404 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,424 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 49 | [Would You Let Me Go](https://open.spotify.com/track/6hvIfgaWt5jR1gsxfhEIR1) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:40 |
 | 50 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
 | 51 | [Himalaya](https://open.spotify.com/track/1OUjgRKdidGYAQQUDATydm) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mr\. W](https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX) | 2:48 |
-| 52 | [Suspendidos en el Tiempo](https://open.spotify.com/track/7IW01SDxiAhmWo97uUL4dg) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Suspendidos en el Tiempo](https://open.spotify.com/album/6VxidvTiyw1RUxJFWq05Hx) | 3:33 |
+| 52 | [Castigo](https://open.spotify.com/track/3IT7vsVEwg0LyJ8eVGtvzn) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [BESITOS Y BESITAS](https://open.spotify.com/album/77CfbYt3OGzTxk7bCugAS5) | 3:40 |
 
-Snapshot ID: `ZyF3AAAAAABEJ9RhzLwDvxRi/DL+PIRP`
+Snapshot ID: `ZyQaAAAAAABHseUsKNARRq5sSMmF0Fng`

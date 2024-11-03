@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,287 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,292 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 13 | [Bandida Sexy](https://open.spotify.com/track/0GYYAHuWEFw20dVuTLLnIM) | [Kroos](https://open.spotify.com/artist/6DhuCfHKjbit0qhjMripJT), [KOSTA](https://open.spotify.com/artist/3wyruz219YVh90qRnzFBTY) | [Bandida Sexy](https://open.spotify.com/album/6dXBjtxcRrjHRaZACEWfBA) | 2:38 |
 | 14 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |
 | 15 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
-| 16 | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |
+| 16 | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |
 | 17 | [Ainda Sinto Muito](https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:52 |
 | 18 | [Ninguém Vai Te Superar](https://open.spotify.com/track/3tU3mMJYq6qU3h0HCwdn0S) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Ursão](https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 4:02 |
 | 19 | [Perfume \- Ao Vivo](https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Perfume \(Ao Vivo\)](https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A) | 2:54 |

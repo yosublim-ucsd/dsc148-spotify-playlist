@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ILLIT\(아일릿\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,852 likes - 437 songs - 1 day 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,962 likes - 437 songs - 1 day 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
-| 2 | [CLIK CLAK](https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER 1st FULL ALBUM \[DRIP\]](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:49 |
+| 2 | [CLIK CLAK](https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:49 |
 | 3 | [TIPI\-TAP](https://open.spotify.com/track/0SCHvh0ZqVd2Wcq2l4kzai) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1er The 6th Mini Album 〈TIPI\-TAP〉](https://open.spotify.com/album/1oHK6dDixDIjnMB03DIeZM) | 2:52 |
 | 4 | [Hit The Floor](https://open.spotify.com/track/1tmhn6E3POzwBvGte22A12) | [The CrewOne](https://open.spotify.com/artist/7fjxhS9XRbrduwclx0hqWj) | [ROAD TO KINGDOM : ACE OF ACE 〈FINAL〉](https://open.spotify.com/album/4nM7zhNK3yaCMr8LF8QslN) | 3:12 |
 | 5 | [Please Stay](https://open.spotify.com/track/4NpJ91T1d41WxnWdyAcl4Q) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Please Stay](https://open.spotify.com/album/3x7Vyuc09YxeEwQ75Kiz0c) | 3:21 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 84 | [You'll find yourself better man](https://open.spotify.com/track/5G6yn9HXPTT2prXg1Z9I5W) | [이정석](https://open.spotify.com/artist/32R8sZMuoan0Uf19J0mVOS) | [You'll find yourself better man](https://open.spotify.com/album/2mQF4o094WimWsC3MUogTj) | 4:25 |
 | 85 | [that song](https://open.spotify.com/track/0yVRQblWnvdNnOpFEG9bqf) | [The Lime](https://open.spotify.com/artist/6h6EOVgNFYGIQ29hg4ZcjY) | [that song](https://open.spotify.com/album/6st8hzCd4rZJjL2VbeVAyi) | 3:23 |
 | 86 | [Bbuck](https://open.spotify.com/track/48PnKlIU8aqzc8F3WfoBpU) | [NY Dogg](https://open.spotify.com/artist/64nGOvwXGqGXVUGBlwr4uS), [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM) | [Bbuck](https://open.spotify.com/album/09PV2xT5hnD5Nsri9JzCrg) | 2:29 |
-| 87 | [OKAY NEW !](https://open.spotify.com/track/4zkgQY9p2lmCNqg0eugivX) | [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe), [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA) | [Snow Bros](https://open.spotify.com/album/73vZJFVXUPFJrObvXkzi5K) | 2:43 |
+| 87 | [OKAY NEW !](https://open.spotify.com/track/4zkgQY9p2lmCNqg0eugivX) | [Ahn Byeong Woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe), [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA) | [Snow Bros](https://open.spotify.com/album/73vZJFVXUPFJrObvXkzi5K) | 2:43 |
 | 88 | [If I Could Be](https://open.spotify.com/track/7CzZbV1HgUPqRJjFTARNeT) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [If I Could Be](https://open.spotify.com/album/6VFp5k5o4AqNjp1N7Iji62) | 3:43 |
 | 89 | [BLAZE](https://open.spotify.com/track/07zz8pZeuptTOZW0cMcQKH) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [RAW SURVIVAL](https://open.spotify.com/album/6tzIYkQzyBdL7HcxqsgdxQ) | 4:22 |
 | 90 | [Diving \(with\. 장문복\)](https://open.spotify.com/track/0UboW1FFKAQPZuc0Q0cktk) | [Outsider](https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr), [장문복](https://open.spotify.com/artist/2agHzvMqNa632m4s5FkC6o) | [Diving](https://open.spotify.com/album/6RTXoDVbEe8eADoOmGVhm5) | 2:53 |

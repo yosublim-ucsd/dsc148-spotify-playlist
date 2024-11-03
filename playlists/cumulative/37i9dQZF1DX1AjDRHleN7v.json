@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 164150,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL"
@@ -2338,6 +2338,32 @@
       "duration_ms": 199040,
       "name": "Um Anjo do C\u00e9u",
       "url": "https://open.spotify.com/track/2YgAAAq8h7nPIMVLVVSHtK"
+    },
+    {
+      "album": {
+        "name": "Um Sinal",
+        "url": "https://open.spotify.com/album/0As3k5d0ljs7Mcy8cSdb09"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Rios",
+          "url": "https://open.spotify.com/artist/23FxtHny3wE7UQrAAgAhS8"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1AN06k2GZImDBqRo4jWcAT"
+        },
+        {
+          "name": "Carlos Malta",
+          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238227,
+      "name": "Um Sinal",
+      "url": "https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq"
     },
     {
       "album": {

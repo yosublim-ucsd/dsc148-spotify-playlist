@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-167 songs - 14 hr 51 min
+168 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Never Give All Your Heart](https://open.spotify.com/track/7x0pNksxr4JdSuX3OXGpcQ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 5:24 | 2024-10-15 |  |
 | [No Good Place For The Lonely](https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 8:38 | 2022-08-05 | 2024-10-08 |
 | [No Good Place For The Lonely \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/4hLXcBEmTbvhEJpAafXV2O) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:28 | 2024-06-27 | 2024-10-02 |
+| [Nobody's Gonna Know \- with Joe Bonamassa](https://open.spotify.com/track/4p3Mja5AXrCEh9FWKHjPNm) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Gonna Know \(with Joe Bonamassa\)](https://open.spotify.com/album/6P8QeDSN5mFE2EHjdN0Ha1) | 4:42 | 2024-11-03 |  |
 | [Notches](https://open.spotify.com/track/37OvIUoTAlKsuO3nTGSLSf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 7:03 | 2022-08-05 | 2023-04-23 |
 | [Notches \(Live\)](https://open.spotify.com/track/4ZvJWowagPHXIp7dxctfuT) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 9:49 | 2023-04-22 | 2023-12-14 |
 | [Nutbush City Limits](https://open.spotify.com/track/07nZ2XeSabtqpx9Gy67xac) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Seesaw](https://open.spotify.com/album/4YeG1gnArhUBfqGyuJe2vT) | 3:36 | 2022-08-05 | 2022-10-06 |

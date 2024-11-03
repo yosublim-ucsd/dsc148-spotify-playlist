@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-275 songs - 14 hr 23 min
+276 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [De Perreo](https://open.spotify.com/track/7Men0McTVqAHxfVrRCzb41) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [De Perreo](https://open.spotify.com/album/07o7LzZmecQhaGtVV239OB) | 2:53 | 2022-03-05 | 2022-06-12 |
 | [Desesperao](https://open.spotify.com/track/12UY2Vpf3N0fNgZHn94FB6) | [Hilario](https://open.spotify.com/artist/3ACh8ywebnva0GQkJgHuF7) | [Desesperao](https://open.spotify.com/album/0ShJicj9a1Nlndw5izCkvh) | 2:51 | 2024-04-27 | 2024-09-22 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-08-13 | 2023-03-05 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-11-02 |  |
 | [Dile a los demás](https://open.spotify.com/track/4iK6NFBfZ94xd6UJ0dHVoh) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Dile a los demás](https://open.spotify.com/album/2aUw6q2WS0r9QeOGdfOOCP) | 3:29 | 2022-01-29 | 2022-11-20 |
 | [Dime Que No Duele](https://open.spotify.com/track/6CJeY0eReqzM0w77m3F7fR) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Dime Que No Duele](https://open.spotify.com/album/1IuSFs7Kf4omdCzwem3fr7) | 3:02 | 2022-11-05 | 2023-02-26 |
 | [Dime Solo Si Has Pensao](https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Dime Solo Si Has Pensao](https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX) | 2:55 | 2024-06-01 |  |
@@ -111,7 +112,7 @@
 | [Forever My Love](https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 3:10 | 2022-04-16 | 2022-05-29 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2023-01-14 | 2023-08-06 |
 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 | 2022-01-15 | 2022-07-24 |
-| [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-06-22 |  |
+| [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-06-22 | 2024-11-03 |
 | [FUE](https://open.spotify.com/track/7EzMotErPHP0TJ2Gv987q7) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [FUE](https://open.spotify.com/album/7agivcohsBICoHafttM2j7) | 4:02 | 2022-03-05 | 2022-06-12 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-06-11 | 2022-10-02 |
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-10-07 | 2024-04-28 |

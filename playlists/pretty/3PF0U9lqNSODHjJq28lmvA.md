@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,408 likes - 23 songs - 1 hr 31 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,409 likes - 23 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,6 +30,6 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 20 | [Niña Mala](https://open.spotify.com/track/1I6suOOUJJSpWbHRHdVjLF) | [iShyKid](https://open.spotify.com/artist/3qdbR2e3KYpAJgUXgr3IdW) | [Amor Y Desamor](https://open.spotify.com/album/6IxHtnI8kmCPsOTa0MYL5Y) | 3:31 |
 | 21 | [Like a Rich Man](https://open.spotify.com/track/1ODbOhiKfcjMMfSRzvohCv) | [Hot Wires](https://open.spotify.com/artist/2pkz6z81mIp8l2G7FgpzkY) | [Like a Rich Man](https://open.spotify.com/album/28QI2OOBmMQ5Ik0qGOvclP) | 3:05 |
 | 22 | [Telling Lies About Me!](https://open.spotify.com/track/0Gx528cVU3fcxu2aP2tXa9) | [Hot Wires](https://open.spotify.com/artist/2pkz6z81mIp8l2G7FgpzkY) | [Telling Lies About Me!](https://open.spotify.com/album/2KovQZVOGfeXcngkuFU0bH) | 3:54 |
-| 23 | [Between Days](https://open.spotify.com/track/2Ny3qfbD8h1zhFzFSbzjWu) | [SÄPO](https://open.spotify.com/artist/6QS2DYGBBDyJ3mig9WPPpJ), [Hans Holmer](https://open.spotify.com/artist/4KMkwFA2SS59ApHQp80Fis) | [Between Days](https://open.spotify.com/album/2MSyIoYi33NlHEuRoCOPNX) | 5:02 |
+| 23 | [Between Days](https://open.spotify.com/track/2Ny3qfbD8h1zhFzFSbzjWu) | [SÄPO](https://open.spotify.com/artist/6QS2DYGBBDyJ3mig9WPPpJ) | [Between Days](https://open.spotify.com/album/2MSyIoYi33NlHEuRoCOPNX) | 5:02 |
 
 Snapshot ID: `AAAD5J/wQzdvif0hqtb5QNltCGLcT/CM`

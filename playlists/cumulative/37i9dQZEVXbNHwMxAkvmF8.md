@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,292 songs - 2 day 20 hr 23 min
+1,293 songs - 2 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-19 | 2023-03-27 |
 | [Eat Your Young](https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt) | 4:02 | 2023-03-18 | 2023-03-20 |
 | [egy kanapén](https://open.spotify.com/track/2K3Q6ESaFPoGjGnpjDnTJK) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [úton](https://open.spotify.com/album/6RuuMs24vFydEgnyX7nA61) | 3:06 | 2023-01-07 | 2023-01-09 |
+| [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 | 2024-11-02 |  |
 | [Egyedül \- Megb\*sztam ezt a kis gádzsit](https://open.spotify.com/track/7tSHeWlKv2nO5fFhLjRZWk) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 3:27 | 2022-11-23 | 2022-11-28 |
 | [Egyedül \- Megb\*sztam ezt a kis gádzsit](https://open.spotify.com/track/7iH7aaTtLCZ9OdFkGAv7MB) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Egyedül \(Megb\*sztam ezt a kis gádzsit\)](https://open.spotify.com/album/2MWWqs5R9FC90KM60BJjoj) | 3:29 | 2022-02-18 | 2022-08-08 |
 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 | 2024-08-10 | 2024-10-27 |
@@ -664,7 +665,7 @@
 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 | 2021-05-31 | 2021-06-01 |
 | [LUCYD](https://open.spotify.com/track/1gmRmL0I6z0yT84VV1c5rM) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [toldyuuso](https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:45 | 2024-03-09 | 2024-03-14 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-07-05 |
-| [lánc](https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [lánc](https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3) | 2:39 | 2024-07-27 |  |
+| [lánc](https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [lánc](https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3) | 2:39 | 2024-07-27 | 2024-11-03 |
 | [Lángoló Szívek](https://open.spotify.com/track/5roMxZTmVB76tzEPXRCmdx) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz) | [Holdvilág Club Hotel & Casino](https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS) | 2:02 | 2022-04-23 | 2022-04-25 |
 | [Lóerő](https://open.spotify.com/track/7k50YH3s8FqrBMRPm6DtJN) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 2:57 | 2022-05-21 | 2022-08-12 |
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-05-18 | 2024-05-26 |
@@ -826,7 +827,7 @@
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-01-09 | 2024-02-08 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-11-07 | 2021-11-21 |
 | [Orrvérzés](https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Orrvérzés](https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC) | 3:19 | 2024-04-10 | 2024-04-12 |
-| [Osztriga](https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:06 | 2023-11-17 |  |
+| [Osztriga](https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:06 | 2023-11-17 | 2024-11-03 |
 | [Osztálytalálkozó](https://open.spotify.com/track/0OHpTUsrI59etfssanq8SX) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Osztálytalálkozó](https://open.spotify.com/album/7yAkGODA0gSuoCXCvBnuXV) | 4:05 | 2022-01-29 | 2022-02-07 |
 | [Osztálytalálkozó](https://open.spotify.com/track/7aigVSzPNuRSf9cBjGebZI) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 4:05 | 2022-03-12 | 2022-03-26 |
 | [Out Of The Woods \(Taylor's Version\)](https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:55 | 2023-10-28 | 2023-10-30 |
@@ -1128,7 +1129,7 @@
 | [Theme song](https://open.spotify.com/track/0x1QaeA03bvi0NYutEKxWt) | [Mirror Glimpse](https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif) | [Legendás Ribancok Nyomában](https://open.spotify.com/album/0OM7ZtnoaSSI5vBIgVqwLT) | 1:52 | 2021-03-29 | 2021-03-30 |
 | [This Christmas](https://open.spotify.com/track/7MSYSOobsombc1mbDWFxtD) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 3:51 | 2023-12-25 | 2023-12-27 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-23 | 2022-05-07 |
-| [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 | 2024-02-22 | 2024-10-29 |
+| [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 | 2024-02-22 |  |
 | [TIHANY](https://open.spotify.com/track/31ItxZRpxou5JQ8qeJfRy6) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [SEX](https://open.spotify.com/album/2QXRyVROvX3T5G1yUpLPoU) | 2:09 | 2024-10-19 | 2024-10-21 |
 | [TIL FURTHER NOTICE](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 | 2023-07-29 | 2023-07-31 |
 | [Tilidin](https://open.spotify.com/track/23A0p49PgR5YAyYzY8TAyc) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [GG VS GRASA](https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ) | 2:04 | 2023-02-19 | 2023-07-09 |

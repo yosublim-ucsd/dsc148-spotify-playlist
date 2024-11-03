@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 34698,
+  "num_followers": 34705,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAAByIAaASYL2mlidA+T7hQ4t",
+  "snapshot_id": "ZyQaAAAAAACeUVZ52kP/xZDyaM5aHpoj",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chandler Moore: Live in Los Angeles",
-        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 552401,
-      "name": "Great I Am (feat. Tasha Cobbs Leonard) - Live",
-      "url": "https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 225623,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/1HkXH8anJdvM3zjouj4E9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chandler Moore: Live in Los Angeles",
+        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 552401,
+      "name": "Great I Am (feat. Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa"
     },
     {
       "added_at": null,
@@ -835,30 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
-      },
-      "artists": [
-        {
-          "name": "Transformation Worship",
-          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
-        },
-        {
-          "name": "Osby Berry",
-          "url": "https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 361440,
-      "name": "Thy Kingdom Come - Live",
-      "url": "https://open.spotify.com/track/4bXrOWwNpl47ebiRN0gGnT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cry: A Live Worship Experience",
         "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 183866,
       "name": "I Love This Place - Live",
       "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Osby Berry",
+          "url": "https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 361440,
+      "name": "Thy Kingdom Come - Live",
+      "url": "https://open.spotify.com/track/4bXrOWwNpl47ebiRN0gGnT"
     },
     {
       "added_at": null,

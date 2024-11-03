@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 해질녘 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,808 likes - 127 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,813 likes - 127 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 53 | [6:35PM](https://open.spotify.com/track/0aIuqjVsXQpo0rpkLztzxE) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Shape of me](https://open.spotify.com/album/1GU9TwATIkJ6GpVqrtX2ju) | 4:07 |
 | 54 | [Autumn morning](https://open.spotify.com/track/100N8P8WYnz9eCYuLYGflV) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [가을 아침 \[Gaeul Achim\] : Autumn morning](https://open.spotify.com/album/4QvzYMXuU58cNpFrRQ9Aqi) | 3:38 |
 | 55 | [Stupid Day \(feat\. HYUN SEO\)](https://open.spotify.com/track/3Qh3Pr6IJYb3Aj1qvILr4B) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Stupid Day \(feat\. HYUN SEO\)](https://open.spotify.com/album/4WRxDU0q82GFtTPFKcUPlR) | 2:44 |
-| 56 | [Trouble \(Feat\. Ahn Byeong Woong\)](https://open.spotify.com/track/6UMrmpf4OjwHzz8vYNXoFG) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe) | [Trouble & I'll be with u](https://open.spotify.com/album/3Iw7qUjvEfF5haZTLWo8oA) | 2:57 |
+| 56 | [Trouble \(Feat\. Ahn Byeong Woong\)](https://open.spotify.com/track/6UMrmpf4OjwHzz8vYNXoFG) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Ahn Byeong Woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe) | [Trouble & I'll be with u](https://open.spotify.com/album/3Iw7qUjvEfF5haZTLWo8oA) | 2:57 |
 | 57 | [Wait A Minute ! \(Feat\. 황세현\(h3hyeon\)\)](https://open.spotify.com/track/30kEjqFheQPomQcf2kZM7H) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Wait A Minute !](https://open.spotify.com/album/59Vc3Ij1sz6fQmgfv5ANtD) | 3:14 |
 | 58 | [Dreamed a dream](https://open.spotify.com/track/41PmrOKHX6G3wo4nE7jVhq) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [C](https://open.spotify.com/album/7e5sJT4ByH3fVYXvHoMYdt) | 3:20 |
 | 59 | [Can't Hold You](https://open.spotify.com/track/1w5EcRVPlydRogxrmrQpvY) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [From the day we loved to the day we said goodbye](https://open.spotify.com/album/06NnMNvwMAgpuznCmaKHzC) | 3:42 |

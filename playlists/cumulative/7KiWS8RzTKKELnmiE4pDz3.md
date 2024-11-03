@@ -4,7 +4,7 @@
 
 > 
 
-782 songs - 1 day 13 hr 32 min
+785 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Converse](https://open.spotify.com/track/114QcT33m0rvR6vCtn4xly) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Converse](https://open.spotify.com/album/1shTATlG905ZkBRLov2eCO) | 2:08 | 2022-11-04 | 2023-12-14 |
 | [Cooties](https://open.spotify.com/track/6B7FWe7D3c4LKO5cSz19iD) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:52 | 2024-03-04 |  |
 | [Copy My Flow](https://open.spotify.com/track/63l7bSuyNl1rRDNR4RrpbY) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [BABY WHOA](https://open.spotify.com/album/4LwBYHKVRaFll4wNsVA2TV) | 1:18 | 2023-01-03 | 2023-05-09 |
+| [Cosmo Freestyle](https://open.spotify.com/track/29hATL1N9JGEtS8HpxRjcN) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 3:04 | 2024-11-02 |  |
 | [Couch](https://open.spotify.com/track/0VLkwjIaeJM5KMjcVVybBp) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [The Life Of Pi'erre 5](https://open.spotify.com/album/2i5NyX1puwpGt7tmaP5sEg) | 4:23 | 2023-03-20 | 2023-12-14 |
 | [Count Up](https://open.spotify.com/track/14DzT6SHiJpd807lo41KK4) | [Summr Rino Archived](https://open.spotify.com/artist/140a3K2cLncsfwQpvsv2IO) | [Count Up](https://open.spotify.com/album/2Sa3gbJyCO9nM7b7TRKgJp) | 2:34 | 2022-07-28 | 2023-12-14 |
 | [Counterfeit](https://open.spotify.com/track/0nKvSEAxTM0CeWllXv0Ay8) | [Spree Wilson](https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy) | [Counterfeit](https://open.spotify.com/album/40FEBKHuLtVrh8s06x3fek) | 3:36 | 2024-02-15 |  |
@@ -418,6 +419,7 @@
 | [Mad bout that](https://open.spotify.com/track/7nZwBbH8F8FqArrVIe8Zl4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Trëndi](https://open.spotify.com/album/7EO5zGsZP0HHxEhSLGw2aj) | 2:10 | 2023-01-10 | 2023-05-09 |
 | [Magic Johnson](https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q) | 2:17 | 2024-06-24 |  |
 | [Man Down \(feat\. Big Noyd\)](https://open.spotify.com/track/37Pu8DAHAtReIr4SAqqDxV) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Big Noyd](https://open.spotify.com/artist/4bwxkkA3AAwyymVwXjxz0F) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 5:02 | 2024-05-23 |  |
+| [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 | 2024-11-02 |  |
 | [Maze](https://open.spotify.com/track/55XOUxXsBBbC07PD3Zml3F) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:24 | 2022-11-24 | 2023-12-14 |
 | [Mazel Tron](https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mazel Tron](https://open.spotify.com/album/1F841omtmck75byakwMGnx) | 3:28 | 2023-04-03 | 2023-12-14 |
 | [Me And My Bitch](https://open.spotify.com/track/1Kz0tgMRWsbLzEuzRaU1vP) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 3:05 | 2024-03-26 |  |
@@ -781,6 +783,7 @@
 | [Wish U The Best](https://open.spotify.com/track/4MD3vd2CoOD7a4KUtg5SZH) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Cold Summer](https://open.spotify.com/album/0TxLAUhKclBHQUoeunGQlq) | 2:30 | 2022-10-24 | 2023-04-12 |
 | [With Them](https://open.spotify.com/track/0tISnxqgVmxqhVghsTi2Rr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 3:17 | 2023-12-12 |  |
 | [Woah](https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:03 | 2022-05-06 | 2023-12-14 |
+| [Wolverine](https://open.spotify.com/track/22JoVWZlY49vSLzssk8RL7) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 2:47 | 2024-11-02 |  |
 | [Woosah Freestyle](https://open.spotify.com/track/61Iqz8Ppm9cVdAQJFkMtVD) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [Woosah Freestyle](https://open.spotify.com/album/6hw31ruG07RBmVmeGuPTRu) | 2:09 | 2022-12-21 | 2023-05-09 |
 | [World Champ](https://open.spotify.com/track/4VIznE5GISZrFlTxFNE7Pc) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [While We're Here](https://open.spotify.com/album/5wlqekVOKMlrcpMrlUfwW5) | 2:26 | 2023-04-02 | 2023-12-14 |
 | [X For Breakfast](https://open.spotify.com/track/1P1g0AgYauDpZUExzrnP2d) | [riphoops!](https://open.spotify.com/artist/60ywn31mXgdYzCKElw10PE), [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [X For Breakfast](https://open.spotify.com/album/61Wfi44HY3LfQwkizkx8Gx) | 2:17 | 2023-12-25 | 2024-04-24 |

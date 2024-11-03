@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1350969,
+  "num_followers": 1351392,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
+        "name": "Gimme Bass",
+        "url": "https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Gimme Bass",
+      "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
         "name": "FCK DAT!",
         "url": "https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 167378,
       "name": "FCK DAT!",
       "url": "https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "Gimme Bass",
-        "url": "https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 164129,
-      "name": "Gimme Bass",
-      "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Can Can",
-        "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
-      },
-      "artists": [
-        {
-          "name": "NLCK",
-          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        }
-      ],
-      "duration_ms": 128812,
-      "name": "Can Can",
-      "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Free (feat. Starsplash)",
         "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 150000,
       "name": "Free (feat. Starsplash)",
       "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Can Can",
+        "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
+      },
+      "artists": [
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "duration_ms": 128812,
+      "name": "Can Can",
+      "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Digital Domination",
-        "url": "https://open.spotify.com/album/76q8PN2wH9m0RWeqHfxaoI"
-      },
-      "artists": [
-        {
-          "name": "Fraw",
-          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 127503,
-      "name": "Digital Domination",
-      "url": "https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Everytime We Touch (Sound Rush Remix)",
         "url": "https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 216937,
       "name": "Everytime We Touch - Sound Rush Remix",
       "url": "https://open.spotify.com/track/6HRQ2TCrIFhZpIdI9DyhEh"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Digital Domination",
+        "url": "https://open.spotify.com/album/76q8PN2wH9m0RWeqHfxaoI"
+      },
+      "artists": [
+        {
+          "name": "Fraw",
+          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 127503,
+      "name": "Digital Domination",
+      "url": "https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Sin City",
-        "url": "https://open.spotify.com/album/7Df8MeG58aggdbwBMrurgk"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        }
-      ],
-      "duration_ms": 257364,
-      "name": "Sin City",
-      "url": "https://open.spotify.com/track/2yWQsPYBRRus0kFS6qewDW"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Boulevard Of Broken Dreams",
         "url": "https://open.spotify.com/album/6YKIhE2zoWC1HW8GMMvxLc"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 183529,
       "name": "Boulevard Of Broken Dreams",
       "url": "https://open.spotify.com/track/2Z3mokTRpWLzwDGv9UK3bG"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Sin City",
+        "url": "https://open.spotify.com/album/7Df8MeG58aggdbwBMrurgk"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 257364,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/2yWQsPYBRRus0kFS6qewDW"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1419,26 +1419,18 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "U Are The High",
-        "url": "https://open.spotify.com/album/0Ith2nwQnLsATxI4pF2Ur3"
+        "name": "Waste Your Youth",
+        "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
       },
       "artists": [
         {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         }
       ],
-      "duration_ms": 198193,
-      "name": "U Are The High",
-      "url": "https://open.spotify.com/track/2ssPLm5u7KiGXAwpTIBvEl"
+      "duration_ms": 164000,
+      "name": "Waste Your Youth",
+      "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1467,6 +1459,30 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
+        "name": "U Are The High",
+        "url": "https://open.spotify.com/album/0Ith2nwQnLsATxI4pF2Ur3"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "duration_ms": 198193,
+      "name": "U Are The High",
+      "url": "https://open.spotify.com/track/2ssPLm5u7KiGXAwpTIBvEl"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/7KZcPyIfFQUEBppF009JAS"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 202087,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/0xfMO28ubpjprrHyoQSJYh"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "Waste Your Youth",
-        "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Waste Your Youth",
-      "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1555,6 +1555,34 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
+        "name": "Surrender (The Remixes)",
+        "url": "https://open.spotify.com/album/3vZnfxMSVRnfrRoBmGfA1W"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        },
+        {
+          "name": "Ashley Wallbridge",
+          "url": "https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG"
+        },
+        {
+          "name": "Foux",
+          "url": "https://open.spotify.com/artist/2lPR8qx4H6y586exb4SyXk"
+        },
+        {
+          "name": "Hixxy",
+          "url": "https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Surrender - Hixxy Remix",
+      "url": "https://open.spotify.com/track/7qK0mNHVdVbnqt3Prd26Vs"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
         "name": "2 Be High",
         "url": "https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M"
       },
@@ -1599,50 +1627,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Surrender (The Remixes)",
-        "url": "https://open.spotify.com/album/3vZnfxMSVRnfrRoBmGfA1W"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        },
-        {
-          "name": "Ashley Wallbridge",
-          "url": "https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG"
-        },
-        {
-          "name": "Foux",
-          "url": "https://open.spotify.com/artist/2lPR8qx4H6y586exb4SyXk"
-        },
-        {
-          "name": "Hixxy",
-          "url": "https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Surrender - Hixxy Remix",
-      "url": "https://open.spotify.com/track/7qK0mNHVdVbnqt3Prd26Vs"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "Renaissance Of Rave",
-        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "Trip To Mars (Astronauts)",
-      "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Out Of My Mind",
         "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 190451,
       "name": "Ruinen Dieser Welt",
       "url": "https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Renaissance Of Rave",
+        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Trip To Mars (Astronauts)",
+      "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Save Euphoric (Theme)",
-        "url": "https://open.spotify.com/album/3u9MQu6SxJewo9CZh6XSMX"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Blademasterz",
-          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
-        }
-      ],
-      "duration_ms": 210010,
-      "name": "Save Euphoric (Theme)",
-      "url": "https://open.spotify.com/track/4x6dKH7NYow3qVGeTLn9bT"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
         "url": "https://open.spotify.com/album/5xA6fUeYmzA0iskFgtlZdH"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 212500,
       "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
       "url": "https://open.spotify.com/track/3Mia9gtcznpH1Sh2ZQdwD5"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Save Euphoric (Theme)",
+        "url": "https://open.spotify.com/album/3u9MQu6SxJewo9CZh6XSMX"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Blademasterz",
+          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
+        }
+      ],
+      "duration_ms": 210010,
+      "name": "Save Euphoric (Theme)",
+      "url": "https://open.spotify.com/track/4x6dKH7NYow3qVGeTLn9bT"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1839,30 +1839,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Lose My Mind (Sub Zero Project Remix)",
-        "url": "https://open.spotify.com/album/0HY3yiWBKTwR9DxEgVYSZY"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 253012,
-      "name": "Lose My Mind - Sub Zero Project Remix",
-      "url": "https://open.spotify.com/track/6FQTEo5HfXoMzXV513unv9"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Brutal 11.0",
         "url": "https://open.spotify.com/album/5U8H25DQXSsDDrkYHj7OU8"
       },
@@ -1899,26 +1875,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Favourite Song",
-        "url": "https://open.spotify.com/album/7zY6hCEcLzK3WDmYTBVNhX"
-      },
-      "artists": [
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        }
-      ],
-      "duration_ms": 210196,
-      "name": "Favourite Song",
-      "url": "https://open.spotify.com/track/5jt7ngF0zlquhwOMqvUv8I"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Paper Thin (Headhunterz Remix)",
         "url": "https://open.spotify.com/album/0bOFeg0VbNsscC0Kq4Ca5r"
       },
@@ -1947,6 +1903,26 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
+        "name": "Favourite Song",
+        "url": "https://open.spotify.com/album/7zY6hCEcLzK3WDmYTBVNhX"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        }
+      ],
+      "duration_ms": 210196,
+      "name": "Favourite Song",
+      "url": "https://open.spotify.com/track/5jt7ngF0zlquhwOMqvUv8I"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
         "name": "Rave Love",
         "url": "https://open.spotify.com/album/2OHcuJm8NlukM33GBSQUke"
       },
@@ -1967,6 +1943,30 @@
       "duration_ms": 189000,
       "name": "Rave Love",
       "url": "https://open.spotify.com/track/0YHL0wDP6b7ov6h0yEhorO"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Lose My Mind (Sub Zero Project Remix)",
+        "url": "https://open.spotify.com/album/0HY3yiWBKTwR9DxEgVYSZY"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 253012,
+      "name": "Lose My Mind - Sub Zero Project Remix",
+      "url": "https://open.spotify.com/track/6FQTEo5HfXoMzXV513unv9"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
+        "name": "Dia De Los Muertos",
+        "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 215590,
+      "name": "Dia De Los Muertos",
+      "url": "https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
         "name": "Battlefield",
         "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 207483,
       "name": "Warrior Cry",
       "url": "https://open.spotify.com/track/3MKGucsbvdG7RgfoFOqDaj"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "Dia De Los Muertos",
-        "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        }
-      ],
-      "duration_ms": 215590,
-      "name": "Dia De Los Muertos",
-      "url": "https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2283,42 +2283,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Return Of The Return",
-        "url": "https://open.spotify.com/album/06XWEMumYCHGHEaFEV2Hl4"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 175874,
-      "name": "Return Of The Return",
-      "url": "https://open.spotify.com/track/43Bu2RvrKaEkQL36OLrDzA"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "Feel So Good",
-        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Everything is a Lie",
         "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
       },
@@ -2335,6 +2299,22 @@
       "duration_ms": 242400,
       "name": "Everything is a Lie",
       "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Feel So Good",
+        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 215225,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2359,26 +2339,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "2 GENERATIONS",
-        "url": "https://open.spotify.com/album/1yykrgioktaxLTyMASqoBj"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Coldax",
-          "url": "https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ"
-        }
-      ],
-      "duration_ms": 151015,
-      "name": "2 GENERATIONS",
-      "url": "https://open.spotify.com/track/2UUYVL7dpLBNbEuQVCXtby"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Cambodia",
         "url": "https://open.spotify.com/album/4HtUIpG6VJUovQ7Ki6rtIU"
       },
@@ -2395,6 +2355,26 @@
       "duration_ms": 158940,
       "name": "Cambodia",
       "url": "https://open.spotify.com/track/43yq4RWhzp5nIxDUWlU3mD"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Return Of The Return",
+        "url": "https://open.spotify.com/album/06XWEMumYCHGHEaFEV2Hl4"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 175874,
+      "name": "Return Of The Return",
+      "url": "https://open.spotify.com/track/43Bu2RvrKaEkQL36OLrDzA"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2443,22 +2423,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Angels Falling in Space",
-        "url": "https://open.spotify.com/album/6AuA0sfZdkbcl1kqZShKcl"
-      },
-      "artists": [
-        {
-          "name": "Frontliner",
-          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
-        }
-      ],
-      "duration_ms": 169805,
-      "name": "Angels Falling in Space",
-      "url": "https://open.spotify.com/track/1nPTZTzrO5So5ew5Jg2Ecz"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Keepers Of Our Legacy",
         "url": "https://open.spotify.com/album/0hF85b1g0YOWqRorVVUlkF"
       },
@@ -2475,6 +2439,42 @@
       "duration_ms": 252549,
       "name": "Keepers Of Our Legacy",
       "url": "https://open.spotify.com/track/7w06cAEK8P7PzQCopSQyuJ"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "2 GENERATIONS",
+        "url": "https://open.spotify.com/album/1yykrgioktaxLTyMASqoBj"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Coldax",
+          "url": "https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ"
+        }
+      ],
+      "duration_ms": 151015,
+      "name": "2 GENERATIONS",
+      "url": "https://open.spotify.com/track/2UUYVL7dpLBNbEuQVCXtby"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Angels Falling in Space",
+        "url": "https://open.spotify.com/album/6AuA0sfZdkbcl1kqZShKcl"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        }
+      ],
+      "duration_ms": 169805,
+      "name": "Angels Falling in Space",
+      "url": "https://open.spotify.com/track/1nPTZTzrO5So5ew5Jg2Ecz"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Chase The Sun (Hardstyle Mix)",
-        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
-      },
-      "artists": [
-        {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
-        }
-      ],
-      "duration_ms": 135967,
-      "name": "Chase The Sun (Hardstyle Mix)",
-      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Where I Belong",
         "url": "https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd"
       },
@@ -2627,6 +2611,22 @@
       "duration_ms": 165569,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/2zOCJuQ7QKaceQTaIgLXAO"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Chase The Sun (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        }
+      ],
+      "duration_ms": 135967,
+      "name": "Chase The Sun (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2847,26 +2847,18 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Apologize",
-        "url": "https://open.spotify.com/album/2BIcvpImPWZgqa2mi791Ti"
+        "name": "The Flame Inside",
+        "url": "https://open.spotify.com/album/3UJaCyCiERfPBcfIJbPzqr"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "BassWar & CaoX",
-          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
-        },
-        {
-          "name": "HARRY",
-          "url": "https://open.spotify.com/artist/3KlBgpZwfiteVPV1KHzcfw"
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/5AdpdaoHXbQtV3kjWYUMe4"
+      "duration_ms": 256258,
+      "name": "The Flame Inside",
+      "url": "https://open.spotify.com/track/0bwI14sF0aR97qxjp4AAqV"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2911,18 +2903,26 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "The Flame Inside",
-        "url": "https://open.spotify.com/album/3UJaCyCiERfPBcfIJbPzqr"
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/2BIcvpImPWZgqa2mi791Ti"
       },
       "artists": [
         {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "BassWar & CaoX",
+          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
+        },
+        {
+          "name": "HARRY",
+          "url": "https://open.spotify.com/artist/3KlBgpZwfiteVPV1KHzcfw"
         }
       ],
-      "duration_ms": 256258,
-      "name": "The Flame Inside",
-      "url": "https://open.spotify.com/track/0bwI14sF0aR97qxjp4AAqV"
+      "duration_ms": 193000,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/5AdpdaoHXbQtV3kjWYUMe4"
     },
     {
       "added_at": "2024-10-25 08:04:11",

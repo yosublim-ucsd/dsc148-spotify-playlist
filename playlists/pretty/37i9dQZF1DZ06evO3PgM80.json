@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAD9ijouac38ZBcf36oFZzdN",
+  "snapshot_id": "ZyQaAAAAAAB1QWqaE8kFIZM3100azTzd",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tuas \u00c1guas",
+        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Tuas \u00c1guas",
+      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tuas \u00c1guas",
-        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "Tuas \u00c1guas",
-      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 382880,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alfa e \u00d4mega (Ao Vivo)",
         "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 417426,
       "name": "Alfa e \u00d4mega - Ao Vivo",
       "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 382880,
-      "name": "Vem",
-      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fome e Sede",
+        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "Fome e Sede",
+      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
         "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 532577,
       "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
       "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fome e Sede",
-        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "Fome e Sede",
-      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
     },
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+        "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 366814,
+      "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+      "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 281414,
       "name": "Lindo Jesus",
       "url": "https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
-        "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 366814,
-      "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
-      "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Los Plebes del Rancho en portada. ",
-  "num_followers": 802046,
+  "num_followers": 802082,
   "original_name": "Sierre\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,26 @@
     {
       "added_at": "2024-11-01 14:04:51",
       "album": {
+        "name": "No Pasa Nada",
+        "url": "https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
+    },
+    {
+      "added_at": "2024-11-01 14:04:51",
+      "album": {
         "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
         "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
-    },
-    {
-      "added_at": "2024-11-01 14:04:51",
-      "album": {
-        "name": "No Pasa Nada",
-        "url": "https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "No Pasa Nada",
-      "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
     },
     {
       "added_at": "2024-11-01 14:04:51",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-11-01 14:04:51",
       "album": {
-        "name": "El Spider",
-        "url": "https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 180589,
-      "name": "El Spider",
-      "url": "https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f"
-    },
-    {
-      "added_at": "2024-11-01 14:04:51",
-      "album": {
         "name": "Hoy la Vi Con \u00c9l (En Vivo)",
         "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 223200,
       "name": "Hoy la Vi Con \u00c9l - En Vivo",
       "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
+    },
+    {
+      "added_at": "2024-11-01 14:04:51",
+      "album": {
+        "name": "El Spider",
+        "url": "https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 180589,
+      "name": "El Spider",
+      "url": "https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f"
     },
     {
       "added_at": "2024-11-01 14:04:51",
@@ -1919,42 +1919,6 @@
     {
       "added_at": "2024-11-01 14:04:51",
       "album": {
-        "name": "Tan Solo Morro",
-        "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Tan Solo Morro",
-      "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
-    },
-    {
-      "added_at": "2024-11-01 14:04:51",
-      "album": {
-        "name": "Notredame",
-        "url": "https://open.spotify.com/album/3mtyNz21MzxkG0PfR1bI9T"
-      },
-      "artists": [
-        {
-          "name": "Nueva H",
-          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
-        }
-      ],
-      "duration_ms": 169644,
-      "name": "Notredame",
-      "url": "https://open.spotify.com/track/6MMtGsp4X3kDjfb1oG4WHr"
-    },
-    {
-      "added_at": "2024-11-01 14:04:51",
-      "album": {
         "name": "La Noche es Larga",
         "url": "https://open.spotify.com/album/7ghCjb2MxHe9tGCUfMUAsr"
       },
@@ -1975,18 +1939,22 @@
     {
       "added_at": "2024-11-01 14:04:51",
       "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+        "name": "Tan Solo Morro",
+        "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
       },
       "artists": [
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
         }
       ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
+      "duration_ms": 144545,
+      "name": "Tan Solo Morro",
+      "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
     },
     {
       "added_at": "2024-11-01 14:04:51",
@@ -2011,6 +1979,38 @@
     {
       "added_at": "2024-11-01 14:04:51",
       "album": {
+        "name": "Notredame",
+        "url": "https://open.spotify.com/album/3mtyNz21MzxkG0PfR1bI9T"
+      },
+      "artists": [
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        }
+      ],
+      "duration_ms": 169644,
+      "name": "Notredame",
+      "url": "https://open.spotify.com/track/6MMtGsp4X3kDjfb1oG4WHr"
+    },
+    {
+      "added_at": "2024-11-01 14:04:51",
+      "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
+    },
+    {
+      "added_at": "2024-11-01 14:04:51",
+      "album": {
         "name": "UNA LOKURA",
         "url": "https://open.spotify.com/album/6wkmruqosLUIuQPbXHmEVw"
       },
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2024-11-01 14:04:51",
       "album": {
+        "name": "Morro",
+        "url": "https://open.spotify.com/album/2bex0ef9qNmSybJa28I87K"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "Morro",
+      "url": "https://open.spotify.com/track/4awv86vKJ63MzgLngfpdUv"
+    },
+    {
+      "added_at": "2024-11-01 14:04:51",
+      "album": {
         "name": "Cada Momento",
         "url": "https://open.spotify.com/album/0A6RmcqUuTpPOqBoWfc0ik"
       },
@@ -2047,18 +2063,22 @@
     {
       "added_at": "2024-11-01 14:04:51",
       "album": {
-        "name": "Morro",
-        "url": "https://open.spotify.com/album/2bex0ef9qNmSybJa28I87K"
+        "name": "Don Nadie",
+        "url": "https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         }
       ],
-      "duration_ms": 164647,
-      "name": "Morro",
-      "url": "https://open.spotify.com/track/4awv86vKJ63MzgLngfpdUv"
+      "duration_ms": 191259,
+      "name": "Don Nadie",
+      "url": "https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q"
     },
     {
       "added_at": "2024-11-01 14:04:51",
@@ -2155,6 +2175,22 @@
     {
       "added_at": "2024-11-01 14:04:51",
       "album": {
+        "name": "Besito Con Humo",
+        "url": "https://open.spotify.com/album/6RLEUN4DBKqaKJiti4TP0H"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "duration_ms": 145658,
+      "name": "Besito Con Humo",
+      "url": "https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU"
+    },
+    {
+      "added_at": "2024-11-01 14:04:51",
+      "album": {
         "name": "Sanar\u00e9",
         "url": "https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri"
       },
@@ -2167,46 +2203,6 @@
       "duration_ms": 141310,
       "name": "Sanar\u00e9",
       "url": "https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf"
-    },
-    {
-      "added_at": "2024-11-01 14:04:51",
-      "album": {
-        "name": "Don Nadie",
-        "url": "https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 191259,
-      "name": "Don Nadie",
-      "url": "https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q"
-    },
-    {
-      "added_at": "2024-11-01 14:04:51",
-      "album": {
-        "name": "Esperando Mi Suerte",
-        "url": "https://open.spotify.com/album/3wPdknofMpDr7Pux0enC5S"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 216751,
-      "name": "Esperando Mi Suerte",
-      "url": "https://open.spotify.com/track/5MpBhwsJlBdMuhLA0RhmIv"
     }
   ],
   "unique_name": "Sierre\u00f1o 2024",

@@ -1,6 +1,6 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 2347939,
+  "num_followers": 2348583,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-10-22 16:05:29",
       "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+    },
+    {
+      "added_at": "2024-10-22 16:05:29",
+      "album": {
         "name": "Tee's Coney Island",
         "url": "https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 151182,
       "name": "Loop Hole (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz"
-    },
-    {
-      "added_at": "2024-10-22 16:05:29",
-      "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2024-10-22 16:05:29",
@@ -1875,38 +1875,6 @@
     {
       "added_at": "2024-10-22 16:05:29",
       "album": {
-        "name": "Distraction",
-        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 171319,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
-    },
-    {
-      "added_at": "2024-10-22 16:05:29",
-      "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
-    },
-    {
-      "added_at": "2024-10-22 16:05:29",
-      "album": {
         "name": "FRANCHISE (feat. Future, Young Thug & M.I.A.) [REMIX]",
         "url": "https://open.spotify.com/album/6k3hqPsGKPCSyBmmvCXd7B"
       },
@@ -1931,6 +1899,38 @@
       "duration_ms": 207394,
       "name": "FRANCHISE (feat. Future, Young Thug & M.I.A.) - REMIX",
       "url": "https://open.spotify.com/track/6qUabsNxudatEFedWGHoDh"
+    },
+    {
+      "added_at": "2024-10-22 16:05:29",
+      "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+    },
+    {
+      "added_at": "2024-10-22 16:05:29",
+      "album": {
+        "name": "Distraction",
+        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 171319,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
     },
     {
       "added_at": "2024-10-22 16:05:29",

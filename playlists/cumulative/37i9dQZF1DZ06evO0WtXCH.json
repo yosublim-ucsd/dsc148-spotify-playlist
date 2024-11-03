@@ -391,6 +391,32 @@
     },
     {
       "album": {
+        "name": "Remix The Universe",
+        "url": "https://open.spotify.com/album/5M8jj6Qj5E41nNJantp8pT"
+      },
+      "artists": [
+        {
+          "name": "New Age Doom",
+          "url": "https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni"
+        },
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184068,
+      "name": "Holy Dub (Hallowed Be Thy Name) - Quicksand",
+      "url": "https://open.spotify.com/track/6iVSedeP8615YRje2jh4NZ"
+    },
+    {
+      "album": {
         "name": "Interiors",
         "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
       },
@@ -708,10 +734,28 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 169400,
       "name": "Supercollider",
       "url": "https://open.spotify.com/track/2MFdVzNvUHTmrORjmBnycc"
+    },
+    {
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "Supercollider",
+      "url": "https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz"
     },
     {
       "album": {

@@ -7575,6 +7575,24 @@
     },
     {
       "album": {
+        "name": "So Blue",
+        "url": "https://open.spotify.com/album/6C1eTB3Tc19mkHlISe1QHo"
+      },
+      "artists": [
+        {
+          "name": "Blacktop",
+          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "So Blue",
+      "url": "https://open.spotify.com/track/6iA7KvLZqd5O3SqqzTTlH4"
+    },
+    {
+      "album": {
         "name": "So I Broke Her Heart",
         "url": "https://open.spotify.com/album/6sjr2Po31xfQTZxnhxu6qD"
       },

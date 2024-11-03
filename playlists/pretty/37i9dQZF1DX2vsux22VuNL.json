@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 292349,
+  "num_followers": 292380,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
+        "name": "eu n\u00e3o queria mais nada",
+        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
+      },
+      "artists": [
+        {
+          "name": "bela",
+          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
+        },
+        {
+          "name": "contito",
+          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
+        }
+      ],
+      "duration_ms": 148187,
+      "name": "eu n\u00e3o queria mais nada",
+      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
+    },
+    {
+      "added_at": "2024-11-01 03:00:00",
+      "album": {
         "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
         "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
-    },
-    {
-      "added_at": "2024-11-01 03:00:00",
-      "album": {
-        "name": "eu n\u00e3o queria mais nada",
-        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
-      },
-      "artists": [
-        {
-          "name": "bela",
-          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
-        },
-        {
-          "name": "contito",
-          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
-        }
-      ],
-      "duration_ms": 148187,
-      "name": "eu n\u00e3o queria mais nada",
-      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
     },
     {
       "added_at": "2024-11-01 03:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
-        "name": "Pra Viajar",
-        "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Pra Viajar",
-      "url": "https://open.spotify.com/track/390Yl190rqixethu2ekKXk"
-    },
-    {
-      "added_at": "2024-11-01 03:00:00",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 143448,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2024-11-01 03:00:00",
+      "album": {
+        "name": "Pra Viajar",
+        "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 249489,
+      "name": "Pra Viajar",
+      "url": "https://open.spotify.com/track/390Yl190rqixethu2ekKXk"
     },
     {
       "added_at": "2024-11-01 03:00:00",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-11-01 03:00:00",
       "album": {
-        "name": "Naturalmente",
-        "url": "https://open.spotify.com/album/59w70fXpOJqCTQLK90p2Co"
-      },
-      "artists": [
-        {
-          "name": "Sagaz",
-          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
-        },
-        {
-          "name": "Du10",
-          "url": "https://open.spotify.com/artist/5x35imJ0DLzAkC9mjmmeAJ"
-        }
-      ],
-      "duration_ms": 115763,
-      "name": "Naturalmente",
-      "url": "https://open.spotify.com/track/2ptglFQqEtPggQpBX4nUFn"
-    },
-    {
-      "added_at": "2024-11-01 03:00:00",
-      "album": {
         "name": "Bora pra praia",
         "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 228349,
       "name": "Bora pra praia",
       "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
+    },
+    {
+      "added_at": "2024-11-01 03:00:00",
+      "album": {
+        "name": "Naturalmente",
+        "url": "https://open.spotify.com/album/59w70fXpOJqCTQLK90p2Co"
+      },
+      "artists": [
+        {
+          "name": "Sagaz",
+          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
+        },
+        {
+          "name": "Du10",
+          "url": "https://open.spotify.com/artist/5x35imJ0DLzAkC9mjmmeAJ"
+        }
+      ],
+      "duration_ms": 115763,
+      "name": "Naturalmente",
+      "url": "https://open.spotify.com/track/2ptglFQqEtPggQpBX4nUFn"
     },
     {
       "added_at": "2024-11-01 03:00:00",

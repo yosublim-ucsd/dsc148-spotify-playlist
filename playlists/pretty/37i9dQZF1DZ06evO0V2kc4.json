@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 65801,
+  "num_followers": 65808,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAAA3XubvdbiPSRtLjMBLO1cF",
+  "snapshot_id": "ZyQaAAAAAAB1RxfztT3+V5T78eu6Hbdg",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From Every Stage",
         "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
       },
@@ -503,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez 75th Birthday Celebration",
-        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Mary Chapin Carpenter",
-          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
-        }
-      ],
-      "duration_ms": 239520,
-      "name": "Catch The Wind",
-      "url": "https://open.spotify.com/track/4tZICB8neer87JfvyEMl5d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -543,34 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
       },
       "artists": [
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
+        },
         {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
         }
       ],
-      "duration_ms": 184666,
-      "name": "Hello In There",
-      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
+      "duration_ms": 239520,
+      "name": "Catch The Wind",
+      "url": "https://open.spotify.com/track/4tZICB8neer87JfvyEMl5d"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Hello In There",
+      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Gold Castle Masters",
         "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 225640,
       "name": "No Woman No Cry - Live",
       "url": "https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 134133,
-      "name": "Llego Con Tres Heridas",
-      "url": "https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 273506,
       "name": "Boots Of Spanish Leather",
       "url": "https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 134133,
+      "name": "Llego Con Tres Heridas",
+      "url": "https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6cef8uDKAs49T2SCwwxQ1t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed Are...",
         "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 186160,
       "name": "Blessed Are",
       "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6cef8uDKAs49T2SCwwxQ1t"
     },
     {
       "added_at": null,

@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209849,
+      "name": "L.T.W.Y.H.M.",
+      "url": "https://open.spotify.com/track/503lQzTuf0tF8cAcilXZkz"
+    },
+    {
+      "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
       },
@@ -586,7 +604,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 145733,
       "name": "Sancho",
       "url": "https://open.spotify.com/track/3U59eoc1pRxoXtgxJChDcx"

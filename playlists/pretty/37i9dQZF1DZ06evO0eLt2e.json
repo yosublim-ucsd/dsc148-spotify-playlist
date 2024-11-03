@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 29304,
+  "num_followers": 29310,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAADO2lQVvMU+zhvJgvlQvMUn",
+  "snapshot_id": "ZyQaAAAAAADP4xfSGu6KoBYh/S7ShhHa",
   "tracks": [
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Lost Inside of You",
+      "url": "https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 215133,
       "name": "Casey's Last Ride",
       "url": "https://open.spotify.com/track/51ixKYFELQvEYoMcWOmg34"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Lost Inside of You",
-      "url": "https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo"
     },
     {
       "added_at": null,
@@ -1187,70 +1187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 162226,
-      "name": "Breakdown (A Long Way from Home)",
-      "url": "https://open.spotify.com/track/0W3Z6CmxQAF2h07TWmBM0l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "Folsom Prison Blues - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Surreal Thing",
-        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "If You Don't Like Hank Williams",
-      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boulder To Birmingham (Live)",
         "url": "https://open.spotify.com/album/01TfnbqEmjUZO7WlGGqWOr"
       },
@@ -1339,6 +1275,70 @@
       "duration_ms": 241640,
       "name": "Boulder To Birmingham - Live",
       "url": "https://open.spotify.com/track/7BdOM9rzbOeyo7T1qZPMgQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "Folsom Prison Blues - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surreal Thing",
+        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "If You Don't Like Hank Williams",
+      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 162226,
+      "name": "Breakdown (A Long Way from Home)",
+      "url": "https://open.spotify.com/track/0W3Z6CmxQAF2h07TWmBM0l"
     },
     {
       "added_at": null,

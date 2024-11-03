@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-422 songs - 1 day 16 hr 10 min
+423 songs - 1 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Manasseh \- Live](https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Church \(Live\)](https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc) | 6:02 | 2023-12-15 | 2024-05-19 |
 | [Master of the World](https://open.spotify.com/track/0f0SU60F9bZvriZwV1SefF) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Master of the World](https://open.spotify.com/album/3dQAMDPv5qZ8bazXNsE1Ha) | 5:36 | 2023-04-14 | 2023-04-15 |
 | [Melody](https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Melody](https://open.spotify.com/album/5ohhAarbKDSjtPZO54IbP7) | 3:57 | 2023-01-20 | 2023-12-15 |
-| [Mercy](https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Mercy](https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu) | 16:45 | 2023-08-11 |  |
+| [Mercy](https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Mercy](https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu) | 16:45 | 2023-08-11 | 2024-11-03 |
 | [Mercy \(Sho Mo\)](https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Mercy \(Sho Mo\)](https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx) | 2:45 | 2022-11-18 | 2023-01-20 |
 | [Meto](https://open.spotify.com/track/14EvjEIycn85qYPwRLekr5) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW), [IGWE](https://open.spotify.com/artist/2VFULDBfmhd8oBrCNJ5WEG) | [Meto](https://open.spotify.com/album/5rFO9ALAdQq8wDFhdNdgS6) | 4:10 | 2022-06-30 | 2023-02-04 |
 | [Mighty God \- Live At Kairos Night](https://open.spotify.com/track/5ZkJihnxkWNFJA6l7NCpQt) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Mighty God \(Live At Kairos Night\)](https://open.spotify.com/album/4em67UPd4Q701rGceqOClt) | 7:04 | 2023-03-24 | 2023-05-03 |
@@ -325,6 +325,7 @@
 | [Scandal Of Grace \- Live At Red Rocks](https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Zion \(X\)](https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV) | 4:16 | 2023-10-06 | 2023-12-06 |
 | [Seasons \- Live At Sound Emporium](https://open.spotify.com/track/62IddVSKvP0DytPSzfm9Xp) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Songs You Maybe Didn't Know I Wrote And Some You Maybe Did \(Live At Sound Emporium\)](https://open.spotify.com/album/6zkm3hMUBGWTigktv1U4PK) | 4:42 | 2023-09-08 | 2023-09-21 |
 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-12 | 2023-08-14 |
+| [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 |  |
 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 | 2023-12-15 | 2024-09-20 |
 | [Shine](https://open.spotify.com/track/4wDlHsa0h7kg42T94CWmU2) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Shine](https://open.spotify.com/album/3s9EGrEnTKHlBS24KT2M6K) | 3:14 | 2022-09-30 | 2023-05-11 |
 | [Show Dem](https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc) | [Paul Chisom](https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Show Dem](https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD) | 3:26 | 2022-10-21 | 2023-01-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,495 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,517 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,20 +81,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 71 | [夜のままで](https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 1:56 |
 | 72 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 |
 | 73 | [サンサーラ](https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [リョウメンシダ／サンサーラ](https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J) | 5:31 |
-| 74 | [Quarantine Mood](https://open.spotify.com/track/0NZ2L0uKmzVAwgxWvwaPpw) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 2:08 |
-| 75 | [つぐみ](https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [THUNDERBIRD](https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg) | 3:58 |
+| 74 | [つぐみ](https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [THUNDERBIRD](https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg) | 3:58 |
+| 75 | [Quarantine Mood](https://open.spotify.com/track/0NZ2L0uKmzVAwgxWvwaPpw) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 2:08 |
 | 76 | [希望のうた](https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [沈黙の恋人](https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo) | 4:05 |
-| 77 | [真夜中のメロディ](https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [真夜中のメロディ](https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh) | 4:26 |
-| 78 | [パレード](https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [Ninh Binh Brother's Homestay](https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra) | 3:48 |
+| 77 | [パレード](https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [Ninh Binh Brother's Homestay](https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra) | 3:48 |
+| 78 | [真夜中のメロディ](https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [真夜中のメロディ](https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh) | 4:26 |
 | 79 | [ねむるのまち～Tidur Tidur～](https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [帰ってから、歌いたくなってもいいようにと思ったのだ。](https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG) | 5:10 |
 | 80 | [meringue doll](https://open.spotify.com/track/0TI6v1v6rug9gsNRomupef) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/4jyPxyOpypXQtgHYEpE6D1) | 4:13 |
-| 81 | [窓](https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 4:47 |
+| 81 | [Mellow](https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 4:00 |
 | 82 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 |
 | 83 | [Soup](https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Soup](https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX) | 3:30 |
 | 84 | [たとえ・ばさ](https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Double Rift](https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y) | 4:15 |
 | 85 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 |
 | 86 | [あなたがどこかで](https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK) | [Anzen Chitai](https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC) | [あなたがどこかで](https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF) | 4:40 |
-| 87 | [Mellow](https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 4:00 |
+| 87 | [窓](https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 4:47 |
 | 88 | [雪解](https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9) | [湊大瀬](https://open.spotify.com/artist/0gbV5LrMApRAILxgr3gfFB), [カリスマ](https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM) | [雪解](https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5) | 4:10 |
 | 89 | [Tokyo Family Restaurant](https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Freeway](https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u) | 3:50 |
 | 90 | [reiji no machi](https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [イノウエワラビ](https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44) | [Night Flow](https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24) | 4:09 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 96 | [moonlight](https://open.spotify.com/track/6XFHr2ZCgyndx3LO47kEyL) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [moonlight](https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7) | 3:19 |
 | 97 | [眠れぬ羊 \- with TENDRE](https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 3:53 |
 | 98 | [焦がれNight](https://open.spotify.com/track/4tcU2rCJGCERolNoWf1EGG) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [焦がれNight](https://open.spotify.com/album/5KrrC445nlotY96Ifz3gA2) | 3:55 |
-| 99 | [帰りたくなったよ](https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [帰りたくなったよ](https://open.spotify.com/album/0fNR4AYbU7lZ6m4LrQobu6) | 5:17 |
-| 100 | [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 |
+| 99 | [天国にいちばん近い島](https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [音楽と私](https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0) | 6:32 |
+| 100 | [帰りたくなったよ](https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [帰りたくなったよ](https://open.spotify.com/album/0fNR4AYbU7lZ6m4LrQobu6) | 5:17 |
 
 Snapshot ID: `ZvZA2AAAAAAFJ7LURXl5lpmYXZS1o4oB`

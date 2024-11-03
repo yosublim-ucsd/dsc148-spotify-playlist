@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > MC Tuto, DJ Glenner e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,392,230 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,393,149 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 24 | [Crack com Mussilon](https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 2:34 |
 | 25 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
 | 26 | [CLONE \- Ao Vivo](https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [CLONE \(Ao Vivo\)](https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s) | 2:44 |
-| 27 | [Haverá Sinais \- Ao Vivo](https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Haverá Sinais \(Ao Vivo\)](https://open.spotify.com/album/15GThOcgtXImBrv3PmlOm6) | 3:10 |
+| 27 | [Haverá Sinais \- Ao Vivo](https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Haverá Sinais \(Ao Vivo\)](https://open.spotify.com/album/15GThOcgtXImBrv3PmlOm6) | 3:11 |
 | 28 | [Afrodite](https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Afrodite](https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT) | 3:21 |
 | 29 | [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 |
 | 30 | [Apaguei Pra Todos \- Ao Vivo](https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 3:18 |

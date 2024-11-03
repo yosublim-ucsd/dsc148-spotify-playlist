@@ -6,8 +6,32 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAAOsl2FFnZvBBtJEyGMI7xu",
+  "snapshot_id": "ZyQaAAAAAAAkm8FVirW5VCuegHfi4EUb",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "For My Head",
+        "url": "https://open.spotify.com/album/2KWphjOXkBBrKcMA7YDHht"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        },
+        {
+          "name": "D Jay",
+          "url": "https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs"
+        }
+      ],
+      "duration_ms": 160012,
+      "name": "For My Head",
+      "url": "https://open.spotify.com/track/2MctqofDb7O3NA0gpsAu3U"
+    },
     {
       "added_at": null,
       "album": {
@@ -503,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dame Un Break (Remix)",
         "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
       },
@@ -523,26 +567,6 @@
       "duration_ms": 262219,
       "name": "Dame Un Break - Remix",
       "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dpos D' Quarentena",
-        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 167875,
-      "name": "Tellin Me Something",
-      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
     },
     {
       "added_at": null,
@@ -735,18 +759,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+        "name": "Sekkle & Bop",
+        "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
       },
       "artists": [
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Dre Skull",
+          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 149387,
-      "name": "Panadol",
-      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
+      "duration_ms": 156327,
+      "name": "Sekkle & Bop (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
     },
     {
       "added_at": null,
@@ -775,26 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sekkle & Bop",
-        "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
       "artists": [
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Dre Skull",
-          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 156327,
-      "name": "Sekkle & Bop (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
+      "duration_ms": 149387,
+      "name": "Panadol",
+      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
     },
     {
       "added_at": null,
@@ -843,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Business",
-      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Waiting",
         "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
@@ -887,6 +891,26 @@
       "duration_ms": 150702,
       "name": "Call Waiting",
       "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
     },
     {
       "added_at": null,
@@ -1023,26 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sample You (Remix)",
-        "url": "https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 213812,
-      "name": "Sample You - Remix",
-      "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh My Gawd",
         "url": "https://open.spotify.com/album/5P5MvJc13ZQcxfMzyk60d0"
       },
@@ -1067,6 +1071,26 @@
       "duration_ms": 180000,
       "name": "Oh My Gawd",
       "url": "https://open.spotify.com/track/2YPt00iweeNvS9qDu0X48d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sample You (Remix)",
+        "url": "https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 213812,
+      "name": "Sample You - Remix",
+      "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
     },
     {
       "added_at": null,

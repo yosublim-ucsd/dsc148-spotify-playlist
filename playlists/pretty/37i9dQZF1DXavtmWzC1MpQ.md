@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,486 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,541 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 44 | [Zen Nature Sounds](https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj) | [The Rainforest Collective](https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:45 |
 | 45 | [Birds by the Stream](https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ) | [Nature Recordings](https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv) | [2017 Relaxing Outdoor Soundscapes](https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l) | 3:29 |
 | 46 | [Power and Meditation](https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:59 |
-| 47 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
+| 47 | [Light Forest Rain 1](https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
 | 48 | [Happy Happy Birds](https://open.spotify.com/track/1DiHtwsWDVvaT2UaBu3IEY) | [WeatherBug](https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB) | [Happy Birds](https://open.spotify.com/album/0uVgQ8CdK3P98VGpUdLjuw) | 2:49 |
 | 49 | [Peaceful Brook](https://open.spotify.com/track/45hVq0jzUJuTBh9f35X2f3) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [Woodland Waters](https://open.spotify.com/album/0bN5MziXZPs1UJC1bP552y) | 2:07 |
 | 50 | [Forest of Calamity](https://open.spotify.com/track/1ZOWaxy3FBZd10a2YTqIYD) | [FX Makers](https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:05 |

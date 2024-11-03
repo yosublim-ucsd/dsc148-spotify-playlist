@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74990,
+  "num_followers": 74999,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Love Is an Open Road",
-        "url": "https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8"
-      },
-      "artists": [
-        {
-          "name": "Israel Cannan",
-          "url": "https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Love Is an Open Road",
-      "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Carry You With Me",
         "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 258053,
       "name": "Carry You With Me",
       "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Love Is an Open Road",
+        "url": "https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8"
+      },
+      "artists": [
+        {
+          "name": "Israel Cannan",
+          "url": "https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Love Is an Open Road",
+      "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL"
+      },
+      "artists": [
+        {
+          "name": "Miller Roberts",
+          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Still Care (feat. NASAYA)",
         "url": "https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 198000,
       "name": "Still Care (feat. NASAYA)",
       "url": "https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL"
-      },
-      "artists": [
-        {
-          "name": "Miller Roberts",
-          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Daily Meditation",
-        "url": "https://open.spotify.com/album/6CLEp590QRESqKivoUH0No"
-      },
-      "artists": [
-        {
-          "name": "Aodhan",
-          "url": "https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB"
-        }
-      ],
-      "duration_ms": 196999,
-      "name": "Daily Meditation",
-      "url": "https://open.spotify.com/track/26UbiSPrYB2AjeAPQbNhqc"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "By Way of the Sea",
         "url": "https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 259250,
       "name": "By Way of the Sea",
       "url": "https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Daily Meditation",
+        "url": "https://open.spotify.com/album/6CLEp590QRESqKivoUH0No"
+      },
+      "artists": [
+        {
+          "name": "Aodhan",
+          "url": "https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB"
+        }
+      ],
+      "duration_ms": 196999,
+      "name": "Daily Meditation",
+      "url": "https://open.spotify.com/track/26UbiSPrYB2AjeAPQbNhqc"
     },
     {
       "added_at": "2023-11-30 13:00:00",

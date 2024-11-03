@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1588079,
+  "num_followers": 1588594,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAAN3G7JodB7i4KSEb8CA8kQ",
+  "snapshot_id": "ZyQaAAAAAABTRLUgdM7ajtAGKOKAIZns",
   "tracks": [
     {
       "added_at": null,
@@ -306,11 +306,15 @@
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 168684,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj"
+      "duration_ms": 205484,
+      "name": "Come & Go (with Marshmello)",
+      "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
     },
     {
       "added_at": null,
@@ -378,15 +382,11 @@
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 205484,
-      "name": "Come & Go (with Marshmello)",
-      "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
+      "duration_ms": 168684,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pre-Party",
-        "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Lightyears (with Young Thug)",
-      "url": "https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
         "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
       },
@@ -903,6 +883,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Pre-Party",
+        "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Lightyears (with Young Thug)",
+      "url": "https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 174729,
       "name": "Blastoff (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2EL58P9iKGM5L2sO203i5y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
     },
     {
       "added_at": null,
@@ -979,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 187211,
+      "name": "From My Window",
+      "url": "https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11th Dimension",
         "url": "https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 135384,
       "name": "Wake Up! (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3pXexc6FHcfGTivRK0jKet"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 187211,
-      "name": "From My Window",
-      "url": "https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz"
     },
     {
       "added_at": null,

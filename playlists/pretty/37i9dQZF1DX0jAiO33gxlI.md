@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Sotam
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,788 likes - 86 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,801 likes - 86 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 24 | [Ninguém](https://open.spotify.com/track/2tZ2zeZc7VvCk8xibeGpaO) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Ninguém](https://open.spotify.com/album/5TIr5jF01MCQ3bPSVYEjJC) | 2:52 |
 | 25 | [Cacos de Vidro](https://open.spotify.com/track/2LTUdElLVDb3RU88Lhcb0L) | [eutazz](https://open.spotify.com/artist/4tmo1mL6hixMti6eVchWxJ), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Cacos de Vidro](https://open.spotify.com/album/0APlg9S68mwnsyd8seTyQw) | 2:42 |
 | 26 | [Tudo de Novo](https://open.spotify.com/track/6vQIoINz0yzZoGCbC2NE5p) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Versos e Voos](https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ) | 2:34 |
-| 27 | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |
+| 27 | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |
 | 28 | [Rosé](https://open.spotify.com/track/2hvX6b4oIUQSuuf5lHqimJ) | [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Rosé](https://open.spotify.com/album/1vgzcyX3PulTErLuIckQcS) | 3:11 |
 | 29 | [Balas do Meu Bairro](https://open.spotify.com/track/1q2u58F58Jclr58j3iR1xp) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:00 |
 | 30 | [Migalhas, Milagres e Macetes](https://open.spotify.com/track/1cmXgfHAR7wZr4nSunEsSV) | [NEKTRASH](https://open.spotify.com/artist/4jxiBeFywrrmqV7cpC9EWP), [Kyle Fortes](https://open.spotify.com/artist/6dNbjGxPkhGLjBNNJLlulK), [lucasbin](https://open.spotify.com/artist/7KYrffinPH0x6rrRIqIBid) | [Migalhas, Milagres e Macetes](https://open.spotify.com/album/01WuzsUeAwMWoHh9WhS4rM) | 2:36 |

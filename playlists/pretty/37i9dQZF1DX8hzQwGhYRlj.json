@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 37172,
+  "num_followers": 37173,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Peer Gynt - Incidental Music & Norwegian Dances & Bridal Procession",
+        "url": "https://open.spotify.com/album/0u3QOU6FAWAzk4aQmRCukW"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Yuri Temirkanov",
+          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Bridal Procession, Op. 19 No. 2",
+      "url": "https://open.spotify.com/track/7AVgubLuUooJKWGJR9JuZW"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Franck, Grieg, Dvorak: Sonatas for violin & piano",
         "url": "https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 71773,
       "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
       "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Peer Gynt - Incidental Music & Norwegian Dances & Bridal Procession",
-        "url": "https://open.spotify.com/album/0u3QOU6FAWAzk4aQmRCukW"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Yuri Temirkanov",
-          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Bridal Procession, Op. 19 No. 2",
-      "url": "https://open.spotify.com/track/7AVgubLuUooJKWGJR9JuZW"
     },
     {
       "added_at": "2022-09-30 04:01:00",

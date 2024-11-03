@@ -5683,6 +5683,24 @@
     },
     {
       "album": {
+        "name": "The Life",
+        "url": "https://open.spotify.com/album/0P7elKGRg3sqrIoxF5gHqw"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146873,
+      "name": "The Life",
+      "url": "https://open.spotify.com/track/6v2NgEbmGFOulY74emLe6u"
+    },
+    {
+      "album": {
         "name": "The Meetings of the Waters",
         "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
       },
@@ -6812,7 +6830,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 168774,
       "name": "Worst Day - Stripped Version",
       "url": "https://open.spotify.com/track/7dWVYMBp1sAECRjWKh3ySp"

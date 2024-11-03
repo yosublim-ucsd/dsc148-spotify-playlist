@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB?si=DX1AnrFkTBGcGqexVR3FhQ>KobbySalm</a>",
-  "num_followers": 11354,
+  "num_followers": 11363,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "You Are Big",
-        "url": "https://open.spotify.com/album/7IuHbchUxKM8jXuwV9D3sX"
-      },
-      "artists": [
-        {
-          "name": "Joshua Adedeji",
-          "url": "https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh"
-        }
-      ],
-      "duration_ms": 380500,
-      "name": "You Are Big",
-      "url": "https://open.spotify.com/track/67b6GI1kkVALLH5O5IWQb7"
-    },
-    {
       "added_at": "2024-08-16 00:01:00",
       "album": {
         "name": "Evidence",
@@ -311,6 +295,38 @@
       "duration_ms": 208887,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO"
+    },
+    {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "You Are Big",
+        "url": "https://open.spotify.com/album/7IuHbchUxKM8jXuwV9D3sX"
+      },
+      "artists": [
+        {
+          "name": "Joshua Adedeji",
+          "url": "https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh"
+        }
+      ],
+      "duration_ms": 380500,
+      "name": "You Are Big",
+      "url": "https://open.spotify.com/track/67b6GI1kkVALLH5O5IWQb7"
+    },
+    {
+      "added_at": "2024-10-11 00:01:00",
+      "album": {
+        "name": "We Move",
+        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 287831,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -333,20 +349,24 @@
       "url": "https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW"
     },
     {
-      "added_at": "2024-10-11 00:01:00",
+      "added_at": "2024-10-25 00:01:00",
       "album": {
-        "name": "We Move",
-        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
+        "name": "Shekinah",
+        "url": "https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 287831,
-      "name": "We Move",
-      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
+      "duration_ms": 420025,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
     },
     {
       "added_at": "2024-10-11 00:01:00",
@@ -369,26 +389,6 @@
       "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "Shekinah",
-        "url": "https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj"
-      },
-      "artists": [
-        {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 420025,
-      "name": "Shekinah",
-      "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
-    },
-    {
       "added_at": "2024-02-02 00:01:00",
       "album": {
         "name": "Emperor of the Universe",
@@ -409,26 +409,6 @@
       "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
     },
     {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 170118,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
-    },
-    {
       "added_at": "2024-08-30 00:01:00",
       "album": {
         "name": "Yes Sir",
@@ -447,6 +427,26 @@
       "duration_ms": 288280,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 170118,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
       "added_at": "2024-09-06 00:01:00",
@@ -509,24 +509,20 @@
       "url": "https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
+      "added_at": "2024-10-18 00:01:00",
       "album": {
-        "name": "Good God II",
-        "url": "https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm"
+        "name": "tethered",
+        "url": "https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
         }
       ],
-      "duration_ms": 181710,
-      "name": "Good God II",
-      "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
+      "duration_ms": 225009,
+      "name": "tethered",
+      "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -549,20 +545,24 @@
       "url": "https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw"
     },
     {
-      "added_at": "2024-10-18 00:01:00",
+      "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "tethered",
-        "url": "https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA"
+        "name": "Good God II",
+        "url": "https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm"
       },
       "artists": [
         {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 225009,
-      "name": "tethered",
-      "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
+      "duration_ms": 181710,
+      "name": "Good God II",
+      "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
     },
     {
       "added_at": "2024-08-30 00:01:00",
@@ -621,6 +621,42 @@
       "url": "https://open.spotify.com/track/6p2JFd5je1ulXf2xE9Zmft"
     },
     {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "The Doing of the Lord",
+        "url": "https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 286880,
+      "name": "The Doing of the Lord",
+      "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Na God I Dey Praise (Craze)",
+        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        }
+      ],
+      "duration_ms": 218644,
+      "name": "Na God I Dey Praise (Craze)",
+      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
+    },
+    {
       "added_at": "2024-06-07 00:01:00",
       "album": {
         "name": "Freedom",
@@ -645,26 +681,6 @@
       "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "The Doing of the Lord",
-        "url": "https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 286880,
-      "name": "The Doing of the Lord",
-      "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
-    },
-    {
       "added_at": "2024-05-24 00:01:00",
       "album": {
         "name": "Agb\u00e1ra \u1eccl\u1ecd\u0301run P\u1ecd\u0300 (Live)",
@@ -683,22 +699,6 @@
       "duration_ms": 376048,
       "name": "Agb\u00e1ra \u1eccl\u1ecd\u0301run P\u1ecd\u0300 (Live)",
       "url": "https://open.spotify.com/track/6RatjnXFpxZJUIm4GJh124"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Na God I Dey Praise (Craze)",
-        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
-      },
-      "artists": [
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
-        }
-      ],
-      "duration_ms": 218644,
-      "name": "Na God I Dey Praise (Craze)",
-      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -901,6 +901,22 @@
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
     },
     {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "God Is",
+        "url": "https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "duration_ms": 185999,
+      "name": "God Is",
+      "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
+    },
+    {
       "added_at": "2024-09-06 00:01:00",
       "album": {
         "name": "Hold On",
@@ -915,22 +931,6 @@
       "duration_ms": 165510,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7"
-    },
-    {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/642utidvaV4fu1rlI1FdPP"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 350250,
-      "name": "All I Have",
-      "url": "https://open.spotify.com/track/6sTaaBeDm3lc2yhxOQy81C"
     },
     {
       "added_at": "2024-01-26 00:01:00",

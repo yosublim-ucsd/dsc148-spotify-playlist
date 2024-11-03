@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 209175,
+  "num_followers": 209223,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAAAIifBHPV0R+IWSeZWtq2Uk",
+  "snapshot_id": "ZyQaAAAAAACMT2PhET44NAgFbQuSJogZ",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catch Fire",
+        "url": "https://open.spotify.com/album/6VPisLb36V8VxxQhs0RyDH"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 119466,
+      "name": "Catch Fire",
+      "url": "https://open.spotify.com/track/0ZXdhjDOM6LPrmUjUlRYJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Flockin'",
         "url": "https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU"
       },
@@ -39,6 +55,30 @@
       "duration_ms": 165290,
       "name": "No Flockin'",
       "url": "https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evil Genius",
+        "url": "https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 203161,
+      "name": "Wake Up in the Sky",
+      "url": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud"
     },
     {
       "added_at": null,
@@ -67,30 +107,6 @@
       "duration_ms": 163155,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evil Genius",
-        "url": "https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 203161,
-      "name": "Wake Up in the Sky",
-      "url": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud"
     },
     {
       "added_at": null,
@@ -287,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Love & War",
+      "url": "https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -319,22 +351,6 @@
       "duration_ms": 176091,
       "name": "Institution",
       "url": "https://open.spotify.com/track/2G6PeWL4JanUge47LNdFtJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back For Everything",
-        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Love & War",
-      "url": "https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt"
     },
     {
       "added_at": null,
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 196672,
-      "name": "Don't Wanna Breathe",
-      "url": "https://open.spotify.com/track/567CrVjCl2p3qmZqMKfOD9"
+      "duration_ms": 150979,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
       "duration_ms": 165765,
       "name": "Lemme See",
       "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skrt",
-        "url": "https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 224864,
-      "name": "Skrt",
-      "url": "https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skrt",
+        "url": "https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 224864,
+      "name": "Skrt",
+      "url": "https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Project Baby 2: All Grown Up",
         "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
       },
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 150979,
-      "name": "Unexplainable",
-      "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
+      "duration_ms": 196672,
+      "name": "Don't Wanna Breathe",
+      "url": "https://open.spotify.com/track/567CrVjCl2p3qmZqMKfOD9"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk/Spin",
-        "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 166039,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
@@ -743,26 +743,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
-        "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
+        "name": "Walk/Spin",
+        "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 166039,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hit Bout It",
+        "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 155495,
-      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
-      "url": "https://open.spotify.com/track/231JL1zyH8JlEvYkCymu1K"
+      "duration_ms": 177158,
+      "name": "Hit Bout It",
+      "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
     },
     {
       "added_at": null,
@@ -795,22 +807,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hit Bout It",
-        "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
+        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+        "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 177158,
-      "name": "Hit Bout It",
-      "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
+      "duration_ms": 155495,
+      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+      "url": "https://open.spotify.com/track/231JL1zyH8JlEvYkCymu1K"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73016,
+  "num_followers": 73021,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-10-28 01:00:00",
       "album": {
-        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
-        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 198777,
-      "name": "Candle In The Wind - 2018 Version",
-      "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
-    },
-    {
-      "added_at": "2024-10-28 01:00:00",
-      "album": {
         "name": "rainbow",
         "url": "https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 202835,
       "name": "rainbow",
       "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
+    },
+    {
+      "added_at": "2024-10-28 01:00:00",
+      "album": {
+        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
+        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 198777,
+      "name": "Candle In The Wind - 2018 Version",
+      "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
     },
     {
       "added_at": "2024-10-28 01:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-10-28 01:00:00",
       "album": {
-        "name": "WILD CHILD",
-        "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 133106,
-      "name": "I Don't Wanna Go Downtown",
-      "url": "https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU"
-    },
-    {
-      "added_at": "2024-10-28 01:00:00",
-      "album": {
         "name": "No Fun / Lucky for You",
         "url": "https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 211500,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ"
+    },
+    {
+      "added_at": "2024-10-28 01:00:00",
+      "album": {
+        "name": "WILD CHILD",
+        "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 133106,
+      "name": "I Don't Wanna Go Downtown",
+      "url": "https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU"
     },
     {
       "added_at": "2024-10-28 01:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-10-28 01:00:00",
       "album": {
-        "name": "M\u00e9lancolie",
-        "url": "https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 162286,
-      "name": "M\u00e9lancolie",
-      "url": "https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t"
-    },
-    {
-      "added_at": "2024-10-28 01:00:00",
-      "album": {
         "name": "loml",
         "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
+      "added_at": "2024-10-28 01:00:00",
+      "album": {
+        "name": "M\u00e9lancolie",
+        "url": "https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 162286,
+      "name": "M\u00e9lancolie",
+      "url": "https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t"
     },
     {
       "added_at": "2024-10-28 01:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-10-28 01:00:00",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
-      },
-      "artists": [
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 206100,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
-    },
-    {
-      "added_at": "2024-10-28 01:00:00",
-      "album": {
         "name": "We Were Here",
         "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 203773,
       "name": "Winter",
       "url": "https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M"
+    },
+    {
+      "added_at": "2024-10-28 01:00:00",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 206100,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
     },
     {
       "added_at": "2024-10-28 01:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-10-28 01:00:00",
       "album": {
-        "name": "Mood (Acoustic)",
-        "url": "https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 175517,
-      "name": "Mood - Acoustic",
-      "url": "https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr"
-    },
-    {
-      "added_at": "2024-10-28 01:00:00",
-      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2024-10-28 01:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/539iarhmTZTyjeyxPQPJeL"
+        "name": "Mood (Acoustic)",
+        "url": "https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc"
       },
       "artists": [
         {
-          "name": "Maximillian",
-          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 199433,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0qwyIfFh15V40SrPqiYcgW"
+      "duration_ms": 175517,
+      "name": "Mood - Acoustic",
+      "url": "https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr"
     },
     {
       "added_at": "2024-10-28 01:00:00",
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2024-10-28 01:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/539iarhmTZTyjeyxPQPJeL"
       },
       "artists": [
         {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
         }
       ],
-      "duration_ms": 154920,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
+      "duration_ms": 199433,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0qwyIfFh15V40SrPqiYcgW"
     },
     {
       "added_at": "2024-10-28 01:00:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 326493,
       "name": "Julep",
       "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
+    },
+    {
+      "added_at": "2024-10-28 01:00:00",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
     },
     {
       "added_at": "2024-10-28 01:00:00",

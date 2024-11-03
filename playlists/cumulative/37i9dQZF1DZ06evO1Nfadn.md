@@ -4,7 +4,7 @@
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-121 songs - 5 hr 48 min
+122 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Piel Canela](https://open.spotify.com/track/5Xl9nJxXWfeFDmF4qdZ6un) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Colección](https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD) | 2:33 | 2022-06-09 | 2022-08-21 |
 | [Popurrí Cumbias](https://open.spotify.com/track/05xTV0QyQyV87C9UNq9vuP) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Que Se Apague el Sol](https://open.spotify.com/album/2FfHFcmKb9jRKs6usSJGob) | 5:34 | 2022-07-04 | 2022-08-16 |
 | [Popurrí Quebraditas: Tumbando Caña / Como la Luna / Eva María \- 30 Aniversario](https://open.spotify.com/track/54YlyNUYMtrQzzU0vQyK60) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Popurrí Quebraditas: Tumbando Caña / Como la Luna / Eva María \(30 Aniversario\)](https://open.spotify.com/album/4NpEVKlOcYVwkVZsCEgoJE) | 5:21 | 2024-03-17 |  |
+| [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \- 30 Aniversario En Vivo](https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \(30 Aniversario En Vivo\)](https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl) | 3:35 | 2024-11-03 |  |
 | [Por Una Lágrima](https://open.spotify.com/track/5XtoPh8NZ8L309wg60p1RE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 2:38 | 2022-06-05 | 2022-09-23 |
 | [Por una Lágrima](https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:38 | 2023-10-10 |  |
 | [Por Una Mujer Bonita](https://open.spotify.com/track/4r22bG0xvwQ1VQtnmFrZpJ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Me Recordaras](https://open.spotify.com/album/5Q1NInyNiy2h5OaQYDOFgJ) | 2:56 | 2024-01-26 | 2024-02-19 |

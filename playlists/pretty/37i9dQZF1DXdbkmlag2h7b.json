@@ -1,6 +1,6 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 640439,
+  "num_followers": 640508,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "From Another View",
-        "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
-      },
-      "artists": [
-        {
-          "name": "Salvation Hildersham",
-          "url": "https://open.spotify.com/artist/2jb9AEBAA0ZagaymcZsLiN"
-        }
-      ],
-      "duration_ms": 178636,
-      "name": "From Another View",
-      "url": "https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Yalmi",
         "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 143529,
       "name": "Yalmi",
       "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "From Another View",
+        "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
+      },
+      "artists": [
+        {
+          "name": "Salvation Hildersham",
+          "url": "https://open.spotify.com/artist/2jb9AEBAA0ZagaymcZsLiN"
+        }
+      ],
+      "duration_ms": 178636,
+      "name": "From Another View",
+      "url": "https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Quiet Motions",
-        "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
-      },
-      "artists": [
-        {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Quiet Motions",
-      "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 226833,
       "name": "Gleam",
       "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Quiet Motions",
+        "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
+      },
+      "artists": [
+        {
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Quiet Motions",
+      "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Sandscape",
-        "url": "https://open.spotify.com/album/2fzrBCqCuqBPOuAz7aTCga"
-      },
-      "artists": [
-        {
-          "name": "Sophie Emitt",
-          "url": "https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN"
-        }
-      ],
-      "duration_ms": 168136,
-      "name": "Sandscape",
-      "url": "https://open.spotify.com/track/6xn4Pek9Jvj8wmKli2S7fi"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 195306,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Sandscape",
+        "url": "https://open.spotify.com/album/2fzrBCqCuqBPOuAz7aTCga"
+      },
+      "artists": [
+        {
+          "name": "Sophie Emitt",
+          "url": "https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN"
+        }
+      ],
+      "duration_ms": 168136,
+      "name": "Sandscape",
+      "url": "https://open.spotify.com/track/6xn4Pek9Jvj8wmKli2S7fi"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Porto Fino",
-        "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
-        }
-      ],
-      "duration_ms": 247963,
-      "name": "Porto Fino",
-      "url": "https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Sweven",
         "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 193500,
       "name": "Sweven",
       "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Porto Fino",
+        "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "duration_ms": 247963,
+      "name": "Porto Fino",
+      "url": "https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
+        "name": "Prevision",
+        "url": "https://open.spotify.com/album/7xkou16CqQKZCHamqP2idQ"
+      },
+      "artists": [
+        {
+          "name": "Sadie Hume",
+          "url": "https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C"
+        }
+      ],
+      "duration_ms": 146785,
+      "name": "Prevision",
+      "url": "https://open.spotify.com/track/4TVExjDdlGMDnGxyTpOISo"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
         "name": "Zeniah",
         "url": "https://open.spotify.com/album/1SW8apVUQyN4OnwmXWtWPR"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 162500,
       "name": "Hvis du bare vidste",
       "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
-        "name": "Prevision",
-        "url": "https://open.spotify.com/album/7xkou16CqQKZCHamqP2idQ"
-      },
-      "artists": [
-        {
-          "name": "Sadie Hume",
-          "url": "https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C"
-        }
-      ],
-      "duration_ms": 146785,
-      "name": "Prevision",
-      "url": "https://open.spotify.com/track/4TVExjDdlGMDnGxyTpOISo"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
+        "name": "Sketches",
+        "url": "https://open.spotify.com/album/0R8pifsvqOqjnc5wAE3fbN"
+      },
+      "artists": [
+        {
+          "name": "Arico Mist",
+          "url": "https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "Sketches",
+      "url": "https://open.spotify.com/track/5ytbuBtoL3hHrhyuS6ATww"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
-        "name": "The Light of Day",
-        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
-      },
-      "artists": [
-        {
-          "name": "Chymeris",
-          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "The Light of Day",
-      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
+        "name": "The Light of Day",
+        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
+      },
+      "artists": [
+        {
+          "name": "Chymeris",
+          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "The Light of Day",
+      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
         "name": "Whispers of the forest",
         "url": "https://open.spotify.com/album/2sTs78MEv2r4bz9uBhxsKH"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 179999,
       "name": "Whispers of the forest",
       "url": "https://open.spotify.com/track/1HQJzi7Ra2AaCxfPxPJaG8"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
-        "name": "Sketches",
-        "url": "https://open.spotify.com/album/0R8pifsvqOqjnc5wAE3fbN"
-      },
-      "artists": [
-        {
-          "name": "Arico Mist",
-          "url": "https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "Sketches",
-      "url": "https://open.spotify.com/track/5ytbuBtoL3hHrhyuS6ATww"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Dreams of Mercury",
-        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
-      },
-      "artists": [
-        {
-          "name": "Chim Suri",
-          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Dreams of Mercury",
-      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Open Sky",
         "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 267756,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Dreams of Mercury",
+        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Dreams of Mercury",
+      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Aion",
-        "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
-      },
-      "artists": [
-        {
-          "name": "Kolorascze",
-          "url": "https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ"
-        }
-      ],
-      "duration_ms": 124212,
-      "name": "Aion",
-      "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
-    },
-    {
-      "added_at": "2024-09-19 15:00:11",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 192309,
       "name": "Entirely",
       "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
+    },
+    {
+      "added_at": "2024-09-19 15:00:11",
+      "album": {
+        "name": "Aion",
+        "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
+      },
+      "artists": [
+        {
+          "name": "Kolorascze",
+          "url": "https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ"
+        }
+      ],
+      "duration_ms": 124212,
+      "name": "Aion",
+      "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
     },
     {
       "added_at": "2024-09-19 15:00:11",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-09-19 15:00:11",
       "album": {
-        "name": "Neend",
-        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
+        "name": "Lustrous",
+        "url": "https://open.spotify.com/album/1G6Xs1b0DXim2OmfamJTAh"
       },
       "artists": [
         {
-          "name": "Asanah",
-          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
+          "name": "Celyn Awstin",
+          "url": "https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk"
         }
       ],
-      "duration_ms": 157306,
-      "name": "Neend",
-      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
+      "duration_ms": 181610,
+      "name": "Lustrous",
+      "url": "https://open.spotify.com/track/76fvWeCGNWOpvnRxwaB0rw"
     }
   ],
   "unique_name": "DayDreamer",

@@ -973,6 +973,56 @@
     },
     {
       "album": {
+        "name": "Ask & Receive 2",
+        "url": "https://open.spotify.com/album/0FiwuAsxJG4I8SXjvIw4x5"
+      },
+      "artists": [
+        {
+          "name": "TNK MusiQ",
+          "url": "https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Seun1401",
+          "url": "https://open.spotify.com/artist/0CPfPl6Fy7ueqMoxjZjmYb"
+        },
+        {
+          "name": "The Exclusive SA",
+          "url": "https://open.spotify.com/artist/1YA6d3F7LilOsKSGYSB4Nm"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Kabelo Sings",
+          "url": "https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn"
+        },
+        {
+          "name": "Bontle Smith",
+          "url": "https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC"
+        },
+        {
+          "name": "2woshort",
+          "url": "https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825"
+        },
+        {
+          "name": "Stompiiey",
+          "url": "https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368577,
+      "name": "Abo Nokthula (feat. The Exclusive SA, Scotts Maphuma, Kabelo Sings, Bontle Smith, 2woshort & Stompiiey)",
+      "url": "https://open.spotify.com/track/4QFMdUKVMmKgH6masoIVNr"
+    },
+    {
+      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -1860,7 +1910,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 402896,
       "name": "Amabhoza",
       "url": "https://open.spotify.com/track/3Aw4XtR8BopVdvJ1dGnevM"
@@ -2366,7 +2416,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 463036,
       "name": "Amazwe (feat. Mawhoo)",
       "url": "https://open.spotify.com/track/2Oe52Ggx8lxxI55azZbr5h"
@@ -4062,7 +4112,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 245760,
       "name": "Bafana (feat. Ba Bethe Gashoazen)",
       "url": "https://open.spotify.com/track/5W6KyyrmTImJK4vGsnfQuZ"
@@ -4932,7 +4982,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -5114,7 +5164,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 230426,
       "name": "BELIEVER",
       "url": "https://open.spotify.com/track/4PEad5HAGdSPP21Pu5wJKQ"
@@ -5802,7 +5852,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 201666,
       "name": "BLESSED",
       "url": "https://open.spotify.com/track/0o4mDZfU8sIfHZDztKbFiF"
@@ -8758,10 +8808,32 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 282896,
       "name": "Crazy Business",
       "url": "https://open.spotify.com/track/3iPJiH6pesR8TxxBF3kLWl"
+    },
+    {
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/1n0MenqsCUjRHCmWrsXMFk"
+      },
+      "artists": [
+        {
+          "name": "UNLIMITED SOUL",
+          "url": "https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg"
+        },
+        {
+          "name": "Liam Hans",
+          "url": "https://open.spotify.com/artist/4jR4XKOEk1vimNn97Bw7vd"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282896,
+      "name": "Crazy Business",
+      "url": "https://open.spotify.com/track/5rvauXsN73jjmMMd38hvwj"
     },
     {
       "album": {
@@ -9454,7 +9526,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 253834,
       "name": "Darling, I (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
@@ -11376,7 +11448,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 407804,
       "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejayj & Al Xapo)",
       "url": "https://open.spotify.com/track/3E1PwVodPiDbBHOI85CO9M"
@@ -14326,7 +14398,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 145578,
       "name": "GET STRAIGHT TO IT",
       "url": "https://open.spotify.com/track/3asncdck9DIEhAwpmjOCGw"
@@ -14962,7 +15034,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 237082,
       "name": "GOOD TIME",
       "url": "https://open.spotify.com/track/6GBCsmCL9neu8Y6KoAkC5X"
@@ -16258,7 +16330,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 429479,
       "name": "Hleka nabo",
       "url": "https://open.spotify.com/track/4wZB5QFhGjwAHisMeSicPl"
@@ -18138,7 +18210,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 351200,
       "name": "Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush)",
       "url": "https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W"
@@ -22550,7 +22622,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 179200,
       "name": "LARRY BIRD",
       "url": "https://open.spotify.com/track/4xKwAxOvpymY0gDpX7gHfU"
@@ -23208,7 +23280,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 249093,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
@@ -23710,7 +23782,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 174857,
       "name": "LIL NIGGA",
       "url": "https://open.spotify.com/track/2azNqxBR8LKGx6VgHWyqeo"
@@ -27827,6 +27899,28 @@
     },
     {
       "album": {
+        "name": "Caiiro",
+        "url": "https://open.spotify.com/album/4cfFuaEI2426cLK0mCuXKQ"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220763,
+      "name": "Ndisize (Radio Edit)",
+      "url": "https://open.spotify.com/track/4QpVAEqq1gKIyUlEVLobAn"
+    },
+    {
+      "album": {
         "name": "Loliwe",
         "url": "https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0"
       },
@@ -30744,7 +30838,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 255428,
       "name": "PATIENCE (feat. Just G)",
       "url": "https://open.spotify.com/track/2YtPzGy91HArYvYMDAh6j9"
@@ -35100,7 +35194,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 551579,
       "name": "Selimathunzi",
       "url": "https://open.spotify.com/track/2HiHffF7XArCZDDn5VNUGM"
@@ -36638,7 +36732,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -38740,7 +38834,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -40434,7 +40528,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 351428,
       "name": "Thola Umuntu",
       "url": "https://open.spotify.com/track/1z9cFQp5CGOAsACK2IWzCG"
@@ -40760,7 +40854,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -42328,7 +42422,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 368699,
       "name": "Uhambe Wrongo (feat. Mr. Maker)",
       "url": "https://open.spotify.com/track/40zr1pQlSaIWUYyR8APyy2"
@@ -44390,7 +44484,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 285034,
       "name": "Wadibusa (feat. Royal MusiQ, OHP Sage, & Pcee)",
       "url": "https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI"
@@ -44478,7 +44572,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 195692,
       "name": "WAKE UP (feat. Nanette)",
       "url": "https://open.spotify.com/track/6EjV5DkMq1REXkPRKruNzO"

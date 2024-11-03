@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 60243,
+  "num_followers": 60251,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,18 @@
     {
       "added_at": "2024-08-19 01:00:00",
       "album": {
-        "name": "Nancy Wilson/Cannonball Adderley",
-        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 258106,
-      "name": "The Masquerade Is Over",
-      "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
     },
     {
       "added_at": "2024-08-19 01:00:00",
@@ -187,18 +183,22 @@
     {
       "added_at": "2024-08-19 01:00:00",
       "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+        "name": "Nancy Wilson/Cannonball Adderley",
+        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
+      "duration_ms": 258106,
+      "name": "The Masquerade Is Over",
+      "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
     },
     {
       "added_at": "2024-08-19 01:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-08-19 01:00:00",
       "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 158931,
-      "name": "A Hard Day\u00b4s Night (Bossa Version)",
-      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
-    },
-    {
-      "added_at": "2024-08-19 01:00:00",
-      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 343055,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
+    },
+    {
+      "added_at": "2024-08-19 01:00:00",
+      "album": {
+        "name": "Relaxing Bossa Lounge",
+        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
+      },
+      "artists": [
+        {
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+        }
+      ],
+      "duration_ms": 158931,
+      "name": "A Hard Day\u00b4s Night (Bossa Version)",
+      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
     },
     {
       "added_at": "2024-08-19 01:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-08-19 01:00:00",
       "album": {
-        "name": "Marshall (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
-      },
-      "artists": [
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "For the Love of Freedom",
-      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
-    },
-    {
-      "added_at": "2024-08-19 01:00:00",
-      "album": {
         "name": "Li'l Darlin",
         "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-08-19 01:00:00",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL"
+        "name": "Marshall (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
       },
       "artists": [
         {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
         }
       ],
-      "duration_ms": 257253,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2"
+      "duration_ms": 152106,
+      "name": "For the Love of Freedom",
+      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
     },
     {
       "added_at": "2024-08-19 01:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 265746,
       "name": "Like Someone in Love",
       "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
+    },
+    {
+      "added_at": "2024-08-19 01:00:00",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 257253,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2"
     },
     {
       "added_at": "2024-08-19 01:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-08-19 01:00:00",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
       },
       "artists": [
         {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+          "name": "Kevin Mahogany",
+          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
         }
       ],
-      "duration_ms": 357013,
-      "name": "What Are You Doing The Rest Of Your Life",
-      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
+      "duration_ms": 253283,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

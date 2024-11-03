@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-981 songs - 1 day 14 hr 2 min
+982 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -756,6 +756,7 @@
 | [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 | 2024-10-04 |  |
 | [Soakysun](https://open.spotify.com/track/4mY6CgDg0SU6YeqnQpNHQT) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Soakysun](https://open.spotify.com/album/6IYzaxjgbNHy5KftjruUE8) | 2:02 | 2022-04-15 | 2023-10-13 |
 | [Social Jazz](https://open.spotify.com/track/7GzdWuACBcAB9nmz0JJ4Pl) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Social Jazz](https://open.spotify.com/album/2FOY9O0VU5AEfvmEXQYbQT) | 2:01 | 2022-06-10 |  |
+| [Sofa](https://open.spotify.com/track/3XfRoxDC6XdkOVpOVwcSEj) | [Osoku](https://open.spotify.com/artist/7tGFPYtcRKqkiEYu9ryCcl) | [Sofa](https://open.spotify.com/album/39tSdGkvzwGkoUnKdg9Fno) | 2:25 | 2024-10-25 |  |
 | [SoFi](https://open.spotify.com/track/00ZXkrMBoVMBMXgVOz8nWX) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [SoFi](https://open.spotify.com/album/6XNEjT7GPdFp6QhgpJy4w6) | 2:11 | 2024-06-28 |  |
 | [Soft Lad](https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 4:26 | 2022-04-15 | 2022-09-03 |
 | [Soft Sunset](https://open.spotify.com/track/4zoTRhVK2M3az746QLPXWc) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Soft Sunset](https://open.spotify.com/album/14sTyMyKwCbggVKdixdX3K) | 2:05 | 2022-10-14 | 2023-09-22 |
@@ -869,7 +870,7 @@
 | [The Way](https://open.spotify.com/track/7op5NFvJzRLffdGkYzJpUX) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Sensei](https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq) | 2:19 | 2022-05-27 | 2024-08-13 |
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |
 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 | 2022-04-15 | 2022-05-20 |
-| [These people I met](https://open.spotify.com/track/6Uga4Lwrw4rPORjwytgVRn) | [plutones](https://open.spotify.com/artist/5F5aValve5LdJk3f9KBL5u) | [These people I met](https://open.spotify.com/album/6uCg5uHOd8gQDY3ino2Sgp) | 1:50 | 2024-09-13 |  |
+| [These people I met](https://open.spotify.com/track/6Uga4Lwrw4rPORjwytgVRn) | [plutones](https://open.spotify.com/artist/5F5aValve5LdJk3f9KBL5u) | [These people I met](https://open.spotify.com/album/6uCg5uHOd8gQDY3ino2Sgp) | 1:50 | 2024-09-13 | 2024-11-03 |
 | [this feels so right](https://open.spotify.com/track/4or5RFuku3G0P1ZOLGBTLt) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [this feels so right](https://open.spotify.com/album/2VyvMQUHPp3KIcIyiWbVjv) | 1:30 | 2022-04-15 | 2022-07-29 |
 | [Through The Garden](https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Through The Garden](https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC) | 2:06 | 2023-12-08 |  |
 | [Throwing Tomatoes](https://open.spotify.com/track/5YHwUWpLm8Ju2rYvSRV3Ir) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Not sure about this](https://open.spotify.com/album/1PsRH84FYg5KSvFupOsvCT) | 1:39 | 2022-11-11 | 2024-07-03 |

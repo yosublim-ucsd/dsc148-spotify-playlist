@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Thalia
 
-184 songs - 9 hr 56 min
+185 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Mis Deseos](https://open.spotify.com/track/1s3oRXdJVLMPvsqCZMOGxz) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 3:35 | 2021-12-15 | 2022-12-20 |
 | [Mix Navideño](https://open.spotify.com/track/59UYBKR8C6O8aW4bB34JzL) | [Maxi Brito](https://open.spotify.com/artist/1gAwItzJvuDNCkLBeksvqk), [E Negrito](https://open.spotify.com/artist/3cbXGLH5iFcHdxHjoetzuB), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Mix Navideño](https://open.spotify.com/album/4vrnz7ohoGvbtiBT8cYflV) | 3:19 | 2022-12-19 | 2023-09-03 |
 | [Más Allá \- Beyond](https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 5:22 | 2021-12-15 | 2022-12-20 |
+| [Nació la Luz](https://open.spotify.com/track/1U377FOgdZVOUftTD6UoWx) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Navidad Melancólica](https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV) | 3:17 | 2024-11-01 |  |
 | [Navidad Contigo](https://open.spotify.com/track/481jZRK94eCVslwavhdY8n) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Jean & Alex](https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V) | [Navidad Contigo](https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn) | 3:08 | 2022-12-19 |  |
 | [Navidad en América](https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX) | [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Navidad en America](https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH) | 7:58 | 2021-12-15 | 2022-12-20 |
 | [Navidad En Pr](https://open.spotify.com/track/13mE3Skl0hCb1oigQzobQl) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Navidad En Pr](https://open.spotify.com/album/7p7YqBXRbW5vEohzUDB6eq) | 4:11 | 2022-12-19 |  |
@@ -185,7 +186,7 @@
 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/0dpvn7oYZIBFXGaug3SbV8) | [Alvaro Torres](https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE) | [Los 3 Reyes Magos](https://open.spotify.com/album/3giDYIPFNlfwNFIi6Z8ZUq) | 4:03 | 2021-12-15 | 2022-12-20 |
 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/5TjdsAoTKwSilPZAOayIEW) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 3:45 | 2022-11-08 | 2022-12-20 |
 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/5ISMjtLXxtXa5mWRQDaZK6) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/album/4uastmbjHgxrGP65Gigd4y) | 3:26 | 2022-12-19 | 2023-12-09 |
-| [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/3FXsT2EtwJnWifXRDLbMEd) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx) | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/album/4wzE6Qzq86autFUu0wZ9QF) | 2:34 | 2023-12-20 |  |
+| [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/3FXsT2EtwJnWifXRDLbMEd) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx) | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/album/4wzE6Qzq86autFUu0wZ9QF) | 2:34 | 2023-12-20 | 2024-11-03 |
 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 | 2022-12-18 |  |
 | [Volvernos a Encontrar](https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Volvernos a Encontrar](https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1) | 3:06 | 2023-11-17 |  |
 | [We're the Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 | 2022-12-19 | 2023-11-21 |

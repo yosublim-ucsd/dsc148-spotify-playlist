@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,934 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,955 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 47 | [Deep In The Underground](https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Deep In The Underground](https://open.spotify.com/album/0LynK8y3LDFTTl5yVKWJBf) | 3:21 |
 | 48 | [Someone To Understand](https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Someone To Understand](https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR) | 2:35 |
 | 49 | [ART IS DEAD](https://open.spotify.com/track/1BqEjIqLV0Blq6UEaiAQto) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [ART IS DEAD](https://open.spotify.com/album/6K56ffr2aJQ4xSDwsnTM9O) | 3:34 |
-| 50 | [Shark Attack](https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Thunder In Paradise](https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF) | 2:39 |
-| 51 | [Dynamite](https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Dynamite](https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2) | 3:22 |
+| 50 | [Dynamite](https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Dynamite](https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2) | 3:22 |
+| 51 | [Shark Attack](https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Thunder In Paradise](https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF) | 2:39 |
 | 52 | [This Feeling](https://open.spotify.com/track/2H0eRy9vmts59596rouqUy) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt) | [This Feeling](https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns) | 3:08 |
 | 53 | [My Way](https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [My Way](https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep) | 3:15 |
 | 54 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 95 | [The Protest](https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Protest](https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5) | 3:11 |
 | 96 | [Adrenaline \- Never Surrender Remix](https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5) | [Neophyte Records All Stars](https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Adrenaline \(Never Surrender Remix\)](https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9) | 2:47 |
 | 97 | [The Oni Retribution](https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [The Oni Retribution](https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb) | 4:25 |
-| 98 | [Beastmode](https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Beastmode](https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY) | 4:01 |
-| 99 | [Mysteries of Creation](https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Mysteries of Creation](https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna) | 3:17 |
+| 98 | [Mysteries of Creation](https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Mysteries of Creation](https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna) | 3:17 |
+| 99 | [Beastmode](https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Beastmode](https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY) | 4:01 |
 | 100 | [Outta Here](https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Outta Here](https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw) | 2:18 |
 
 Snapshot ID: `ZwjQSwAAAAAzA4/FYnH7OPAi1hNzgS7R`

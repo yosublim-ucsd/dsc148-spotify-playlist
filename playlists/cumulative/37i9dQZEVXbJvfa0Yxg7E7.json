@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -3675,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "Big Steppa",
+        "url": "https://open.spotify.com/album/28xty25VaSYUpXBQwFKYEf"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136082,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/43MYhAw47PmHz31xY3mdrI"
+    },
+    {
+      "album": {
         "name": "MIKE IT SPEKTRUM",
         "url": "https://open.spotify.com/album/6nfpKR7onKsfAS53VFk5vq"
       },
@@ -3722,6 +3740,10 @@
         {
           "name": "Marstein",
           "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Kaja Gunnufsen",
+          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
         }
       ],
       "date_added": "2024-10-26",
@@ -3878,6 +3900,24 @@
       "duration_ms": 129130,
       "name": "Blendende Lys (Sprut)",
       "url": "https://open.spotify.com/track/12QUi7THQxSfpaULkKGt1x"
+    },
+    {
+      "album": {
+        "name": "Bless Meg",
+        "url": "https://open.spotify.com/album/37LSdJ7yCR1AbnOuID6fOq"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Bless Meg",
+      "url": "https://open.spotify.com/track/0bQ6SuPWpMSFXXP3yVlexZ"
     },
     {
       "album": {
@@ -6972,7 +7012,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 253834,
       "name": "Darling, I (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
@@ -8894,7 +8934,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 209253,
       "name": "EMMA",
       "url": "https://open.spotify.com/track/14EAtVRhkJOOIrb9be4MfS"
@@ -9828,6 +9868,24 @@
       "duration_ms": 200010,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+    },
+    {
+      "album": {
+        "name": "F*en Ikke Kjendis",
+        "url": "https://open.spotify.com/album/0vLvHYXg5iwwHmr8nX7Dnw"
+      },
+      "artists": [
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "F*en Ikke Kjendis",
+      "url": "https://open.spotify.com/track/36nFVYgHwi5J9DMkOl7dK6"
     },
     {
       "album": {
@@ -11705,6 +11763,32 @@
     },
     {
       "album": {
+        "name": "F\u00f8ler ikke no (Manowar)",
+        "url": "https://open.spotify.com/album/58VsUI02RdEPxEzM9m83Y8"
+      },
+      "artists": [
+        {
+          "name": "Kulturaften",
+          "url": "https://open.spotify.com/artist/7y4tvVGuB9WTDQwTj3ueu7"
+        },
+        {
+          "name": "DJ VLADI",
+          "url": "https://open.spotify.com/artist/7wRXf1DelGyBsmOj5hnOum"
+        },
+        {
+          "name": "KNEKT",
+          "url": "https://open.spotify.com/artist/4JgV7rrIlfSvZYnlAwOblk"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124602,
+      "name": "F\u00f8ler ikke no (Manowar)",
+      "url": "https://open.spotify.com/track/6KWdXxt0blEyiNuAzElZm2"
+    },
+    {
+      "album": {
         "name": "G63",
         "url": "https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5"
       },
@@ -12134,7 +12218,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
@@ -20076,7 +20160,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 148373,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU"
@@ -22902,7 +22986,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -24148,7 +24232,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 284363,
       "name": "Noid",
       "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
@@ -30926,7 +31010,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 125624,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
@@ -32264,6 +32348,28 @@
       "duration_ms": 187322,
       "name": "Syrener - Akustisk",
       "url": "https://open.spotify.com/track/5akx9H3PofiMGe2vVUFWqm"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
       "album": {
@@ -33744,7 +33850,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -33834,7 +33940,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 357800,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
@@ -35814,7 +35920,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 147428,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"

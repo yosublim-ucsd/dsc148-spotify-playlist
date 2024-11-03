@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: COBRAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,880 likes - 108 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,914 likes - 108 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

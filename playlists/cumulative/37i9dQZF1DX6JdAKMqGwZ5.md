@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Carlos Ares.
 
-232 songs - 12 hr 9 min
+234 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Acostumbrarme](https://open.spotify.com/track/38dLVGQiAwEXCHK69UVVbZ) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L), [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Acostumbrarme](https://open.spotify.com/album/5MyUQPlTNw14prHdnhRKaS) | 2:23 | 2024-06-27 |  |
 | [Adiós](https://open.spotify.com/track/2a5xxtnfyDsKBLosKJSaw2) | [Belize](https://open.spotify.com/artist/6Q4GR1xgJ5euecQK8cQPYm) | [Adiós](https://open.spotify.com/album/5NRpzktazsRUIOE67brguj) | 2:16 | 2024-10-17 |  |
 | [Ahora Qué](https://open.spotify.com/track/5dZ5xLXPB02NrOku9Vc0XP) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy) | [Ahora Qué](https://open.spotify.com/album/4at4PncnsDMz7UvjGX5sWo) | 3:07 | 2024-06-27 | 2024-07-27 |
-| [Ajedrez](https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [Ajedrez](https://open.spotify.com/album/6ig55uXsdJVqspmTyw2ibt) | 3:22 | 2024-08-08 |  |
+| [Ajedrez](https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [Ajedrez](https://open.spotify.com/album/6ig55uXsdJVqspmTyw2ibt) | 3:22 | 2024-08-08 | 2024-11-03 |
 | [Al Amanecer](https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Al Amanecer](https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy) | 3:11 | 2024-07-11 | 2024-10-25 |
 | [Al infierno](https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP) | [Embusteros](https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE) | [Al infierno](https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA) | 3:38 | 2024-06-27 |  |
 | [AL OTRO LADO](https://open.spotify.com/track/2VYGbSmszhkB0CKEZbVFNW) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [AL OTRO LADO](https://open.spotify.com/album/6AAmEXwhaKrKWwg4hDhpXF) | 2:28 | 2024-06-27 | 2024-10-18 |
@@ -152,6 +152,7 @@
 | [Mirarte](https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Mirarte](https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9) | 3:08 | 2024-06-27 |  |
 | [Mis Tías](https://open.spotify.com/track/0j9azcT9Rj85v2PKLulWfs) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Mis Tías](https://open.spotify.com/album/1yaPRCa4pcJpYHQzDTFtaD) | 2:38 | 2024-07-18 | 2024-08-09 |
 | [MonteViso](https://open.spotify.com/track/4BHIEJeMunK0SyugD0UxjE) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [MonteViso](https://open.spotify.com/album/7syDLWoTf6jFAynblMby7o) | 4:11 | 2024-09-05 |  |
+| [Morir en otra habitación](https://open.spotify.com/track/5edvbrdzSYTOunsFgog4xq) | [Wild Honey](https://open.spotify.com/artist/1RLwfTeuQPUkU6z1JQiE4P) | [Morir en otra habitación](https://open.spotify.com/album/37HCFcqoKad0SKBsnamidN) | 3:19 | 2024-10-31 |  |
 | [Nada Nuevo](https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [Las Huidas](https://open.spotify.com/album/2nj0oHnEEi5mS8GwX7TqwD) | 2:57 | 2024-10-31 |  |
 | [Nadie Sabe](https://open.spotify.com/track/07Zg8kkvdzJDhWZYpqgZAE) | [Ciutat](https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Nadie Sabe](https://open.spotify.com/album/3IoYLb8LhxNQj5fczxJx1w) | 4:12 | 2024-06-27 | 2024-07-12 |
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-08-22 | 2024-09-20 |
@@ -162,11 +163,12 @@
 | [No Puedo Más](https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [No Puedo Más](https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj) | 3:04 | 2024-07-11 | 2024-08-09 |
 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 | 2024-06-27 |  |
 | [NO SÉ DE AMOR](https://open.spotify.com/track/5fMbT4ZC13siVSsXOgyB38) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [NO SÉ DE AMOR](https://open.spotify.com/album/0qcLd65UI39uiOcjvEbNlb) | 3:04 | 2024-10-24 |  |
-| [No Te Voy a Besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No Te Voy a Besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 |  |
+| [No Te Voy a Besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No Te Voy a Besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 | 2024-11-03 |
 | [Nosoutros](https://open.spotify.com/track/2Hvgqy9Bxpa35gbLTCQeO8) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [Nosoutros](https://open.spotify.com/album/5uoOT70tJxcnNEwPhSJfXc) | 1:21 | 2024-09-19 | 2024-10-18 |
 | [Nuevo Romántico](https://open.spotify.com/track/7sGY0iN0BGFsm9u9eq4l8t) | [Malva](https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN) | [Contenido Sensible](https://open.spotify.com/album/09buxH0N6CQsRZmB5asZhm) | 2:38 | 2024-10-17 |  |
 | [NUNCA ES TARDE](https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [NUNCA ES TARDE](https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I) | 3:08 | 2024-08-15 | 2024-09-29 |
 | [Nunca Estuviste Tan Lejos](https://open.spotify.com/track/4E3ckTCxqiSrUSM2rKGnC3) | [Ultralágrima](https://open.spotify.com/artist/1Wmv9SIc5k9ipk457eaFFV) | [Nunca Estuviste Tan Lejos](https://open.spotify.com/album/1U6KHSJ66igiyRiVvirZKj) | 4:01 | 2024-06-27 |  |
+| [Nunca mas](https://open.spotify.com/track/3Y9zYTkAvU39kDb1aTdCXx) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Vanpiro Esiten](https://open.spotify.com/album/2eHsjsBYGnP3PQfsgltUJX) | 3:41 | 2024-10-31 |  |
 | [números rojos](https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [sangre y sal](https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x) | 2:51 | 2024-06-27 |  |
 | [Pa Ti](https://open.spotify.com/track/2RI6t2wnifhfIyeSKXupio) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Pa ti](https://open.spotify.com/album/3uoCt9ywjzKWfwMP4qNeTn) | 2:11 | 2024-07-25 | 2024-08-16 |
 | [Palabras BLA BLA BLA \- remix](https://open.spotify.com/track/1KdYHwejtPz6uAJjGTAfUp) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Palabras BLA BLA BLA \- remix](https://open.spotify.com/album/16jPgS4BMWZ8psnbHALBTG) | 1:19 | 2024-08-15 | 2024-08-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain]
 
 > Relaxing music and sounds for sleeping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,042 likes - 196 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,049 likes - 196 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

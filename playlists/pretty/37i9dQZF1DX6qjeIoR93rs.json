@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 72809,
+  "num_followers": 72866,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,26 @@
       "duration_ms": 203592,
       "name": "Ya Tal3een",
       "url": "https://open.spotify.com/track/1lUBzm6GAUlY9kovZifP9G"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
+        "name": "El Gad3ana",
+        "url": "https://open.spotify.com/album/2ObAguu7dgbrezv0oK0492"
+      },
+      "artists": [
+        {
+          "name": "Daboor",
+          "url": "https://open.spotify.com/artist/7kYd4AxupgMona77xBcxXy"
+        },
+        {
+          "name": "Shabjdeed",
+          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
+        }
+      ],
+      "duration_ms": 193370,
+      "name": "Inn Ann",
+      "url": "https://open.spotify.com/track/4FTGTibd0V8qZOTMwx7lG7"
     },
     {
       "added_at": "2024-08-14 15:54:38",
@@ -167,26 +187,6 @@
       "duration_ms": 499881,
       "name": "Rajieen (feat. Saif Safadi, Dana Salah, Ghaliaa, Afroto, NORDO, Shroof, A5rass - \u0627\u0644\u0627\u062e\u0631\u0633, Issam Alnajjar, Balti, Amir Eid, Wessam Qutob, Dina El Wedidi, Bataineh, Omar Rammal, Alyoung, Randar, Vortex, Smallx, A.L.A, Fuad Gritli, Donia Wael, zeyne, Marwan Moussa, Marwan Pablo & Dafencii)",
       "url": "https://open.spotify.com/track/5ltxZlXp4kBQHSPjqbjJ8Q"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
-        "name": "El Gad3ana",
-        "url": "https://open.spotify.com/album/2ObAguu7dgbrezv0oK0492"
-      },
-      "artists": [
-        {
-          "name": "Daboor",
-          "url": "https://open.spotify.com/artist/7kYd4AxupgMona77xBcxXy"
-        },
-        {
-          "name": "Shabjdeed",
-          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
-        }
-      ],
-      "duration_ms": 193370,
-      "name": "Inn Ann",
-      "url": "https://open.spotify.com/track/4FTGTibd0V8qZOTMwx7lG7"
     },
     {
       "added_at": "2024-08-14 15:54:38",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
-        "name": "Revelation of Ecstasy and Rebellion",
-        "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
-      },
-      "artists": [
-        {
-          "name": "Rim Banna",
-          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "Supply Me with an Excess of Love",
-      "url": "https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
         "name": "JABiD atini ala tawahini \u062c\u0628\u062f \u0623\u0639\u0637\u064a\u0646\u064a \u0639\u0644\u0649 \u0637\u0648\u0627\u062d\u064a\u0646\u064a",
         "url": "https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 223361,
       "name": "Nasheed al Alam al Falastini \u0646\u0634\u064a\u062f \u0627\u0644\u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
+        "name": "Revelation of Ecstasy and Rebellion",
+        "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
+      },
+      "artists": [
+        {
+          "name": "Rim Banna",
+          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "Supply Me with an Excess of Love",
+      "url": "https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to"
     },
     {
       "added_at": "2024-08-14 15:54:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,119 likes - 32 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,196 likes - 32 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 | 24 | [Euphoric](https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Euphoric](https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5) | 1:53 |
 | 25 | [Butterfly Ku](https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 1:51 |
 | 26 | [Bully Freestyle](https://open.spotify.com/track/039QTTXxpxtQxgsa6XcqRb) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bully Freestyle](https://open.spotify.com/album/5EH7LpOYTjBhBrgxI18Lh2) | 2:04 |
-| 27 | [TTYL](https://open.spotify.com/track/5kSabw3Dng3SJ0bXdFeer7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:03 |
+| 27 | [Bitch I'm Packin' \(with Gunna\)](https://open.spotify.com/track/2rJZIb1hE25Fp58ayrG7eg) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:42 |
 | 28 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
 | 29 | [Actin A Smoochie](https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:13 |
 | 30 | [Be a Lady](https://open.spotify.com/track/4nQPTDWfelAXJN1VyXmksI) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Be a Lady](https://open.spotify.com/album/2O2f6deLC6CypQx1yPowXy) | 1:21 |
-| 31 | [Bitch I'm Packin' \(with Gunna\)](https://open.spotify.com/track/2rJZIb1hE25Fp58ayrG7eg) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:42 |
+| 31 | [TTYL](https://open.spotify.com/track/5kSabw3Dng3SJ0bXdFeer7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:03 |
 | 32 | [On The Radar \- Bonus](https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:04 |
 
-Snapshot ID: `ZyF3AAAAAAAidPZR6QN6GlFQqQOqEDmS`
+Snapshot ID: `ZyQaAAAAAADqaVl509k2G7f4jNKNmAAn`

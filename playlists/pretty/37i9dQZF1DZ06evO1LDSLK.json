@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 70154,
+  "num_followers": 70156,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAADxpQblr/EOx/LK0O1vFPyd",
+  "snapshot_id": "ZyQaAAAAAADCkEmRDektqf15yWVZ+8Xc",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Les Feuilles Mortes",
-      "url": "https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 168813,
       "name": "Everybody's Talkin'",
       "url": "https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Les Feuilles Mortes",
+      "url": "https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "I Want To Go To The Beach",
-      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -395,26 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oneohtrix Point Never - Collaborations",
-        "url": "https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI"
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        },
-        {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "Daniel Lopatin",
-          "url": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
         }
       ],
-      "duration_ms": 182000,
-      "name": "TP&TD",
-      "url": "https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg"
+      "duration_ms": 172880,
+      "name": "I Want To Go To The Beach",
+      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
     },
     {
       "added_at": null,
@@ -475,6 +451,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oneohtrix Point Never - Collaborations",
+        "url": "https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Daniel Lopatin",
+          "url": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "TP&TD",
+      "url": "https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 121853,
-      "name": "King Of The Dogs",
-      "url": "https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVERY LOSER",
         "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 259113,
-      "name": "Loves Missing",
-      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
+      "duration_ms": 121853,
+      "name": "King Of The Dogs",
+      "url": "https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM"
     },
     {
       "added_at": null,
@@ -571,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Orgy of the Damned",
-        "url": "https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
       },
       "artists": [
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 332253,
-      "name": "Awful Dream feat. Iggy Pop",
-      "url": "https://open.spotify.com/track/56QEhDMBRwTH6YiYVBljrI"
+      "duration_ms": 259113,
+      "name": "Loves Missing",
+      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
     },
     {
       "added_at": null,
@@ -631,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+        "name": "Orgy of the Damned",
+        "url": "https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc"
       },
       "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 308927,
-      "name": "China Girl",
-      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
+      "duration_ms": 332253,
+      "name": "Awful Dream feat. Iggy Pop",
+      "url": "https://open.spotify.com/track/56QEhDMBRwTH6YiYVBljrI"
     },
     {
       "added_at": null,
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome To Goran Bregovic",
-        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
       "artists": [
         {
@@ -672,9 +656,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 253480,
-      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
+      "duration_ms": 308927,
+      "name": "China Girl",
+      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
       "duration_ms": 158400,
       "name": "I'm Going Away Smiling",
       "url": "https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome To Goran Bregovic",
+        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arista Heritage Series: Iggy Pop",
         "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
       },
@@ -775,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVERY LOSER",
-        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
       },
       "artists": [
         {
@@ -784,9 +768,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 227166,
-      "name": "Morning Show",
-      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
+      "duration_ms": 228466,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
       "duration_ms": 238387,
       "name": "Chocolate Drops",
       "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 227166,
+      "name": "Morning Show",
+      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
     },
     {
       "added_at": null,
@@ -863,22 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tainted Lunch",
-        "url": "https://open.spotify.com/album/1OayjjI9jcTkZuliqxYpzJ"
+        "name": "Good Time Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX"
       },
       "artists": [
         {
-          "name": "Warmduscher",
-          "url": "https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR"
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
         },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 69389,
-      "name": "Rules of the Game",
-      "url": "https://open.spotify.com/track/1CJUsYy3vy9wbdldHPq9lW"
+      "duration_ms": 269461,
+      "name": "The Pure and the Damned",
+      "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
     },
     {
       "added_at": null,
@@ -903,22 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Time Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX"
+        "name": "Tainted Lunch",
+        "url": "https://open.spotify.com/album/1OayjjI9jcTkZuliqxYpzJ"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+          "name": "Warmduscher",
+          "url": "https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR"
         },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 269461,
-      "name": "The Pure and the Damned",
-      "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
+      "duration_ms": 69389,
+      "name": "Rules of the Game",
+      "url": "https://open.spotify.com/track/1CJUsYy3vy9wbdldHPq9lW"
     }
   ],
   "unique_name": "This Is Iggy Pop",

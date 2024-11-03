@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1347385,
+  "num_followers": 1347518,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "All on My Mind",
-      "url": "https://open.spotify.com/track/5GRPAVCMwnUNvIOKzDYYSb"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "The Dull Drums - EP",
         "url": "https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 176146,
       "name": "Glitter & Gold",
       "url": "https://open.spotify.com/track/1aJtyIMev4kW8IMUxOjn1Y"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "All on My Mind",
+      "url": "https://open.spotify.com/track/5GRPAVCMwnUNvIOKzDYYSb"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Fancy Drones (Fracture Me)",
-      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Down to the River",
         "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 231253,
       "name": "Down to the River",
       "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Fancy Drones (Fracture Me)",
+      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Wicked Ones",
+        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 172516,
+      "name": "Wicked Ones",
+      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "GREAT NIGHT (feat. Shovels & Rope)",
         "url": "https://open.spotify.com/album/0DzSbOJZt5KxkQnTolpYgA"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 175680,
       "name": "GREAT NIGHT (feat. Shovels & Rope)",
       "url": "https://open.spotify.com/track/53xIMpFKswj3mqbPuiFJC0"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Wicked Ones",
-        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 172516,
-      "name": "Wicked Ones",
-      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
     },
     {
       "added_at": "2024-08-23 15:39:31",

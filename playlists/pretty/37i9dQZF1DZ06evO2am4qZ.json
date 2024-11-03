@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4579,
+  "num_followers": 4582,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAAAUTe6ai59XnUKG7Gmf2uKq",
+  "snapshot_id": "ZyQaAAAAAAD1lQPmbqy0CtDVSNhMxbKn",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 157575,
+      "name": "Straight",
+      "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -376,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 126400,
-      "name": "Super Sick",
-      "url": "https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc"
+      "duration_ms": 178344,
+      "name": "Face The World",
+      "url": "https://open.spotify.com/track/1yJBqUwbi23dbGDyB0IqjV"
     },
     {
       "added_at": null,
@@ -443,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 126400,
+      "name": "Super Sick",
+      "url": "https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awesome (feat. Baby Tate)",
         "url": "https://open.spotify.com/album/0U31u16tUxLte3O7ghLpm6"
       },
@@ -459,22 +491,6 @@
       "duration_ms": 145588,
       "name": "Awesome (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/0aOFo1FPyMdgopCac1QMmc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 157575,
-      "name": "Straight",
-      "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
     },
     {
       "added_at": null,
@@ -523,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 180174,
-      "name": "Aura (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tate Tuesday, Vol. 1",
         "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
@@ -552,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 178344,
-      "name": "Face The World",
-      "url": "https://open.spotify.com/track/1yJBqUwbi23dbGDyB0IqjV"
+      "duration_ms": 181978,
+      "name": "Babysitter",
+      "url": "https://open.spotify.com/track/5lov1pcwDVARb0lMbZKzd7"
     },
     {
       "added_at": null,
@@ -587,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 180174,
+      "name": "Aura (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 167833,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tate Tuesday, Vol. 1",
         "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 157546,
       "name": "Yeah, Yeah!",
       "url": "https://open.spotify.com/track/1x8iGW0Kpk0VoX1c1C3cAZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
     },
     {
       "added_at": null,
@@ -679,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "5th Chakra",
+      "url": "https://open.spotify.com/track/5mjkdku1YmRIfOxX0S1OID"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boys Are From Mars (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
       },
@@ -695,22 +727,6 @@
       "duration_ms": 192386,
       "name": "Boys Are From Mars (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Babysitter",
-      "url": "https://open.spotify.com/track/5lov1pcwDVARb0lMbZKzd7"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "5th Chakra",
-      "url": "https://open.spotify.com/track/5mjkdku1YmRIfOxX0S1OID"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 162199,
-      "name": "Luv Everybody",
-      "url": "https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After The Rain: Deluxe",
         "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 166950,
       "name": "Focused",
       "url": "https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 162199,
+      "name": "Luv Everybody",
+      "url": "https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 162492,
-      "name": "Wig",
-      "url": "https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 196154,
       "name": "Differences",
       "url": "https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 162492,
+      "name": "Wig",
+      "url": "https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX"
     },
     {
       "added_at": null,
@@ -959,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What's Love / Sl*t Him Out",
-        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 250774,
-      "name": "What's Love",
-      "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watch This!",
         "url": "https://open.spotify.com/album/4Vu0PtnR4eyViFmKZNpJqL"
       },
@@ -991,6 +975,26 @@
       "duration_ms": 124785,
       "name": "Flick! (Stacey) (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/1I0etEWpAifqN3Ceq1ZMYt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 184976,
+      "name": "Ain\u2019t No Love (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP"
     }
   ],
   "unique_name": "This Is Baby Tate",

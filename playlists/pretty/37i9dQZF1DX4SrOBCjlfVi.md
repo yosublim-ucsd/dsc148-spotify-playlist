@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Tyler The Creator, Lil Uzi Vert, Kodak Black and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,349 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,573 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 45 | [Saint](https://open.spotify.com/track/7G9ONI7qXonWrsQCxiF3Ij) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Saint](https://open.spotify.com/album/3GfFsmvB3ZDsCIlIyStZx5) | 2:13 |
 | 46 | [THE GODSON](https://open.spotify.com/track/5YmGpu5O03TdcI9IqoSFZH) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg) | [THE GODSON](https://open.spotify.com/album/37THGuyhnRNcy4BXqnhe55) | 2:44 |
 | 47 | [Talk \(feat\. Lil Baby\)](https://open.spotify.com/track/6A00ULEfNqDLuEuKE6Mrxm) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Zombie Love Kensington Paradise](https://open.spotify.com/album/2FqcuBuYAngz86cqeejHGK) | 3:02 |
-| 48 | [SLOW MONEY](https://open.spotify.com/track/7DeFx2PbewjW3g9TIBExg7) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [MajorStage](https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [SLOW MONEY](https://open.spotify.com/album/7EQhStiVviEm0Pb9BxsOAW) | 1:43 |
+| 48 | [SLOW MONEY \- MajorStage Live](https://open.spotify.com/track/7DeFx2PbewjW3g9TIBExg7) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [MajorStage](https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [SLOW MONEY \(MajorStage Live\)](https://open.spotify.com/album/7EQhStiVviEm0Pb9BxsOAW) | 1:43 |
 | 49 | [Understand](https://open.spotify.com/track/5L32IjZD1VIyuF7Rw9Xmio) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Understand](https://open.spotify.com/album/2tihzsOg9XnrmkCQ5LLDnY) | 2:36 |
 | 50 | [EL PRESIDENTE](https://open.spotify.com/track/3PwnEvJk21WFJXX1TuEN3H) | [Ralfy the Plug](https://open.spotify.com/artist/1yI0tX9OnfOx9siPj8KNOO) | [GRANDMASTER RALFY](https://open.spotify.com/album/1iCuNGhoi59dXTkHIbgIQp) | 2:32 |
 

@@ -4,7 +4,7 @@
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 54 min
+79 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,12 +73,13 @@
 | [Pedacito de Mí](https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [Misión Cumplida](https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg) | 3:30 | 2023-07-01 |  |
 | [Pelo Suelto](https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pelo Suelto](https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8) | 3:19 | 2023-03-10 | 2024-10-23 |
 | [PORQUE SOY ABEJA REINA](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 | 2023-03-10 |  |
-| [Puro Pinche Pari \(PPP\)](https://open.spotify.com/track/0KV2Dy7DpMXI6C7bBGCdgu) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Puro Pinche Pari \(PPP\)](https://open.spotify.com/album/4rATRjPNbTx9SCII7VsWYs) | 2:30 | 2024-05-19 |  |
+| [Puro Pinche Pari \(PPP\)](https://open.spotify.com/track/0KV2Dy7DpMXI6C7bBGCdgu) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Puro Pinche Pari \(PPP\)](https://open.spotify.com/album/4rATRjPNbTx9SCII7VsWYs) | 2:30 | 2024-05-19 | 2024-11-03 |
 | [Que Sera \(Is This Love\) \(feat\. Chiquis Rivera\)](https://open.spotify.com/track/39sx6ilqONhi4GbGBlEp16) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Sangria](https://open.spotify.com/album/3va92qGHP3fn8ZU859S4nD) | 3:16 | 2023-03-10 | 2023-11-11 |
 | [Que Siga Pasando](https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Que Siga Pasando](https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p) | 3:10 | 2024-09-22 |  |
 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Quiero Amanecer Con Alguien](https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd) | 3:16 | 2023-03-10 |  |
 | [Quisieran Tener Mi Lugar](https://open.spotify.com/track/7gDlXoVYwaafRbz5EHA4FB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:57 | 2023-03-10 |  |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [MAS Norteño](https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng) | [Si No Te Hubieras Ido](https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc) | 5:26 | 2023-03-10 |  |
+| [Soy De Esas](https://open.spotify.com/track/1PV4AuRZJZUumVu01SEJsd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [DIAMANTES VVS1](https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf) | 2:35 | 2024-11-03 |  |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/6XiRxoDAnqmrhCMzx6CNhr) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Sólo Quédate En Silencio](https://open.spotify.com/album/7iJ7TqUIeccOaDNT4eW5cE) | 3:51 | 2023-11-10 | 2024-06-04 |
 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/0KOk1oIIdfKrRNPSPH29eH) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/album/6XQpgJ9LkDhEOGumF82Ui7) | 3:39 | 2023-03-10 |  |
 | [Ticket De Salida](https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:02 | 2023-03-10 |  |

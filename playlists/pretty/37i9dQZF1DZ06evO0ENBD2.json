@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4896835,
+  "num_followers": 4897017,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAAAbeTHOYSjbzLGo3sf3e5Ir",
+  "snapshot_id": "ZyQaAAAAAACT+Cy5aHEr390Ug43+eiAD",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen II (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "Seven Seas Of Rhye - Remastered 2011",
-      "url": "https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 41454,
       "name": "Ay-Oh - Live Aid",
       "url": "https://open.spotify.com/track/6Fl9MoM9BDk6vwbHqBBZeK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen II (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "Seven Seas Of Rhye - Remastered 2011",
+      "url": "https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 133813,
-      "name": "Stone Cold Crazy - Remastered 2011",
-      "url": "https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 237025,
       "name": "We Are The Champions - Live Aid",
       "url": "https://open.spotify.com/track/4XaG9IpCXklOcuau1sIrUX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 133813,
+      "name": "Stone Cold Crazy - Remastered 2011",
+      "url": "https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night Comes Down (2024 Mix)",
-        "url": "https://open.spotify.com/album/6qifDKuIH45I8IJptMzH1d"
+        "name": "Made In Heaven (2011 Remaster)",
+        "url": "https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 261720,
-      "name": "The Night Comes Down - 2024 Mix",
-      "url": "https://open.spotify.com/track/4EEiMtxWNU7k0JHNZdloUI"
+      "duration_ms": 336160,
+      "name": "Heaven For Everyone - Remastered 2011",
+      "url": "https://open.spotify.com/track/3Klfd4rsRO53fYpxmdQmYV"
     }
   ],
   "unique_name": "This Is Queen",

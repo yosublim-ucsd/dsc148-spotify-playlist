@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 19614,
+  "num_followers": 19625,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Period",
-        "url": "https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS"
-      },
-      "artists": [
-        {
-          "name": "Boosie Badazz",
-          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Period",
-      "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 172391,
       "name": "My Terms (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Period",
+        "url": "https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS"
+      },
+      "artists": [
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Period",
+      "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
     },
     {
       "added_at": "2022-10-01 20:31:11",

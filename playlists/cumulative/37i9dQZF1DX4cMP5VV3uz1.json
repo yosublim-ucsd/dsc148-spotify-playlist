@@ -5449,6 +5449,32 @@
     },
     {
       "album": {
+        "name": "Right About Now (Rockafeller Skank) [Jessee Jungle Edit]",
+        "url": "https://open.spotify.com/album/3F6S5cU7BDdYZ82mgRPP66"
+      },
+      "artists": [
+        {
+          "name": "HUTS",
+          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
+        },
+        {
+          "name": "Jessee",
+          "url": "https://open.spotify.com/artist/2lHCL6yjrnkU87mpTKgLuZ"
+        },
+        {
+          "name": "Aresta",
+          "url": "https://open.spotify.com/artist/2m3tbaVv1oRAtY93M1K2s4"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188965,
+      "name": "Right About Now (Rockafeller Skank) [Jessee Jungle Edit]",
+      "url": "https://open.spotify.com/track/0mvry4vm6Xyhjxl3EcqY4o"
+    },
+    {
+      "album": {
         "name": "Riot Gear Romance",
         "url": "https://open.spotify.com/album/2EFKBPxVQcp4EwmlOzws21"
       },
@@ -5734,7 +5760,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 167068,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW"

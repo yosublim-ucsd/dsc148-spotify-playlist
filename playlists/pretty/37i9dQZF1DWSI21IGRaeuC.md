@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,439 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,467 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 74 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
 | 75 | [I Like It](https://open.spotify.com/track/4l7tyaNeztF51PePtqyezc) | [Kieran Morgan](https://open.spotify.com/artist/6ndGFDGDB4O4YyLCqDisot) | [I Like It](https://open.spotify.com/album/6ywoB9hVatWArPteOqzH1a) | 3:20 |
 | 76 | [In You](https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [In You](https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY) | 6:13 |
-| 77 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
-| 78 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
+| 77 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
+| 78 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
 | 79 | [Dynasty](https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Dynasty](https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY) | 6:36 |
 | 80 | [Ready For The Blues](https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready For The Blues](https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL) | 5:00 |
 | 81 | [venus' secret](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [venus' secret](https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl) | 3:20 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 95 | [Teki Teki](https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR) | [Ishimaru](https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n) | [Teki Teki](https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n) | 3:20 |
 | 96 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
 | 97 | [Seeder](https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Seeder](https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk) | 3:19 |
-| 98 | [Crowd Crazy](https://open.spotify.com/track/0y9cKTzZbp3qUswHKQsCI6) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Jam Is Pumping EP](https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq) | 4:39 |
-| 99 | [Electrowise](https://open.spotify.com/track/3uQXBZtZqMmglZ9Txe52aK) | [Jesse Maas](https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G) | [Electrowise](https://open.spotify.com/album/6CKbxFs4VoTe1htqCpndrL) | 2:56 |
+| 98 | [Electrowise](https://open.spotify.com/track/3uQXBZtZqMmglZ9Txe52aK) | [Jesse Maas](https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G) | [Electrowise](https://open.spotify.com/album/6CKbxFs4VoTe1htqCpndrL) | 2:56 |
+| 99 | [Crowd Crazy](https://open.spotify.com/track/0y9cKTzZbp3qUswHKQsCI6) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Jam Is Pumping EP](https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq) | 4:39 |
 | 100 | [GUNZ.OUT](https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [GUNZ.OUT](https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ) | 3:06 |
 
 Snapshot ID: `ZxsXwAAAAACFMtnjFRG3wikxMpZhrFW0`

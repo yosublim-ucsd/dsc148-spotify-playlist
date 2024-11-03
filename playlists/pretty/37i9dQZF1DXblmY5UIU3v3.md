@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,301 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,512 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 29 | [My Skyline](https://open.spotify.com/track/6EXYMLHG0Xhe1aNFphyayQ) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [My Skyline](https://open.spotify.com/album/7v9aoGWmGNRFwgwHQTr6ya) | 2:24 |
 | 30 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
 | 31 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
-| 32 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
-| 33 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
-| 34 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
+| 32 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
+| 33 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
+| 34 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
 | 35 | [E S C O B a R](https://open.spotify.com/track/75BDGJuV727Qx2qkSqx5Fy) | [Şevket Öndaş](https://open.spotify.com/artist/5acooQjRlNtjcI4cHSOlki), [Egemen Kızıltekin](https://open.spotify.com/artist/7qcEBm8FydNYp8jZagSq2W) | [E S C O B a R](https://open.spotify.com/album/3Km6AfOXnr94jZbOWVyhPa) | 3:05 |
 | 36 | [Blast](https://open.spotify.com/track/6IueCsicxdsbMj1HTF8jxq) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [KSKV](https://open.spotify.com/artist/07BMRyGNDQEqrjtlqjfYuh) | [Blast](https://open.spotify.com/album/7De3XSkwYMfun0zzYzQRm4) | 2:36 |
 | 37 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |

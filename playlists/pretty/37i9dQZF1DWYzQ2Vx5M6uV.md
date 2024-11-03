@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Greeicy & Kapo
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,858 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,902 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 40 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
 | 41 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 |
 | 42 | [T'as peur](https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:35 |
-| 43 | [Madrid](https://open.spotify.com/track/6IYJaB2xU1tqIzAIF6pHxk) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Madrid](https://open.spotify.com/album/7fxoiLhdWnKxOniIaN1IPn) | 3:14 |
-| 44 | [Una Oportunidad](https://open.spotify.com/track/2FaS8IcO6JN9ITfYkri23O) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Una Oportunidad](https://open.spotify.com/album/6LXXWavOjtwpGicz0FWq3V) | 2:22 |
+| 43 | [Una Oportunidad](https://open.spotify.com/track/2FaS8IcO6JN9ITfYkri23O) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Una Oportunidad](https://open.spotify.com/album/6LXXWavOjtwpGicz0FWq3V) | 2:22 |
+| 44 | [Madrid](https://open.spotify.com/track/6IYJaB2xU1tqIzAIF6pHxk) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Madrid](https://open.spotify.com/album/7fxoiLhdWnKxOniIaN1IPn) | 3:14 |
 | 45 | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:07 |
 | 46 | [Todita](https://open.spotify.com/track/4Y4OXbfuGrLkGyeqtou0jc) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [Todita](https://open.spotify.com/album/3quRxkjMD9fgBFYx6vUzmu) | 2:20 |
 | 47 | [Tucu](https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:06 |

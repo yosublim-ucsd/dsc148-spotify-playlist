@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 147800,
+  "num_followers": 147828,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,26 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Tua Presen\u00e7a Vale Mais",
-        "url": "https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq"
+        "name": "Agora, Aqui",
+        "url": "https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR"
       },
       "artists": [
         {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+          "name": "Ana Heloysa",
+          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Filipe da Guia",
+          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Tua Presen\u00e7a Vale Mais",
-      "url": "https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g"
+      "duration_ms": 205329,
+      "name": "Agora, Aqui",
+      "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -499,26 +507,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Agora, Aqui",
-        "url": "https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR"
+        "name": "Tua Presen\u00e7a Vale Mais",
+        "url": "https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq"
       },
       "artists": [
         {
-          "name": "Ana Heloysa",
-          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
-        },
-        {
-          "name": "Filipe da Guia",
-          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
         }
       ],
-      "duration_ms": 205329,
-      "name": "Agora, Aqui",
-      "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
+      "duration_ms": 360000,
+      "name": "Tua Presen\u00e7a Vale Mais",
+      "url": "https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g"
     },
     {
       "added_at": "2024-08-30 03:01:00",

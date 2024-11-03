@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: RONDÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,236 likes - 98 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,247 likes - 98 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 36 | [Idool](https://open.spotify.com/track/3UHc8kTAiUhWvUDcHBIzyD) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Idool](https://open.spotify.com/album/79KiaWoiBMzwh6DIVw2DIE) | 3:02 |
 | 37 | [Ik Kom Van Ver](https://open.spotify.com/track/6hBGCXAPeUiey8lZbUh6Xb) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Ik Kom Van Ver](https://open.spotify.com/album/42ayaYI1ibzsRSt2gI8jXt) | 3:21 |
 | 38 | [Bang Alleen Te Blijven](https://open.spotify.com/track/0OCZpLuFQz3H3eowjX7ho4) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Bang Alleen Te Blijven](https://open.spotify.com/album/3pboEsYZAqlrkCgASC0JLY) | 3:25 |
-| 39 | [little, red little blue](https://open.spotify.com/track/549B1CdMdo8ow94Xrj4gYl) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [little red, little blue](https://open.spotify.com/album/1Oz14C4aJ9PknMdmcSFKPS) | 2:48 |
+| 39 | [little, red little blue](https://open.spotify.com/track/549B1CdMdo8ow94Xrj4gYl) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [little, red little blue](https://open.spotify.com/album/1Oz14C4aJ9PknMdmcSFKPS) | 2:48 |
 | 40 | [American Dream](https://open.spotify.com/track/14rjxUlB3cztgcCXWOYg4j) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [American Dream](https://open.spotify.com/album/0pq5HLaL15cX8fEh7DTTvw) | 2:25 |
 | 41 | [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 |
 | 42 | [Layers Of Time](https://open.spotify.com/track/6zwDnspc4FqWCUcp0212Uf) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ) | [Layers Of Time](https://open.spotify.com/album/22GlUOTULWO7IAHI37UE2Z) | 2:34 |

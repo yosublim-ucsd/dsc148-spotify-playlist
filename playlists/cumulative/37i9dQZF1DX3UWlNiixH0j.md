@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: PAS TASTA
 
-1,947 songs - 5 day 0 hr 57 min
+1,948 songs - 5 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1184,6 +1184,7 @@
 | [walk walk](https://open.spotify.com/track/0fKl9hAYVMQIyb3SXPsg3C) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [walk walk](https://open.spotify.com/album/5Ni4qXLrTqOgNLgs8UKB8s) | 3:13 | 2023-12-05 | 2023-12-13 |
 | [walk walk](https://open.spotify.com/track/6Ilmcx6we2Wz3dKXA7iQSb) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [walk walk](https://open.spotify.com/album/5xPIpUF3iT20iOfdUnaMpi) | 3:13 | 2023-12-05 | 2023-12-07 |
 | [Wandering Spirit](https://open.spotify.com/track/6E30fAWCLP4LFusJMZKgq0) | [MADE IN HEPBURN](https://open.spotify.com/artist/5Kb7tK7462ltHK5KtX2tAq) | [Wandering Spirit](https://open.spotify.com/album/7M8RbyJXruRleU2wScVMkI) | 3:38 | 2023-03-07 | 2023-03-29 |
+| [Wanderlust](https://open.spotify.com/track/7q9dOX2Jm8EKVTJ8jGvOY8) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [Wanderlust](https://open.spotify.com/album/01LxuZpEF7GvsfAytHRbxt) | 4:23 | 2024-10-29 |  |
 | [Wanna Be In A Sad Mood](https://open.spotify.com/track/5RLbFht9k5o0MRcnR4vvWq) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/7FgKndFjCgBXmLl7hcNvRo) | 4:14 | 2023-11-02 | 2023-11-08 |
 | [Wanna Be In A Sad Mood](https://open.spotify.com/track/61ZsLyi4omqZs3H72sm5sb) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/3jMkyqeHsfveTdu30JyGxn) | 4:14 | 2023-10-31 | 2023-11-04 |
 | [wash](https://open.spotify.com/track/58kwvlBZpNLYHaUIAQBhWB) | [salsa](https://open.spotify.com/artist/4qNSSJFYO5GHhCfYUbo11s) | [wash](https://open.spotify.com/album/03bvBSWXCTAHkBEixnPqUG) | 3:43 | 2023-08-01 | 2023-08-09 |
@@ -1289,7 +1290,7 @@
 | [かまわない](https://open.spotify.com/track/7hRWSEnpjQ9RMBca6tJ3Tc) | [しんきろうのまち](https://open.spotify.com/artist/4fbq9ZbNik4Qze3IgCtHBR) | [かまわない](https://open.spotify.com/album/3XQeHt5XvoX6AuT4B1yUNu) | 3:51 | 2024-01-16 | 2024-01-24 |
 | [かむかもしかもにどもかも！ \- imai remix](https://open.spotify.com/track/3R6a6LaMhUO3hWt04YMm3D) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR), [imai](https://open.spotify.com/artist/7KuezP7qjUEdOhIDj1hrG4) | [かむかもしかもにどもかも！ \(imai remix\)](https://open.spotify.com/album/6KQJJfutW8v182eIWZpO2E) | 2:15 | 2024-07-30 | 2024-08-07 |
 | [きかいにおまかせ](https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [きかいにおまかせ](https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK) | 2:58 | 2023-06-13 | 2023-10-12 |
-| [きせつ](https://open.spotify.com/track/5fOOVuvHuFQMUS4MTW1rdI) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [きせつ](https://open.spotify.com/album/0paHDBJvF2pIZO2JUW8cMM) | 6:39 | 2024-10-08 |  |
+| [きせつ](https://open.spotify.com/track/5fOOVuvHuFQMUS4MTW1rdI) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [きせつ](https://open.spotify.com/album/0paHDBJvF2pIZO2JUW8cMM) | 6:39 | 2024-10-08 | 2024-11-03 |
 | [きみに青をあげるね](https://open.spotify.com/track/72796JC5PQKU5niCgMWNGm) | [とがる](https://open.spotify.com/artist/2xuG3xPtRmV2Vp6phWfAxZ) | [808:Blue](https://open.spotify.com/album/2hsVf9UUHrR1DsoH7h2nwv) | 3:45 | 2024-09-01 | 2024-09-11 |
 | [きみのようになれるかな](https://open.spotify.com/track/0Ytmq9kI83vgqdwvBA9uNd) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [あこがれ](https://open.spotify.com/album/39AFfvD3CUjQR0QHK7ETWg) | 4:08 | 2023-02-07 | 2023-03-01 |
 | [きれいなおじさん](https://open.spotify.com/track/7LvVO2U8Sot0EFyV1bcDsx) | [井上園子](https://open.spotify.com/artist/1CrUJuV3FPAvDK7do7QQRm) | [ほころび](https://open.spotify.com/album/4hI1UKKAgliU95KADRBtiZ) | 7:12 | 2024-09-03 | 2024-10-09 |

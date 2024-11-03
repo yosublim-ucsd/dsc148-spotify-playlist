@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: Butterbear
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,283 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,463 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 7 | [TRAFFIC](https://open.spotify.com/track/2fChLz9Gp6tl5gTEiOuywH) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [TRAFFIC](https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT) | 2:42 |
 | 8 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
 | 9 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
-| 10 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER 1st FULL ALBUM \[DRIP\]](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
+| 10 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
 | 11 | [ไม่ให้ไป](https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป \- Single](https://open.spotify.com/album/5mS7KW0IM3CrLf0SO9QM6P) | 4:00 |
 | 12 | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D) | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/album/3CDUojnPiIiyslUq2WuTWb) | 3:53 |
 | 13 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 |

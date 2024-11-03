@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Eyedress
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,691 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,708 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 77 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
 | 78 | [Runner](https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM) | [Mind Shrine](https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM) | [Runner](https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V) | 2:42 |
 | 79 | [Open](https://open.spotify.com/track/5GrmEP9RYU4XEHCPLdTAP0) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open](https://open.spotify.com/album/5XOlVDmoXEsVEgIO4vzrMu) | 3:58 |
-| 80 | [Panoramic View](https://open.spotify.com/track/7jd7vpPlwNcKauBddT9hEf) | [Van Houten](https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB) | [The Tallest Room](https://open.spotify.com/album/38AWwdLCyVhfxsndtizrTC) | 3:58 |
-| 81 | [Didn't Want to Go](https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Didn't Want to Go](https://open.spotify.com/album/4nWF9Pb0K2ehvZhP34aDg4) | 2:09 |
-| 82 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
+| 80 | [Didn't Want to Go](https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Didn't Want to Go](https://open.spotify.com/album/4nWF9Pb0K2ehvZhP34aDg4) | 2:09 |
+| 81 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
+| 82 | [Panoramic View](https://open.spotify.com/track/7jd7vpPlwNcKauBddT9hEf) | [Van Houten](https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB) | [The Tallest Room](https://open.spotify.com/album/38AWwdLCyVhfxsndtizrTC) | 3:58 |
 | 83 | [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 |
 | 84 | [Fuzzy](https://open.spotify.com/track/3rbvTHMixDKS84FLygc7ns) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi) | [Fuzzy](https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW) | 2:56 |
 | 85 | [Surprise](https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK) | [Royal Headache](https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1) | [Royal Headache](https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN) | 1:33 |

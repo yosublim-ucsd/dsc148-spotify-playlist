@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27495,
+  "num_followers": 27497,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAB16wQtOaql3GRYglOEwlLw",
+  "snapshot_id": "ZyQaAAAAAABOjnaVqBbhGR6yUdNPfUgr",
   "tracks": [
     {
       "added_at": null,
@@ -243,46 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucid (The Remixes)",
-        "url": "https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "WE ARE FURY",
-          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "Alarm - WE ARE FURY Remix",
-      "url": "https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "Live for the Night",
-      "url": "https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/5dQU0fKWQiAug7KBahk3Gj"
       },
@@ -303,6 +263,46 @@
       "duration_ms": 161963,
       "name": "New World",
       "url": "https://open.spotify.com/track/2gBQ35qqBE75t00kV221Xy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "Live for the Night",
+      "url": "https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucid (The Remixes)",
+        "url": "https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "Alarm - WE ARE FURY Remix",
+      "url": "https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Come & Get It",
+      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive: Refueled",
         "url": "https://open.spotify.com/album/40YSOHKAENpcTCFQqlMAc5"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 256941,
       "name": "Lights & Thunder - Darren Styles Remix",
       "url": "https://open.spotify.com/track/7na8xV9Zf1IOQtTFbvbCKO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Come & Get It",
-      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Drive Away",
+      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "United Kids of the World (feat. Krewella)",
         "url": "https://open.spotify.com/album/2kMgZuBJTzKxOr4pJdyHk0"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 256000,
       "name": "United Kids of the World (feat. Krewella)",
       "url": "https://open.spotify.com/track/61Cx5cbYUgDTA2m4SuKJ37"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Drive Away",
-      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Play Hard EP",
         "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 214992,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6O4dKR2qDrowPXV7lwUNA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Krewella (Hits Japan Special Edition)",
+        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Krewella (Hits Japan Special Edition)",
-        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play Hard EP",
         "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
@@ -979,26 +979,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
       },
       "artists": [
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Alaya",
-          "url": "https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG"
         }
       ],
-      "duration_ms": 192697,
-      "name": "Like We",
-      "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
+      "duration_ms": 208544,
+      "name": "Love Outta Me",
+      "url": "https://open.spotify.com/track/79Qq2wM8xhDm8CLjcVTMVk"
     }
   ],
   "unique_name": "This Is Krewella",

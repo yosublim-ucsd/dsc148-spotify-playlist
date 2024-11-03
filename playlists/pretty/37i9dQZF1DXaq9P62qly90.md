@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,906 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,906 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 32 | [Pulse](https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Pulse](https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx) | 4:22 |
 | 33 | [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 |
 | 34 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 |
-| 35 | [A Reminder \(Remix\)](https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [A Reminder \(Remix\)](https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA) | 4:45 |
+| 35 | [Indigo](https://open.spotify.com/track/3eVI3IOrq5u8NPOKWSiFlP) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:31 |
 | 36 | [She Go](https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 3:17 |
 | 37 | [Adam & Eve \(feat\. Ben Fagan\)](https://open.spotify.com/track/4ZKAt72ICUQxUWAVYzVB0Y) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8), [Ben Fagan](https://open.spotify.com/artist/68UAGPFWJbwW0JUscJVM3O) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 4:10 |
 | 38 | [Chill Out](https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Chill Out](https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7) | 3:55 |

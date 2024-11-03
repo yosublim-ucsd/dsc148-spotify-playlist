@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,590,432 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,590,411 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 24 | [Ecstasy \(Freestyle\)](https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik) | [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Ecstasy \(Freestyle\)](https://open.spotify.com/album/4l5ytI2ykKixML9AQwbL9X) | 1:57 |
 | 25 | [Diego Maradona](https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:37 |
 | 26 | [Mamas PrimeTime](https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Cartier A Williams](https://open.spotify.com/artist/2Fsw6Hh9wWybcZPZZEGYPj) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 4:59 |
-| 27 | [97](https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:57 |
+| 27 | [oHio \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:51 |
 | 28 | [Pi \(feat\. Daylyt & Ab\-Soul\)](https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Daylyt](https://open.spotify.com/artist/573vxT6vzhNRzTVIuVRnLj), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 5:54 |
-| 29 | [oHio \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:51 |
+| 29 | [97](https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:57 |
 | 30 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 |
 | 31 | [Define My Name](https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Define My Name](https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu) | 3:10 |
 | 32 | [Raw \(feat\. Lil Wayne & Niko Brim\)](https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Niko Brim](https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 2:44 |

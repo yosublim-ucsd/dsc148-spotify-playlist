@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dancing Mood
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,735 likes - 89 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,743 likes - 89 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 39 | [Saber a Dónde ir](https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Saber a Dónde ir](https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn) | 4:19 |
 | 40 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
 | 41 | [Consentimiento](https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Mamita Peyote](https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H) | 4:31 |
-| 42 | [Young Veterans](https://open.spotify.com/track/0dh5zUeRSss5dpKWzqhLAd) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Natty Congo Crew](https://open.spotify.com/artist/0eDwZ8EuFO0B8yMNmHHfkw) | [Young Veterans](https://open.spotify.com/album/6Xe8li7kMQZFZmeeeCSc9K) | 4:06 |
-| 43 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 |
+| 42 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 |
+| 43 | [Young Veterans](https://open.spotify.com/track/0dh5zUeRSss5dpKWzqhLAd) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Natty Congo Crew](https://open.spotify.com/artist/0eDwZ8EuFO0B8yMNmHHfkw) | [Young Veterans](https://open.spotify.com/album/6Xe8li7kMQZFZmeeeCSc9K) | 4:06 |
 | 44 | [Oyelo](https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 3:08 |
 | 45 | [El Próximo Viernes](https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Próximo Viernes](https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA) | 4:19 |
 | 46 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 77 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
 | 78 | [Pensando En Ti](https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 5:25 |
 | 79 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 |
-| 80 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
-| 81 | [Ruta](https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Dalasio](https://open.spotify.com/artist/2C1xJBfgKnVe1xMyUD6yAb) | [Ruta](https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji) | 3:45 |
+| 80 | [Ruta](https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Dalasio](https://open.spotify.com/artist/2C1xJBfgKnVe1xMyUD6yAb) | [Ruta](https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji) | 3:45 |
+| 81 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
 | 82 | [El Cuento](https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 4:05 |
 | 83 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 |
 | 84 | [Desinformation](https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Desinformation](https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J) | 4:05 |

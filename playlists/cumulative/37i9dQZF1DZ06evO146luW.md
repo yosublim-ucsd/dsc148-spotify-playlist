@@ -4,7 +4,7 @@
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 37 min
+44 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Honey Pain](https://open.spotify.com/track/21dB5hK5tAJaGD3VTbQ7ly) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 5:38 | 2024-09-19 |  |
 | [I'm Done](https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:30 | 2024-09-19 |  |
 | [Kuntry & Wistern](https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 4:01 | 2024-09-19 |  |
+| [L.T.W.Y.H.M.](https://open.spotify.com/track/503lQzTuf0tF8cAcilXZkz) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 3:29 | 2024-11-03 |  |
 | [Leigh](https://open.spotify.com/track/7vqomJv75Sp17yEm3puTlv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:22 | 2024-09-19 |  |
 | [Lonely as It Gets](https://open.spotify.com/track/0P7Ec1pk2DC67f4BgMIgr5) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 4:16 | 2024-09-19 |  |
 | [Love](https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:43 | 2024-09-19 |  |
@@ -39,7 +40,7 @@
 | [Never Leave](https://open.spotify.com/track/60BIPuGD04bcqHPV1qSja0) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 3:59 | 2024-09-19 |  |
 | [Nothing Left to Say](https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 3:00 | 2024-09-19 |  |
 | [Ragweed](https://open.spotify.com/track/3MxWqiFH3s8Mll4CljGLfa) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 4:12 | 2024-09-19 |  |
-| [Sancho](https://open.spotify.com/track/3U59eoc1pRxoXtgxJChDcx) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 2:25 | 2024-09-19 |  |
+| [Sancho](https://open.spotify.com/track/3U59eoc1pRxoXtgxJChDcx) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 2:25 | 2024-09-19 | 2024-11-03 |
 | [So Low](https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:53 | 2024-09-19 |  |
 | [Something to Talk About](https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:24 | 2024-09-19 |  |
 | [Song I Can Drink Too](https://open.spotify.com/track/6aqG6VFDGxrVkPJxumd9kG) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 4:04 | 2024-09-19 |  |

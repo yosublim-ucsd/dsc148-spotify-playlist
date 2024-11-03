@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,783 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,787 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 46 | [I hope It would be that way now](https://open.spotify.com/track/7JwuKDRmTGtiNoUo0HhSyr) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Gift](https://open.spotify.com/album/12UzJwaPZVN6JMSirhn6NB) | 4:57 |
 | 47 | [Memory Loss](https://open.spotify.com/track/2EKF9fFb5X7117shgzvsJT) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:54 |
 | 48 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 |
-| 49 | [All I Wanna Do \(feat\. Hoody & 로꼬 Loco\) \[Korean Version\]](https://open.spotify.com/track/2c37Gkpu75l3kvh1FUZrHV) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:36 |
+| 49 | [Let's start our love again](https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Let's start our love again](https://open.spotify.com/album/1wizL9Nmk6BRuQyH8LhfKL) | 4:27 |
 | 50 | [Just One Day](https://open.spotify.com/track/1UEHM8m4GswZLNykPkInEy) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Just One Day](https://open.spotify.com/album/2ZRgUweTGRez4yzualNDci) | 4:17 |
 
 Snapshot ID: `Zg8I8AAAAABSJcBUITvO5AODIW01ZRV5`

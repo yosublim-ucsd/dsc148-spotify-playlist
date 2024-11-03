@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1002586,
+  "num_followers": 1002777,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAACCJfJyiXAm3p1rykgqw9dy",
+  "snapshot_id": "ZyQaAAAAAACfWA84KlnQIw6h1x3Ty3nm",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde Anaheim, CA",
+        "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 264832,
+      "name": "Pideme (En Vivo)",
+      "url": "https://open.spotify.com/track/77XkGdcroOIcaekrKJUwvq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Borrachito",
         "url": "https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d"
       },
@@ -339,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Anaheim, CA",
-        "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
         }
       ],
-      "duration_ms": 264832,
-      "name": "Pideme (En Vivo)",
-      "url": "https://open.spotify.com/track/77XkGdcroOIcaekrKJUwvq"
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
     },
     {
       "added_at": null,
@@ -371,26 +391,6 @@
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
-        }
-      ],
-      "duration_ms": 232611,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
     },
     {
       "added_at": null,
@@ -639,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tronando Ligas",
+        "url": "https://open.spotify.com/album/3T1p44pBktaA3TIcjurRkS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Tronando Ligas",
+      "url": "https://open.spotify.com/track/71dRqswBJfMwOmqhBqOIgH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 225541,
       "name": "Mil Gracias Por Existir",
       "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tronando Ligas",
-        "url": "https://open.spotify.com/album/3T1p44pBktaA3TIcjurRkS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Tronando Ligas",
-      "url": "https://open.spotify.com/track/71dRqswBJfMwOmqhBqOIgH"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Reemplazo",
-        "url": "https://open.spotify.com/album/2ZsSYrB7xiETvJWiIKdHS2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "El Reemplazo",
-      "url": "https://open.spotify.com/track/7DzzP8bYtgObGPzDAc3IqL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOMPERI",
         "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 125747,
       "name": "DOMPERI",
       "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Reemplazo",
+        "url": "https://open.spotify.com/album/2ZsSYrB7xiETvJWiIKdHS2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "El Reemplazo",
+      "url": "https://open.spotify.com/track/7DzzP8bYtgObGPzDAc3IqL"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Descuide",
+        "url": "https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 205624,
+      "name": "Descuide",
+      "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ac\u00e1bame de Matar (En Vivo)",
         "url": "https://open.spotify.com/album/1U6JHKNnyVkN7i7aE6zsrC"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 214199,
       "name": "Ac\u00e1bame de Matar (En Vivo)",
       "url": "https://open.spotify.com/track/2q97QNo5IKXQwdlHKtDfSV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Descuide",
-        "url": "https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 205624,
-      "name": "Descuide",
-      "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
     },
     {
       "added_at": null,
@@ -991,8 +991,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Soporta",
-        "url": "https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg"
+        "name": "Ram\u00f3n Arellano",
+        "url": "https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D"
       },
       "artists": [
         {
@@ -1000,13 +1000,13 @@
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 164186,
-      "name": "Y Soporta",
-      "url": "https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu"
+      "duration_ms": 193844,
+      "name": "Ram\u00f3n Arellano",
+      "url": "https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f"
     }
   ],
   "unique_name": "This Is Grupo Firme",

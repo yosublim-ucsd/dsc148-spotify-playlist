@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto:  Ivandro, LUDMILLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,041 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,063 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 68 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 69 | [Agradeço](https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:29 |
 | 70 | [Lugar Favorito](https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Lugar Favorito](https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU) | 3:17 |
-| 71 | [Vidrado](https://open.spotify.com/track/6UZwtFwUbDJU9dY5D4b8zZ) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3) | [Vidrado](https://open.spotify.com/album/6V3Mh5PvpkUVr77QXysPTR) | 2:45 |
-| 72 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
+| 71 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
+| 72 | [Vidrado](https://open.spotify.com/track/6UZwtFwUbDJU9dY5D4b8zZ) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3) | [Vidrado](https://open.spotify.com/album/6V3Mh5PvpkUVr77QXysPTR) | 2:45 |
 | 73 | [Convite](https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Par Perfeito](https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP) | 2:33 |
 | 74 | [Ojé Ojé](https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Ojé Ojé](https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P) | 2:52 |
 | 75 | [SINAIS](https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [SINAIS](https://open.spotify.com/album/5loNhqIOFE1wsdKVF8Yd6K) | 3:26 |

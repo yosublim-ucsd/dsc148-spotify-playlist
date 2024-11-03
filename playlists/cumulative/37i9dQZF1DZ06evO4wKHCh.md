@@ -4,11 +4,12 @@
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-25 songs - 58 min 36 sec
+26 songs - 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 | 2024-01-10 |  |
+| [9 LIVES](https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [9 LIVES](https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7) | 3:02 | 2024-11-03 |  |
 | [Agree to Disagree](https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:22 | 2024-07-14 |  |
 | [ALL THESE KIDS](https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [ALL THESE KIDS](https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM) | 1:57 | 2024-09-22 |  |
 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 | 2024-01-10 |  |

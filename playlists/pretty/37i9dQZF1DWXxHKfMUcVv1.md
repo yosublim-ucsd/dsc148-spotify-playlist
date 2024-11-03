@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,293 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,334 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 8 | [He Querido Quererte](https://open.spotify.com/track/5buC1VFP7FSaB0YokvP0EJ) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Tico El Imigrante](https://open.spotify.com/artist/45CYEQIVD1Al0co9LLtklO) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:28 |
 | 9 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:11 |
 | 10 | [Amor Platonico](https://open.spotify.com/track/189ZkWdzkPWrNy5HmGW4XA) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:07 |
-| 11 | [Hechicera](https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Canciones Que Amo](https://open.spotify.com/album/1S3ISQFIikrKImUmUdQhwn) | 3:44 |
-| 12 | [Si Yo Fuera El](https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Gracias](https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7) | 3:12 |
+| 11 | [Si Yo Fuera El](https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Gracias](https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7) | 3:12 |
+| 12 | [Hechicera](https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Canciones Que Amo](https://open.spotify.com/album/1S3ISQFIikrKImUmUdQhwn) | 3:44 |
 | 13 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
 | 14 | [Mi Mujer](https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS) | [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [My Destiny](https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG) | 3:32 |
 | 15 | [Corazón](https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU) | [Cumbia Juan](https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:15 |
 | 16 | [El Gallo Rojo](https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Gallo Rojo](https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH) | 2:35 |
-| 17 | [Un Dia A La Vez](https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Las Mejores Vol\. 1](https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY) | 3:21 |
-| 18 | [Cinco Minutos](https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Sentimientos Encontrados](https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm) | 3:31 |
+| 17 | [Cinco Minutos](https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Sentimientos Encontrados](https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm) | 3:31 |
+| 18 | [Un Dia A La Vez](https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Las Mejores Vol\. 1](https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY) | 3:21 |
 | 19 | [Quiero Que Sepas](https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:43 |
 | 20 | [Una Cerveza](https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89) | [El Monchi Papa](https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB) | [Bailalo Como Quieras, Que Esto Cumbia Villera](https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV) | 3:35 |
 | 21 | [La Mami Que Mas Quiero](https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:24 |

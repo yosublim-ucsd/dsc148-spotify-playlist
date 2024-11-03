@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE"
@@ -5646,7 +5646,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 205045,
       "name": "Boucherie",
       "url": "https://open.spotify.com/track/0EDAdelJuVt815AlBn4HCF"
@@ -7571,6 +7571,28 @@
     },
     {
       "album": {
+        "name": "Chaque seconde (feat. M. Pokora)",
+        "url": "https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        },
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "Chaque seconde (feat. M. Pokora)",
+      "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
+    },
+    {
+      "album": {
         "name": "Carr\u00e9",
         "url": "https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn"
       },
@@ -7862,6 +7884,24 @@
       "duration_ms": 193540,
       "name": "Christmas Is Back in Town",
       "url": "https://open.spotify.com/track/2etA10mLFoJ1c0UOoeY7iZ"
+    },
+    {
+      "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155066,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
     },
     {
       "album": {
@@ -14794,7 +14834,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 168629,
       "name": "Ghetto Star",
       "url": "https://open.spotify.com/track/4ikvK0etm3r2KgL9w32xMz"
@@ -28750,7 +28790,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 217259,
       "name": "Petit g\u00e9nie",
       "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
@@ -33290,6 +33330,24 @@
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "album": {
+        "name": "Vivre...",
+        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "Si seulement...",
+      "url": "https://open.spotify.com/track/7IU0Caeq9jSYsdnDBKXqiu"
     },
     {
       "album": {

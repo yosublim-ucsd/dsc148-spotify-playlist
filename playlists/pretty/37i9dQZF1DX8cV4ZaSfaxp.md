@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(Cover: 정예인\(Yein\)\) \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,084 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,103 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 31 | [시그널 \(Signal\)](https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:20 |
 | 32 | [Beautiful Night](https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:39 |
 | 33 | [Like Heaven \(Feat\. Paul Blanco\)](https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Like Heaven](https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi) | 3:29 |
-| 34 | [Here, This Moment](https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0) | [ARTLOVEU](https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO) | [Here, This Moment](https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl) | 3:46 |
-| 35 | [A song from the past](https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A song from the past](https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC) | 3:55 |
+| 34 | [A song from the past](https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A song from the past](https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC) | 3:55 |
+| 35 | [Here, This Moment](https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0) | [ARTLOVEU](https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO) | [Here, This Moment](https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl) | 3:46 |
 | 36 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 |
 | 37 | [Elastic Love](https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [Elastic Love](https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC) | 3:38 |
 | 38 | [You Got](https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WJ STAY?](https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f) | 3:34 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 59 | [Breathing](https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Breathing](https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y) | 2:53 |
 | 60 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
 | 61 | [그대 Hello](https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [어린왕자 The Little Prince \- The 1st Mini Album](https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z) | 3:21 |
-| 62 | [Pier](https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Pier](https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd) | 2:54 |
-| 63 | [Reckless \(with TTG\)](https://open.spotify.com/track/4AjlkfzjcDBs9dsCRbBmFB) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Reckless](https://open.spotify.com/album/4PPuKcHISN1tFnSpWjOp0o) | 3:28 |
+| 62 | [Reckless \(with TTG\)](https://open.spotify.com/track/4AjlkfzjcDBs9dsCRbBmFB) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Reckless](https://open.spotify.com/album/4PPuKcHISN1tFnSpWjOp0o) | 3:28 |
+| 63 | [Pier](https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Pier](https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd) | 2:54 |
 | 64 | [feelight!](https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [feelight!](https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj) | 3:05 |
 | 65 | [After this night](https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [After this night](https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG) | 4:22 |
 | 66 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 94 | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/album/1rIQCBkQf1iYVCHK7hCxZr) | 4:15 |
 | 95 | [Love Counseling](https://open.spotify.com/track/3806qzWO2NAHJUEBse4g8a) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [Temperature of Love](https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV) | 3:46 |
 | 96 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 |
-| 97 | [City 1:00](https://open.spotify.com/track/0JsaFslY2aeK0gTWfASl9O) | [tang.erine](https://open.spotify.com/artist/3EYKQMtUKUH5LnfJVNjv7S) | [Late summer late night](https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO) | 2:26 |
-| 98 | [Slide](https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Nene](https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K) | [play ground](https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle) | 3:26 |
+| 97 | [Slide](https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Nene](https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K) | [play ground](https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle) | 3:26 |
+| 98 | [City 1:00](https://open.spotify.com/track/0JsaFslY2aeK0gTWfASl9O) | [tang.erine](https://open.spotify.com/artist/3EYKQMtUKUH5LnfJVNjv7S) | [Late summer late night](https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO) | 2:26 |
 | 99 | [The Reason Why](https://open.spotify.com/track/1RHbrUkbac7nUg5Zj86QgQ) | [Heju](https://open.spotify.com/artist/4wwWOTP0uQkwy905mukvXU) | [The Reason Why](https://open.spotify.com/album/04FO7xZADfgWN1hPb9DGMF) | 3:20 |
 | 100 | [Algorithm \(Eng Ver.\)](https://open.spotify.com/track/13Df3oSCawgxJ0GiwZwAxX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Algorithm \(Eng Ver.\)](https://open.spotify.com/album/5ggg0h1Ko4Uy23Nt1AeoqN) | 3:07 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Cesara Linaaaaaaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,681 likes - 352 songs - 1 day 0 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,025 likes - 352 songs - 1 day 0 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

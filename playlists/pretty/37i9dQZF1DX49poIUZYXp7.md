@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Tiera Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,120 likes - 130 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,193 likes - 130 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

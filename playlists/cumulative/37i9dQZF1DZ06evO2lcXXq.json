@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Then I Will (From The Motion Picture Bonhoeffer)",
+        "url": "https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251569,
+      "name": "Then I Will - From The Motion Picture Bonhoeffer",
+      "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
+    },
+    {
+      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },

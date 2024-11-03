@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 596988,
+  "num_followers": 597100,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Wilmersdorfs Kind",
         "url": "https://open.spotify.com/album/1qGEpCF1NA9ToIocKI4xVK"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 155722,
       "name": "IMMER (MIT MAKKO)",
       "url": "https://open.spotify.com/track/0UZOCEkRQ7kBNFH4NZgmHq"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
+        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 200683,
+      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Faster n Harder",
         "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 158822,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
-        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        },
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 200683,
-      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "TABU.",
-        "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
-      },
-      "artists": [
-        {
-          "name": "Yung Yury",
-          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
-        },
-        {
-          "name": "Damn Yury",
-          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
-        }
-      ],
-      "duration_ms": 135302,
-      "name": "TABU.",
-      "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "HERZ MACHT BAMM",
         "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 164750,
       "name": "HERZ MACHT BAMM",
       "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "TABU.",
+        "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
+      },
+      "artists": [
+        {
+          "name": "Yung Yury",
+          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
+        },
+        {
+          "name": "Damn Yury",
+          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
+        }
+      ],
+      "duration_ms": 135302,
+      "name": "TABU.",
+      "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Zelten auf Kies",
+        "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 137837,
+      "name": "Zelten auf Kies",
+      "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Meet Her At The Love Parade",
         "url": "https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 123292,
       "name": "BIKINI GRELL",
       "url": "https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Zelten auf Kies",
-        "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 137837,
-      "name": "Zelten auf Kies",
-      "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1839,22 +1839,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "KETA UND KRAWALL",
-        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+        "name": "GESPENSTER",
+        "url": "https://open.spotify.com/album/3DHMTc37qNDdA1KEtP5YWM"
       },
       "artists": [
         {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
         },
         {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
         }
       ],
-      "duration_ms": 125492,
-      "name": "KETA UND KRAWALL",
-      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+      "duration_ms": 168000,
+      "name": "GESPENSTER",
+      "url": "https://open.spotify.com/track/0IFHokanzfRH4Jlxq127fO"
     },
     {
       "added_at": "2024-10-24 22:00:00",

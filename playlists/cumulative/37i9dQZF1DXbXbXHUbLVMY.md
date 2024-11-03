@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-243 songs - 10 hr 35 min
+244 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Benzin](https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Benzin](https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R) | 1:56 | 2024-01-04 | 2024-04-22 |
 | [Beverly Hills](https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Beverly Hills](https://open.spotify.com/album/7hSjecsWNsaLrypYmc0tN5) | 3:08 | 2024-05-30 | 2024-06-10 |
 | [BIG BANDZ](https://open.spotify.com/track/5QYc0tl5ZAz8I7lMmlCuYJ) | [Rvzeli](https://open.spotify.com/artist/1ufmj2rsu21unXQ7C6naYy), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BIG BANDZ](https://open.spotify.com/album/38HjO1arCoX18hmmBSoR8c) | 2:31 | 2023-10-26 | 2023-11-11 |
-| [BIPOLAR](https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:50 | 2024-10-24 |  |
+| [Big Steppa](https://open.spotify.com/track/43MYhAw47PmHz31xY3mdrI) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Big Steppa](https://open.spotify.com/album/28xty25VaSYUpXBQwFKYEf) | 2:16 | 2024-10-31 |  |
+| [BIPOLAR](https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Kaja Gunnufsen](https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:50 | 2024-10-24 |  |
 | [Birken](https://open.spotify.com/track/481nGipeRBS6wgMO6sMnfI) | [M4](https://open.spotify.com/artist/0bqmtof2t8iOEZxZXeqSib), [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Birken](https://open.spotify.com/album/6QtYBxelHBopL9DwsJYX9v) | 3:08 | 2024-04-27 | 2024-07-19 |
 | [BLANCO](https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BLANCO](https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2) | 2:15 | 2023-09-21 |  |
 | [Blicky](https://open.spotify.com/track/5U0ndjpjzmT1aoLr3pB4zO) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Blicky](https://open.spotify.com/album/5k2auh0NC6uVPr1HsxHlTl) | 2:28 | 2024-05-30 | 2024-09-27 |
@@ -223,7 +224,7 @@
 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-11 |  |
 | [Säg Mig](https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Säg Mig](https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp) | 2:15 | 2024-02-15 |  |
 | [Tango](https://open.spotify.com/track/5TGveWo66AyNkhEbJyhhfY) | [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy), [KØBER](https://open.spotify.com/artist/60a2bBHgTEfBJxFeJykcbD) | [Tango](https://open.spotify.com/album/0ipce2oa34OW7g2g6mNhvQ) | 2:14 | 2023-09-21 | 2023-09-29 |
-| [Tappar kontroll](https://open.spotify.com/track/3JzsfvZ8mUk0zW3thtxnx7) | [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [Tappar kontroll](https://open.spotify.com/album/1PzBGPCkSnJm1ZuECf5A50) | 2:56 | 2024-07-18 |  |
+| [Tappar kontroll](https://open.spotify.com/track/3JzsfvZ8mUk0zW3thtxnx7) | [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [Tappar kontroll](https://open.spotify.com/album/1PzBGPCkSnJm1ZuECf5A50) | 2:56 | 2024-07-18 | 2024-11-03 |
 | [Tenk Inte](https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Tenk Inte](https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB) | 2:53 | 2024-07-11 |  |
 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 | 2024-04-25 |  |
 | [Thug Lover](https://open.spotify.com/track/3zpENN5MvOOv0pYj5YQWS7) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Thug Lover](https://open.spotify.com/album/1ojrLW3hbC1iU8oGJuMa1s) | 2:42 | 2024-03-14 | 2024-06-17 |

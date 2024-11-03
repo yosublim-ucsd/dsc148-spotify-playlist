@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah",
-  "num_followers": 174802,
+  "num_followers": 174855,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -343,46 +343,6 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
-        "name": "Rom\u00e2ntico, Pt. 2",
-        "url": "https://open.spotify.com/album/4F9PbT5etwnfzSHuNmh8cS"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 104988,
-      "name": "Fala a Verdade",
-      "url": "https://open.spotify.com/track/6R0shYSjgWuLheHn8l61bj"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
-      },
-      "artists": [
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 141502,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -403,6 +363,46 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
+      },
+      "artists": [
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 141502,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
+        "name": "Rom\u00e2ntico, Pt. 2",
+        "url": "https://open.spotify.com/album/4F9PbT5etwnfzSHuNmh8cS"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 104988,
+      "name": "Fala a Verdade",
+      "url": "https://open.spotify.com/track/6R0shYSjgWuLheHn8l61bj"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -487,6 +487,26 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
+        "name": "N\u00e3o Vou Negar",
+        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        },
+        {
+          "name": "papi",
+          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
+        }
+      ],
+      "duration_ms": 163937,
+      "name": "N\u00e3o Vou Negar",
+      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
         "name": "SEM BARULHO",
         "url": "https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 162711,
       "name": "SEM BARULHO",
       "url": "https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
-        "name": "N\u00e3o Vou Negar",
-        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        },
-        {
-          "name": "papi",
-          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
-        }
-      ],
-      "duration_ms": 163937,
-      "name": "N\u00e3o Vou Negar",
-      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2024-10-11 21:14:13",

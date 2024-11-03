@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 770125,
+  "num_followers": 770148,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Would You (go to bed with me?)",
-        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
-      },
-      "artists": [
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        },
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        }
-      ],
-      "duration_ms": 120522,
-      "name": "Would You (go to bed with me?)",
-      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Would You (go to bed with me?)",
+        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        },
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        }
+      ],
+      "duration_ms": 120522,
+      "name": "Would You (go to bed with me?)",
+      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv"
-      },
-      "artists": [
-        {
-          "name": "Old Jim",
-          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
-        },
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        }
-      ],
-      "duration_ms": 129412,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Hollow (feat. Bonn)",
         "url": "https://open.spotify.com/album/62cNVQX5G5tM6n302goHbL"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 200859,
       "name": "Hollow (feat. Bonn)",
       "url": "https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv"
+      },
+      "artists": [
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        }
+      ],
+      "duration_ms": 129412,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 136189,
+      "name": "Like Wooh Wooh - Radio Edit",
+      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Bittersweet Goodbye",
         "url": "https://open.spotify.com/album/1KZIiURBJs63wz3uuCapCu"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 160471,
       "name": "Bittersweet Goodbye",
       "url": "https://open.spotify.com/track/61H6DK37r2uyNryJAqUAXf"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Like Wooh Wooh",
-        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 136189,
-      "name": "Like Wooh Wooh - Radio Edit",
-      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -743,26 +743,6 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/5Y8mnPgyb9hOJxY1M0OJdx"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Don't You Cry",
-        "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        }
-      ],
-      "duration_ms": 246758,
-      "name": "Don't You Cry",
-      "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -807,6 +787,26 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Don't You Cry",
+        "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "duration_ms": 246758,
+      "name": "Don't You Cry",
+      "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
     },
     {
       "added_at": "2024-10-24 22:00:00",

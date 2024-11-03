@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 685920,
+  "num_followers": 686216,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-01-19 14:43:19",
       "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
-    },
-    {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
+    },
+    {
+      "added_at": "2024-01-19 14:43:19",
+      "album": {
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
       "added_at": "2024-01-19 14:43:19",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-01-19 14:43:19",
       "album": {
-        "name": "Rabbit Hearted.",
-        "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 210742,
-      "name": "Luv Note",
-      "url": "https://open.spotify.com/track/4wnvVlqdz6o7eLtbeS5sYR"
-    },
-    {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
         "name": "Let's Get Out Of This Country",
         "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 231160,
       "name": "Lloyd, I'm Ready To Be Heartbroken",
       "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+    },
+    {
+      "added_at": "2024-01-19 14:43:19",
+      "album": {
+        "name": "Rabbit Hearted.",
+        "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 210742,
+      "name": "Luv Note",
+      "url": "https://open.spotify.com/track/4wnvVlqdz6o7eLtbeS5sYR"
     },
     {
       "added_at": "2024-01-19 14:43:19",

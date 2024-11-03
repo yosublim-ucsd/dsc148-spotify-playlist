@@ -1,12 +1,12 @@
 {
   "description": "This is Adriana R\u00edos. The essential tracks, all in one playlist.",
-  "num_followers": 337,
+  "num_followers": 338,
   "original_name": "This Is Adriana R\u00edos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAADTLGxZJh9YHCHtgobsd4pc",
+  "snapshot_id": "ZyQaAAAAAADXx++dbJWOVhIfIJE2x6Au",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asi Hablamos en Tijuana",
-        "url": "https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 167223,
-      "name": "Asi Hablamos en Tijuana",
-      "url": "https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 200095,
       "name": "Por Qu\u00e9 No Me Esperaste?",
       "url": "https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asi Hablamos en Tijuana",
+        "url": "https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 167223,
+      "name": "Asi Hablamos en Tijuana",
+      "url": "https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+        "name": "Qu\u00e9 Tanto Es Tantito?",
+        "url": "https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 200728,
-      "name": "Yo soy Buena Mujer",
-      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
+      "duration_ms": 221554,
+      "name": "Qu\u00e9 Tanto Es Tantito?",
+      "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Tanto Es Tantito?",
-        "url": "https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 221554,
-      "name": "Qu\u00e9 Tanto Es Tantito?",
-      "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
+      "duration_ms": 200728,
+      "name": "Yo soy Buena Mujer",
+      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
     },
     {
       "added_at": null,
@@ -499,38 +499,6 @@
       "duration_ms": 164272,
       "name": "El que Quiero que Me Quiera",
       "url": "https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 199582,
-      "name": "Si no vas a Volver para Quedarte",
-      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 214954,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
     },
     {
       "added_at": null,
@@ -567,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 199582,
+      "name": "Si no vas a Volver para Quedarte",
+      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Mejor Versi\u00f3n de Mi",
         "url": "https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 137120,
       "name": "La Mejor Versi\u00f3n de Mi",
       "url": "https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 214954,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 172693,
-      "name": "Donde Pongo el Ojo - En Vivo",
-      "url": "https://open.spotify.com/track/3BGMZc1MSVQ43rob1JooW7"
+      "duration_ms": 202619,
+      "name": "Sigo Siendo Yo - En Vivo",
+      "url": "https://open.spotify.com/track/35SYuaFLd7Vr1dDcHs2Y1L"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 202619,
-      "name": "Sigo Siendo Yo - En Vivo",
-      "url": "https://open.spotify.com/track/35SYuaFLd7Vr1dDcHs2Y1L"
+      "duration_ms": 172693,
+      "name": "Donde Pongo el Ojo - En Vivo",
+      "url": "https://open.spotify.com/track/3BGMZc1MSVQ43rob1JooW7"
     },
     {
       "added_at": null,

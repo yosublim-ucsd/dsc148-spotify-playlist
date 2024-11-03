@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 103499,
+  "num_followers": 103513,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAAHj45mWnFIPOu8wUjJrSB+",
+  "snapshot_id": "ZyQaAAAAAAChhM7dUQ9+MOvSJx3tW2p2",
   "tracks": [
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes \u00c9xitos De Celia Cruz",
-        "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Guede Zaina",
-      "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 159266,
       "name": "Y Mi Negro Esta Cansao",
       "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandes \u00c9xitos De Celia Cruz",
+        "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Guede Zaina",
+      "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Vieja Luna",
+      "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patria y Vida (Salsa)",
         "url": "https://open.spotify.com/album/5VM9rbI3btwMg0aCMmteIF"
       },
@@ -955,42 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
       "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
         {
           "name": "Johnny Pacheco",
           "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 195360,
-      "name": "Vieja Luna",
-      "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homenaje A Los Santos",
-        "url": "https://open.spotify.com/album/3e0JIxetHstE71CcjUm5dl"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Saludo A Elegua",
-      "url": "https://open.spotify.com/track/3DeL13PLmBIFORVV3riJHN"
+      "duration_ms": 299133,
+      "name": "Tres D\u00edas De Carnaval",
+      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
     },
     {
       "added_at": null,
@@ -1011,22 +1011,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremendo Cache",
-        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+        "name": "Homenaje A Los Santos",
+        "url": "https://open.spotify.com/album/3e0JIxetHstE71CcjUm5dl"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         },
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 299133,
-      "name": "Tres D\u00edas De Carnaval",
-      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
+      "duration_ms": 197200,
+      "name": "Saludo A Elegua",
+      "url": "https://open.spotify.com/track/3DeL13PLmBIFORVV3riJHN"
     },
     {
       "added_at": null,
@@ -1055,18 +1055,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+        "name": "Calentura: Global Bassment",
+        "url": "https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu"
       },
       "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Happy Colors",
+          "url": "https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1"
+        },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 291240,
-      "name": "Saz\u00f3n",
-      "url": "https://open.spotify.com/track/5zUxfJLKT4bLFWR1ck6evc"
+      "duration_ms": 196440,
+      "name": "Virgencita - Happy Colors Remix",
+      "url": "https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk"
     }
   ],
   "unique_name": "This Is Celia Cruz",

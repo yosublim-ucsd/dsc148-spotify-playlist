@@ -823,6 +823,36 @@
     },
     {
       "album": {
+        "name": "My Family (feat. Migos) [from \"The Addams Family\"]",
+        "url": "https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Rock Mafia",
+          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177352,
+      "name": "My Family - from \"The Addams Family\"",
+      "url": "https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3"
+    },
+    {
+      "album": {
         "name": "No Me Cansare",
         "url": "https://open.spotify.com/album/0nhT5tj6EMv1TxyqaNynJx"
       },

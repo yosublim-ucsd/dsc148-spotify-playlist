@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,627 likes - 75 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,831 likes - 75 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 65 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 |
 | 66 | [BUBBLEGUM \- Jürgen Paape "Frutti Di Mare" Remix](https://open.spotify.com/track/4A1PYa1gZxIeRdF2iOHEYO) | [ISABELLA](https://open.spotify.com/artist/2mm9hPa6bzyiKaCeKBb55l), [Jürgen Paape](https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk) | [BUBBLEGUM \(Jürgen Paape "Frutti Di Mare" Remix\)](https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C) | 5:15 |
 | 67 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 |
-| 68 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
-| 69 | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ) | [ROLLOVER DJS](https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Saturnino](https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd) | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/album/00uw3T85RTvuXDX4QnUem4) | 4:17 |
+| 68 | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ) | [ROLLOVER DJS](https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Saturnino](https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd) | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/album/00uw3T85RTvuXDX4QnUem4) | 4:17 |
+| 69 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
 | 70 | [Wind of Change](https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1) | [Fred Ventura](https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC) | [Disco Modernism \(1983 \- 2008\)](https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu) | 6:11 |
 | 71 | [Under the Ice \- Original 12 Inch Version](https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC) | [Topo](https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3), [Roby](https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2) | [Under the Ice \- Single](https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk) | 7:12 |
 | 72 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |

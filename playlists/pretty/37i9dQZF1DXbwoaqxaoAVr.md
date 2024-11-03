@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,058 likes - 73 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,149 likes - 73 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 53 | [No Other Love \(feat\. Estelle\)](https://open.spotify.com/track/0FsqhyyHNZJfK29IpHihMK) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Evolver](https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A) | 3:59 |
 | 54 | [Circle of Peace](https://open.spotify.com/track/0NUnfqwO7g4jAijTRhrjGv) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/6dIsQaRQ8brUZkbI4TiZpm) | 3:21 |
 | 55 | [Catching Feelings \(feat\. J Boog\) \- Bimwala Remix](https://open.spotify.com/track/2mjlROYtPqKp9mWANqGtCf) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Bimwala](https://open.spotify.com/artist/6pXPBMM6APBn2Ffnh9M55C) | [Catching Feelings \(feat\. J Boog\) \[Bimwala Remix\]](https://open.spotify.com/album/6fkFfPMRuu19AOV1OjNBvJ) | 3:20 |
-| 56 | [Lonely](https://open.spotify.com/track/5rPIC7hQVaDSZryekHY89Z) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi) | 4:08 |
+| 56 | [Lonely](https://open.spotify.com/track/5rPIC7hQVaDSZryekHY89Z) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi) | 4:08 |
 | 57 | [Maneater \- Reggae Version](https://open.spotify.com/track/1OiqnA0P1YOuiNPHPYhq6V) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Maneater \(Reggae Version\)](https://open.spotify.com/album/2yOQTfcph2iV1BLTPhnj51) | 5:23 |
 | 58 | [Never Let You Down \(Remix\)](https://open.spotify.com/track/2Q2Md34uxHcRvSNzbCAgLH) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Never Let You Down \(Remix\)](https://open.spotify.com/album/65I2WkH3rAmgb1E4ef55he) | 3:08 |
 | 59 | [Be With You \- 2022 Version](https://open.spotify.com/track/0DpRKdn06BWfJlFd7eAyZt) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Sons of Zion](https://open.spotify.com/album/0UeLDwEOhTWT3pDbJ4otLc) | 3:40 |

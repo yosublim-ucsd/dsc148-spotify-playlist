@@ -4,7 +4,7 @@
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 45 min
+77 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Kódigos](https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS) | 3:47 | 2023-11-10 |  |
 | [La Que Se Fue](https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP) | 4:27 | 2023-11-10 |  |
 | [Liga Malandra 2](https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb), [Unex Msc](https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX) | [Liga Malandra 2](https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ) | 4:00 | 2023-11-10 |  |
-| [LLAMAS](https://open.spotify.com/track/5OoDPkBacv1y2hOsRmncGH) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [LLAMAS](https://open.spotify.com/album/0c0bwULhVKpaKQVdnLxfhZ) | 3:17 | 2024-07-27 |  |
+| [LLAMAS](https://open.spotify.com/track/5OoDPkBacv1y2hOsRmncGH) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [LLAMAS](https://open.spotify.com/album/0c0bwULhVKpaKQVdnLxfhZ) | 3:17 | 2024-07-27 | 2024-11-03 |
 | [Llévame](https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mundo](https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9) | 3:01 | 2023-11-10 | 2024-03-20 |
 | [Luna](https://open.spotify.com/track/2afIpPSlmdEAl5MFGo7HdH) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna](https://open.spotify.com/album/2jfMeBUOiBDKONVJC8KQ3r) | 3:18 | 2023-11-10 |  |
 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 | 2024-02-01 | 2024-09-01 |
@@ -82,6 +82,7 @@
 | [UNA RAYA MÁS](https://open.spotify.com/track/6xXbyR2OEM4GlnvKH1t45Z) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [UNA RAYA MÁS](https://open.spotify.com/album/2dR6j7w98qJLlzEHRuQKOh) | 3:34 | 2024-04-07 | 2024-09-08 |
 | [Veladora](https://open.spotify.com/track/30yDSVehKwPgcOJRqzSdqb) | [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Veladora](https://open.spotify.com/album/5HrGdWT7IY9w69hOU7iZxM) | 3:19 | 2023-11-10 | 2023-12-14 |
 | [Vuelo](https://open.spotify.com/track/7qbuOorMhBfKWBp9ISG28e) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL) | [Vuelo](https://open.spotify.com/album/2WZ35ep2rDjfCh4Q6FNCDC) | 3:28 | 2023-11-10 |  |
+| [Ya Saben La Clave](https://open.spotify.com/track/5EpIInk8tqRhzX2RVlDP6N) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ya Saben La Clave](https://open.spotify.com/album/2FHXwhkoUQ8I7BFUMrvne4) | 2:19 | 2024-11-03 |  |
 | [YA VALIÓ](https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [YA VALIÓ](https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr) | 2:31 | 2024-06-17 | 2024-08-21 |
 | [Yo Seguiré](https://open.spotify.com/track/07VIbpia09fYA7Z9GpY4c6) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Yo Seguiré](https://open.spotify.com/album/5NwFvLJWl7Ehwe8R4BFgJN) | 3:52 | 2023-11-10 |  |
 

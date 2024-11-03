@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Souldia
 
-2,929 songs - 6 day 11 hr 51 min
+2,930 songs - 6 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,10 +457,11 @@
 | [Chiens habillés](https://open.spotify.com/track/5riMSZxTduU3bMgr2B26E5) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Chiens habillés](https://open.spotify.com/album/7LbJ2LedRWrZA8056mFM52) | 2:22 | 2023-02-10 | 2023-02-25 |
 | [Cho Na Cho](https://open.spotify.com/track/442dkmih1sUDsCYMGGXrWT) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Cho Na Cho](https://open.spotify.com/album/2JEvOtNRCHxEQsva13KrAW) | 3:02 | 2022-02-04 | 2022-02-19 |
 | [Chocolat](https://open.spotify.com/track/6Are8wJXglZ9q9QX00xoLV) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [AGUÀ EXTEND'EAU](https://open.spotify.com/album/5fvffbbz0BfUuo42slpV9A) | 3:09 | 2022-06-10 | 2022-06-25 |
-| [Chocolat chaud](https://open.spotify.com/track/6W5Miaq8gfSJMslaU9fTir) | [Brown Family](https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW) | [Durags & coeurs brisés](https://open.spotify.com/album/3Nse3qJB3OujgMlaVYfDDM) | 3:59 | 2024-11-01 |  |
+| [Chocolat chaud](https://open.spotify.com/track/6W5Miaq8gfSJMslaU9fTir) | [Brown Family](https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW), [HAWA B](https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam) | [Durags & coeurs brisés](https://open.spotify.com/album/3Nse3qJB3OujgMlaVYfDDM) | 3:59 | 2024-11-01 |  |
 | [Choker](https://open.spotify.com/track/2n9JkcdNp7pFviL0qdmmuH) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Choker](https://open.spotify.com/album/795cwI0M8cjrFb86T2dcqf) | 3:13 | 2022-05-27 | 2022-06-11 |
 | [Chorale](https://open.spotify.com/track/5tss9uEnYDuHGK6Dkc0HII) | [Olivier Lessard](https://open.spotify.com/artist/475de0iJKSQa7PebOU27Lk) | [Chorale](https://open.spotify.com/album/5g10y4j8zX5zpqPapVwjzA) | 3:16 | 2022-04-29 | 2022-05-14 |
 | [Choré](https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Choré](https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20) | 3:00 | 2024-07-20 | 2024-09-21 |
+| [CHROME](https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [CHROME](https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX) | 2:35 | 2024-11-01 |  |
 | [Chrome](https://open.spotify.com/track/4td35NZotdGMJtFhCkZ4jh) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/4sDZK3v11y3o90np32XcJS) | 2:49 | 2023-02-24 | 2023-03-11 |
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2022-11-11 | 2022-12-03 |
 | [Chu faite comme ça](https://open.spotify.com/track/74ZR7MgLLDULPnB3xCbYUT) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO), [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk) | [Chu faite comme ça](https://open.spotify.com/album/0ErQTTS9PPDy1MpYBADy1R) | 2:21 | 2022-08-26 | 2022-09-10 |
@@ -715,7 +716,7 @@
 | [Double vie décadente](https://open.spotify.com/track/4dAfZzp86jPkANLeKJfbDB) | [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf), [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Aequanimitas](https://open.spotify.com/album/49c4wopLmVaZHHG2Wr0WKh) | 4:04 | 2024-05-24 | 2024-06-01 |
 | [Doudou](https://open.spotify.com/track/7CTP8zjKDI25DGibdzEIS7) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Doudou](https://open.spotify.com/album/0BpbF8kQVKg165nMZLF6DG) | 3:24 | 2023-02-10 | 2023-02-25 |
 | [Doudou](https://open.spotify.com/track/1cgRpYVOkYnxomkDpYLyba) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Cartel : volume 1 & 2](https://open.spotify.com/album/5YPvyAo9EUi0gIv8oEprFc) | 3:01 | 2021-12-31 | 2022-01-22 |
-| [DOUTE \(feat\. Zamdane\)](https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Arabian Heartbreak](https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK) | 3:04 | 2024-09-20 |  |
+| [DOUTE \(feat\. Zamdane\)](https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Arabian Heartbreak](https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK) | 3:04 | 2024-09-20 | 2024-11-03 |
 | [Doux](https://open.spotify.com/track/5JPj0yjiqe7B3kzGYN900F) | [Sarah Villeneuve](https://open.spotify.com/artist/2KKuXLeQXtuOKKiWP1xdRE) | [Doux](https://open.spotify.com/album/7wBkEWvGeAvdQBeVV5uG4o) | 4:00 | 2022-04-01 | 2022-04-09 |
 | [Doué](https://open.spotify.com/track/5RA8lfUpypk40aqp1CIYSQ) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [EGO](https://open.spotify.com/album/451uEKAXSbMJ5Pry6mIANM) | 2:47 | 2022-10-21 | 2022-11-05 |
 | [DOWN](https://open.spotify.com/track/2FLFmCpVrGBTp0C85BaFWL) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [DOWN](https://open.spotify.com/album/4PN3DB5DCWhfnKL8MPmmJV) | 2:45 | 2022-11-25 | 2022-12-24 |

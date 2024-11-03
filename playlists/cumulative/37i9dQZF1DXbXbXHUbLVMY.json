@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Big Steppa",
+        "url": "https://open.spotify.com/album/28xty25VaSYUpXBQwFKYEf"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "date_added": "2024-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136082,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/43MYhAw47PmHz31xY3mdrI"
+    },
+    {
+      "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
@@ -526,6 +544,10 @@
         {
           "name": "Marstein",
           "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Kaja Gunnufsen",
+          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
         }
       ],
       "date_added": "2024-10-24",
@@ -4346,7 +4368,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 176495,
       "name": "Tappar kontroll",
       "url": "https://open.spotify.com/track/3JzsfvZ8mUk0zW3thtxnx7"

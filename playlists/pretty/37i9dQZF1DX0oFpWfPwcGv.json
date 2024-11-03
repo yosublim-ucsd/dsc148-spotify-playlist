@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 65540,
+  "num_followers": 65566,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Music Speaks Louder Than Words",
-        "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Nights on Broadway",
-      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Odyssey (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 336466,
       "name": "Native New Yorker - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Music Speaks Louder Than Words",
+        "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Nights on Broadway",
+      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Instant Replay (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
-      },
-      "artists": [
-        {
-          "name": "Dan Hartman",
-          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
-        }
-      ],
-      "duration_ms": 320480,
-      "name": "Instant Replay",
-      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Step II",
         "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 355263,
       "name": "Dance (Disco Heat)",
       "url": "https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Instant Replay (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
+      },
+      "artists": [
+        {
+          "name": "Dan Hartman",
+          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
+        }
+      ],
+      "duration_ms": 320480,
+      "name": "Instant Replay",
+      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Music Man",
-        "url": "https://open.spotify.com/album/2uo8Z48H5MLZEok6e01JQ8"
-      },
-      "artists": [
-        {
-          "name": "Revanche",
-          "url": "https://open.spotify.com/artist/2JhFT8njG4DcTuLQAo0Bi9"
-        }
-      ],
-      "duration_ms": 519546,
-      "name": "1979 It's Dancing Time (Full Length Album Mix)",
-      "url": "https://open.spotify.com/track/4HeTM95uOsZgfZkj0WKJ3P"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Reddy",
         "url": "https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 399200,
       "name": "Make Love To Me",
       "url": "https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Music Man",
+        "url": "https://open.spotify.com/album/2uo8Z48H5MLZEok6e01JQ8"
+      },
+      "artists": [
+        {
+          "name": "Revanche",
+          "url": "https://open.spotify.com/artist/2JhFT8njG4DcTuLQAo0Bi9"
+        }
+      ],
+      "duration_ms": 519546,
+      "name": "1979 It's Dancing Time (Full Length Album Mix)",
+      "url": "https://open.spotify.com/track/4HeTM95uOsZgfZkj0WKJ3P"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
-        "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        }
-      ],
-      "duration_ms": 346600,
-      "name": "It's a Better Than Good Time",
-      "url": "https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 429813,
       "name": "Angel in My Pocket - Extended Version",
       "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
+        "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        }
+      ],
+      "duration_ms": 346600,
+      "name": "It's a Better Than Good Time",
+      "url": "https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL"
     },
     {
       "added_at": "2024-09-07 16:02:33",

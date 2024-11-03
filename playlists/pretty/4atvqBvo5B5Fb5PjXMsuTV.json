@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Nov 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Nov 05:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAM4vF/GfoR/0zgX1URxtd77aVPth2p",
+  "snapshot_id": "AAAM5ErNAFQVesb8pTHTGc/7+/Xi1v/N",
   "tracks": [
+    {
+      "added_at": "2024-11-02 05:02:28",
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/4uHEPiWbpnpaoiaAHi4jmO"
+      },
+      "artists": [
+        {
+          "name": "AaRON",
+          "url": "https://open.spotify.com/artist/6q8cNe6Wif1WvM97vcFD8O"
+        }
+      ],
+      "duration_ms": 243960,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/3H54M5tILLB0VDwrpJKJIb"
+    },
     {
       "added_at": "2024-11-01 05:03:09",
       "album": {
@@ -677,6 +693,26 @@
       "url": "https://open.spotify.com/track/6F8bla4C7O8JvA2J0OuSt7"
     },
     {
+      "added_at": "2024-11-02 05:02:28",
+      "album": {
+        "name": "Need I Say More",
+        "url": "https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 178893,
+      "name": "Need I Say More",
+      "url": "https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl"
+    },
+    {
       "added_at": "2024-11-01 08:02:42",
       "album": {
         "name": "\u0426\u0435\u043d\u0442\u0440",
@@ -807,38 +843,6 @@
       "duration_ms": 230476,
       "name": "to be free",
       "url": "https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE"
-    },
-    {
-      "added_at": "2024-11-01 14:02:51",
-      "album": {
-        "name": "Clean & Dirty",
-        "url": "https://open.spotify.com/album/2RFV2mW2k2enGsa53MViqJ"
-      },
-      "artists": [
-        {
-          "name": "1900Rugrat",
-          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
-        }
-      ],
-      "duration_ms": 162303,
-      "name": "Clean & Dirty",
-      "url": "https://open.spotify.com/track/4pSL4BvVj6kdBRdEDgLuhj"
-    },
-    {
-      "added_at": "2024-11-01 17:02:39",
-      "album": {
-        "name": "Walla Walla",
-        "url": "https://open.spotify.com/album/61IDujjLMCiOcuCl5Tixzi"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 172504,
-      "name": "Walla Walla",
-      "url": "https://open.spotify.com/track/5t0bkMURhbmZabN1DLM7xi"
     }
   ],
   "unique_name": "New Singles Now",

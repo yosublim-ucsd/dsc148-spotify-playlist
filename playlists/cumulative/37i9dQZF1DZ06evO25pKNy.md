@@ -4,7 +4,7 @@
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 56 min
+60 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 | 2024-01-29 |  |
 | [Como Debe Ser](https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP) | [Marca De Rancho](https://open.spotify.com/artist/0z9MnTktQ28puENoMtrc9U), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Como Debe Ser](https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM) | 2:10 | 2024-01-29 |  |
 | [COMPTON](https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:45 | 2024-01-29 |  |
+| [Contrato Con La Muerte](https://open.spotify.com/track/7KFDZYka1XWE7a6RIrdmaP) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jimmy Humilde Presenta Lo Mejor De Los 90's](https://open.spotify.com/album/1osJOSkOwfD5UBZ50ksQsH) | 3:19 | 2024-11-03 |  |
 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 | 2024-01-29 |  |
 | [De Botas O Gabanas](https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [De Botas O Gabanas](https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp) | 2:50 | 2024-01-29 |  |
 | [De Texas A California](https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:15 | 2024-01-29 |  |
@@ -55,7 +56,7 @@
 | [PHX](https://open.spotify.com/track/2jQci8Dr902XIFaeG1WBk0) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [PHX](https://open.spotify.com/album/1IOv8ht4ixe1npaJe3lp6z) | 3:05 | 2024-08-21 |  |
 | [Por Buen Camino](https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:15 | 2024-01-29 |  |
 | [Power](https://open.spotify.com/track/4l1d34SW8r4yD4klZZj8oC) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Jaimito Morales](https://open.spotify.com/artist/1dpLkjxULQu1OJDED7cjs9) | [Power](https://open.spotify.com/album/2W0a475HJ51N4lLX0czxQG) | 3:09 | 2024-01-29 |  |
-| [Quisiste Tú Volver](https://open.spotify.com/track/6sXr9EGXkIkWtSMU74VBDM) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Quisiste Tú Volver](https://open.spotify.com/album/4wBviDB8A3WuLU9PRFNDSR) | 3:16 | 2024-01-29 |  |
+| [Quisiste Tú Volver](https://open.spotify.com/track/6sXr9EGXkIkWtSMU74VBDM) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Quisiste Tú Volver](https://open.spotify.com/album/4wBviDB8A3WuLU9PRFNDSR) | 3:16 | 2024-01-29 | 2024-11-03 |
 | [Recordando Al Chavalon](https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Recordando Al Chavalon](https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8) | 2:12 | 2024-06-18 |  |
 | [Recordando La Sierra](https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 3:02 | 2024-01-29 | 2024-08-23 |
 | [Seguimos De Pie](https://open.spotify.com/track/39oXiJCb2hTwApmhnCqtDB) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Seguimos De Pie](https://open.spotify.com/album/17qGyplLRnEhPdpPASdcSy) | 2:46 | 2024-03-23 | 2024-06-12 |

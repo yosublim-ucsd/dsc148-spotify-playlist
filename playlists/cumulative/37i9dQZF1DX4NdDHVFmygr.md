@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-415 songs - 22 hr 10 min
+416 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Di Mochkila](https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Di Mochkila](https://open.spotify.com/album/0O3gGUuUaEOMLyhFH91KHK) | 2:25 | 2024-01-09 | 2024-08-29 |
 | [Diali](https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Arabesque Vol\. 3](https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX) | 2:46 | 2023-03-16 | 2024-05-28 |
 | [Dime Porque](https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dime Porque](https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v) | 3:01 | 2022-06-02 | 2022-11-22 |
+| [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 | 2024-11-02 |  |
 | [Dirou Niyya \- Official Moroccan Fan Chant](https://open.spotify.com/track/2pDBEAiA554r73laQPmzOW) | [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Dirou Niyya \(Official Moroccan Fan Chant\)](https://open.spotify.com/album/4dh7GUAykeLvwzGOVM1lcb) | 2:57 | 2022-12-27 | 2023-03-07 |
 | [Dj](https://open.spotify.com/track/0agokZZS8l1k5HBwwFsUz6) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [DJ](https://open.spotify.com/album/0MQHeMqNgSqfmMGIb9NFTO) | 4:07 | 2023-01-16 | 2023-02-03 |
 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2023-12-07 | 2024-01-04 |
@@ -122,7 +123,7 @@
 | [F'B3ADEK](https://open.spotify.com/track/7qDPLZaZ6gYQ4RU3x66MPR) | [Jamoul](https://open.spotify.com/artist/3exUAiuWlhYuYRG4VjcrTX), [Bilal Africano](https://open.spotify.com/artist/4zmFRtgn99DrWdpZQVHb13) | [F'B3ADEK](https://open.spotify.com/album/0mvKnAGR4DD87qzK59z7iY) | 3:14 | 2022-11-09 | 2022-11-22 |
 | [Fake](https://open.spotify.com/track/53DpbBbpjG9XbjfYX41I6h) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Fake](https://open.spotify.com/album/3pYbxtdmGzydNPWWlOd81Y) | 3:50 | 2024-03-04 | 2024-04-26 |
 | [Fat L'Fout](https://open.spotify.com/track/5mOm6cmu8BAqFFmmOclX8r) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Fat L'Fout](https://open.spotify.com/album/4DLLxADxhGyLs26CIjPaXk) | 2:26 | 2023-08-26 | 2024-06-04 |
-| [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 | 2024-10-01 |  |
+| [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 | 2024-10-01 | 2024-11-03 |
 | [Fin Ghadia Bia](https://open.spotify.com/track/3AidVpiTLO0ef8t9Ijfw6l) | [Rachid Goudi](https://open.spotify.com/artist/5hsP4094TnggYBrPxOvgUm) | [Fin Ghadia Bia](https://open.spotify.com/album/6xzNpEqdF2XulXSyt2dyQr) | 3:30 | 2022-06-22 | 2022-08-10 |
 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 | 2023-07-05 | 2024-05-23 |
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-09 | 2023-06-14 |

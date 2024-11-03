@@ -1,33 +1,13 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 52349,
+  "num_followers": 52360,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAABKBlLAb7DUwzXA1Lfe691w",
+  "snapshot_id": "ZyQaAAAAAADVYPh/6uAHYlR31R4wshdD",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Los Que Dec\u00edan Que No",
-        "url": "https://open.spotify.com/album/7n6g7CdKZQgrYyomciT1Om"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Santa Salut",
-          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
-        }
-      ],
-      "duration_ms": 219782,
-      "name": "Por Los Que Dec\u00edan Que No",
-      "url": "https://open.spotify.com/track/2we91mmgiUvO0tLespW9GG"
-    },
     {
       "added_at": null,
       "album": {
@@ -563,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Ti Estoy Loco",
+        "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222843,
+      "name": "Por Ti Estoy Loco",
+      "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti Estoy Loco",
-        "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 222843,
-      "name": "Por Ti Estoy Loco",
-      "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portarnos Mal",
         "url": "https://open.spotify.com/album/090BtctH6uWl0H1HH088db"
       },
@@ -635,26 +615,6 @@
       "duration_ms": 198260,
       "name": "Portarnos Mal",
       "url": "https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Borrachera",
-        "url": "https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Pura Borrachera",
-      "url": "https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6"
     },
     {
       "added_at": null,
@@ -683,6 +643,26 @@
       "duration_ms": 285000,
       "name": "No Es Que Sea Mam\u00f3n",
       "url": "https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Borrachera",
+        "url": "https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Pura Borrachera",
+      "url": "https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6"
     },
     {
       "added_at": null,
@@ -875,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toques de Queda",
+        "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Ultimadamente",
+      "url": "https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Perd\u00ed",
         "url": "https://open.spotify.com/album/6S2t4FIFbtG9Lov0u4WqGu"
       },
@@ -895,26 +895,6 @@
       "duration_ms": 169142,
       "name": "Me Perd\u00ed",
       "url": "https://open.spotify.com/track/1tYBjcreU2WONT4AmhZ7oc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toques de Queda",
-        "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Ultimadamente",
-      "url": "https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn"
     },
     {
       "added_at": null,
@@ -1123,6 +1103,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Inmensidades",
+        "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 189078,
+      "name": "Tequila y Lim\u00f3n",
+      "url": "https://open.spotify.com/track/72zs1y5Oe4LmORRE3DmthP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CALIENTE",
         "url": "https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT"
       },
@@ -1147,30 +1151,6 @@
       "duration_ms": 302104,
       "name": "CALIENTE",
       "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Inmensidades",
-        "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
-      },
-      "artists": [
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Gordo del Funk",
-          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 189078,
-      "name": "Tequila y Lim\u00f3n",
-      "url": "https://open.spotify.com/track/72zs1y5Oe4LmORRE3DmthP"
     },
     {
       "added_at": null,
@@ -1227,6 +1207,26 @@
       "duration_ms": 234000,
       "name": "Alzypher Vol. 3",
       "url": "https://open.spotify.com/track/7mIvi3Y1fVVogsEEMGtqz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Los Que Dec\u00edan Que No",
+        "url": "https://open.spotify.com/album/7n6g7CdKZQgrYyomciT1Om"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        }
+      ],
+      "duration_ms": 219782,
+      "name": "Por Los Que Dec\u00edan Que No",
+      "url": "https://open.spotify.com/track/2we91mmgiUvO0tLespW9GG"
     },
     {
       "added_at": null,
@@ -1339,38 +1339,6 @@
       "duration_ms": 190625,
       "name": "Vamos a Beber",
       "url": "https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/0IZVbbPAIaQaFqDYTOyljc"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "B-RASTER",
-          "url": "https://open.spotify.com/artist/4TH5DHRtzUUijYshUgKdby"
-        },
-        {
-          "name": "Sid MSC",
-          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
-        }
-      ],
-      "duration_ms": 345652,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/1yuSIU8jZxvoXX1QERfWKE"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

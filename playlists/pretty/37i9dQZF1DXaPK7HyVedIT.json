@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Malive",
-  "num_followers": 1244808,
+  "num_followers": 1244762,
   "original_name": "Dance Paradise",
   "owner": {
     "name": "Spotify",
@@ -972,12 +972,12 @@
       },
       "artists": [
         {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        },
-        {
           "name": "Cat Dealers",
           "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
         }
       ],
       "duration_ms": 167716,

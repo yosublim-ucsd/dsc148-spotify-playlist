@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,598 likes - 462 songs - 1 day 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,612 likes - 462 songs - 1 day 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -346,7 +346,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 336 | [iAAM](https://open.spotify.com/track/2uaihUX7HbKyXBpFxOUT2a) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:03 |
 | 337 | [Miss You](https://open.spotify.com/track/61cy3MyZTZkYbKPAoRfzqP) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:23 |
 | 338 | [All That Matters \(The Beautiful Life\)](https://open.spotify.com/track/7949ooAKks9n3EB5CesM4B) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:37 |
-| 339 | [I Don't Care \(with Justin Bieber\) \- Chronixx & Koffee Remix](https://open.spotify.com/track/2Xqm0jHnkvjzrkkVRInzUB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [I Don't Care \(with Justin Bieber\) \[Chronixx & Koffee Remix\]](https://open.spotify.com/album/1alDPx3BdkU4YBHRZ8gGLu) | 3:38 |
+| 339 | [I Don't Care \(with Justin Bieber\) \- Chronixx & Koffee Remix](https://open.spotify.com/track/2Xqm0jHnkvjzrkkVRInzUB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [I Don't Care \(with Justin Bieber\) \[Chronixx & Koffee Remix\]](https://open.spotify.com/album/1alDPx3BdkU4YBHRZ8gGLu) | 3:38 |
 | 340 | [The Final Fight](https://open.spotify.com/track/1sTUyx1NWS3eAjnlUF7EXW) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:09 |
 | 341 | [One More Try \(from & Juliet\)](https://open.spotify.com/track/7cohRKBHDeIVhPGlU9toqE) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [One More Try \(from & Juliet\)](https://open.spotify.com/album/5fHaL0U2KypgNtcOqLaXUC) | 3:16 |
 | 342 | [California Lovers](https://open.spotify.com/track/1lfhZpDzijEUwF8EI2Jgho) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:40 |
@@ -471,4 +471,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 461 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 462 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `AbgXygAAAABG89y0M1wqFazVKdZu/etK`
+Snapshot ID: `AbgddAAAAADk17REYcoBBRV0iHc8KcMX`

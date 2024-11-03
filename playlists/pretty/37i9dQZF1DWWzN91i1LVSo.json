@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123707,
+  "num_followers": 123706,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Part of Me",
-        "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 237230,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Light (Edit)",
         "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 185373,
       "name": "Light - Edit",
       "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 237230,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "In Plain Sight",
-        "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 156802,
-      "name": "In Plain Sight",
-      "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Melchor Lullaby Hotline Vol. 1",
         "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 194266,
       "name": "Moon in the Morning",
       "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "In Plain Sight",
+        "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 156802,
+      "name": "In Plain Sight",
+      "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Immune",
+        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 210165,
+      "name": "Immune",
+      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 211000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Immune",
-        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 210165,
-      "name": "Immune",
-      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/4Fvbi4wxMw12cXWkAHlt0Z"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 174558,
       "name": "Hot Mess",
       "url": "https://open.spotify.com/track/5V93DZxOOLqTT5zF8uWOm2"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Temple (Unplugged)",
+        "url": "https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW"
+      },
+      "artists": [
+        {
+          "name": "Matthew And The Atlas",
+          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
+        }
+      ],
+      "duration_ms": 279680,
+      "name": "Elijah - Acoustic Version",
+      "url": "https://open.spotify.com/track/6FnCRa4EVBmzHaLxKKGsCb"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Temple (Unplugged)",
-        "url": "https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
       },
       "artists": [
         {
-          "name": "Matthew And The Atlas",
-          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 279680,
-      "name": "Elijah - Acoustic Version",
-      "url": "https://open.spotify.com/track/6FnCRa4EVBmzHaLxKKGsCb"
+      "duration_ms": 244213,
+      "name": "Beyond - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
+        "name": "As a Child",
+        "url": "https://open.spotify.com/album/49PschqwWD3K9b8vrWzuAb"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
         }
       ],
-      "duration_ms": 244213,
-      "name": "Beyond - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
+      "duration_ms": 190960,
+      "name": "As a Child",
+      "url": "https://open.spotify.com/track/2EX5zYrsrFWFPukAxfQ8Iv"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 212493,
       "name": "Devil On My Shoulder",
       "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "As a Child",
-        "url": "https://open.spotify.com/album/49PschqwWD3K9b8vrWzuAb"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "As a Child",
-      "url": "https://open.spotify.com/track/2EX5zYrsrFWFPukAxfQ8Iv"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "In Another Lifetime",
-        "url": "https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO"
-      },
-      "artists": [
-        {
-          "name": "Paige Fish",
-          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "The Bad Guy",
-      "url": "https://open.spotify.com/track/2xGHrlMrQwqkxpfEvoMhIK"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "getting older",
         "url": "https://open.spotify.com/album/0c6wCWOriEOPRWKQQkjI01"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 166214,
       "name": "getting older",
       "url": "https://open.spotify.com/track/3e9Z0TBZPg21jOHnufb2jL"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "In Another Lifetime",
+        "url": "https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "The Bad Guy",
+      "url": "https://open.spotify.com/track/2xGHrlMrQwqkxpfEvoMhIK"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "You Look Like You Can't Swim",
-        "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
+        "name": "Colors (Acoustic)",
+        "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 168086,
-      "name": "You Look Like You Can't Swim",
-      "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
+      "duration_ms": 323008,
+      "name": "Colors - Acoustic",
+      "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Colors (Acoustic)",
-        "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
+        "name": "You Look Like You Can't Swim",
+        "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
       },
       "artists": [
         {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 323008,
-      "name": "Colors - Acoustic",
-      "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
+      "duration_ms": 168086,
+      "name": "You Look Like You Can't Swim",
+      "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
     },
     {
       "added_at": "2024-05-24 04:00:00",

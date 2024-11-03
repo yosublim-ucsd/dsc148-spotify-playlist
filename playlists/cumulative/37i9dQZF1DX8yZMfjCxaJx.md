@@ -4,7 +4,7 @@
 
 > Las favoritas de los patrones\. Tomás Ballardo en portada.
 
-196 songs - 10 hr 10 min
+197 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/album/480oASOS6npWutZkW7zeNf) | 2:33 | 2024-01-26 |  |
 | [El Charal](https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Charal](https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ) | 3:22 | 2024-02-09 | 2024-05-25 |
 | [El Chargerson](https://open.spotify.com/track/6I9paxSvcPli328O9uEcbj) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [El Chargerson](https://open.spotify.com/album/4ynhOVtRoexg76vEJmoAHW) | 2:24 | 2024-04-12 | 2024-04-27 |
-| [El Chavalito](https://open.spotify.com/track/1vL1HDI2FcvXN8RjJuVx5S) | [Los Zutanos](https://open.spotify.com/artist/2wCT5vFRhiJwFLg0mZPebc), [KD Music](https://open.spotify.com/artist/7ICoTSkEPC8PuOpbqvbdLa) | [El Chavalito](https://open.spotify.com/album/6pXa6j6VbkgTizKnXBjZQT) | 2:05 | 2024-08-30 |  |
+| [El Chavalito](https://open.spotify.com/track/1vL1HDI2FcvXN8RjJuVx5S) | [Los Zutanos](https://open.spotify.com/artist/2wCT5vFRhiJwFLg0mZPebc), [KD Music](https://open.spotify.com/artist/7ICoTSkEPC8PuOpbqvbdLa) | [El Chavalito](https://open.spotify.com/album/6pXa6j6VbkgTizKnXBjZQT) | 2:05 | 2024-08-30 | 2024-11-03 |
 | [El Chavo Felix](https://open.spotify.com/track/32n9g4H0H85AzOeiMAbSjE) | [Kirri Enigma](https://open.spotify.com/artist/36nV3psZJft6vV1G7YEz9X) | [El Chavo Felix](https://open.spotify.com/album/6RQfFsFKkWX0X5Vrz9i6XA) | 2:47 | 2024-01-26 | 2024-02-15 |
 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 | 2024-01-26 |  |
 | [El Cinco De Las Cuatro](https://open.spotify.com/track/1TUszLjyHqWjruuOMOv0ro) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Cinco De Las Cuatro](https://open.spotify.com/album/6aIKbjrdIynZPF4nKRgwSI) | 3:01 | 2024-01-26 | 2024-02-04 |
@@ -95,6 +95,7 @@
 | [El Muchacho de la Barba](https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [El Muchacho de la Barba](https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ) | 2:34 | 2024-05-10 |  |
 | [El Muletas](https://open.spotify.com/track/1K1Y3NUDZulng4vgoRR6hE) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [El Muletas](https://open.spotify.com/album/5YT6xi1UEcpYh07FRQc3Q5) | 3:36 | 2024-07-19 | 2024-08-24 |
 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 | 2024-01-26 |  |
+| [El Número](https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:09 | 2024-11-01 |  |
 | [El P8](https://open.spotify.com/track/3ETjJoHFlZdlNYwYFXXMYg) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [El P8](https://open.spotify.com/album/01hMLYztvfMO4LNmv8AUoV) | 3:36 | 2024-07-19 | 2024-08-24 |
 | [El Panu \(En Vivo\)](https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 2:37 | 2024-01-26 |  |
 | [El Plumas](https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Plumas](https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp) | 2:30 | 2024-08-23 |  |

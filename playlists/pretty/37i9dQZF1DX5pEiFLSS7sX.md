@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,916 likes - 75 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,966 likes - 75 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 50 | [How Great Thou Art \- Live](https://open.spotify.com/track/31Pg9jmlYPwG5jCEBbRwE7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Singalong \(Live\)](https://open.spotify.com/album/3ykkVPx4b9PDfp6rUmC3n9) | 2:03 |
 | 51 | [Worthy \(Live\)](https://open.spotify.com/track/5A1HchBRzogpjMP0GvSt0j) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Isla Vista Worship Presents Ryan Ellis Live from the Upper Room II](https://open.spotify.com/album/0XZqQTpAx04RKjP49pgaeQ) | 8:29 |
 | 52 | [Wait Upon the Lord \(Spontaneous\) \- Live](https://open.spotify.com/track/54ssR8bIVLOi4S1KH9lcS6) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 7:02 |
-| 53 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
-| 54 | [Be With Me](https://open.spotify.com/track/51YwIV5laxNugYz32eJIdw) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 3:46 |
+| 53 | [Be With Me](https://open.spotify.com/track/51YwIV5laxNugYz32eJIdw) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 3:46 |
+| 54 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
 | 55 | [Jesus, Come Be the Center \(feat\. Meredith Mauldin\)](https://open.spotify.com/track/019bUsr4PoAECWZr49KaVJ) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 8:08 |
 | 56 | [Come Through \- Live](https://open.spotify.com/track/5cRUeftNovncesYE6P5d9N) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Wild Heart](https://open.spotify.com/album/2wkuGTRxZOldvPf9YeeQpx) | 10:10 |
 | 57 | [This Is Love \- Live](https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV) | [This Is Love \(Live\)](https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI) | 5:20 |

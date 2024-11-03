@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 615914,
+  "num_followers": 615969,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAADs84jxe4xJ1pA+8Ed50pYL",
+  "snapshot_id": "ZyQaAAAAAACyB3OBV8nmDkLUHrKI1FCn",
   "tracks": [
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Whitney",
+        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 221866,
+      "name": "You Light Up My Life",
+      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/6MBpIrXaNMdoTNrWchRpO7"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 299800,
       "name": "Something In Common",
       "url": "https://open.spotify.com/track/3D6xxbFiyPRduSUowHbjSP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 301573,
-      "name": "The Prince Of Egypt (When You Believe)",
-      "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney The Greatest Hits",
         "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 260000,
       "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
       "url": "https://open.spotify.com/track/66RwIlYInGwQB4BokNhRnd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 301573,
+      "name": "The Prince Of Egypt (When You Believe)",
+      "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"
     }
   ],
   "unique_name": "This Is Whitney Houston",

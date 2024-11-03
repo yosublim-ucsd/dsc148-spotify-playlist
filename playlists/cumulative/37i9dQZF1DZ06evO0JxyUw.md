@@ -4,7 +4,7 @@
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 53 min
+66 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,10 +62,11 @@
 | [Somos Nada](https://open.spotify.com/track/0lbRmyhpAOybW1Qs7mpgcH) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:01 | 2023-09-21 | 2023-09-26 |
 | [Somos Novios](https://open.spotify.com/track/0U4mdFPED6oviFgWjst8q9) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Amor \(Edición Especial En Español\)](https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA) | 4:22 | 2024-06-12 |  |
 | [Somos Novios](https://open.spotify.com/track/3Biuvi5NQdNpi2OiTgWNK4) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Amore \(Remastered\)](https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ) | 4:22 | 2023-07-28 | 2024-06-12 |
-| [Steppin' Out with My Baby \(with Christina Aguilera\)](https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Viva Duets](https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv) | 2:02 | 2023-07-28 |  |
+| [Steppin' Out with My Baby \(with Christina Aguilera\)](https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Viva Duets](https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv) | 2:02 | 2023-07-28 | 2024-11-03 |
 | [Suéltame](https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 2:53 | 2023-07-28 | 2024-08-20 |
 | [Te Deseo Lo Mejor](https://open.spotify.com/track/2gQ60QJ3Q2fBuQAtBMUSQh) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 2:36 | 2024-02-13 | 2024-03-10 |
 | [Tell Me \(feat\. Christina Aguilera\)](https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Press Play](https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h) | 4:06 | 2023-10-01 |  |
+| [The Addams Family \- Theme](https://open.spotify.com/track/1ghMIzXESR7hQpfCWDogEX) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [The Addams Family 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jhL3hfmzNgwgHZhkfpebG) | 0:43 | 2024-11-03 |  |
 | [The Voice Within](https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 5:04 | 2023-07-28 |  |
 | [Tough Lover \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:00 | 2023-07-28 |  |
 | [Ven Conmigo \(Solamente Tú\)](https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:10 | 2023-07-28 |  |

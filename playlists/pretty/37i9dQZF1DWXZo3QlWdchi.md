@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,637 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,696 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 30 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
 | 31 | [Ignorance \- Acoustic](https://open.spotify.com/track/2fW669XemOdBBStneImx2g) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Ignorance](https://open.spotify.com/album/3yrzFvMY394se6kudvIfwv) | 3:40 |
 | 32 | [Aposta \- Ao Vivo](https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Acústico 20 Anos \- O Amor Não Tem Inimigos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ) | 3:35 |
-| 33 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 |
-| 34 | [Canção Da Meia\-Noite \- Ao Vivo](https://open.spotify.com/track/6GqOkQXQsXI63XpVmeF9tc) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Acústico Ao Vivo](https://open.spotify.com/album/0rUezt2zWnNwsAcdiFcNPy) | 4:02 |
+| 33 | [Canção Da Meia\-Noite \- Ao Vivo](https://open.spotify.com/track/6GqOkQXQsXI63XpVmeF9tc) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Acústico Ao Vivo](https://open.spotify.com/album/0rUezt2zWnNwsAcdiFcNPy) | 4:02 |
+| 34 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 |
 | 35 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
 | 36 | [My Hero \- Live at Studio 606 West, Northridge, CA \- September 2007](https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [00070725 Live At Studio 606](https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X) | 4:39 |
 | 37 | [Regina Let's Go \- Live](https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM 22 \- Acústico](https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4) | 2:56 |
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 65 | [Come As You Are](https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682) | 4:13 |
 | 66 | [Society](https://open.spotify.com/track/7AYoXqCtME90flUOpBJM7i) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Music For The Motion Picture Into The Wild](https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5) | 3:56 |
 | 67 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/6oyUroY42HiaD9Q9VBw4BP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days \(International Version\)](https://open.spotify.com/album/5vGmRi8jMNCvmysQgBBhpx) | 3:52 |
-| 68 | [Fast Car](https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fast Car b/w Fire](https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ) | 5:42 |
-| 69 | [Enquanto Houver Sol \- Trio Acústico](https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Enquanto Houver Sol \(Trio Acústico\)](https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9) | 3:33 |
-| 70 | [Dança do Tempo \- Ao Vivo](https://open.spotify.com/track/4kW7M7L7LRPuPc3sO5yWi7) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [A Céu Aberto \(Ao Vivo\)](https://open.spotify.com/album/2oX5IyR0rz8gSsEMRdv8Ju) | 4:04 |
-| 71 | [Take On Me \- MTV Unplugged / Edit](https://open.spotify.com/track/6UyPTgKXxsFeQExGml9x21) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(MTV Unplugged / Edit\)](https://open.spotify.com/album/2sMYviwwmjpVasUAMRBwDY) | 3:42 |
-| 72 | [Fare Thee Well](https://open.spotify.com/track/31WvlK2vEalVKWHJNLu9T9) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Fare Thee Well](https://open.spotify.com/album/5au7oNwns9gXVgpOdIh414) | 4:21 |
+| 68 | [Fare Thee Well](https://open.spotify.com/track/31WvlK2vEalVKWHJNLu9T9) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Fare Thee Well](https://open.spotify.com/album/5au7oNwns9gXVgpOdIh414) | 4:21 |
+| 69 | [Fast Car](https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fast Car b/w Fire](https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ) | 5:42 |
+| 70 | [Enquanto Houver Sol \- Trio Acústico](https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Enquanto Houver Sol \(Trio Acústico\)](https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9) | 3:33 |
+| 71 | [Dança do Tempo \- Ao Vivo](https://open.spotify.com/track/4kW7M7L7LRPuPc3sO5yWi7) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [A Céu Aberto \(Ao Vivo\)](https://open.spotify.com/album/2oX5IyR0rz8gSsEMRdv8Ju) | 4:04 |
+| 72 | [Take On Me \- MTV Unplugged / Edit](https://open.spotify.com/track/6UyPTgKXxsFeQExGml9x21) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(MTV Unplugged / Edit\)](https://open.spotify.com/album/2sMYviwwmjpVasUAMRBwDY) | 3:42 |
 | 73 | [City Of Angels \- Piano Version](https://open.spotify.com/track/4Vw5pJUM43NKq1A4h2Ipcn) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [City Of Angels \(Piano Version\)](https://open.spotify.com/album/3kguk7orqedmPpva1hUBG0) | 4:22 |
 | 74 | [Every Time I Look At You \- Live](https://open.spotify.com/track/33D1kuSjM8e8rwHrzGeSkm) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/28R1dlvV3yiNktmnnYflK5) | 4:43 |
 | 75 | [Pra Dizer Adeus \- Trio Acústico](https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Pra Dizer Adeus \(Trio Acústico\)](https://open.spotify.com/album/5UNoFiPyAyTq9B6E4CBX2g) | 3:44 |

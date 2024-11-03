@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Flor de Rap & Ana Tijoux.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,770 likes - 101 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,756 likes - 101 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

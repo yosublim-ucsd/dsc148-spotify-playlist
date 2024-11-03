@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 90651,
+  "num_followers": 90660,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Rap ap rete Rap",
         "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 236923,
       "name": "Si Yo Vle",
       "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Premye Fwa",
-        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
-      },
-      "artists": [
-        {
-          "name": "DANOLA",
-          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Premye Fwa",
-      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Podyab Yo",
         "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
       },
@@ -1039,22 +1023,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Chante ap ret chante",
-        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
+        "name": "Premye Fwa",
+        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
       },
       "artists": [
         {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+          "name": "DANOLA",
+          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
         }
       ],
-      "duration_ms": 253208,
-      "name": "Bay Vag",
-      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+      "duration_ms": 189333,
+      "name": "Premye Fwa",
+      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1091,6 +1071,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Chante ap ret chante",
+        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 253208,
+      "name": "Bay Vag",
+      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Teke Fren",
+        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 177748,
+      "name": "Teke Fren",
+      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Party Girls (feat. Buju Banton) [Micha\u00ebl Brun Dancehall Remix]",
         "url": "https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU"
       },
@@ -1147,22 +1167,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Teke Fren",
-        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
+        "name": "2 Gouden",
+        "url": "https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og"
       },
       "artists": [
         {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
         }
       ],
-      "duration_ms": 177748,
-      "name": "Teke Fren",
-      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
+      "duration_ms": 229489,
+      "name": "2 Gouden",
+      "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 200000,
       "name": "3 Words (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "2 Gouden",
-        "url": "https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og"
-      },
-      "artists": [
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 229489,
-      "name": "2 Gouden",
-      "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Imitate",
-        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
-      },
-      "artists": [
-        {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
-        }
-      ],
-      "duration_ms": 200568,
-      "name": "Imitate",
-      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Destine",
         "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
       },
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Imitate",
+        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
+      },
+      "artists": [
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "duration_ms": 200568,
+      "name": "Imitate",
+      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "White Flower",
         "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
       },
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
       },
       "artists": [
         {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
         }
       ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+      },
+      "artists": [
+        {
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 166008,
       "name": "Wine Pon Me - Remix",
       "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2024-05-24 04:00:00",

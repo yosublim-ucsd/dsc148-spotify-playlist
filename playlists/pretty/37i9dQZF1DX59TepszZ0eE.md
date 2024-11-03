@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og?si=IYyfPa41TjeStwSPU7D1nA>Ntokozo Mbabo</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,529 likes - 105 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,577 likes - 105 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

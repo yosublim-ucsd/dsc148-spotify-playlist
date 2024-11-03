@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 22420,
+  "num_followers": 22427,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAJPonWdjV5iNzjmC2F9KT780gnWd9n",
+  "snapshot_id": "AAAJQF104AV5+aeTkmj2x8Npi7h4CJYF",
   "tracks": [
+    {
+      "added_at": "2024-11-02 06:42:51",
+      "album": {
+        "name": "Face Off",
+        "url": "https://open.spotify.com/album/4b0zRtK8MecEecbsxIQJMG"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Face Off",
+      "url": "https://open.spotify.com/track/3MMRDkrBFf5hRcFaXxRvIG"
+    },
     {
       "added_at": "2024-10-29 05:21:43",
       "album": {
@@ -18,10 +34,6 @@
         {
           "name": "Anti Up",
           "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        },
-        {
-          "name": "Kendo",
-          "url": "https://open.spotify.com/artist/2rTqhyJsi7l2q4c2HAs4VY"
         }
       ],
       "duration_ms": 267142,

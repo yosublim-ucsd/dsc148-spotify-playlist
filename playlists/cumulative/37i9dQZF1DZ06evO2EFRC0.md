@@ -4,7 +4,7 @@
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-73 songs - 6 hr 5 min
+74 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Lléname Señor](https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 3:47 | 2024-01-08 |  |
 | [Maravilloso Dios](https://open.spotify.com/track/0U5SaWJBbeqqQOT1tQmYMF) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 2:21 | 2024-05-11 |  |
 | [Más Que Palabras](https://open.spotify.com/track/3AjorlLgzd2a2FOTUuoGLZ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 5:45 | 2023-04-02 | 2023-04-07 |
+| [Nació la Luz](https://open.spotify.com/track/3ZUwuLNBR0817Otp5jtqPM) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Nació la Luz](https://open.spotify.com/album/5y3FKMo36HJQuijHvKDgId) | 3:17 | 2024-11-03 |  |
 | [No Hay Pero Va a Sobrar](https://open.spotify.com/track/1Y408UKyzHsHxAQn9L4hPn) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 4:30 | 2023-04-02 |  |
 | [Nunca Me Fallas \(feat\. Marcos Witt\)](https://open.spotify.com/track/5Y8ALB1dMCFTIdPJ7sWk0A) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ser Humano](https://open.spotify.com/album/7GAFM73bQdOTQ9qOas9TNt) | 4:30 | 2023-04-02 | 2024-01-21 |
 | [Perdonados](https://open.spotify.com/track/3L0pj40jXUDOX3p1OmZqvQ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 2:58 | 2023-05-04 |  |
@@ -50,7 +51,7 @@
 | [Poderoso Dios](https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sobrenatural](https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL) | 7:54 | 2023-04-02 |  |
 | [Porque para Siempre](https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 2:47 | 2023-04-02 |  |
 | [Porque Tú Eres bueno](https://open.spotify.com/track/6MRlSkOGex4cx3fcusHFtU) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 2:45 | 2024-02-26 |  |
-| [Primero Nos Amó](https://open.spotify.com/track/2J5SBXo9kmS37AQCBj4wiU) | [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Primero Nos Amó](https://open.spotify.com/album/3SQgNmmPjB0Vl7DffcD7RW) | 3:49 | 2024-04-21 |  |
+| [Primero Nos Amó](https://open.spotify.com/track/2J5SBXo9kmS37AQCBj4wiU) | [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Primero Nos Amó](https://open.spotify.com/album/3SQgNmmPjB0Vl7DffcD7RW) | 3:49 | 2024-04-21 | 2024-11-03 |
 | [Quiero Levantar mis Manos](https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 4:28 | 2023-04-02 |  |
 | [Renuévame](https://open.spotify.com/track/4mx6VrZG5VTYrAo9wjocJg) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Te Exaltamos](https://open.spotify.com/album/3YyW3KUNoyXBkXkYTvC9EB) | 2:40 | 2023-04-08 | 2023-12-14 |
 | [Renuévame](https://open.spotify.com/track/0k6MpTbOusOwZVY6QTJ9kQ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo \(En Vivo\)](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 2:44 | 2023-04-02 |  |

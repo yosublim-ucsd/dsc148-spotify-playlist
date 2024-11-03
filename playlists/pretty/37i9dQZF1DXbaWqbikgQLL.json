@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 30277,
+  "num_followers": 30317,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Trovando El Son",
-        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
-      },
-      "artists": [
-        {
-          "name": "Fresto Music",
-          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
-        }
-      ],
-      "duration_ms": 300791,
-      "name": "Me Hace Da\u00f1o Verte",
-      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "En Tiempo De Amor",
         "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 292920,
       "name": "Te Va A Doler",
       "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Trovando El Son",
+        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
+      },
+      "artists": [
+        {
+          "name": "Fresto Music",
+          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
+        }
+      ],
+      "duration_ms": 300791,
+      "name": "Me Hace Da\u00f1o Verte",
+      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 342520,
-      "name": "Triste canci\u00f3n",
-      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 301573,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 342520,
+      "name": "Triste canci\u00f3n",
+      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Una rola para los minusv\u00e1lidos",
         "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "La Magia Del Amor",
-        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
       },
       "artists": [
         {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
         }
       ],
-      "duration_ms": 184920,
-      "name": "Amor Secreto",
-      "url": "https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO"
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -707,6 +691,22 @@
       "duration_ms": 300773,
       "name": "Eres Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "La Magia Del Amor",
+        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 184920,
+      "name": "Amor Secreto",
+      "url": "https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Sin Ti No S\u00e9 Vivir",
-      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Espantan (Remix)",
         "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 218019,
       "name": "Espantan - Remix",
       "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Sin Ti No S\u00e9 Vivir",
+      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Besar Tu Piel",
-      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "En Tiempo De Amor",
         "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Besar Tu Piel",
+      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 354133,
       "name": "Busca Por Dentro",
       "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Cumbia Francesa",
+      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -979,22 +995,6 @@
       "duration_ms": 230713,
       "name": "Cuarto para las Dos",
       "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Cumbia Francesa",
-      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 275893,
-      "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
-      "url": "https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 377160,
       "name": "Quiero Morir En Tu Piel",
       "url": "https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
+      "url": "https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "No Podras Escapar De Mi",
-      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "La Invasion De Los Blatidos",
         "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "No Podras Escapar De Mi",
+      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "En Preparacion",
+      "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "Exitos Originales",
         "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 308837,
       "name": "Si No La Tengo",
       "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "En Preparacion",
-      "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Sue\u00f1os de Anoche",
-        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
+        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
       },
       "artists": [
         {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+          "name": "Max Torres",
+          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
         }
       ],
-      "duration_ms": 237666,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
+      "duration_ms": 264312,
+      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
+        "name": "Sue\u00f1os de Anoche",
+        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
       },
       "artists": [
         {
-          "name": "Max Torres",
-          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 264312,
-      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
+      "duration_ms": 237666,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 281186,
-      "name": "Dese\u00e1ndote",
-      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Folklore Tropical",
         "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 283226,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 281186,
+      "name": "Dese\u00e1ndote",
+      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "Piel A Piel",
+        "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 222773,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/4f9eB0jXvDMNgSZdiEez6K"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "Coraz\u00f3n Enamorado",
         "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
@@ -1851,26 +1871,6 @@
       "duration_ms": 252679,
       "name": "Cumbia Del Chinito",
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Piel A Piel",
-        "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        },
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 222773,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/4f9eB0jXvDMNgSZdiEez6K"
     },
     {
       "added_at": "2024-07-02 23:02:31",

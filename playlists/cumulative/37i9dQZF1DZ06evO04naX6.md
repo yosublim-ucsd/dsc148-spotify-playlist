@@ -4,7 +4,7 @@
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-104 songs - 6 hr 11 min
+105 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [REGGAETON MALANDRO](https://open.spotify.com/track/7hSToHECYZ08xzyVQ6gGJy) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [ELYTE](https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea) | 2:55 | 2024-10-13 |  |
 | [Rómpela](https://open.spotify.com/track/6mwROK8Er0EZdXwbwuiHIJ) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [One Six](https://open.spotify.com/artist/2mObH2CyMvLbmG5RQCeO0d) | [Rómpela](https://open.spotify.com/album/6Z5sESQanxhvXqNbEMhQGd) | 3:04 | 2023-04-06 | 2023-11-11 |
 | [SANDUNGA](https://open.spotify.com/track/4QJF76nruk2vvuCzGDCqsL) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SANDUNGA](https://open.spotify.com/album/0SeTjJL8a6kfFlBQQTyNID) | 4:01 | 2023-11-10 |  |
+| [SEXO ES LA MODA](https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SEXO ES LA MODA](https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD) | 2:45 | 2024-11-03 |  |
 | [Sexo Seguro](https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:38 | 2023-04-06 |  |
 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 | 2024-01-20 |  |
 | [Sólo Mía \(feat\. Maluma\)](https://open.spotify.com/track/1ei3g2hMYh1VKvik9FoUQR) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:23 | 2023-04-06 | 2023-10-11 |

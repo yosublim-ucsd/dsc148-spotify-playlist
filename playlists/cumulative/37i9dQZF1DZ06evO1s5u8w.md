@@ -4,7 +4,7 @@
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-58 songs - 4 hr 9 min
+59 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2024-05-18 |  |
 | [Psycho Killer \- Acoustic](https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:18 | 2024-05-18 |  |
 | [Pull up the Roots \- 2005 Remaster](https://open.spotify.com/track/7tzxJBTk35iJREdh8LkWOm) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:09 | 2024-05-24 | 2024-07-22 |
+| [Pulled Up \(Alternate Pop Version\) \- 2024 Remaster](https://open.spotify.com/track/7pB2095AnGgZXOZfHqdHnT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Pulled Up \(Alternate Pop Version\) \[2024 Remaster\]](https://open.spotify.com/album/7fvYtuJtWz8uA9TiObBgws) | 4:35 | 2024-11-03 |  |
 | [Pulled Up \- 2005 Remaster](https://open.spotify.com/track/1n9lGvOA1TKBvwVQ4tpB2o) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:31 | 2024-09-28 | 2024-10-13 |
 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 | 2024-05-18 |  |
 | [Seen and Not Seen \- 2005 Remaster](https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 3:24 | 2024-05-18 |  |

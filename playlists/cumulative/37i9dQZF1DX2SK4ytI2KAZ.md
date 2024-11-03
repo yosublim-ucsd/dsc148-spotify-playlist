@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-637 songs - 1 day 10 hr 56 min
+638 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [hold on](https://open.spotify.com/track/1PkMO2tQMszcKznHFKbd84) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [hold on](https://open.spotify.com/album/4gZVjgXNLuRnyHSKcI9prV) | 3:23 | 2021-03-10 | 2022-07-28 |
 | [hold on](https://open.spotify.com/track/6RtRxaZN5RMWFbeZW24oRx) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [come out\. you're hiding \(deluxe\)](https://open.spotify.com/album/3GIL4DPTpx8qXKmCVavrjD) | 3:24 | 2022-06-27 | 2022-07-30 |
 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 | 2021-11-19 | 2023-03-29 |
+| [Hold You \(Responsible\)](https://open.spotify.com/track/5SMydTMtNUn7h1hKNtclV1) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV), [NOISE FOR NOW](https://open.spotify.com/artist/2Z2FmulUajUTCRLBYiJIgj) | [Songs For Sex](https://open.spotify.com/album/3YOaQQo6HwSvykNOqCaTvb) | 2:14 | 2024-10-18 |  |
 | [Hollywood](https://open.spotify.com/track/1eBW4wuI5K2iDvp5Kxi5wT) | [Cherry Pools](https://open.spotify.com/artist/0ZapotknXXYHIvTojpg9Im) | [Hollywood](https://open.spotify.com/album/5o3aabdlrQRUPggo5syUTC) | 3:00 | 2021-03-10 | 2022-07-29 |
 | [Hollywood](https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Hollywood b/w CD\-R](https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U) | 3:05 | 2024-08-16 | 2024-10-06 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-03-10 | 2024-10-19 |
@@ -372,7 +373,7 @@
 | [Move](https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:07 | 2022-06-27 | 2022-07-30 |
 | [Move](https://open.spotify.com/track/61brtUJwrAQjyZjWpMBRXf) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Move](https://open.spotify.com/album/6nb8lP3BnywbjrCDPIbJmz) | 3:09 | 2022-03-11 | 2022-04-20 |
 | [Move Me](https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Give Me Your Shoulders, Pt\. 1](https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig) | 3:36 | 2022-03-09 | 2022-11-18 |
-| [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-04-11 |  |
+| [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-04-11 | 2024-11-03 |
 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-06-10 |  |
 | [My Heart's Always Yours](https://open.spotify.com/track/3SLdLEQ8xz6limRM51RpZ3) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report](https://open.spotify.com/album/1BPpUmhXJdmDVa07f1qQVz) | 4:13 | 2022-01-21 | 2022-05-02 |
 | [My Love](https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 3:51 | 2022-03-11 |  |

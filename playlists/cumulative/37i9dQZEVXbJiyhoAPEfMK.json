@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -5880,7 +5880,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 133932,
       "name": "Bauch Beine Po",
       "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
@@ -7070,7 +7070,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -7142,7 +7142,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 151293,
       "name": "Blanco",
       "url": "https://open.spotify.com/track/4rA41YUfp4ZXdmbBoiDJhG"
@@ -9382,7 +9382,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -10210,6 +10210,24 @@
       "duration_ms": 169245,
       "name": "Christmas Without You",
       "url": "https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm"
+    },
+    {
+      "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155066,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
     },
     {
       "album": {
@@ -13716,7 +13734,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 140113,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/5TQQJPtyNqW5fcbYB5CsDM"
@@ -18332,7 +18350,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 159017,
       "name": "fr\u00fcher sterben",
       "url": "https://open.spotify.com/track/3bVyVZX4GQQujlNefSP5fp"
@@ -19436,7 +19454,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/6thXB4RmajS4oZPNiBAKy0"
@@ -21102,7 +21120,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 145624,
       "name": "HDL",
       "url": "https://open.spotify.com/track/3SYHVGpbPQ8sPCRosoA9Wy"
@@ -22700,7 +22718,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -33562,7 +33580,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -35244,7 +35262,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
@@ -35990,7 +36008,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 284363,
       "name": "Noid",
       "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
@@ -36234,7 +36252,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -37294,6 +37312,28 @@
       "duration_ms": 200357,
       "name": "Orange",
       "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
+    },
+    {
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/1L02DPrBMeko72qdHt8Ipb"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Origin",
+      "url": "https://open.spotify.com/track/33Aw2F8IUyJ8cWeOblUIvL"
     },
     {
       "album": {
@@ -45298,7 +45338,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-27",
+      "date_removed": null,
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/0yyFAbTlOk7DFhh6RSug9S"
@@ -45404,7 +45444,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 238786,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
@@ -45669,6 +45709,24 @@
     },
     {
       "album": {
+        "name": "Rien 100 Rien",
+        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Sous la lune",
+      "url": "https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O"
+    },
+    {
+      "album": {
         "name": "So\ud83e\udd1e",
         "url": "https://open.spotify.com/album/1u0nZWNZsMCDHlMCOs3yBM"
       },
@@ -45764,7 +45822,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6"
@@ -49066,7 +49124,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 196186,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
@@ -49146,7 +49204,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 357800,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"

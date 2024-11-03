@@ -4,7 +4,7 @@
 
 > This is yama\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 6 min
+69 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [アイタリナイ](https://open.spotify.com/track/58tyTrZH1pt8esOLGynycj) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [Noisy Love Songs \- MAISONdes × URUSEIYATSURA Complete Collection \-](https://open.spotify.com/album/25FyQq2VGgXuqw8nWEIRxx) | 2:43 | 2024-08-09 |  |
 | [アブノーマリティー。](https://open.spotify.com/track/5o6Nt28EkGBO6HPb3CzG4q) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アブノーマリティー。](https://open.spotify.com/album/4Jd3gd0HkzO8rGl6rOJHpq) | 3:38 | 2023-12-26 | 2024-02-16 |
 | [イノセント](https://open.spotify.com/track/76gLNwSDLHSq0KdpOC86SS) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 4:02 | 2024-02-05 | 2024-07-10 |
+| [オリジン](https://open.spotify.com/track/7sqlWfsAcENRdsrN6BuyTr) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [オリジン](https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb) | 3:26 | 2024-11-03 |  |
 | [カーテンコール](https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [カーテンコール](https://open.spotify.com/album/4FNbJK6K73qKy9TuxggkVY) | 3:39 | 2023-12-26 |  |
 | [クリーム](https://open.spotify.com/track/6q2anED2iLMVW1XvdZx5pQ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [クリーム](https://open.spotify.com/album/4JX57Yo9ACKXP8v1ZW2KRo) | 3:38 | 2023-12-26 |  |
 | [クローバー](https://open.spotify.com/track/5EgwfOLCfEeGyoy7df0bhE) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f) | 4:28 | 2023-12-26 | 2024-02-03 |
@@ -62,7 +63,7 @@
 | [憧れのままに](https://open.spotify.com/track/6cRZpoOfi9kBOTFxeN8X3t) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:25 | 2024-04-10 |  |
 | [新星](https://open.spotify.com/track/4dwRjaD0ttkelpv5eoE6RT) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:16 | 2023-12-26 |  |
 | [新星 \-acoustic live tour 2023 「夜と閃き」\-](https://open.spotify.com/track/6yQNFgWLYrFrcel0V7FDTo) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [acoustic live tour 2023 「夜と閃き」（2023.5.12 ＠GORILLA HALL OSAKA）](https://open.spotify.com/album/1DESIUqjMts9kv44GjDUH3) | 3:55 | 2024-02-13 | 2024-04-09 |
-| [日々](https://open.spotify.com/track/6jyICrPc6z8U3boQyQdPoE) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:21 | 2024-01-31 |  |
+| [日々](https://open.spotify.com/track/6jyICrPc6z8U3boQyQdPoE) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:21 | 2024-01-31 | 2024-11-03 |
 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 | 2023-12-26 |  |
 | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 | 2023-12-26 |  |
 | [桃源郷](https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [桃源郷](https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE) | 3:48 | 2023-12-26 |  |

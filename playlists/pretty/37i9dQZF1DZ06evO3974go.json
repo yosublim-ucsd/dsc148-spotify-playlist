@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19452,
+  "num_followers": 19461,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAD0gjknDIJ2A6HGzKAkACyU",
+  "snapshot_id": "ZyQaAAAAAAAVPn8M2675BbRR5sLcQR0t",
   "tracks": [
     {
       "added_at": null,
@@ -23,30 +23,6 @@
       "duration_ms": 176744,
       "name": "Flex (Ooh, Ooh, Ooh)",
       "url": "https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAYS BEFORE RODEO",
-        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 272772,
-      "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
-      "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
     },
     {
       "added_at": null,
@@ -71,6 +47,30 @@
       "duration_ms": 269693,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 272772,
+      "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
+      "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
     },
     {
       "added_at": null,
@@ -447,6 +447,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Label Vol. 2",
+        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 281704,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ah'chi",
         "url": "https://open.spotify.com/album/4ktxz9GRn32r4GWaHogUr5"
       },
@@ -463,22 +483,6 @@
       "duration_ms": 220952,
       "name": "Ah'chi",
       "url": "https://open.spotify.com/track/5suBeiydHdrdMvMV98wOQp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 287085,
-      "name": "Imma Ride",
-      "url": "https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ"
     },
     {
       "added_at": null,
@@ -515,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Label Vol. 2",
-        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
+        "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 281704,
-      "name": "No Way",
-      "url": "https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF"
+      "duration_ms": 287085,
+      "name": "Imma Ride",
+      "url": "https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Most - Single",
+        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 207405,
+      "name": "The Most",
+      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
@@ -679,8 +695,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Most - Single",
-        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
       },
       "artists": [
         {
@@ -688,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 207405,
-      "name": "The Most",
-      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
+      "duration_ms": 115586,
+      "name": "Suffocating",
+      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
     },
     {
       "added_at": null,
@@ -715,42 +751,6 @@
       "duration_ms": 197720,
       "name": "Private Room",
       "url": "https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 115586,
-      "name": "Suffocating",
-      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Thru",
-        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Come Thru",
-      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
     },
     {
       "added_at": null,

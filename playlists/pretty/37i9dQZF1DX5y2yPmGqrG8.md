@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,264 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,336 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 36 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
 | 37 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
 | 38 | [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 |
-| 39 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
-| 40 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 |
+| 39 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 |
+| 40 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
 | 41 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 42 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 |
 | 43 | [B4 \- The loves of my entire life](https://open.spotify.com/track/6806PuNd2YyEuzjtBo1yMv) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 4:04 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 47 | [image no\. 4](https://open.spotify.com/track/1TbDfkXAw8sbd3oewgAOW4) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8), [Image Tapes](https://open.spotify.com/artist/2gi84HSldDZMD7fwwY4xAz) | [Image Tapes Vol\. 1](https://open.spotify.com/album/3yTXYqamF5Kq1FiGjPph0J) | 2:05 |
 | 48 | [C2 \- Misplaced in time](https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 2\)](https://open.spotify.com/album/5x7V7s4itsBIV1B5UhNlVm) | 4:42 |
 | 49 | [Virtual U](https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Gallery Love](https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64) | 5:02 |
-| 50 | [Waende](https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Daniel Selke](https://open.spotify.com/artist/7HfbFJrI38nyPRiSh0ZcMf), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Waende](https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc) | 3:52 |
+| 50 | [May As Well Be](https://open.spotify.com/track/3bPrZswZF1OiWToRkgB7i8) | [Vels Trio](https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l) | [Celestial Greens](https://open.spotify.com/album/7cj9GeDDwhl4o4iAZ7OECO) | 4:00 |
 
 Snapshot ID: `Zxuu7gAAAADTvRZVtYypm1EiSK4G9iY5`

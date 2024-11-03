@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 281000,
       "name": "0.1\u79d2\u5f8c\u7684\u4e16\u754c",
       "url": "https://open.spotify.com/track/6HOzptW6b05V4AFp3nBOCf"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -2804,6 +2804,24 @@
       "duration_ms": 201391,
       "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
+    },
+    {
+      "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     },
     {
       "album": {
@@ -13384,7 +13402,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "\u50b7\u5fc3\u7684\u6642\u5019\u5225\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/0XU1HkOQwgAmuvkiJwAMcp"
@@ -15470,7 +15488,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 236255,
       "name": "\u666e\u6e21\u773e\u751f - \u300a\u7834\uff0e\u5730\u7344\u300b THE LAST DANCE \u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/6Yjk3YE3PYllze79YyRWp3"
@@ -15986,7 +16004,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-27",
+      "date_removed": null,
       "duration_ms": 232002,
       "name": "\u6c38\u4e45\u640d\u6bc0",
       "url": "https://open.spotify.com/track/2T8ppyUVF1TJT1Mjd7nmWK"
@@ -16242,7 +16260,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 262105,
       "name": "\u6df1\u95a8 feat. Kelly Chen \u9673\u6167\u7433",
       "url": "https://open.spotify.com/track/10YtrR4JpndrvuI2vohpUM"

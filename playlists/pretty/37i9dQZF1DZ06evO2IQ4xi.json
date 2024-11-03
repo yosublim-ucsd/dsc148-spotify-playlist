@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 13312,
+  "num_followers": 13356,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAA29+vyMdd3b7C46IAEE+A0",
+  "snapshot_id": "ZyQaAAAAAAAA9NaBsejKoQ8jECte96ee",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROCKET",
-        "url": "https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El"
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 166315,
-      "name": "ROCKET",
-      "url": "https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG"
+      "duration_ms": 58801,
+      "name": "60 Seconds",
+      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+        "name": "ROCKET",
+        "url": "https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 58801,
-      "name": "60 Seconds",
-      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+      "duration_ms": 166315,
+      "name": "ROCKET",
+      "url": "https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG"
     },
     {
       "added_at": null,

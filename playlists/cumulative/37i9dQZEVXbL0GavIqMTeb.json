@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 184806,
       "name": "APAGA EL CEL",
       "url": "https://open.spotify.com/track/0ZS96pPRLyGUViVi5PWCAR"
@@ -5562,7 +5562,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 229360,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
@@ -15083,6 +15083,28 @@
     },
     {
       "album": {
+        "name": "AMERI",
+        "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217547,
+      "name": "Nueva Era",
+      "url": "https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF"
+    },
+    {
+      "album": {
         "name": "El Duende Verde",
         "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
       },
@@ -15168,7 +15190,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 156577,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
@@ -16370,6 +16392,28 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2"
+    },
+    {
+      "album": {
+        "name": "La Melodia de la Calle (Remastered)",
+        "url": "https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184506,
+      "name": "Permitame (feat. Yandel)",
+      "url": "https://open.spotify.com/track/2Dbq5moIguMsbRZa9SB7gD"
     },
     {
       "album": {
@@ -18968,7 +19012,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"

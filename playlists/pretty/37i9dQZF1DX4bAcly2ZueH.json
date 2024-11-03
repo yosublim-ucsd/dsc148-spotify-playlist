@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 52146,
+  "num_followers": 52144,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-10-23 02:46:12",
       "album": {
+        "name": "Night Owl Dream",
+        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 156279,
+      "name": "Night Owl Dream",
+      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
+    },
+    {
+      "added_at": "2024-10-23 02:46:12",
+      "album": {
         "name": "qutie",
         "url": "https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 149333,
       "name": "qutie",
       "url": "https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI"
-    },
-    {
-      "added_at": "2024-10-23 02:46:12",
-      "album": {
-        "name": "Night Owl Dream",
-        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "Night Owl Dream",
-      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
     },
     {
       "added_at": "2024-10-23 02:46:12",
@@ -859,42 +859,6 @@
     {
       "added_at": "2024-10-23 02:46:12",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
-    },
-    {
-      "added_at": "2024-10-23 02:46:12",
-      "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
-    },
-    {
-      "added_at": "2024-10-23 02:46:12",
-      "album": {
         "name": "Resting Place",
         "url": "https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka"
       },
@@ -915,22 +879,38 @@
     {
       "added_at": "2024-10-23 02:46:12",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
       },
       "artists": [
         {
-          "name": "Sonn",
-          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
         }
       ],
-      "duration_ms": 228196,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
+    },
+    {
+      "added_at": "2024-10-23 02:46:12",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
     },
     {
       "added_at": "2024-10-23 02:46:12",
@@ -947,6 +927,26 @@
       "duration_ms": 294193,
       "name": "The Next vacation",
       "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
+    },
+    {
+      "added_at": "2024-10-23 02:46:12",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+      },
+      "artists": [
+        {
+          "name": "Sonn",
+          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
     },
     {
       "added_at": "2024-10-23 02:46:12",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-23 02:46:12",
       "album": {
-        "name": "see",
-        "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
-      },
-      "artists": [
-        {
-          "name": "sorami",
-          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "see",
-      "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
-    },
-    {
-      "added_at": "2024-10-23 02:46:12",
-      "album": {
         "name": "flowingtime",
         "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
       },
@@ -1091,22 +1075,18 @@
     {
       "added_at": "2024-10-23 02:46:12",
       "album": {
-        "name": "Snow Magic",
-        "url": "https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi"
+        "name": "see",
+        "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
       },
       "artists": [
         {
-          "name": "Grey October Sound",
-          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
-        },
-        {
-          "name": "GOODSHIT",
-          "url": "https://open.spotify.com/artist/1IMKwKbUaQp1JbSXwWDr4v"
+          "name": "sorami",
+          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
         }
       ],
-      "duration_ms": 182684,
-      "name": "Snow Magic",
-      "url": "https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE"
+      "duration_ms": 207613,
+      "name": "see",
+      "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
     },
     {
       "added_at": "2024-10-23 02:46:12",
@@ -1123,6 +1103,26 @@
       "duration_ms": 274131,
       "name": "Nights in Ikebukuro",
       "url": "https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O"
+    },
+    {
+      "added_at": "2024-10-23 02:46:12",
+      "album": {
+        "name": "Snow Magic",
+        "url": "https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi"
+      },
+      "artists": [
+        {
+          "name": "Grey October Sound",
+          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+        },
+        {
+          "name": "GOODSHIT",
+          "url": "https://open.spotify.com/artist/1IMKwKbUaQp1JbSXwWDr4v"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "Snow Magic",
+      "url": "https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE"
     },
     {
       "added_at": "2024-10-23 02:46:12",

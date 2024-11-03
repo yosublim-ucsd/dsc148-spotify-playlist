@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: COBRAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,496 likes - 118 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,533 likes - 118 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

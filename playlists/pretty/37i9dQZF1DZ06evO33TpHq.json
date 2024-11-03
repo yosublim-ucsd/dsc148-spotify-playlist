@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 49388,
+  "num_followers": 49412,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAACDUYOE9HHOWmBNo5Bt//58",
+  "snapshot_id": "ZyQaAAAAAAAx7kvfw+304RVloqx/i3tG",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 464398,
-      "name": "Divine / Sailing / Time / Hymn - Acoustic",
-      "url": "https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 240266,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 464398,
+      "name": "Divine / Sailing / Time / Hymn - Acoustic",
+      "url": "https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 255652,
-      "name": "Here with Me - Acoustic",
-      "url": "https://open.spotify.com/track/0gunBydvSCEozLvcukTqQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace, Vol. II",
         "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 382684,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 255652,
+      "name": "Here with Me - Acoustic",
+      "url": "https://open.spotify.com/track/0gunBydvSCEozLvcukTqQa"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 249413,
+      "name": "Cannons",
+      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 287533,
       "name": "La Batalla",
       "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 249413,
-      "name": "Cannons",
-      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
     },
     {
       "added_at": null,

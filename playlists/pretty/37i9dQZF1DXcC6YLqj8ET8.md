@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,606 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,633 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 36 | [Get It Poppin \- Original Mix](https://open.spotify.com/track/0slgFvDaJE9xxF0IXQoe81) | [Costel Van Dein](https://open.spotify.com/artist/2yA021LnprERtbeHcjAquF), [Vaigandt](https://open.spotify.com/artist/2Yg9H6o3ge1uOiq3o4xLRk) | [Get It Poppin'](https://open.spotify.com/album/0sZMAjVIVLwP8sg5ptuh81) | 3:37 |
 | 37 | [Serengeti \- Chihaka Remix](https://open.spotify.com/track/4OdRW0NHk3YEomB1yQvcUz) | [Pole Folder](https://open.spotify.com/artist/6wRhh29ZNdh6Aq8nKd4aDr), [Chihaka](https://open.spotify.com/artist/7FRiCnyEVWqX5TywH7p622) | [Serengeti \(Particles Edition\)](https://open.spotify.com/album/2iNIwGPgRMHJR2256l23GH) | 7:56 |
 | 38 | [Dystopia](https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV) | [Ahmed Romel](https://open.spotify.com/artist/5hp5V0IfVuZWmYeUqomqEs) | [Dystopia](https://open.spotify.com/album/2OkBDPfWUdeDjsWumFazvZ) | 3:32 |
-| 39 | [La Câlin](https://open.spotify.com/track/4wm54RgVLbAtk5v4A9I9x5) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [La Câlin](https://open.spotify.com/album/1OzQ5JSUO7UqTeCgtzIrpH) | 2:52 |
+| 39 | [Morocco](https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l) | [Cris Taylor](https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o) | [Morocco](https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ) | 2:43 |
 | 40 | [Oblivion](https://open.spotify.com/track/03Rac7rITePpSgheEsFoMz) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Oblivion](https://open.spotify.com/album/396e5sssz75hqSyu6lg2BH) | 3:49 |
-| 41 | [Morocco](https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l) | [Cris Taylor](https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o) | [Morocco](https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ) | 2:43 |
+| 41 | [La Câlin](https://open.spotify.com/track/4wm54RgVLbAtk5v4A9I9x5) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [La Câlin](https://open.spotify.com/album/1OzQ5JSUO7UqTeCgtzIrpH) | 2:52 |
 | 42 | [Raabta](https://open.spotify.com/track/2IEzElQ5KAtXDoJAGixG2R) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9) | [Raabta](https://open.spotify.com/album/3V1Oc07lftQBCVzijCE01A) | 3:03 |
 | 43 | [Duhan](https://open.spotify.com/track/1gAYsbY37gNkUVWKyHd7sb) | [Mazlum Uruc](https://open.spotify.com/artist/6SyaPdwoTrMGsWOsqeb5Av), [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [Duhan](https://open.spotify.com/album/0iV9y3FuVHgqU6XH4PgGzc) | 2:56 |
-| 44 | [Arab Trap 2 / Habibi](https://open.spotify.com/track/4tDlB4iuEuXaVOcDVh9N9v) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap 2 / Habibi](https://open.spotify.com/album/2lItbZXFxyql2Y2brBCiba) | 2:01 |
-| 45 | [Secret](https://open.spotify.com/track/3pssrlLEYML2bdUvvfTc3B) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Secret](https://open.spotify.com/album/2YYYXlp6a5nga72Qaf5TOH) | 2:18 |
-| 46 | [Ares](https://open.spotify.com/track/09Ltdtsh3FFIGAppCJj0HD) | [TORU](https://open.spotify.com/artist/7nKMI2etaVYFW6r9cTXKto), [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw) | [Ares](https://open.spotify.com/album/6ITmhXGA9NdbKI60F9N8Cx) | 3:09 |
+| 44 | [Ares](https://open.spotify.com/track/09Ltdtsh3FFIGAppCJj0HD) | [TORU](https://open.spotify.com/artist/7nKMI2etaVYFW6r9cTXKto), [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw) | [Ares](https://open.spotify.com/album/6ITmhXGA9NdbKI60F9N8Cx) | 3:09 |
+| 45 | [Arab Trap 2 / Habibi](https://open.spotify.com/track/4tDlB4iuEuXaVOcDVh9N9v) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap 2 / Habibi](https://open.spotify.com/album/2lItbZXFxyql2Y2brBCiba) | 2:01 |
+| 46 | [Secret](https://open.spotify.com/track/3pssrlLEYML2bdUvvfTc3B) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Secret](https://open.spotify.com/album/2YYYXlp6a5nga72Qaf5TOH) | 2:18 |
 | 47 | [Lights Out](https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Lights Out](https://open.spotify.com/album/0y2PgWYSdanYnwxSmIW64U) | 3:05 |
 | 48 | [Tribe](https://open.spotify.com/track/3A1fJKVctpV28WnnW5xOsX) | [Dav the Ninja](https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg) | [In Peace](https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p) | 3:39 |
 | 49 | [End](https://open.spotify.com/track/78NWG8vFrAehpsCJr1SLvq) | [YZKN](https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy) | [End](https://open.spotify.com/album/6fcDKqZrJxK5OnJwPPnMJj) | 3:04 |

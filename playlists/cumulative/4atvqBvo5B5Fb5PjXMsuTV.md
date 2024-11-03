@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 02 Nov 23:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 02 Nov 05:02 UTC.
 
-3,279 songs - 7 day 14 hr 42 min
+3,281 songs - 7 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,7 +559,7 @@
 | [City Lights](https://open.spotify.com/track/0EeqdkR4Wec3YlSaupYv6X) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [City Lights](https://open.spotify.com/album/02BmWPTStBXitd8WJkbWQA) | 4:20 | 2024-05-02 | 2024-05-04 |
 | [CLASSIC THEME](https://open.spotify.com/track/6FlIvNPC3qqjYs0CETp5YQ) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [CLASSIC THEME](https://open.spotify.com/album/7HSmOjWAyiYmxsepO0pGdj) | 6:04 | 2024-07-17 | 2024-07-19 |
 | [Claw Machine](https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Claw Machine](https://open.spotify.com/album/0OSVJBh1GMnRjzyPUCTdDP) | 3:47 | 2024-05-10 | 2024-05-13 |
-| [Clean & Dirty](https://open.spotify.com/track/4pSL4BvVj6kdBRdEDgLuhj) | [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5) | [Clean & Dirty](https://open.spotify.com/album/2RFV2mW2k2enGsa53MViqJ) | 2:42 | 2024-11-01 |  |
+| [Clean & Dirty](https://open.spotify.com/track/4pSL4BvVj6kdBRdEDgLuhj) | [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5) | [Clean & Dirty](https://open.spotify.com/album/2RFV2mW2k2enGsa53MViqJ) | 2:42 | 2024-11-01 | 2024-11-03 |
 | [Clean It Up \- Sped Up Version](https://open.spotify.com/track/2CVcdgVWqI1wkVL0PaZoQm) | [LongestSoloEver](https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca) | [Clean It Up \(Zenless Zone Zero Von Lycaon Song\)](https://open.spotify.com/album/3OlIy3zPmNVxgaC4tjDw6d) | 2:41 | 2024-07-13 | 2024-07-17 |
 | [Clear the Smoke](https://open.spotify.com/track/2y9RWeAec4VB9MTw1CFjJS) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Clear the Smoke](https://open.spotify.com/album/58CGtVA3x5COUlTkDsyclJ) | 3:38 | 2024-05-24 | 2024-05-27 |
 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 | 2024-09-13 | 2024-09-18 |
@@ -1630,6 +1630,7 @@
 | [Legacy](https://open.spotify.com/track/0kZLYZ9qpZrQYedUMI7s58) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Legacy](https://open.spotify.com/album/2EGoU6wx7retxKjClGyaxA) | 2:11 | 2024-10-25 | 2024-10-31 |
 | [Legal Money \(feat\. Mobb Deep & Lord Tariq\)](https://open.spotify.com/track/3gExd8ltinLUga77cDoeq3) | [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Lord Tariq](https://open.spotify.com/artist/5EC3MUN6vECf8sxUU9IVw6) | [SHAQ Pack](https://open.spotify.com/album/1R6guPXrxnWZIyAyL4ba0T) | 4:32 | 2024-06-21 | 2024-06-25 |
 | [Legend Freestyle](https://open.spotify.com/track/2WmNuJNylypvWXbO6vEkUq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Legend Freestyle](https://open.spotify.com/album/20CLrzjMW8RxPjp7n0sqf0) | 2:10 | 2024-11-01 |  |
+| [Legendary](https://open.spotify.com/track/3H54M5tILLB0VDwrpJKJIb) | [AaRON](https://open.spotify.com/artist/6q8cNe6Wif1WvM97vcFD8O) | [Legendary](https://open.spotify.com/album/4uHEPiWbpnpaoiaAHi4jmO) | 4:03 | 2024-11-02 |  |
 | [Legion of Bottom Deck Dealers](https://open.spotify.com/track/2iTp3EQREVayV9oK5QsS6R) | [Mamaleek](https://open.spotify.com/artist/1QSovtv7KHNnElY3fV2rJU) | [Legion of Bottom Deck Dealers](https://open.spotify.com/album/1gCxQBIOfiHrxW1n1bgg8Q) | 10:13 | 2024-07-23 | 2024-07-25 |
 | [Leprosy](https://open.spotify.com/track/2qxevIU1pfftKSN60MtkCD) | [Ghais Guevara](https://open.spotify.com/artist/7zQ4NNGWgCVWU80Rg6dXOH) | [Leprosy](https://open.spotify.com/album/1Cp5nub0OaPjbasvcueGuK) | 2:47 | 2024-09-25 | 2024-09-28 |
 | [Lesbians <3](https://open.spotify.com/track/6qNarhsEYw4h8GKvtU33lY) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Lesbians <3](https://open.spotify.com/album/4Q0AyfIv7BZjnGt2unFeY9) | 2:06 | 2024-06-07 | 2024-06-11 |
@@ -1946,6 +1947,7 @@
 | [Natural](https://open.spotify.com/track/4CDIfDhXDeewj7x0U4AT4i) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Natural](https://open.spotify.com/album/0WIyYFQocA0dNHDuABS3nl) | 3:03 | 2024-10-01 | 2024-10-04 |
 | [NATURAL HABITAT](https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [NATURAL HABITAT](https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ) | 2:53 | 2024-05-20 | 2024-05-23 |
 | [Necessary Evil](https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Necessary Evil](https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV) | 2:56 | 2024-07-31 | 2024-08-03 |
+| [Need I Say More](https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Need I Say More](https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp) | 2:58 | 2024-11-02 |  |
 | [Nein!](https://open.spotify.com/track/2wvUmObLQbxClXFsuhw8Ns) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Nein!](https://open.spotify.com/album/1J4tY6DjG58gdMmcVHllLu) | 3:14 | 2024-07-19 | 2024-07-25 |
 | [Neon Cross](https://open.spotify.com/track/6GXuIRrrTeeS9l27jWYLbD) | [Dance With the Dead](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm), [Brandon Saller](https://open.spotify.com/artist/12x8XI7ZYpGnKPUzifOxL6) | [Neon Cross](https://open.spotify.com/album/0qquaYF9PXerHnlf8kHyRo) | 3:46 | 2024-09-12 | 2024-09-14 |
 | [Neon Signs](https://open.spotify.com/track/1Ar6TClO5jtDLNRDpGbp2w) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Neon Signs](https://open.spotify.com/album/42vZKcVepSEpAt2c1LniXQ) | 5:07 | 2024-10-02 | 2024-10-05 |
@@ -3043,7 +3045,7 @@
 | [Wake Up, Pass Out](https://open.spotify.com/track/0ISluANGR8RAokUJCzRygg) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Wake Up, Pass Out](https://open.spotify.com/album/0jTdu9HM5JSNEvpp5GfwTz) | 2:58 | 2024-08-05 | 2024-08-08 |
 | [Waking Up](https://open.spotify.com/track/5tDJwfVd6RQzcIW14GfbBl) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Waking Up](https://open.spotify.com/album/2voKEkY95BCtN0rTgQoGGQ) | 4:39 | 2024-06-13 | 2024-06-15 |
 | [Walking On Sunshine \- From The “American Psycho” Comic Series Soundtrack](https://open.spotify.com/track/07QjTct0HPDi1uj0uK6cMe) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Walking On Sunshine \(From The “American Psycho” Comic Series Soundtrack\)](https://open.spotify.com/album/3zKZUewnkV7sON3PUM1AMD) | 3:12 | 2024-07-09 | 2024-07-11 |
-| [Walla Walla](https://open.spotify.com/track/5t0bkMURhbmZabN1DLM7xi) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Walla Walla](https://open.spotify.com/album/61IDujjLMCiOcuCl5Tixzi) | 2:52 | 2024-11-01 |  |
+| [Walla Walla](https://open.spotify.com/track/5t0bkMURhbmZabN1DLM7xi) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Walla Walla](https://open.spotify.com/album/61IDujjLMCiOcuCl5Tixzi) | 2:52 | 2024-11-01 | 2024-11-03 |
 | [Want U](https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Want U / Safe To Say](https://open.spotify.com/album/7oPUGuvIS4164TJFayPYuJ) | 2:16 | 2024-09-21 | 2024-09-26 |
 | [WANT U AROUND](https://open.spotify.com/track/48kDKhXoZfxUUSj1JVGSbq) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Rocci](https://open.spotify.com/artist/7JuMRNIHpmyFPoihd7NB7T) | [WANT U AROUND](https://open.spotify.com/album/09FHekp2XnxI3RpHgq17vF) | 2:53 | 2024-08-22 | 2024-08-24 |
 | [Want You to Want Me](https://open.spotify.com/track/5fhQ9KM2eWaUSWZ5S0loir) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Want You to Want Me](https://open.spotify.com/album/38bdiq4h9OWcx6kciA6EUt) | 2:33 | 2024-09-20 | 2024-09-26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46232,
+  "num_followers": 46229,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAAAd9u3KnEO4PSmRug9UONoi",
+  "snapshot_id": "ZyQaAAAAAABD64iZPHpLsdua+UsDw0C9",
   "tracks": [
     {
       "added_at": null,
@@ -298,15 +298,11 @@
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 235740,
-      "name": "V\u00edcio",
-      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
+      "duration_ms": 243330,
+      "name": "Mil Cair\u00e3o",
+      "url": "https://open.spotify.com/track/2Wyepj1yixQw0R7ZfbM7qb"
     },
     {
       "added_at": null,
@@ -390,11 +386,15 @@
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 243330,
-      "name": "Mil Cair\u00e3o",
-      "url": "https://open.spotify.com/track/2Wyepj1yixQw0R7ZfbM7qb"
+      "duration_ms": 235740,
+      "name": "V\u00edcio",
+      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e1diva & D\u00edvida",
-        "url": "https://open.spotify.com/album/69FEbB83gglKjWddcLHRs1"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "Plantar o Bem",
-      "url": "https://open.spotify.com/track/4n1fk1y5Jn0hL8EsrGyIbO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dr. Drill",
         "url": "https://open.spotify.com/album/0uc0wcg2BWv4J8NtrzPRK0"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 251418,
       "name": "Aulas e Palestras",
       "url": "https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e1diva & D\u00edvida",
+        "url": "https://open.spotify.com/album/69FEbB83gglKjWddcLHRs1"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 249800,
+      "name": "Plantar o Bem",
+      "url": "https://open.spotify.com/track/4n1fk1y5Jn0hL8EsrGyIbO"
     },
     {
       "added_at": null,
@@ -927,78 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vinhos & Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 216100,
-      "name": "Idas e Vindas",
-      "url": "https://open.spotify.com/track/1NKc3yIiSuAKuZvTk1h62d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 265896,
-      "name": "Tudo Ou Nada",
-      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "God\u00f4",
-          "url": "https://open.spotify.com/artist/7MBgy5E7SII5xPK7V1bqIz"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "P\u00e9s na Areia (Promessas) (feat. God\u00f4)",
-      "url": "https://open.spotify.com/track/1JZCxnavkk1QEebmKlBqs1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 187669,
-      "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetas No Topo 3.3, Pt. 1",
         "url": "https://open.spotify.com/album/0Y6sQBLqax8F8uvVLvFXkP"
       },
@@ -1063,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 265896,
+      "name": "Tudo Ou Nada",
+      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posf\u00e1cio",
         "url": "https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT"
       },
@@ -1083,6 +1027,62 @@
       "duration_ms": 262559,
       "name": "Recorda\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 187669,
+      "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "God\u00f4",
+          "url": "https://open.spotify.com/artist/7MBgy5E7SII5xPK7V1bqIz"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "P\u00e9s na Areia (Promessas) (feat. God\u00f4)",
+      "url": "https://open.spotify.com/track/1JZCxnavkk1QEebmKlBqs1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vinhos & Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 216100,
+      "name": "Idas e Vindas",
+      "url": "https://open.spotify.com/track/1NKc3yIiSuAKuZvTk1h62d"
     },
     {
       "added_at": null,
@@ -1123,18 +1123,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+        "name": "L\u00edngua dos Campe\u00f5es",
+        "url": "https://open.spotify.com/album/4gNx3oF9mLwt04CITND7ge"
       },
       "artists": [
         {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        },
+        {
+          "name": "Holly Hood",
+          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
+        },
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        },
+        {
+          "name": "Sir Scratch",
+          "url": "https://open.spotify.com/artist/5rvP5KtLM6n8xOUDqhmq4i"
         }
       ],
-      "duration_ms": 286570,
-      "name": "Estere\u00f3tipo",
-      "url": "https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E"
+      "duration_ms": 464853,
+      "name": "L\u00edngua dos Campe\u00f5es",
+      "url": "https://open.spotify.com/track/0Uq6l0gRWpsUzoDPklSPmp"
     }
   ],
   "unique_name": "This Is Rashid",

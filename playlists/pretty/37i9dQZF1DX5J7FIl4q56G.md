@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Cane Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,260 likes - 45 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,334 likes - 45 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

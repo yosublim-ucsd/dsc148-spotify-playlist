@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 209 songs - 10 hr 58 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 212 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,5 +217,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 207 | [Goodbye Horses](https://open.spotify.com/track/0J2cgvHznJVOgJPwRCZi9r) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [Eyesis](https://open.spotify.com/artist/1G3WyhZvBWTDaPHVP1g5Ta) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 3:03 |
 | 208 | [Empire Ants \(feat\. Little Dragon\)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:43 |
 | 209 | [Louis V Everything!](https://open.spotify.com/track/1YEmp5J2h3dUJg98dFGMnr) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Louis V Everything!](https://open.spotify.com/album/59TP9qgdbF9qPaoopKLyb9) | 2:20 |
+| 210 | [Cosmo Freestyle](https://open.spotify.com/track/29hATL1N9JGEtS8HpxRjcN) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 3:04 |
+| 211 | [Wolverine](https://open.spotify.com/track/22JoVWZlY49vSLzssk8RL7) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 2:47 |
+| 212 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 |
 
-Snapshot ID: `AAAdAbCnjJwtOeF5ikyYKvDYiaatCfeJ`
+Snapshot ID: `AAAdBEpdEaPtsCmnwwSO9Etz97Ajf3Ds`

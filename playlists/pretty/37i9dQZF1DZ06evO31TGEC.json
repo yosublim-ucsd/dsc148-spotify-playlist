@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 48133,
+  "num_followers": 48143,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAADcoozUKJEvjAzG8dwVIrHX",
+  "snapshot_id": "ZyQaAAAAAACz2C7mWqlZREMPkHzx59ZP",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 180185,
-      "name": "Nadie Es De Nadie",
-      "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angel Perdido",
         "url": "https://open.spotify.com/album/1CeEMvyWBAL4SObCiwOHke"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 149636,
       "name": "Angel Perdido",
       "url": "https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 180185,
+      "name": "Nadie Es De Nadie",
+      "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Decretos",
-        "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
+        "name": "Que Se Mueran de Envidia",
+        "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Quisiera Ser Un Mago",
-      "url": "https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0"
+      "duration_ms": 214038,
+      "name": "Que Se Mueran de Envidia",
+      "url": "https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Mueran de Envidia",
-        "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
+        "name": "Mis Decretos",
+        "url": "https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 214038,
-      "name": "Que Se Mueran de Envidia",
-      "url": "https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD"
+      "duration_ms": 176666,
+      "name": "Quisiera Ser Un Mago",
+      "url": "https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0"
     },
     {
       "added_at": null,

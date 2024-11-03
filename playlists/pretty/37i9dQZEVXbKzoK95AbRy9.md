@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,966 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,024 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Sombra Desconhecida \- Ao Vivo](https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Sombra Desconhecida \(Ao Vivo\)](https://open.spotify.com/album/7j9FmFWjSSuqJe5XAtz0WG) | 2:40 |
 | 50 | [E Aí Como Que Tá ?](https://open.spotify.com/track/44BehH5rk8B5K4OtRxqpez) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9) | [2T Na Levada](https://open.spotify.com/album/1epohEdKycc956pIE204lC) | 2:14 |
 
-Snapshot ID: `LrhByAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LrmVoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

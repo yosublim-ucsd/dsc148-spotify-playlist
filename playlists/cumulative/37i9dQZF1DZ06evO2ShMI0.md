@@ -4,7 +4,7 @@
 
 > This is Los Enanitos Verdes\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 26 min
+69 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Lamento Boliviano \(En Vivo\)](https://open.spotify.com/track/2EXI9HTEQxGdaEcVChE0DK) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 6:28 | 2022-10-26 |  |
 | [Lamento Boliviano \- En Vivo](https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 5:55 | 2022-10-26 |  |
 | [Loco](https://open.spotify.com/track/6QxZFxjeolNSKDmWHmU4VU) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Iconos del Urbano](https://open.spotify.com/album/2MuCH6Ojk6f2ee9jXj1jJ4) | 3:43 | 2023-02-14 |  |
+| [Los Amores Se Van](https://open.spotify.com/track/3qOjTACYVZcNye5CracQwo) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Muchachos](https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM) | 3:27 | 2024-11-03 |  |
 | [Luz De Dia](https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:28 | 2022-10-26 |  |
 | [Luz De Dia \- En Vivo](https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:53 | 2022-10-26 |  |
 | [Luz de Día \(En Vivo\)](https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 5:25 | 2022-10-26 |  |
@@ -68,7 +69,7 @@
 | [Tan Solo Un Instante](https://open.spotify.com/track/5nkCX8swYXg7tMk9gemoOo) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Coleccion Aniversario](https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc) | 3:24 | 2022-10-26 |  |
 | [Te Ví en un Tren](https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 4:05 | 2022-10-26 | 2023-10-11 |
 | [Te Ví en un Tren](https://open.spotify.com/track/1RsoepHup9zTCiOPHlR0pQ) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habitaciones Extrañas](https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2) | 4:07 | 2023-10-10 |  |
-| [Tequila \- En Vivo](https://open.spotify.com/track/3HaKjSU18sOZn85mXiAP52) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:06 | 2023-09-15 |  |
+| [Tequila \- En Vivo](https://open.spotify.com/track/3HaKjSU18sOZn85mXiAP52) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:06 | 2023-09-15 | 2024-11-03 |
 | [Tibio Corazon](https://open.spotify.com/track/23FltX27Jle4ytbc5UPvAL) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Planetario](https://open.spotify.com/album/7dmyvQjdhoCpU5qT73k3Yc) | 4:01 | 2023-12-31 |  |
 | [Tu Carcel \- En Vivo](https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:02 | 2022-10-26 |  |
 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 | 2022-10-26 |  |

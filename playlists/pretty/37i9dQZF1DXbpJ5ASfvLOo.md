@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJ5ASfvLOo.md) - [plain]
 
 > Listen to the soundtracks of the show Bro and Marble\. \(브로 앤 마블의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 '여행 갈 때 듣기 좋은 노래'들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,653 likes - 52 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,656 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJ5ASfvLOo.md) - [plain]
 | 17 | [나에게로 떠나는 여행](https://open.spotify.com/track/4K35mmvZKAq3ue2TyXisMW) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n) | 3:28 |
 | 18 | [Like a flower](https://open.spotify.com/track/3oM6vTO5WGgHP3DOIGWXfU) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [The Project](https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn) | 3:26 |
 | 19 | [Drive](https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl) | 3:21 |
-| 20 | [Circle](https://open.spotify.com/track/5ovDdxNULZDItJXsrN5O3o) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [Captain Planet](https://open.spotify.com/artist/4gUzVXtJJ6UWTWobd18HqJ) | [Circle](https://open.spotify.com/album/77jgit97Awso1HWgnklOpm) | 4:24 |
+| 20 | [Circle](https://open.spotify.com/track/5ovDdxNULZDItJXsrN5O3o) | [Captain Planet](https://open.spotify.com/artist/4gUzVXtJJ6UWTWobd18HqJ), [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Circle](https://open.spotify.com/album/77jgit97Awso1HWgnklOpm) | 4:24 |
 | 21 | [The First Kiss](https://open.spotify.com/track/2dPbi4dhP5nl2f2NOiuZ6n) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Crazy for You](https://open.spotify.com/album/0elA3F3PRa68MMFk6YsmpI) | 3:44 |
 | 22 | [Beach Again](https://open.spotify.com/track/4L1MHK27ifT30Ndicpr7js) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M) | [Beach Again](https://open.spotify.com/album/427BTLanPKvIrBTq80FVHW) | 3:53 |
 | 23 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,583 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,593 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 17 | [You're My Latest, My Greatest Inspiration](https://open.spotify.com/track/3KvnF95wCJkQlCxUumLEDe) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 5:21 |
 | 18 | [Through the Falling Rain \(Love Story\)](https://open.spotify.com/track/0iVUnf5EMHZRRsKUssVhE2) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 4:58 |
 | 19 | [In My Time](https://open.spotify.com/track/4IB3mrQpsbQiJ8tOId1rlm) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [BILL SCHNEE](https://open.spotify.com/artist/2DTaaPWVlfdDlB8NvpAajq) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 3:51 |
-| 20 | [Hold Me \- 45 Version](https://open.spotify.com/track/5YJjCGmO9QfEvB7Ap1oHpp) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Hold Me / Love \[Digital 45\]](https://open.spotify.com/album/4D9avWhg4pxSzQSSVSClnQ) | 5:21 |
-| 21 | [It Should've Been You](https://open.spotify.com/track/7lwrsQrFq5fRvzlL9uJ00I) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Truly Blessed](https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog) | 4:04 |
+| 20 | [It Should've Been You](https://open.spotify.com/track/7lwrsQrFq5fRvzlL9uJ00I) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Truly Blessed](https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog) | 4:04 |
+| 21 | [Hold Me \- 45 Version](https://open.spotify.com/track/5YJjCGmO9QfEvB7Ap1oHpp) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Hold Me / Love \[Digital 45\]](https://open.spotify.com/album/4D9avWhg4pxSzQSSVSClnQ) | 5:21 |
 | 22 | [This Is the Last Time](https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 6:28 |
 | 23 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
 | 24 | [The Love I Lost \(feat\. Teddy Pendergrass\) \- Single Version](https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:33 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 47 | [Get Up, Get Down, Get Funky, Get Loose](https://open.spotify.com/track/53i3FnA4AZEZ8xfC4Rw6bB) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:23 |
 | 48 | [It's All Because of a Woman \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/0xhrVgS6P9jXvi38FiTWFq) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 5:26 |
 | 49 | [Let's Clean Up the Ghetto \- 12" Version](https://open.spotify.com/track/6kjxpTGe8HRD3TUJBqNEUK) | [The Philadelphia International All\-Stars](https://open.spotify.com/artist/65LAAoHRaxtbWobjZdZOuX), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Archie Bell](https://open.spotify.com/artist/7f3BKwnwO2xv3zxosgVHvW), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT), [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK) | [The Essential MFSB](https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C) | 8:39 |
-| 50 | [You're My Choice Tonight \(Choose Me\)](https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 4:49 |
+| 50 | [Tell the World How I Feel About 'Cha Baby \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 5:52 |
 
-Snapshot ID: `ZyLIgAAAAACA13HPVTD8XNSIMnFoc8c8`
+Snapshot ID: `ZyQaAAAAAADXCOk2iP2ksa4UFCW4H7h1`

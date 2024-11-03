@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,211 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,286 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 55 | [Tudo Que Ela Gosta De Escutar \- Lion Remix](https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5), [LION dj](https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ) | [Tudo Que Ela Gosta De Escutar \(Lion Remix\)](https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD) | 5:00 |
 | 56 | [Dentro de um Abraço \- Pic Schmitz e Breno Rocha Remix](https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Pic Schmitz](https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl), [Breno Rocha](https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut) | [Dentro de um Abraço \(Pic Schmitz e Breno Rocha Remix\)](https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M) | 2:38 |
 | 57 | [La Belle De Jour \(Remix\)](https://open.spotify.com/track/3zVmzU4TDiV6IyUALMZqyv) | [Ronald DJ](https://open.spotify.com/artist/5MjKm3b0XYvzervh54609T), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [La Belle De Jour \(Remix\)](https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt) | 2:35 |
-| 58 | [Sucker](https://open.spotify.com/track/3I5Xmqmng3glL1DtRYb4pD) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM) | [Sucker](https://open.spotify.com/album/1tSHJ1U4wbL5zu20x4ku7i) | 2:52 |
-| 59 | [O Descobridor dos Sete Mares](https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E) | [WhyNot Music](https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m), [Rodrigo Sá](https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho) | [O Descobridor dos Sete Mares](https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd) | 3:32 |
+| 58 | [O Descobridor dos Sete Mares](https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E) | [WhyNot Music](https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m), [Rodrigo Sá](https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho) | [O Descobridor dos Sete Mares](https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd) | 3:32 |
+| 59 | [Sucker](https://open.spotify.com/track/3I5Xmqmng3glL1DtRYb4pD) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM) | [Sucker](https://open.spotify.com/album/1tSHJ1U4wbL5zu20x4ku7i) | 2:52 |
 | 60 | [When In Rome](https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [When In Rome](https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f) | 3:14 |
 | 61 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
 | 62 | [Que Dia](https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Que Dia](https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl) | 2:55 |

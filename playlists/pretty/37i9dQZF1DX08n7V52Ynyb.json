@@ -1,6 +1,6 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 56641,
+  "num_followers": 56696,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
-      },
-      "artists": [
-        {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
-        }
-      ],
-      "duration_ms": 345176,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
         "name": "What'll I Do",
         "url": "https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 245063,
       "name": "What'll I Do",
       "url": "https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 345176,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "Skylark",
-        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 274945,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 275687,
       "name": "How Long",
       "url": "https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Skylark",
+        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 274945,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -651,34 +651,6 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "Good Morning Heartache",
-        "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        },
-        {
-          "name": "Fi Mar\u00f3stica",
-          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
-        },
-        {
-          "name": "Leo Gasso",
-          "url": "https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 193177,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
         "name": "I'm Glad There Is You",
         "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
       },
@@ -711,6 +683,34 @@
       "duration_ms": 332066,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/6ZEHSRUjfNVZ5cIfCfu71H"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Good Morning Heartache",
+        "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        },
+        {
+          "name": "Fi Mar\u00f3stica",
+          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
+        },
+        {
+          "name": "Leo Gasso",
+          "url": "https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 193177,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
-      },
-      "artists": [
-        {
-          "name": "Deelee Dube",
-          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
-        }
-      ],
-      "duration_ms": 338822,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
         "name": "The Night and the Music",
         "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 249026,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
+      },
+      "artists": [
+        {
+          "name": "Deelee Dube",
+          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+        }
+      ],
+      "duration_ms": 338822,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -863,22 +863,6 @@
       "duration_ms": 477973,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "Blues in the City",
-        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
-      },
-      "artists": [
-        {
-          "name": "Laverne Butler",
-          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -923,6 +907,22 @@
       "duration_ms": 206680,
       "name": "Spring Waltz",
       "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Blues in the City",
+        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
+      },
+      "artists": [
+        {
+          "name": "Laverne Butler",
+          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -1075,42 +1075,6 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "The Dream Is You: Vanessa Rubin Sings Tadd Dameron",
-        "url": "https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Rubin",
-          "url": "https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ"
-        }
-      ],
-      "duration_ms": 430081,
-      "name": "If You Could See Me Now",
-      "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "A Beautiful Friendship",
-        "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
-      },
-      "artists": [
-        {
-          "name": "Alexis Cole",
-          "url": "https://open.spotify.com/artist/6ZljReNeQbX2fn8yjGWiNE"
-        },
-        {
-          "name": "Bucky Pizzarelli",
-          "url": "https://open.spotify.com/artist/0Adi1C37oMa2axoBWcMtxq"
-        }
-      ],
-      "duration_ms": 258239,
-      "name": "A Beautiful Friendship",
-      "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -1131,30 +1095,18 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
+        "name": "The Dream Is You: Vanessa Rubin Sings Tadd Dameron",
+        "url": "https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO"
       },
       "artists": [
         {
-          "name": "Katrine Madsen",
-          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
-        },
-        {
-          "name": "Jesper Thorn",
-          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        },
-        {
-          "name": "Mads La Cour",
-          "url": "https://open.spotify.com/artist/7Lf4MgF9wFY6sNwHfa08Tf"
+          "name": "Vanessa Rubin",
+          "url": "https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ"
         }
       ],
-      "duration_ms": 448640,
-      "name": "From a Mother to a Child",
-      "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
+      "duration_ms": 430081,
+      "name": "If You Could See Me Now",
+      "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -1187,18 +1139,50 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
-        "name": "Easy Come, Easy Go Blues",
-        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
+        "name": "A Beautiful Friendship",
+        "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
       },
       "artists": [
         {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+          "name": "Alexis Cole",
+          "url": "https://open.spotify.com/artist/6ZljReNeQbX2fn8yjGWiNE"
+        },
+        {
+          "name": "Bucky Pizzarelli",
+          "url": "https://open.spotify.com/artist/0Adi1C37oMa2axoBWcMtxq"
         }
       ],
-      "duration_ms": 152654,
-      "name": "Easy Come, Easy Go Blues",
-      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
+      "duration_ms": 258239,
+      "name": "A Beautiful Friendship",
+      "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
+      },
+      "artists": [
+        {
+          "name": "Katrine Madsen",
+          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
+        },
+        {
+          "name": "Jesper Thorn",
+          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        },
+        {
+          "name": "Mads La Cour",
+          "url": "https://open.spotify.com/artist/7Lf4MgF9wFY6sNwHfa08Tf"
+        }
+      ],
+      "duration_ms": 448640,
+      "name": "From a Mother to a Child",
+      "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -1215,6 +1199,22 @@
       "duration_ms": 413916,
       "name": "In the Space Between Our Souls",
       "url": "https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
+        "name": "Easy Come, Easy Go Blues",
+        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 152654,
+      "name": "Easy Come, Easy Go Blues",
+      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
     },
     {
       "added_at": "2024-10-25 08:57:10",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2024-10-25 08:57:10",
       "album": {
+        "name": "Two Tenors",
+        "url": "https://open.spotify.com/album/2FwsXdfYSYQIwAOTBtYbRx"
+      },
+      "artists": [
+        {
+          "name": "Jan Smigmator",
+          "url": "https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo"
+        },
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/2BmSDptUfW7WVbasPnBqhZ"
+    },
+    {
+      "added_at": "2024-10-25 08:57:10",
+      "album": {
         "name": "Willow Weep For Me",
         "url": "https://open.spotify.com/album/46rIGsBH4cGh39xDCSD13x"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 192171,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc"
-    },
-    {
-      "added_at": "2024-10-25 08:57:10",
-      "album": {
-        "name": "Two Tenors",
-        "url": "https://open.spotify.com/album/2FwsXdfYSYQIwAOTBtYbRx"
-      },
-      "artists": [
-        {
-          "name": "Jan Smigmator",
-          "url": "https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo"
-        },
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/2BmSDptUfW7WVbasPnBqhZ"
     },
     {
       "added_at": "2024-10-25 08:57:10",

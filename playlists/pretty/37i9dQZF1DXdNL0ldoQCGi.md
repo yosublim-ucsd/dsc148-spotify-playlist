@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá que tá viral no seu feed sabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,131 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,144 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 48 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 49 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 |
 | 50 | [Furduncinho do Rogerinho](https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n) | [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Furduncinho do Rogerinho](https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a) | 2:59 |
-| 51 | [A Internet É Toxica](https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk) | [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY), [DJ JOAO DA INESTAN](https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p) | [A Internet É Toxica](https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM) | 2:41 |
+| 51 | [A Internet É Toxica](https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk) | [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY), [DJ JOAO DA INESTAN](https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Complexo dos Hits](https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G) | [A Internet É Toxica](https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM) | 2:41 |
 | 52 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 |
 | 53 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 |
 | 54 | [Cheiro da Karolina](https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh) | [Luiz Poderoso Chefão](https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns) | [Cheiro da Karolina](https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI) | 2:57 |

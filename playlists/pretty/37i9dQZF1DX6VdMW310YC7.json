@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3914244,
+  "num_followers": 3914400,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 222092,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/7isqXxKW4kNV5CkFOmaXup"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 183774,
       "name": "True",
       "url": "https://open.spotify.com/track/6BUboGsbk4M4eed4pfKGbz"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 222092,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -651,6 +651,30 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        },
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Not The Same",
+      "url": "https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Into The Bloom",
         "url": "https://open.spotify.com/album/6mekDyVlyHqCPacthWRtP5"
       },
@@ -675,26 +699,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "One Last Call",
-        "url": "https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Felix Raphael",
-          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
-        }
-      ],
-      "duration_ms": 256859,
-      "name": "One Last Call",
-      "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Trying To See U",
         "url": "https://open.spotify.com/album/245bKseQZcRwdtFbyUtNlO"
       },
@@ -711,26 +715,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Not The Same",
-        "url": "https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX"
+        "name": "One Last Call",
+        "url": "https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy"
       },
       "artists": [
         {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         },
         {
-          "name": "Imad",
-          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
-        },
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
         }
       ],
-      "duration_ms": 196500,
-      "name": "Not The Same",
-      "url": "https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF"
+      "duration_ms": 256859,
+      "name": "One Last Call",
+      "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Turtle Jazz",
-        "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Turtle Jazz",
-      "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 204039,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Turtle Jazz",
+        "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Turtle Jazz",
+      "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Stay Still",
         "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 273170,
       "name": "Stay Still",
       "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Pipi Dormir",
-        "url": "https://open.spotify.com/album/38FvCoA5CE5mO9PY7CHqtU"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        }
-      ],
-      "duration_ms": 394838,
-      "name": "Pipi Dormir",
-      "url": "https://open.spotify.com/track/0ba74twsUUtdjG6nTc1b83"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "WORRY.",
         "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 160256,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Pipi Dormir",
+        "url": "https://open.spotify.com/album/38FvCoA5CE5mO9PY7CHqtU"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "duration_ms": 394838,
+      "name": "Pipi Dormir",
+      "url": "https://open.spotify.com/track/0ba74twsUUtdjG6nTc1b83"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Heartburn",
-        "url": "https://open.spotify.com/album/6xjTB9H3uNfy75leYV1NYY"
-      },
-      "artists": [
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 221707,
-      "name": "Heartburn",
-      "url": "https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Fresh Air",
         "url": "https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 136615,
       "name": "Fresh Air",
       "url": "https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Heartburn",
+        "url": "https://open.spotify.com/album/6xjTB9H3uNfy75leYV1NYY"
+      },
+      "artists": [
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 221707,
+      "name": "Heartburn",
+      "url": "https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1651,30 +1651,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "No Ending (Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/4hrRW25xx2jiQqFe5pSbjs"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 259474,
-      "name": "No Ending - Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "every-little-part",
         "url": "https://open.spotify.com/album/5KHdOhmUfsSVgbCX8fy3ij"
       },
@@ -1695,6 +1671,30 @@
       "duration_ms": 229710,
       "name": "every-little-part",
       "url": "https://open.spotify.com/track/2iI827tTlkWlaKXypNB6rE"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "No Ending (Nils Hoffmann Remix)",
+        "url": "https://open.spotify.com/album/4hrRW25xx2jiQqFe5pSbjs"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        },
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 259474,
+      "name": "No Ending - Nils Hoffmann Remix",
+      "url": "https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1763,22 +1763,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "LIFELINE",
-        "url": "https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo"
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/1taAHUvfsRj7BYIkPO06zc"
       },
       "artists": [
         {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "BangLoud",
+          "url": "https://open.spotify.com/artist/0s3esBhM7creiqjThiR77P"
         },
         {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
         }
       ],
-      "duration_ms": 206017,
-      "name": "LIFELINE",
-      "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
+      "duration_ms": 156515,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/7DQ8QCkHfLLPILmDnQCvzG"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1799,22 +1799,46 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/1taAHUvfsRj7BYIkPO06zc"
+        "name": "golden",
+        "url": "https://open.spotify.com/album/26O1qrgmmjV9ecV6WQv8nm"
       },
       "artists": [
         {
-          "name": "BangLoud",
-          "url": "https://open.spotify.com/artist/0s3esBhM7creiqjThiR77P"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "maybealice",
-          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
         }
       ],
-      "duration_ms": 156515,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/7DQ8QCkHfLLPILmDnQCvzG"
+      "duration_ms": 302486,
+      "name": "golden",
+      "url": "https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "LIFELINE",
+        "url": "https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        },
+        {
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+        }
+      ],
+      "duration_ms": 206017,
+      "name": "LIFELINE",
+      "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1879,8 +1903,8 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "golden",
-        "url": "https://open.spotify.com/album/26O1qrgmmjV9ecV6WQv8nm"
+        "name": "&",
+        "url": "https://open.spotify.com/album/43MzTlGpALzesMotOzNDih"
       },
       "artists": [
         {
@@ -1888,17 +1912,17 @@
           "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
         },
         {
-          "name": "Bertie Scott",
-          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+          "name": "Susie Ledge",
+          "url": "https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ"
         }
       ],
-      "duration_ms": 302486,
-      "name": "golden",
-      "url": "https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf"
+      "duration_ms": 271598,
+      "name": "still-healing",
+      "url": "https://open.spotify.com/track/1lSsO9lB7txXjUIMlpF8I2"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1939,26 +1963,6 @@
       "duration_ms": 271519,
       "name": "See You In Dreams",
       "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Essentialism.",
-        "url": "https://open.spotify.com/album/2zrzjdsakuj5Kg82K8kIaQ"
-      },
-      "artists": [
-        {
-          "name": "Misc.Inc",
-          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
-        },
-        {
-          "name": "Oliver River",
-          "url": "https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv"
-        }
-      ],
-      "duration_ms": 200105,
-      "name": "Essentialism.",
-      "url": "https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR"
     }
   ],
   "unique_name": "Chill Tracks",

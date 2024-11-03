@@ -1,6 +1,6 @@
 {
   "description": "I am blessed!",
-  "num_followers": 1734,
+  "num_followers": 1736,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -805,26 +805,6 @@
       "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
     },
     {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "Malaika x Fridayy",
-        "url": "https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 248490,
-      "name": "Malaika x Fridayy",
-      "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
-    },
-    {
       "added_at": "2024-10-25 00:01:00",
       "album": {
         "name": "Shekinah",
@@ -843,6 +823,26 @@
       "duration_ms": 420025,
       "name": "Shekinah",
       "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
+    },
+    {
+      "added_at": "2024-10-11 00:01:00",
+      "album": {
+        "name": "Malaika x Fridayy",
+        "url": "https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 248490,
+      "name": "Malaika x Fridayy",
+      "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
     },
     {
       "added_at": "2024-09-27 00:01:00",

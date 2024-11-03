@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 331363,
+  "num_followers": 331511,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Flor de Aruanda",
-        "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "Flor de Aruanda",
-      "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Entre Borboletas e Avi\u00f5es",
         "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 207808,
       "name": "Rede no Coqueiro",
       "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Flor de Aruanda",
+        "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "Flor de Aruanda",
+      "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "LEVE",
-        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
-      },
-      "artists": [
-        {
-          "name": "Thiago Muller",
-          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
-        }
-      ],
-      "duration_ms": 143023,
-      "name": "LEVE",
-      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Vou Agradecer",
         "url": "https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 219538,
       "name": "Vou Agradecer",
       "url": "https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "LEVE",
+        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Muller",
+          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
+        }
+      ],
+      "duration_ms": 143023,
+      "name": "LEVE",
+      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
+        "name": "Corri Demais",
+        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
+      },
+      "artists": [
+        {
+          "name": "Cau\u00ea Castro",
+          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
+        }
+      ],
+      "duration_ms": 178470,
+      "name": "Corri Demais",
+      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
         "name": "T\u00f4 Te Esperando pra Dan\u00e7ar",
         "url": "https://open.spotify.com/album/1YDBkaJhuTl1S9FRFxiw2h"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 198400,
       "name": "T\u00f4 Te Esperando pra Dan\u00e7ar",
       "url": "https://open.spotify.com/track/1qBn46JiD592bFbumAR3G7"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
-        "name": "Corri Demais",
-        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
-      },
-      "artists": [
-        {
-          "name": "Cau\u00ea Castro",
-          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
-        }
-      ],
-      "duration_ms": 178470,
-      "name": "Corri Demais",
-      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -1059,18 +1059,26 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf"
+        "name": "Um Sinal",
+        "url": "https://open.spotify.com/album/0As3k5d0ljs7Mcy8cSdb09"
       },
       "artists": [
         {
-          "name": "Voraz",
-          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+          "name": "Andr\u00e9 Rios",
+          "url": "https://open.spotify.com/artist/23FxtHny3wE7UQrAAgAhS8"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1AN06k2GZImDBqRo4jWcAT"
+        },
+        {
+          "name": "Carlos Malta",
+          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
         }
       ],
-      "duration_ms": 164150,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL"
+      "duration_ms": 238227,
+      "name": "Um Sinal",
+      "url": "https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq"
     }
   ],
   "unique_name": "Praiana",

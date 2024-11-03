@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。The Weeknd, Tyler, The Creator, Shawn Mendes, Ado, yama and more! cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,918 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,924 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 21 | [You’ll Be There \(with Justin Timberlake\)](https://open.spotify.com/track/2GwlfJ7w8UeicKIxTClmyW) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Holiday Seasoning](https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy) | 3:21 |
 | 22 | [I Want You This Christmas](https://open.spotify.com/track/1JHsB2E0FWEEBVdFV2W6w8) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dear Big Santa](https://open.spotify.com/album/2HaS5g0VjsXf93yy7TNf6c) | 2:55 |
 | 23 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 |
-| 24 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER 1st FULL ALBUM \[DRIP\]](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
+| 24 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
 | 25 | [TIPI\-TAP](https://open.spotify.com/track/5ufLXgP0f4GTghZO05XMpy) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1er The 6th Mini Album <TIPI\-TAP>](https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7) | 2:52 |
 | 26 | [SORNERO](https://open.spotify.com/track/1kKhy7DEPN4fUj8OPIJrOk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [SORNERO](https://open.spotify.com/album/2MV34WRwGIClaHGjhZmK1f) | 3:28 |
 | 27 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 |

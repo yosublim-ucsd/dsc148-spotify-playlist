@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 165449,
+  "num_followers": 165525,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAB13cdD4v34y5W9+qV9TI8A",
+  "snapshot_id": "ZyQaAAAAAABx6ZVA1Pva6bOTmYuGTNAo",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuego Contra Fuego (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2"
+        "name": "Fuego Contra Fuego",
+        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
       },
       "artists": [
         {
@@ -182,23 +182,7 @@
       ],
       "duration_ms": 156320,
       "name": "Soy Lo Peor",
-      "url": "https://open.spotify.com/track/6tlA9TBaGgY1xnqfJJL5bS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Renta Un Coraz\u00f3n (Reissue)",
-        "url": "https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "No Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX"
+      "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
     },
     {
       "added_at": null,
@@ -215,6 +199,22 @@
       "duration_ms": 194813,
       "name": "Amor A\u00f1ejo",
       "url": "https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Renta Un Coraz\u00f3n (Reissue)",
+        "url": "https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "No Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia Contin\u00faa",
-        "url": "https://open.spotify.com/album/1y96jqrtZbBZsmuNe1Nfvv"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Sorpr\u00e9ndeme",
-      "url": "https://open.spotify.com/track/4V8B14tV0m8VDRrmJzKoWy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 199226,
       "name": "La Baraja",
       "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Historia Contin\u00faa",
+        "url": "https://open.spotify.com/album/1y96jqrtZbBZsmuNe1Nfvv"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Sorpr\u00e9ndeme",
+      "url": "https://open.spotify.com/track/4V8B14tV0m8VDRrmJzKoWy"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Nadie Sepa",
-        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Por las Damas Caballero",
-      "url": "https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Unas Horas",
         "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 181146,
       "name": "Amor De Unas Horas",
       "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Nadie Sepa",
+        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Por las Damas Caballero",
+      "url": "https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Nadie Sepa",
-        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Espero Que \u00c9l",
-      "url": "https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Sur Hasta el Norte",
         "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
       },
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuego Contra Fuego (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2"
+        "name": "Que Nadie Sepa",
+        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
       },
       "artists": [
         {
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 186146,
-      "name": "Fuego Contra Fuego",
-      "url": "https://open.spotify.com/track/5cVL7qtcdQckPw3eHzAflP"
+      "duration_ms": 204120,
+      "name": "Espero Que \u00c9l",
+      "url": "https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 180546,
       "name": "No Puedo Mas",
       "url": "https://open.spotify.com/track/0g9Rjljak6cAUeR0he3oo9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuego Contra Fuego (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Fuego Contra Fuego",
+      "url": "https://open.spotify.com/track/5cVL7qtcdQckPw3eHzAflP"
     },
     {
       "added_at": null,

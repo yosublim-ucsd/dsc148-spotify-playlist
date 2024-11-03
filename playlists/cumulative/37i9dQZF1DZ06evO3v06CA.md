@@ -4,7 +4,7 @@
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 22 min
+97 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Juanita](https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 3:40 | 2023-04-28 |  |
 | [Just Breathe \(feat\. Lukas Nelson\)](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 | 2023-04-28 |  |
 | [Just to Satisfy You](https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:49 | 2023-04-28 | 2024-01-31 |
+| [Keep Me In Your Heart](https://open.spotify.com/track/5L7Va6Ld0wb2giv6PznMwG) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Leaf On The Tree](https://open.spotify.com/album/6eMDYYqusiE28W797x0ArK) | 3:35 | 2024-11-03 |  |
 | [Kiss Me When You're Through](https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 2:45 | 2024-06-02 | 2024-09-14 |
 | [Last Leaf](https://open.spotify.com/track/3xZbfaTKjT7AxOEWKqOEMW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Leaf](https://open.spotify.com/album/4BxExZd0956GZcl9HotNfj) | 3:14 | 2024-08-17 | 2024-09-20 |
 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 | 2023-04-28 | 2023-07-25 |

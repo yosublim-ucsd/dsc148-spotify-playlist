@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 277835,
+  "num_followers": 277855,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAByJOTSB8pStRjM7AAlOMwk",
+  "snapshot_id": "ZyQaAAAAAADYs5A+j9D0p2OKU/G0YnCK",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Star Halos",
-        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 183200,
       "name": "Switch 625",
       "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Star Halos",
-        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pyromania",
         "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 224848,
       "name": "Stagefright",
       "url": "https://open.spotify.com/track/6wzYsqOkBLqyjyzFRohAFi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On Through The Night",
-        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 298663,
       "name": "Another Hit And Run",
       "url": "https://open.spotify.com/track/1XMIfgwtEm6Bd2mahFPaqb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Through The Night",
+        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Through The Night",
-        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 188819,
-      "name": "Rock Brigade",
-      "url": "https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 280666,
+      "name": "Long Long Way To Go",
+      "url": "https://open.spotify.com/track/6skdrQ6j8GOF6RFEADIH7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adrenalize",
         "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
       },
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
+        "name": "On Through The Night",
+        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 280666,
-      "name": "Long Long Way To Go",
-      "url": "https://open.spotify.com/track/6skdrQ6j8GOF6RFEADIH7Y"
+      "duration_ms": 188819,
+      "name": "Rock Brigade",
+      "url": "https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirror Ball \u2013 Live & More",
-        "url": "https://open.spotify.com/album/3dAgxpN9US0pj3OB3hOq32"
+        "name": "X",
+        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 280466,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/7w2W2XIem4XdNfgSQzbypm"
+      "duration_ms": 240920,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
+        "name": "Mirror Ball \u2013 Live & More",
+        "url": "https://open.spotify.com/album/3dAgxpN9US0pj3OB3hOq32"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 240920,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY"
+      "duration_ms": 280466,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/7w2W2XIem4XdNfgSQzbypm"
     }
   ],
   "unique_name": "This Is Def Leppard",

@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 230035,
+  "num_followers": 230120,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAAY2dxoq+9CUN7/Y94VCPQp",
+  "snapshot_id": "ZyQaAAAAAABqcs0oHbbOKuuXlHLXJwhS",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 188193,
       "name": "Qui\u00e9reme As\u00ed",
       "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Vienes",
-        "url": "https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188950,
-      "name": "Cuando Vienes",
-      "url": "https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc"
     },
     {
       "added_at": null,
@@ -347,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Vienes",
+        "url": "https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188950,
+      "name": "Cuando Vienes",
+      "url": "https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
       },
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/6ZAh6f0M9XDCQY49y4h6fJ"
+      },
+      "artists": [
+        {
+          "name": "Elena Vargas",
+          "url": "https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 169348,
+      "name": "Rebelde",
+      "url": "https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde el Fondo",
         "url": "https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 219200,
       "name": "Desde el Fondo",
       "url": "https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebelde",
-        "url": "https://open.spotify.com/album/6ZAh6f0M9XDCQY49y4h6fJ"
-      },
-      "artists": [
-        {
-          "name": "Elena Vargas",
-          "url": "https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 169348,
-      "name": "Rebelde",
-      "url": "https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como Bolero",
+        "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 194495,
+      "name": "Como Bolero",
+      "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
       },
@@ -803,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Bolero",
-        "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
+        "name": "Caballero",
+        "url": "https://open.spotify.com/album/4Nc7ExTZ5cuLkrKXbRWUP5"
       },
       "artists": [
         {
@@ -812,9 +828,9 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 194495,
-      "name": "Como Bolero",
-      "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
+      "duration_ms": 149024,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/3rN1Wr64lf63NlAsmFHxxn"
     },
     {
       "added_at": null,
@@ -859,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compilado, Vol. 1",
-        "url": "https://open.spotify.com/album/14CpQJsjiV9GqZJHNQYjXC"
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/32Fgx3PGAOXi2F1KtJNmfz"
       },
       "artists": [
         {
@@ -868,9 +884,9 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 190542,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/2ILQcg4M8Qyc6hq0v2AGOg"
+      "duration_ms": 201853,
+      "name": "P\u00farpura",
+      "url": "https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di"
     },
     {
       "added_at": null,
@@ -907,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/32Fgx3PGAOXi2F1KtJNmfz"
+        "name": "Compilado, Vol. 1",
+        "url": "https://open.spotify.com/album/14CpQJsjiV9GqZJHNQYjXC"
       },
       "artists": [
         {
@@ -916,9 +932,9 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 201853,
-      "name": "P\u00farpura",
-      "url": "https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di"
+      "duration_ms": 190542,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/2ILQcg4M8Qyc6hq0v2AGOg"
     },
     {
       "added_at": null,
@@ -959,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caballero",
-        "url": "https://open.spotify.com/album/4Nc7ExTZ5cuLkrKXbRWUP5"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 149024,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/3rN1Wr64lf63NlAsmFHxxn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otro Paso a la Locura",
         "url": "https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ"
       },
@@ -1011,30 +1011,6 @@
       "duration_ms": 183000,
       "name": "No Se Sobrepase",
       "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' Que Mami No Llore",
-        "url": "https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8"
-      },
-      "artists": [
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gordo del Funk",
-          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
-        }
-      ],
-      "duration_ms": 231068,
-      "name": "Pa' Que Mami No Llore",
-      "url": "https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D"
     }
   ],
   "unique_name": "This Is Nanpa B\u00e1sico",

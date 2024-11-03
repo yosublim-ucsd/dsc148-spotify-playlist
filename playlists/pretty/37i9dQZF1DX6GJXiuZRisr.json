@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1571216,
+  "num_followers": 1571383,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
+      },
+      "artists": [
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 211905,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "No Promises",
         "url": "https://open.spotify.com/album/6Vy2TEzq8DBX0vczYeKACP"
       },
@@ -1239,34 +1255,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
+        "name": "I\u2019ll Be There",
+        "url": "https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W"
       },
       "artists": [
         {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
         }
       ],
-      "duration_ms": 211905,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230243,
-      "name": "Heart Made Of Glass",
-      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
+      "duration_ms": 191250,
+      "name": "I\u2019ll Be There",
+      "url": "https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1287,6 +1287,22 @@
       "duration_ms": 213333,
       "name": "Friend Of Mine",
       "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 230243,
+      "name": "Heart Made Of Glass",
+      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "I\u2019ll Be There",
-        "url": "https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "I\u2019ll Be There",
-      "url": "https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat"
       },
@@ -1363,26 +1363,6 @@
       "duration_ms": 167691,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1431,22 +1411,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Age of Love (ARTBAT Rave Mix)",
-        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         },
         {
-          "name": "Pete Tong",
-          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 445440,
-      "name": "Age of Love - ARTBAT Rave Mix",
-      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1467,6 +1447,26 @@
       "duration_ms": 205440,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Age of Love (ARTBAT Rave Mix)",
+        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        }
+      ],
+      "duration_ms": 445440,
+      "name": "Age of Love - ARTBAT Rave Mix",
+      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Caught in a Moment",
+        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 255285,
+      "name": "Caught in a Moment",
+      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "One New Change",
         "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
       },
@@ -1791,26 +1811,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 234330,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/26ML5knqJbLOSoU6isAq4H"
       },
@@ -1847,6 +1847,42 @@
       "duration_ms": 186239,
       "name": "Electric Feeling",
       "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 234330,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Hypercycle",
+        "url": "https://open.spotify.com/album/4IRPWekl0EQsvqIZjWugfw"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 346611,
+      "name": "Hypercycle",
+      "url": "https://open.spotify.com/track/7poR9gH3B2NzE38yeMZ1Nl"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1927,42 +1963,6 @@
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Radiant",
-        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
-      },
-      "artists": [
-        {
-          "name": "Dyzen",
-          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
-        },
-        {
-          "name": "Sideral",
-          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
-        }
-      ],
-      "duration_ms": 452682,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     }
   ],
   "unique_name": "Night Rider",

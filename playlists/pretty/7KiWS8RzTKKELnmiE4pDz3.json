@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAdAbCnjJwtOeF5ikyYKvDYiaatCfeJ",
+  "snapshot_id": "AAAdBEpdEaPtsCmnwwSO9Etz97Ajf3Ds",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -3719,6 +3719,54 @@
       "duration_ms": 140851,
       "name": "Louis V Everything!",
       "url": "https://open.spotify.com/track/1YEmp5J2h3dUJg98dFGMnr"
+    },
+    {
+      "added_at": "2024-11-02 12:56:53",
+      "album": {
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 184405,
+      "name": "Cosmo Freestyle",
+      "url": "https://open.spotify.com/track/29hATL1N9JGEtS8HpxRjcN"
+    },
+    {
+      "added_at": "2024-11-02 13:01:42",
+      "album": {
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Wolverine",
+      "url": "https://open.spotify.com/track/22JoVWZlY49vSLzssk8RL7"
+    },
+    {
+      "added_at": "2024-11-02 19:36:44",
+      "album": {
+        "name": "Marble Floors",
+        "url": "https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o"
+      },
+      "artists": [
+        {
+          "name": "Summrs",
+          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "Marble Floors",
+      "url": "https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK"
     }
   ],
   "unique_name": "main ",

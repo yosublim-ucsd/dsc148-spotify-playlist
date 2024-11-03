@@ -1,6 +1,6 @@
 {
   "description": "Tremendo vacil\u00f3n. Los \u00e9xitos del merengue de todos los tiempos.",
-  "num_followers": 16916,
+  "num_followers": 16991,
   "original_name": "Radio Merengue",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-09-06 21:04:14",
       "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "Sopa de Caracol",
+      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
+    },
+    {
+      "added_at": "2024-09-06 21:04:14",
+      "album": {
         "name": "Los Reyes Del Ritmo",
         "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 206493,
       "name": "El Cepillo",
       "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
-    },
-    {
-      "added_at": "2024-09-06 21:04:14",
-      "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "Sopa de Caracol",
-      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
     },
     {
       "added_at": "2024-09-06 21:04:14",

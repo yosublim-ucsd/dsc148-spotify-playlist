@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: Regina Song, hongjoin",
-  "num_followers": 21543,
+  "num_followers": 21558,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,26 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        },
+        {
+          "name": "Ade Govinda",
+          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
+        }
+      ],
+      "duration_ms": 234589,
+      "name": "Masing Masing",
+      "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
         "name": "Mati-Matian",
         "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 239416,
       "name": "Lampu Kuning",
       "url": "https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
-      },
-      "artists": [
-        {
-          "name": "Ernie Zakri",
-          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
-        },
-        {
-          "name": "Ade Govinda",
-          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
-        }
-      ],
-      "duration_ms": 234589,
-      "name": "Masing Masing",
-      "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
     },
     {
       "added_at": "2024-10-03 17:00:00",

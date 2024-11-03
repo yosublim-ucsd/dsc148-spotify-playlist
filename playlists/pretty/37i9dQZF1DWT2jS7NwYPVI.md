@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Arcy Drive
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,239 likes - 124 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,257 likes - 124 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 92 | [MOTH KIDS](https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [MOTH KIDS](https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs) | 3:39 |
 | 93 | [Love Drunk](https://open.spotify.com/track/0Hmr9yk4xHoRnI2Fv4IX7S) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Songs For The Living // Songs For The Dead](https://open.spotify.com/album/77SLDoPCm31OSzQoWslqnF) | 3:15 |
 | 94 | [walls](https://open.spotify.com/track/3kfqUPLJQXCjmtC83FWAx2) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [walls](https://open.spotify.com/album/5Pr6AFNm1ShTRHvsS7U0wj) | 2:36 |
-| 95 | [I Don't Speak the Language](https://open.spotify.com/track/17p5v3CWqagIm4jryEpnFO) | [Fox Royale](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [I Don't Speak the Language](https://open.spotify.com/album/2kyvXS2WjSgLkxnGhCOeOf) | 2:12 |
+| 95 | [I Don't Speak the Language](https://open.spotify.com/track/17p5v3CWqagIm4jryEpnFO) | [FOX ROYALE](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [I Don't Speak the Language](https://open.spotify.com/album/2kyvXS2WjSgLkxnGhCOeOf) | 2:12 |
 | 96 | [Replace It All](https://open.spotify.com/track/4JYfUVBWV21iLNNRqcXpvD) | [The Backfires](https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5) | [Replace It All](https://open.spotify.com/album/3Oe0BOBfIL4zQaCvpTkWvS) | 2:59 |
 | 97 | [I Don't Believe You](https://open.spotify.com/track/2UE7icsfsSdhqI5IEugp6y) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [I Don't Believe You](https://open.spotify.com/album/1PA7AiY07STmsCGVKCIutl) | 3:05 |
 | 98 | [Go Fuck Myself](https://open.spotify.com/track/0qv3e08PTZ4Wq7prI3Wd1q) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Go Fuck Myself](https://open.spotify.com/album/2WV8r8ag3RMw5VdPQuylx9) | 2:43 |

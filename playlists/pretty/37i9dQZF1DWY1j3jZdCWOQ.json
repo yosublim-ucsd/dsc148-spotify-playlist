@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 549367,
+  "num_followers": 549503,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 143746,
-      "name": "brutal",
-      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
+      "duration_ms": 175093,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 175093,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
+      "duration_ms": 143746,
+      "name": "brutal",
+      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 186480,
       "name": "I'm Not Okay (I Promise)",
       "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "love is embarrassing",
-      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 209200,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+        "name": "i hope ur miserable until ur dead",
+        "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
       },
       "artists": [
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 208693,
-      "name": "The Taste of Ink",
-      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
+      "duration_ms": 177582,
+      "name": "i hope ur miserable until ur dead",
+      "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "i hope ur miserable until ur dead",
-        "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 177582,
-      "name": "i hope ur miserable until ur dead",
-      "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
+      "duration_ms": 208693,
+      "name": "The Taste of Ink",
+      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "Violent Things",
-        "url": "https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR"
-      },
-      "artists": [
-        {
-          "name": "The Brobecks",
-          "url": "https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "Better Than Me",
-      "url": "https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
         "name": "The Madding Crowd",
         "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 189333,
       "name": "Absolutely (Story of a Girl) - Radio Mix",
       "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
+        "name": "Violent Things",
+        "url": "https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR"
+      },
+      "artists": [
+        {
+          "name": "The Brobecks",
+          "url": "https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "Better Than Me",
+      "url": "https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "SPINE",
-        "url": "https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2"
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
       "artists": [
         {
-          "name": "WesGhost",
-          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 180715,
-      "name": "SPINE",
-      "url": "https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22"
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "SPINE",
+        "url": "https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
         }
       ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+      "duration_ms": 180715,
+      "name": "SPINE",
+      "url": "https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "TEETH (feat. Diggy Graves)",
-        "url": "https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I"
-      },
-      "artists": [
-        {
-          "name": "WesGhost",
-          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
-        },
-        {
-          "name": "Diggy Graves",
-          "url": "https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "TEETH (feat. Diggy Graves)",
-      "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
         "name": "FANDOM",
         "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 147535,
       "name": "u turn me on (but u give me depression)",
       "url": "https://open.spotify.com/track/68bkUm1FRsDXnGZOkXNTyR"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
+        "name": "TEETH (feat. Diggy Graves)",
+        "url": "https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        },
+        {
+          "name": "Diggy Graves",
+          "url": "https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "TEETH (feat. Diggy Graves)",
+      "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
+        "name": "FANDOM",
+        "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 162577,
+      "name": "Turbulent",
+      "url": "https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1"
+    },
+    {
+      "added_at": "2024-09-30 16:15:22",
+      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 172500,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/3NcheXileql4RI8n6sLumL"
-    },
-    {
-      "added_at": "2024-09-30 16:15:22",
-      "album": {
-        "name": "FANDOM",
-        "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 162577,
-      "name": "Turbulent",
-      "url": "https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1"
     },
     {
       "added_at": "2024-09-30 16:15:22",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-09-30 16:15:22",
       "album": {
-        "name": "Blow It",
-        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
+        "name": "i'm gonna tell my therapist on you",
+        "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
       },
       "artists": [
         {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
         }
       ],
-      "duration_ms": 164283,
-      "name": "Blow It",
-      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
+      "duration_ms": 161062,
+      "name": "i'm gonna tell my therapist on you",
+      "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
     }
   ],
   "unique_name": "teen angst",

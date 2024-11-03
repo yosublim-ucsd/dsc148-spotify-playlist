@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 217851,
+  "num_followers": 217915,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "90MIN",
+      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "MM Vol. 2",
         "url": "https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 205125,
       "name": "Veleno 6",
       "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "90MIN",
-      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Cadillac (feat. Artie 5ive)",
         "url": "https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "MADAME",
         "url": "https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 180346,
       "name": "Lo Sai Che Ci Penso",
       "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "FLOP",
+        "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 170018,
+      "name": "KUMITE",
+      "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "FLOP",
-        "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 170018,
-      "name": "KUMITE",
-      "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
       },
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Noi Siamo Il Club (Reloaded Edition)",
-        "url": "https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        },
-        {
-          "name": "Giuliano Palma",
-          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
-        }
-      ],
-      "duration_ms": 228906,
-      "name": "P.E.S.",
-      "url": "https://open.spotify.com/track/4M8filny20Mwlc2gnvtcgU"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
       },
@@ -1571,22 +1551,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Malammore",
         "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
       },
@@ -1599,6 +1563,42 @@
       "duration_ms": 218695,
       "name": "Che Dio Mi Benedica",
       "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Noi Siamo Il Club (Reloaded Edition)",
+        "url": "https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Giuliano Palma",
+          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "P.E.S.",
+      "url": "https://open.spotify.com/track/4M8filny20Mwlc2gnvtcgU"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2024-05-22 11:01:00",

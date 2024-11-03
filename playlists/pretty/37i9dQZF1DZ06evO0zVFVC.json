@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 100498,
+  "num_followers": 100512,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAB/ahtMziQlj/dR5Dbyr2Jf",
+  "snapshot_id": "ZyQaAAAAAADB23PTbZ4SWGVBJLBFpO6o",
   "tracks": [
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 220346,
-      "name": "Smoke 'Em If You Got 'Em",
-      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
+      "duration_ms": 256829,
+      "name": "It's So Hard To Speak Without A Tongue",
+      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 256829,
-      "name": "It's So Hard To Speak Without A Tongue",
-      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
+      "duration_ms": 220346,
+      "name": "Smoke 'Em If You Got 'Em",
+      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 211100,
-      "name": "Gimme AD",
-      "url": "https://open.spotify.com/track/6aiL3ftGl86lXUWkYuN05E"
+      "duration_ms": 238440,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
     }
   ],
   "unique_name": "This Is Parkway Drive",

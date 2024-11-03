@@ -1,6 +1,6 @@
 {
   "description": "Popun sevilen isimleri. Kapak: \u0130kilem",
-  "num_followers": 135863,
+  "num_followers": 135934,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
+        "name": "Koca D\u00fcnya",
+        "url": "https://open.spotify.com/album/5LFciOK381uamGyiw52mgF"
+      },
+      "artists": [
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "duration_ms": 149987,
+      "name": "Koca D\u00fcnya",
+      "url": "https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
         "name": "Uslanmaz",
         "url": "https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 145500,
       "name": "Uslanmaz",
       "url": "https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Kafam Leyla",
-        "url": "https://open.spotify.com/album/6ZDZObHRFNHfMbT4x8lcjw"
-      },
-      "artists": [
-        {
-          "name": "Afra",
-          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
-        }
-      ],
-      "duration_ms": 168747,
-      "name": "Kafam Leyla",
-      "url": "https://open.spotify.com/track/7MN4Igk2OkMaR2FbBUKEpa"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "Koca D\u00fcnya",
-        "url": "https://open.spotify.com/album/5LFciOK381uamGyiw52mgF"
+        "name": "Kafam Leyla",
+        "url": "https://open.spotify.com/album/6ZDZObHRFNHfMbT4x8lcjw"
       },
       "artists": [
         {
-          "name": "Reynmen",
-          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+          "name": "Afra",
+          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
         }
       ],
-      "duration_ms": 149987,
-      "name": "Koca D\u00fcnya",
-      "url": "https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7"
+      "duration_ms": 168747,
+      "name": "Kafam Leyla",
+      "url": "https://open.spotify.com/track/7MN4Igk2OkMaR2FbBUKEpa"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -951,34 +951,18 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "\u00d6mr\u00fcm",
-        "url": "https://open.spotify.com/album/0YVFUfwpTi8pjznxuyuGyz"
+        "name": "Deli Gibi Seviyorum",
+        "url": "https://open.spotify.com/album/4essjMvGbfxJXi6U4WyS6r"
       },
       "artists": [
         {
-          "name": "Mustafa Ceceli",
-          "url": "https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE"
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
         }
       ],
-      "duration_ms": 153000,
-      "name": "\u00d6mr\u00fcm",
-      "url": "https://open.spotify.com/track/0ergOoWEYjObq6mVvLDXNU"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Kuantum 51",
-        "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
-      },
-      "artists": [
-        {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
-        }
-      ],
-      "duration_ms": 225430,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho"
+      "duration_ms": 132042,
+      "name": "Deli Gibi Seviyorum",
+      "url": "https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
+        "name": "Kuantum 51",
+        "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "duration_ms": 225430,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
         "name": "Z\u00fcmr\u00fcd\u00fcankam",
         "url": "https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "Deli Gibi Seviyorum",
-        "url": "https://open.spotify.com/album/4essjMvGbfxJXi6U4WyS6r"
+        "name": "\u00d6mr\u00fcm",
+        "url": "https://open.spotify.com/album/0YVFUfwpTi8pjznxuyuGyz"
       },
       "artists": [
         {
-          "name": "Ahmet Hatipo\u011flu",
-          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+          "name": "Mustafa Ceceli",
+          "url": "https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE"
         }
       ],
-      "duration_ms": 132042,
-      "name": "Deli Gibi Seviyorum",
-      "url": "https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ"
+      "duration_ms": 153000,
+      "name": "\u00d6mr\u00fcm",
+      "url": "https://open.spotify.com/track/0ergOoWEYjObq6mVvLDXNU"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "sevmedin mi?",
-        "url": "https://open.spotify.com/album/1HLm6LRxuUDmDB2tAR90je"
-      },
-      "artists": [
-        {
-          "name": "\u00c7a\u011fan \u015eeng\u00fcl",
-          "url": "https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw"
-        }
-      ],
-      "duration_ms": 247664,
-      "name": "sevmedin mi?",
-      "url": "https://open.spotify.com/track/3kJO0DXiNoKSKmCPLXqGpU"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
         "name": "Kalbim A\u011flama",
         "url": "https://open.spotify.com/album/6HPjuhtibuFfdqhwRYF75H"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "A\u00e7\u0131k Yara",
-        "url": "https://open.spotify.com/album/4yOeweMxMdGxJ901dZeyAt"
+        "name": "sevmedin mi?",
+        "url": "https://open.spotify.com/album/1HLm6LRxuUDmDB2tAR90je"
       },
       "artists": [
         {
-          "name": "Bayhan",
-          "url": "https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V"
+          "name": "\u00c7a\u011fan \u015eeng\u00fcl",
+          "url": "https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw"
         }
       ],
-      "duration_ms": 183696,
-      "name": "A\u00e7\u0131k Yara",
-      "url": "https://open.spotify.com/track/5TWN91FA8QYkXYoo8zYQEb"
+      "duration_ms": 247664,
+      "name": "sevmedin mi?",
+      "url": "https://open.spotify.com/track/3kJO0DXiNoKSKmCPLXqGpU"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -1167,6 +1151,22 @@
       "duration_ms": 152434,
       "name": "Yar\u0131 Deli",
       "url": "https://open.spotify.com/track/4PUcdX1jTT7XB75zwCsXeN"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
+        "name": "A\u00e7\u0131k Yara",
+        "url": "https://open.spotify.com/album/4yOeweMxMdGxJ901dZeyAt"
+      },
+      "artists": [
+        {
+          "name": "Bayhan",
+          "url": "https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V"
+        }
+      ],
+      "duration_ms": 183696,
+      "name": "A\u00e7\u0131k Yara",
+      "url": "https://open.spotify.com/track/5TWN91FA8QYkXYoo8zYQEb"
     },
     {
       "added_at": "2024-10-24 21:00:00",

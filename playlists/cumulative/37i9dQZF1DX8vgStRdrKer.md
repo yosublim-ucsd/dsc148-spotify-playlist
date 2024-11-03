@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB?si=DX1AnrFkTBGcGqexVR3FhQ>KobbySalm</a>
 
-233 songs - 18 hr 56 min
+234 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-03-08 |  |
 | [Alagbara](https://open.spotify.com/track/1GWjrdfcIbN4l1AJHwwTAR) | [Delight\_Ayobola](https://open.spotify.com/artist/57Ev0C5dLMCDxW5vqvzs8h) | [Alagbara](https://open.spotify.com/album/5VvX52HwMMhtuOjPcILYNP) | 3:14 | 2024-03-08 | 2024-06-07 |
 | [Alikho Lelifana Nalo \(Live at Durban Icc\)](https://open.spotify.com/track/2X9oiGVIqrF019oprZixGy) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(Live at Durban Icc\)](https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU) | 11:49 | 2024-05-31 | 2024-07-12 |
-| [All I Have](https://open.spotify.com/track/6sTaaBeDm3lc2yhxOQy81C) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All I Have](https://open.spotify.com/album/642utidvaV4fu1rlI1FdPP) | 5:50 | 2024-10-11 |  |
+| [All I Have](https://open.spotify.com/track/6sTaaBeDm3lc2yhxOQy81C) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All I Have](https://open.spotify.com/album/642utidvaV4fu1rlI1FdPP) | 5:50 | 2024-10-11 | 2024-11-03 |
 | [All Over The World](https://open.spotify.com/track/0QQXbuDmrGBcxVSNjCbAjs) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [All Over The World](https://open.spotify.com/album/2WW74ORHcfnmasd6ROZOlK) | 3:06 | 2024-07-19 | 2024-09-27 |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-09-15 | 2024-03-12 |
 | [All Things Are Possible \(Live\)](https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [All Things Are Possible \(Live\)](https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S) | 4:30 | 2024-04-12 | 2024-08-31 |
@@ -75,6 +75,7 @@
 | [Give Me Chance](https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Give Me Chance](https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q) | 4:15 | 2024-06-07 |  |
 | [Glory On The Other Side](https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Glory On The Other Side](https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo) | 4:59 | 2024-09-27 |  |
 | [God](https://open.spotify.com/track/0dUNrMbWLpbxpNkY8cUdoJ) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo) | [God](https://open.spotify.com/album/0DNqPNVqAAcWjQmMrUMIu0) | 2:14 | 2024-03-22 | 2024-04-26 |
+| [God Is](https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [God Is](https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl) | 3:05 | 2024-10-25 |  |
 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 | 2024-10-04 |  |
 | [Good God](https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ) | [Ogocity](https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4) | [Good God](https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic) | 3:39 | 2024-03-01 | 2024-04-14 |
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 |  |

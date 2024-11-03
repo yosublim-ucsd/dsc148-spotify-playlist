@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:2dlCuzBPpSIeyY4ZCJBKGS">Bridge Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,471 likes - 99 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,527 likes - 99 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 34 | [Adoration Song](https://open.spotify.com/track/3vQjVnBVCwpiJg6mwNMwGT) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Adoration Song \(Radio Edit\)](https://open.spotify.com/album/014LujBDnTwzCxIgyIZ6nV) | 4:27 |
 | 35 | [Rush In](https://open.spotify.com/track/2hPw0hFTapzOL5JBzDlpvo) | [One Voice INT Music](https://open.spotify.com/artist/6c6GqErJ4d8zV8EjLIQAe7), [Kiki Edwards](https://open.spotify.com/artist/58QBzmeLftYNoXGooc0QVx) | [Rush In](https://open.spotify.com/album/3qJRhThEbXV3HM1AJ4VG7t) | 8:08 |
 | 36 | [Missionary Anthem](https://open.spotify.com/track/6JwqI2ebXyql8LK5anZWeA) | [YWAM Kona Music](https://open.spotify.com/artist/2ZSTvhW9EpgnW9xG93ZpJM), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Missionary Anthem Global EP](https://open.spotify.com/album/7dxZhXahard2jo8bjOKRGG) | 5:19 |
-| 37 | [Highest Praise](https://open.spotify.com/track/07KfkF3DR65fiZ8LJp38Cy) | [Celebration Music](https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp), [Lauren Tyler](https://open.spotify.com/artist/4gRyzQZaBqfaJz4QHppN53) | [Highest Praise](https://open.spotify.com/album/0J2GvzeCLLt5awJGl7vnu4) | 5:50 |
+| 37 | [Highest Praise](https://open.spotify.com/track/07KfkF3DR65fiZ8LJp38Cy) | [Celebration Music](https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp), [Lauren Tyler](https://open.spotify.com/artist/6ZjRHo4yTEMkH4xHer95CF) | [Highest Praise](https://open.spotify.com/album/0J2GvzeCLLt5awJGl7vnu4) | 5:50 |
 | 38 | [Prodigal Savior](https://open.spotify.com/track/7M6Hi977QBDMKUON0SWkho) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R) | [Prodigal Savior](https://open.spotify.com/album/5KACVmGq3DafhRnVBiyeUl) | 3:18 |
 | 39 | [Never Seen \- Live](https://open.spotify.com/track/2usquhPCSuAXCFVI4M3jP6) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Dominic DeMeo](https://open.spotify.com/artist/47ToJ83lujm6OJoZxt68jv), [Faith Simmons](https://open.spotify.com/artist/1yeCT057K1eO39RQuH9Gsw) | [Never Seen \(Live\)](https://open.spotify.com/album/2RSxqDHyMfA93URHv4RqWH) | 5:28 |
 | 40 | [SEE FINISH](https://open.spotify.com/track/6mUfx1LZjnsZuUkrk8G1Ig) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [SEE FINISH](https://open.spotify.com/album/0p2KVZZFYpMPPMrk1poe8d) | 4:23 |

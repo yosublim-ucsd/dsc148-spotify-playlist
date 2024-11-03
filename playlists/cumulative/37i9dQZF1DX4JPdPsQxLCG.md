@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-471 songs - 1 day 6 hr 4 min
+472 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Dancing On My Own](https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Disco Loadout \(Volume 1\)](https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh) | 3:50 | 2024-05-17 | 2024-06-22 |
 | [Dancing with Sue](https://open.spotify.com/track/4YxHmgZPQkFqr7kWMMiEQw) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Dancing with Sue](https://open.spotify.com/album/21PsHSGaIjG5ucnpWm4xRS) | 2:52 | 2024-04-19 |  |
 | [Dark Horse](https://open.spotify.com/track/4cg24ri2Qov4CiPccp7Szn) | [Amanda Marshall](https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO) | [Amanda Marshall](https://open.spotify.com/album/0TyKRzOsoZgXrXrcXnPvqt) | 5:37 | 2022-05-02 | 2022-07-24 |
-| [Darlin' Baby](https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Darlin' Baby](https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov) | 4:25 | 2024-08-02 |  |
+| [Darlin' Baby](https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Darlin' Baby](https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov) | 4:25 | 2024-08-02 | 2024-11-03 |
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-05-10 |  |
 | [Devil's On Fire](https://open.spotify.com/track/0v2oBOiRNmdMJPUYrnPFOM) | [Headstones](https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00) | [Little Army](https://open.spotify.com/album/1iTP80KloK5dmv8ZGeiCRA) | 3:04 | 2022-05-02 | 2022-07-02 |
 | [Did You Fall In Love With Me](https://open.spotify.com/track/2tui4DbRV9AEBwrxnrEbeT) | [Prairie Oyster](https://open.spotify.com/artist/59YYicz1skdbz1FPq7L1HD) | [Everybody Knows](https://open.spotify.com/album/0EYDSShtbDQ9UPb8N2Jhr2) | 3:36 | 2022-05-02 | 2022-07-25 |
@@ -111,6 +111,7 @@
 | [DON'T LEAVE ME BEHIND \(feat\. Sinéad Harnett\)](https://open.spotify.com/track/60Tc6fPeEZIwTXcpIG5y3C) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [DON'T LEAVE ME BEHIND \(feat\. Sinéad Harnett\)](https://open.spotify.com/album/10t4HGLyvVGrwFECNGCA23) | 2:51 | 2024-07-26 | 2024-09-26 |
 | [Don't Tell Me How to Live](https://open.spotify.com/track/3vvNbg3Z5fQYk4FKkDK6V7) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Sittin' Heavy](https://open.spotify.com/album/1xPJIBohk5DtRCXwdmAZAd) | 4:26 | 2022-05-02 | 2022-11-13 |
 | [Don't Walk Away Eileen](https://open.spotify.com/track/7y5nuOgwKmgof6472dvwa9) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 3:12 | 2022-05-02 | 2022-07-29 |
+| [Downtown Guy](https://open.spotify.com/track/7xFJjEjyXFC9zSMB9q8vFC) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Downtown Guy](https://open.spotify.com/album/7HKdr3NqliLM4EiD3twPC9) | 2:36 | 2024-11-01 |  |
 | [Dramamine](https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 2:57 | 2024-04-19 | 2024-05-29 |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2022-09-10 | 2022-09-15 |
 | [Drinking in L.A.](https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x) | [Bran Van 3000](https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB) | [Glee](https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp) | 3:56 | 2022-05-02 | 2024-04-19 |

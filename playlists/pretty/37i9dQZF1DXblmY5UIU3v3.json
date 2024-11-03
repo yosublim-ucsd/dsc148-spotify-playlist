@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 448301,
+  "num_followers": 448512,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-09-06 19:25:38",
       "album": {
+        "name": "Tricky Trippy",
+        "url": "https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5"
+      },
+      "artists": [
+        {
+          "name": "Demeter",
+          "url": "https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz"
+        }
+      ],
+      "duration_ms": 178002,
+      "name": "Tricky Trippy",
+      "url": "https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu"
+    },
+    {
+      "added_at": "2024-09-06 19:25:38",
+      "album": {
         "name": "Vandal",
         "url": "https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 125177,
       "name": "Solovey",
       "url": "https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb"
-    },
-    {
-      "added_at": "2024-09-06 19:25:38",
-      "album": {
-        "name": "Tricky Trippy",
-        "url": "https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5"
-      },
-      "artists": [
-        {
-          "name": "Demeter",
-          "url": "https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz"
-        }
-      ],
-      "duration_ms": 178002,
-      "name": "Tricky Trippy",
-      "url": "https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu"
     },
     {
       "added_at": "2024-09-06 19:25:38",

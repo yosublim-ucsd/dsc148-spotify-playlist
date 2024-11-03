@@ -4,11 +4,12 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-93 songs - 7 hr 19 min
+94 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't You Had Enough Love](https://open.spotify.com/track/56xlTwqeWKIsw68ZOMzmp7) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv), [Nick Martinelli](https://open.spotify.com/artist/4gt6myR7cf8PiupMaIEx9U) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:12 | 2022-05-25 |  |
+| [And That Would Be](https://open.spotify.com/track/6I2am1m8OjUZgBIMpPS6oP) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Groove with You](https://open.spotify.com/album/5C5cXCxtz0QrrwNRsSpVRZ) | 4:59 | 2024-11-03 |  |
 | [As You Are \(feat\. Phyllis Hyman\)](https://open.spotify.com/track/4szHa9dRhiy3tJ1Jf5jz2V) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Love Will Find a Way \(Expanded Edition\)](https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW) | 5:08 | 2022-05-25 |  |
 | [Baby \(I'm Gonna Love You\) \- 7" Version](https://open.spotify.com/track/5TnLtfz0X6Z1Sou7UiJrWJ) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 3:51 | 2022-06-13 |  |
 | [Back To Paradise](https://open.spotify.com/track/3ZVcOxMoq1cIRj7pXTBcGO) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 4:50 | 2022-06-06 | 2024-02-10 |
@@ -47,7 +48,7 @@
 | [I'm Calling You](https://open.spotify.com/track/26JxIeSiCMikxLmEeZHwus) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:59 | 2022-06-18 |  |
 | [I'm Truly Yours](https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:39 | 2022-06-01 |  |
 | [If You Want Me](https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:19 | 2022-05-25 | 2024-10-09 |
-| [In A Sentimental Mood](https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 3:26 | 2022-05-25 |  |
+| [In A Sentimental Mood](https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 3:26 | 2022-05-25 | 2024-11-03 |
 | [In Between the Heartaches](https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:45 | 2022-06-03 | 2024-05-14 |
 | [It Takes Two](https://open.spotify.com/track/2FCbFUE0hMKvHje3DX8LYf) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 4:12 | 2024-03-28 | 2024-10-30 |
 | [It's Not About You \(It's About Me\)](https://open.spotify.com/track/6UXYjqgQvV6JYIJjoxG5Vc) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:14 | 2022-06-05 | 2022-06-07 |

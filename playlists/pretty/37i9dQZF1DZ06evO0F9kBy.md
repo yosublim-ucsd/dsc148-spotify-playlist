@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,465 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,468 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 41 | [Hallelujah, You Are Good \(feat\. Matt Maher\)](https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Worship And Believe \(Deluxe Edition\)](https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4) | 3:30 |
 | 42 | [Faithfulness \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:31 |
 | 43 | [Baptized](https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [New Creation](https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX) | 3:53 |
-| 44 | [Remembrance \(Communion Song\)](https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:18 |
-| 45 | [Inheritance](https://open.spotify.com/track/6MyskHQ8Aa8W62Cmi3y9oz) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Grace Upon Grace](https://open.spotify.com/album/6gFtUZRZF30vtAMKk4f0Mc) | 8:01 |
+| 44 | [Inheritance](https://open.spotify.com/track/6MyskHQ8Aa8W62Cmi3y9oz) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Grace Upon Grace](https://open.spotify.com/album/6gFtUZRZF30vtAMKk4f0Mc) | 8:01 |
+| 45 | [Remembrance \(Communion Song\)](https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:18 |
 | 46 | [Burning Heart of God](https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:16 |
-| 47 | [Lord of My Life](https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 3:59 |
-| 48 | [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 |
-| 49 | [Holy, Holy, Holy \(God With Us\)](https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Jesus, Firm Foundation: Hymns of Worship](https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi) | 4:15 |
+| 47 | [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 |
+| 48 | [Holy, Holy, Holy \(God With Us\)](https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Jesus, Firm Foundation: Hymns of Worship](https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi) | 4:15 |
+| 49 | [Lord of My Life](https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 3:59 |
 | 50 | [Bigger Table](https://open.spotify.com/track/1cEwtzx7B2Gr87o4w5yWOE) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:54 |
 
-Snapshot ID: `ZyF3AAAAAADC9tFyB4KRVRRmen822LYN`
+Snapshot ID: `ZyQaAAAAAADq0fM5otk0njWBPxHjiEmg`

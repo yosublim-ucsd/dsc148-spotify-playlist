@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 200339,
+  "num_followers": 200343,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAA41XdLjQuW8sM4G+okAWIY",
+  "snapshot_id": "ZyQaAAAAAACILF0nPwg+1/DSGZFwLJcm",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Chills (LA Hills)",
+      "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Chills (LA Hills)",
-      "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
     },
     {
       "added_at": null,
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 156960,
-      "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh"
+      "duration_ms": 196618,
+      "name": "Blood On My Denim",
+      "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
     },
     {
       "added_at": null,
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 196618,
-      "name": "Blood On My Denim",
-      "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
+      "duration_ms": 156960,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

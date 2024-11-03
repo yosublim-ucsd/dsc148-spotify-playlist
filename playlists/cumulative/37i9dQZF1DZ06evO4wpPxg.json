@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Rev. Gary Davis - The Best of (Live)",
+        "url": "https://open.spotify.com/album/5ZPJN0s0Fp8KR0ZQsaVqNT"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258652,
+      "name": "(I Heard The) Angels Singing - Live",
+      "url": "https://open.spotify.com/track/4XpjKP4EhjBukAA6gdxaBO"
+    },
+    {
+      "album": {
         "name": "If I Had My Way: Early Home Recordings",
         "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
       },
@@ -2950,7 +2968,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 299640,
       "name": "Lost Boy In The Wilderness",
       "url": "https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6"
@@ -4516,7 +4534,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 200852,
       "name": "Sun Is Going Down",
       "url": "https://open.spotify.com/track/7b1dQA6NAMQBuowo40iTHw"
@@ -5362,7 +5380,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 279986,
       "name": "When The Train Comes Along",
       "url": "https://open.spotify.com/track/2ksO8BPPvbEVcNvg5VobXH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 74,692 likes - 198 songs - 8 hr 41 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 74,718 likes - 198 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 4 | [Alelujah](https://open.spotify.com/track/5p2rlMbmxEWso65tCF6u62) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Alelujah](https://open.spotify.com/album/3eOxFHdq1RsJExvDpQSCPL) | 2:52 |
 | 5 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 | 6 | [Stumblin' In](https://open.spotify.com/track/4QECgFL34Co7AdI0YBz3VQ) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Stumblin' In](https://open.spotify.com/album/3wsnQV7qFBqQOe8nedgjPJ) | 2:57 |
-| 7 | [Hiding](https://open.spotify.com/track/2o0el6UlLq6I1QCyLetFRz) | [Nyday](https://open.spotify.com/artist/0L8JYDELi85NGgYy30MbRa), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Hiding](https://open.spotify.com/album/0NtWULkgSdjZfJB1x56A68) | 2:40 |
+| 7 | [Hiding](https://open.spotify.com/track/2o0el6UlLq6I1QCyLetFRz) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Nyday](https://open.spotify.com/artist/0L8JYDELi85NGgYy30MbRa) | [Hiding](https://open.spotify.com/album/0NtWULkgSdjZfJB1x56A68) | 2:40 |
 | 8 | [While We're Young](https://open.spotify.com/track/2muEoAwQInHRY4wakaqsuq) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [While We're Young](https://open.spotify.com/album/5wmGAEZqqoWe8AbXDW8uZZ) | 2:26 |
 | 9 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 |
 | 10 | [A Few Good Reasons](https://open.spotify.com/track/1xw94rUJSDcxkuQHlE4jPD) | [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [live to love](https://open.spotify.com/artist/4fthU4xExNwotqJYN2fq3w), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [A Few Good Reasons](https://open.spotify.com/album/2BKJWFJU0VgmXrGDLwHyGG) | 2:28 |

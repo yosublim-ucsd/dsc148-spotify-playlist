@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Malive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,808 likes - 87 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,762 likes - 87 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 47 | [Lift Me Up](https://open.spotify.com/track/2LfzwUVLAxEhW1WQyw7eY7) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [CAKES](https://open.spotify.com/artist/03hbczwxPblo2dHzHfb5G4), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Lift Me Up](https://open.spotify.com/album/5CBivybQv2h3zpZwRr39E1) | 3:40 |
 | 48 | [Hours and Hours \- Dropack Remix](https://open.spotify.com/track/4UM3eO0keTNNvePOKGDUTF) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Dropack](https://open.spotify.com/artist/2KyCVyWufNDwx3XKKZIbXg) | [Hours and Hours \(Remixes\)](https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU) | 4:48 |
 | 49 | [GOOD TIMES](https://open.spotify.com/track/2m6NSI10EC1W4vSqCCpd5p) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da), [Nica Loren](https://open.spotify.com/artist/7AtLavXeQ5UEkLCOn3487h) | [GOOD TIMES](https://open.spotify.com/album/2v7iHmTCSLV6jWsxt7gxkv) | 3:22 |
-| 50 | [Eyes](https://open.spotify.com/track/0Zx3np2HJ3He2QJS0wG9Ex) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Eyes](https://open.spotify.com/album/5n40WLofQwmG7dsgewDyzR) | 2:47 |
+| 50 | [Eyes](https://open.spotify.com/track/0Zx3np2HJ3He2QJS0wG9Ex) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Eyes](https://open.spotify.com/album/5n40WLofQwmG7dsgewDyzR) | 2:47 |
 | 51 | [333](https://open.spotify.com/track/7fi9imqx8N9ONqDnuZX83S) | [Anderson Noise](https://open.spotify.com/artist/2me4xwYD90Z6cyk21AZX8i), [7777](https://open.spotify.com/artist/4ocIVNYude1DQtmdc92r3O) | [369](https://open.spotify.com/album/1AtGcx4Ow3Jsz1NCJfH4j0) | 5:31 |
 | 52 | [Sweet Revenge](https://open.spotify.com/track/4t0EoKvFXRkELbmQArn0AH) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [G4BBA](https://open.spotify.com/artist/1P4pmBbuQwsKKV39MfzGVd), [hmny.](https://open.spotify.com/artist/2oqbohcixA0NGGIS4nuBaY) | [Sweet Revenge](https://open.spotify.com/album/6mrFPrxdyXYFWRqk6Svp2h) | 2:23 |
 | 53 | [Paper Boats](https://open.spotify.com/track/66EaDuPoCEvvz8GBn1bXL9) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [Riascode](https://open.spotify.com/artist/6sKceWIUPv10lfblPrUQDM) | [Paper Boats](https://open.spotify.com/album/49R4RBVBH4sktSSTO5Fg1u) | 4:15 |

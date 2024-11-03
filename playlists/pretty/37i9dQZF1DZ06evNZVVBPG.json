@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2513017,
+  "num_followers": 2513525,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAABUJRkMM8ZBye06bkykOKhO",
+  "snapshot_id": "ZyQaAAAAAAD+9NTZ2ZOwZoXdUAYFMV75",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 272485,
-      "name": "Happiness is a butterfly",
-      "url": "https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm"
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 180902,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
+      "duration_ms": 272485,
+      "name": "Happiness is a butterfly",
+      "url": "https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm"
     },
     {
       "added_at": null,
@@ -415,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnights (The Til Dawn Edition)",
-        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
       "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
         {
           "name": "Lana Del Rey",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 229942,
-      "name": "Snow On The Beach (feat. More Lana Del Rey)",
-      "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
+      "duration_ms": 180902,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
     },
     {
       "added_at": null,
@@ -451,18 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
       },
       "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
         {
           "name": "Lana Del Rey",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 248934,
-      "name": "Norman fucking Rockwell",
-      "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
+      "duration_ms": 229942,
+      "name": "Snow On The Beach (feat. More Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -528,9 +512,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 228071,
-      "name": "How to disappear",
-      "url": "https://open.spotify.com/track/4qUtC2BwFC154Ha8YQRrkk"
+      "duration_ms": 248934,
+      "name": "Norman fucking Rockwell",
+      "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
     },
     {
       "added_at": null,
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 228071,
+      "name": "How to disappear",
+      "url": "https://open.spotify.com/track/4qUtC2BwFC154Ha8YQRrkk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247150,
-      "name": "Mariners Apartment Complex",
-      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
     },
     {
       "added_at": null,
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 285050,
-      "name": "Did you know that there's a tunnel under Ocean Blvd",
-      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
+      "duration_ms": 247150,
+      "name": "Mariners Apartment Complex",
+      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
     },
     {
       "added_at": null,
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 272742,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
+      "duration_ms": 285050,
+      "name": "Did you know that there's a tunnel under Ocean Blvd",
+      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
     },
     {
       "added_at": null,
@@ -711,6 +695,38 @@
       "duration_ms": 257573,
       "name": "High By The Beach",
       "url": "https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 272742,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 215673,
+      "name": "Tulsa Jesus Freak",
+      "url": "https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC"
     },
     {
       "added_at": null,
@@ -735,38 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chemtrails Over The Country Club",
-        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 215673,
-      "name": "Tulsa Jesus Freak",
-      "url": "https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 238718,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/269xqcgGTN9PlivhUkOLhX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
       },
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 433916,
-      "name": "A&W",
-      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
+      "duration_ms": 238718,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/269xqcgGTN9PlivhUkOLhX"
     },
     {
       "added_at": null,
@@ -823,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die Hoffnung klaut mir Niemand",
-        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
       "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
         {
           "name": "Lana Del Rey",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/6vJMq94wRS6oqKV2jggzMc"
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 295093,
       "name": "Freak",
       "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6vJMq94wRS6oqKV2jggzMc"
     }
   ],
   "unique_name": "This Is Lana Del Rey",

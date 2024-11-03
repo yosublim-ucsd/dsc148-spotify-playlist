@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30043,
+  "num_followers": 30044,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAABQbQSe8HSnH6msAn/31Wa5",
+  "snapshot_id": "ZyQaAAAAAABcfRiiTbIC7FNtX1Yo7rX0",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 306173,
-      "name": "A Batalha do Arcanjo",
-      "url": "https://open.spotify.com/track/7Iy6r0TWdhMUPfSspCGRKY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 273821,
       "name": "Eu Quero Ver o Seu Milagre",
       "url": "https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 306173,
+      "name": "A Batalha do Arcanjo",
+      "url": "https://open.spotify.com/track/7Iy6r0TWdhMUPfSspCGRKY"
     },
     {
       "added_at": null,
@@ -351,18 +351,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+        "name": "100 Anos do Movimento Pentecostal",
+        "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
       },
       "artists": [
         {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        },
+        {
+          "name": "Lauriete",
+          "url": "https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e"
         }
       ],
-      "duration_ms": 355880,
-      "name": "Milagre",
-      "url": "https://open.spotify.com/track/3S2tOr5qzFpVAQhVMiEUYW"
+      "duration_ms": 835400,
+      "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
+      "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
     },
     {
       "added_at": null,
@@ -399,30 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "100 Anos do Movimento Pentecostal",
-        "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
+        "name": "Di\u00e1rio de um Vencedor",
+        "url": "https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Elaine de Jesus",
-          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
-        },
-        {
-          "name": "Lauriete",
-          "url": "https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e"
         }
       ],
-      "duration_ms": 835400,
-      "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
-      "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
+      "duration_ms": 324520,
+      "name": "Di\u00e1rio de um Vencedor",
+      "url": "https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Di\u00e1rio de um Vencedor",
-        "url": "https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 324520,
-      "name": "Di\u00e1rio de um Vencedor",
-      "url": "https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds"
+      "duration_ms": 355880,
+      "name": "Milagre",
+      "url": "https://open.spotify.com/track/3S2tOr5qzFpVAQhVMiEUYW"
     },
     {
       "added_at": null,

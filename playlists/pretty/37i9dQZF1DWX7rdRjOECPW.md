@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer, Sonne, Lieblingshits  ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535,135 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535,024 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 71 | [Feel Alive](https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Feel Alive](https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP) | 2:28 |
 | 72 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 |
 | 73 | [All For Love](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [All For Love](https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX) | 2:46 |
-| 74 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 |
+| 74 | [No Heroes](https://open.spotify.com/track/2K7vmv62BpMRIySly2w4nO) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9), [ANY](https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L) | [No Heroes](https://open.spotify.com/album/5d6t6Chkt2KDFkfrcjA9Qu) | 2:01 |
 | 75 | [Beautiful Reason](https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Beautiful Reason](https://open.spotify.com/album/2ix2CxYwwHSgTAJRgHnXNl) | 3:03 |
-| 76 | [No Heroes](https://open.spotify.com/track/2K7vmv62BpMRIySly2w4nO) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9), [ANY](https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L) | [No Heroes](https://open.spotify.com/album/5d6t6Chkt2KDFkfrcjA9Qu) | 2:01 |
+| 76 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 |
 | 77 | [Do It Again](https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Do It Again](https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ) | 2:55 |
 | 78 | [So Good](https://open.spotify.com/track/2XTSjtPIN0PzfJEfdceNaN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [So Good](https://open.spotify.com/album/6GfhI8EKNPVEfplLMaINV5) | 2:24 |
 | 79 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [becks](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 |

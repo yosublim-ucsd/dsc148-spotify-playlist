@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 105371,
+  "num_followers": 105413,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Sin Sendero",
+        "url": "https://open.spotify.com/album/2ANVtDVy4ib21lbrZJLK2C"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 213646,
+      "name": "Sin Sendero",
+      "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Cualquier Parecido con La Realidad",
         "url": "https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 273823,
       "name": "Cuidado en Quien Confias",
       "url": "https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Sin Sendero",
-        "url": "https://open.spotify.com/album/2ANVtDVy4ib21lbrZJLK2C"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 213646,
-      "name": "Sin Sendero",
-      "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Aire para Vivir",
         "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 286673,
       "name": "Esto Es M\u00e9xico",
       "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
-      },
-      "artists": [
-        {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2024-09-06 06:00:00",

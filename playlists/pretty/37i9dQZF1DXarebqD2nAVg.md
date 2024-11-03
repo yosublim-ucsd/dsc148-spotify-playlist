@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,491 likes - 75 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,521 likes - 75 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 2 | [Ends](https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Ends](https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc) | 2:22 |
 | 3 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
 | 4 | [Burnt Coffee](https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [Burnt Coffee](https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA) | 2:06 |
-| 5 | [Watching Walls](https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Watching Walls](https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l) | 2:11 |
-| 6 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 |
+| 5 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 |
+| 6 | [Watching Walls](https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Watching Walls](https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l) | 2:11 |
 | 7 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 |
 | 8 | [a day with the kids](https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0) | [blank maxxymus](https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K) | [a day with the kids](https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ) | 2:00 |
 | 9 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
 | 10 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 |
 | 11 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 |
 | 12 | [stars](https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [stars](https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47) | 2:12 |
-| 13 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 |
-| 14 | [Smooth Fields](https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Smooth Fields](https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht) | 2:50 |
+| 13 | [Smooth Fields](https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Smooth Fields](https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht) | 2:50 |
+| 14 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 |
 | 15 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 |
 | 16 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 |
 | 17 | [Gateway](https://open.spotify.com/track/6Y1cncfwOBrk97DSjoynJf) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Gateway](https://open.spotify.com/album/36U3xFcObfIZcpo6AhLbSw) | 2:46 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 43 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 |
 | 44 | [Last Dream](https://open.spotify.com/track/5SBOxgMvsWuWyZQPjXEqAA) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Last Dream](https://open.spotify.com/album/1vdtftHbxBqtGT1vvl0nIl) | 2:14 |
 | 45 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 |
-| 46 | [Weightless](https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0) | [Lunar Lo\-Fi](https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Weightless](https://open.spotify.com/album/1bkB4UOzzy9Oh4xoeSiLVv) | 2:31 |
-| 47 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 |
+| 46 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 |
+| 47 | [Weightless](https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0) | [Lunar Lo\-Fi](https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Weightless](https://open.spotify.com/album/1bkB4UOzzy9Oh4xoeSiLVv) | 2:31 |
 | 48 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
 | 49 | [falling behind](https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [falling behind](https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK) | 2:17 |
 | 50 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 59 | [Through My Window](https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt) | [day zee](https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L) | [Through My Window](https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3) | 2:30 |
 | 60 | [clear blue atmosphere](https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [clear blue atmosphere](https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ) | 2:20 |
 | 61 | [another time](https://open.spotify.com/track/3b9OgQr8jzUfdQPhe2Q9BW) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [another time](https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7) | 2:34 |
-| 62 | [Clouds](https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Clouds](https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N) | 2:44 |
-| 63 | [Melatonin](https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Soft Life](https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV) | 2:12 |
+| 62 | [Melatonin](https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Soft Life](https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV) | 2:12 |
+| 63 | [Clouds](https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Clouds](https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N) | 2:44 |
 | 64 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |
 | 65 | [sad music](https://open.spotify.com/track/1mZDmX2U780ucdnGB78Qzr) | [sumthin](https://open.spotify.com/artist/1m1oQ84LqqtpGvE3Omv8Rd) | [call me when ur lonely](https://open.spotify.com/album/5ypeVEv4lRQhg3wXZKaIf5) | 1:22 |
 | 66 | [Hold on, Pt\. 2](https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0) | [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Lonely](https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3) | 1:24 |

@@ -619,42 +619,6 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
-        "url": "https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "DoisP",
-          "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
-        },
-        {
-          "name": "Mc Orelha",
-          "url": "https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD"
-        },
-        {
-          "name": "Caslu",
-          "url": "https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T"
-        },
-        {
-          "name": "MC FAEL",
-          "url": "https://open.spotify.com/artist/1Ljw2Sjawn2CBZ63ewLP1H"
-        },
-        {
-          "name": "NK da Grota",
-          "url": "https://open.spotify.com/artist/4wl79pGMKbRmcia2uxVpc7"
-        }
-      ],
-      "duration_ms": 248275,
-      "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
-      "url": "https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
         "name": "Falar de Amor",
         "url": "https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3"
       },
@@ -695,6 +659,42 @@
       "duration_ms": 208485,
       "name": "4 da Manh\u00e3 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
+        "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
+        "url": "https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "DoisP",
+          "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
+        },
+        {
+          "name": "Mc Orelha",
+          "url": "https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD"
+        },
+        {
+          "name": "Caslu",
+          "url": "https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T"
+        },
+        {
+          "name": "MC FAEL",
+          "url": "https://open.spotify.com/artist/1Ljw2Sjawn2CBZ63ewLP1H"
+        },
+        {
+          "name": "NK da Grota",
+          "url": "https://open.spotify.com/artist/4wl79pGMKbRmcia2uxVpc7"
+        }
+      ],
+      "duration_ms": 248275,
+      "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
+      "url": "https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb"
     },
     {
       "added_at": "2024-10-18 03:01:00",

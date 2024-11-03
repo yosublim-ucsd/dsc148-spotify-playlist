@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44396,
+  "num_followers": 44400,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAACMtEeizT5cMzg1CeX59eAn",
+  "snapshot_id": "ZyQaAAAAAAD1mkoD2ZarFTU8TB6cE95D",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiras Bonitas",
-        "url": "https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 188644,
-      "name": "Mentiras Bonitas",
-      "url": "https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/0THRwX1TyZekzsCWn3wXxK"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 213812,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentiras Bonitas",
+        "url": "https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 188644,
+      "name": "Mentiras Bonitas",
+      "url": "https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Olvido",
-        "url": "https://open.spotify.com/album/4SEU3UedBgW7TYvCmPYhz2"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Al Olvido",
-      "url": "https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Olvido",
+        "url": "https://open.spotify.com/album/4SEU3UedBgW7TYvCmPYhz2"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Al Olvido",
+      "url": "https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU"
     },
     {
       "added_at": null,
@@ -811,22 +811,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quise Olvidar",
-        "url": "https://open.spotify.com/album/3IKzgoIkPXQm7GOzOKSPfX"
+        "name": "Te Metiste",
+        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
       },
       "artists": [
         {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Volver\u00e9",
+        "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
         },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 181986,
-      "name": "Quise Olvidar",
-      "url": "https://open.spotify.com/track/4SYoxA8J9FXJfnYqDngVUP"
+      "duration_ms": 192680,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
     },
     {
       "added_at": null,
@@ -855,38 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Volver\u00e9",
-        "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
+        "name": "Quise Olvidar",
+        "url": "https://open.spotify.com/album/3IKzgoIkPXQm7GOzOKSPfX"
       },
       "artists": [
         {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 192680,
-      "name": "No Volver\u00e9",
-      "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Metiste",
-        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
+      "duration_ms": 181986,
+      "name": "Quise Olvidar",
+      "url": "https://open.spotify.com/track/4SYoxA8J9FXJfnYqDngVUP"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 281440,
-      "name": "Capullo Y Sorullo",
-      "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vozes",
         "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 213173,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 281440,
+      "name": "Capullo Y Sorullo",
+      "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,673 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,722 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 22 | [Chuva de Poder](https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb) | [Gabriela Rodrigues](https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb) | [Chuva de Poder](https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr) | 3:16 |
 | 23 | [Adorador por Excelência \- Ao Vivo](https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Adorador por Excelência \(Ao Vivo\)](https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF) | 3:59 |
 | 24 | [Não Saia do Meu Lado](https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Não Saia do Meu Lado](https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq) | 3:36 |
-| 25 | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS) | 3:07 |
-| 26 | [Valor de uma Alma](https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Valor de uma Alma](https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs) | 4:26 |
-| 27 | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F) | 4:09 |
+| 25 | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F) | 4:09 |
+| 26 | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS) | 3:07 |
+| 27 | [Valor de uma Alma](https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Valor de uma Alma](https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs) | 4:26 |
 | 28 | [Sem Mim](https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Sem Mim](https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC) | 3:46 |
 | 29 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 |
 | 30 | [Meu Barquinho \- Ao Vivo](https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Meu Barquinho](https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86) | 3:15 |

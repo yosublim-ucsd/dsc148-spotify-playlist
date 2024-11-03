@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > lonely is the muse! Foto: Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,486 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,469 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 44 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
 | 45 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 |
 | 46 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 |
-| 47 | [Even When I’m Not With You](https://open.spotify.com/track/4FUT5585FDMRFq7z5ZprHC) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Even When I’m Not With You](https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU) | 2:54 |
-| 48 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 |
+| 47 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 |
+| 48 | [Even When I’m Not With You](https://open.spotify.com/track/4FUT5585FDMRFq7z5ZprHC) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Even When I’m Not With You](https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU) | 2:54 |
 | 49 | [VIA DUPLA](https://open.spotify.com/track/1dRZRio5j7ETsizX0CMDqM) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [SÍNDRØME](https://open.spotify.com/album/2qkhEKZ53vhwuA2bZSZU04) | 3:03 |
-| 50 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 |
+| 50 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 |
 
 Snapshot ID: `ZxGGoQAAAADihYIGzTx49+r3x9CHhWRm`

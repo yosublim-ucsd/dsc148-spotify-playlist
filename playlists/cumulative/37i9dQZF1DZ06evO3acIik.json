@@ -918,7 +918,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 172140,
       "name": "God Given Dreams",
       "url": "https://open.spotify.com/track/15gmFPuXOMZV7l1Afj0JMM"
@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200009,
+      "name": "Is it a Crime?",
+      "url": "https://open.spotify.com/track/7xSHbxyntE0RRVyTuFOgFL"
+    },
+    {
+      "album": {
         "name": "Is it a Crime?",
         "url": "https://open.spotify.com/album/5oAULNPMLHj0FHSpNaQ8bc"
       },
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 200019,
       "name": "Is it a Crime?",
       "url": "https://open.spotify.com/track/6rpctcdfXgkguh2nr3Htby"
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 182330,
       "name": "It\u2019s Gonna\u2019 Cost You",
       "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
@@ -1637,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160007,
+      "name": "SCREAM MY NAME",
+      "url": "https://open.spotify.com/track/1EKhSE9DUYRPvcXLK0k5iw"
+    },
+    {
+      "album": {
         "name": "DISTRACTION / SCREAM MY NAME",
         "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
       },
@@ -1648,7 +1684,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 160007,
       "name": "SCREAM MY NAME",
       "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
@@ -1776,7 +1812,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 276421,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/2rNn1oM0VdMHIGN5YmPDmf"
@@ -1896,7 +1932,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 168258,
       "name": "What\u2019s It Take to Be a Star?",
       "url": "https://open.spotify.com/track/3dH64MK2MPbar7Zbn1yMtF"

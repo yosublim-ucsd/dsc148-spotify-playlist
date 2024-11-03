@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: The Wiggles
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,055 likes - 273 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,168 likes - 273 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

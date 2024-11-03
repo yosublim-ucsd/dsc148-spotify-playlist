@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "9 LIVES",
+        "url": "https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182255,
+      "name": "9 LIVES",
+      "url": "https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY"
+    },
+    {
+      "album": {
         "name": "Scatterbrain (Deluxe)",
         "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
       },

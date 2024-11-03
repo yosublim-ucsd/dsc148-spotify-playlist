@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,208 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,238 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 53 | [Kalif Onya](https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T) | [Al Pride](https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB) | [Kalif Onya](https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl) | 3:58 |
 | 54 | [cbb to b sad](https://open.spotify.com/track/56b4sQ1Sxi3ox5CoCmcp49) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [shame](https://open.spotify.com/album/5h31KRuPwb3EEgUW0b4k6l) | 4:28 |
 | 55 | [Bleach](https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Bleach](https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L) | 3:29 |
-| 56 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
-| 57 | [Like You](https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Like You](https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6) | 2:53 |
+| 56 | [Like You](https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Like You](https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6) | 2:53 |
+| 57 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
 | 58 | [Mojito](https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Mojito](https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax) | 3:04 |
 | 59 | [Highness](https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3) | [Nosoyo](https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs) | [Highness](https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5) | 3:13 |
-| 60 | [Raincoats](https://open.spotify.com/track/2hxAUdQ6YbsvplYpBuYJvy) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D), [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Raincoats](https://open.spotify.com/album/0zP2Syhcw4PzK9igud1t5O) | 2:37 |
-| 61 | [Majored In Broken Hearts](https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc) | [Two Year Vacation](https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ) | [Majored In Broken Hearts](https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV) | 3:11 |
+| 60 | [Majored In Broken Hearts](https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc) | [Two Year Vacation](https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ) | [Majored In Broken Hearts](https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV) | 3:11 |
+| 61 | [Raincoats](https://open.spotify.com/track/2hxAUdQ6YbsvplYpBuYJvy) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D), [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Raincoats](https://open.spotify.com/album/0zP2Syhcw4PzK9igud1t5O) | 2:37 |
 | 62 | [Falling for You](https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Falling for You](https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO) | 3:26 |
 | 63 | [Offshore](https://open.spotify.com/track/73mJ845ZKFOlBKlu90BbBw) | [Gardens of Capri](https://open.spotify.com/artist/5mU6A5otqj6gJZQHuj0Rni) | [We Wake Up In The Garden](https://open.spotify.com/album/5SPss6SH1gMZH7T5KALIUx) | 3:10 |
 | 64 | [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 76 | [Eight Hours](https://open.spotify.com/track/0G6I2K2DU70tZkrdVZ3hxZ) | [Fruit Junior](https://open.spotify.com/artist/4qNHQ7M4r3z1jEKUyH8NiN) | [How About This Picture Of A Cat](https://open.spotify.com/album/7es9gg8c5hl6lgy7HsgbgU) | 3:43 |
 | 77 | [Your Moment](https://open.spotify.com/track/5JAbCjlhaks42cZsR7iYlL) | [Hugo Hamlet](https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO), [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Your Moment](https://open.spotify.com/album/7xuuHSrc2f8oJlp5ndu2E2) | 3:24 |
 | 78 | [Dance at the Function](https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Dance at the Function](https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd) | 3:25 |
-| 79 | [make you feel](https://open.spotify.com/track/7tltcvB3SJcvxq7VCMMmp4) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [make you feel](https://open.spotify.com/album/33uld99180XHljxAhQiPNs) | 3:30 |
-| 80 | [Non\-Breakable Space](https://open.spotify.com/track/47YQlBQsQv1CfHi1E1Lnq8) | [Small Fires](https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc) | [All This Noise](https://open.spotify.com/album/1s352S6claWIYeJ0bvwyrq) | 3:43 |
+| 79 | [Non\-Breakable Space](https://open.spotify.com/track/47YQlBQsQv1CfHi1E1Lnq8) | [Small Fires](https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc) | [All This Noise](https://open.spotify.com/album/1s352S6claWIYeJ0bvwyrq) | 3:43 |
+| 80 | [make you feel](https://open.spotify.com/track/7tltcvB3SJcvxq7VCMMmp4) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [make you feel](https://open.spotify.com/album/33uld99180XHljxAhQiPNs) | 3:30 |
 | 81 | [Parasols](https://open.spotify.com/track/2pbIIJf26jXuS70UbDsdD0) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Parasols](https://open.spotify.com/album/0u6JSuef88Gk0cD2cKJxgF) | 3:19 |
 | 82 | [Amsterdam](https://open.spotify.com/track/0NfRaEBCHoEmwNDrpmtGoP) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Amsterdam](https://open.spotify.com/album/43gKGAue0Die8iUBwnAG7W) | 3:25 |
 | 83 | [Calm Me Down](https://open.spotify.com/track/2hTeAOEUwcFJATk3c8mUGN) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Calm Me Down](https://open.spotify.com/album/7CWCUEK92DRBxcKuDkb7Xk) | 3:05 |

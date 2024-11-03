@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,835 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,048 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

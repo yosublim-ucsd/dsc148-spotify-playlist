@@ -868,7 +868,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 284044,
       "name": "471",
       "url": "https://open.spotify.com/track/3BWYDLziiMQIRmgAhIC2XM"
@@ -14616,7 +14616,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 189464,
       "name": "forwards beckon rebound",
       "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
@@ -17185,6 +17185,32 @@
     },
     {
       "album": {
+        "name": "Halloween (Original 2018 Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        },
+        {
+          "name": "Cody Carpenter",
+          "url": "https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg"
+        },
+        {
+          "name": "Daniel Davies",
+          "url": "https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182375,
+      "name": "Halloween Theme",
+      "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
+    },
+    {
+      "album": {
         "name": "Hands up!",
         "url": "https://open.spotify.com/album/4poweJXaiw4HwGhfvjMGkL"
       },
@@ -17750,7 +17776,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -29026,6 +29052,24 @@
     {
       "album": {
         "name": "MTG DA SIA - ANGEL BY THE WINGS",
+        "url": "https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hits",
+          "url": "https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123187,
+      "name": "MTG DA SIA - ANGEL BY THE WINGS",
+      "url": "https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw"
+    },
+    {
+      "album": {
+        "name": "MTG DA SIA - ANGEL BY THE WINGS",
         "url": "https://open.spotify.com/album/7oSg8254kMb5bMjglFQRNP"
       },
       "artists": [
@@ -30946,7 +30990,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
@@ -38248,7 +38292,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 203621,
       "name": "Safety Net",
       "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
@@ -43400,7 +43444,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 174723,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
@@ -44370,7 +44414,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 112171,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
@@ -45654,7 +45698,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 206200,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/1iUdrNKh0GaFuyHgVVDwfi"

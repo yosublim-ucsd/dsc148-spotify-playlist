@@ -473,6 +473,40 @@
     },
     {
       "album": {
+        "name": "Turma do Barulho, Vol. 3",
+        "url": "https://open.spotify.com/album/49ca1j2qwKeZgGiItdzg2a"
+      },
+      "artists": [
+        {
+          "name": "Turma do Barulho",
+          "url": "https://open.spotify.com/artist/3pNEvfLOYnWOOvbHA2vhb5"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/6JvCmY2aReO0jOHrTO0U92"
+        },
+        {
+          "name": "Elen Diana",
+          "url": "https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE"
+        },
+        {
+          "name": "Suelen Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/5pwRTK98q8ffGHJd5HBvc7"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "Elevo as M\u00e3os",
+      "url": "https://open.spotify.com/track/3VhgEJo2qdrGhbLUFlMJMg"
+    },
+    {
+      "album": {
         "name": "Criador do Mundo",
         "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
       },
@@ -718,7 +752,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 257695,
       "name": "Janeiro",
       "url": "https://open.spotify.com/track/2HPgVKn1cV8XV4zUhYjqnR"

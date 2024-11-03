@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 312110,
+  "num_followers": 312130,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Last Day On Earth",
-        "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 222357,
-      "name": "Last Day On Earth",
-      "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 197389,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Last Day On Earth",
+        "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 222357,
+      "name": "Last Day On Earth",
+      "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "City Bus",
-        "url": "https://open.spotify.com/album/54WCRHplABa3y3NPT11dVJ"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        }
-      ],
-      "duration_ms": 140186,
-      "name": "City Bus",
-      "url": "https://open.spotify.com/track/51g7czCKTQSJl0Sxyhqoxk"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "baby\u2019s out of luck again",
         "url": "https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 294640,
       "name": "Selene",
       "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "City Bus",
+        "url": "https://open.spotify.com/album/54WCRHplABa3y3NPT11dVJ"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "duration_ms": 140186,
+      "name": "City Bus",
+      "url": "https://open.spotify.com/track/51g7czCKTQSJl0Sxyhqoxk"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Contently Miserable",
-        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
-      },
-      "artists": [
-        {
-          "name": "Rory Ryan",
-          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Contently Miserable",
-      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "obliterate me",
         "url": "https://open.spotify.com/album/19oywMyEwcitk495lSqOyM"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 233201,
       "name": "obliterate me",
       "url": "https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -667,22 +667,18 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
       },
       "artists": [
         {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        },
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
         }
       ],
-      "duration_ms": 340000,
-      "name": "Near",
-      "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
+      "duration_ms": 289800,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -703,18 +699,22 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
       "artists": [
         {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        },
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
         }
       ],
-      "duration_ms": 289800,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
+      "duration_ms": 340000,
+      "name": "Near",
+      "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Wry",
-        "url": "https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC"
-      },
-      "artists": [
-        {
-          "name": "Keep Shelly In Athens",
-          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Wry",
-      "url": "https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 202026,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Wry",
+        "url": "https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC"
+      },
+      "artists": [
+        {
+          "name": "Keep Shelly In Athens",
+          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Wry",
+      "url": "https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "How Many Love Songs Have Died In Vegas?",
-        "url": "https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V"
-      },
-      "artists": [
-        {
-          "name": "Swim Deep",
-          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "How Many Love Songs Have Died In Vegas?",
-      "url": "https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Gloomy Girl",
         "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "How Many Love Songs Have Died In Vegas?",
+        "url": "https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V"
+      },
+      "artists": [
+        {
+          "name": "Swim Deep",
+          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "How Many Love Songs Have Died In Vegas?",
+      "url": "https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "my girl",
-        "url": "https://open.spotify.com/album/3Ue6flrmXLRAvieVSoXZxb"
-      },
-      "artists": [
-        {
-          "name": "two blinks, i love you",
-          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
-        }
-      ],
-      "duration_ms": 256090,
-      "name": "my girl",
-      "url": "https://open.spotify.com/track/5m53Xb1GL2xR6fPpqUqFA8"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "I Feel It",
         "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 185182,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "my girl",
+        "url": "https://open.spotify.com/album/3Ue6flrmXLRAvieVSoXZxb"
+      },
+      "artists": [
+        {
+          "name": "two blinks, i love you",
+          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
+        }
+      ],
+      "duration_ms": 256090,
+      "name": "my girl",
+      "url": "https://open.spotify.com/track/5m53Xb1GL2xR6fPpqUqFA8"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Ethernity",
-        "url": "https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8"
-      },
-      "artists": [
-        {
-          "name": "For Tracy Hyde",
-          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
-        }
-      ],
-      "duration_ms": 160262,
-      "name": "Just Like Fireflies",
-      "url": "https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Love Addict",
         "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 182000,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Ethernity",
+        "url": "https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8"
+      },
+      "artists": [
+        {
+          "name": "For Tracy Hyde",
+          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
+        }
+      ],
+      "duration_ms": 160262,
+      "name": "Just Like Fireflies",
+      "url": "https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q"
     },
     {
       "added_at": "2024-08-29 20:23:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,230 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,267 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 33 | [Pantelleria](https://open.spotify.com/track/1noLY7KbrMKKKYXNuPevOI) | [Barbara Boeing](https://open.spotify.com/artist/7uf1b4UI1VVKwwcQO0laWZ) | [Pantelleria](https://open.spotify.com/album/2Xa8YoSKWyJkiC1yPbmCPk) | 5:00 |
 | 34 | [Várias Queixas \- Radio Edit](https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Várias Queixas \(Radio Edit\)](https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz) | 2:35 |
 | 35 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 |
-| 36 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
-| 37 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
+| 36 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
+| 37 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 38 | [Ask Me](https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Ask Me / Mesmerize](https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws) | 3:13 |
 | 39 | [Baxter \(these are my friends\)](https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O) | [Baxter \(these are my friends\)](https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz) | 4:04 |
 | 40 | [One Thousand Waves](https://open.spotify.com/track/1mYROkVrR8J8Zg87GhcGIs) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [One Thousand Waves](https://open.spotify.com/album/1uyFMVG3dOwjx9nVBMJlqC) | 3:46 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 93 | [Sometimes](https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:54 |
 | 94 | [I Am Free](https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [I Am Free](https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3) | 3:42 |
 | 95 | [Da Fonk \(feat\. Joni\) \- \[Dub\]](https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 5:51 |
-| 96 | [Japanese Knives](https://open.spotify.com/track/4gJl6h7igSVDqZ0eYhJ4NX) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropics](https://open.spotify.com/album/5W8FmNUmLqGf14AcUkglJJ) | 3:29 |
-| 97 | [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 |
+| 96 | [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 |
+| 97 | [Japanese Knives](https://open.spotify.com/track/4gJl6h7igSVDqZ0eYhJ4NX) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropics](https://open.spotify.com/album/5W8FmNUmLqGf14AcUkglJJ) | 3:29 |
 | 98 | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Laureano](https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX), [Bambo Cissokho](https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq) | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN) | 2:42 |
 | 99 | [Dusty Sundays](https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Dusty Sundays](https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod) | 5:58 |
-| 100 | [The Semimodular Bird of Jazz](https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Wait on Me EP](https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc) | 4:49 |
+| 100 | [Fell In Luv](https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Fell In Luv](https://open.spotify.com/album/16BgVS1U2T7UvDmewU2t5m) | 3:58 |
 
 Snapshot ID: `ZwhOnAAAAACfR9dcgmB2fifZG3/bcUBN`

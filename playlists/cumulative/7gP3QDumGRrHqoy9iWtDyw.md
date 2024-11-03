@@ -4,11 +4,11 @@
 
 > 
 
-233 songs - 15 hr 4 min
+234 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [9 of 10](https://open.spotify.com/track/7jhmkPcFBDoC3svHnfTkEH) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF), [Kendo](https://open.spotify.com/artist/2rTqhyJsi7l2q4c2HAs4VY) | [What Is Life](https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU) | 4:27 | 2024-10-29 |  |
+| [9 of 10](https://open.spotify.com/track/7jhmkPcFBDoC3svHnfTkEH) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [What Is Life](https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU) | 4:27 | 2024-10-29 |  |
 | [A Prayer](https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [A Prayer](https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD) | 3:30 | 2023-10-20 |  |
 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 | 2023-06-13 |  |
 | [Acid](https://open.spotify.com/track/2hQEXzrvoJ7UpFi4NOowg0) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Rami Ali](https://open.spotify.com/artist/0gdxUjDVq4FWKpMe5YgdgB) | [Acid / A Lot](https://open.spotify.com/album/34F0ocwlWSuPYIr24I8YiU) | 3:04 | 2024-08-28 |  |
@@ -73,6 +73,7 @@
 | [Education](https://open.spotify.com/track/4mE8Vo7F4ujeVnkh9956kS) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Younger Days](https://open.spotify.com/album/3BJtowVHOVE9lHRQDtS8h2) | 2:25 | 2024-10-29 |  |
 | [Electricity](https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Electricity](https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV) | 2:34 | 2023-10-12 |  |
 | [F The Disco](https://open.spotify.com/track/7elX5HalbHX0ce1dql4ckd) | [Cavi](https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK) | [Our Beats](https://open.spotify.com/album/7ea0ORUmANmJFYAjfiffjG) | 4:44 | 2023-06-01 |  |
+| [Face Off](https://open.spotify.com/track/3MMRDkrBFf5hRcFaXxRvIG) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Face Off](https://open.spotify.com/album/4b0zRtK8MecEecbsxIQJMG) | 2:54 | 2024-11-02 |  |
 | [Feel So Good](https://open.spotify.com/track/4wXt1AZgYt7k72oTHy0e0P) | [LEFTI](https://open.spotify.com/artist/7o5gxy3lEGcP62TNIppa7w) | [Feel So Good](https://open.spotify.com/album/5t0Q2AJoqfFuwuYhPDPny7) | 2:35 | 2023-12-04 |  |
 | [Feel the Groove \- Original Mix](https://open.spotify.com/track/3270GTLUMqJaasAVZHFc7n) | [Deltech](https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y) | [Feel the Groove EP](https://open.spotify.com/album/215QqUqoOYIxQoxjR2I0iN) | 6:18 | 2023-07-08 |  |
 | [Fell In Luv \- Black Circle Remix](https://open.spotify.com/track/7eRsnszGZ5V170AbcpDQNa) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Fell In Luv \(Black Circle Remix\)](https://open.spotify.com/album/5mSTBF7H7F6qYO5GdPkU0E) | 4:21 | 2024-02-14 |  |

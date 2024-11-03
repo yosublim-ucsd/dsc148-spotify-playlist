@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28375,
+  "num_followers": 28370,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Kaja Gunnufsen",
+          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Sjunka",
         "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
       },
@@ -375,22 +395,6 @@
       "duration_ms": 161240,
       "name": "Blind",
       "url": "https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "BIPOLAR",
-      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -679,22 +683,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "R\u00f8de Rubin",
         "url": "https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI"
       },
@@ -707,6 +695,22 @@
       "duration_ms": 156459,
       "name": "R\u00f8de Rubin",
       "url": "https://open.spotify.com/track/0Pdi9usvND947TMv869DmN"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 186123,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -823,6 +827,26 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Ledare",
+        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Ledare",
+      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Matrisen",
         "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
       },
@@ -851,26 +875,6 @@
       "duration_ms": 93830,
       "name": "Det Regner Penger (Allez Allez)",
       "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Ledare",
-        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Ledare",
-      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -939,22 +943,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Ambassador",
-        "url": "https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS"
+        "name": "TIL DEG",
+        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
       },
       "artists": [
         {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
         },
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Ambassador",
-      "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
+      "duration_ms": 157217,
+      "name": "TIL DEG",
+      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -979,26 +983,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "TIL DEG",
-        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
-      },
-      "artists": [
-        {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "duration_ms": 157217,
-      "name": "TIL DEG",
-      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Sprite",
         "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
       },
@@ -1015,6 +999,26 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Ambassador",
+        "url": "https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Ambassador",
+      "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Whina",
         "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
       },
@@ -1027,22 +1031,6 @@
       "duration_ms": 156453,
       "name": "Whina",
       "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "R\u00c4TT & FEL",
-        "url": "https://open.spotify.com/album/3JwpRGw1884mK1G1Cw4lYE"
-      },
-      "artists": [
-        {
-          "name": "Z.E",
-          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
-        }
-      ],
-      "duration_ms": 139400,
-      "name": "R\u00c4TT & FEL",
-      "url": "https://open.spotify.com/track/179XVuqKFmRH2uYHe1JAcI"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1067,6 +1055,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Big Steppa",
+        "url": "https://open.spotify.com/album/28xty25VaSYUpXBQwFKYEf"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 136082,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/43MYhAw47PmHz31xY3mdrI"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Palmerna",
         "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
       },
@@ -1087,18 +1091,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "MIDDELS DEPPA MILLION\u00c6R",
-        "url": "https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y"
+        "name": "R\u00c4TT & FEL",
+        "url": "https://open.spotify.com/album/3JwpRGw1884mK1G1Cw4lYE"
       },
       "artists": [
         {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
         }
       ],
-      "duration_ms": 146053,
-      "name": "MIDDELS DEPPA MILLION\u00c6R",
-      "url": "https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5"
+      "duration_ms": 139400,
+      "name": "R\u00c4TT & FEL",
+      "url": "https://open.spotify.com/track/179XVuqKFmRH2uYHe1JAcI"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1115,6 +1119,22 @@
       "duration_ms": 322431,
       "name": "2X SPEKTRUM FREESTYLE",
       "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "MIDDELS DEPPA MILLION\u00c6R",
+        "url": "https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y"
+      },
+      "artists": [
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 146053,
+      "name": "MIDDELS DEPPA MILLION\u00c6R",
+      "url": "https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1211,6 +1231,26 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Takket v\u00e6re livet",
+        "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "555",
+      "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Bed\u00f8velse Gj\u00f8r Mester",
         "url": "https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t"
       },
@@ -1251,26 +1291,6 @@
       "duration_ms": 134400,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Takket v\u00e6re livet",
-        "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "555",
-      "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1363,18 +1383,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "PRAPAPA",
-        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
+        "name": "Kvar - Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
       },
       "artists": [
         {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+          "name": "Alawee",
+          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+        },
+        {
+          "name": "Youzie",
+          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
         }
       ],
-      "duration_ms": 124812,
-      "name": "PRAPAPA",
-      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
+      "duration_ms": 161666,
+      "name": "Kvar - Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1399,26 +1423,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Kvar - Spotify Studio 100 Recording",
-        "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
-      },
-      "artists": [
-        {
-          "name": "Alawee",
-          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
-        },
-        {
-          "name": "Youzie",
-          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "Kvar - Spotify Studio 100 Recording",
-      "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Fakk love",
         "url": "https://open.spotify.com/album/3BbrExBX9GDFKEMDQ0AbQA"
       },
@@ -1431,6 +1435,22 @@
       "duration_ms": 124750,
       "name": "Fakk love",
       "url": "https://open.spotify.com/track/05mlYFe6CSsOaghF1lTJNB"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "PRAPAPA",
+        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 124812,
+      "name": "PRAPAPA",
+      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1475,34 +1495,6 @@
       "duration_ms": 162017,
       "name": "TRILLE",
       "url": "https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Tappar kontroll",
-        "url": "https://open.spotify.com/album/1PzBGPCkSnJm1ZuECf5A50"
-      },
-      "artists": [
-        {
-          "name": "BELLMAN",
-          "url": "https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC"
-        },
-        {
-          "name": "Blizzy",
-          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
-        },
-        {
-          "name": "Imenella",
-          "url": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
-        },
-        {
-          "name": "SAMI",
-          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
-        }
-      ],
-      "duration_ms": 176495,
-      "name": "Tappar kontroll",
-      "url": "https://open.spotify.com/track/3JzsfvZ8mUk0zW3thtxnx7"
     }
   ],
   "unique_name": "100 (2)",

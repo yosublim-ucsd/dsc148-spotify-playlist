@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Souldia",
-  "num_followers": 42427,
+  "num_followers": 42439,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -202,6 +202,10 @@
         {
           "name": "Brown Family",
           "url": "https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW"
+        },
+        {
+          "name": "HAWA B",
+          "url": "https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam"
         }
       ],
       "duration_ms": 239191,
@@ -303,6 +307,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Bazar",
         "url": "https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW"
       },
@@ -315,6 +335,26 @@
       "duration_ms": 166322,
       "name": "Bazar",
       "url": "https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 157491,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -379,22 +419,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Old Friend",
-        "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
       },
       "artists": [
         {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        },
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 157491,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
+      "duration_ms": 155066,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -455,22 +491,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Monde Nouveau",
         "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
       },
@@ -519,6 +539,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Apr\u00e8s l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "duration_ms": 239684,
+      "name": "Apr\u00e8s l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Coucou",
         "url": "https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj"
       },
@@ -535,22 +571,6 @@
       "duration_ms": 133894,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Apr\u00e8s l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X"
-      },
-      "artists": [
-        {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        }
-      ],
-      "duration_ms": 239684,
-      "name": "Apr\u00e8s l'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -675,22 +695,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Ceci n'est pas une chanson triste",
-        "url": "https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX"
-      },
-      "artists": [
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 230320,
-      "name": "Ceci n'est pas une chanson triste",
-      "url": "https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Des rires et des pleurs",
         "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
       },
@@ -707,6 +711,22 @@
       "duration_ms": 155368,
       "name": "No stress",
       "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Ceci n'est pas une chanson triste",
+        "url": "https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 230320,
+      "name": "Ceci n'est pas une chanson triste",
+      "url": "https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -903,26 +923,6 @@
       "duration_ms": 168960,
       "name": "Qui j'\u00e9tais",
       "url": "https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Arabian Heartbreak",
-        "url": "https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        },
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        }
-      ],
-      "duration_ms": 184573,
-      "name": "DOUTE (feat. Zamdane)",
-      "url": "https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk"
     },
     {
       "added_at": "2024-11-01 04:00:00",

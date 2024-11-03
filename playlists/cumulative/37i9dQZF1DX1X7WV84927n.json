@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Bomb.com",
+        "url": "https://open.spotify.com/album/5pBDxsLn3W3V8ZAvt1QZ1m"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150788,
+      "name": "Bomb.com",
+      "url": "https://open.spotify.com/track/3LRfBx8Z1PMQEwlFIyeNAs"
+    },
+    {
+      "album": {
         "name": "Bone Church",
         "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
       },
@@ -3198,7 +3216,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 184311,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB"
@@ -3960,7 +3978,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 192676,
       "name": "DESERT RAP",
       "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
@@ -7743,6 +7761,24 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/6lBLUITFrP3wWcHKVM5FG4"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208939,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5dGBQrUKyOtCBEuLBtIbve"
+    },
+    {
+      "album": {
         "name": "Hurrikan",
         "url": "https://open.spotify.com/album/3metucRFaJQD1Tx4zVYwLp"
       },
@@ -9840,6 +9876,24 @@
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
+    },
+    {
+      "album": {
+        "name": "M.O.N.S.T.E.R",
+        "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216116,
+      "name": "M.O.N.S.T.E.R",
+      "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
     },
     {
       "album": {
@@ -15634,7 +15688,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 151426,
       "name": "Tell Us How It Ends",
       "url": "https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS"
@@ -17123,6 +17177,32 @@
     },
     {
       "album": {
+        "name": "Time Bomb",
+        "url": "https://open.spotify.com/album/3TdQFqyf8tha9pYeyiCVAP"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        },
+        {
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158786,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/2I1nBbKMRuAw8cMJb66Xaw"
+    },
+    {
+      "album": {
         "name": "The Gang's All Here",
         "url": "https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR"
       },
@@ -18164,7 +18244,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 237378,
       "name": "Voodoo Doll (feat. Eva Under Fire)",
       "url": "https://open.spotify.com/track/5NcvwkdGZCJ8CgJTXSI2Jt"

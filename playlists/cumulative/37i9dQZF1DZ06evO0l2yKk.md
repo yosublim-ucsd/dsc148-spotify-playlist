@@ -4,7 +4,7 @@
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 16 min
+83 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Sorpréndeme](https://open.spotify.com/track/4V8B14tV0m8VDRrmJzKoWy) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [La Historia Continúa](https://open.spotify.com/album/1y96jqrtZbBZsmuNe1Nfvv) | 3:11 | 2024-03-16 |  |
 | [Soy](https://open.spotify.com/track/2f91i2aiTHOwQJp2NyYhd8) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 2:47 | 2023-03-29 | 2023-10-11 |
 | [Soy](https://open.spotify.com/track/3oiOs1nY8AxIJYZJzJmXws) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:47 | 2023-11-10 |  |
-| [Soy Lo Peor](https://open.spotify.com/track/6tlA9TBaGgY1xnqfJJL5bS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego \(Clásicos Digitalizados\)](https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2) | 2:36 | 2022-06-01 |  |
+| [Soy Lo Peor](https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego](https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3) | 2:36 | 2024-11-03 |  |
+| [Soy Lo Peor](https://open.spotify.com/track/6tlA9TBaGgY1xnqfJJL5bS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego \(Clásicos Digitalizados\)](https://open.spotify.com/album/5gFXqopK0GNNAwBii345i2) | 2:36 | 2022-06-01 | 2024-11-03 |
 | [Te Olvidé \- Cumbia](https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Cumbias Para Bailar](https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh) | 3:11 | 2024-03-06 |  |
 | [Te Quiero Agradecer](https://open.spotify.com/track/6dpbSR39ltvxZzul2jILPn) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Te Quiero Agradecer](https://open.spotify.com/album/4qbNVMTeJrZ3GNfIz0iEhL) | 3:23 | 2022-06-01 | 2023-06-24 |
 | [Tres por Una](https://open.spotify.com/track/7GsPAZvWCjkyI32tMonO2q) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV), [Salomón Robles Y Sus Legendarios](https://open.spotify.com/artist/24ZxliaPEOn2Ya3tfRD4w8) | [Tres por Una](https://open.spotify.com/album/0ZPBFeDd444E4c2K9R6iEu) | 3:29 | 2023-02-25 | 2023-05-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 288817,
+  "num_followers": 288914,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAADWEiDRMdMymaQiZcJLBjOs",
+  "snapshot_id": "ZyQaAAAAAACvwVVU/ViBcgpUyXKXlV82",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Bigger In Texas",
+      "url": "https://open.spotify.com/track/5ZxajZr7QfIl60L8BOGvu5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
         "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 225600,
       "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Bigger In Texas",
-      "url": "https://open.spotify.com/track/5ZxajZr7QfIl60L8BOGvu5"
     },
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bongos (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 175099,
-      "name": "Bongos (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 139192,
       "name": "Roc Steady (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/4jCKLCyhHjrzz6be6NDhrd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bongos (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 175099,
+      "name": "Bongos (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 137107,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 76999,
       "name": "Like a Freak",
       "url": "https://open.spotify.com/track/5xTmKnPWXX4FcYgpxjXTrD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suga",
-        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 155497,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 140883,
       "name": "Number One Rule",
       "url": "https://open.spotify.com/track/2BOS4WTxBpqCx7s3XsHn0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 155497,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something for Thee Hotties",
-        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 125030,
-      "name": "Kitty Kat",
-      "url": "https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 95199,
       "name": "He Think I Love Him",
       "url": "https://open.spotify.com/track/1BllxkhLaC2xvKNLSEZIKL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 125030,
+      "name": "Kitty Kat",
+      "url": "https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 166237,
+      "name": "Bourbon",
+      "url": "https://open.spotify.com/track/1A3Rat6k27st6uSqpMLqn6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tina Snow",
         "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 222752,
       "name": "Cognac Queen",
       "url": "https://open.spotify.com/track/2GbS8QZToLioxL8XMEwX3P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 166237,
-      "name": "Bourbon",
-      "url": "https://open.spotify.com/track/2CYMaR6YyFLAj5ZJzr0CuG"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 155090,
-      "name": "What\u2019s New",
-      "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something for Thee Hotties",
         "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 201979,
       "name": "Budget (feat. Latto)",
       "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 155090,
+      "name": "What\u2019s New",
+      "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 153645,
+      "name": "Scary (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/0QWauSvdEXExwUUDa4QCsj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 165366,
       "name": "I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 153645,
-      "name": "Scary (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/0QWauSvdEXExwUUDa4QCsj"
     }
   ],
   "unique_name": "This Is Megan Thee Stallion",

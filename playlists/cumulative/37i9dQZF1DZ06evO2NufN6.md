@@ -4,7 +4,7 @@
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 47 min
+75 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Senior Skip Day](https://open.spotify.com/track/3BbS4oLUDNOLctshheQucc) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:55 | 2023-07-14 |  |
 | [Skin](https://open.spotify.com/track/1eDS8ii1utvj0PjfQLrDb4) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:47 | 2024-05-10 | 2024-07-18 |
 | [Small Worlds](https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:31 | 2023-06-07 |  |
-| [Smile Back](https://open.spotify.com/track/6F9nsukvVbVSVGPCjrnHW4) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv) | 2:42 | 2024-05-14 |  |
+| [Smile Back](https://open.spotify.com/track/6F9nsukvVbVSVGPCjrnHW4) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv) | 2:42 | 2024-05-14 | 2024-11-03 |
+| [Someone Like You](https://open.spotify.com/track/6x68G4xQBgQDQ5AQ6L6TsL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS) | 4:16 | 2024-11-03 |  |
 | [Soulmate](https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:32 | 2023-06-07 |  |
 | [Stay](https://open.spotify.com/track/4brX8MJs5hxErgq48f9REO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:26 | 2024-05-10 | 2024-07-24 |
 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 | 2023-06-07 |  |

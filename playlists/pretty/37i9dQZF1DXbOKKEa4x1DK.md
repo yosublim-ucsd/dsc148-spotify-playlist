@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,183 likes - 57 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,213 likes - 57 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 22 | [Llego Tu Marido](https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Caliente](https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1) | 5:06 |
 | 23 | [Confundido](https://open.spotify.com/track/0MhCXhIUk0T9GMQdkPjWHw) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Los Merengues Del Casandra](https://open.spotify.com/album/15iyNrNKUEhvdkytaMoVoR) | 4:47 |
 | 24 | [Con Los Ojos Cerrados](https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Milly & Company](https://open.spotify.com/album/1WaHdAxCGI2q58gva4gSrB) | 3:40 |
-| 25 | [Un Buen Perdedor](https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Exclusivo](https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM) | 4:47 |
+| 25 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 |
 | 26 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
 | 27 | [La Casa de Ramon](https://open.spotify.com/track/6ZGEQPicVG2ERQE763HBAm) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [La Casa de Ramon](https://open.spotify.com/album/7Aav5u8nRnCQadbEtDjmjs) | 3:33 |
 | 28 | [Ajena](https://open.spotify.com/track/00TBHlxq2ak9wUSGlZ9j0f) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:34 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 32 | [Como Te Olvido](https://open.spotify.com/track/5Sp82J8SkXaubjecTTdCBK) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Mi Historia](https://open.spotify.com/album/4TsbE5HjgnJSbKrdiA8tQB) | 4:49 |
 | 33 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/24pTFkIOEx387mumG1oP6w) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Merengue En Vivo De Fiesta](https://open.spotify.com/album/6wBDchYUGlD1NBrhAX62RA) | 7:05 |
 | 34 | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz) | 5:42 |
-| 35 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 |
+| 35 | [Un Buen Perdedor](https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Exclusivo](https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM) | 4:47 |
 | 36 | [Noches de Fantasía](https://open.spotify.com/track/52HZfvYGAbWx86xzFBeoQh) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Noches de Fantasía](https://open.spotify.com/album/6xDoCwBNbIdKpjSxLlTsLa) | 4:26 |
 | 37 | [Te Compro Tu Novia](https://open.spotify.com/track/4Dh7uW5uZAbpPCuWhgOYB0) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [América Sin Queja](https://open.spotify.com/album/0EEdtnbf5f5vhVBATOW2Fm) | 4:27 |
 | 38 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |

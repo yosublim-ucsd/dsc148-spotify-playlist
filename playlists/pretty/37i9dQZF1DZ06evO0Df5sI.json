@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 21016,
+  "num_followers": 21018,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAADsHTWmaXv/9kFG3Ft79Zjo",
+  "snapshot_id": "ZyQaAAAAAADLehV1aCrY77+nKK1MpOYc",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddamnit!",
-        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 143893,
-      "name": "Cringe",
-      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
+      "duration_ms": 187480,
+      "name": "I Wanna Be A Warhol",
+      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
       },
       "artists": [
         {
@@ -676,9 +676,25 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 187480,
-      "name": "I Wanna Be A Warhol",
-      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
+      "duration_ms": 237813,
+      "name": "Queen Of Pain",
+      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "Cringe",
+      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 170360,
       "name": "Goodbye Forever",
       "url": "https://open.spotify.com/track/7BLDpoxWYAiRihzazyiOQu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Queen Of Pain",
-      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸 <a href="spotify:artist:0dMc2FDDeU7OzAn5EsYKuU">Østen</a> har nyt album ude❤️‍🔥
 
-117 songs - 6 hr 17 min
+118 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Falder I](https://open.spotify.com/track/4YtgUbrhVuBiGTemZ9BnO9) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Falder I](https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw) | 3:00 | 2024-08-09 | 2024-08-30 |
 | [Formskifter](https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Formskifter](https://open.spotify.com/album/2v4FKfFPRtDVc2hjuysIxl) | 3:15 | 2024-06-27 | 2024-09-13 |
 | [Fra Wien Til Rom](https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Legebørn](https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD) | 4:08 | 2024-06-27 | 2024-10-13 |
+| [Fravær](https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Fravær](https://open.spotify.com/album/2hicqCPKVEeRFZzQ9Rk1fy) | 2:08 | 2024-10-24 |  |
 | [Følsom dreng](https://open.spotify.com/track/7f8XR9iGp7CQzCfKNmtt7t) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Følsom dreng](https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA) | 3:18 | 2024-09-05 |  |
 | [Gennem Dit Hjerte \(feat\. Hans Philip\)](https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Når Man Taler Om Solen](https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx) | 2:52 | 2024-06-27 |  |
 | [Gennemsku Mig Nu](https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [grib mig hvis jeg falder](https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj) | 3:13 | 2024-06-27 |  |
@@ -81,7 +82,7 @@
 | [Levende Billeder](https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx) | [Carl Emil Petersen](https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW) | [Amager Forbrænding](https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H) | 3:04 | 2024-07-11 | 2024-08-18 |
 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 |  |
 | [Lyden Af Livet](https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Lyden Af Livet](https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv) | 3:50 | 2024-06-27 | 2024-09-30 |
-| [læs mig \(akustisk version\)](https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer \(akustisk version\)](https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh) | 2:42 | 2024-06-27 |  |
+| [læs mig \(akustisk version\)](https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer \(akustisk version\)](https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh) | 2:42 | 2024-06-27 | 2024-11-03 |
 | [LÆST \(feat\. Marcus.wav\)](https://open.spotify.com/track/4RV9rzJiIZ05AzHYtGeljS) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [LÆST \(feat\. Marcus.wav\)](https://open.spotify.com/album/1WcDgtM1ag4HaiGmemXhRg) | 2:56 | 2024-10-18 |  |
 | [Maler](https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ) | [BONFÍ](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Maler](https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP) | 2:31 | 2024-06-27 |  |
 | [Mand På En Nat](https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [I storslået kinddans, med livet som indsats](https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg) | 2:51 | 2024-06-27 |  |

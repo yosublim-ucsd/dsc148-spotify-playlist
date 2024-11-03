@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 10225,
+  "num_followers": 10233,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAABxNcpkkZywrzSJESkEp18+",
+  "snapshot_id": "ZyQaAAAAAAAEBBqfqZ3FE+ds6HSkTWLI",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Omo Charlie Champagne Vol.1",
+        "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 195030,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jah Eli Jah",
         "url": "https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 233764,
       "name": "Jah Eli Jah",
       "url": "https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Omo Charlie Champagne Vol.1",
-        "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 195030,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
     },
     {
       "added_at": null,
@@ -623,42 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHOPLIFE (feat. Patoranking)",
-        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 213870,
-      "name": "CHOPLIFE (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -679,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 205450,
       "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
       "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHOPLIFE (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 213870,
+      "name": "CHOPLIFE (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 175316,
-      "name": "Control Me",
-      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alubarika",
         "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 173293,
       "name": "Magbe (feat. Patoranking)",
       "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 175316,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Something Nice",
-      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 194417,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
     },
     {
       "added_at": null,
@@ -1011,30 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gentle Man",
-        "url": "https://open.spotify.com/album/06xLblJu6SFwSwauSfDFtY"
-      },
-      "artists": [
-        {
-          "name": "Romain Virgo",
-          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Silly Walks Discotheque",
-          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
-        }
-      ],
-      "duration_ms": 182914,
-      "name": "I Believe (feat. Patoranking & Silly Walks Discotheque)",
-      "url": "https://open.spotify.com/track/5olEm6oL6PhnW6FUhZQIAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wilmer",
         "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
       },
@@ -1079,6 +1055,30 @@
       "duration_ms": 216000,
       "name": "Snapdatsh!t - Remix",
       "url": "https://open.spotify.com/track/1V4LuVzWHvEPNY0S42KW1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gentle Man",
+        "url": "https://open.spotify.com/album/06xLblJu6SFwSwauSfDFtY"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Silly Walks Discotheque",
+          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
+        }
+      ],
+      "duration_ms": 182914,
+      "name": "I Believe (feat. Patoranking & Silly Walks Discotheque)",
+      "url": "https://open.spotify.com/track/5olEm6oL6PhnW6FUhZQIAF"
     },
     {
       "added_at": null,

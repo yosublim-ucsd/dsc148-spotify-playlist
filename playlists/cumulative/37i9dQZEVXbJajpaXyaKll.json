@@ -6563,6 +6563,24 @@
     },
     {
       "album": {
+        "name": "Destinologia",
+        "url": "https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "Hola Noviembre",
+      "url": "https://open.spotify.com/track/3gpgMfFAQDkVgcY1u76Ccx"
+    },
+    {
+      "album": {
         "name": "HOLA PERDIDA",
         "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
       },
@@ -7024,7 +7042,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 238866,
       "name": "I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
@@ -7396,6 +7414,32 @@
       "duration_ms": 116322,
       "name": "La Gallina turuleca PHONK brazilian Original",
       "url": "https://open.spotify.com/track/4hbpUGKJviMMnbA785Pge5"
+    },
+    {
+      "album": {
+        "name": "LA MAYOR\u00cdA DE LAS NENAS LINDAS",
+        "url": "https://open.spotify.com/album/3t17jnHFwz8hLaEXaM0Bfw"
+      },
+      "artists": [
+        {
+          "name": "Piromano El Del Flow Gitano",
+          "url": "https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0"
+        },
+        {
+          "name": "Napo99",
+          "url": "https://open.spotify.com/artist/0TQwhbavW288eFTFenPeRa"
+        },
+        {
+          "name": "teekyy",
+          "url": "https://open.spotify.com/artist/6RqfZDh96RLufabBRbE2Js"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215257,
+      "name": "LA MAYOR\u00cdA DE LAS NENAS LINDAS",
+      "url": "https://open.spotify.com/track/0IVaOnXV1QqPwhbW2PpMoM"
     },
     {
       "album": {
@@ -8603,6 +8647,24 @@
     },
     {
       "album": {
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/36SJ7ZFx8J1f1RsewmUwMX"
+    },
+    {
+      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -9352,32 +9414,6 @@
       "duration_ms": 224693,
       "name": "Miedo a Perderte",
       "url": "https://open.spotify.com/track/6JqMNHGYlouggzHJje6JJW"
-    },
-    {
-      "album": {
-        "name": "MIENTES TAN BIEN",
-        "url": "https://open.spotify.com/album/3t17jnHFwz8hLaEXaM0Bfw"
-      },
-      "artists": [
-        {
-          "name": "Piromano El Del Flow Gitano",
-          "url": "https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0"
-        },
-        {
-          "name": "Napo99",
-          "url": "https://open.spotify.com/artist/0TQwhbavW288eFTFenPeRa"
-        },
-        {
-          "name": "teekyy",
-          "url": "https://open.spotify.com/artist/6RqfZDh96RLufabBRbE2Js"
-        }
-      ],
-      "date_added": "2024-10-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215257,
-      "name": "MIENTES TAN BIEN",
-      "url": "https://open.spotify.com/track/0IVaOnXV1QqPwhbW2PpMoM"
     },
     {
       "album": {
@@ -14374,7 +14410,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 244426,
       "name": "S\u00e9 Vos",
       "url": "https://open.spotify.com/track/4MUhGA8YfsYDqD4NhTUtSf"

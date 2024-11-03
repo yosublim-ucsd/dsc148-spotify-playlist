@@ -4,7 +4,7 @@
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-129 songs - 6 hr 51 min
+130 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [BË QUIET \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:54 | 2024-10-20 |  |
 | [Calling My Spirit](https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:32 | 2022-10-28 |  |
 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 | 2022-10-28 | 2023-11-11 |
+| [Catch Fire](https://open.spotify.com/track/0ZXdhjDOM6LPrmUjUlRYJi) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Catch Fire](https://open.spotify.com/album/6VPisLb36V8VxxQhs0RyDH) | 1:59 | 2024-11-03 |  |
 | [Codeine Dreaming \(feat\. Lil Wayne\)](https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Project Baby 2: All Grown Up \(Deluxe Edition\)](https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p) | 4:24 | 2022-10-28 |  |
 | [COLORS \(feat\. Kodak Black\)](https://open.spotify.com/track/767iOXvMCZC0W8HcPJm1am) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:44 | 2023-01-21 | 2023-05-02 |
 | [Colostomy \(feat\. WizDaWizard\)](https://open.spotify.com/track/3ndarzf6PGBwEsxs0wuYgm) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [WizDaWizard](https://open.spotify.com/artist/4p8ivLWn8hpHM5uLhYiMix) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:22 | 2024-02-26 | 2024-02-28 |

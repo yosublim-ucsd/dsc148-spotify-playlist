@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,365 likes - 50 songs - 2 hr 41 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,360 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 4 | [The Seed](https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/30o58TAcxQucSZexOT4y7C) | 3:28 |
 | 5 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 |
 | 6 | [Meet Me In The Middle](https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Meet Me In The Middle](https://open.spotify.com/album/1XUuSXvM22T5sRqD1pOU9K) | 2:17 |
-| 7 | [Wish We Could \- SACHI Remix](https://open.spotify.com/track/0Kbpqx1rvZDueKihdCY7V6) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje), [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Enhancer \(Remixed\)](https://open.spotify.com/album/0Z43aFAbhQBw4JldQOUEl4) | 3:48 |
+| 7 | [Wish We Could \- SACHI Remix](https://open.spotify.com/track/0Kbpqx1rvZDueKihdCY7V6) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje), [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Enhancer \(Remixes\)](https://open.spotify.com/album/0Z43aFAbhQBw4JldQOUEl4) | 3:48 |
 | 8 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 |
 | 9 | [Tomorrow](https://open.spotify.com/track/1bloKdHHnhiIDCGDfI2ugN) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Us Two](https://open.spotify.com/album/53KeCWH79dIEetwOjFcupt) | 4:12 |
 | 10 | [Rising Stars](https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB) | [Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Rising Stars](https://open.spotify.com/album/6D9oVoBLwxPOwwh54MtR5u) | 3:02 |

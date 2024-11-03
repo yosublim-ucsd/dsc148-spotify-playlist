@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Weeknd \(pictured\), Tyler, The Creator, The Cure and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,258 likes - 109 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,298 likes - 109 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

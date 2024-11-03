@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-373 songs - 19 hr 48 min
+374 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 | 2023-04-28 | 2024-10-06 |
 | [Ever After](https://open.spotify.com/track/57hO2DGhBI2BbqCjVxpJcr) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Confessions](https://open.spotify.com/album/5vvby3mFBAzt10wi3YvFyQ) | 3:47 | 2021-10-29 | 2022-01-17 |
 | [Evermore](https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Evermore](https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5) | 5:25 | 2023-12-22 | 2024-07-27 |
-| [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-08-18 |  |
+| [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-08-18 | 2024-11-03 |
 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 | 2022-04-01 | 2023-01-28 |
 | [Facing The Sun \- Revive \- Edit](https://open.spotify.com/track/2dpVPP9K2IL4YUbFs9hvmH) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Facing The Sun \(Revive\)](https://open.spotify.com/album/2PN6xvQL7Lcn7jEOgEeCyZ) | 3:49 | 2023-03-31 | 2023-04-29 |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-30 | 2023-01-02 |
@@ -284,6 +284,7 @@
 | [Selfish Love \(with Selena Gomez\) \- Tiësto Remix](https://open.spotify.com/track/2IDBh3Nuej2wFUk2JmWEmQ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Selfish Love \(with Selena Gomez\) \(Tiësto Remix\)](https://open.spotify.com/album/6PFuomeQgR2sRWje5dxPKa) | 2:33 | 2022-03-25 | 2022-04-19 |
 | [September](https://open.spotify.com/track/2KDIFU4O8qjgydU5K33HUW) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA) | [September](https://open.spotify.com/album/4QozAibp9n6LP8im7VSR2w) | 2:20 | 2022-04-08 | 2022-07-26 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-06-16 |  |
+| [Set Me Free \(feat\. Robert Courtois\)](https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Robert Courtois](https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa) | [Set Me Free \(feat\. Robert Courtois\)](https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB) | 2:30 | 2024-09-27 |  |
 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 | 2024-05-10 |  |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-07 |  |
 | [Shine](https://open.spotify.com/track/5zxbZVvlzdWuVNN2CqswcM) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Shine](https://open.spotify.com/album/6pbUCPPuMI2QX6h5xSnak6) | 3:55 | 2023-05-26 | 2023-06-03 |

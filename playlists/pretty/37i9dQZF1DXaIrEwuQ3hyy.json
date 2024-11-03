@@ -1,6 +1,6 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1051225,
+  "num_followers": 1051319,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -467,26 +467,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 304106,
-      "name": "evermore (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
       },
@@ -507,6 +487,26 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 304106,
+      "name": "evermore (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "go",
         "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 215000,
       "name": "go",
       "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 222092,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 222092,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "Know the Night",
         "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 239384,
       "name": "Crystal Tears",
       "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "April May July",
-        "url": "https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc"
-      },
-      "artists": [
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "April May July",
-      "url": "https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "Ocean Girl",
         "url": "https://open.spotify.com/album/26B5EnQVzxe73KalXffs9M"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 250625,
       "name": "Ocean Girl",
       "url": "https://open.spotify.com/track/2x8cZDQWncATNukN3H1fSJ"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "April May July",
+        "url": "https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "April May July",
+      "url": "https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "wo bin ich",
-        "url": "https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc"
-      },
-      "artists": [
-        {
-          "name": "Aaron",
-          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
-        }
-      ],
-      "duration_ms": 123297,
-      "name": "wo bin ich",
-      "url": "https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "Airplanes",
         "url": "https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 157232,
       "name": "Airplanes",
       "url": "https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "wo bin ich",
+        "url": "https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "duration_ms": 123297,
+      "name": "wo bin ich",
+      "url": "https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY"
     },
     {
       "added_at": "2024-10-29 05:03:33",

@@ -4,7 +4,7 @@
 
 > Playlist
 
-532 songs - 1 day 7 hr 47 min
+533 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Skytop Garden](https://open.spotify.com/track/6qe8FSumuFS4iirjhaPzg7) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Skytop Garden](https://open.spotify.com/album/3hDa1c5lp9toDsu2X8irqa) | 2:33 | 2023-10-25 |  |
 | [Smokey](https://open.spotify.com/track/1KzuY7mjumjaDFMQOluqRf) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Such a Life / Smokey](https://open.spotify.com/album/4Xosj0A8e2eeACkNtNjBlQ) | 3:44 | 2023-10-25 |  |
 | [So](https://open.spotify.com/track/4dpxqHfYMyiUsK4DaRahyB) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [So](https://open.spotify.com/album/6AOo2VUfDIWZkS6UurB6Pz) | 4:08 | 2023-10-25 |  |
+| [So Blue](https://open.spotify.com/track/6iA7KvLZqd5O3SqqzTTlH4) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [So Blue](https://open.spotify.com/album/6C1eTB3Tc19mkHlISe1QHo) | 4:31 | 2024-11-02 |  |
 | [So I Broke Her Heart](https://open.spotify.com/track/6epUfTKIavQ2GXvAfYak1C) | [Donny Electric](https://open.spotify.com/artist/3yy78Zn0wPb6SFDdtOJ1r9) | [So I Broke Her Heart](https://open.spotify.com/album/6sjr2Po31xfQTZxnhxu6qD) | 3:05 | 2023-10-25 |  |
 | [So Sweet So Nice](https://open.spotify.com/track/2KV3OZ6hsNGc5WoEnOiKz9) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [So Sweet So Nice](https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy) | 4:00 | 2023-10-25 |  |
 | [Soak It Up](https://open.spotify.com/track/6hc2tIvfMZepet9L4lZhzj) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Making Movements](https://open.spotify.com/album/6Dxr1CMMgXj8qOHvszpiyO) | 3:08 | 2023-10-25 |  |

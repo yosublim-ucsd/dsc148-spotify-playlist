@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,615 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,709 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 34 | [Funky Business](https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu) | [Fimba](https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM) | [Funky Business](https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj) | 2:53 |
 | 35 | [Ducking](https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys) | [Fadda Fox](https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK) | [Studio B Presents Crop Over Hits 2014](https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt) | 3:53 |
 | 36 | [Shake The Place](https://open.spotify.com/track/6UrcpxooHisuiZHZUa6cwU) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Shake The Place](https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm) | 3:47 |
-| 37 | [Pump Me Up](https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Ultimate Party \- Pump Me Up](https://open.spotify.com/album/5Js10UyFFBh7Zpiw8pWzy3) | 4:45 |
-| 38 | [Big Bad Soca](https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:40 |
+| 37 | [Big Bad Soca](https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:40 |
+| 38 | [Pump Me Up](https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Ultimate Party \- Pump Me Up](https://open.spotify.com/album/5Js10UyFFBh7Zpiw8pWzy3) | 4:45 |
 | 39 | [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 |
 | 40 | [No Apology](https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [No Apology](https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh) | 2:49 |
 | 41 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 48 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 |
 | 49 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 |
 | 50 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
-| 51 | [Run Wid It](https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Run Wid It](https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG) | 3:11 |
-| 52 | [In the Water](https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42) | [Suhrawh](https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL), [Chow Minister](https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM) | [In the Water](https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo) | 2:39 |
+| 51 | [In the Water](https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42) | [Suhrawh](https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL), [Chow Minister](https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM) | [In the Water](https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo) | 2:39 |
+| 52 | [Run Wid It](https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Run Wid It](https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG) | 3:11 |
 | 53 | [A Little Wine](https://open.spotify.com/track/5AH8FUXusa1sUfLzqIRImU) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Spanish Fly Riddim](https://open.spotify.com/album/1DlfMapYkUFtvl1WliOjHH) | 3:23 |
 | 54 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
 | 55 | [Feel The Love](https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC) | [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [YAGO](https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa) | 3:27 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 96 | [Soak It Good](https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Soak It Good](https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD) | 3:02 |
 | 97 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 |
 | 98 | [Instruction 2](https://open.spotify.com/track/7kvWtJnWrqxaIYc8Ydvr38) | [DEEJAY ASAP](https://open.spotify.com/artist/6gS3aG5pHWfSNTNnmgbyvy) | [Instruction 2](https://open.spotify.com/album/0DaEvN8WyTxy74wNvZZFpe) | 1:39 |
-| 99 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
-| 100 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
+| 99 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
+| 100 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
 
 Snapshot ID: `ZrEwDwAAAABbc1zB5E4OPeyPG1m0NgYO`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,046 likes - 150 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,062 likes - 150 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ililigtas \(Rescue Tagalog Version\)](https://open.spotify.com/track/4VcCbvd88cB58Qw551ot0h) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Ililigtas \(Rescue Tagalog Version\)](https://open.spotify.com/album/1EBDxM3YTt3SSxp1rbuFm1) | 3:34 |
 | 2 | [PEACE/PRAISE](https://open.spotify.com/track/7Mub1GDkbVFpLEkcpLm1oU) | [Hope Music PH](https://open.spotify.com/artist/6O01ivbiwFip0rVDBubs3B) | [FILLED](https://open.spotify.com/album/65fSdDoYoDFPhv7LsiMn14) | 3:46 |
-| 3 | [Gather Me](https://open.spotify.com/track/6t0NE3s4YNiuJkzzcBh57j) | [Strive to Be](https://open.spotify.com/artist/66YzHdK0FWCQSKMlXf3Rbj), [ysabelle](https://open.spotify.com/artist/6dNoiei43MgIz6y3h4nyGE) | [Gather Me](https://open.spotify.com/album/13u9mZRogactITzqK22Ka0) | 3:03 |
+| 3 | [Gather Me](https://open.spotify.com/track/6t0NE3s4YNiuJkzzcBh57j) | [Strive to Be](https://open.spotify.com/artist/66YzHdK0FWCQSKMlXf3Rbj), [Luz Ysabelle Cuevas](https://open.spotify.com/artist/716DYIGXnRy6WaUz8DRwIA) | [Gather Me](https://open.spotify.com/album/13u9mZRogactITzqK22Ka0) | 3:03 |
 | 4 | [Hanggang Ngayon, Hanggang Dito](https://open.spotify.com/track/5zrtiQ9t4lPRh8ux3yBHMn) | [Fratres!](https://open.spotify.com/artist/6v366y0jK7nbUnAKIPuR4u), [Santisimo Rosario Parish Youth Choir](https://open.spotify.com/artist/0zLfF1XrH8J4IMt7SLzHGE) | [Hanggang Ngayon, Hanggang Dito](https://open.spotify.com/album/5VpMU6ypFMoxj4l4kQB03s) | 3:58 |
 | 5 | [POV](https://open.spotify.com/track/2LEWufPgDxe96ppAqkduOA) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [POV](https://open.spotify.com/album/62cPhfF3qAn0exXorm7JAr) | 3:27 |
 | 6 | [Come Jesus Come](https://open.spotify.com/track/0HQBjmtfGFzhXHo8UUys1c) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come](https://open.spotify.com/album/2wMZd05naUzrxv71qnYa3G) | 4:58 |

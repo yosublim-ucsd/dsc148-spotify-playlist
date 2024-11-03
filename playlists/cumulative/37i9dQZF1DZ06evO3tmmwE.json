@@ -581,6 +581,28 @@
     },
     {
       "album": {
+        "name": "Lost Files 3",
+        "url": "https://open.spotify.com/album/0DuJj92pP0bfJlw0QzLV4O"
+      },
+      "artists": [
+        {
+          "name": "HOODLUM",
+          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108292,
+      "name": "Made a 10 When I Woke Up",
+      "url": "https://open.spotify.com/track/4N80NeIiuVoKnfyifJVR1q"
+    },
+    {
+      "album": {
         "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
         "url": "https://open.spotify.com/album/4BhYHWaOSkZym58KurOiPI"
       },

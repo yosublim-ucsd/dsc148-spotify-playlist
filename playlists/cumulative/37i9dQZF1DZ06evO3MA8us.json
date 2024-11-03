@@ -1088,6 +1088,32 @@
     {
       "album": {
         "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316843,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe"
+    },
+    {
+      "album": {
+        "name": "He Who Is To Come",
         "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
       },
       "artists": [
@@ -1128,7 +1154,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 390020,
       "name": "He Who Is To Come - Live From Passion 2024",
       "url": "https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf"
@@ -1693,7 +1719,7 @@
     },
     {
       "album": {
-        "name": "Call on Heaven - Live",
+        "name": "Call on Heaven (Live)",
         "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
       },
       "artists": [
@@ -1708,7 +1734,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 374333,
       "name": "No Body - Live From Passion 2024",
       "url": "https://open.spotify.com/track/5aghF7qMGFClp0ZOy58e2K"

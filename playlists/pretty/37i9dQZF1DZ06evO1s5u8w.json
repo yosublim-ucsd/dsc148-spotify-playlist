@@ -1,13 +1,29 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 188127,
+  "num_followers": 188174,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAABKmIFbcH4n8GB9fGGNahgH",
+  "snapshot_id": "ZyQaAAAAAAB4l7I527Iiyk0QRyrNv7Nd",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pulled Up (Alternate Pop Version) [2024 Remaster]",
+        "url": "https://open.spotify.com/album/7fvYtuJtWz8uA9TiObBgws"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "Pulled Up (Alternate Pop Version) - 2024 Remaster",
+      "url": "https://open.spotify.com/track/7pB2095AnGgZXOZfHqdHnT"
+    },
     {
       "added_at": null,
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 177123,
+  "num_followers": 177183,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-05-28 16:28:00",
       "album": {
-        "name": "New Dawn",
-        "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
-      },
-      "artists": [
-        {
-          "name": "David Fedele",
-          "url": "https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk"
-        },
-        {
-          "name": "Antonina Car",
-          "url": "https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ"
-        }
-      ],
-      "duration_ms": 251889,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4"
-    },
-    {
-      "added_at": "2024-05-28 16:28:00",
-      "album": {
         "name": "K\u00e4rlek",
         "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 202105,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+    },
+    {
+      "added_at": "2024-05-28 16:28:00",
+      "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P"
+      },
+      "artists": [
+        {
+          "name": "David Fedele",
+          "url": "https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk"
+        },
+        {
+          "name": "Antonina Car",
+          "url": "https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ"
+        }
+      ],
+      "duration_ms": 251889,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4"
     },
     {
       "added_at": "2024-05-28 16:28:00",

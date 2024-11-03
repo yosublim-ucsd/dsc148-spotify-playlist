@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Süßes sonst gibt's Saures! 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,166 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,171 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 52 | [Süßes oder Saures](https://open.spotify.com/track/0GyexL03XUTTS6ZTvA0yhE) | [Frank und seine Freunde](https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y), [Heaven](https://open.spotify.com/artist/1RK4OMEBHGTo020SOfEeUp) | [Beste Freunde](https://open.spotify.com/album/1lOIwXJTrg3ql9gA886XRn) | 4:34 |
 | 53 | [Hexentanz](https://open.spotify.com/track/1neJ0rILtJuhFx6qFQM14S) | [Kinderchor Canzonetta Berlin](https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R), [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Schau meine Hexe: Die schönsten Hexenlieder](https://open.spotify.com/album/0JEGG0YOqBir077LMClwRp) | 3:03 |
 | 54 | [Drei kleine Hexen](https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T) | [Rainer Wenzel](https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh) | [Au Backe!](https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I) | 2:48 |
-| 55 | [Der Geisterbahnkartenverkäufer](https://open.spotify.com/track/00AslKYgiZV4874OTzIM7V) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH) | [Für Alle!](https://open.spotify.com/album/1qeC46YljMqrPYpc7oFHB4) | 3:23 |
-| 56 | [Halloweenparty im Kinderhaus](https://open.spotify.com/track/1YfNhJPhbmjhYsAfWU580m) | [Bettina Göschl](https://open.spotify.com/artist/2251fylYeBdwEiMHin6jeA), [Ulrich Maske](https://open.spotify.com/artist/1sW5adZ5VrzGmAZMIY0VSG), [Klaus\-Peter Wolf](https://open.spotify.com/artist/4uJ3i5zuKgoTPuz0pSZreo), [Matthias Meyer\-Göllner](https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC) | [Wir tanzen mit den Drachen im Wind \(Lieder, Geschichten und Gedichte zur Herbstzeit\)](https://open.spotify.com/album/1q5GB9X82GVAQTrTYVghkU) | 2:13 |
+| 55 | [Halloweenparty im Kinderhaus](https://open.spotify.com/track/1YfNhJPhbmjhYsAfWU580m) | [Bettina Göschl](https://open.spotify.com/artist/2251fylYeBdwEiMHin6jeA), [Ulrich Maske](https://open.spotify.com/artist/1sW5adZ5VrzGmAZMIY0VSG), [Klaus\-Peter Wolf](https://open.spotify.com/artist/4uJ3i5zuKgoTPuz0pSZreo), [Matthias Meyer\-Göllner](https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC) | [Wir tanzen mit den Drachen im Wind \(Lieder, Geschichten und Gedichte zur Herbstzeit\)](https://open.spotify.com/album/1q5GB9X82GVAQTrTYVghkU) | 2:13 |
+| 56 | [Der Geisterbahnkartenverkäufer](https://open.spotify.com/track/00AslKYgiZV4874OTzIM7V) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH) | [Für Alle!](https://open.spotify.com/album/1qeC46YljMqrPYpc7oFHB4) | 3:23 |
 | 57 | [Die Mumie](https://open.spotify.com/track/7j2XZGP8gc8Yx0JWUwj5vs) | [Randale](https://open.spotify.com/artist/4W5SdFkLM45RQ1cD09LfjN) | [Die Mumie](https://open.spotify.com/album/3ul7iuQaVi85FwdXHAcBBI) | 3:55 |
 | 58 | [Monster sind furchtbar](https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9) | [Lauras Stern](https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD) | [Und die Traummonster \(Das Liederalbum zum Kinofilm\)](https://open.spotify.com/album/5rOYhAMUVFcoQSSRvhzEGe) | 3:28 |
 | 59 | [Klapprige Knochen](https://open.spotify.com/track/7s7HHMpOqIklT2QAS1Kyyc) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Das Kamel tanzt gern Cha Cha Cha](https://open.spotify.com/album/5CR8hZVrX8rTT2L2ZgCAb8) | 2:53 |

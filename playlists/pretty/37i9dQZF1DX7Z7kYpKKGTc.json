@@ -1,6 +1,6 @@
 {
   "description": "The romantic side of classic rock and metal",
-  "num_followers": 794605,
+  "num_followers": 795001,
   "original_name": "Rock Love Songs",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-08-16 04:43:56",
       "album": {
-        "name": "Purple (2019 Remaster)",
-        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Interstate Love Song - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
-    },
-    {
-      "added_at": "2024-08-16 04:43:56",
-      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "added_at": "2024-08-16 04:43:56",
+      "album": {
+        "name": "Purple (2019 Remaster)",
+        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Interstate Love Song - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
     },
     {
       "added_at": "2024-08-16 04:43:56",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-16 04:43:56",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "Waiting for a Girl like You",
-      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
-    },
-    {
-      "added_at": "2024-08-16 04:43:56",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 221053,
       "name": "Little Lies - 2017 Remaster",
       "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
+    },
+    {
+      "added_at": "2024-08-16 04:43:56",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 292066,
+      "name": "Waiting for a Girl like You",
+      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
       "added_at": "2024-08-16 04:43:56",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-16 04:43:56",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
-    },
-    {
-      "added_at": "2024-08-16 04:43:56",
-      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 270080,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
+    },
+    {
+      "added_at": "2024-08-16 04:43:56",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
       "added_at": "2024-08-16 04:43:56",

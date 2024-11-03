@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73570,
+  "num_followers": 73577,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "Better Word - Single Version",
+      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
         "name": "Breakthrough Miracle Power / You Are The Lord",
         "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 352520,
       "name": "Breakthrough Miracle Power",
       "url": "https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "Better Word - Single Version",
-      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
+        "name": "Stained Glass Stories",
+        "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
+      },
+      "artists": [
+        {
+          "name": "Philippa Hanna",
+          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
+        }
+      ],
+      "duration_ms": 261185,
+      "name": "My Hope Is In the Blood",
+      "url": "https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
         "name": "Raise a Hallelujah (Studio Version)",
         "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "Stained Glass Stories",
-        "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
-      },
-      "artists": [
-        {
-          "name": "Philippa Hanna",
-          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
-        }
-      ],
-      "duration_ms": 261185,
-      "name": "My Hope Is In the Blood",
-      "url": "https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
         "name": "The Garden (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CghLAYoxyGmUiZ10FnGPa"
       },
@@ -1715,22 +1715,6 @@
       "duration_ms": 329786,
       "name": "Fall Afresh",
       "url": "https://open.spotify.com/track/3iQdQCjHbi078GjNzsjT2p"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
-        "name": "The Cup Was Not Removed",
-        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
-      },
-      "artists": [
-        {
-          "name": "Justin Tweito",
-          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
-        }
-      ],
-      "duration_ms": 236958,
-      "name": "The Cup Was Not Removed",
-      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1751,6 +1735,22 @@
       "duration_ms": 353015,
       "name": "Long Live The King - Acoustic",
       "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
+        "name": "The Cup Was Not Removed",
+        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
+      },
+      "artists": [
+        {
+          "name": "Justin Tweito",
+          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
+        }
+      ],
+      "duration_ms": 236958,
+      "name": "The Cup Was Not Removed",
+      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
     },
     {
       "added_at": "2024-07-02 01:10:01",
@@ -1823,18 +1823,22 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
-        "name": "This Is Jesus",
-        "url": "https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks"
+        "name": "Long Live The King (Live At The Grove)",
+        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
       "artists": [
         {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
         }
       ],
-      "duration_ms": 317415,
-      "name": "Calvary's Cross",
-      "url": "https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr"
+      "duration_ms": 421616,
+      "name": "Long Live The King - Live At The Grove",
+      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
     }
   ],
   "unique_name": "Easter Worship",

@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 235050,
+  "num_followers": 235121,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Giordano Rosa",
-        "url": "https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni"
-      },
-      "artists": [
-        {
-          "name": "Giordano Rosa",
-          "url": "https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Marinheiro",
-      "url": "https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
         "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 238310,
       "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
       "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Giordano Rosa",
+        "url": "https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni"
+      },
+      "artists": [
+        {
+          "name": "Giordano Rosa",
+          "url": "https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Marinheiro",
+      "url": "https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "After You've Gone",
-        "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 191174,
-      "name": "Blue Bossa",
-      "url": "https://open.spotify.com/track/0rotku7FgElbTKbks8Zof5"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Falando de Amor",
         "url": "https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 256522,
       "name": "Falando de Amor",
       "url": "https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "After You've Gone",
+        "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 191174,
+      "name": "Blue Bossa",
+      "url": "https://open.spotify.com/track/0rotku7FgElbTKbks8Zof5"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Novo Bossa Nova",
-        "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
-      },
-      "artists": [
-        {
-          "name": "Danny Mandalay",
-          "url": "https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl"
-        }
-      ],
-      "duration_ms": 200285,
-      "name": "Escada Infinita",
-      "url": "https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Vaga-Lumes",
         "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 181226,
       "name": "Vaga-Lumes",
       "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Novo Bossa Nova",
+        "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
+      },
+      "artists": [
+        {
+          "name": "Danny Mandalay",
+          "url": "https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl"
+        }
+      ],
+      "duration_ms": 200285,
+      "name": "Escada Infinita",
+      "url": "https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "Samba E Amor",
-      "url": "https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Bim Bom",
         "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 101793,
       "name": "Bim Bom",
       "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "Samba E Amor",
+      "url": "https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "All or Nothing at All",
-        "url": "https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo"
-      },
-      "artists": [
-        {
-          "name": "Billy Sides Trio",
-          "url": "https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn"
-        }
-      ],
-      "duration_ms": 375108,
-      "name": "All or Nothing at All",
-      "url": "https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Saudades de Amanh\u00e3",
         "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 263013,
       "name": "Tanto Tempo",
       "url": "https://open.spotify.com/track/40FEe9WzIJDRurSnen9Vxc"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "All or Nothing at All",
+        "url": "https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo"
+      },
+      "artists": [
+        {
+          "name": "Billy Sides Trio",
+          "url": "https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn"
+        }
+      ],
+      "duration_ms": 375108,
+      "name": "All or Nothing at All",
+      "url": "https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Salom\u00e9",
+        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fonseca",
+          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
+        }
+      ],
+      "duration_ms": 236522,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Feito \u00e0 M\u00e3o",
         "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Salom\u00e9",
-        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fonseca",
-          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
-        }
-      ],
-      "duration_ms": 236522,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Autoral",
         "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
       },
@@ -1395,42 +1395,6 @@
       "duration_ms": 240458,
       "name": "Cris",
       "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "No Jeito",
-        "url": "https://open.spotify.com/album/2s9LJjJJgI3WskTqhu9wx8"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Lessa",
-          "url": "https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG"
-        },
-        {
-          "name": "Celsinho Silva",
-          "url": "https://open.spotify.com/artist/4JdO9dhvvCt7GeaTuta1aR"
-        },
-        {
-          "name": "Edu Neves",
-          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
-        },
-        {
-          "name": "Everson Moraes",
-          "url": "https://open.spotify.com/artist/6HX0YIU3MInb2cWswmGXZW"
-        },
-        {
-          "name": "Lucas Brito",
-          "url": "https://open.spotify.com/artist/1AMghPiVVQlIpgRAC7xqKi"
-        },
-        {
-          "name": "Rog\u00e9rio Souza",
-          "url": "https://open.spotify.com/artist/3VMrYFbtHX3uXrdP1ZuZp1"
-        }
-      ],
-      "duration_ms": 221300,
-      "name": "No Gurufim do Tio Sam",
-      "url": "https://open.spotify.com/track/4GbVxEoS43Q8TfmvLveiuP"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1483,6 +1447,42 @@
       "duration_ms": 209983,
       "name": "Garoto - Ao Vivo",
       "url": "https://open.spotify.com/track/6O2l61ZGgLo2X4jk37L62k"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "No Jeito",
+        "url": "https://open.spotify.com/album/2s9LJjJJgI3WskTqhu9wx8"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Lessa",
+          "url": "https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG"
+        },
+        {
+          "name": "Celsinho Silva",
+          "url": "https://open.spotify.com/artist/4JdO9dhvvCt7GeaTuta1aR"
+        },
+        {
+          "name": "Edu Neves",
+          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
+        },
+        {
+          "name": "Everson Moraes",
+          "url": "https://open.spotify.com/artist/6HX0YIU3MInb2cWswmGXZW"
+        },
+        {
+          "name": "Lucas Brito",
+          "url": "https://open.spotify.com/artist/1AMghPiVVQlIpgRAC7xqKi"
+        },
+        {
+          "name": "Rog\u00e9rio Souza",
+          "url": "https://open.spotify.com/artist/3VMrYFbtHX3uXrdP1ZuZp1"
+        }
+      ],
+      "duration_ms": 221300,
+      "name": "No Gurufim do Tio Sam",
+      "url": "https://open.spotify.com/track/4GbVxEoS43Q8TfmvLveiuP"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1567,6 +1567,30 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "entre o mar e o c\u00e9u",
+        "url": "https://open.spotify.com/album/7ew2ugCeEgiTMEB6spRuzZ"
+      },
+      "artists": [
+        {
+          "name": "Yant\u00f3",
+          "url": "https://open.spotify.com/artist/7AWzwadReIV5rSGll9bIcw"
+        },
+        {
+          "name": "Chic\u00e3o",
+          "url": "https://open.spotify.com/artist/6JnJLHs6aNcGE473u29cXP"
+        },
+        {
+          "name": "Guilherme Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/13DLx8ABOqhcqKuM9lU1QG"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "entre o mar e o c\u00e9u",
+      "url": "https://open.spotify.com/track/2O1OdpqavDnaN8it2x2JuX"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Garra",
         "url": "https://open.spotify.com/album/1CiGUeRx6a1yAvLwB0l3w2"
       },
@@ -1591,30 +1615,6 @@
       "duration_ms": 228781,
       "name": "Garra - Ao vivo",
       "url": "https://open.spotify.com/track/2sc5q8Zd8kpvJ3hAJJmBwG"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "entre o mar e o c\u00e9u",
-        "url": "https://open.spotify.com/album/7ew2ugCeEgiTMEB6spRuzZ"
-      },
-      "artists": [
-        {
-          "name": "Yant\u00f3",
-          "url": "https://open.spotify.com/artist/7AWzwadReIV5rSGll9bIcw"
-        },
-        {
-          "name": "Chic\u00e3o",
-          "url": "https://open.spotify.com/artist/6JnJLHs6aNcGE473u29cXP"
-        },
-        {
-          "name": "Guilherme Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/13DLx8ABOqhcqKuM9lU1QG"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "entre o mar e o c\u00e9u",
-      "url": "https://open.spotify.com/track/2O1OdpqavDnaN8it2x2JuX"
     },
     {
       "added_at": "2024-10-18 03:00:00",

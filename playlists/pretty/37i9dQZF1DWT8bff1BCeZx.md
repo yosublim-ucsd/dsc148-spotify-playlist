@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,458 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,471 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 38 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 |
 | 39 | [Oba Alasepe](https://open.spotify.com/track/5vv4lLVRcJOouMTJ2IKdBz) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Oba Alasepe](https://open.spotify.com/album/7h0BhlNZZUnG78qmDvsSmq) | 4:31 |
 | 40 | [Mo](https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Mo](https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK) | 3:32 |
-| 41 | [C'est DIEU qui donne](https://open.spotify.com/track/4h1rwuKcqyInYs9nnGs8oW) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [C'est DIEU qui donne](https://open.spotify.com/album/10KLqBswvKTGchWdCLjSj3) | 2:57 |
-| 42 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 |
-| 43 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 |
-| 44 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 |
-| 45 | [Holy](https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Miracles](https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3) | 3:19 |
+| 41 | [Holy](https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Miracles](https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3) | 3:19 |
+| 42 | [C'est DIEU qui donne](https://open.spotify.com/track/4h1rwuKcqyInYs9nnGs8oW) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [C'est DIEU qui donne](https://open.spotify.com/album/10KLqBswvKTGchWdCLjSj3) | 2:57 |
+| 43 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 |
+| 44 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 |
+| 45 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 |
 | 46 | [Definitely](https://open.spotify.com/track/6UeeHWPfpgo6wArO2H9KQL) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Definitely](https://open.spotify.com/album/1N3vhfw1XG6hRVvrJsDRYV) | 3:48 |
 | 47 | [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 |
-| 48 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
-| 49 | [God Is](https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [God Is](https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl) | 3:05 |
+| 48 | [God Is](https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [God Is](https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl) | 3:05 |
+| 49 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
 | 50 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 |
 
 Snapshot ID: `ZyQaPAAAAADJpyLpwmOwDclNfFOq1eNK`

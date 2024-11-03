@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,226 likes - 540 songs - 1 day 8 hr 16 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,224 likes - 541 songs - 1 day 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -548,5 +548,6 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 538 | [Breath Hold](https://open.spotify.com/track/4JcyMeWwmvTHBBJNxtFfhp) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Temporary Fiction](https://open.spotify.com/album/1SB9N45PdLVqswBBz1ge4F) | 3:33 |
 | 539 | [Fore to the Come](https://open.spotify.com/track/1M2M9XKJqLBh53vFNZaTJ3) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Temporary Fiction \(Remixes\)](https://open.spotify.com/album/25eWkFEsyo1Rt6DB92oFFt) | 2:21 |
 | 540 | [Elevator Pitch](https://open.spotify.com/track/4x3kyg5Sz92GndMR10bZnA) | [Cole Anyway](https://open.spotify.com/artist/6ctBrunhwPNeeuqu8KG7Bd) | [Elevator Pitch](https://open.spotify.com/album/6dDTt0rf4kqLRZtKNordYT) | 2:22 |
+| 541 | [So Blue](https://open.spotify.com/track/6iA7KvLZqd5O3SqqzTTlH4) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [So Blue](https://open.spotify.com/album/6C1eTB3Tc19mkHlISe1QHo) | 4:31 |
 
-Snapshot ID: `AAALhYuK5UQvIcFvWLwPwNbXVubQAWNB`
+Snapshot ID: `AAALhmShrjK4Chcsl6VKtOWUrxe7DwhZ`

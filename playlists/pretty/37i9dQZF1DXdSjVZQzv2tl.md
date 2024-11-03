@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,750,506 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,751,574 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 32 | [Morar Nesse Motel](https://open.spotify.com/track/5QpcLTQjh0qO7OIuR9q8IR) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Morar Nesse Motel](https://open.spotify.com/album/1i3R2NzmaLZjDDB6txSgqy) | 3:07 |
 | 33 | [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 |
 | 34 | [Morena De Goiânia \- Ao Vivo](https://open.spotify.com/track/1WHDOr19zyyqu6XXIvdgfX) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [062 \(Ao Vivo\)](https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY) | 2:46 |
-| 35 | [Haverá Sinais \- Ao Vivo](https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Haverá Sinais \(Ao Vivo\)](https://open.spotify.com/album/15GThOcgtXImBrv3PmlOm6) | 3:10 |
+| 35 | [Haverá Sinais \- Ao Vivo](https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Haverá Sinais \(Ao Vivo\)](https://open.spotify.com/album/15GThOcgtXImBrv3PmlOm6) | 3:11 |
 | 36 | [Bem Mais Que Eu \(Você Quer Caçar Seu Rumo\) \- Ao Vivo](https://open.spotify.com/track/5cdheFwwvj4mi3oJmTynKA) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Bem Mais Que Eu \(Você Quer Caçar Seu Rumo\) \[Ao Vivo\]](https://open.spotify.com/album/58RDGPq0zXYXqlLlwCf78W) | 2:57 |
 | 37 | [Término Covarde \- Ao Vivo](https://open.spotify.com/track/2DtHi3V76ntRw1RIKgYMfe) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa \(Ao Vivo\)](https://open.spotify.com/album/6HRnBP63zoxLHmmfeovVMX) | 2:33 |
 | 38 | [Quem Tá Fora \- Ao Vivo](https://open.spotify.com/track/0pK0Vd1MCWy7AmsyFfIJb8) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/1FLBaYOIAuCqsCQo9TUR79) | 2:29 |

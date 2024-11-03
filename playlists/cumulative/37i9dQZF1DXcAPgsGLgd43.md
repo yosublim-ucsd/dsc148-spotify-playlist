@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-325 songs - 17 hr 18 min
+326 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Groove Con Clase](https://open.spotify.com/track/7gCDFGLVES145SCNMTSwEv) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Groove Con Clase](https://open.spotify.com/album/00yyKypLfSiHZQsCakCXbz) | 3:02 | 2024-10-11 |  |
 | [Guataqui](https://open.spotify.com/track/1j5ocYQRNSZRoj7L5ekkqn) | [Jimmi Rider](https://open.spotify.com/artist/1cd0IMgYU4aMsi2fSh8jJV) | [Guataqui](https://open.spotify.com/album/6JfaLOnI9Q6K31FoHPADyY) | 2:16 | 2024-03-22 | 2024-10-26 |
 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2023-11-10 | 2023-12-09 |
-| [HAHAHA](https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [bewav](https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM), [Stizi](https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42) | [HAHAHA EP](https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC) | 2:36 | 2024-07-26 |  |
+| [HAHAHA](https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [bewav](https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM), [Stizi](https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42) | [HAHAHA EP](https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC) | 2:36 | 2024-07-26 | 2024-11-03 |
 | [HAVANA](https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s) | [Vince Morgana](https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8), [GLADYS](https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf) | [HAVANA](https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN) | 2:26 | 2024-01-05 | 2024-05-27 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-11-10 |  |
 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 | 2023-11-10 |  |
@@ -180,6 +180,7 @@
 | [La Petronita](https://open.spotify.com/track/5w0OSwh9MmgIipn79aIz3R) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [La Petronita](https://open.spotify.com/album/5DABOax69Bnhi7H89iVM8a) | 3:23 | 2021-10-08 | 2023-09-22 |
 | [La Pista Es Mía \- Rony Seikaly Remix](https://open.spotify.com/track/5JDErC4ioBUoeVdFsslA94) | [Miguelle & Tons](https://open.spotify.com/artist/1U7nDI6jydkqHWaOtUdlkx), [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [La Pista Es Mía](https://open.spotify.com/album/5uuTO37yWyGsXYEF6ZvqHp) | 6:55 | 2024-02-09 | 2024-02-24 |
 | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn) | [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2), [Steve Andreas](https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH) | 2:52 | 2021-10-08 | 2023-11-11 |
+| [La Santa](https://open.spotify.com/track/1JWCzNYRYMbt8m39RVc0Wd) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Onemenor02](https://open.spotify.com/artist/4MTZ8fohTxtA66OPDZHoFj) | [La Santa](https://open.spotify.com/album/5RWwj0Z3WDYmBSvVacIjQA) | 2:29 | 2024-10-25 |  |
 | [La Trumpeta](https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [La Trumpeta](https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd) | 3:20 | 2024-03-08 |  |
 | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 | 2024-06-28 |  |
 | [La Vida](https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [La Vida](https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg) | 3:15 | 2021-10-15 | 2023-11-11 |

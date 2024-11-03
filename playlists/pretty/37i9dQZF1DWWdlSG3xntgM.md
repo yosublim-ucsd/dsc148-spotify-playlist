@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,891 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,899 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 24 | [Tạ từ trong đêm](https://open.spotify.com/track/5zCjoKAQHtJa2ptwGuxj6Y) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn), [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Nhớ Người Yêu \(Valentine Tình Yêu\)](https://open.spotify.com/album/6G6BT8WT2ObEJJ9QTZ5Vh6) | 4:37 |
 | 25 | [Về đâu mái tóc người thương](https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0) | 5:17 |
 | 26 | [Tình Đời](https://open.spotify.com/track/3AapzAOz30pa0xmE9ojPh1) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 1](https://open.spotify.com/album/0KP7JvQacUA8pNIsX9wVFp) | 4:51 |
-| 27 | [Hoa Sứ Nhà Nàng](https://open.spotify.com/track/43APdgwOeZpEpcYTfF72PI) | [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Hoa Sứ Nhà Nàng](https://open.spotify.com/album/0dPjehd82d078PcsNzsUpr) | 4:14 |
-| 28 | [Ai Kho Vi Ai](https://open.spotify.com/track/5T106xgu6e1CovG6dGLpTD) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn) | [Nhac Tuyen 2](https://open.spotify.com/album/4ggb7FWdVhzXhhw9xBg51n) | 4:52 |
+| 27 | [Ai Kho Vi Ai](https://open.spotify.com/track/5T106xgu6e1CovG6dGLpTD) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn) | [Nhac Tuyen 2](https://open.spotify.com/album/4ggb7FWdVhzXhhw9xBg51n) | 4:52 |
+| 28 | [Hoa Sứ Nhà Nàng](https://open.spotify.com/track/43APdgwOeZpEpcYTfF72PI) | [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Hoa Sứ Nhà Nàng](https://open.spotify.com/album/0dPjehd82d078PcsNzsUpr) | 4:14 |
 | 29 | [Tau Dem Nam Cu](https://open.spotify.com/track/5tVuKbPyMauB0YKbJeCGDc) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 4:45 |
 | 30 | [Về lại đồi sim](https://open.spotify.com/track/1t1Up8GAZZ4V2TZx60YMXA) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Tường Nguyên](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK), [Tường Khuê](https://open.spotify.com/artist/52HvRqozRACgI2cS7sMNW0) | [Về Lại Đồi Sim](https://open.spotify.com/album/0sy3wvCtsGgb6aUJg2Wghg) | 5:54 |
 | 31 | [Đắp mộ cuộc tình](https://open.spotify.com/track/1HXh20m8PFMAhKhJFOWm4z) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tạ từ trong đêm](https://open.spotify.com/album/6IBdjS3dP91761rRBuTtCs) | 5:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 45 | [Xin Thời Gian Qua Mau](https://open.spotify.com/track/3nimTYr39MANUqa01DjlKE) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:36 |
 | 46 | [Đêm Tóc Rối](https://open.spotify.com/track/18tM1Iwp0HZpxGJnB6Tk40) | [Khánh Bình](https://open.spotify.com/artist/5pz8kleDDPd1Zf19PZO3JO) | [Đêm Tóc Rối](https://open.spotify.com/album/1UFF5tQTFhLF8ULrxOBFmO) | 4:48 |
 | 47 | [Buc Tam Thu](https://open.spotify.com/track/5FchCbqk8VyiBedLQxzwch) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 3:40 |
-| 48 | [Đêm Tiền Đồn](https://open.spotify.com/track/3L8gdgw9NsBwsVVYxdbATT) | [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Đêm Tiền Đồn](https://open.spotify.com/album/41r121vcZn2s6kcfj5jGzu) | 4:31 |
-| 49 | [Liên khúc một người đi](https://open.spotify.com/track/7BWg96oxD6NXPapc9YPfv1) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Tường Nguyên](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK), [Tường Khuê](https://open.spotify.com/artist/52HvRqozRACgI2cS7sMNW0) | [Về Lại Đồi Sim](https://open.spotify.com/album/0sy3wvCtsGgb6aUJg2Wghg) | 5:51 |
+| 48 | [Liên khúc một người đi](https://open.spotify.com/track/7BWg96oxD6NXPapc9YPfv1) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Tường Nguyên](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK), [Tường Khuê](https://open.spotify.com/artist/52HvRqozRACgI2cS7sMNW0) | [Về Lại Đồi Sim](https://open.spotify.com/album/0sy3wvCtsGgb6aUJg2Wghg) | 5:51 |
+| 49 | [Đêm Tiền Đồn](https://open.spotify.com/track/3L8gdgw9NsBwsVVYxdbATT) | [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Đêm Tiền Đồn](https://open.spotify.com/album/41r121vcZn2s6kcfj5jGzu) | 4:31 |
 | 50 | [Nua Dem Ngoai O](https://open.spotify.com/track/6AESqUrvtPbk25I5ojf5c3) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 5:50 |
 
 Snapshot ID: `ZmF1DgAAAACvXXdFNiVKwdcTCLBkLCl+`

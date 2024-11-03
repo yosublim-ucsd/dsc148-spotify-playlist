@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,045 songs - 11 day 3 hr 6 min
+7,046 songs - 11 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2564,7 +2564,7 @@
 | [Han](https://open.spotify.com/track/4tDbUWAHcHCPW9KEpT6kKb) | [Sawibeatz](https://open.spotify.com/artist/0AD1RbLJZFUruqLENw6wJl) | [Han](https://open.spotify.com/album/3QoBo5ENBusNjnqzKDKbbC) | 2:16 | 2023-04-27 | 2023-07-14 |
 | [Hanami](https://open.spotify.com/track/0MrD7tc3anAiONurFvOpzb) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Hanami](https://open.spotify.com/album/33CPWUnlJriyrAFWNf42KE) | 2:24 | 2024-09-13 |  |
 | [Hanami](https://open.spotify.com/track/2eRKQqNxsbeNjKOL0YAFo5) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Mad Candor](https://open.spotify.com/artist/10JNCqmOIKLYNssXRqfPA3) | [Hanami](https://open.spotify.com/album/6WbcVnsTwNt0fSiblPCCb1) | 1:53 | 2022-05-27 | 2022-09-16 |
-| [hand in hand](https://open.spotify.com/track/2kUifLR2g3YpXJbIpq2tVE) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [hand in hand](https://open.spotify.com/album/2qZ7Nl1iNY7qDosadfG00g) | 1:58 | 2024-07-26 |  |
+| [hand in hand](https://open.spotify.com/track/2kUifLR2g3YpXJbIpq2tVE) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [hand in hand](https://open.spotify.com/album/2qZ7Nl1iNY7qDosadfG00g) | 1:58 | 2024-07-26 | 2024-11-03 |
 | [Hang](https://open.spotify.com/track/4ko84jnHMcEtRcHSBIdg37) | [Zoundhouze](https://open.spotify.com/artist/47Dqp4hyfG0yU4DGnTWdgw), [Labbra\-Lofi](https://open.spotify.com/artist/0iz0wDAmK8xK3MTD4VUatq) | [Hang](https://open.spotify.com/album/59lnOSCxrCpz203LR5dYi9) | 1:48 | 2023-11-24 | 2024-06-20 |
 | [Hang Gliding](https://open.spotify.com/track/77etsIoPriTkNVD1YJHpcD) | [Simen Sez](https://open.spotify.com/artist/2OLVQywxCnwrsPqSgYACuA), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Hang Gliding](https://open.spotify.com/album/6Z3UyDVu1qbUbuuv0CekmL) | 1:58 | 2022-02-14 | 2022-07-22 |
 | [Hang Loose](https://open.spotify.com/track/4jwXx580p2tsO19EywSSlR) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Hang Loose](https://open.spotify.com/album/06zJqgMECLRqz4OEA91B4m) | 1:33 | 2021-12-03 | 2022-06-17 |
@@ -2764,6 +2764,7 @@
 | [Hot Stones](https://open.spotify.com/track/13LZg3VSWy7YWnaBOhPmMo) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/13hvjH0sRnYLVJRAUC1z2z) | 1:45 | 2022-11-11 | 2022-11-25 |
 | [Hot Stones](https://open.spotify.com/track/16rYkrvniJ5h40ajA5bKpI) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/3dG4Xh1b0BIgLUkRfefhJ1) | 1:45 | 2022-12-09 | 2023-10-20 |
 | [Hot Stones](https://open.spotify.com/track/2022877RqBEPVfODofVbbN) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/4BG58BhdX5Rc4xgL1wTzsi) | 1:45 | 2022-11-25 | 2022-12-15 |
+| [Hotaru](https://open.spotify.com/track/6dOgXIJVo4FPXN1dKaVzeS) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Muscot](https://open.spotify.com/album/4SND1sjGy3qhhQYL13UjLI) | 2:37 | 2024-10-25 |  |
 | [Hotel](https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Glazed](https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12) | 2:39 | 2019-05-26\* | 2020-06-12 |
 | [Hotel Alone](https://open.spotify.com/track/7CcQusLaSL89fV4kpYZRGn) | [Anastasia Kai](https://open.spotify.com/artist/67le5cHO1LTvFvZgloqUj2) | [Hotel Alone](https://open.spotify.com/album/14NtO2jCEibHC40do69GG5) | 2:19 | 2024-07-26 |  |
 | [Hour and half](https://open.spotify.com/track/1yqUpfTSds3TONB5xtQM89) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Hour and half](https://open.spotify.com/album/2p6qlepSpCcio8ZD29uyEU) | 1:39 | 2022-05-27 | 2022-09-16 |

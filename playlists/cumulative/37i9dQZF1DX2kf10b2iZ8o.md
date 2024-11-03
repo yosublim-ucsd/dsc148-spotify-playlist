@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-176 songs - 12 hr 54 min
+177 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [STARLIGHT CELEBRATE!](https://open.spotify.com/track/6BcEDkvnAuVpfZGGnaNlTu) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43) | [THE IDOLM@STER SideM ST@RTING LINE\-02 DRAMATIC STARS](https://open.spotify.com/album/0dUz5C62qxJ4wy9Ua0IWSE) | 4:52 | 2022-12-01 |  |
 | [Study Equal Magic!](https://open.spotify.com/track/7KfXfSEQGeABJ1EKxrzcfq) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM ST@RTING LINE\-06 S.E.M](https://open.spotify.com/album/21ZxRoS0gEeQVaxHuIreOH) | 4:16 | 2022-12-01 |  |
 | [Sunset Colors](https://open.spotify.com/track/7ArxB3a8haA7S1TeVVFdaB) | [High×Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ANIMATION PROJECT 06 Sunset Colors](https://open.spotify.com/album/7s4lwo5mLV47Xd2abyT5yK) | 4:05 | 2022-12-01 |  |
-| [Sweep Your Gloom](https://open.spotify.com/track/6bzIrkxN0By1bPzmJ436NQ) | [葛之葉雨彦 \(CV.笠間 淳\)](https://open.spotify.com/artist/3uHxv0xITNuTwTQtEpzbc4) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 3:41 | 2022-12-01 |  |
+| [Sweep Your Gloom](https://open.spotify.com/track/6bzIrkxN0By1bPzmJ436NQ) | [葛之葉雨彦 \(CV.笠間 淳\)](https://open.spotify.com/artist/3uHxv0xITNuTwTQtEpzbc4) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 3:41 | 2022-12-01 | 2024-11-03 |
 | [Sweet Diamant](https://open.spotify.com/track/5lFPTFN5wJ2qnHRG57Mj67) | [東雲荘一郎 \(CV.天﨑滉平\)](https://open.spotify.com/artist/7Fag7eFJZILyzgp3Y7TFn2) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 4:11 | 2023-05-09 | 2023-11-24 |
 | [Swing Your Leaves](https://open.spotify.com/track/2qDNIW4IXccjMFirKurTTU) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 02](https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS) | 3:57 | 2022-12-01 |  |
 | [Symphonic Brave](https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw) | [Legenders](https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:46 | 2022-12-01 | 2024-10-28 |
@@ -130,6 +130,7 @@
 | [VIVA!!ファミリーリズム](https://open.spotify.com/track/1pfERoEBY2qrMaEWFnL89o) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM GROWING SIGN@L 16](https://open.spotify.com/album/7DfG2yYrf0EFW3sNkuNzpr) | 4:33 | 2023-02-10 |  |
 | [VOY@GER \- SideM Ver.](https://open.spotify.com/track/5Tsnl9c09tYPKmFIKEMQne) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [VOY@GER \(SideM盤\)](https://open.spotify.com/album/0mkPu5zgu9SYoC2gysAZ4r) | 5:39 | 2022-12-01 |  |
 | [Watchword](https://open.spotify.com/track/4xVq3DAmhrwyPHVMXLVta4) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM GROWING SIGN@L 16](https://open.spotify.com/album/7DfG2yYrf0EFW3sNkuNzpr) | 4:02 | 2023-02-10 | 2023-12-24 |
+| [Waving FLAGS](https://open.spotify.com/track/7GS772jWbDDxeUCKagYVT8) | [F\-LAGS](https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz) | [THE IDOLM@STER SideM 5th ANNIVERSARY 02](https://open.spotify.com/album/3yx4QjiiV2HWjiP4FjXp3n) | 5:43 | 2024-03-05 |  |
 | [We Are 315!!](https://open.spotify.com/track/0OjzYRTT84oJ13RmxzDGvk) | [EFFY](https://open.spotify.com/artist/5jNbdaPfhmYcIub0YFgUgP) | [THE IDOLM@STER SideM ANIMATION PROJECT 08 Original Soundtrack: GLORIOUS RO@D](https://open.spotify.com/album/5g7hs5KQjp31HFvi9JJQEm) | 4:08 | 2022-12-01 | 2022-12-03 |
 | [We're the one](https://open.spotify.com/track/7k4R6l6iJumiMrKPLKn2cx) | [C.FIRST](https://open.spotify.com/artist/601o8klLY0Bsm1YIbVggfL) | [THE IDOLM@STER SideM GROWING SIGN@L 02 C.FIRST](https://open.spotify.com/album/5OvSepSC3wL0Ok1sBzPNHt) | 3:31 | 2022-12-01 |  |
 | [Welcome to Japan!](https://open.spotify.com/track/5kxccpSCJFJ13zS1HuCAoN) | [Kyoji Takajo \(CV: Yuuichirou Umehara\)](https://open.spotify.com/artist/3hiqvKCC3dOHHXhuHDKwta), [Seiji Shingen \(CV: Takuya Masumoto\)](https://open.spotify.com/artist/3RZbeK7Hh5TckMgu175ftN), [Shiki Iseya \(CV: Sho Nogami\)](https://open.spotify.com/artist/5NEEXLsO1bnUEkOuyEQMtf), [Sora Kitamura \(CV: Fumiyoshi Shioya\)](https://open.spotify.com/artist/6O1CPJg7GuFx2XxkkhCpNI) | [THE IDOLM@STER SideM WORLD TRE@SURE 13](https://open.spotify.com/album/1bWkGmHrcBhNpKk6JLSJMY) | 4:49 | 2022-12-01 | 2022-12-13 |

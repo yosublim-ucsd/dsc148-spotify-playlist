@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! RENEE en portada.",
-  "num_followers": 31668,
+  "num_followers": 31674,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,26 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Mago",
         "url": "https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN"
       },
@@ -295,22 +315,6 @@
       "duration_ms": 214853,
       "name": "Mago",
       "url": "https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "Llamada Perdida",
-        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Llamada Perdida",
-      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -351,22 +355,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "S\u00f3lo Qu\u00e9date En Silencio",
-        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
+        "name": "Llamada Perdida",
+        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
       },
       "artists": [
         {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 235360,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+      "duration_ms": 166333,
+      "name": "Llamada Perdida",
+      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Los de Siempre",
-        "url": "https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP"
-      },
-      "artists": [
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Los de Siempre",
-      "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Los de Siempre",
+        "url": "https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Los de Siempre",
+      "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "LOKADEM\u00c1S",
-        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
-      },
-      "artists": [
-        {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
-        }
-      ],
-      "duration_ms": 193412,
-      "name": "LOKADEM\u00c1S",
-      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Ah\u00ed Est\u00e1s",
         "url": "https://open.spotify.com/album/5F8l7jRSbB4C0AASTG4A9h"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 196190,
       "name": "Ah\u00ed Est\u00e1s",
       "url": "https://open.spotify.com/track/4YOiOj1ieSsH8R29fWWf8Y"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "LOKADEM\u00c1S",
+        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "duration_ms": 193412,
+      "name": "LOKADEM\u00c1S",
+      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "EL PEOR",
-        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "EL PEOR",
-      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Narvarte",
         "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 193906,
       "name": "Prometimos",
       "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "EL PEOR",
+        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "EL PEOR",
+      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Pensamientos Intrusivos",
         "url": "https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 237324,
       "name": "Secuaz - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -939,6 +939,22 @@
       "duration_ms": 192815,
       "name": "ZEPPELIN",
       "url": "https://open.spotify.com/track/0P3bHdCDEADNVs1pftBVee"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Elemento Noches De Sal\u00f3n",
+        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 223990,
+      "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Elemento Noches De Sal\u00f3n",
-        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 223990,
-      "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
-      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Perder",
         "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
       },
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "sin nada",
+        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 154514,
+      "name": "sin nada",
+      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Todo Regresa",
         "url": "https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "sin nada",
-        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
       },
       "artists": [
         {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 154514,
-      "name": "sin nada",
-      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
+      "duration_ms": 193360,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 200853,
       "name": "Si Quieres Honestidad (Ni En Visto Me Dejaste...)",
       "url": "https://open.spotify.com/track/6aDqixiGaqoxD4XibLphOQ"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "IRENE ALEJANDRA",
-        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/1OjVXhmpVqU9331Lqmq3of"
       },
       "artists": [
         {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
         }
       ],
-      "duration_ms": 217096,
-      "name": "Te Am\u00e9 Temprano",
-      "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
+      "duration_ms": 201213,
+      "name": "Nueva Inglaterra",
+      "url": "https://open.spotify.com/track/0bej3tCSLcs4CQXPKuJwG8"
     }
   ],
   "unique_name": "Pop Rock Latino",

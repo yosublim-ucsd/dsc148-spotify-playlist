@@ -2023,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "Nobody's Gonna Know (with Joe Bonamassa)",
+        "url": "https://open.spotify.com/album/6P8QeDSN5mFE2EHjdN0Ha1"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282617,
+      "name": "Nobody's Gonna Know - with Joe Bonamassa",
+      "url": "https://open.spotify.com/track/4p3Mja5AXrCEh9FWKHjPNm"
+    },
+    {
+      "album": {
         "name": "Time Clocks",
         "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
       },

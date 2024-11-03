@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1620226,
+  "num_followers": 1620539,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Empty Streets (Remixes)",
-        "url": "https://open.spotify.com/album/1qcfizKVZbdpi61ZSJglyu"
-      },
-      "artists": [
-        {
-          "name": "Late Night Alumni",
-          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
-        },
-        {
-          "name": "Haji & Emanuel",
-          "url": "https://open.spotify.com/artist/4clskYgdo0Nxm7DSfFwo78"
-        }
-      ],
-      "duration_ms": 501213,
-      "name": "Empty Streets - Haji & Emanuel Remix",
-      "url": "https://open.spotify.com/track/12lTG2CsivVTCJH21qgkVz"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 211533,
       "name": "Together - Radio Edit",
       "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Empty Streets (Remixes)",
+        "url": "https://open.spotify.com/album/1qcfizKVZbdpi61ZSJglyu"
+      },
+      "artists": [
+        {
+          "name": "Late Night Alumni",
+          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
+        },
+        {
+          "name": "Haji & Emanuel",
+          "url": "https://open.spotify.com/artist/4clskYgdo0Nxm7DSfFwo78"
+        }
+      ],
+      "duration_ms": 501213,
+      "name": "Empty Streets - Haji & Emanuel Remix",
+      "url": "https://open.spotify.com/track/12lTG2CsivVTCJH21qgkVz"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Star 69",
+        "url": "https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 371493,
+      "name": "Star 69 - Timo Maas Mix",
+      "url": "https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Star 69",
-        "url": "https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 371493,
-      "name": "Star 69 - Timo Maas Mix",
-      "url": "https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Heartbroken",
-        "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
-      },
-      "artists": [
-        {
-          "name": "T2",
-          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Heartbroken - Edit",
-      "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Exploration of Space",
         "url": "https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 216360,
       "name": "Exploration of Space - Radio Edit",
       "url": "https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Heartbroken",
+        "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
+      },
+      "artists": [
+        {
+          "name": "T2",
+          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Heartbroken - Edit",
+      "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1595,6 +1595,26 @@
       "duration_ms": 281516,
       "name": "Day 'N' Night - Club Mix",
       "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "The Longest Road",
+        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
+      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1631,6 +1651,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
         "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
@@ -1647,42 +1683,6 @@
       "duration_ms": 189388,
       "name": "Believer (feat. Wynter Gordon) - Radio Edit",
       "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "The Longest Road",
-        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
-      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1715,6 +1715,22 @@
       "duration_ms": 393333,
       "name": "Put Your Hands Up for Detroit - MC Mario Edit",
       "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "It's Too Late",
+        "url": "https://open.spotify.com/album/03x9MmSvyUhbnbphq2noVU"
+      },
+      "artists": [
+        {
+          "name": "Evermore Vs. Dirty South",
+          "url": "https://open.spotify.com/artist/5dvsqxFSksFVu3B08g1lNd"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "It's Too Late - Dirty South",
+      "url": "https://open.spotify.com/track/6GbAqnbj3diM6MvVc1oiKt"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1755,6 +1771,50 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Elements of Life",
+        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 420546,
+      "name": "Everything (feat. JES)",
+      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/3Lh1osrbEC5fPycPBhoVO1"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Ned Shephard",
+          "url": "https://open.spotify.com/artist/7JgG0M8DYJUL02qyIwVkEr"
+        },
+        {
+          "name": "Sultan",
+          "url": "https://open.spotify.com/artist/14OWrFlSp0Wj5RBuk4hC3b"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
+      "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Back 2 House",
         "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
       },
@@ -1767,38 +1827,6 @@
       "duration_ms": 211853,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "It's Too Late",
-        "url": "https://open.spotify.com/album/03x9MmSvyUhbnbphq2noVU"
-      },
-      "artists": [
-        {
-          "name": "Evermore Vs. Dirty South",
-          "url": "https://open.spotify.com/artist/5dvsqxFSksFVu3B08g1lNd"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "It's Too Late - Dirty South",
-      "url": "https://open.spotify.com/track/6GbAqnbj3diM6MvVc1oiKt"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1903,30 +1931,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/3Lh1osrbEC5fPycPBhoVO1"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Ned Shephard",
-          "url": "https://open.spotify.com/artist/7JgG0M8DYJUL02qyIwVkEr"
-        },
-        {
-          "name": "Sultan",
-          "url": "https://open.spotify.com/artist/14OWrFlSp0Wj5RBuk4hC3b"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
-      "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Deep Inside (2009 Mixes)",
         "url": "https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI"
       },
@@ -1943,22 +1947,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Elements of Life",
-        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
       "artists": [
         {
           "name": "Ti\u00ebsto",
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
         }
       ],
-      "duration_ms": 420546,
-      "name": "Everything (feat. JES)",
-      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
     },
     {
       "added_at": "2024-07-12 15:40:20",

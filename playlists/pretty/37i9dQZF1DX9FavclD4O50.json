@@ -1,6 +1,6 @@
 {
   "description": "Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument. Clara Rockmore on cover.",
-  "num_followers": 4190,
+  "num_followers": 4192,
   "original_name": "theremin",
   "owner": {
     "name": "Spotify",
@@ -403,46 +403,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "14 Songs, Op. 34, No. 14. Vocalise: 14 Songs, Op. 34: No. 14, Vocalise (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv"
-    },
-    {
-      "added_at": "2024-01-03 19:32:35",
-      "album": {
-        "name": "The Electrical Life of Louis Wain (Original Motional Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH"
-      },
-      "artists": [
-        {
-          "name": "Arthur Sharpe",
-          "url": "https://open.spotify.com/artist/00vWlRywZkruZCVSSLhz6H"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "Precious Weeks",
-      "url": "https://open.spotify.com/track/3CXOQPeLHu4teBqbV6dLnx"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "touch! don touch! music for theremin",
         "url": "https://open.spotify.com/album/5PK2qYVj42440Mlb2aYNZH"
       },
@@ -467,6 +427,46 @@
       "duration_ms": 525280,
       "name": "Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster (From Outer Space)",
       "url": "https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ"
+    },
+    {
+      "added_at": "2024-01-03 19:32:35",
+      "album": {
+        "name": "The Electrical Life of Louis Wain (Original Motional Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH"
+      },
+      "artists": [
+        {
+          "name": "Arthur Sharpe",
+          "url": "https://open.spotify.com/artist/00vWlRywZkruZCVSSLhz6H"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "Precious Weeks",
+      "url": "https://open.spotify.com/track/3CXOQPeLHu4teBqbV6dLnx"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "14 Songs, Op. 34, No. 14. Vocalise: 14 Songs, Op. 34: No. 14, Vocalise (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -531,18 +531,22 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Theremin Ameriqu\u00e9: The American Songbook",
-        "url": "https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY"
+        "name": "Theremin Classique",
+        "url": "https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY"
       },
       "artists": [
         {
           "name": "Armen Ra",
           "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
+        },
+        {
+          "name": "Benjamin Marcantoni",
+          "url": "https://open.spotify.com/artist/2i9Gox5Dsz0I4vA8AoTO7F"
         }
       ],
-      "duration_ms": 163480,
-      "name": "Somewhere over the Rainbow",
-      "url": "https://open.spotify.com/track/5TFRWQT4v6LVQluDYoIcpe"
+      "duration_ms": 279010,
+      "name": "Dido's Lament (feat. Benjamin Marcantoni)",
+      "url": "https://open.spotify.com/track/22UH0gMZth71gKQYFhbzKm"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -568,34 +572,6 @@
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Erick Friedman",
-          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 297040,
-      "name": "O Cease Thy Singing, Maiden Fair, Op. 4: No. 4",
-      "url": "https://open.spotify.com/track/5rnadrQ6ud2mfwonOcC2s6"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Music In and On The Air",
-        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
-      },
-      "artists": [
-        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         },
@@ -607,6 +583,30 @@
       "duration_ms": 476933,
       "name": "Bachianas Brasileiras: No. 5, Aria",
       "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "The Listening Room Ensemble",
+          "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
+      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
     },
     {
       "added_at": "2022-01-11 03:14:58",
@@ -643,22 +643,46 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Theremin Classique",
-        "url": "https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY"
+        "name": "Theremin Ameriqu\u00e9: The American Songbook",
+        "url": "https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY"
       },
       "artists": [
         {
           "name": "Armen Ra",
           "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
-        },
-        {
-          "name": "Benjamin Marcantoni",
-          "url": "https://open.spotify.com/artist/2i9Gox5Dsz0I4vA8AoTO7F"
         }
       ],
-      "duration_ms": 279010,
-      "name": "Dido's Lament (feat. Benjamin Marcantoni)",
-      "url": "https://open.spotify.com/track/22UH0gMZth71gKQYFhbzKm"
+      "duration_ms": 163480,
+      "name": "Somewhere over the Rainbow",
+      "url": "https://open.spotify.com/track/5TFRWQT4v6LVQluDYoIcpe"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Erick Friedman",
+          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 297040,
+      "name": "O Cease Thy Singing, Maiden Fair, Op. 4: No. 4",
+      "url": "https://open.spotify.com/track/5rnadrQ6ud2mfwonOcC2s6"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -688,33 +712,21 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "The Listening Room Ensemble",
-          "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
+          "name": "Erick Friedman",
+          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
-      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Theremonial (Dark & Exotic Theremin Music)",
-        "url": "https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7"
-      },
-      "artists": [
+        },
         {
-          "name": "Javier D\u00edez Ena & His Theremins",
-          "url": "https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM"
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Luna Hiena",
-      "url": "https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke"
+      "duration_ms": 514733,
+      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
+      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -739,22 +751,18 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Music from the Ether: Original Works for Theremin",
-        "url": "https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE"
+        "name": "Theremonial (Dark & Exotic Theremin Music)",
+        "url": "https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7"
       },
       "artists": [
         {
-          "name": "Vladimir Komarov",
-          "url": "https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ"
-        },
-        {
-          "name": "Lydia Kavina",
-          "url": "https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv"
+          "name": "Javier D\u00edez Ena & His Theremins",
+          "url": "https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM"
         }
       ],
-      "duration_ms": 527173,
-      "name": "Voice of Theremin",
-      "url": "https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49"
+      "duration_ms": 164440,
+      "name": "Luna Hiena",
+      "url": "https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -771,6 +779,26 @@
       "duration_ms": 168386,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4UyTsJd4FAAbrsA8qQ6apq"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Music from the Ether: Original Works for Theremin",
+        "url": "https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE"
+      },
+      "artists": [
+        {
+          "name": "Vladimir Komarov",
+          "url": "https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ"
+        },
+        {
+          "name": "Lydia Kavina",
+          "url": "https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv"
+        }
+      ],
+      "duration_ms": 527173,
+      "name": "Voice of Theremin",
+      "url": "https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -827,22 +855,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Theremonial (Dark & Exotic Theremin Music)",
-        "url": "https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7"
-      },
-      "artists": [
-        {
-          "name": "Javier D\u00edez Ena & His Theremins",
-          "url": "https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM"
-        }
-      ],
-      "duration_ms": 187617,
-      "name": "Berlin Ghost Opera",
-      "url": "https://open.spotify.com/track/707014S3juTp8VeyuI5t2C"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "Plays the Theremin",
         "url": "https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq"
       },
@@ -859,30 +871,18 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Music In and On The Air",
-        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+        "name": "Theremonial (Dark & Exotic Theremin Music)",
+        "url": "https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Erick Friedman",
-          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+          "name": "Javier D\u00edez Ena & His Theremins",
+          "url": "https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM"
         }
       ],
-      "duration_ms": 514733,
-      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
-      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
+      "duration_ms": 187617,
+      "name": "Berlin Ghost Opera",
+      "url": "https://open.spotify.com/track/707014S3juTp8VeyuI5t2C"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -967,6 +967,30 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
+        "name": "Clara Rockmore's Lost Theremin Album",
+        "url": "https://open.spotify.com/album/7FUnGjGbZPbAPAr5DhkalS"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 335266,
+      "name": "Celebrated Air",
+      "url": "https://open.spotify.com/track/7gGiE9UeVzdyWBG27wBkHq"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
         "name": "Around the World in 80 Days",
         "url": "https://open.spotify.com/album/0FcE5hJVgG3PxtihdCMKz1"
       },
@@ -979,34 +1003,6 @@
       "duration_ms": 213515,
       "name": "Once Upon a Time in the West",
       "url": "https://open.spotify.com/track/6G7gbxHidYJCgWg2mxDU8j"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Spellbound!: Theremin Works by Grainger, Neuwirth, Rosza & Others",
-        "url": "https://open.spotify.com/album/4QE9aHkHkFJwxPnTywwHKp"
-      },
-      "artists": [
-        {
-          "name": "Mikl\u00f3s R\u00f3zsa",
-          "url": "https://open.spotify.com/artist/3ulUkIj0owxd4Qedpfock2"
-        },
-        {
-          "name": "Lydia Kavina",
-          "url": "https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv"
-        },
-        {
-          "name": "Ensemble Sospeso",
-          "url": "https://open.spotify.com/artist/0EGphcdhaoNI9gvvT2sSLj"
-        },
-        {
-          "name": "Charles Peltz",
-          "url": "https://open.spotify.com/artist/3ykGBbDiOkMTfkYQs97sph"
-        }
-      ],
-      "duration_ms": 362333,
-      "name": "Spellbound Concerto (Arr. for Theremin & Orchestra)",
-      "url": "https://open.spotify.com/track/5xnZTh1sJjvZsbgx6EJH60"
     },
     {
       "added_at": "2021-08-17 02:35:20",

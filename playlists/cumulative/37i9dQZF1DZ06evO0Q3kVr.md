@@ -4,13 +4,14 @@
 
 > This is Banda Bostik\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 45 min
+66 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mi Padre](https://open.spotify.com/track/1udEfRVDwNqLir9Do9trm9) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 6:47 | 2023-01-14 |  |
 | [Abran Esa Puerta](https://open.spotify.com/track/1pRirlWDnqahmM4ankMzLn) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 5:11 | 2023-01-14 |  |
 | [Al Diablo Con Mi Suerte](https://open.spotify.com/track/0PHlq00lqPvLUQYpedHFsv) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 3:47 | 2023-01-14 |  |
+| [Angeles de la Ciudad](https://open.spotify.com/track/4uZc9Vu1JQ5FAKCDu7OdXF) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 3:28 | 2024-11-03 |  |
 | [Así Está Bien](https://open.spotify.com/track/34h5DWjlO3AoBIAyehencQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Rolitas de Amor, Vol\. 2](https://open.spotify.com/album/7HZJJvCk1dP3YSAoLioVW4) | 5:25 | 2023-01-14 |  |
 | [Ave Nocturna](https://open.spotify.com/track/7ebnVkj8vrXaPD51rSw0ia) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 5:40 | 2023-01-14 |  |
 | [Blue Suede Shoes](https://open.spotify.com/track/73jOGdULRXfR02W41tyP9u) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 2:36 | 2024-02-10 | 2024-09-24 |
@@ -51,13 +52,14 @@
 | [Pandillero](https://open.spotify.com/track/5fY3UnVKUqlYFJiOkQwwld) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En Pie de Guerra](https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD) | 3:53 | 2023-01-14 |  |
 | [Pandillero, Pt\. 1](https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:56 | 2023-01-14 |  |
 | [Pandillero, Pt\. 2](https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:33 | 2023-01-14 |  |
-| [Perdido](https://open.spotify.com/track/6GMV9bpJWQPVdecv7AWhyY) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:50 | 2023-01-14 |  |
+| [Perdido](https://open.spotify.com/track/6GMV9bpJWQPVdecv7AWhyY) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:50 | 2023-01-14 | 2024-11-03 |
 | [Perra Callejera](https://open.spotify.com/track/7C7wEPaOqPOI1ki0UUv6y9) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 2:21 | 2023-05-08 | 2023-12-14 |
 | [Presentación](https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 2:09 | 2023-01-14 |  |
 | [Profugo](https://open.spotify.com/track/5sCTUepkCI6CsuyaGwEHwJ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 3:34 | 2023-10-04 |  |
 | [Que Fácil](https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 4:47 | 2023-01-23 |  |
 | [Rateros Con Placas](https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 3:33 | 2023-01-14 |  |
 | [Reclusorio Barrientos](https://open.spotify.com/track/1hZXjj7WMINIutzRkvh7wd) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 5:08 | 2023-01-14 |  |
+| [Redada](https://open.spotify.com/track/6BC5eHAX6hHj30m64RktQD) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En Pie de Guerra](https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD) | 3:20 | 2024-11-03 |  |
 | [Redada](https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 3:21 | 2023-01-14 |  |
 | [Reflexiones](https://open.spotify.com/track/59ggezzKDAY8RBcUDn5AcP) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 5:46 | 2023-01-14 | 2024-09-27 |
 | [Rolando Pacheco Mota del Campo](https://open.spotify.com/track/0RJSZkue7LVhz5RI13CFj1) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Hipotecados](https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs) | 4:22 | 2023-01-15 | 2023-02-11 |
@@ -71,6 +73,6 @@
 | [¡Ah! Eres Tu!](https://open.spotify.com/track/4fD4QJ0P8FNuDQNOjQn2wB) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En Pie de Guerra](https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD) | 2:54 | 2023-01-14 |  |
 | [¿Por Qué?](https://open.spotify.com/track/14MVUODB4PCoJlnkcAo0PG) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 4:56 | 2023-01-14 |  |
 | [Ángel o Demonio](https://open.spotify.com/track/0rPZ2vSzmtDdRdcGXQ2Xt6) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 5:45 | 2023-01-14 | 2024-02-08 |
-| [Ángeles de la Ciudad](https://open.spotify.com/track/6JkK65mfQxvlgtzRRi7i9L) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En Pie de Guerra](https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD) | 3:27 | 2023-01-14 |  |
+| [Ángeles de la Ciudad](https://open.spotify.com/track/6JkK65mfQxvlgtzRRi7i9L) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En Pie de Guerra](https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD) | 3:27 | 2023-01-14 | 2024-11-03 |
 
 \*This playlist was first scraped on 2023-01-14. Prior content cannot be recovered.

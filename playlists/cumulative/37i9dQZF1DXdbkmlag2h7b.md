@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-196 songs - 10 hr 11 min
+197 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 | 2021-12-09 | 2023-10-06 |
 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 | 2021-12-09 |  |
 | [Luna](https://open.spotify.com/track/4WukGsbJZHciloJygVdG63) | [Nicoló Lorenzo](https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt) | [Tranquillo](https://open.spotify.com/album/6Ii8nqRSP1GXwaYx2Zl1sQ) | 2:11 | 2024-01-31 | 2024-07-24 |
+| [Lustrous](https://open.spotify.com/track/76fvWeCGNWOpvnRxwaB0rw) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Lustrous](https://open.spotify.com/album/1G6Xs1b0DXim2OmfamJTAh) | 3:01 | 2024-09-19 |  |
 | [Maitri Lake \(432hz\)](https://open.spotify.com/track/5dXCkj7h7B1Hg4MwTHcixd) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Maitri Lake \(432hz\)](https://open.spotify.com/album/71rEntjg6kz31bN6xUrAHe) | 3:43 | 2021-12-09 | 2022-08-18 |
 | [Masandra Turnings](https://open.spotify.com/track/24QVOrVKmWaFGcWKX9zoyI) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Masandra Turnings](https://open.spotify.com/album/4qgEEqId4Jt9s8keIpKv26) | 2:46 | 2021-12-09 | 2022-10-08 |
 | [Meditations](https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 4:27 | 2021-12-09 |  |
@@ -122,7 +123,7 @@
 | [Myriads](https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Myriads](https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr) | 2:55 | 2021-12-09 |  |
 | [Mysterium](https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Mysterium](https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT) | 2:47 | 2021-12-09 |  |
 | [Nebulae](https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc) | [Bayesian](https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8) | [Nebulae](https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz) | 2:42 | 2023-08-04 |  |
-| [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 | 2021-12-09 |  |
+| [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 | 2021-12-09 | 2024-11-03 |
 | [Nightfall](https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK) | [Night Songs](https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF) | [Nightfall](https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS) | 3:01 | 2024-01-31 |  |
 | [Niveous](https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Niveous](https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF) | 2:48 | 2024-06-10 |  |
 | [Notes On Leave Taking](https://open.spotify.com/track/7t7nxvsTW4bUSkLifauz2i) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Selah](https://open.spotify.com/album/3ucN43N5AB3IhIAOiX3MWI) | 3:45 | 2021-12-09 | 2023-02-01 |

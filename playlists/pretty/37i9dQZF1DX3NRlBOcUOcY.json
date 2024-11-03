@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 442806,
+  "num_followers": 442810,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 202551,
-      "name": "DESQUITE",
-      "url": "https://open.spotify.com/track/7cE3UA7lv4e11ke0Cti5QV"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
         "name": "Traductor",
         "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 202551,
+      "name": "DESQUITE",
+      "url": "https://open.spotify.com/track/7cE3UA7lv4e11ke0Cti5QV"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
+        "name": "NO MIENTEN",
+        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 147395,
+      "name": "NO MIENTEN",
+      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
         "name": "Pi\u00f1a Colada",
         "url": "https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 189375,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
-        "name": "NO MIENTEN",
-        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 147395,
-      "name": "NO MIENTEN",
-      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
-        "name": "EL VIBE",
-        "url": "https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8"
-      },
-      "artists": [
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 171552,
-      "name": "EL VIBE",
-      "url": "https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
         "name": "BlessDeluxury",
         "url": "https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 181272,
       "name": "DIFERENTE",
       "url": "https://open.spotify.com/track/0zjlDOMaan6IH87OFaosuZ"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
+        "name": "EL VIBE",
+        "url": "https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8"
+      },
+      "artists": [
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 171552,
+      "name": "EL VIBE",
+      "url": "https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -2183,6 +2183,26 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205210,
+      "name": "Fino",
+      "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
         "name": "Churel",
         "url": "https://open.spotify.com/album/6IwqXUkQ1JGEeNPggY4YrM"
       },
@@ -2215,26 +2235,6 @@
       "duration_ms": 267208,
       "name": "Churel",
       "url": "https://open.spotify.com/track/5pDCNbulDO4mr8mfWCw97D"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205210,
-      "name": "Fino",
-      "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
     },
     {
       "added_at": "2024-10-21 20:52:03",

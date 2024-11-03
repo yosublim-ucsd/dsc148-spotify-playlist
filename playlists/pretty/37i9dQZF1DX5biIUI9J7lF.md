@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > Opted out of strife
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,236 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,271 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 17 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |
 | 18 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 |
 | 19 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 |
-| 20 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
+| 20 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
 | 21 | [Runaway](https://open.spotify.com/track/6qasdxubSovCYbbZB4Xvk4) | [Teddy krane](https://open.spotify.com/artist/22Qjyplj5Bih1Q4jpU0Ina) | [Runaway](https://open.spotify.com/album/5u64ACTBKtzq7GhvrrOgvL) | 2:55 |
 | 22 | [Selina](https://open.spotify.com/track/5j2l0QtlJv0TwuN61qkPGu) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR), [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT) | [Selina](https://open.spotify.com/album/5S2Qj2DHTWjyi8sNAKv650) | 2:58 |
 | 23 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 |

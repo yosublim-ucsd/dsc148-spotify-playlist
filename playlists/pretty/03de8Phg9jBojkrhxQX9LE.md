@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,944 likes - 159 songs - 8 hr 35 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,960 likes - 159 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 125 | [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 |
 | 126 | [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 |
 | 127 | [Ultra](https://open.spotify.com/track/6TIA5ZatZiia8215uOPclf) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [VARI](https://open.spotify.com/artist/3cWBRCln1EAqNqI7E0wMlA) | [Ultra](https://open.spotify.com/album/28RsRYQ1rnryxiV4EaYAMq) | 3:15 |
-| 128 | [9 of 10](https://open.spotify.com/track/7jhmkPcFBDoC3svHnfTkEH) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF), [Kendo](https://open.spotify.com/artist/2rTqhyJsi7l2q4c2HAs4VY) | [What Is Life](https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU) | 4:27 |
+| 128 | [9 of 10](https://open.spotify.com/track/7jhmkPcFBDoC3svHnfTkEH) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [What Is Life](https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU) | 4:27 |
 | 129 | [Save Me](https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Save Me](https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj) | 2:44 |
 | 130 | [Sex Sells](https://open.spotify.com/track/3RfxKkaMLWzKC5fE7jHSGs) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sex Sells](https://open.spotify.com/album/2bTwF2WMPq7DjK8aoC9ZSQ) | 2:33 |
 | 131 | [Nobody Move](https://open.spotify.com/track/6XJrKK8dGsDMVNEvIUQETc) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Nobody Move](https://open.spotify.com/album/1kG5dBKvNpcInFOFth4MO5) | 2:01 |

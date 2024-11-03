@@ -4,7 +4,7 @@
 
 > Silky sounds for the sheets.
 
-239 songs - 13 hr 41 min
+240 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 | 2022-10-21 |  |
 | [Don’t Make Me Wait](https://open.spotify.com/track/31UPS6TZYhhNFnTlie5gpB) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:52 | 2022-10-03 |  |
 | [Dream](https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:10 | 2022-10-03 |  |
+| [Drip](https://open.spotify.com/track/4YErgbuMlB7CHvYBOQCnwk) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Baby Making](https://open.spotify.com/album/5yZgCTs4MTwv8QENvP8s2G) | 4:23 | 2024-11-01 |  |
 | [Earned It \(Fifty Shades Of Grey\)](https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:37 | 2022-10-03 |  |
 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 | 2023-02-12 |  |
 | [everybody knows](https://open.spotify.com/track/22oZClHIaftOvNr3DRQwAQ) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/1w28XzCMMbzWyL5K6bUwPX) | 3:22 | 2021-08-13 | 2022-07-27 |
@@ -194,7 +195,7 @@
 | [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2021-08-13 | 2022-10-04 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2022-03-25 | 2024-04-19 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-02-04 | 2023-02-13 |
-| [SLO MO](https://open.spotify.com/track/3FYaHKp86M6wx5OnnqU4PO) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOR THE BOY IN ME](https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3) | 4:07 | 2024-09-27 |  |
+| [SLO MO](https://open.spotify.com/track/3FYaHKp86M6wx5OnnqU4PO) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOR THE BOY IN ME](https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3) | 4:07 | 2024-09-27 | 2024-11-03 |
 | [Slow Down](https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Slow Down](https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl) | 3:48 | 2021-08-13 | 2022-10-04 |
 | [Slowly](https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [PALISADE](https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r) | 2:48 | 2022-12-02 | 2023-04-10 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-02-02 |  |

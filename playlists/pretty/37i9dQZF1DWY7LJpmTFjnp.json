@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Pante\u00f3n Rococ\u00f3 en portada. ",
-  "num_followers": 1001283,
+  "num_followers": 1001328,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-10-25 16:53:42",
       "album": {
-        "name": "Tenochtitl\u00e1n",
-        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Tenochtitl\u00e1n",
-      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
-    },
-    {
-      "added_at": "2024-10-25 16:53:42",
-      "album": {
         "name": "El Negro",
         "url": "https://open.spotify.com/album/6q9iams2yWgUlFo4hG2gO3"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 269149,
       "name": "El Negro",
       "url": "https://open.spotify.com/track/09FGzfEnIn0BY009Ni7tzN"
+    },
+    {
+      "added_at": "2024-10-25 16:53:42",
+      "album": {
+        "name": "Tenochtitl\u00e1n",
+        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Tenochtitl\u00e1n",
+      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
     },
     {
       "added_at": "2024-10-25 16:53:42",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-10-25 16:53:42",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
-    },
-    {
-      "added_at": "2024-10-25 16:53:42",
-      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 248371,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
+    },
+    {
+      "added_at": "2024-10-25 16:53:42",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
     },
     {
       "added_at": "2024-10-25 16:53:42",

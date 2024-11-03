@@ -1,12 +1,12 @@
 {
   "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
-  "num_followers": 684,
+  "num_followers": 686,
   "original_name": "This Is Pauline Oliveros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAADop42Qj5WS90Jul/M5V5P+",
+  "snapshot_id": "ZyQaAAAAAAD5yixjUs5B2mCd2Xc/tw04",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Music for Electronic and Recorded Media: Women In Electronic Music - 1977",
+        "url": "https://open.spotify.com/album/45IBJV76uqLXXsm9SMAFzO"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 489133,
+      "name": "Bye Bye Butterfly",
+      "url": "https://open.spotify.com/track/3sqvayIhGIvWcYG6G1pf8m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cicada Dream Band",
         "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
       },
@@ -199,38 +215,6 @@
       "duration_ms": 245384,
       "name": "Several More Happened",
       "url": "https://open.spotify.com/track/14KI3MCgh7scFAQkA5aNBW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Music for Electronic and Recorded Media: Women In Electronic Music - 1977",
-        "url": "https://open.spotify.com/album/45IBJV76uqLXXsm9SMAFzO"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 489133,
-      "name": "Bye Bye Butterfly",
-      "url": "https://open.spotify.com/track/3sqvayIhGIvWcYG6G1pf8m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ghostdance",
-        "url": "https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 223960,
-      "name": "Reverberations",
-      "url": "https://open.spotify.com/track/6QhWeoGPAlrNOhnyhmQyLF"
     },
     {
       "added_at": null,
@@ -263,26 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cicada Dream Band",
-        "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
+        "name": "Ghostdance",
+        "url": "https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG"
       },
       "artists": [
         {
           "name": "Pauline Oliveros",
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Timothy Hill",
-          "url": "https://open.spotify.com/artist/5DbeSCqFNABmMeFodQ6WjS"
-        },
-        {
-          "name": "David Rothenberg",
-          "url": "https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR"
         }
       ],
-      "duration_ms": 193159,
-      "name": "Last Night in the Holocene",
-      "url": "https://open.spotify.com/track/7JWRsHoHsEcl2iD8fl0Vru"
+      "duration_ms": 223960,
+      "name": "Reverberations",
+      "url": "https://open.spotify.com/track/6QhWeoGPAlrNOhnyhmQyLF"
     },
     {
       "added_at": null,
@@ -299,38 +275,6 @@
       "duration_ms": 984026,
       "name": "The Receptive",
       "url": "https://open.spotify.com/track/2p9i2Hwn9YC6WWqAfQe2sO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ghostdance",
-        "url": "https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "Body Stories",
-      "url": "https://open.spotify.com/track/7uICRy0IYUKeYQjZojQ2UA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Roots of the Movement",
-        "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 380893,
-      "name": "Grains",
-      "url": "https://open.spotify.com/track/6yTUAU3G9akFsnSHKVB7Ux"
     },
     {
       "added_at": null,
@@ -359,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zwei",
-        "url": "https://open.spotify.com/album/6sxFbCoRZitZy97kUzWgHh"
+        "name": "The Roots of the Movement",
+        "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
       },
       "artists": [
-        {
-          "name": "Fritz Hauser",
-          "url": "https://open.spotify.com/artist/6NXJD5DLC9LJyZXuNONGdm"
-        },
         {
           "name": "Pauline Oliveros",
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
-      "duration_ms": 165138,
-      "name": "Deep-Sea Rendez-Vous",
-      "url": "https://open.spotify.com/track/0ZsN5BFNEOO0dbOQVKh6Fz"
+      "duration_ms": 380893,
+      "name": "Grains",
+      "url": "https://open.spotify.com/track/6yTUAU3G9akFsnSHKVB7Ux"
     },
     {
       "added_at": null,
@@ -388,9 +328,9 @@
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
-      "duration_ms": 254960,
-      "name": "Fragments",
-      "url": "https://open.spotify.com/track/6CpzkEGtziYLYBuZS2CgrW"
+      "duration_ms": 145040,
+      "name": "Ghosting",
+      "url": "https://open.spotify.com/track/4zpP00UCCZsYs9DkUHQkjx"
     },
     {
       "added_at": null,
@@ -428,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR"
         }
       ],
-      "duration_ms": 441102,
-      "name": "The Longest Song in the World",
-      "url": "https://open.spotify.com/track/1BM7lk6k0LDimeSaolCKpW"
+      "duration_ms": 193159,
+      "name": "Last Night in the Holocene",
+      "url": "https://open.spotify.com/track/7JWRsHoHsEcl2iD8fl0Vru"
     },
     {
       "added_at": null,
@@ -460,9 +400,129 @@
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
-      "duration_ms": 145040,
-      "name": "Ghosting",
-      "url": "https://open.spotify.com/track/4zpP00UCCZsYs9DkUHQkjx"
+      "duration_ms": 254960,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/6CpzkEGtziYLYBuZS2CgrW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electro Acoustic Music, Vol. V",
+        "url": "https://open.spotify.com/album/3ZdUy4EpzcSkYH0B5uXA7r"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 989680,
+      "name": "II of IV",
+      "url": "https://open.spotify.com/track/3sqQlkAEoUYYzYKGoOqhbi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cicada Dream Band",
+        "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Timothy Hill",
+          "url": "https://open.spotify.com/artist/5DbeSCqFNABmMeFodQ6WjS"
+        },
+        {
+          "name": "David Rothenberg",
+          "url": "https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR"
+        }
+      ],
+      "duration_ms": 441102,
+      "name": "The Longest Song in the World",
+      "url": "https://open.spotify.com/track/1BM7lk6k0LDimeSaolCKpW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Altamirage",
+        "url": "https://open.spotify.com/album/1jGYkQ8m3Il9FXeNrmHSTl"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "James Ilgenfritz",
+          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
+        },
+        {
+          "name": "Anagram Ensemble",
+          "url": "https://open.spotify.com/artist/2FX44ZQpUxNDbSlYFLMSQs"
+        }
+      ],
+      "duration_ms": 59546,
+      "name": "Trio For Trumpet, Accordion, and String Bass III",
+      "url": "https://open.spotify.com/track/5v315q3yfKZScmtBRO8GrO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghostdance",
+        "url": "https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 180040,
+      "name": "Body Stories",
+      "url": "https://open.spotify.com/track/7uICRy0IYUKeYQjZojQ2UA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Roots of the Movement",
+        "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 545000,
+      "name": "Traces",
+      "url": "https://open.spotify.com/track/53lH61JaOTUJXX9fU6Fzns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cicada Dream Band",
+        "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Timothy Hill",
+          "url": "https://open.spotify.com/artist/5DbeSCqFNABmMeFodQ6WjS"
+        },
+        {
+          "name": "David Rothenberg",
+          "url": "https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR"
+        }
+      ],
+      "duration_ms": 412294,
+      "name": "All Creatures Get It",
+      "url": "https://open.spotify.com/track/175dH359woZbiN6qTMQdwR"
     },
     {
       "added_at": null,
@@ -491,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cicada Dream Band",
-        "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Timothy Hill",
-          "url": "https://open.spotify.com/artist/5DbeSCqFNABmMeFodQ6WjS"
-        },
-        {
-          "name": "David Rothenberg",
-          "url": "https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR"
-        }
-      ],
-      "duration_ms": 204698,
-      "name": "Arc Hive",
-      "url": "https://open.spotify.com/track/3MyJ4MYNczi8sjZb4eiJrF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Well & The Gentle",
         "url": "https://open.spotify.com/album/7MLPpY2X7bSj2EL9QmSMzB"
       },
@@ -531,42 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electro Acoustic Music, Vol. V",
-        "url": "https://open.spotify.com/album/3ZdUy4EpzcSkYH0B5uXA7r"
+        "name": "Zwei",
+        "url": "https://open.spotify.com/album/6sxFbCoRZitZy97kUzWgHh"
       },
       "artists": [
+        {
+          "name": "Fritz Hauser",
+          "url": "https://open.spotify.com/artist/6NXJD5DLC9LJyZXuNONGdm"
+        },
         {
           "name": "Pauline Oliveros",
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
-      "duration_ms": 989680,
-      "name": "II of IV",
-      "url": "https://open.spotify.com/track/3sqQlkAEoUYYzYKGoOqhbi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Altamirage",
-        "url": "https://open.spotify.com/album/1jGYkQ8m3Il9FXeNrmHSTl"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "James Ilgenfritz",
-          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
-        },
-        {
-          "name": "Anagram Ensemble",
-          "url": "https://open.spotify.com/artist/2FX44ZQpUxNDbSlYFLMSQs"
-        }
-      ],
-      "duration_ms": 92096,
-      "name": "Trio For Trumpet, Accordion, and String Bass V",
-      "url": "https://open.spotify.com/track/0uXmCSv3oaYN9gha1cSwhi"
+      "duration_ms": 165138,
+      "name": "Deep-Sea Rendez-Vous",
+      "url": "https://open.spotify.com/track/0ZsN5BFNEOO0dbOQVKh6Fz"
     },
     {
       "added_at": null,
@@ -595,46 +611,94 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roots of the Movement",
-        "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
+        "name": "Altamirage",
+        "url": "https://open.spotify.com/album/1jGYkQ8m3Il9FXeNrmHSTl"
       },
       "artists": [
         {
           "name": "Pauline Oliveros",
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "James Ilgenfritz",
+          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
+        },
+        {
+          "name": "Anagram Ensemble",
+          "url": "https://open.spotify.com/artist/2FX44ZQpUxNDbSlYFLMSQs"
         }
       ],
-      "duration_ms": 545000,
-      "name": "Traces",
-      "url": "https://open.spotify.com/track/53lH61JaOTUJXX9fU6Fzns"
+      "duration_ms": 92096,
+      "name": "Trio For Trumpet, Accordion, and String Bass V",
+      "url": "https://open.spotify.com/track/0uXmCSv3oaYN9gha1cSwhi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Space Between with Barre Phillips",
-        "url": "https://open.spotify.com/album/2zKXJwGI8jRnRadiQHgtQS"
+        "name": "Botanikk",
+        "url": "https://open.spotify.com/album/1UVrkMiSPQsSkql2DCQdm1"
       },
       "artists": [
         {
-          "name": "Philip Gelb",
-          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Lisa Dillan",
+          "url": "https://open.spotify.com/artist/0Xkd7bZLR8frMJEhgg1wHX"
+        },
+        {
+          "name": "\u00d8yvind Storesund",
+          "url": "https://open.spotify.com/artist/0VZ8JqfDQhdhAAJvVEnteR"
+        },
+        {
+          "name": "Else Olsen Storesund",
+          "url": "https://open.spotify.com/artist/0ulCRoV5L1IIi1qiudt42t"
+        }
+      ],
+      "duration_ms": 427695,
+      "name": "Vaccinium Myrtillus",
+      "url": "https://open.spotify.com/track/04iUS6mYbmKESivrKn1HtD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Is Always Now (Live at the Stone)",
+        "url": "https://open.spotify.com/album/2K7x3KeOPfaYO2124DlkBm"
+      },
+      "artists": [
+        {
+          "name": "Fred Frith",
+          "url": "https://open.spotify.com/artist/4KMt98IljgbTUeeU9KAu7y"
         },
         {
           "name": "Pauline Oliveros",
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         },
         {
-          "name": "Dana Reason",
-          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
-        },
-        {
-          "name": "Barre Phillips",
-          "url": "https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony"
+          "name": "Else Olsen Storesund",
+          "url": "https://open.spotify.com/artist/0ulCRoV5L1IIi1qiudt42t"
         }
       ],
-      "duration_ms": 164853,
-      "name": "Do We Deserve Dubya?",
-      "url": "https://open.spotify.com/track/15ECrvrsvrKipUbC6o6st3"
+      "duration_ms": 392040,
+      "name": "From the Backstretch - Live",
+      "url": "https://open.spotify.com/track/3PY81IH55XLkkll2zgQVWQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Well & The Gentle",
+        "url": "https://open.spotify.com/album/7MLPpY2X7bSj2EL9QmSMzB"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 777266,
+      "name": "The Well / The Gentle",
+      "url": "https://open.spotify.com/track/5CUyYh2tB0d7RizNlkCIYY"
     },
     {
       "added_at": null,
@@ -656,9 +720,25 @@
           "url": "https://open.spotify.com/artist/2FX44ZQpUxNDbSlYFLMSQs"
         }
       ],
-      "duration_ms": 59546,
-      "name": "Trio For Trumpet, Accordion, and String Bass III",
-      "url": "https://open.spotify.com/track/5v315q3yfKZScmtBRO8GrO"
+      "duration_ms": 75520,
+      "name": "Trio For Trumpet, Accordion, and String Bass IV",
+      "url": "https://open.spotify.com/track/4Fte8HeilVzFaMR4Hpni0n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wanderer",
+        "url": "https://open.spotify.com/album/3QUlA6fpjPF7b2n2dYIVk6"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 948600,
+      "name": "Duo for Accordion & Bandoneon",
+      "url": "https://open.spotify.com/track/0Q7j4wnChUGkIhxVfmVzDv"
     },
     {
       "added_at": null,
@@ -691,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Four Electronic Pieces 1959-1966",
+        "url": "https://open.spotify.com/album/0S9zSAOan7TcYIBGVClPpp"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 1048026,
+      "name": "Mnemonics III",
+      "url": "https://open.spotify.com/track/5x3P1G22nPQtkc29lkmW47"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Roots of the Movement",
         "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
       },
@@ -703,90 +799,6 @@
       "duration_ms": 885000,
       "name": "Striations",
       "url": "https://open.spotify.com/track/1lYAR84S7YGcxI8HGGDItr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wanderer",
-        "url": "https://open.spotify.com/album/3QUlA6fpjPF7b2n2dYIVk6"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 948600,
-      "name": "Duo for Accordion & Bandoneon",
-      "url": "https://open.spotify.com/track/0Q7j4wnChUGkIhxVfmVzDv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Altamirage",
-        "url": "https://open.spotify.com/album/1jGYkQ8m3Il9FXeNrmHSTl"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "James Ilgenfritz",
-          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
-        },
-        {
-          "name": "Anagram Ensemble",
-          "url": "https://open.spotify.com/artist/2FX44ZQpUxNDbSlYFLMSQs"
-        }
-      ],
-      "duration_ms": 75520,
-      "name": "Trio For Trumpet, Accordion, and String Bass IV",
-      "url": "https://open.spotify.com/track/4Fte8HeilVzFaMR4Hpni0n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Space Between with Barre Phillips",
-        "url": "https://open.spotify.com/album/2zKXJwGI8jRnRadiQHgtQS"
-      },
-      "artists": [
-        {
-          "name": "Philip Gelb",
-          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
-        },
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Dana Reason",
-          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
-        },
-        {
-          "name": "Barre Phillips",
-          "url": "https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony"
-        }
-      ],
-      "duration_ms": 539293,
-      "name": "King Kong Passes Through the Gates of Shaolin Temple and Contemplates Life",
-      "url": "https://open.spotify.com/track/1fqHEFT7LL9gsVGCMzNXGo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Well & The Gentle",
-        "url": "https://open.spotify.com/album/7MLPpY2X7bSj2EL9QmSMzB"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 777266,
-      "name": "The Well / The Gentle",
-      "url": "https://open.spotify.com/track/5CUyYh2tB0d7RizNlkCIYY"
     },
     {
       "added_at": null,
@@ -807,42 +819,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Is Always Now (Live at the Stone)",
-        "url": "https://open.spotify.com/album/2K7x3KeOPfaYO2124DlkBm"
+        "name": "Botanikk",
+        "url": "https://open.spotify.com/album/1UVrkMiSPQsSkql2DCQdm1"
       },
       "artists": [
         {
-          "name": "Fred Frith",
-          "url": "https://open.spotify.com/artist/4KMt98IljgbTUeeU9KAu7y"
-        },
-        {
           "name": "Pauline Oliveros",
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Lisa Dillan",
+          "url": "https://open.spotify.com/artist/0Xkd7bZLR8frMJEhgg1wHX"
+        },
+        {
+          "name": "\u00d8yvind Storesund",
+          "url": "https://open.spotify.com/artist/0VZ8JqfDQhdhAAJvVEnteR"
         },
         {
           "name": "Else Olsen Storesund",
           "url": "https://open.spotify.com/artist/0ulCRoV5L1IIi1qiudt42t"
         }
       ],
-      "duration_ms": 392040,
-      "name": "From the Backstretch - Live",
-      "url": "https://open.spotify.com/track/3PY81IH55XLkkll2zgQVWQ"
+      "duration_ms": 324358,
+      "name": "Saxifraga Cotyledon",
+      "url": "https://open.spotify.com/track/0KaZK2XsEioFtIoPGclo0K"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Four Electronic Pieces 1959-1966",
-        "url": "https://open.spotify.com/album/0S9zSAOan7TcYIBGVClPpp"
+        "name": "Altamirage",
+        "url": "https://open.spotify.com/album/1jGYkQ8m3Il9FXeNrmHSTl"
       },
       "artists": [
         {
           "name": "Pauline Oliveros",
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "James Ilgenfritz",
+          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
         }
       ],
-      "duration_ms": 1048026,
-      "name": "Mnemonics III",
-      "url": "https://open.spotify.com/track/5x3P1G22nPQtkc29lkmW47"
+      "duration_ms": 193194,
+      "name": "Altamirage V",
+      "url": "https://open.spotify.com/track/62hehnD0OcI7pCM26KZGN9"
     },
     {
       "added_at": null,
@@ -879,34 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Botanikk",
-        "url": "https://open.spotify.com/album/1UVrkMiSPQsSkql2DCQdm1"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Lisa Dillan",
-          "url": "https://open.spotify.com/artist/0Xkd7bZLR8frMJEhgg1wHX"
-        },
-        {
-          "name": "\u00d8yvind Storesund",
-          "url": "https://open.spotify.com/artist/0VZ8JqfDQhdhAAJvVEnteR"
-        },
-        {
-          "name": "Else Olsen Storesund",
-          "url": "https://open.spotify.com/artist/0ulCRoV5L1IIi1qiudt42t"
-        }
-      ],
-      "duration_ms": 427695,
-      "name": "Vaccinium Myrtillus",
-      "url": "https://open.spotify.com/track/04iUS6mYbmKESivrKn1HtD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sound Unbound : Excerpts And Allegories From The Sub Rosa Audio Archives",
         "url": "https://open.spotify.com/album/5BUeojPDPRPojhAJfw7i0s"
       },
@@ -931,36 +923,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Space Between with Jo\u00eblle L\u00e9andre",
-        "url": "https://open.spotify.com/album/5R0cXznPxS9DvS49jYJKKa"
+        "name": "Buzz (Music in Harmony with Nature)",
+        "url": "https://open.spotify.com/album/0s5uaIlknCfjixah9VCosv"
       },
       "artists": [
         {
-          "name": "Philip Gelb",
-          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
+          "name": "David Rothenberg",
+          "url": "https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR"
         },
         {
           "name": "Pauline Oliveros",
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         },
         {
-          "name": "Dana Reason",
-          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
-        },
-        {
-          "name": "Jo\u00eblle L\u00e9andre",
-          "url": "https://open.spotify.com/artist/6Vl8OiMNnnLoHgrJTUBaru"
+          "name": "Tony Levin",
+          "url": "https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH"
         }
       ],
-      "duration_ms": 160466,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3S7rMn7iMmRJeD6wWYwzsz"
+      "duration_ms": 733447,
+      "name": "Festival of the Cicada - Live",
+      "url": "https://open.spotify.com/track/2T3OJMfoUPV3zK08Jjs5DB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "An Anthology Of Noise And Electronic Music Vol,1",
-        "url": "https://open.spotify.com/album/6etYpaCyMUCnXoDxdVHLxm"
+        "name": "Four Meditations & Sound Geometries",
+        "url": "https://open.spotify.com/album/636RxqphMs4X4OjvgfKkKm"
       },
       "artists": [
         {
@@ -968,37 +956,25 @@
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
-      "duration_ms": 1822280,
-      "name": "A Little Noise In The System - Moog System",
-      "url": "https://open.spotify.com/track/7jd4WM5VlxNZh4G89owFh9"
+      "duration_ms": 1207293,
+      "name": "Four Meditations for Orchestra",
+      "url": "https://open.spotify.com/track/7GwBblLn7dZizslSDypRKT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Botanikk",
-        "url": "https://open.spotify.com/album/1UVrkMiSPQsSkql2DCQdm1"
+        "name": "To Valerie Solanas And Marilyn Monroe In Recognition Of Their Desperation",
+        "url": "https://open.spotify.com/album/52UxvJyYzRTEmitrRSK6Os"
       },
       "artists": [
         {
           "name": "Pauline Oliveros",
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Lisa Dillan",
-          "url": "https://open.spotify.com/artist/0Xkd7bZLR8frMJEhgg1wHX"
-        },
-        {
-          "name": "\u00d8yvind Storesund",
-          "url": "https://open.spotify.com/artist/0VZ8JqfDQhdhAAJvVEnteR"
-        },
-        {
-          "name": "Else Olsen Storesund",
-          "url": "https://open.spotify.com/artist/0ulCRoV5L1IIi1qiudt42t"
         }
       ],
-      "duration_ms": 324358,
-      "name": "Saxifraga Cotyledon",
-      "url": "https://open.spotify.com/track/0KaZK2XsEioFtIoPGclo0K"
+      "duration_ms": 965493,
+      "name": "1970 Performance",
+      "url": "https://open.spotify.com/track/46TXc9N0vQaV0tzYBsLRXS"
     },
     {
       "added_at": null,

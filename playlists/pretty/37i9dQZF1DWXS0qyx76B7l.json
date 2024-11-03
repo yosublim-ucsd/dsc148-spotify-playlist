@@ -1,6 +1,6 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple! \ud83d\udcf8 Chappell Roan is Lady Liberty",
-  "num_followers": 146764,
+  "num_followers": 146806,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-11 17:08:30",
       "album": {
-        "name": "Dear Catastrophe Waitress",
-        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Piazza, New York Catcher",
-      "url": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
-    },
-    {
-      "added_at": "2024-06-11 17:08:30",
-      "album": {
         "name": "Brooklyn In The Summer",
         "url": "https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 208214,
       "name": "Brooklyn In The Summer",
       "url": "https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY"
+    },
+    {
+      "added_at": "2024-06-11 17:08:30",
+      "album": {
+        "name": "Dear Catastrophe Waitress",
+        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Piazza, New York Catcher",
+      "url": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
     },
     {
       "added_at": "2024-06-11 17:08:30",

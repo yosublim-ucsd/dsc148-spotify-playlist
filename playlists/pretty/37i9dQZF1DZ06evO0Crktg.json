@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 256822,
+  "num_followers": 257056,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAAAdNVwb7YzLny8LhEPYYnPn",
+  "snapshot_id": "ZyQaAAAAAABCGMoxq9E8z45tw3aDT7yC",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am Not Okay",
-        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 197133,
-      "name": "I Am Not Okay",
-      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautifully Broken",
-        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 204933,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
     },
     {
       "added_at": null,
@@ -407,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead End Road (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/4FLzGf4XrpOZyGajzf9oYF"
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
       },
       "artists": [
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
         }
       ],
-      "duration_ms": 152133,
-      "name": "Dead End Road (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/39aAZlxQg4JM9g00kec16w"
+      "duration_ms": 193880,
+      "name": "Past Yesterday (with Skylar Grey)",
+      "url": "https://open.spotify.com/track/0mQWqf3GGHuwlF7VUaCeEk"
     },
     {
       "added_at": null,
@@ -455,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dead End Road (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/4FLzGf4XrpOZyGajzf9oYF"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Dead End Road (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/39aAZlxQg4JM9g00kec16w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crosses and Crossroads",
         "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 206285,
       "name": "Same Asshole",
       "url": "https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Past Yesterday (with Skylar Grey)",
-      "url": "https://open.spotify.com/track/0mQWqf3GGHuwlF7VUaCeEk"
     },
     {
       "added_at": null,
@@ -520,9 +520,29 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 142040,
-      "name": "Everyone Bleeds",
-      "url": "https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM"
+      "duration_ms": 164053,
+      "name": "Unpretty",
+      "url": "https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 198426,
+      "name": "Don't Want To (with Keith Urban)",
+      "url": "https://open.spotify.com/track/74UZosQdVAsRovxHKjrHZt"
     },
     {
       "added_at": null,
@@ -559,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 198426,
-      "name": "Don't Want To (with Keith Urban)",
-      "url": "https://open.spotify.com/track/74UZosQdVAsRovxHKjrHZt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautifully Broken",
         "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
       },
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 164053,
-      "name": "Unpretty",
-      "url": "https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ"
+      "duration_ms": 142040,
+      "name": "Everyone Bleeds",
+      "url": "https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM"
     },
     {
       "added_at": null,
@@ -895,42 +895,6 @@
       "duration_ms": 167635,
       "name": "Johnny and June",
       "url": "https://open.spotify.com/track/5CViEqt2O688DBBlr4dBNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH"
-      },
-      "artists": [
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 202675,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 156133,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx"
     }
   ],
   "unique_name": "This Is Jelly Roll",

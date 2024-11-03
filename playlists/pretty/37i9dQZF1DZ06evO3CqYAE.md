@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,909 likes - 43 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,925 likes - 43 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 31 | [Suddenly](https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:51 |
 | 32 | [Bor Ekom](https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:07 |
 | 33 | [My Lover \- Live](https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 8:24 |
-| 34 | [Jesus](https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus](https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR) | 6:15 |
-| 35 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 |
+| 34 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 |
+| 35 | [Jesus](https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus](https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR) | 6:15 |
 | 36 | [Igwe](https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 5:27 |
 | 37 | [Oyoyo Chukwu](https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a), [EeZee Tee](https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7) | [Oyoyo Chukwu](https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8) | 5:17 |
 | 38 | [Imela](https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:11 |
 | 39 | [Power Belongs To Jesus](https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Power Belongs To Jesus](https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v) | 4:16 |
 | 40 | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Reba](https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6) | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2) | 5:56 |
-| 41 | [Okaka](https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okaka](https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz) | 12:20 |
+| 41 | [My Responsibility](https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 4:26 |
 | 42 | [Yesterday Today Forever](https://open.spotify.com/track/28ZfSHW7oGWpwW2vefLxLB) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:24 |
-| 43 | [My Responsibility](https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 4:26 |
+| 43 | [Okaka](https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okaka](https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz) | 12:20 |
 
-Snapshot ID: `ZyLIgAAAAACP6XYoC/8tIbxdKYWr4NUQ`
+Snapshot ID: `ZyQaAAAAAACYF9tApyStU5r8mL46eXvK`

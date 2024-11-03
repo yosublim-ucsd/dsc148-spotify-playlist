@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 16106,
+  "num_followers": 16113,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,38 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 172245,
+      "name": "WANT U",
+      "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
+        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 237030,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -399,22 +431,6 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
-        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 237030,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
     },
     {
       "added_at": "2024-10-27 13:02:06",
@@ -451,22 +467,6 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 172245,
-      "name": "WANT U",
-      "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
         "name": "Way U Are (feat. BIG Naughty)",
         "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
         "name": "Seasonal Hiatus",
         "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
       },
@@ -519,18 +503,34 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
-        "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
       "artists": [
         {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 190520,
-      "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
-      "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
+        "name": "Ours",
+        "url": "https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 206781,
+      "name": "Secret of Ours",
+      "url": "https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH"
     },
     {
       "added_at": "2024-10-27 13:02:06",
@@ -555,34 +555,18 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
-        "name": "Ours",
-        "url": "https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO"
+        "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
       },
       "artists": [
         {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
         }
       ],
-      "duration_ms": 206781,
-      "name": "Secret of Ours",
-      "url": "https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
-        "name": "PRE-RELEASE 3RD ALBUM [YEOK SEONG]",
-        "url": "https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR"
-      },
-      "artists": [
-        {
-          "name": "LEE SEUNG YOON",
-          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "28k LOVE!!",
-      "url": "https://open.spotify.com/track/1udqJr6D9UDqW7gsLAUhq5"
+      "duration_ms": 190520,
+      "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
+      "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
     },
     {
       "added_at": "2024-10-27 13:02:06",
@@ -619,6 +603,22 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
+        "name": "PRE-RELEASE 3RD ALBUM [YEOK SEONG]",
+        "url": "https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "28k LOVE!!",
+      "url": "https://open.spotify.com/track/1udqJr6D9UDqW7gsLAUhq5"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
         "name": "her",
         "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
-        "name": "TENT 0.3",
-        "url": "https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 146402,
-      "name": "I Love Yuo",
-      "url": "https://open.spotify.com/track/6ENEZrqRJqUMNhTaOjlu6X"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
         "name": "The Interest of Love (Original Television Soundtrack, Pt. 5)",
         "url": "https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 226240,
       "name": "With me",
       "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
+        "name": "TENT 0.3",
+        "url": "https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 146402,
+      "name": "I Love Yuo",
+      "url": "https://open.spotify.com/track/6ENEZrqRJqUMNhTaOjlu6X"
     },
     {
       "added_at": "2024-10-27 13:02:06",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
-        "name": "IN-OUT",
-        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 226573,
-      "name": "Dream Catcher",
-      "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
         "name": "INTERVIEW",
         "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 195293,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 226573,
+      "name": "Dream Catcher",
+      "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
     },
     {
       "added_at": "2024-10-27 13:02:06",

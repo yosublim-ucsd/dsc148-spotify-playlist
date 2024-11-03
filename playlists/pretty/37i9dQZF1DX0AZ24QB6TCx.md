@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,835 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,841 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 48 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 49 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 |
 | 50 | [Following](https://open.spotify.com/track/4hW0NmYZa400gMN5l0gUK3) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Following](https://open.spotify.com/album/2t9PHmQnnvfAEy9JlN1vZ9) | 3:39 |
-| 51 | [Sunshine](https://open.spotify.com/track/0Dp3a7t94hj7S1h2mVIZN9) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Sunshine](https://open.spotify.com/album/2Qwwl2g2XcVtRT4xHdDEPL) | 3:43 |
-| 52 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 |
+| 51 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 |
+| 52 | [Sunshine](https://open.spotify.com/track/0Dp3a7t94hj7S1h2mVIZN9) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Sunshine](https://open.spotify.com/album/2Qwwl2g2XcVtRT4xHdDEPL) | 3:43 |
 | 53 | [Clarion \- Kiasmos Remix](https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Clarion \(Kiasmos Remix\)](https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD) | 5:43 |
 | 54 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
 | 55 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
-| 56 | [Home](https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Home](https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34) | 3:44 |
-| 57 | [Extraordinary \- Radio Edit](https://open.spotify.com/track/2yAGQ2mDaMg4hfckXmkI8L) | [She Knows](https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer) | [Extraordinary](https://open.spotify.com/album/67Wo8I6Z0lG6Pb18DMlZkc) | 3:49 |
-| 58 | [Hold Your Breath](https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r) | [Thaylo](https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB) | [Hold Your Breath](https://open.spotify.com/album/264EpsDdMfCrHFp6uqVUr3) | 3:11 |
+| 56 | [Hold Your Breath](https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r) | [Thaylo](https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB) | [Hold Your Breath](https://open.spotify.com/album/264EpsDdMfCrHFp6uqVUr3) | 3:11 |
+| 57 | [Home](https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Home](https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34) | 3:44 |
+| 58 | [Extraordinary \- Radio Edit](https://open.spotify.com/track/2yAGQ2mDaMg4hfckXmkI8L) | [She Knows](https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer) | [Extraordinary](https://open.spotify.com/album/67Wo8I6Z0lG6Pb18DMlZkc) | 3:49 |
 | 59 | [Far Behind \- Jeremy Olander Remix](https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [A Radiant Sign \(Remixed\)](https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM) | 3:47 |
 | 60 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
 | 61 | [Secret Places \- Club Version](https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [Secret Places \(Club Version\)](https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i) | 6:57 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 67 | [Need To Feel Loved \- Nils Hoffmann Remix](https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Need To Feel Loved \(Nils Hoffmann Remix\)](https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH) | 3:44 |
 | 68 | [What If I](https://open.spotify.com/track/5bGqDdq1N19rshIU3WXAcr) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [What If I](https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0) | 5:54 |
 | 69 | [Holy \- Frank Wiedemann Remix](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
-| 70 | [Some Type of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/3JESF4y5o29QYebTheGju0) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/1kLM9sRXSaIxGRz18pE6DU) | 3:24 |
+| 70 | [Love Will Tear Us Apart \- Tensnake Remix](https://open.spotify.com/track/6HTYiZWP9bqtGKoivnLHsg) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Love Will Tear Us Apart \(Tensnake Remix\)](https://open.spotify.com/album/5HX5xbtPGzr5xTNst3CilV) | 3:40 |
 
 Snapshot ID: `ZrZfzQAAAAAd0rlj+3r2h4EJVQviwPBF`

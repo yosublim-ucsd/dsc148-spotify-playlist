@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Betrand Putra Onsu
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,615 likes - 78 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,624 likes - 78 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 3 | [Mungkin](https://open.spotify.com/track/4AKv8aaODAQJIQe9kUnhm0) | [Chintana Jo](https://open.spotify.com/artist/1O2AdjDXC1VqjYE7PwDILf), [Gala Yudhatama](https://open.spotify.com/artist/4Zb2b3EnQjO9b1TVodw4CA) | [Mungkin](https://open.spotify.com/album/1uV0ARRD1ObN3MgH0kkoup) | 3:42 |
 | 4 | [Tryin'](https://open.spotify.com/track/0pIzdIIkhBlMGD2YzeV3ny) | [Garry Armando](https://open.spotify.com/artist/00XstgVsmOg2wmk12ecdKE), [Jaybag](https://open.spotify.com/artist/6fVPj9LNi7dgkG1luLMOCx) | [Tryin'](https://open.spotify.com/album/6I4PvWhpFsSxJ2GjzZMLtF) | 2:24 |
 | 5 | [Salahnya Aku Percaya](https://open.spotify.com/track/38CnCgiuTxfOTdNg7EGJoy) | [Rifqi FTR](https://open.spotify.com/artist/0E7e9JsNEXjJ608E1MJnvh) | [Salahnya Aku Percaya](https://open.spotify.com/album/3Lwl2f3Ooj80ZkvFOzDLAy) | 3:50 |
-| 6 | [Terlambat Tahu](https://open.spotify.com/track/14ua1xKLPAARQUU7kqHwVF) | [Fani Rahmansyah](https://open.spotify.com/artist/1TxD0vDP9RsTGkVBjnjVO8) | [Terlambat Tahu](https://open.spotify.com/album/2MBHPH9qWnhB556ij8hnXH) | 3:43 |
+| 6 | [Terlambat Tahu](https://open.spotify.com/track/14ua1xKLPAARQUU7kqHwVF) | [Fanirahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [Terlambat Tahu](https://open.spotify.com/album/2MBHPH9qWnhB556ij8hnXH) | 3:43 |
 | 7 | [Larut Pagi](https://open.spotify.com/track/2JP3XEVouscB8rlwkKK5DK) | [Bhanz](https://open.spotify.com/artist/4ZD0SSgtx6xpX7uYqsIE5Q) | [Larut Pagi](https://open.spotify.com/album/6wGtbbIUXXVcdYEIUSVBC4) | 2:33 |
 | 8 | [Ingin Bersama](https://open.spotify.com/track/3sAc4CtdSr6JKGX2H6Z2Y8) | [Danyannisa](https://open.spotify.com/artist/2AWnRV889vjq7HLW6kEOVW) | [Ingin Bersama](https://open.spotify.com/album/6vnM6Fz18SUP1gURXVNY9U) | 4:09 |
 | 9 | [Evacuate](https://open.spotify.com/track/4vcHhnORay7hiPbLugwzAO) | [Domm Duarte](https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI) | [Evacuate](https://open.spotify.com/album/7bJWSYjfvll7DGnswdLUuB) | 2:24 |

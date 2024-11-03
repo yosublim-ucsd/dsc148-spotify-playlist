@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 
 > 💃🏽🕺🏼🪇🎺🪘
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,189 likes - 45 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,209 likes - 45 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 | 20 | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/track/4Rs4ijFlNvhJ2fuRFNCH9h) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/album/4abxB4hx5B9197BK6hAccz) | 2:59 |
 | 21 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 |
 | 22 | [Otro Día Más](https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Otro Día Más](https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye) | 3:22 |
-| 23 | [Ahi Ahi](https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Ahi Ahi](https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3) | 2:56 |
-| 24 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 |
+| 23 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 |
+| 24 | [Ahi Ahi](https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Ahi Ahi](https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3) | 2:56 |
 | 25 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp) | 3:49 |
 | 26 | [Te Mentiría](https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:38 |
 | 27 | [Te hubieras ido antes](https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Te Sigo Enamorando](https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ) | 5:11 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 | 33 | [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ) | 2:56 |
 | 34 | [No Se Va](https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Se Va](https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ) | 3:40 |
 | 35 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |
-| 36 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 |
-| 37 | [Te Perdoné Tantas Veces](https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [La Diosa \- Los 20 Éxitos Más Pedidos](https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq) | 2:23 |
+| 36 | [Te Perdoné Tantas Veces](https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [La Diosa \- Los 20 Éxitos Más Pedidos](https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq) | 2:23 |
+| 37 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 |
 | 38 | [Con Él No Soportas](https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 4:00 |
 | 39 | [Muchacha Sola](https://open.spotify.com/track/2aJTAFg1QZ4o7ftICW3Zcu) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 3:27 |
 | 40 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 |
@@ -52,6 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 | 42 | [CORAZÓN](https://open.spotify.com/track/1m5iV4hdnPVkiExSQe8iQS) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [CORAZÓN](https://open.spotify.com/album/4kz1PW7KXNYyfWXVzKntNP) | 2:51 |
 | 43 | [Yerba Mala](https://open.spotify.com/track/6DAZuerCWNL5TtgKo8M2jl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 6:16 |
 | 44 | [COMO YO TE QUIERO \(DELUXE\)](https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:31 |
-| 45 | [Adicto A Ti](https://open.spotify.com/track/53p8lIxLmoCoBINK0zuQ4G) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/6F1Z5d0Hha07l3sfj2PrYh) | 3:54 |
+| 45 | [Dejémoslo Así](https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:24 |
 
 Snapshot ID: `ZmyPwQAAAAAyhfbL35xn5OEccC8uNvvI`

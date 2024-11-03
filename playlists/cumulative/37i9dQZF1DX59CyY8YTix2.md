@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: CLAN QUEEN
 
-1,760 songs - 4 day 13 hr 23 min
+1,761 songs - 4 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [orange](https://open.spotify.com/track/42qT2xXpYbu1tpJtj7paqb) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [orange](https://open.spotify.com/album/3uGMz5oboP965F8wbWcllw) | 3:06 | 2023-06-06 | 2023-06-21 |
 | [Ordinary days](https://open.spotify.com/track/24nmhvCoG0L2faFNzNS5xO) | [DADARAY](https://open.spotify.com/artist/5YVpCleE4Ysa6YRa66nzIN) | [Ordinary days](https://open.spotify.com/album/3qWWvNwIdMRShjWkdsMeTS) | 4:11 | 2022-05-31 | 2022-07-28 |
 | [Otona ni Naritakunai](https://open.spotify.com/track/0XUe7tUkUwq6S953e4Pqi9) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Otona ni Naritakunai](https://open.spotify.com/album/6o9LMxYI8hp76Nc8Jsk1Db) | 3:27 | 2023-01-17 | 2023-03-01 |
-| [Overrated!](https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Overrated!](https://open.spotify.com/album/3mW3VrymVynXRToh3mDzrz) | 2:55 | 2024-10-15 |  |
+| [Overrated!](https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Overrated!](https://open.spotify.com/album/3mW3VrymVynXRToh3mDzrz) | 2:55 | 2024-10-15 | 2024-11-03 |
 | [O･TA･KUラブリー伝説](https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [O･TA･KUラブリー伝説](https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb) | 3:12 | 2024-01-18 | 2024-03-20 |
 | [p.m.5:00](https://open.spotify.com/track/31OTPJFZzufxDv0hlM6wDx) | [the slow films](https://open.spotify.com/artist/2NMTXQi0gZeYw8GdZvWssk) | [p.m.5:00 / 夢の中で](https://open.spotify.com/album/3kgj4YYIBt6x1LNo6iKNtO) | 3:19 | 2024-08-06 | 2024-10-02 |
 | [Pain](https://open.spotify.com/track/5ut0TnRu9yc6BqZIl6DTvD) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/4eZvJCg17A85m1guu6YCki) | 3:52 | 2022-09-27 | 2022-09-29 |
@@ -1380,6 +1380,7 @@
 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 | 2022-06-23 | 2022-12-14 |
 | [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 | 2022-07-19 | 2024-09-30 |
 | [可愛いユナちゃん](https://open.spotify.com/track/51Wglv2PINrDBmgjFBZAet) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [可愛いユナちゃん](https://open.spotify.com/album/2Tq9r4PxlmsRHur9umG7Aw) | 3:59 | 2023-11-21 | 2024-07-31 |
+| [合鍵とアイロニー](https://open.spotify.com/track/6Ne6n6vGbAy8yVULukUSZg) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [合鍵とアイロニー](https://open.spotify.com/album/3ydU0e13X6At2DnAsNG1Qf) | 2:52 | 2024-10-29 |  |
 | [君が好き](https://open.spotify.com/track/5ayV49fExKlGllY8oyebHI) | [Easycome](https://open.spotify.com/artist/6sXjklgdrq2fcMVZ9gh6do) | [君が好き](https://open.spotify.com/album/1ilZXqYgWvF23c13eWO39D) | 3:37 | 2022-06-23 | 2022-07-03 |
 | [君が思い出したら](https://open.spotify.com/track/2daV7kt818vpPzuzVlndxq) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [君が思い出したら](https://open.spotify.com/album/39KG47MwdsDLXuj8T0Uuzf) | 3:38 | 2024-06-25 | 2024-07-10 |
 | [君と夏フェス](https://open.spotify.com/track/74zARC4MuJSrlq0QaaE13j) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 2](https://open.spotify.com/album/5IrLSSicyUJipJvCfOAfwb) | 3:44 | 2023-02-03 | 2023-02-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Nov 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Nov 05:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -10546,7 +10546,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 162303,
       "name": "Clean & Dirty",
       "url": "https://open.spotify.com/track/4pSL4BvVj6kdBRdEDgLuhj"
@@ -31201,6 +31201,24 @@
     },
     {
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/4uHEPiWbpnpaoiaAHi4jmO"
+      },
+      "artists": [
+        {
+          "name": "AaRON",
+          "url": "https://open.spotify.com/artist/6q8cNe6Wif1WvM97vcFD8O"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243960,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/3H54M5tILLB0VDwrpJKJIb"
+    },
+    {
+      "album": {
         "name": "Legion of Bottom Deck Dealers",
         "url": "https://open.spotify.com/album/1gCxQBIOfiHrxW1n1bgg8Q"
       },
@@ -37290,6 +37308,28 @@
       "duration_ms": 176040,
       "name": "Necessary Evil",
       "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
+    },
+    {
+      "album": {
+        "name": "Need I Say More",
+        "url": "https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2024-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178893,
+      "name": "Need I Say More",
+      "url": "https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl"
     },
     {
       "album": {
@@ -58490,7 +58530,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-03",
       "duration_ms": 172504,
       "name": "Walla Walla",
       "url": "https://open.spotify.com/track/5t0bkMURhbmZabN1DLM7xi"

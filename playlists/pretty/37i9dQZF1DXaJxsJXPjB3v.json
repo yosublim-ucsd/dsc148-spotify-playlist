@@ -1,6 +1,6 @@
 {
   "description": "Revisit the best Kwaito songs ever released. Cover: Bongo Maffin",
-  "num_followers": 61621,
+  "num_followers": 61692,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Lenyora",
+        "url": "https://open.spotify.com/album/4O8DBlsMzrukb209docL0j"
+      },
+      "artists": [
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "duration_ms": 341506,
+      "name": "Groovers Prayer",
+      "url": "https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "The Concerto",
         "url": "https://open.spotify.com/album/7fRul2x0hzuFPkCG7EpWff"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Tempy Life",
-        "url": "https://open.spotify.com/album/6QLge9AA2UY7zgR7DNtaUN"
-      },
-      "artists": [
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
-        }
-      ],
-      "duration_ms": 263733,
-      "name": "Skangkgata",
-      "url": "https://open.spotify.com/track/70e5LboOZBwRrbwZb36ISE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Traffic Cop",
         "url": "https://open.spotify.com/album/5PfNqkm8DsTilYtAxmBRwk"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 321200,
       "name": "Traffic Cop",
       "url": "https://open.spotify.com/track/72YvRxXGDh8ceVyARTtdEJ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Tempy Life",
+        "url": "https://open.spotify.com/album/6QLge9AA2UY7zgR7DNtaUN"
+      },
+      "artists": [
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "duration_ms": 263733,
+      "name": "Skangkgata",
+      "url": "https://open.spotify.com/track/70e5LboOZBwRrbwZb36ISE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -691,8 +707,8 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Lenyora",
-        "url": "https://open.spotify.com/album/4O8DBlsMzrukb209docL0j"
+        "name": "Top Dawg",
+        "url": "https://open.spotify.com/album/1rrPsxH64XF7uwG7PInaYp"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
         }
       ],
-      "duration_ms": 341506,
-      "name": "Groovers Prayer",
-      "url": "https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT"
+      "duration_ms": 337986,
+      "name": "Ungawa Kum",
+      "url": "https://open.spotify.com/track/47VpnKqSM6UhAGFjGaUlvy"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -723,22 +739,6 @@
       "duration_ms": 347960,
       "name": "Magasman",
       "url": "https://open.spotify.com/track/4HxFndd2LoR2MBtYABjBlv"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Top Dawg",
-        "url": "https://open.spotify.com/album/1rrPsxH64XF7uwG7PInaYp"
-      },
-      "artists": [
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
-        }
-      ],
-      "duration_ms": 337986,
-      "name": "Ungawa Kum",
-      "url": "https://open.spotify.com/track/47VpnKqSM6UhAGFjGaUlvy"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Incomplete Without",
-        "url": "https://open.spotify.com/album/5jeAuGi3HKd1mV7W2Q5joX"
-      },
-      "artists": [
-        {
-          "name": "Lebo Mathosa",
-          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "Tsodiyo",
-      "url": "https://open.spotify.com/track/3j6YbumB0YDhhA2ZFRtbcA"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Sigiya Ngengoma",
         "url": "https://open.spotify.com/album/3QMYpyJMH57DfTGqZMEYGo"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 345613,
       "name": "Current",
       "url": "https://open.spotify.com/track/7jCN8HmG6EaUzQKq9uHEH2"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Incomplete Without",
+        "url": "https://open.spotify.com/album/5jeAuGi3HKd1mV7W2Q5joX"
+      },
+      "artists": [
+        {
+          "name": "Lebo Mathosa",
+          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Tsodiyo",
+      "url": "https://open.spotify.com/track/3j6YbumB0YDhhA2ZFRtbcA"
     },
     {
       "added_at": "2024-05-22 11:00:00",

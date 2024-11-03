@@ -1,6 +1,6 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: LCD Soundsystem",
-  "num_followers": 713588,
+  "num_followers": 713684,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "Fever To Tell (Deluxe Remastered)",
         "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 219986,
       "name": "Maps",
       "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Starfucker",
-        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Rawnald Gregory Erickson the Second",
-      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "West Ryder Pauper Lunatic Asylum",
         "url": "https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 277466,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/3PbsDnKdrZY0ttX7VE9s5R"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "Starfucker",
+        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Rawnald Gregory Erickson the Second",
+      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "Kasabian",
         "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 214373,
       "name": "Club Foot",
       "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
       "artists": [
         {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
+      "duration_ms": 390013,
+      "name": "Someone Great",
+      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
         }
       ],
-      "duration_ms": 390013,
-      "name": "Someone Great",
-      "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Santigold",
-        "url": "https://open.spotify.com/album/4TGvBVWFdYgARvdajEfAkU"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "L.E.S Artistes",
-      "url": "https://open.spotify.com/track/1SvIUtl5QuOTJhKNVikt6m"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "Turn On The Bright Lights",
         "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 299773,
       "name": "PDA",
       "url": "https://open.spotify.com/track/286mFeYjBJ9fkioaIzaxoN"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4TGvBVWFdYgARvdajEfAkU"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "L.E.S Artistes",
+      "url": "https://open.spotify.com/track/1SvIUtl5QuOTJhKNVikt6m"
     },
     {
       "added_at": "2024-03-18 22:33:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Let's Get Out Of This Country",
-        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
-      },
-      "artists": [
-        {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Lloyd, I'm Ready To Be Heartbroken",
-      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "Up the Bracket",
         "url": "https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 158546,
       "name": "Up the Bracket",
       "url": "https://open.spotify.com/track/6dgNSYxHgPruJtgISdi61C"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "Let's Get Out Of This Country",
+        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Lloyd, I'm Ready To Be Heartbroken",
+      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
     }
   ],
   "unique_name": "Alternative 00s",

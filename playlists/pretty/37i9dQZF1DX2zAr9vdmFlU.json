@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 436032,
+  "num_followers": 436068,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "CANTO A LA VIDA",
+        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "CANTO A LA VIDA",
+      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Cada loco con su tema",
         "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 220761,
       "name": "Cada loco con su tema",
       "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "CANTO A LA VIDA",
-        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "CANTO A LA VIDA",
-      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Fabulosos Exitos",
-        "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 264026,
-      "name": "Calaveras y Diablitos",
-      "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Trio Ternura (Compacto 1973)",
         "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 183053,
       "name": "A Gira",
       "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Fabulosos Exitos",
+        "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "Calaveras y Diablitos",
+      "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -527,22 +527,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Curita",
-        "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
       },
       "artists": [
         {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         }
       ],
-      "duration_ms": 206065,
-      "name": "Curita",
-      "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -567,18 +563,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+        "name": "Curita",
+        "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
         }
       ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
+      "duration_ms": 206065,
+      "name": "Curita",
+      "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
+        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Quien Sabe",
+      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Versus (EP)",
         "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 258373,
       "name": "El Liso (feat. Luis Towers)",
       "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
-        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "Quien Sabe",
-      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Morena m\u00eda",
-        "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
+        "name": "Legados Bachata",
+        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
       },
       "artists": [
         {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
         }
       ],
-      "duration_ms": 188543,
-      "name": "Morena m\u00eda",
-      "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
+      "duration_ms": 246000,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Legados Bachata",
-        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
+        "name": "Morena m\u00eda",
+        "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
       },
       "artists": [
         {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
+      "duration_ms": 188543,
+      "name": "Morena m\u00eda",
+      "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Pelear",
-        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
-      },
-      "artists": [
-        {
-          "name": "Blanco Palamera",
-          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
-        }
-      ],
-      "duration_ms": 252397,
-      "name": "Pelear",
-      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Somos Hermanas",
         "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Pelear",
+        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
+      },
+      "artists": [
+        {
+          "name": "Blanco Palamera",
+          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+        }
+      ],
+      "duration_ms": 252397,
+      "name": "Pelear",
+      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
-      },
-      "artists": [
-        {
-          "name": "Si*S\u00e9",
-          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Donde Est\u00e1",
-      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Todo Cambi\u00f3",
         "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 218909,
       "name": "Todo Cambi\u00f3",
       "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
+      },
+      "artists": [
+        {
+          "name": "Si*S\u00e9",
+          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Donde Est\u00e1",
+      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Rosalie (Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 258845,
-      "name": "Rosalie (Espa\u00f1ol)",
-      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Atacama!",
         "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 251830,
       "name": "El hombre que quiso ser canci\u00f3n",
       "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Rosalie (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
+      },
+      "artists": [
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "duration_ms": 258845,
+      "name": "Rosalie (Espa\u00f1ol)",
+      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Malo Para M\u00ed",
-        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
-      },
-      "artists": [
-        {
-          "name": "Banana Leaf Boy",
-          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
-        }
-      ],
-      "duration_ms": 282415,
-      "name": "Malo Para M\u00ed",
-      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Estrella Matutina",
         "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 200184,
       "name": "Estrella Matutina",
       "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Malo Para M\u00ed",
+        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
+      },
+      "artists": [
+        {
+          "name": "Banana Leaf Boy",
+          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+        }
+      ],
+      "duration_ms": 282415,
+      "name": "Malo Para M\u00ed",
+      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "American Boy",
-        "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
-      },
-      "artists": [
-        {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
-        }
-      ],
-      "duration_ms": 225109,
-      "name": "American Boy",
-      "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Guapachosa",
         "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
       },
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "American Boy",
+        "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
+      },
+      "artists": [
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "duration_ms": 225109,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "La del bar",
         "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
       },
@@ -1651,22 +1651,6 @@
       "duration_ms": 154378,
       "name": "La del bar",
       "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Lady Mandona",
-        "url": "https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd"
-      },
-      "artists": [
-        {
-          "name": "Literal",
-          "url": "https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G"
-        }
-      ],
-      "duration_ms": 155122,
-      "name": "Lady Mandona",
-      "url": "https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1687,6 +1671,22 @@
       "duration_ms": 183734,
       "name": "Libre y en Movimiento",
       "url": "https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Lady Mandona",
+        "url": "https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd"
+      },
+      "artists": [
+        {
+          "name": "Literal",
+          "url": "https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G"
+        }
+      ],
+      "duration_ms": 155122,
+      "name": "Lady Mandona",
+      "url": "https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0"
     },
     {
       "added_at": "2024-10-25 04:00:00",

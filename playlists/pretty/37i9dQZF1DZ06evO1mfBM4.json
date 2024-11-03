@@ -1,12 +1,12 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2385343,
+  "num_followers": 2385828,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAADxJeeBmIzLz5MtPX8X6VAd",
+  "snapshot_id": "ZyQaAAAAAAAF8kGtEYI79QUBRr3PSskr",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amarte Es Un Placer",
-        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Amarte es un placer",
-      "url": "https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 203733,
       "name": "Mucho Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5C1HYHG6b1wk9MpC2UP9C6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Amarte es un placer",
+      "url": "https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Te necesito",
-      "url": "https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+        "name": "33",
+        "url": "https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 215066,
-      "name": "Un Hombre Busca a Una Mujer",
-      "url": "https://open.spotify.com/track/3ZRUhvuUE2lwZF19puKM8P"
+      "duration_ms": 194320,
+      "name": "Te necesito",
+      "url": "https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx"
     },
     {
       "added_at": null,
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Y - En vivo",
-      "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
+      "duration_ms": 215066,
+      "name": "Un Hombre Busca a Una Mujer",
+      "url": "https://open.spotify.com/track/3ZRUhvuUE2lwZF19puKM8P"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 257573,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/2pSZjEpbXwlocV8js7MNmu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "Y - En vivo",
+      "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Como Yo Te Am\u00e9",
-      "url": "https://open.spotify.com/track/4uP2EipoPEAq3InMMCQMG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Romances",
         "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 233973,
       "name": "C\u00f3mo duele",
       "url": "https://open.spotify.com/track/2inyRCfWB1ey6vNX43TTCl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Como Yo Te Am\u00e9",
+      "url": "https://open.spotify.com/track/4uP2EipoPEAq3InMMCQMG9"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 133760,
       "name": "Entrega Total",
       "url": "https://open.spotify.com/track/5stIIDoqTCHP69BKGdbSEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
     },
     {
       "added_at": null,

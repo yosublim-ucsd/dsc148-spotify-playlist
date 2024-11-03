@@ -1,12 +1,12 @@
 {
   "description": "This is Carin Leon. The essential tracks, all in one playlist.",
-  "num_followers": 976837,
+  "num_followers": 977237,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyLIgAAAAACFMfV+Xll3cQTAgiN4Go08",
+  "snapshot_id": "ZyQaAAAAAABBv2w4cTH8vusEavN2rVev",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 231375,
-      "name": "Desp\u00eddase bien",
-      "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 169895,
       "name": "Ni Me Debes Ni Te Debo",
       "url": "https://open.spotify.com/track/1393rKYgZHNphZrdx1jWoN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 231375,
+      "name": "Desp\u00eddase bien",
+      "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Casi oficial",
-      "url": "https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/6fplYq951Ltp6nIiTFcnCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Casi oficial",
+      "url": "https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH"
     },
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 200612,
+      "name": "Necesito Encontrarte",
+      "url": "https://open.spotify.com/track/7Fge718eSrqrCmaJykEmsR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 191250,
       "name": "\u2060Aviso importante",
       "url": "https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 200612,
-      "name": "Necesito Encontrarte",
-      "url": "https://open.spotify.com/track/7Fge718eSrqrCmaJykEmsR"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "\u20601",
-      "url": "https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 246131,
       "name": "Tu - En Vivo",
       "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "\u20601",
+      "url": "https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Lamentablemente",
-      "url": "https://open.spotify.com/track/7GGESORWVDTZnQ8mUENimX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Llorar y Llorar (con Carin Leon)",
         "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 169705,
       "name": "Llorar y Llorar - con Carin Leon",
       "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Lamentablemente",
+      "url": "https://open.spotify.com/track/7GGESORWVDTZnQ8mUENimX"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 200488,
+      "name": "Si Tu Amor No Vuelve - En Vivo",
+      "url": "https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 173000,
       "name": "Cuando La Vida Sea Trago",
       "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 200488,
-      "name": "Si Tu Amor No Vuelve - En Vivo",
-      "url": "https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 203816,
-      "name": "Amorcito Mio - En Vivo",
-      "url": "https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Borrachera Con Los Honorables (En Vivo)",
         "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 203816,
+      "name": "Amorcito Mio - En Vivo",
+      "url": "https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
@@ -863,26 +863,6 @@
       "duration_ms": 215882,
       "name": "La Farsante",
       "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Existo",
-        "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 175355,
-      "name": "Existo",
-      "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
     },
     {
       "added_at": null,
@@ -903,6 +883,26 @@
       "duration_ms": 198750,
       "name": "No Me Llores",
       "url": "https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Existo",
+        "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 175355,
+      "name": "Existo",
+      "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
     },
     {
       "added_at": null,
@@ -983,22 +983,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rayo",
-        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
       },
       "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Stoker",
-      "url": "https://open.spotify.com/track/5v8WFJFQz3BTcjeOOppkIY"
+      "duration_ms": 226488,
+      "name": "La Posible Manera (En Vivo)",
+      "url": "https://open.spotify.com/track/4ybzqwTdJzEmkXkrljm1jU"
     }
   ],
   "unique_name": "This Is Carin Leon",

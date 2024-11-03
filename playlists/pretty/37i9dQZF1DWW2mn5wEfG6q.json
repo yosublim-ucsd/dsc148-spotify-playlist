@@ -1,6 +1,6 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 82726,
+  "num_followers": 82759,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "Atomic Man",
-      "url": "https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Days Are Gone (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 230453,
       "name": "If I Could Change Your Mind",
       "url": "https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "Atomic Man",
+      "url": "https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1231,6 +1231,22 @@
       "duration_ms": 217120,
       "name": "Life Round Here",
       "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Days Are Gone (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 257813,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1vSEwZtoQA0sJxkOgF7MtG"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1340,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 257813,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1vSEwZtoQA0sJxkOgF7MtG"
+      "duration_ms": 245800,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5hfP8cKSzpfBisP3R24cAy"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1407,22 +1423,6 @@
       "duration_ms": 232746,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6kF2DYkORE9d17oPFomMPJ"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Days Are Gone (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 245800,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5hfP8cKSzpfBisP3R24cAy"
     },
     {
       "added_at": "2021-09-02 08:24:19",

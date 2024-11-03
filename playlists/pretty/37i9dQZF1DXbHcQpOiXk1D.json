@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 317945,
+  "num_followers": 317985,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Sure",
-        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
       },
       "artists": [
         {
-          "name": "Alice Auer",
-          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 248421,
-      "name": "Sure",
-      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+      "duration_ms": 200000,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Undone",
-        "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
+        "name": "Sure",
+        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
+      "duration_ms": 248421,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Breeze",
-        "url": "https://open.spotify.com/album/6KI58XTMpXQCMRqAQXeAGL"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 267013,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Below Dawn",
         "url": "https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 250941,
       "name": "Deep",
       "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/6KI58XTMpXQCMRqAQXeAGL"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 267013,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -647,38 +647,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 175635,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Orange-coloured day",
-        "url": "https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 168218,
-      "name": "Orange-coloured day",
-      "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3afFYjtGM2yTU59RvXaiuZ"
       },
@@ -695,6 +663,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 175635,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Landlord blues",
         "url": "https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 123599,
       "name": "Landlord blues",
       "url": "https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Orange-coloured day",
+        "url": "https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 168218,
+      "name": "Orange-coloured day",
+      "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Liam's Eavestaff",
-        "url": "https://open.spotify.com/album/4H2dfKsnWH6PwpfjEX07La"
-      },
-      "artists": [
-        {
-          "name": "Mom Tudie",
-          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
-        },
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Liam's Eavestaff",
-      "url": "https://open.spotify.com/track/6f95xzUOBAQkdjggMDR06m"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 274539,
       "name": "Love Is Like A Movie",
       "url": "https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Liam's Eavestaff",
+        "url": "https://open.spotify.com/album/4H2dfKsnWH6PwpfjEX07La"
+      },
+      "artists": [
+        {
+          "name": "Mom Tudie",
+          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
+        },
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Liam's Eavestaff",
+      "url": "https://open.spotify.com/track/6f95xzUOBAQkdjggMDR06m"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Checkpoint (Violence)",
-        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Amika Quartet",
-          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
-        }
-      ],
-      "duration_ms": 236186,
-      "name": "Checkpoint (Violence)",
-      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/2NY2edrq5vozPIDkyn0zrs"
       },
@@ -1035,22 +1015,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "In The Garden",
-        "url": "https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp"
+        "name": "Checkpoint (Violence)",
+        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
       },
       "artists": [
         {
-          "name": "Sol Paradise",
-          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         },
         {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
         }
       ],
-      "duration_ms": 280586,
-      "name": "In The Garden",
-      "url": "https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP"
+      "duration_ms": 236186,
+      "name": "Checkpoint (Violence)",
+      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1071,6 +1051,26 @@
       "duration_ms": 208978,
       "name": "Fly",
       "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "In The Garden",
+        "url": "https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp"
+      },
+      "artists": [
+        {
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        },
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 280586,
+      "name": "In The Garden",
+      "url": "https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Interdimensional",
-        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "I Stitched My Mind Back To My Body",
-      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "When It Comes Together",
         "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
       },
@@ -1187,18 +1171,34 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
+        "name": "Interdimensional",
+        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
       },
       "artists": [
         {
-          "name": "Bea Maher",
-          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
         }
       ],
-      "duration_ms": 232068,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+      "duration_ms": 245626,
+      "name": "I Stitched My Mind Back To My Body",
+      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Sole Subject",
+        "url": "https://open.spotify.com/album/5zB5DkFnigzorF6nOZ9OYt"
+      },
+      "artists": [
+        {
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+        }
+      ],
+      "duration_ms": 259870,
+      "name": "Stellar",
+      "url": "https://open.spotify.com/track/4yuMMtpVBlyKSjZeoUQumj"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1215,6 +1215,38 @@
       "duration_ms": 181156,
       "name": "Butter",
       "url": "https://open.spotify.com/track/64FLB8me1Fb0XV0YO8ntqC"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
+      },
+      "artists": [
+        {
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+        }
+      ],
+      "duration_ms": 232068,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 222989,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1239,38 +1271,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
-      },
-      "artists": [
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 222989,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Sole Subject",
-        "url": "https://open.spotify.com/album/5zB5DkFnigzorF6nOZ9OYt"
-      },
-      "artists": [
-        {
-          "name": "Richard Spaven",
-          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
-        }
-      ],
-      "duration_ms": 259870,
-      "name": "Stellar",
-      "url": "https://open.spotify.com/track/4yuMMtpVBlyKSjZeoUQumj"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Unchained Melodies Vol. 1",
         "url": "https://open.spotify.com/album/2edsxQdf0FGniP6b51BiXE"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 176702,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/5qjJraZSwr6t5Np2vQbDjf"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Fitzcarraldo",
+        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Fitzcarraldo",
+      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1331,34 +1347,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Fitzcarraldo",
-        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
+        "name": "Life in Time",
+        "url": "https://open.spotify.com/album/1Vgz1tCLnS1xmmNcLGMdJ9"
       },
       "artists": [
         {
-          "name": "Raffy Bushman",
-          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+          "name": "Heritage",
+          "url": "https://open.spotify.com/artist/6u1u0AhI6mFu0Ts90j9mHz"
         }
       ],
-      "duration_ms": 291000,
-      "name": "Fitzcarraldo",
-      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "BEG",
-        "url": "https://open.spotify.com/album/70EpH8QX7XLGwT2RmExT7T"
-      },
-      "artists": [
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 160578,
-      "name": "BEG",
-      "url": "https://open.spotify.com/track/6lDnQf5fGYyqGdCwgwVgZs"
+      "duration_ms": 296760,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/06ZtOGU9o24rkc4fCwi88J"
     }
   ],
   "unique_name": "Jazz UK",

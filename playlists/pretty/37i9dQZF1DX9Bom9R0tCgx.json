@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 394784,
+  "num_followers": 394870,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "90s Bitch",
+        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "duration_ms": 196258,
+      "name": "90s Bitch",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/0WOXfzinWC4ACoMv7L8KJa"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 121384,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/050mcqcICeaJ4h2yXdwCHT"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "90s Bitch",
-        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        }
-      ],
-      "duration_ms": 196258,
-      "name": "90s Bitch",
-      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Melody Of The World",
-        "url": "https://open.spotify.com/album/6KjUwVz5BQll1u26SwgytO"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Loic D",
-          "url": "https://open.spotify.com/artist/1rzEOTdzDy4d1WwepFnxF9"
-        },
-        {
-          "name": "Ronald-V",
-          "url": "https://open.spotify.com/artist/5n7CS2a8sZMC8RomunpUzq"
-        }
-      ],
-      "duration_ms": 151993,
-      "name": "Melody Of The World",
-      "url": "https://open.spotify.com/track/5f2MGMo8ARWb6WojaODeAY"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Ameno (Techno Mix)",
         "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 150400,
       "name": "Ameno (Techno Mix)",
       "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Melody Of The World",
+        "url": "https://open.spotify.com/album/6KjUwVz5BQll1u26SwgytO"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Loic D",
+          "url": "https://open.spotify.com/artist/1rzEOTdzDy4d1WwepFnxF9"
+        },
+        {
+          "name": "Ronald-V",
+          "url": "https://open.spotify.com/artist/5n7CS2a8sZMC8RomunpUzq"
+        }
+      ],
+      "duration_ms": 151993,
+      "name": "Melody Of The World",
+      "url": "https://open.spotify.com/track/5f2MGMo8ARWb6WojaODeAY"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Hey Ya",
         "url": "https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF"
       },
@@ -1347,22 +1367,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Stumblin' In (LUNAX Remix)",
-        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
+        "name": "Convivium",
+        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Stumblin' In (LUNAX Remix)",
-      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
+      "duration_ms": 133200,
+      "name": "Convivium",
+      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1451,50 +1471,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "HALO",
-          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 123669,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Convivium",
-        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Convivium",
-      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
       },
@@ -1519,6 +1495,30 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 123669,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1619,6 +1619,30 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Jump Jump Jump",
+        "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "Jump Jump Jump",
+      "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Explode",
         "url": "https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o"
       },
@@ -1675,26 +1699,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Jump Jump Jump",
-        "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        },
-        {
-          "name": "Captain Curtis",
-          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
         }
       ],
-      "duration_ms": 159473,
-      "name": "Jump Jump Jump",
-      "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
+      "duration_ms": 134357,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1715,22 +1731,6 @@
       "duration_ms": 205116,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
-      },
-      "artists": [
-        {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        }
-      ],
-      "duration_ms": 134357,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1979,18 +1979,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R"
+        "name": "My Beat Goes",
+        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
         }
       ],
-      "duration_ms": 163165,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8"
+      "duration_ms": 226285,
+      "name": "My Beat Goes",
+      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -2011,22 +2011,6 @@
       "duration_ms": 146718,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "My Beat Goes",
-        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "My Beat Goes",
-      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -2063,18 +2047,38 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Renegade Master",
-        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 170307,
-      "name": "Renegade Master",
-      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
+      "duration_ms": 163165,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
     }
   ],
   "unique_name": "Bass Explosion",

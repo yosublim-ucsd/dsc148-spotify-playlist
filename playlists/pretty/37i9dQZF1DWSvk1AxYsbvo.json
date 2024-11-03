@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 14538,
+  "num_followers": 14564,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
+        "name": "4Life",
+        "url": "https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac"
+      },
+      "artists": [
+        {
+          "name": "KWACA",
+          "url": "https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "4Life",
+      "url": "https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "4Life",
-        "url": "https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac"
-      },
-      "artists": [
-        {
-          "name": "KWACA",
-          "url": "https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "4Life",
-      "url": "https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
         "name": "\uc2dc\uc18c",
         "url": "https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "Seoul Check-in OST Part 8",
-        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
         "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 180638,
       "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
       "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
+        "name": "Seoul Check-in OST Part 8",
+        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -823,18 +823,22 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "Losing Myself",
-        "url": "https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH"
+        "name": "Voice Of The Forest",
+        "url": "https://open.spotify.com/album/6MbzdZpJjL2CXVOuPEVLmb"
       },
       "artists": [
         {
-          "name": "Gogang",
-          "url": "https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        },
+        {
+          "name": "LEE RAON",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
         }
       ],
-      "duration_ms": 176373,
-      "name": "Losing Myself",
-      "url": "https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX"
+      "duration_ms": 233706,
+      "name": "Voice Of The Forest - Guitar Version",
+      "url": "https://open.spotify.com/track/6NV58PolVIW1nEqXfbsPid"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

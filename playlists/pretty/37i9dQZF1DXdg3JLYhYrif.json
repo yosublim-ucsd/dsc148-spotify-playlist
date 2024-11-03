@@ -1,6 +1,6 @@
 {
   "description": "Hits brasileiros dos \u00faltimos anos para animar sua faxina.",
-  "num_followers": 367021,
+  "num_followers": 367097,
   "original_name": "Dia de Faxina",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Gusttavo Lima e Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0JZWK7QhGa1Ir5IRLENyW6"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "Balada - Ao Vivo",
-      "url": "https://open.spotify.com/track/0zZnBbRW4Dt4cJKVtUQFwF"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 147748,
       "name": "Supera - Ao Vivo",
       "url": "https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Gusttavo Lima e Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0JZWK7QhGa1Ir5IRLENyW6"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Balada - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zZnBbRW4Dt4cJKVtUQFwF"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -247,18 +247,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Simone & Simaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
+        "name": "Gaiola \u00c9 o Troco",
+        "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
       },
       "artists": [
         {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+          "name": "MC Du Black",
+          "url": "https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc"
+        },
+        {
+          "name": "DJ 2F",
+          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
         }
       ],
-      "duration_ms": 232485,
-      "name": "Regime Fechado - Ao Vivo",
-      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
+      "duration_ms": 187245,
+      "name": "Gaiola \u00c9 o Troco",
+      "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -279,22 +283,18 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Gaiola \u00c9 o Troco",
-        "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
+        "name": "Simone & Simaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
       },
       "artists": [
         {
-          "name": "MC Du Black",
-          "url": "https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc"
-        },
-        {
-          "name": "DJ 2F",
-          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
         }
       ],
-      "duration_ms": 187245,
-      "name": "Gaiola \u00c9 o Troco",
-      "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
+      "duration_ms": 232485,
+      "name": "Regime Fechado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Acordando o Pr\u00e9dio",
+        "url": "https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 218467,
+      "name": "Acordando o Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/40bK2uosUmAS92c17n98xd"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "Dona de mim",
         "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 180625,
       "name": "Ginga (Participa\u00e7\u00e3o especial de Rincon Sapi\u00eancia)",
       "url": "https://open.spotify.com/track/1QqIcxyTz2G7I31wcrnERf"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Acordando o Pr\u00e9dio",
-        "url": "https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 218467,
-      "name": "Acordando o Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/40bK2uosUmAS92c17n98xd"
     },
     {
       "added_at": "2022-03-24 13:07:25",

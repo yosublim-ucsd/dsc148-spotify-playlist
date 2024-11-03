@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DET GÅR UPP O NER!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,310 likes - 103 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,326 likes - 103 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

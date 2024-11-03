@@ -4,7 +4,7 @@
 
 > This is Daniela Araújo\. The essential tracks, all in one playlist.
 
-81 songs - 5 hr 31 min
+82 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Desejo do Meu Coração \- Ao Vivo](https://open.spotify.com/track/56YKz3uWPr5Pnj1itFWUsP) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [15 Anos \(ao Vivo\)](https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V) | 6:01 | 2023-07-09 |  |
 | [Dezembro](https://open.spotify.com/track/6D9an17SY65R2ALutmDzyk) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:47 | 2024-05-05 | 2024-05-07 |
 | [Dono dos Meus Dias](https://open.spotify.com/track/4DqMjreua66sH84GbccttX) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dono dos Meus Dias](https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU) | 3:59 | 2023-07-09 |  |
+| [Elevo as Mãos](https://open.spotify.com/track/3VhgEJo2qdrGhbLUFlMJMg) | [Turma do Barulho](https://open.spotify.com/artist/3pNEvfLOYnWOOvbHA2vhb5), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/6JvCmY2aReO0jOHrTO0U92), [Elen Diana](https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE), [Suelen Araújo](https://open.spotify.com/artist/5pwRTK98q8ffGHJd5HBvc7) | [Turma do Barulho, Vol\. 3](https://open.spotify.com/album/49ca1j2qwKeZgGiItdzg2a) | 3:20 | 2024-11-03 |  |
 | [Entrega](https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 5:43 | 2023-07-09 |  |
 | [Esperança](https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Catarse: Lado A](https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB) | 4:40 | 2023-07-09 |  |
 | [Está Tudo Bem](https://open.spotify.com/track/0bvMua9rdpjzLYmKCgLuK4) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Acústico, Vol\. 1](https://open.spotify.com/album/1bmhKa2YvWFQgfYrxddKD5) | 5:31 | 2024-03-23 | 2024-03-31 |
@@ -41,7 +42,7 @@
 | [Gratidão](https://open.spotify.com/track/6ktpmdpTcsHiMl17l1k5Nl) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:14 | 2023-09-18 |  |
 | [Guia\-Me](https://open.spotify.com/track/3ysiBzk8LiZaik65dHuqDh) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 3:57 | 2023-07-09 |  |
 | [Imensurável](https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:04 | 2023-07-09 |  |
-| [Janeiro](https://open.spotify.com/track/2HPgVKn1cV8XV4zUhYjqnR) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 4:17 | 2024-09-28 |  |
+| [Janeiro](https://open.spotify.com/track/2HPgVKn1cV8XV4zUhYjqnR) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 4:17 | 2024-09-28 | 2024-11-03 |
 | [Jesus](https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 3:46 | 2024-05-22 |  |
 | [Jugo Suave](https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:21 | 2023-07-09 |  |
 | [Junho](https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 4:02 | 2023-07-21 | 2024-09-14 |

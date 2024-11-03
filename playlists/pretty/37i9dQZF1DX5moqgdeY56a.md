@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,133 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,182 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 38 | [El Comienzo del Final](https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Comienzo del Final](https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g) | 2:53 |
 | 39 | [El Cantador](https://open.spotify.com/track/4EGoIDuTFm5wbZRvcZNmBS) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Corridos De Caballos \- Antonio Aguilar](https://open.spotify.com/album/5BCEuGy3UosQe1jpmbVYDV) | 3:28 |
 | 40 | [El Patas Blancas](https://open.spotify.com/track/3BV5DGx0hb3MXQLbbn9SSa) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Exitos Corridos \- Antonio Aguilar](https://open.spotify.com/album/4UlhGPLgVuU7D7xhTH2yWq) | 3:13 |
-| 41 | [El Autobús](https://open.spotify.com/track/6qURriyKzYaFVzufY51LDj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [No Soy de Nadie](https://open.spotify.com/album/5qoV1zhw6RCAfjnu9gwJFt) | 3:57 |
-| 42 | [Me Falta Valor](https://open.spotify.com/track/1iYxVSMiWDZczjbBUal78L) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Y Tenerte Otra Vez](https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F) | 3:37 |
+| 41 | [Me Falta Valor](https://open.spotify.com/track/1iYxVSMiWDZczjbBUal78L) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Y Tenerte Otra Vez](https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F) | 3:37 |
+| 42 | [El Autobús](https://open.spotify.com/track/6qURriyKzYaFVzufY51LDj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [No Soy de Nadie](https://open.spotify.com/album/5qoV1zhw6RCAfjnu9gwJFt) | 3:57 |
 | 43 | [Yo la Amo](https://open.spotify.com/track/5lsRImOV4NbLHHRIMPQExC) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Y Tenerte Otra Vez](https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F) | 4:17 |
 | 44 | [Mi Destino Fué Quererte](https://open.spotify.com/track/2e1CmyyYO8RbQCvKy8eA1R) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 4:03 |
 | 45 | [Me Vale](https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vale](https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj) | 3:01 |

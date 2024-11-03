@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡El muerto al pozo y el vivo al gozo con música para el Día de Muertos! 💀 ✨Alemán y Gera MX portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,095 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,205 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 157522,
+  "num_followers": 157583,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Every Day the Sun Comes Up",
-        "url": "https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 316194,
-      "name": "Every Day the Sun Comes Up",
-      "url": "https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "pinky ring / red velve7",
         "url": "https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 415706,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Every Day the Sun Comes Up",
+        "url": "https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 316194,
+      "name": "Every Day the Sun Comes Up",
+      "url": "https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo"
     },
     {
       "added_at": "2024-07-26 04:00:00",

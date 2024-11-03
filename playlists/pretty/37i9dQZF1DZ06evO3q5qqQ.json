@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 110496,
+  "num_followers": 110514,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyF3AAAAAADpRj3zFLq8Wv6ALRtAv+Oa",
+  "snapshot_id": "ZyQaAAAAAADJ/ypkyCoyPH5W4ktfPdTq",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/3hlzeDhRlrd9ICvrokcUTb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serafin Zambada",
         "url": "https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 128933,
       "name": "Seraf\u00edn Zambada",
       "url": "https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/3hlzeDhRlrd9ICvrokcUTb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI"
     },
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novedad",
-        "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 209157,
-      "name": "La Novedad",
-      "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a",
         "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 145600,
       "name": "El Se\u00f1or De La Monta\u00f1a",
       "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Novedad",
+        "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 209157,
+      "name": "La Novedad",
+      "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
     },
     {
       "added_at": null,
@@ -327,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pato Nada",
-        "url": "https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt"
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Jando Cartagena",
-          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
         }
       ],
-      "duration_ms": 164989,
-      "name": "El Pato Nada",
-      "url": "https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA"
+      "duration_ms": 149951,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": null,
@@ -363,34 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
+        "name": "El Pato Nada",
+        "url": "https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149951,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
-      },
-      "artists": [
+        },
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Jando Cartagena",
+          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
         }
       ],
-      "duration_ms": 189504,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
+      "duration_ms": 164989,
+      "name": "El Pato Nada",
+      "url": "https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA"
     },
     {
       "added_at": null,
@@ -407,6 +391,22 @@
       "duration_ms": 208927,
       "name": "Los Mitotes",
       "url": "https://open.spotify.com/track/0MEHgDJShhpGFQ5DRWEge0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189504,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149695,
-      "name": "La Pasadita (En vivo)",
-      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Tiempos De Aguas",
         "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 171989,
       "name": "El Bolas",
       "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149695,
+      "name": "La Pasadita (En vivo)",
+      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 273920,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Rey Del Desierto",
         "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 179733,
       "name": "El Rey Del Desierto",
       "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 132328,
-      "name": "Aqui En Mi Corazon Tu Mandas",
-      "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o"
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 273920,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6"
+      "duration_ms": 132328,
+      "name": "Aqui En Mi Corazon Tu Mandas",
+      "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
       "duration_ms": 162047,
       "name": "El Mochomo (En vivo)",
       "url": "https://open.spotify.com/track/6A7FBChw6dVmf5UX1IXUyR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 184957,
-      "name": "Jimenez",
-      "url": "https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 184957,
+      "name": "Jimenez",
+      "url": "https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Birria",
         "url": "https://open.spotify.com/album/4U50pciWwb1rE8RzjIKuDM"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 140827,
-      "name": "El De La Aldea",
-      "url": "https://open.spotify.com/track/4KHsDU8PPw2MvXTQrjsOr2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 176430,
       "name": "Don Mayo (En vivo)",
       "url": "https://open.spotify.com/track/0dosB2O1QBbPSkAw2eFSX5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 140827,
+      "name": "El De La Aldea",
+      "url": "https://open.spotify.com/track/4KHsDU8PPw2MvXTQrjsOr2"
     },
     {
       "added_at": null,
