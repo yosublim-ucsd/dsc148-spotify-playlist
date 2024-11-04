@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Highland Girl",
         "url": "https://open.spotify.com/album/2cwA7Q8oyybnd2r6JbkKm7"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 176133,
       "name": "Highland Girl",
       "url": "https://open.spotify.com/track/0gNE5SN9JNarhCpZBiHL9q"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "KONFETTI",
         "url": "https://open.spotify.com/album/4X1n6VXWFDTcknIWKAgHNy"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 154687,
       "name": "KONFETTI",
       "url": "https://open.spotify.com/track/4EvCYXjPweKzMgTCRYgmp2"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Asereje (Airplane Mode)",
-        "url": "https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf"
+        "name": "Cyrk",
+        "url": "https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf"
       },
       "artists": [
         {
-          "name": "BLANKA",
-          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
         }
       ],
-      "duration_ms": 159537,
-      "name": "Asereje (Airplane Mode)",
-      "url": "https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa"
+      "duration_ms": 186581,
+      "name": "Cyrk",
+      "url": "https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR"
     }
   ],
   "unique_name": "... ale najpierw kawa",

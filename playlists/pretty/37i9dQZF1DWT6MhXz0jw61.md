@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,333,221 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,388 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 58 | [Blue Door](https://open.spotify.com/track/0b6ibNbNpuBwKiGGjnlcKz) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [Everywhere, But Always](https://open.spotify.com/album/4s27c65oOZlJDnJB9K5OR3) | 2:50 |
 | 59 | [SALAD](https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [SALAD](https://open.spotify.com/album/0xkWdFSnZVaHICeiGyiVIY) | 2:53 |
 | 60 | [MAYNARD VIGNETTE \[Feat\. T.I., JID, Jacquees\]](https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [MAYNARD VIGNETTE \[Feat\. T.I., JID, and Jacquees\]](https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL) | 4:48 |
-| 61 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
+| 61 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 62 | [WalkOnBy \(feat\. Earl Sweatshirt & Rae Khalil\)](https://open.spotify.com/track/5mUHnwhs4N0bLhidpub3FC) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [WalkOnBy \(feat\. Earl Sweatshirt & Rae Khalil\)](https://open.spotify.com/album/7fh5OBZUItvGL20l3MLEnV) | 3:47 |
 | 63 | [Bat Phone](https://open.spotify.com/track/0rLhCmGwVdTnhpDtckZ1dC) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [The Loading EP](https://open.spotify.com/album/3v7EwnT9vSwdkHKhyNqZbq) | 3:24 |
 | 64 | [Angels](https://open.spotify.com/track/2hTSBtuYVdSItzhgXQ5O4d) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [The Soulyghost](https://open.spotify.com/artist/5I0MlK68aOYfPGsIdmBrIr) | [The Lotus Child](https://open.spotify.com/album/39FpJp8gjraLFv0HZByz0D) | 3:30 |

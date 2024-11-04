@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Reality \(feat\. Janieck Devy\) \- Radio Edit](https://open.spotify.com/track/0cOBMETjhxublnnwhbnzJO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck Devy](https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON) | [Less Is More](https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT) | 2:39 |
+| 1 | [Reality](https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:39 |
 | 2 | [Narcotic](https://open.spotify.com/track/7M9w4C8WenlvWfNRAulZOX) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Senex](https://open.spotify.com/artist/2n0Qz7ZvKS6kwjPuj9sW4H) | [Narcotic](https://open.spotify.com/album/5J3cTpJJ1EgXK8ZCEylSZO) | 3:12 |
 | 3 | [Little Hollywood](https://open.spotify.com/track/3tKZrYDtkte1E68aNozR75) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Sticker on My Suitcase](https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy) | 3:03 |
 | 4 | [Send It \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5G674ePHPwtbRbo4E5noZl) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Send It \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/0mQUo8qTCCxTWXcC0Eqo2L) | 3:01 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 25 | [Sing Along](https://open.spotify.com/track/3BPslvVpadxuTyXnd9gxWi) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Sing Along](https://open.spotify.com/album/1fFx7VqRKjG1fK0DZYHmed) | 3:04 |
 | 26 | [Twenty One](https://open.spotify.com/track/3iAD8b8HXY4M7jyrU90mgS) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Twenty One](https://open.spotify.com/album/0tOTP7MnvbpTUbg55rKXzq) | 2:08 |
 | 27 | [Hero](https://open.spotify.com/track/4GSIloqu2wEqZkZGYOWsTC) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Hero](https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u) | 3:15 |
-| 28 | [Northern Lights](https://open.spotify.com/track/5RfewpRbpiihMwWPQxTnB3) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Northern Lights](https://open.spotify.com/album/3jcyaJQYwvcVKyyK5eNNCe) | 2:35 |
-| 29 | [Whenever](https://open.spotify.com/track/2v0RhlOnfy6qBIU3zvFJKq) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/4wttAKtcPFWY44msS6bU2T) | 2:35 |
+| 28 | [Whenever](https://open.spotify.com/track/2v0RhlOnfy6qBIU3zvFJKq) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/4wttAKtcPFWY44msS6bU2T) | 2:35 |
+| 29 | [Northern Lights](https://open.spotify.com/track/5RfewpRbpiihMwWPQxTnB3) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Northern Lights](https://open.spotify.com/album/3jcyaJQYwvcVKyyK5eNNCe) | 2:35 |
 | 30 | [Boem Boem Boem](https://open.spotify.com/track/2qf5GS2a5ewZqK5oRT3dAE) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Nils](https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7) | [Boem Boem Boem](https://open.spotify.com/album/5M5YCUfUxyzmZjGHq7HLPy) | 2:12 |
 | 31 | [Connecting Like Stars](https://open.spotify.com/track/46j7uZr4aVa9GbsVAgGnql) | [Club Banditz](https://open.spotify.com/artist/37w7AKYFnSBXALpTG9WYgw), [Radboud](https://open.spotify.com/artist/45u76TkBT9bVGMISjzb3Ty) | [Connecting Like Stars](https://open.spotify.com/album/11KGsBvcc2dIuvF2cKic9o) | 5:11 |
 | 32 | [Do You Want Me To Go?](https://open.spotify.com/track/6vJ1DjEWXvZIGtXq6EeG3U) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Maude](https://open.spotify.com/artist/3V0aYZvJGDE2SZwNNv80Xa) | [Do You Want Me To Go?](https://open.spotify.com/album/2axMOrohY6LvYgXWINJwkv) | 2:20 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 37 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
 | 38 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AbgdagAAAAAoaYxR8q9SgRIHgj237HyA`
+Snapshot ID: `AbgjCgAAAACiVIgxAJ2O0dCfYjqeefgq`

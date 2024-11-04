@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 36982,
+  "num_followers": 37002,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Blues for You (Remixes)",
+        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Blues For You - Hard Dub",
+      "url": "https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -251,6 +267,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
+        "url": "https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Darryl D'Bonneau",
+          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
+        }
+      ],
+      "duration_ms": 566026,
+      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
+      "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "What You Need (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR"
       },
@@ -283,26 +319,6 @@
       "duration_ms": 731746,
       "name": "Dancin",
       "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
-        "url": "https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Darryl D'Bonneau",
-          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
-        }
-      ],
-      "duration_ms": 566026,
-      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
-      "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -371,22 +387,6 @@
       "duration_ms": 368466,
       "name": "Equinox - Henrik Schwarz Remix",
       "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Blues for You (Remixes)",
-        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Blues For You - Hard Dub",
-      "url": "https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 777626,
+      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
+      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
         "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 337901,
       "name": "Just An Organ - Just An Organ Mix",
       "url": "https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 777626,
-      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
-      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 479440,
+      "name": "Everybody Dance - M.A.S. Club Vocal",
+      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Give A Little Love",
         "url": "https://open.spotify.com/album/1YMG0R1t7BKaFKNDRbztKz"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 258906,
       "name": "Give It All To You - 92 Remix",
       "url": "https://open.spotify.com/track/49RSvh6silwveTzfQwSbLj"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance - M.A.S. Club Vocal",
-      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
     },
     {
       "added_at": "2022-03-03 13:59:16",

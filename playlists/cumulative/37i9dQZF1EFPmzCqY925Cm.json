@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "JUICE BOX",
+        "url": "https://open.spotify.com/album/2XChtb4PHji5kdYRaEHY4n"
+      },
+      "artists": [
+        {
+          "name": "Jades Goudreault",
+          "url": "https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114945,
+      "name": "JUICE BOX",
+      "url": "https://open.spotify.com/track/6oZafL1or65dWK6OwYSM0u"
+    },
+    {
+      "album": {
         "name": "Cheques \u2018n\u2019 Respect",
         "url": "https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p"
       },

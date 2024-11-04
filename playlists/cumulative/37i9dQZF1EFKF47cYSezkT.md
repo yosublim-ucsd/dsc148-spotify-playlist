@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-59 songs - 2 hr 52 min
+60 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 Wish](https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [1 Wish](https://open.spotify.com/album/7KlrorqixG3qKh4nHmfoJt) | 2:47 | 2024-11-03 |  |
 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 | 2024-01-29 |  |
 | [Addiction](https://open.spotify.com/track/4ALWeaejGCYWoV2dOgMHdP) | [Reece](https://open.spotify.com/artist/3iTrWDrsuhQevKeFWNDaBG) | [Addiction](https://open.spotify.com/album/6tBh1bdzqfSdL1wq6XRwcb) | 2:47 | 2024-01-29 | 2024-03-10 |
 | [American Adrenaline](https://open.spotify.com/track/3lB29hZfDXcYVkPIxhRcEY) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [American Adrenaline](https://open.spotify.com/album/1S5775jJvJl7gLNhU4HoEf) | 2:43 | 2024-01-29 |  |

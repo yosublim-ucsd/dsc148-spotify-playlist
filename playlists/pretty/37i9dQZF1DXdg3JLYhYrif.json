@@ -1,6 +1,6 @@
 {
   "description": "Hits brasileiros dos \u00faltimos anos para animar sua faxina.",
-  "num_followers": 367097,
+  "num_followers": 367149,
   "original_name": "Dia de Faxina",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Terra Sem Cep (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "Propaganda - Ao Vivo",
+      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "Quando a vontade bater (Participa\u00e7\u00e3o especial de PK Delas)",
         "url": "https://open.spotify.com/album/4xZooRPlL4QKyM0twraCtp"
       },
@@ -111,22 +127,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Terra Sem Cep (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "Propaganda - Ao Vivo",
-      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Na Praia (Ao Vivo)",
         "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
       },
@@ -139,6 +139,22 @@
       "duration_ms": 187133,
       "name": "O Nosso Santo Bateu - Live",
       "url": "https://open.spotify.com/track/5C0wi5U4l0YUv7yIKe2TEe"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Atitude 67 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Cerveja De Garrafa (Fuma\u00e7a Que Eu Fa\u00e7o) - Ao Vivo Em S\u00e3o Paulo / 2017",
+      "url": "https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -163,18 +179,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Atitude 67 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
+        "name": "Tempo Certo (Ao Vivo em Campo Grande)",
+        "url": "https://open.spotify.com/album/2yqFE84Ne8JjDcEXhdi6qB"
       },
       "artists": [
         {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+          "name": "Henrique & Diego",
+          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
+        },
+        {
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
         }
       ],
-      "duration_ms": 210386,
-      "name": "Cerveja De Garrafa (Fuma\u00e7a Que Eu Fa\u00e7o) - Ao Vivo Em S\u00e3o Paulo / 2017",
-      "url": "https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX"
+      "duration_ms": 178066,
+      "name": "Su\u00edte 14 (feat. Mc Guim\u00ea) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lbPwb1Beo7JU2VwuJRTeR"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -211,26 +231,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Tempo Certo (Ao Vivo em Campo Grande)",
-        "url": "https://open.spotify.com/album/2yqFE84Ne8JjDcEXhdi6qB"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Diego",
-          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
-        },
-        {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Su\u00edte 14 (feat. Mc Guim\u00ea) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lbPwb1Beo7JU2VwuJRTeR"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "A Voz Do Meu Samba - Ao Vivo",
         "url": "https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c"
       },
@@ -243,6 +243,22 @@
       "duration_ms": 194090,
       "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
       "url": "https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 162734,
+      "name": "Te Assumi Pro Brasil - Ao Vivo",
+      "url": "https://open.spotify.com/track/6P7Uodyh8g40Nyc3no6R8E"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -263,22 +279,6 @@
       "duration_ms": 187245,
       "name": "Gaiola \u00c9 o Troco",
       "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 162734,
-      "name": "Te Assumi Pro Brasil - Ao Vivo",
-      "url": "https://open.spotify.com/track/6P7Uodyh8g40Nyc3no6R8E"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -515,6 +515,42 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Diversoficando",
+        "url": "https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Envolvid\u00e3o",
+      "url": "https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
+        "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 206270,
+      "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
+      "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "N\u00e3o Fala N\u00e3o pra Mim",
         "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
       },
@@ -531,22 +567,6 @@
       "duration_ms": 196613,
       "name": "N\u00e3o Fala N\u00e3o pra Mim",
       "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Diversoficando",
-        "url": "https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Envolvid\u00e3o",
-      "url": "https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -587,26 +607,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
-        "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 206270,
-      "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
-      "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Na Ponta Ela Fica",
         "url": "https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 154026,
       "name": "Na Ponta Ela Fica",
       "url": "https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Anitta",
+        "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 150933,
+      "name": "Show das Poderosas",
+      "url": "https://open.spotify.com/track/28aUFtkMnJaqNQkLHR0weV"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -691,22 +707,6 @@
       "duration_ms": 284117,
       "name": "Meu Mundo",
       "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Anitta",
-        "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 150933,
-      "name": "Show das Poderosas",
-      "url": "https://open.spotify.com/track/28aUFtkMnJaqNQkLHR0weV"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -863,6 +863,26 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Hello mundo (Ao vivo)",
+        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 157494,
+      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
+      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "Voc\u00ea Partiu Meu Cora\u00e7\u00e3o (feat. Anitta & Wesley Safad\u00e3o)",
         "url": "https://open.spotify.com/album/53y7OTl1WRQftTuaXoXYFk"
       },
@@ -907,26 +927,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Hello mundo (Ao vivo)",
-        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 157494,
-      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
-      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Vai Passar Mal",
         "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
       },
@@ -963,26 +963,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Pa\u00eds do Futebol",
-        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
-      },
-      "artists": [
-        {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 149002,
-      "name": "Pa\u00eds do Futebol",
-      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Encaixa",
         "url": "https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 169364,
       "name": "Encaixa",
       "url": "https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Pa\u00eds do Futebol",
+        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+      },
+      "artists": [
+        {
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 149002,
+      "name": "Pa\u00eds do Futebol",
+      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "N\u00e3o sou obrigada",
-        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 148340,
-      "name": "N\u00e3o sou obrigada",
-      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Ta Tum Tum",
         "url": "https://open.spotify.com/album/7ebtmJ8DgEa0AranPQOcBI"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 164157,
       "name": "Ta Tum Tum",
       "url": "https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "N\u00e3o sou obrigada",
+        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 148340,
+      "name": "N\u00e3o sou obrigada",
+      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
     },
     {
       "added_at": "2022-03-24 13:07:25",

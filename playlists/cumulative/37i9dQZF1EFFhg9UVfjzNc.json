@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Caia Fogo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0zlkDvINie2zgVHxK51zOA"
+      },
+      "artists": [
+        {
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+        },
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577586,
+      "name": "Caia Fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2TALoVWEhMyFHbfHW41Vuq"
+    },
+    {
+      "album": {
         "name": "Noite de Adora\u00e7\u00e3o II (Ao Vivo)",
         "url": "https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 204205,
+  "num_followers": 204345,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAACRZROt3eEz+BVv0vg51ajD",
+  "snapshot_id": "ZyVrgAAAAAARkZw0pzwmtKu6xlC1xKC3",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "lie to me",
-        "url": "https://open.spotify.com/album/4BAEubwvC2r7bPRKlmRxUO"
+        "name": "The Idea Of Her",
+        "url": "https://open.spotify.com/album/5SBdHir3OHo2WZN0F3Pnbr"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
           "name": "Ali Gatie",
           "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
       "duration_ms": 177440,
       "name": "lie to me",
-      "url": "https://open.spotify.com/track/4f9IfFvBFm7Gsf1IVEudyf"
+      "url": "https://open.spotify.com/track/4NUgJ9gYHuAhaT3bj9ONh3"
     },
     {
       "added_at": null,

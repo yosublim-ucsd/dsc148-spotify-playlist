@@ -226,11 +226,15 @@
         {
           "name": "Ryu Jikwang",
           "url": "https://open.spotify.com/artist/4JABjp69hYZ7KWVHI0QCiP"
+        },
+        {
+          "name": "Na Taeju",
+          "url": "https://open.spotify.com/artist/7I9b0wtsZYnGXxGTN92XnP"
         }
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 199720,
       "name": "A friend like a medicine",
       "url": "https://open.spotify.com/track/4gtVZtcTsLJIcQl6BMV5zS"
@@ -4082,7 +4086,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 198493,
       "name": "Flower Extract",
       "url": "https://open.spotify.com/track/5luMbJAYizjv6OPDkHofTY"
@@ -8963,6 +8967,24 @@
     },
     {
       "album": {
+        "name": "Music Source of Mr. Trot 2 Rival match Best PART1",
+        "url": "https://open.spotify.com/album/4pPmKcHmWESddyY1rYmTRl"
+      },
+      "artists": [
+        {
+          "name": "Park Ji Hyeon",
+          "url": "https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190840,
+      "name": "My Geomungo",
+      "url": "https://open.spotify.com/track/4gFvUvuQKL7szQnB86N6hs"
+    },
+    {
+      "album": {
         "name": "Love call center PART27",
         "url": "https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs"
       },
@@ -9800,7 +9822,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 222377,
       "name": "OH!MANY",
       "url": "https://open.spotify.com/track/3UVnPYnsljNxnZMnKhyhRJ"
@@ -11194,7 +11216,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 206386,
       "name": "Sarang Taryeong",
       "url": "https://open.spotify.com/track/0iwe7wjCsiutuh7OGhJPR1"
@@ -15224,7 +15246,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 215386,
       "name": "You Have Your Own Scent",
       "url": "https://open.spotify.com/track/3cWedKElHdS1FRqRxotCXG"

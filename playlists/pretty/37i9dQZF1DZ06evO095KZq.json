@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 436836,
+  "num_followers": 436876,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAAD33nFc7d7+Ombs9Hzp7qKa",
+  "snapshot_id": "ZyVrgAAAAADoK7uboCjhemkDt55J4hGl",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 152762,
-      "name": "Catarino y los Rurales",
-      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Rey Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
         "url": "https://open.spotify.com/album/2OSScqwUyJf5gtMfj93T2b"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 152762,
+      "name": "Catarino y los Rurales",
+      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dolor y Amor",
         "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
@@ -671,6 +671,26 @@
       "duration_ms": 141409,
       "name": "Soy de Durango",
       "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chavo",
+        "url": "https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 226101,
+      "name": "El Chavo",
+      "url": "https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di"
     },
     {
       "added_at": null,
@@ -707,26 +727,6 @@
       "duration_ms": 145781,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Chavo",
-        "url": "https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 226101,
-      "name": "El Chavo",
-      "url": "https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di"
     },
     {
       "added_at": null,
@@ -812,25 +812,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 223769,
-      "name": "El 40 (Durango)",
-      "url": "https://open.spotify.com/track/190XkXskGUN2G7lVuetvYB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "En Esta Vida",
-      "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
+      "duration_ms": 165971,
+      "name": "Aqu\u00ed en Jalisco",
+      "url": "https://open.spotify.com/track/2K6h6Zn0E3InwawnRdEzLB"
     },
     {
       "added_at": null,
@@ -851,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay pa' Toro",
-        "url": "https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp"
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
       "artists": [
         {
@@ -860,25 +844,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 159597,
-      "name": "De Puntitas",
-      "url": "https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carteles Vol.II",
-        "url": "https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 165971,
-      "name": "Aqu\u00ed en Jalisco",
-      "url": "https://open.spotify.com/track/2K6h6Zn0E3InwawnRdEzLB"
+      "duration_ms": 153428,
+      "name": "En Esta Vida",
+      "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
     },
     {
       "added_at": null,
@@ -895,6 +863,38 @@
       "duration_ms": 222270,
       "name": "El Exitoso",
       "url": "https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carteles Vol.II",
+        "url": "https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 223769,
+      "name": "El 40 (Durango)",
+      "url": "https://open.spotify.com/track/190XkXskGUN2G7lVuetvYB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hay pa' Toro",
+        "url": "https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 159597,
+      "name": "De Puntitas",
+      "url": "https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9"
     }
   ],
   "unique_name": "This Is El Fantasma",

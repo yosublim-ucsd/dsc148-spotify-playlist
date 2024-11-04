@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: WurtS \*👉 <a href="https://spice.eplus.jp/articles/332878?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: WurtS \*👉 <a href="https://spice.eplus.jp/articles/333047?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,602 likes - 77 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,622 likes - 77 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 76 | [Beetle Flip](https://open.spotify.com/track/13meet4Rq6a1SMcHYdCjsa) | [KBSNK](https://open.spotify.com/artist/4BnAvxhZ0QKTALIGv828R2), [ISLTR](https://open.spotify.com/artist/79xUV4cJhPVjkfn9mm1ZuR) | [Beetle Flip](https://open.spotify.com/album/6TJUCDg7uWhGbKhkPtnFtr) | 3:41 |
 | 77 | [あなたのことがわからない](https://open.spotify.com/track/30mIAioMJJk28dEEVN8GWv) | [Yasuharu Konishi](https://open.spotify.com/artist/0v3YeJH8iq8DQcIwIMWFgD) | [失恋と得恋](https://open.spotify.com/album/6WxqkMkATjZ7fAx2laj9et) | 3:31 |
 
-Snapshot ID: `ZyGpIwAAAADm49ua1rGrXficqFQBz3Dp`
+Snapshot ID: `Zyd7rAAAAAD/XEaEi8y+hVgsKpAIQCe+`

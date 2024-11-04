@@ -12893,6 +12893,24 @@
     },
     {
       "album": {
+        "name": "Close To Me",
+        "url": "https://open.spotify.com/album/5OQK3UbEg6COPyWjFZAWwO"
+      },
+      "artists": [
+        {
+          "name": "Sabira Evans",
+          "url": "https://open.spotify.com/artist/4rjYcbrgZ9f4fBliPC4kcC"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184032,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/3Cnm6nlYa1lbkPbkEsIYlu"
+    },
+    {
+      "album": {
         "name": "Details",
         "url": "https://open.spotify.com/album/14F9NlM4MywcAVWmr6duoJ"
       },
@@ -21697,6 +21715,24 @@
     },
     {
       "album": {
+        "name": "Shoreside",
+        "url": "https://open.spotify.com/album/78RbgR4mWDRSN6gF0fXQea"
+      },
+      "artists": [
+        {
+          "name": "Malia Ferguson",
+          "url": "https://open.spotify.com/artist/1VFbOlDbGWVUsC9lCbsezn"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2C9xZh47Bq79SvmmNpwTSJ"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -22382,7 +22418,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 184186,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5UREB05Tkdf6Chs788Ivyc"
@@ -59994,6 +60030,28 @@
       "duration_ms": 140663,
       "name": "Sin Piezas",
       "url": "https://open.spotify.com/track/4Etnql7HKVNAkZiwWVvRdO"
+    },
+    {
+      "album": {
+        "name": "Sin ti",
+        "url": "https://open.spotify.com/album/2Qkayw553C4CibeE6l4V6a"
+      },
+      "artists": [
+        {
+          "name": "Cabo Cope",
+          "url": "https://open.spotify.com/artist/1FSnvbqPFBkFwTYiyaUX8N"
+        },
+        {
+          "name": "Mar\u00eda Grant",
+          "url": "https://open.spotify.com/artist/0Sg2pRSX5FGjIJj3DJSrv4"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252925,
+      "name": "Sin ti",
+      "url": "https://open.spotify.com/track/0bU1vcFRJRzMSvRW5ye3Gc"
     },
     {
       "album": {

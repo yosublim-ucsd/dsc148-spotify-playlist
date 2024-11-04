@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-259 songs - 13 hr 20 min
+260 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Alone \- Acoustic](https://open.spotify.com/track/1B9WxRqdKbP0gAAL3q9Ohe) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Alone \(Acoustic\)](https://open.spotify.com/album/420N4bPQPoz5sYIhCfF0Z7) | 2:59 | 2023-01-20 | 2023-05-10 |
 | [Are You Lonesome Tonight \- Acoustic](https://open.spotify.com/track/66YElTd7MwaseFmQrl7fml) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Are You Lonesome Tonight \(Acoustic\)](https://open.spotify.com/album/2TcO9xgFjQFpuxIHpLazvO) | 2:45 | 2022-07-19 | 2023-02-02 |
 | [Are You Ready For Love \- Acoustic](https://open.spotify.com/track/1gSYByMOpWmlDoZbDWkoCY) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Are You Ready For Love \(Acoustic\)](https://open.spotify.com/album/7y3h4tQvfsi20zAYLvHZlu) | 3:37 | 2023-09-01 | 2024-01-13 |
-| [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/25WqOFXGafpwxSb19RwXOP) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/6LqspkIxvToYsWW9H8vGxH) | 3:16 | 2024-01-12 |  |
+| [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/25WqOFXGafpwxSb19RwXOP) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/6LqspkIxvToYsWW9H8vGxH) | 3:16 | 2024-01-12 | 2024-11-04 |
 | [Baby I'm Yours \- Acoustic](https://open.spotify.com/track/6HTPUY4wJX7cR2b67nLFa5) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Baby I'm Yours \(Acoustic\)](https://open.spotify.com/album/2yyCCIXv0Kl95gwmK6zZ7g) | 1:59 | 2021-05-24 | 2024-03-04 |
 | [Beautiful Birds \- Acoustic](https://open.spotify.com/track/0LenfZSOzFiUB6sLmbB8pS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Young as the Morning Old as the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6MRC1VH6UnmiDFMvalRV68) | 2:53 | 2019-10-13 |  |
 | [Beautiful Day \- Acoustic](https://open.spotify.com/track/7eWOW1egL8jXVrFuWHeFOY) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Beautiful Day \(Acoustic\)](https://open.spotify.com/album/3jnfn4qhQMw8DO5xBvMpZe) | 3:04 | 2024-04-19 | 2024-06-15 |
@@ -45,6 +45,7 @@
 | [Complicated \- Acoustic](https://open.spotify.com/track/0qUr4Vj5WkpqZtiZoFBZI2) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Complicated \(Acoustic\)](https://open.spotify.com/album/6OZu8Khy4sBZKaKcpEnlPY) | 3:34 | 2023-02-24 |  |
 | [Crazy Love \- Acoustic](https://open.spotify.com/track/5OnYymymXaoxjTEEOjqcae) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Crazy Love \(Acoustic\)](https://open.spotify.com/album/7hKQ20375hBvYSKqoLpjG4) | 3:07 | 2022-09-03 | 2023-01-28 |
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2019-10-13 |  |
+| [Crush \- Acoustic](https://open.spotify.com/track/3T5zvXUlM4vn8b6sMbEtv9) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Crush \(Acoustic\)](https://open.spotify.com/album/1dED0Yhp2wW6Wn3TsECE3B) | 3:36 | 2024-11-03 |  |
 | [Dance The Night \- Acoustic](https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4) | [Phil Halo](https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Dance The Night](https://open.spotify.com/album/2LBVTDsPoquLbnLRmwKlMS) | 2:52 | 2023-08-24 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/4dudhJneNjXsJDyCxmObVB) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/3zbMIvyACUAWcf702wwZQu) | 2:32 | 2024-10-25 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/15ITqJqQ7f3EW9HmSQnzR4) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/0ldEDXECSxV2KJrwScStqq) | 2:59 | 2021-10-01 | 2023-12-14 |

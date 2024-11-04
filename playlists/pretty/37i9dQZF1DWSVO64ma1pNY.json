@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296316,
+  "num_followers": 296327,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Bad Vibrations (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 200676,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "The Battle Of Los Angeles",
         "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 210133,
       "name": "Testify",
       "url": "https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Bad Vibrations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Life Support / Ms. Supernova",
-        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
-      },
-      "artists": [
-        {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Life Support",
-      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Oh No!!!",
         "url": "https://open.spotify.com/album/4tZXu9mrH5lukHf9ujbSUp"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Life Support / Ms. Supernova",
+        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Life Support",
+      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "Shot In The Dark",
         "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 185133,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 169977,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "But Here We Are",
+      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "But Here We Are",
-      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 190133,
       "name": "Who Needs Friends",
       "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "Love Dies Young",
+      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "Love Dies Young",
-      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "curious/furious",
         "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Year Of The Snake",
-        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 211321,
-      "name": "Uzumaki",
-      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 207620,
       "name": "Fuct",
       "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 211321,
+      "name": "Uzumaki",
+      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1716,25 +1716,9 @@
           "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
         }
       ],
-      "duration_ms": 212980,
-      "name": "Bruise The Sore",
-      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Engage",
-        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
-      },
-      "artists": [
-        {
-          "name": "Rain Check",
-          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
-        }
-      ],
-      "duration_ms": 186374,
-      "name": "Engage",
-      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
+      "duration_ms": 191543,
+      "name": "Ain't Hard To Tell",
+      "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1751,6 +1735,22 @@
       "duration_ms": 243329,
       "name": "to me",
       "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Engage",
+        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
+      },
+      "artists": [
+        {
+          "name": "Rain Check",
+          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
+        }
+      ],
+      "duration_ms": 186374,
+      "name": "Engage",
+      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Bruise The Sore",
+      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "One Last Dream Before Dying",
         "url": "https://open.spotify.com/album/2figRslhHw7pSokLKS3kns"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 225653,
       "name": "Wait",
       "url": "https://open.spotify.com/track/4A20nSO6BYi3DJJ4LyaEWJ"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Feel It All Around",
-        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
-      },
-      "artists": [
-        {
-          "name": "Soul Blind",
-          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
-        }
-      ],
-      "duration_ms": 191543,
-      "name": "Ain't Hard To Tell",
-      "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Hole",
-        "url": "https://open.spotify.com/album/60mPQihGw1E84gfBo52vON"
-      },
-      "artists": [
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
-        }
-      ],
-      "duration_ms": 224838,
-      "name": "Hole",
-      "url": "https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Right After I Smoke This...",
         "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 248426,
       "name": "Stained Silver",
       "url": "https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Hole",
+        "url": "https://open.spotify.com/album/60mPQihGw1E84gfBo52vON"
+      },
+      "artists": [
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+        }
+      ],
+      "duration_ms": 224838,
+      "name": "Hole",
+      "url": "https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn"
-      },
-      "artists": [
-        {
-          "name": "Present",
-          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
-        }
-      ],
-      "duration_ms": 180263,
-      "name": "New",
-      "url": "https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "hi mute",
         "url": "https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 241560,
       "name": "Nothing To Learn From",
       "url": "https://open.spotify.com/track/2FpLt3pwp8h9WygkC5XLci"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "duration_ms": 180263,
+      "name": "New",
+      "url": "https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "God Bless the 90s Kids",
-        "url": "https://open.spotify.com/album/13jeOxNgl3ckEPywuVXvb1"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 203192,
-      "name": "God Bless the 90s Kids",
-      "url": "https://open.spotify.com/track/5nlbNEsFc9wPpQahvLV3oV"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Two Tone Marionette",
         "url": "https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 281103,
       "name": "Two Tone Marionette",
       "url": "https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "God Bless the 90s Kids",
+        "url": "https://open.spotify.com/album/13jeOxNgl3ckEPywuVXvb1"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 203192,
+      "name": "God Bless the 90s Kids",
+      "url": "https://open.spotify.com/track/5nlbNEsFc9wPpQahvLV3oV"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Playing With Fire / ELF",
+        "url": "https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "duration_ms": 238847,
+      "name": "ELF",
+      "url": "https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "KILLJOY",
         "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
       },
@@ -2399,34 +2415,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Centipede",
-        "url": "https://open.spotify.com/album/6Gs3nUjtyuxxLsUSodnORA"
+        "name": "B/W Rainbow",
+        "url": "https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO"
       },
       "artists": [
         {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
         }
       ],
-      "duration_ms": 157704,
-      "name": "Centipede",
-      "url": "https://open.spotify.com/track/1KH4f9jJPkwa8vF00u6K3T"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Playing With Fire / ELF",
-        "url": "https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF"
-      },
-      "artists": [
-        {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "ELF",
-      "url": "https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH"
+      "duration_ms": 162000,
+      "name": "B/W Rainbow",
+      "url": "https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd"
     }
   ],
   "unique_name": "Anger Management",

@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556589,
+  "num_followers": 556598,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Terlintas",
-        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 235643,
-      "name": "Terlintas",
-      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
         "name": "Dunia Batas",
         "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
       },
@@ -427,22 +411,6 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
-      },
-      "artists": [
-        {
-          "name": "Maudy Ayunda",
-          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Perahu Kertas",
-      "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
         "name": "Sorai",
         "url": "https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1"
       },
@@ -455,6 +423,54 @@
       "duration_ms": 278333,
       "name": "Sorai",
       "url": "https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 235643,
+      "name": "Terlintas",
+      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
+        "name": "Surat Cinta Untuk Starla",
+        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
+      },
+      "artists": [
+        {
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        }
+      ],
+      "duration_ms": 308036,
+      "name": "Surat Cinta Untuk Starla",
+      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Perahu Kertas",
+      "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -475,22 +491,6 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
-        "name": "Surat Cinta Untuk Starla",
-        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
-      },
-      "artists": [
-        {
-          "name": "Virgoun",
-          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
-        }
-      ],
-      "duration_ms": 308036,
-      "name": "Surat Cinta Untuk Starla",
-      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Ruang Tunggu",
-        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
-      },
-      "artists": [
-        {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-        }
-      ],
-      "duration_ms": 329865,
-      "name": "Di Atas Meja",
-      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
         "name": "Semua Aku Dirayakan",
         "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 310625,
       "name": "Semua Aku Dirayakan",
       "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
+        "name": "Ruang Tunggu",
+        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 329865,
+      "name": "Di Atas Meja",
+      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
+        "name": "Putus Atau Terus",
+        "url": "https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "duration_ms": 248823,
+      "name": "Putus Atau Terus",
+      "url": "https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
         "name": "Nanti Kita Seperti Ini",
         "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
       },
@@ -916,25 +932,9 @@
           "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Berdua Saja",
-      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
-        "name": "Putus Atau Terus",
-        "url": "https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW"
-      },
-      "artists": [
-        {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
-        }
-      ],
-      "duration_ms": 248823,
-      "name": "Putus Atau Terus",
-      "url": "https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL"
+      "duration_ms": 306428,
+      "name": "Menuju Senja",
+      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 306428,
-      "name": "Menuju Senja",
-      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
+      "duration_ms": 267000,
+      "name": "Berdua Saja",
+      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
-      },
-      "artists": [
-        {
-          "name": "Anda Perdana",
-          "url": "https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "Menghitung Hari 2",
-      "url": "https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Anda Perdana",
+          "url": "https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Menghitung Hari 2",
+      "url": "https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
         "name": "Salahkah Aku Terlalu Mencintaimu",
         "url": "https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu"
       },
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Terus Bersinar",
-        "url": "https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG"
+        "name": "Cerita Hanin Dhiya",
+        "url": "https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH"
       },
       "artists": [
         {
-          "name": "Lobow",
-          "url": "https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib"
+          "name": "Hanin Dhiya",
+          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
         }
       ],
-      "duration_ms": 284946,
-      "name": "Kau Cantik Hari Ini",
-      "url": "https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr"
+      "duration_ms": 234914,
+      "name": "Pupus",
+      "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Cerita Hanin Dhiya",
-        "url": "https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH"
+        "name": "Terus Bersinar",
+        "url": "https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG"
       },
       "artists": [
         {
-          "name": "Hanin Dhiya",
-          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
+          "name": "Lobow",
+          "url": "https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib"
         }
       ],
-      "duration_ms": 234914,
-      "name": "Pupus",
-      "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
+      "duration_ms": 284946,
+      "name": "Kau Cantik Hari Ini",
+      "url": "https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr"
     },
     {
       "added_at": "2024-10-18 08:51:26",

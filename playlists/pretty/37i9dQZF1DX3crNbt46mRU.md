@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,092 likes - 105 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,091 likes - 105 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 100 | [I Want You This Christmas](https://open.spotify.com/track/1JHsB2E0FWEEBVdFV2W6w8) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dear Big Santa](https://open.spotify.com/album/2HaS5g0VjsXf93yy7TNf6c) | 2:55 |
 | 101 | [wir sind die nacht](https://open.spotify.com/track/3dV5aK4ZUnvhmNylV0nfbA) | [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd) | [wir sind die nacht](https://open.spotify.com/album/497oO2pjpKYMU4Uq4mxtdI) | 2:42 |
 | 102 | [Smooth Lovin](https://open.spotify.com/track/3Yi0wYwzECCAB58fHh9irn) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Smooth Lovin \(feat\. Popcaan\)](https://open.spotify.com/album/46w7SIlPiaFDIcIetdFDzc) | 3:38 |
-| 103 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
+| 103 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB), [chill sebs](https://open.spotify.com/artist/6SiKEPYrOXoQT6GbreDRvF) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
 | 104 | [Drunk](https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Drunk](https://open.spotify.com/album/55DFqfotSUPU7MSv6NuK8m) | 3:22 |
 | 105 | [YOU](https://open.spotify.com/track/6p2eArI2fcdxiO8UenVfVy) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [LOST IN HEAVEN](https://open.spotify.com/album/6fCGW5OWBTrtesYXjEze3h) | 3:33 |
 

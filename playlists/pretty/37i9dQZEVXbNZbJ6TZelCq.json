@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 34470,
+  "num_followers": 34480,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LrmVoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LrrkyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "A venit poli\u021bia (From \"Candidatul perfect\" The Movie)",
         "url": "https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY"
@@ -25,7 +25,39 @@
       "url": "https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Spania",
+        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 159194,
+      "name": "Spania",
+      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
@@ -45,23 +77,7 @@
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Spania",
-        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 159194,
-      "name": "Spania",
-      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Hai sa ne iubim ca nemtii",
         "url": "https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften"
@@ -77,39 +93,7 @@
       "url": "https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Turbo Orange",
-        "url": "https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Turbo Orange",
-      "url": "https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Lamborghini",
         "url": "https://open.spotify.com/album/5bW7HtCbJ6bNSwoJYRBGXF"
@@ -129,7 +113,23 @@
       "url": "https://open.spotify.com/track/4KzxeD91DwTgMu0uArD6tg"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Turbo Orange",
+        "url": "https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Turbo Orange",
+      "url": "https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "P\u0103i naa",
         "url": "https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q"
@@ -169,47 +169,7 @@
       "url": "https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Yali, Yali",
-        "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 155714,
-      "name": "Yali, Yali",
-      "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Kylie Jenner",
-        "url": "https://open.spotify.com/album/334691RicEmDE1zYDvPk19"
-      },
-      "artists": [
-        {
-          "name": "candyboii",
-          "url": "https://open.spotify.com/artist/3E7XNzGG6qqnjwV9nOCxQM"
-        },
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 181771,
-      "name": "Kylie Jenner",
-      "url": "https://open.spotify.com/track/26yMwoEBtLRYAUcKKk0uIY"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "E Adev\u0103rat",
         "url": "https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa"
@@ -225,7 +185,7 @@
       "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Baklava",
         "url": "https://open.spotify.com/album/7FCxU7klbvof984RWinLZh"
@@ -245,7 +205,47 @@
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Yali, Yali",
+        "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "Yali, Yali",
+      "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Kylie Jenner",
+        "url": "https://open.spotify.com/album/334691RicEmDE1zYDvPk19"
+      },
+      "artists": [
+        {
+          "name": "candyboii",
+          "url": "https://open.spotify.com/artist/3E7XNzGG6qqnjwV9nOCxQM"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 181771,
+      "name": "Kylie Jenner",
+      "url": "https://open.spotify.com/track/26yMwoEBtLRYAUcKKk0uIY"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "LUCIFER",
         "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Amo, Amo",
         "url": "https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Merhaba (Stil Turcesc)",
         "url": "https://open.spotify.com/album/184PJI3t6mfGCFlZ2h6Lbm"
@@ -345,23 +345,23 @@
       "url": "https://open.spotify.com/track/5gGT2pleKQwQuiKxz5wYfe"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
-        "name": "\u021aine-te bine",
-        "url": "https://open.spotify.com/album/36n7lWke5W4yaRWhqmnk9g"
+        "name": "I Can't Do This",
+        "url": "https://open.spotify.com/album/1IF7coVirqmpfJ1M0k5r5d"
       },
       "artists": [
         {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+          "name": "phvrien",
+          "url": "https://open.spotify.com/artist/4V1JGaADDuIWiWsWFwoHVE"
         }
       ],
-      "duration_ms": 150361,
-      "name": "\u021aine-te bine",
-      "url": "https://open.spotify.com/track/5p93LIjxyKzAvwaPXAb3iI"
+      "duration_ms": 141909,
+      "name": "I Can't Do This",
+      "url": "https://open.spotify.com/track/53qdbojYem0XyIBnXxtp36"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Hustler",
         "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
@@ -377,23 +377,23 @@
       "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
-        "name": "Ia-ma Du-ma",
-        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
+        "name": "\u021aine-te bine",
+        "url": "https://open.spotify.com/album/36n7lWke5W4yaRWhqmnk9g"
       },
       "artists": [
         {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Ia-ma Du-ma",
-      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
+      "duration_ms": 150361,
+      "name": "\u021aine-te bine",
+      "url": "https://open.spotify.com/track/5p93LIjxyKzAvwaPXAb3iI"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -413,27 +413,39 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
-        "name": "Nebunia lui Babasha",
-        "url": "https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or"
+        "name": "Ia-ma Du-ma",
+        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
       },
       "artists": [
         {
           "name": "Babasha",
           "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
         }
       ],
-      "duration_ms": 145026,
-      "name": "Nebunia lui Babasha",
-      "url": "https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN"
+      "duration_ms": 168000,
+      "name": "Ia-ma Du-ma",
+      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Vreau",
+        "url": "https://open.spotify.com/album/5PgnQECEOZpuU2aytDXsn2"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Vreau",
+      "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Inima sau Banii",
         "url": "https://open.spotify.com/album/5KKqyKx3vykb5Rh3BrOyPY"
@@ -453,95 +465,7 @@
       "url": "https://open.spotify.com/track/2r2lwkgZJbsNCNcWqg1ND3"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Embrace It",
-        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
-      },
-      "artists": [
-        {
-          "name": "Ndotz",
-          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
-        }
-      ],
-      "duration_ms": 104418,
-      "name": "Embrace It",
-      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Vreau",
-        "url": "https://open.spotify.com/album/5PgnQECEOZpuU2aytDXsn2"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Vreau",
-      "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Voila",
-        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Voila",
-      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "NEW DROP",
-      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "R\u0102GU\u0218IT",
-        "url": "https://open.spotify.com/album/4yekIAluccxf3OD0cdN4zW"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 238016,
-      "name": "R\u0102GU\u0218IT",
-      "url": "https://open.spotify.com/track/5eDUjRGEYTvEtlGUIOR7Mh"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Vorba Francezului (From \"Buzz House\" The Movie)",
         "url": "https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6"
@@ -561,7 +485,43 @@
       "url": "https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Nebunia lui Babasha",
+        "url": "https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 145026,
+      "name": "Nebunia lui Babasha",
+      "url": "https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Zi-mi cine",
         "url": "https://open.spotify.com/album/6L97ViVxuQrKFtFFnLwBWV"
@@ -581,23 +541,7 @@
       "url": "https://open.spotify.com/track/4cZ0QPVw1oTZ48yML1k8wI"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Habibi",
-        "url": "https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        }
-      ],
-      "duration_ms": 130754,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/4EBATplQoU295eNOeONlAP"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Complicat",
         "url": "https://open.spotify.com/album/3a4PL5Tv3AwIklaZyudU5B"
@@ -617,59 +561,79 @@
       "url": "https://open.spotify.com/track/0RMLTuBPTlGE6iYLyO1glA"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
-        "name": "X6",
-        "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
+        "name": "Voila",
+        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
       },
       "artists": [
         {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "X6",
-      "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "REGINA",
-        "url": "https://open.spotify.com/album/5v1ISrc4VsxiFhoxJj1Qk8"
-      },
-      "artists": [
-        {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "REGINA",
-      "url": "https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Bun Venit Acasa (Deluxe)",
-        "url": "https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         },
         {
-          "name": "Beach, Please!",
-          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
         }
       ],
-      "duration_ms": 127500,
-      "name": "BIG BEN - From \"Buzz House\" The Movie",
-      "url": "https://open.spotify.com/track/5ILeSLokrX2kWZH4NtAe4c"
+      "duration_ms": 139200,
+      "name": "Voila",
+      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "NEW DROP",
+      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 130754,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/4EBATplQoU295eNOeONlAP"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "R\u0102GU\u0218IT",
+        "url": "https://open.spotify.com/album/4yekIAluccxf3OD0cdN4zW"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 238016,
+      "name": "R\u0102GU\u0218IT",
+      "url": "https://open.spotify.com/track/5eDUjRGEYTvEtlGUIOR7Mh"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "La tine \u0219i la bani (From \"Romina VTM\" The Movie)",
         "url": "https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE"
@@ -689,7 +653,111 @@
       "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "REGINA",
+        "url": "https://open.spotify.com/album/5v1ISrc4VsxiFhoxJj1Qk8"
+      },
+      "artists": [
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "REGINA",
+      "url": "https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "X6",
+        "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "X6",
+      "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Turbo Orange",
+        "url": "https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "Nutu",
+          "url": "https://open.spotify.com/artist/2DVHeB86M05t7mBTvvsEVF"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Met Gala",
+      "url": "https://open.spotify.com/track/2ptj53A3ixVzmPtjlsrgxY"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Cine N-a Gresit Vreodata",
+        "url": "https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 198837,
+      "name": "Cine N-a Gresit Vreodata",
+      "url": "https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Molotov",
         "url": "https://open.spotify.com/album/43uxNjHNBIaaEfMWTKa9BF"
@@ -713,163 +781,7 @@
       "url": "https://open.spotify.com/track/3rukzF9QVHpdIUDjYpczRX"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "El chapo",
-        "url": "https://open.spotify.com/album/1IXu9RGZI6pwjWRlOi2Acq"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "El chapo",
-      "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 115263,
-      "name": "Agresiv",
-      "url": "https://open.spotify.com/track/2lQCIU7pzDTvs16TT1bHAo"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Turbo Orange",
-        "url": "https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        },
-        {
-          "name": "Nutu",
-          "url": "https://open.spotify.com/artist/2DVHeB86M05t7mBTvvsEVF"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Met Gala",
-      "url": "https://open.spotify.com/track/2ptj53A3ixVzmPtjlsrgxY"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 126986,
-      "name": "TORE UP",
-      "url": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Cine N-a Gresit Vreodata",
-        "url": "https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        }
-      ],
-      "duration_ms": 198837,
-      "name": "Cine N-a Gresit Vreodata",
-      "url": "https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amore",
-      "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 197019,
-      "name": "St. Chroma (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
-      "album": {
-        "name": "Gipsy Style",
-        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
-      },
-      "artists": [
-        {
-          "name": "Costel Biju",
-          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
-        }
-      ],
-      "duration_ms": 188355,
-      "name": "Gipsy Style",
-      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
-    },
-    {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Creola",
         "url": "https://open.spotify.com/album/13Juoab2HCJvsb4lo2eQ7i"
@@ -889,31 +801,43 @@
       "url": "https://open.spotify.com/track/40GuJIybQew4lWrTernb4D"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
       "album": {
-        "name": "SUNETE 2",
-        "url": "https://open.spotify.com/album/2CSdv5brTnCOhv9HxWlCxl"
+        "name": "Gipsy Style",
+        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
       },
       "artists": [
         {
-          "name": "andrei",
-          "url": "https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2"
-        },
-        {
-          "name": "DZWS",
-          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
-        },
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0CubchptrDNV9ei0oA5u3k"
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
         }
       ],
-      "duration_ms": 134519,
-      "name": "SUNETE 2",
-      "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
+      "duration_ms": 188355,
+      "name": "Gipsy Style",
+      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
     },
     {
-      "added_at": "2024-11-02 12:52:01",
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Bun Venit Acasa (Deluxe)",
+        "url": "https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "Beach, Please!",
+          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "BIG BEN - From \"Buzz House\" The Movie",
+      "url": "https://open.spotify.com/track/5ILeSLokrX2kWZH4NtAe4c"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
@@ -927,6 +851,82 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Scrum",
+        "url": "https://open.spotify.com/album/3zKY2z1eZxocc5MVb9kBjj"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "Dhali",
+          "url": "https://open.spotify.com/artist/5dJZz1wDTaRM9UBo1AODI2"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Scrum",
+      "url": "https://open.spotify.com/track/0WY8Quy5XCZENngfyBrH4B"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "Suflet de bagabont",
+        "url": "https://open.spotify.com/album/2RPoLZbt1MMflzfM09UYoe"
+      },
+      "artists": [
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        },
+        {
+          "name": "Nelu Vlad",
+          "url": "https://open.spotify.com/artist/2lxfwZfwQIGceoRF3Mi7uh"
+        },
+        {
+          "name": "Azur",
+          "url": "https://open.spotify.com/artist/2mG2a94MGZllZXagHbK2gQ"
+        }
+      ],
+      "duration_ms": 168181,
+      "name": "Suflet de bagabont",
+      "url": "https://open.spotify.com/track/3kpSXS8wxkK9EDZjBWzN3c"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 126986,
+      "name": "TORE UP",
+      "url": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
+    },
+    {
+      "added_at": "2024-11-03 12:40:45",
+      "album": {
+        "name": "112 Arabii",
+        "url": "https://open.spotify.com/album/2JtgqLU0MwE32Q52GLLdUF"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "duration_ms": 213135,
+      "name": "112 Arabii",
+      "url": "https://open.spotify.com/track/6ryYkPaIuqPcnlWwJrdMBN"
     }
   ],
   "unique_name": "Top 50 - Romania",

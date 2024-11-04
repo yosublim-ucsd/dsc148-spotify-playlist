@@ -4,7 +4,7 @@
 
 > shop, wrap, bake, study or just chill to these cozy christmas beats.
 
-155 songs - 5 hr 59 min
+156 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Holy Jolly Christmas](https://open.spotify.com/track/66TPQ0Cw4SvXbCPJGdfwM6) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [A Holy Jolly Christmas](https://open.spotify.com/album/4zgAtGu8evTT3OU541WbcK) | 3:01 | 2024-10-17 |  |
 | [all i want for christmas is you](https://open.spotify.com/track/4P9eg12prbMxyI1OsU8hyD) | [slace n' cal](https://open.spotify.com/artist/5oa9uIjqOngcHDuOFdWwzv) | [all i want for christmas is you](https://open.spotify.com/album/5aOjU3qM5OTjAdYHSemefq) | 2:32 | 2024-10-17 |  |
 | [All I Want For Xmas](https://open.spotify.com/track/3VZQzdqncXBLpMNDyLSI5o) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [All I Want For Xmas](https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE) | 2:18 | 2024-10-17 |  |
+| [All I Wish for Christmas](https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS) | 2:02 | 2024-10-17 |  |
 | [All the Jingle Ladies](https://open.spotify.com/track/1ShWwWzEOlcIRVO9sGMDQy) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Jobii Christmas](https://open.spotify.com/album/1JukKeeVpYUuj8HCD1kGMS) | 2:33 | 2024-10-17 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [The First Noel](https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2) | 3:07 | 2024-10-17 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/57J4SCSsiHBsWifOeUSVsq) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Jingle Bells](https://open.spotify.com/album/1nb65nP4yprMjJPSUEjxK0) | 2:30 | 2024-10-17 |  |
@@ -116,7 +117,7 @@
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/23E5XFraifxkUJglRpBm9m) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/6pnsjGMTpc5iSc3cEP3fFd) | 2:08 | 2024-10-17 |  |
 | [rockin' around the christmas tree](https://open.spotify.com/track/7tkSwV94w6wSRr13U9ll7v) | [SPUDB](https://open.spotify.com/artist/21zky5Q21cXOpPlec8XnM6) | [rockin' around the christmas tree](https://open.spotify.com/album/6kLZS5MI8Xmr2etR1nhigH) | 2:00 | 2024-10-17 |  |
 | [rudolfs beat](https://open.spotify.com/track/5DGMWOsbwnttCV4h8Zp2BP) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [rudolfs beat](https://open.spotify.com/album/1cgH2L5MZmfB5roLS15dNa) | 2:21 | 2024-10-17 |  |
-| [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/366BCVgot7JVVp0bcNTSgN) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/album/1BZcLkBVrA5WjqRiQDNghc) | 2:24 | 2024-10-17 |  |
+| [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/366BCVgot7JVVp0bcNTSgN) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/album/1BZcLkBVrA5WjqRiQDNghc) | 2:24 | 2024-10-17 | 2024-11-04 |
 | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/2aDiHNUA8SjS42bzJCchuJ) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/album/2t6m2FWQSyV9anoTx0FD0k) | 1:31 | 2024-10-17 |  |
 | [Sad Christmas](https://open.spotify.com/track/29YiYdVtTiELW6UO5Es59x) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Not Your Normal Christmas](https://open.spotify.com/album/3qOW1s02oYct01T5zpmyB3) | 2:11 | 2024-10-17 |  |
 | [Santa Baby](https://open.spotify.com/track/4uakClJG3d1mGaZSPHvR2e) | [Holiday Beats](https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3) | [Santa Baby](https://open.spotify.com/album/5ZnyA6A9KQ6TQMPleWR4i6) | 2:26 | 2024-10-17 |  |

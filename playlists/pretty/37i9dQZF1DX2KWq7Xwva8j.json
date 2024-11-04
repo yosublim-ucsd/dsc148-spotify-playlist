@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Samura\u00ef.",
-  "num_followers": 27429,
+  "num_followers": 27439,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -83,8 +83,8 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Me da igual",
-        "url": "https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8"
+        "name": "Lo que nunca te dije",
+        "url": "https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
         }
       ],
-      "duration_ms": 171871,
-      "name": "Me da igual",
-      "url": "https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J"
+      "duration_ms": 160632,
+      "name": "Lo que nunca te dije",
+      "url": "https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -171,30 +171,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "SexySensible",
-        "url": "https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0"
-      },
-      "artists": [
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Bexnil",
-          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "SexeSexy",
-      "url": "https://open.spotify.com/track/2uuMValcORiLp44OIOIoL5"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Mala Vida",
         "url": "https://open.spotify.com/album/6CFyn8eC91dy858L9aYFY7"
       },
@@ -227,6 +203,82 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Lejos De M\u00e1s",
+        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Lejos De M\u00e1s",
+      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "SexySensible",
+        "url": "https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "SexeSexy",
+      "url": "https://open.spotify.com/track/2uuMValcORiLp44OIOIoL5"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Me da igual",
+        "url": "https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 171871,
+      "name": "Me da igual",
+      "url": "https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "La fiesta",
+        "url": "https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 158870,
+      "name": "La fiesta",
+      "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Tirando Balas",
         "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
       },
@@ -243,18 +295,50 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Lo que nunca te dije",
-        "url": "https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID"
+        "name": "Esa Morena",
+        "url": "https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc"
       },
       "artists": [
         {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
         }
       ],
-      "duration_ms": 160632,
-      "name": "Lo que nunca te dije",
-      "url": "https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY"
+      "duration_ms": 172040,
+      "name": "Esa Morena",
+      "url": "https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -283,8 +367,8 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "La fiesta",
-        "url": "https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw"
+        "name": "oh boi",
+        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
       },
       "artists": [
         {
@@ -292,35 +376,15 @@
           "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
         }
       ],
-      "duration_ms": 158870,
-      "name": "La fiesta",
-      "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
+      "duration_ms": 160333,
+      "name": "oh boi",
+      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
     },
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Lejos De M\u00e1s",
-        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        },
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "Lejos De M\u00e1s",
-      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Esa Morena",
-        "url": "https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc"
+        "name": "ME DUELE QUERERTE",
+        "url": "https://open.spotify.com/album/3ltONa8Qqs0FM5v2xeuhoJ"
       },
       "artists": [
         {
@@ -328,25 +392,9 @@
           "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
         }
       ],
-      "duration_ms": 172040,
-      "name": "Esa Morena",
-      "url": "https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 154509,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
+      "duration_ms": 146966,
+      "name": "ME DUELE QUERERTE",
+      "url": "https://open.spotify.com/track/6x8ft5OkZJon6um838FaZA"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -367,18 +415,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "oh boi",
-        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
       },
       "artists": [
         {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 160333,
-      "name": "oh boi",
-      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+      "duration_ms": 207750,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -423,54 +471,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Semanas",
-        "url": "https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 176587,
-      "name": "Semanas",
-      "url": "https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "ME DUELE QUERERTE",
-        "url": "https://open.spotify.com/album/3ltONa8Qqs0FM5v2xeuhoJ"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "ME DUELE QUERERTE",
-      "url": "https://open.spotify.com/track/6x8ft5OkZJon6um838FaZA"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Vicente Amor",
         "url": "https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4"
       },
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
+        "name": "Semanas",
+        "url": "https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
         }
       ],
-      "duration_ms": 207750,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
+      "duration_ms": 176587,
+      "name": "Semanas",
+      "url": "https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8"
     },
     {
       "added_at": "2024-10-31 23:00:00",

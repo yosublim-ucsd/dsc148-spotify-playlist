@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Lofi Christmas Dream",
+        "url": "https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS"
+      },
+      "artists": [
+        {
+          "name": "Tony Thriller",
+          "url": "https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122263,
+      "name": "All I Wish for Christmas",
+      "url": "https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H"
+    },
+    {
+      "album": {
         "name": "A Jobii Christmas",
         "url": "https://open.spotify.com/album/1JukKeeVpYUuj8HCD1kGMS"
       },
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 144000,
       "name": "Rudolph The Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/366BCVgot7JVVp0bcNTSgN"

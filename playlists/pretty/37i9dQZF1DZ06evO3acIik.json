@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 59386,
+  "num_followers": 59407,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAACSeTh6o9VYmmEHjWqpxtEe",
+  "snapshot_id": "ZyVrgAAAAADGyShPiWf6M9Bg95yp8Bjz",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 119156,
       "name": "6:16am",
       "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 205734,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
     },
     {
       "added_at": null,

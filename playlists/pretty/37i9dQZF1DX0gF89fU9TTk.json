@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 137281,
+  "num_followers": 137324,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa"
-      },
-      "artists": [
-        {
-          "name": "Holly Starr",
-          "url": "https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7"
-        }
-      ],
-      "duration_ms": 200350,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Lionheart",
         "url": "https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 254026,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa"
+      },
+      "artists": [
+        {
+          "name": "Holly Starr",
+          "url": "https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7"
+        }
+      ],
+      "duration_ms": 200350,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "King of My Heart",
+        "url": "https://open.spotify.com/album/3LCnkn9T7aaHT3PLMrQWtb"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "duration_ms": 243694,
+      "name": "King of My Heart",
+      "url": "https://open.spotify.com/track/221wISKB6AmZqZjrhrIrTv"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Father, Son and Holy Ghost",
         "url": "https://open.spotify.com/album/7gXMkLx45jfDEZuw8zwJQk"
       },
@@ -907,42 +927,6 @@
       "duration_ms": 194335,
       "name": "Found in You",
       "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "King of My Heart",
-        "url": "https://open.spotify.com/album/3LCnkn9T7aaHT3PLMrQWtb"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
-        }
-      ],
-      "duration_ms": 243694,
-      "name": "King of My Heart",
-      "url": "https://open.spotify.com/track/221wISKB6AmZqZjrhrIrTv"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Paradigms (Live)",
-        "url": "https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi"
-      },
-      "artists": [
-        {
-          "name": "Life Church Music",
-          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
-        }
-      ],
-      "duration_ms": 200687,
-      "name": "Heaven Calling - Live",
-      "url": "https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -987,6 +971,22 @@
       "duration_ms": 250360,
       "name": "Lay My Life Down",
       "url": "https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Paradigms (Live)",
+        "url": "https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi"
+      },
+      "artists": [
+        {
+          "name": "Life Church Music",
+          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
+        }
+      ],
+      "duration_ms": 200687,
+      "name": "Heaven Calling - Live",
+      "url": "https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU"
     },
     {
       "added_at": "2024-06-25 03:27:03",

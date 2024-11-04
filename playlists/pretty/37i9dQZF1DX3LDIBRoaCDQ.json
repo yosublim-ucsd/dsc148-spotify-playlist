@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1592103,
+  "num_followers": 1592244,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Stooges",
         "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
       },
@@ -191,22 +175,34 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Collection 2",
-        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
       },
       "artists": [
         {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        },
-        {
-          "name": "Glenn Danzig",
-          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 119826,
-      "name": "Last Caress",
-      "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -227,18 +223,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+        "name": "Collection 2",
+        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
       "artists": [
         {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        },
+        {
+          "name": "Glenn Danzig",
+          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
         }
       ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
+      "duration_ms": 119826,
+      "name": "Last Caress",
+      "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "Redondo Beach",
+      "url": "https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "GI",
         "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
       "artists": [
         {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 205173,
-      "name": "Redondo Beach",
-      "url": "https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd"
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -355,22 +371,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Q: Are We Not Men? A: We Are Devo!",
         "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Candy Apple Grey",
-        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
-      },
-      "artists": [
-        {
-          "name": "H\u00fcsker D\u00fc",
-          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Don't Want to Know If You Are Lonely",
-      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 221506,
       "name": "Personality Crisis",
       "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Candy Apple Grey",
+        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Don't Want to Know If You Are Lonely",
+      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 107323,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -563,6 +579,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 120360,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Atomic/Atomix",
         "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
       },
@@ -579,22 +611,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 107323,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Marquee Moon",
         "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 232960,
       "name": "See No Evil",
       "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 120360,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk"
     },
     {
-      "added_at": "2024-01-11 00:51:37",
-      "album": {
-        "name": "Raw Power (Iggy Mix - 2023 Remaster)",
-        "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
-      },
-      "artists": [
-        {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Raw Power [2023 Remaster] - Iggy Mix",
-      "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
-    },
-    {
       "added_at": "2022-11-28 15:26:19",
       "album": {
         "name": "Last Scream of the Missing Neighbors",
@@ -991,6 +975,22 @@
       "duration_ms": 167400,
       "name": "All This and More",
       "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
+    },
+    {
+      "added_at": "2024-01-11 00:51:37",
+      "album": {
+        "name": "Raw Power (Iggy Mix - 2023 Remaster)",
+        "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Raw Power [2023 Remaster] - Iggy Mix",
+      "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Ramones (Expanded)",
-        "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 133440,
-      "name": "Blitzkrieg Bop - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "This Year's Model",
         "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 196680,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Ramones (Expanded)",
+        "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 133440,
+      "name": "Blitzkrieg Bop - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1267,6 +1267,38 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Unknown Pleasures",
+        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Angels With Dirty Faces",
+        "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
+      },
+      "artists": [
+        {
+          "name": "Sham 69",
+          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Hurry Up Harry",
+      "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
       },
@@ -1299,22 +1331,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Unknown Pleasures",
-        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Blank Generation",
         "url": "https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 163000,
       "name": "Blank Generation",
       "url": "https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Angels With Dirty Faces",
-        "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
-      },
-      "artists": [
-        {
-          "name": "Sham 69",
-          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Hurry Up Harry",
-      "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
+        "name": "Unknown Pleasures",
+        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
       },
       "artists": [
         {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 155626,
-      "name": "Bad Mouth",
-      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
+      "duration_ms": 237013,
+      "name": "She's Lost Control - 2007 Remaster",
+      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Unknown Pleasures",
-        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 283800,
       "name": "Add It Up - 2002 Remastered Version",
       "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Bad Mouth",
+      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Hypnotised (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6Yk98WBeFh20pqDPyE0kHd"
-      },
-      "artists": [
-        {
-          "name": "The Undertones",
-          "url": "https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/0BhFhl0oaXQR4gaDphLYfE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Pink Flag",
         "url": "https://open.spotify.com/album/5dfFLlA2pgPWdZZxrgZAGP"
       },
@@ -1571,18 +1555,34 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Generation X (2002 Remaster)",
-        "url": "https://open.spotify.com/album/3ROCE9iLv47ne4IlwNpkuu"
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
       },
       "artists": [
         {
-          "name": "Generation X",
-          "url": "https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe"
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
         }
       ],
-      "duration_ms": 187666,
-      "name": "One Hundred Punks - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4Hf6y10d0AJyYsUD7uJf5o"
+      "duration_ms": 132786,
+      "name": "Banned In D.C.",
+      "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Hypnotised (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6Yk98WBeFh20pqDPyE0kHd"
+      },
+      "artists": [
+        {
+          "name": "The Undertones",
+          "url": "https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Hypnotised",
+      "url": "https://open.spotify.com/track/0BhFhl0oaXQR4gaDphLYfE"
     },
     {
       "added_at": "2022-11-28 15:26:19",

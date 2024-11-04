@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: urika's bedroom
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,801 likes - 103 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,806 likes - 103 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Christmas Vacation",
+        "url": "https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151466,
+      "name": "Come On Christmas",
+      "url": "https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z"
+    },
+    {
+      "album": {
         "name": "Could've Been Us",
         "url": "https://open.spotify.com/album/1VymWBVVHSJWZXILkquSiA"
       },
@@ -1200,6 +1218,24 @@
       "duration_ms": 194543,
       "name": "Luckier",
       "url": "https://open.spotify.com/track/2ZryPLqBfvls1yKC9wlqv0"
+    },
+    {
+      "album": {
+        "name": "Leather Deluxe Edition",
+        "url": "https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "Made In The USA",
+      "url": "https://open.spotify.com/track/7fvEOr1hTCiJpUMm90FzhM"
     },
     {
       "album": {

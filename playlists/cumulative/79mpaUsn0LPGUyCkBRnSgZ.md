@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-765 songs - 2 day 3 hr 27 min
+766 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Looking For Someone](https://open.spotify.com/track/2lvM9dA12IIqBVU2aF5MaV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Trespass](https://open.spotify.com/album/17hKeFpIov0cxAFQbGegEy) | 7:07 | 2023-10-30 | 2024-01-04 |
 | [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 | 2024-08-01 |  |
 | [Loser](https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj) | 3:55 | 2022-04-21 |  |
+| [Lost](https://open.spotify.com/track/494Mu6x7PKSjuuh975jcI3) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Evergreen](https://open.spotify.com/album/1IN1QBfV9tNR6fFgR7PsUl) | 3:20 | 2024-11-03 |  |
 | [Lost & Found](https://open.spotify.com/track/6jaLFu5HvfNrI1JmcM4eXu) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 5:14 | 2023-05-19 |  |
 | [Lost In Space / Great Scott / 22\-26](https://open.spotify.com/track/2XdGXvlyYtTlyMgpjXQMUY) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:22 | 2024-01-15 |  |
 | [Love / Lover / Friend](https://open.spotify.com/track/6uQ5QMwMKmakv0PH5blCHi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:01 | 2024-01-04 |  |

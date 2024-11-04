@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 103851,
+  "num_followers": 103931,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -191,38 +191,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Backlash Blues",
-      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -255,6 +223,38 @@
       "duration_ms": 294373,
       "name": "The Things (That) I Used to Do",
       "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Backlash Blues",
+      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -395,22 +379,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Rocks The House",
         "url": "https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk"
       },
@@ -423,6 +391,38 @@
       "duration_ms": 254165,
       "name": "Baby, What You Want Me To Do - Live At The New Era Club,1963",
       "url": "https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "The Best In Blues",
         "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
@@ -755,6 +739,38 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "King Of The Blues",
+        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/3XkEgjS6MmqGYd6XBh3aRl"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 147840,
       "name": "One Night - Remastered",
       "url": "https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
-        "name": "King Of The Blues",
-        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/3XkEgjS6MmqGYd6XBh3aRl"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Country Blues 101",
-        "url": "https://open.spotify.com/album/0A2ttGOhKCGIVzLXtSgajJ"
-      },
-      "artists": [
-        {
-          "name": "Bea Booze",
-          "url": "https://open.spotify.com/artist/47PKMyeVDaFasSwGibmoSk"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "See See Rider Blues",
-      "url": "https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Can't Quit You Baby / Sit Down Baby",
         "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 187173,
       "name": "I Can't Quit You Baby",
       "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Country Blues 101",
+        "url": "https://open.spotify.com/album/0A2ttGOhKCGIVzLXtSgajJ"
+      },
+      "artists": [
+        {
+          "name": "Bea Booze",
+          "url": "https://open.spotify.com/artist/47PKMyeVDaFasSwGibmoSk"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "See See Rider Blues",
+      "url": "https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G"
     },
     {
       "added_at": "2024-06-02 16:42:51",

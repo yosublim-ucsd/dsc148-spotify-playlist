@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,467 likes - 135 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,469 likes - 135 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 47 | [Seal It with a Kiss](https://open.spotify.com/track/1gilYs9AY8a75q275GTkiY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:26 |
 | 48 | [Lovebird](https://open.spotify.com/track/5r1kvURT9BqVwX0Jcsv1C9) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:30 |
 | 49 | [The Void](https://open.spotify.com/track/4WTesnTwFAtRtC6fhXuX31) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC) | [The Shadow Side](https://open.spotify.com/album/4DwLXVB5zeO75k8HlTFhB6) | 4:50 |
-| 50 | [Lonely for You \(feat\. Bonnie McKee\)](https://open.spotify.com/track/71gqwDyzphH33FzZLuIGLq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Balance](https://open.spotify.com/album/7mVGJiqFH2liTZJxAyHsMF) | 3:13 |
+| 50 | [Lonely For You](https://open.spotify.com/track/4ThADKNTh7RjcUCcoLDwvM) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Balance](https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3) | 3:13 |
 | 51 | [Erase](https://open.spotify.com/track/7qiLJPzgKNFAM7WsSSOffu) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Priyanka Chopra](https://open.spotify.com/artist/5TPY1mgCEaVjJQnpDPFJVF) | [Erase](https://open.spotify.com/album/6ZB0iifdGX1JzZhwoujZIv) | 3:24 |
 | 52 | [Show Me](https://open.spotify.com/track/2citvEGmOgIoGl6Jend3cU) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:06 |
 | 53 | [Bombastic](https://open.spotify.com/track/7EQUcAtXbbTwWLrZx256iF) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 3:22 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 134 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 | 135 | [Hasta La Vista](https://open.spotify.com/track/7Hqkibl2LIjY1gWtqTb4HW) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Hasta La Vista](https://open.spotify.com/album/7tyoTr3dPhTbDZ8QDmfopy) | 2:48 |
 
-Snapshot ID: `AbgddAAAAACnfhl1aUY+jX5DfnagDQNY`
+Snapshot ID: `AbgjCgAAAABz59gUiZIe3+BcLCE7OE7v`

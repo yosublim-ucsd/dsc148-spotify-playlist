@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > Fresh new music by independent artists and labels, featuring Perla Valenzuela\. Updates every Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,481 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,492 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 66 | [Putazos Al Corazon](https://open.spotify.com/track/72l6TCNIOr9axmpgfoBTmg) | [Vanita Leo](https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Putazos Al Corazon](https://open.spotify.com/album/785tDXhTyh3e8IgyLVtG6T) | 3:14 |
 | 67 | [COCO LABIAL](https://open.spotify.com/track/4CiD6WRELwKblaPV2Pl3cO) | [Mando Exclusivo](https://open.spotify.com/artist/16GWmOhbfnUn6NmBrg9j3l) | [El Comienzo](https://open.spotify.com/album/68cxeMZsMbvCSUZZpjhTWB) | 2:26 |
 | 68 | [Pa Donde Sea](https://open.spotify.com/track/3saOhEuvUlZLkcrxyu8kyM) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Pa Donde Sea](https://open.spotify.com/album/73mXUPl4AI4WSSiYOpnded) | 2:06 |
-| 69 | [Modo Checo](https://open.spotify.com/track/17AgWsJcfmrb9LduxXc3NJ) | [D\. PHANTØM](https://open.spotify.com/artist/1axsg0eUSKEdGgPbX2QE3N) | [Modo Checo](https://open.spotify.com/album/7uQJe46AlRnqYxGPrpNyWB) | 3:18 |
+| 69 | [Modo Checo](https://open.spotify.com/track/17AgWsJcfmrb9LduxXc3NJ) | [D\. PHANTØM](https://open.spotify.com/artist/24ElwyRXmzeJZCtsAR84Yh) | [Modo Checo](https://open.spotify.com/album/7uQJe46AlRnqYxGPrpNyWB) | 3:18 |
 | 70 | [Un Loco Enamorado](https://open.spotify.com/track/1He0O3zoEa7LZbfNK9ieoP) | [Boy Junior](https://open.spotify.com/artist/7oewpx3rYQv76GZ3GAq5Yq) | [Un Loco Enamorado](https://open.spotify.com/album/2fiLW10yDhtTIJVcHOXV4O) | 3:41 |
 | 71 | [Infierno](https://open.spotify.com/track/3szf06IMRODOx9FEjQnOof) | [Shompo 7trece](https://open.spotify.com/artist/07UJar28mEaU38lc7rqJ3v) | [Infierno](https://open.spotify.com/album/3vsvosJWHG2oWviFudY4dR) | 2:26 |
 | 72 | [2nda Opción](https://open.spotify.com/track/3eLQePIlREhZPjK11GOGTT) | [Isaiah lozano](https://open.spotify.com/artist/5Sj5fhrNExO6fsvSGF6jxZ) | [2nda Opción](https://open.spotify.com/album/2hQyIcCAXGwaPtKjDSpqOW) | 3:23 |

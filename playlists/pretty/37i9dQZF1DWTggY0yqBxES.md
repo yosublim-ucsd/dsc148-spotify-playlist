@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: EARTHGANG
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,550 likes - 105 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,691 likes - 105 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 64 | [Me & My Baby](https://open.spotify.com/track/7GfRE8xZpYhfpOttT2eCCE) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [TRENCH](https://open.spotify.com/album/3OHhCA38DhT7rBXa5Ea4go) | 1:31 |
 | 65 | [\#baby boy! \(feat\. SONNY, NombreKari & Menace4hire\)](https://open.spotify.com/track/7DPc9VW1G2VJj0wZb0j6c5) | [Kaicrewsade](https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx), [SONNY](https://open.spotify.com/artist/3KDKJ7Z0kgJrQS1CH43PM4), [NombreKari](https://open.spotify.com/artist/02qDjHpQqiweSIMa5VKa8t), [Menace4hire](https://open.spotify.com/artist/4oFfYNnynfSqQVW3hOfIMb) | [Yvette](https://open.spotify.com/album/53388BPskJA1DRffgJiGaO) | 4:49 |
 | 66 | [TENNESSEE](https://open.spotify.com/track/19uJXEzXyp37uw6tOmKMMA) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Trevor Spitta](https://open.spotify.com/artist/6uCXq7IoXFqGSB3L5zX5oV), [Zachary Moon](https://open.spotify.com/artist/26rBtms72mHDWwdA6OmWIJ) | [COYOTE](https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu) | 2:33 |
-| 67 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
+| 67 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 68 | [Don't Care Didn't Ask](https://open.spotify.com/track/5LAzEfoTOp7sIiRvEXpWlT) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Don't Care Didn't Ask](https://open.spotify.com/album/2bS25a2Bme6RkFAozL5ggK) | 2:49 |
 | 69 | [Fly Away \(with Sheck Wes, Ski Mask The Slump God & JID\)](https://open.spotify.com/track/4FdlNCxdyXOXKIZNKcIqAs) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 3:05 |
 | 70 | [Polynesian](https://open.spotify.com/track/27ATssFYewh8Vcg6wd6Udq) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Polynesian](https://open.spotify.com/album/1h5dJ992NoupgWlLlsubjI) | 3:00 |

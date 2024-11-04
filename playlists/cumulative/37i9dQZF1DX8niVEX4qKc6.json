@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Ninja Mental - Unplugged MTV",
+        "url": "https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277733,
+      "name": "Hermoza From Heaven",
+      "url": "https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09"
+    },
+    {
+      "album": {
         "name": "Im\u00e1n",
         "url": "https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v"
       },
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 137740,
       "name": "Robada",
       "url": "https://open.spotify.com/track/4phQ5sMlXXOMuNke9qEwED"

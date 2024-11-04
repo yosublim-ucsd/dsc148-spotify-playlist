@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: RAT BOY",
-  "num_followers": 55585,
+  "num_followers": 55600,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -355,38 +371,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "FLORA",
-        "url": "https://open.spotify.com/album/7hc3laAnfwA9wkRA6tPZNx"
-      },
-      "artists": [
-        {
-          "name": "Nasa Histoires",
-          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
-        }
-      ],
-      "duration_ms": 217160,
-      "name": "Tr\u00e9bol",
-      "url": "https://open.spotify.com/track/5vQ92SVZwXpnIul2ORjTiE"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Infiernos",
         "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "FLORA",
+        "url": "https://open.spotify.com/album/7hc3laAnfwA9wkRA6tPZNx"
+      },
+      "artists": [
+        {
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "Tr\u00e9bol",
+      "url": "https://open.spotify.com/track/5vQ92SVZwXpnIul2ORjTiE"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Que Corra La Voz",
-        "url": "https://open.spotify.com/album/0dxQu4nLZBSMZFVRUTAQ9e"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "Mis Colegas",
-      "url": "https://open.spotify.com/track/0p3rxgmQPN5y6QEMzliGZc"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 180826,
       "name": "Ac\u00e1bame de Matar",
       "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Que Corra La Voz",
+        "url": "https://open.spotify.com/album/0dxQu4nLZBSMZFVRUTAQ9e"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Mis Colegas",
+      "url": "https://open.spotify.com/track/0p3rxgmQPN5y6QEMzliGZc"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Los Rabanes",
         "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
       },
@@ -811,42 +811,6 @@
       "duration_ms": 184533,
       "name": "My Commanding Wife",
       "url": "https://open.spotify.com/track/1Yioe436ryeIRmiEzsrzVv"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "Ai",
-        "url": "https://open.spotify.com/album/0mMjeFMp1gG5BmGSth4ngC"
-      },
-      "artists": [
-        {
-          "name": "3 Pemuda Berbahaya",
-          "url": "https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z"
-        },
-        {
-          "name": "Sallsa Bintan",
-          "url": "https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7"
-        }
-      ],
-      "duration_ms": 233965,
-      "name": "Ai",
-      "url": "https://open.spotify.com/track/5KjgtZ66c7MnDgWW8MeZ18"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "Alles gl\u00e4nzt",
-        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 196699,
-      "name": "Komm mit aufs Boot",
-      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -871,6 +835,58 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "Alles gl\u00e4nzt",
+        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 196699,
+      "name": "Komm mit aufs Boot",
+      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Ai",
+        "url": "https://open.spotify.com/album/0mMjeFMp1gG5BmGSth4ngC"
+      },
+      "artists": [
+        {
+          "name": "3 Pemuda Berbahaya",
+          "url": "https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z"
+        },
+        {
+          "name": "Sallsa Bintan",
+          "url": "https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7"
+        }
+      ],
+      "duration_ms": 233965,
+      "name": "Ai",
+      "url": "https://open.spotify.com/track/5KjgtZ66c7MnDgWW8MeZ18"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Brand New Day",
+        "url": "https://open.spotify.com/album/5C6mPpGNlw6ovkuO0WMADa"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 206779,
+      "name": "Brand New Day",
+      "url": "https://open.spotify.com/track/2ukSB6kFcvZ0CgIYvuqfgK"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Radio Ghetto",
         "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
       },
@@ -883,38 +899,6 @@
       "duration_ms": 198053,
       "name": "Despideme",
       "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "Walking Pipebomb",
-        "url": "https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 165111,
-      "name": "Walking Pipebomb",
-      "url": "https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "The Best Of Us For The Rest Of Us",
-        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 197586,
       "name": "No Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/05oVLw37812S2eoTVetosi"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "The Best Of Us For The Rest Of Us",
+        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "All The Moon Stompers",
         "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
       },
@@ -1019,6 +1003,38 @@
       "duration_ms": 191666,
       "name": "I Wanna Riot",
       "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Walking Pipebomb",
+        "url": "https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 165111,
+      "name": "Walking Pipebomb",
+      "url": "https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1039,38 +1055,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "The One And Only",
-        "url": "https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje"
-      },
-      "artists": [
-        {
-          "name": "Makua Rothman",
-          "url": "https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN"
-        }
-      ],
-      "duration_ms": 183725,
-      "name": "The One And Only",
-      "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "Brand New Day",
-        "url": "https://open.spotify.com/album/5C6mPpGNlw6ovkuO0WMADa"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 206779,
-      "name": "Brand New Day",
-      "url": "https://open.spotify.com/track/2ukSB6kFcvZ0CgIYvuqfgK"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Brass Emo, Vol. 2",
         "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 193500,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "The One And Only",
+        "url": "https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje"
+      },
+      "artists": [
+        {
+          "name": "Makua Rothman",
+          "url": "https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN"
+        }
+      ],
+      "duration_ms": 183725,
+      "name": "The One And Only",
+      "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Rude Station",
-        "url": "https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ"
-      },
-      "artists": [
-        {
-          "name": "Juantxo Skalari & La Rude Band",
-          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Contigo Estar\u00e9 Bien",
-      "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Broken Words",
         "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 172003,
       "name": "Broken Words",
       "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Rude Station",
+        "url": "https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ"
+      },
+      "artists": [
+        {
+          "name": "Juantxo Skalari & La Rude Band",
+          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Contigo Estar\u00e9 Bien",
+      "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Me Sem Rom",
-        "url": "https://open.spotify.com/album/3X1YnQsY4hLBNbAHO6Eezg"
-      },
-      "artists": [
-        {
-          "name": "Fanfare Ciocarlia",
-          "url": "https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg"
-        },
-        {
-          "name": "Iulian Canaf",
-          "url": "https://open.spotify.com/artist/1VH7bhQfK4IFnlvX70BLZx"
-        }
-      ],
-      "duration_ms": 187900,
-      "name": "Me Sem Rom",
-      "url": "https://open.spotify.com/track/6ckSwgGXiWtRRGDvbfnpfk"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Shellshock",
         "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 248370,
       "name": "Sleepin' on the Couch (with The Elovaters)",
       "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Me Sem Rom",
+        "url": "https://open.spotify.com/album/3X1YnQsY4hLBNbAHO6Eezg"
+      },
+      "artists": [
+        {
+          "name": "Fanfare Ciocarlia",
+          "url": "https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg"
+        },
+        {
+          "name": "Iulian Canaf",
+          "url": "https://open.spotify.com/artist/1VH7bhQfK4IFnlvX70BLZx"
+        }
+      ],
+      "duration_ms": 187900,
+      "name": "Me Sem Rom",
+      "url": "https://open.spotify.com/track/6ckSwgGXiWtRRGDvbfnpfk"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "Return Of The Ugly",
+        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
+      },
+      "artists": [
+        {
+          "name": "Bad Manners",
+          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/6omrGZ7xQ9qJubMzXIPknM"
       },
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Return Of The Ugly",
-        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
-      },
-      "artists": [
-        {
-          "name": "Bad Manners",
-          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Theatre of the Absurd presents C'est La Vie (Enhanced Edition)",
         "url": "https://open.spotify.com/album/2EE9aKYoYxY3OFs9oLDZlI"
       },
@@ -1683,22 +1683,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Yes It's True",
-        "url": "https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ"
+        "name": "St. Pauli - Einhundert",
+        "url": "https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs"
       },
       "artists": [
         {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
-        },
-        {
-          "name": "Brian Fallon",
-          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
+          "name": "Dubtari",
+          "url": "https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC"
         }
       ],
-      "duration_ms": 243615,
-      "name": "Yes It's True",
-      "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"
+      "duration_ms": 225880,
+      "name": "Forza St. Pauli",
+      "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
     }
   ],
   "unique_name": "Ska Around The Globe",

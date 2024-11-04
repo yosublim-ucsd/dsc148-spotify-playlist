@@ -3719,24 +3719,6 @@
     },
     {
       "album": {
-        "name": "Que No Quiero Verte",
-        "url": "https://open.spotify.com/album/6wYqy9j39MUqbAP336giC8"
-      },
-      "artists": [
-        {
-          "name": "La Negra Flores",
-          "url": "https://open.spotify.com/artist/0nsS3uyzOBvtlRaHp41D13"
-        }
-      ],
-      "date_added": "2024-11-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163130,
-      "name": "Que No Quiero Verte",
-      "url": "https://open.spotify.com/track/63YtQf57SFuVDNZuutiNsW"
-    },
-    {
-      "album": {
         "name": "QUEMARLO TODO",
         "url": "https://open.spotify.com/album/2n0iynESypPLAPOVu4GVj9"
       },
@@ -4014,6 +3996,24 @@
       "duration_ms": 235200,
       "name": "Sal a pasear",
       "url": "https://open.spotify.com/track/4Gy2K1tivOt7hOMFmA9i6n"
+    },
+    {
+      "album": {
+        "name": "Se Apag\u00f3 la Vela",
+        "url": "https://open.spotify.com/album/6wYqy9j39MUqbAP336giC8"
+      },
+      "artists": [
+        {
+          "name": "La Negra Flores",
+          "url": "https://open.spotify.com/artist/0nsS3uyzOBvtlRaHp41D13"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163130,
+      "name": "Se Apag\u00f3 la Vela",
+      "url": "https://open.spotify.com/track/63YtQf57SFuVDNZuutiNsW"
     },
     {
       "album": {

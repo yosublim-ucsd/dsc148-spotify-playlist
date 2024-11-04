@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: LA MILAGROSA.
 
-207 songs - 10 hr 42 min
+208 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [La gran renuncia](https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [La gran renuncia](https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O) | 2:26 | 2024-09-26 |  |
 | [La matanza de Texas](https://open.spotify.com/track/4SgXWK4j9rKd1gVk1Ul0WY) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa), [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO), [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [La matanza de Texas](https://open.spotify.com/album/1HOwpCbsknfSwH6ZBFM6WR) | 3:00 | 2024-06-27 |  |
 | [La Novedad](https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH), [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [La Novedad](https://open.spotify.com/album/1GMQ07qxd5Sxjb1ga4c1sW) | 3:31 | 2024-10-17 |  |
-| [La Persiana](https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Persiana](https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU) | 2:06 | 2024-06-27 |  |
+| [La Persiana](https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Persiana](https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU) | 2:06 | 2024-06-27 | 2024-11-04 |
 | [La Salvación](https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [COWBOYS DE LA A3](https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn) | 4:23 | 2024-06-27 | 2024-10-11 |
 | [La Torre Picasso](https://open.spotify.com/track/2Czaw41IWZLz5JxwLueamL) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [La Torre Picasso](https://open.spotify.com/album/090Jo9iBjpgrcBwezLFTYq) | 8:04 | 2024-09-12 |  |
 | [La Vida Cañón](https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 2:32 | 2024-06-27 |  |
@@ -181,6 +181,7 @@
 | [Stranger](https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [VIVA HINDS](https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU) | 3:26 | 2024-09-05 | 2024-09-27 |
 | [SUMMER NOSTALGIA](https://open.spotify.com/track/1MlLMl7vrGvoR7LOHdqdv0) | [Johnny Garso](https://open.spotify.com/artist/6zvsUJE9zNUpP3mV3tQsCg) | [SUMMER NOSTALGIA](https://open.spotify.com/album/61S51d00CHdUHH7FTTVhtL) | 2:57 | 2024-09-05 | 2024-09-27 |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-25 | 2024-08-23 |
+| [Sé que no](https://open.spotify.com/track/3jT4rZmbAUDRH2sd9508Px) | [Junio](https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Sé que no](https://open.spotify.com/album/2IEcBXMQw4Zyrv77VoiPRH) | 2:36 | 2024-10-31 |  |
 | [TDA](https://open.spotify.com/track/2mIpVnpIHhIAOXo9Uzr0Hm) | [Los Bengala](https://open.spotify.com/artist/5aaHaDy8RxAsa3S0SB8pxW) | [TDA](https://open.spotify.com/album/0eBbJ6ZPUz9WcJGhnu4Hpp) | 2:24 | 2024-08-29 | 2024-10-11 |
 | [Te vi en el concierto](https://open.spotify.com/track/4hKLszgJbdLdIKvWq6kCFM) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW), [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Te vi en el concierto](https://open.spotify.com/album/2Aagt3zBoR5sNhY8Tysml5) | 2:41 | 2024-10-31 |  |
 | [Tekken](https://open.spotify.com/track/5kxroIDsvS0AQck5X8EKYN) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Tekken](https://open.spotify.com/album/43Ost0Cu1JwQPIVA8fgxXs) | 4:21 | 2024-06-27 | 2024-08-02 |

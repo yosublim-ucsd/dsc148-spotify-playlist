@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 268179,
+  "num_followers": 268307,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
-        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
+        "name": "S\u00f3lo Dios Puede Juzgarme",
+        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
       },
       "artists": [
         {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 237949,
-      "name": "Ella Dijo",
-      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
+      "duration_ms": 178640,
+      "name": "Le Cre\u00ed",
+      "url": "https://open.spotify.com/track/1sA46SlQCMoDgkY7mU4O3a"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "S\u00f3lo Dios Puede Juzgarme",
-        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
+        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
+        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
       },
       "artists": [
         {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
         }
       ],
-      "duration_ms": 178640,
-      "name": "Le Cre\u00ed",
-      "url": "https://open.spotify.com/track/1sA46SlQCMoDgkY7mU4O3a"
+      "duration_ms": 237949,
+      "name": "Ella Dijo",
+      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
+        "name": "S\u00f3lo Dios Puede Juzgarme",
+        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 155360,
+      "name": "El Chancho Come Caviar",
+      "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
+    },
+    {
+      "added_at": "2024-11-01 14:28:57",
+      "album": {
         "name": "Despu\u00e9s de T\u00ed, Que",
         "url": "https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 235280,
       "name": "Si Me Ves Llorar por Ti",
       "url": "https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS"
-    },
-    {
-      "added_at": "2024-11-01 14:28:57",
-      "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/25bzZeH69TvnFcgV4JPKGr"
-      },
-      "artists": [
-        {
-          "name": "La contr\u00e0",
-          "url": "https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM"
-        }
-      ],
-      "duration_ms": 227857,
-      "name": "Entre t\u00fa y mil mares",
-      "url": "https://open.spotify.com/track/5l4vFZvA9YpHNPWfQJEoo0"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/25bzZeH69TvnFcgV4JPKGr"
+      },
+      "artists": [
+        {
+          "name": "La contr\u00e0",
+          "url": "https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM"
+        }
+      ],
+      "duration_ms": 227857,
+      "name": "Entre t\u00fa y mil mares",
+      "url": "https://open.spotify.com/track/5l4vFZvA9YpHNPWfQJEoo0"
+    },
+    {
+      "added_at": "2024-11-01 14:28:57",
+      "album": {
         "name": "Placer y Olvido",
         "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
       },
@@ -551,6 +567,22 @@
       "duration_ms": 233429,
       "name": "Placer y Olvido",
       "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
+    },
+    {
+      "added_at": "2024-11-01 14:28:57",
+      "album": {
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -571,50 +603,18 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "S\u00f3lo Dios Puede Juzgarme",
-        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
+        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
       },
       "artists": [
         {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+          "name": "Mario Pereyra y Su Banda",
+          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
         }
       ],
-      "duration_ms": 155360,
-      "name": "El Chancho Come Caviar",
-      "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
-    },
-    {
-      "added_at": "2024-11-01 14:28:57",
-      "album": {
-        "name": "Simplemente Nag\u00fcel",
-        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
-      },
-      "artists": [
-        {
-          "name": "Simplemente Naguel",
-          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Te So\u00f1\u00e9 una Vez",
-      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
-    },
-    {
-      "added_at": "2024-11-01 14:28:57",
-      "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+      "duration_ms": 137786,
+      "name": "Hasta el Sol de Hoy (En Vivo)",
+      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
+        "name": "Simplemente Nag\u00fcel",
+        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
       "artists": [
         {
-          "name": "Mario Pereyra y Su Banda",
-          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
+          "name": "Simplemente Naguel",
+          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
         }
       ],
-      "duration_ms": 137786,
-      "name": "Hasta el Sol de Hoy (En Vivo)",
-      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
+      "duration_ms": 181680,
+      "name": "Te So\u00f1\u00e9 una Vez",
+      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "Cicatrices (Con Buenos Aires)",
-        "url": "https://open.spotify.com/album/2QmW2CJutIAyU1JupHb7le"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        },
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 180352,
-      "name": "Cicatrices (Con Buenos Aires)",
-      "url": "https://open.spotify.com/track/6Fwqxw2tyLRzpPLu51ci3t"
-    },
-    {
-      "added_at": "2024-11-01 14:28:57",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
@@ -735,34 +715,22 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "Simplemente Nag\u00fcel",
-        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
+        "name": "Cicatrices (Con Buenos Aires)",
+        "url": "https://open.spotify.com/album/2QmW2CJutIAyU1JupHb7le"
       },
       "artists": [
         {
-          "name": "Simplemente Naguel",
-          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
-        }
-      ],
-      "duration_ms": 181946,
-      "name": "El Hospicio",
-      "url": "https://open.spotify.com/track/4I17shszGarI3lEcneeEEK"
-    },
-    {
-      "added_at": "2024-11-01 14:28:57",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        },
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+      "duration_ms": 180352,
+      "name": "Cicatrices (Con Buenos Aires)",
+      "url": "https://open.spotify.com/track/6Fwqxw2tyLRzpPLu51ci3t"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -795,6 +763,38 @@
       "duration_ms": 253800,
       "name": "Que Precio Tiene El Cielo",
       "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
+    },
+    {
+      "added_at": "2024-11-01 14:28:57",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+    },
+    {
+      "added_at": "2024-11-01 14:28:57",
+      "album": {
+        "name": "Simplemente Nag\u00fcel",
+        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
+      },
+      "artists": [
+        {
+          "name": "Simplemente Naguel",
+          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
+        }
+      ],
+      "duration_ms": 181946,
+      "name": "El Hospicio",
+      "url": "https://open.spotify.com/track/4I17shszGarI3lEcneeEEK"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
+        "name": "Te Sorprender\u00e1s",
+        "url": "https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel El Brujo",
+          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
+        },
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 188140,
+      "name": "Te Sorprender\u00e1s",
+      "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
+    },
+    {
+      "added_at": "2024-11-01 14:28:57",
+      "album": {
         "name": "Exitos de oro",
         "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 219434,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1"
-    },
-    {
-      "added_at": "2024-11-01 14:28:57",
-      "album": {
-        "name": "Te Sorprender\u00e1s",
-        "url": "https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel El Brujo",
-          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
-        },
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 188140,
-      "name": "Te Sorprender\u00e1s",
-      "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
-    },
-    {
-      "added_at": "2024-11-01 14:28:57",
-      "album": {
         "name": "No Fue Culpa Mia",
         "url": "https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p"
       },
@@ -1219,22 +1203,6 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/0sKLgiXbjiyjIhK2XzANd9"
-      },
-      "artists": [
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 175545,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr"
-    },
-    {
-      "added_at": "2024-11-01 14:28:57",
-      "album": {
         "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw"
       },
@@ -1247,6 +1215,22 @@
       "duration_ms": 175026,
       "name": "No Me Doli\u00f3",
       "url": "https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16"
+    },
+    {
+      "added_at": "2024-11-01 14:28:57",
+      "album": {
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/0sKLgiXbjiyjIhK2XzANd9"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 175545,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "Cumbia Santafesina",
-        "url": "https://open.spotify.com/album/7mDi628GH3nmQeOH88RAIz"
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
       "artists": [
         {
-          "name": "Walter Encina",
-          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
         }
       ],
-      "duration_ms": 210426,
-      "name": "No Me Di Cuenta",
-      "url": "https://open.spotify.com/track/3XtkRaIHYhaeio9C5MK7MU"
+      "duration_ms": 204000,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -1295,6 +1279,22 @@
       "duration_ms": 218373,
       "name": "Tu C\u00f3mo Est\u00e1s",
       "url": "https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx"
+    },
+    {
+      "added_at": "2024-11-01 14:28:57",
+      "album": {
+        "name": "Cumbia Santafesina",
+        "url": "https://open.spotify.com/album/7mDi628GH3nmQeOH88RAIz"
+      },
+      "artists": [
+        {
+          "name": "Walter Encina",
+          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "No Me Di Cuenta",
+      "url": "https://open.spotify.com/track/3XtkRaIHYhaeio9C5MK7MU"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "Te Llevas Mi Vida",
-        "url": "https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR"
+        "name": "CUMBIA, CUMBIA, CUMBIA",
+        "url": "https://open.spotify.com/album/6xfbKv5OeSyeGxh12mGkHb"
       },
       "artists": [
         {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
         }
       ],
-      "duration_ms": 232248,
-      "name": "Te Llevas Mi Vida",
-      "url": "https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N"
+      "duration_ms": 171526,
+      "name": "CUMBIA, CUMBIA, CUMBIA",
+      "url": "https://open.spotify.com/track/3suelWfLweuFrb1Fbgsg94"
     }
   ],
   "unique_name": "Cumbia Santafesina",

@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30044,
+  "num_followers": 30049,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAABcfRiiTbIC7FNtX1Yo7rX0",
+  "snapshot_id": "ZyVrgAAAAABpzrWKoIIE1veDPEUIje9s",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 322160,
-      "name": "Sabor de Mel",
-      "url": "https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 358973,
       "name": "Se O Mar N\u00e3o Se Abrir / Cita\u00e7\u00e3o: Firme Nas Promessas (Ao Vivo)",
       "url": "https://open.spotify.com/track/0vDhtdj7GlEWspnNvxTqb2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 322160,
+      "name": "Sabor de Mel",
+      "url": "https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T"
     },
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 306173,
-      "name": "A Batalha do Arcanjo",
-      "url": "https://open.spotify.com/track/7Iy6r0TWdhMUPfSspCGRKY"
+      "duration_ms": 340080,
+      "name": "Pode Ser Hoje",
+      "url": "https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY"
     },
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 340080,
-      "name": "Pode Ser Hoje",
-      "url": "https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY"
+      "duration_ms": 306173,
+      "name": "A Batalha do Arcanjo",
+      "url": "https://open.spotify.com/track/7Iy6r0TWdhMUPfSspCGRKY"
     },
     {
       "added_at": null,
@@ -351,30 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "100 Anos do Movimento Pentecostal",
-        "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
       "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         },
         {
-          "name": "Elaine de Jesus",
-          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
-        },
-        {
-          "name": "Lauriete",
-          "url": "https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e"
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 835400,
-      "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
-      "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
+      "duration_ms": 355746,
+      "name": "Milagre",
+      "url": "https://open.spotify.com/track/63achhyLh1fXYjk0wUvT4m"
     },
     {
       "added_at": null,
@@ -411,18 +403,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Di\u00e1rio de um Vencedor",
-        "url": "https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco"
+        "name": "100 Anos do Movimento Pentecostal",
+        "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
       },
       "artists": [
         {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        },
+        {
+          "name": "Lauriete",
+          "url": "https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e"
         }
       ],
-      "duration_ms": 324520,
-      "name": "Di\u00e1rio de um Vencedor",
-      "url": "https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds"
+      "duration_ms": 835400,
+      "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
+      "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
     },
     {
       "added_at": null,
@@ -443,18 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+        "name": "Di\u00e1rio de um Vencedor",
+        "url": "https://open.spotify.com/album/5mBdO3ZcFBZ4qW7LAk9ARb"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 355880,
-      "name": "Milagre",
-      "url": "https://open.spotify.com/track/3S2tOr5qzFpVAQhVMiEUYW"
+      "duration_ms": 322194,
+      "name": "Di\u00e1rio de um Vencedor",
+      "url": "https://open.spotify.com/track/3bP06nmIxxAjI2EfZreyJD"
     },
     {
       "added_at": null,
@@ -560,17 +568,21 @@
       "added_at": null,
       "album": {
         "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 235986,
+      "duration_ms": 235853,
       "name": "N\u00e3o Toque no Ungido",
-      "url": "https://open.spotify.com/track/2w8E3RYl14JHRRFnNi1ae7"
+      "url": "https://open.spotify.com/track/7fNATW4jATKU0yhAmBJBOq"
     },
     {
       "added_at": null,
@@ -771,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "Escondido Nele",
-      "url": "https://open.spotify.com/track/7x3qHc3QKCC9ObpYaWPJNz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vai Ficar Bem",
         "url": "https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg"
       },
@@ -807,6 +803,22 @@
       "duration_ms": 116640,
       "name": "Vai Ficar Bem",
       "url": "https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Escondido Nele",
+      "url": "https://open.spotify.com/track/7x3qHc3QKCC9ObpYaWPJNz"
     }
   ],
   "unique_name": "This Is Damares",

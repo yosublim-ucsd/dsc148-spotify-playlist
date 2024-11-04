@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-321 songs - 18 hr 12 min
+322 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Beyond the Veil](https://open.spotify.com/track/6kwjxS1LFHHZ79wqhvQiy1) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Beauty in the Ruins](https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A) | 2:49 | 2024-07-02 |  |
 | [Birds](https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:13 | 2024-07-02 |  |
 | [Bit by Bit, Slowly, To You](https://open.spotify.com/track/31X1N4lrop817FGBLsIBsv) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Bit by Bit, Slowly, To You](https://open.spotify.com/album/4I5jPCjaATIgV3ADJdBoDE) | 4:16 | 2023-05-02 | 2024-07-03 |
-| [Blanca](https://open.spotify.com/track/6dKTWFaypAL4e5Hzie6zZp) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:13 | 2024-07-02 |  |
+| [Blanca](https://open.spotify.com/track/6dKTWFaypAL4e5Hzie6zZp) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:13 | 2024-07-02 | 2024-11-04 |
 | [Blooming Today](https://open.spotify.com/track/1dTshccEBE5ABMk5ls1LHA) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Blooming Today](https://open.spotify.com/album/5oi7YShT4pfwoAlKJtqDsk) | 3:09 | 2023-06-13 | 2023-08-11 |
 | [Blooming Today](https://open.spotify.com/track/7bFLEPt1ZpePXATqdRWbZu) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Blooming Today](https://open.spotify.com/album/4TMYHDS6hlg3VtFOu96lNT) | 3:02 | 2023-07-17 | 2024-07-03 |
 | [Blue Dragon](https://open.spotify.com/track/4eJ11PArOQBen4ZYQu7byX) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Hanagasumi](https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8) | 3:19 | 2024-07-02 |  |
@@ -242,6 +242,7 @@
 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 | 2022-12-09 | 2023-01-28 |
 | [Snow, You, Flower](https://open.spotify.com/track/0r4oRG61m7d5UW0fR04OTm) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [Herz Catalog \- Snow, You, Flower](https://open.spotify.com/album/1gJLgMtAyUNaQuxqDwLBne) | 4:07 | 2022-05-03 | 2024-07-03 |
 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 | 2023-02-24 | 2024-07-03 |
+| [Song of the Samurai](https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Lost in Japan II](https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT) | 3:31 | 2024-07-02 |  |
 | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0) | 4:41 | 2022-07-22 | 2024-06-22 |
 | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/track/57jBcQUCJaIUTRbqBmW7D1) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/album/2CV86ZVlL1h8DofUs7kIL3) | 4:41 | 2022-05-03 | 2022-07-29 |
 | [Sorry But](https://open.spotify.com/track/3RQYc694ID1yZlcb4O9EqV) | [Jayuro Project](https://open.spotify.com/artist/5dqpQh4BPsFk9P7RieTZXa) | [Sorry But](https://open.spotify.com/album/2VghZ8pNL6aml9CSWFP5sB) | 3:39 | 2022-05-03 | 2022-07-27 |

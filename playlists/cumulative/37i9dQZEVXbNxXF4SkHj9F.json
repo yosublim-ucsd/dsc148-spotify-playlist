@@ -7585,6 +7585,24 @@
     },
     {
       "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+    },
+    {
+      "album": {
         "name": "Glitch Mode - The 2nd Album",
         "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
       },
@@ -10732,7 +10750,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 220309,
       "name": "Grain of Sand",
       "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
@@ -17598,7 +17616,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
@@ -18506,7 +18524,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 178026,
       "name": "NEMONEMO",
       "url": "https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK"
@@ -25728,7 +25746,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 114693,
       "name": "Super Tuna",
       "url": "https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf"
@@ -29532,7 +29550,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 177953,
       "name": "Who (Beautiful Mind Remix)",
       "url": "https://open.spotify.com/track/2isRbZIIU4PqPrECffn7QO"
@@ -29568,7 +29586,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who (Instrumental)",
       "url": "https://open.spotify.com/track/1Px44tw80Q4rcCl8FxDGOi"
@@ -29604,7 +29622,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 166809,
       "name": "Who (Shibuyakei Remix)",
       "url": "https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41"

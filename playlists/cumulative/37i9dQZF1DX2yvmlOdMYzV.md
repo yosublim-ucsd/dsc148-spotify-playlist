@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-839 songs - 1 day 21 hr 42 min
+840 songs - 1 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-09-16 | 2023-07-15 |
 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 | 2024-04-12 |  |
 | [Home](https://open.spotify.com/track/6G2qhOQ4FB7WdKIE2CJ4wd) | [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy), [Sir Travis Knight](https://open.spotify.com/artist/2hXZ3inKoskqRJ9eqAQQxQ) | [Home](https://open.spotify.com/album/2ifD3sMzx0bi3qkJ10NqK1) | 3:59 | 2024-04-19 | 2024-05-29 |
-| [Honeydew](https://open.spotify.com/track/7Ml00EUWOQofrC8S6ZaNZa) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Grupo Cosmo](https://open.spotify.com/artist/3Nscxt04XZeBcr4FhQhXeO) | [Honeydew](https://open.spotify.com/album/3w4AYFWsuNNHuHLrnA7mkE) | 4:44 | 2024-10-18 |  |
+| [Honeydew](https://open.spotify.com/track/7Ml00EUWOQofrC8S6ZaNZa) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Grupo Cosmo](https://open.spotify.com/artist/3Nscxt04XZeBcr4FhQhXeO) | [Honeydew](https://open.spotify.com/album/3w4AYFWsuNNHuHLrnA7mkE) | 4:44 | 2024-10-18 | 2024-11-04 |
 | [Honeydew \(02\)](https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 2:33 | 2023-02-16 | 2024-02-23 |
 | [Hours Make Ours](https://open.spotify.com/track/4kYVHMrIdqPVl7qUQyc5DL) | [Emmitt Dupree](https://open.spotify.com/artist/79MziQbpN1acq1nd6ixrkd) | [Hours Make Ours](https://open.spotify.com/album/59Ctl8fCrvgd9ogAdIwH30) | 3:33 | 2022-02-14 | 2022-05-08 |
 | [How To Meet Yourself](https://open.spotify.com/track/0d6tfBzCCJTB8yO2pUu82A) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 3:16 | 2024-06-28 |  |
@@ -708,6 +708,7 @@
 | [Surrender](https://open.spotify.com/track/4yBzXfwyFa1wbCBS3iYF2X) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [miamore](https://open.spotify.com/artist/23sH6BNUvKukpazBNr5HqB), [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ) | [Surrender](https://open.spotify.com/album/63VfVVts4L2wtn6KLBPSzB) | 3:33 | 2023-12-08 | 2024-01-13 |
 | [Sweet](https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Sweet](https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX) | 2:54 | 2024-08-23 |  |
 | [Sweet Lies](https://open.spotify.com/track/3prJqrOhgJnMZI9nN4nvBg) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Sweet Lies](https://open.spotify.com/album/64yAldhfu8FAY9XWpca16Q) | 3:41 | 2024-08-16 |  |
+| [Sweet Little Rainbows](https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Mystery](https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S) | 3:43 | 2024-10-26 |  |
 | [Sweet Nothing](https://open.spotify.com/track/2tF7vtDQKT8SW1E0oxQn2U) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Sweet Nothing](https://open.spotify.com/album/2UWJzgUpIJpurnzuT1bpqT) | 3:29 | 2023-05-26 | 2023-07-15 |
 | [Table for Two](https://open.spotify.com/track/4QcoLNjHgwDIoMvKeIm6aK) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP), [Bran Mazz](https://open.spotify.com/artist/2gAvPf7H37Rbp6B4DimriZ) | [Table for Two](https://open.spotify.com/album/2n5GM1tmlT3LwTicApBbUG) | 3:27 | 2021-12-15 | 2023-03-10 |
 | [Take 2](https://open.spotify.com/track/4ds7pOjZFtjJaXusB5IOoO) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 2:25 | 2024-06-15 | 2024-09-17 |

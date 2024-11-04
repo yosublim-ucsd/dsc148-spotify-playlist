@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u52a0\u85e4\u30df\u30ea\u30e4\u00d7\u690e\u540d\u6797\u6a8e",
-  "num_followers": 113983,
+  "num_followers": 113982,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
+        "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+        "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+      "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
         "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
         "url": "https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
-        "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
-      "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
         "url": "https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft"
       },
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
+        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
         "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
         "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 193039,
       "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
       "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
-        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
-        "url": "https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
-      "url": "https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "EYES ON YOU",
-        "url": "https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L"
-      },
-      "artists": [
-        {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
-        }
-      ],
-      "duration_ms": 216892,
-      "name": "EYES ON YOU",
-      "url": "https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
         "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 127925,
       "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
       "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "EYES ON YOU",
+        "url": "https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "duration_ms": 216892,
+      "name": "EYES ON YOU",
+      "url": "https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u3056\u3089\u3081",
-        "url": "https://open.spotify.com/album/4HT3Yf8OgUAtfCK7TfyjZB"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 282464,
-      "name": "\u3056\u3089\u3081",
-      "url": "https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "\u6b8b\u6a5f",
         "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 201137,
       "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
       "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "\u3056\u3089\u3081",
+        "url": "https://open.spotify.com/album/4HT3Yf8OgUAtfCK7TfyjZB"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 282464,
+      "name": "\u3056\u3089\u3081",
+      "url": "https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
+        "name": "\u865a\u4eee\u306e\u4e00\u5ff5\u6d77\u99ac\u306b\u8a17\u3059",
+        "url": "https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "\u30af\u30ba\u30ea\u5ff5",
+      "url": "https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy"
       },
@@ -1059,38 +1075,6 @@
       "duration_ms": 189498,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
-        "name": "\u5fc3\u5f97",
-        "url": "https://open.spotify.com/album/6vVdLDovF993mCA4dBayHz"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 219309,
-      "name": "\u5fc3\u5f97",
-      "url": "https://open.spotify.com/track/2hPBIYQeqpbQWSMAM9ln1w"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
-        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 314473,
-      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1111,6 +1095,38 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
+        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 314473,
+      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "\u5fc3\u5f97",
+        "url": "https://open.spotify.com/album/6vVdLDovF993mCA4dBayHz"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 219309,
+      "name": "\u5fc3\u5f97",
+      "url": "https://open.spotify.com/track/2hPBIYQeqpbQWSMAM9ln1w"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
         "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
         "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 254138,
       "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
       "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
-        "name": "\u865a\u4eee\u306e\u4e00\u5ff5\u6d77\u99ac\u306b\u8a17\u3059",
-        "url": "https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "\u30af\u30ba\u30ea\u5ff5",
-      "url": "https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
-        "url": "https://open.spotify.com/album/4U0oaI17bgvkJZx0PbZqQb"
+        "name": "Party!!",
+        "url": "https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ"
       },
       "artists": [
         {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 206425,
-      "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
-      "url": "https://open.spotify.com/track/6CwNlxgkEu4F9cyXW34PFf"
+      "duration_ms": 258413,
+      "name": "Party!!",
+      "url": "https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "Party!!",
-        "url": "https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ"
+        "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
+        "url": "https://open.spotify.com/album/4U0oaI17bgvkJZx0PbZqQb"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
         }
       ],
-      "duration_ms": 258413,
-      "name": "Party!!",
-      "url": "https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk"
+      "duration_ms": 206425,
+      "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
+      "url": "https://open.spotify.com/track/6CwNlxgkEu4F9cyXW34PFf"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u30eb\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/2xtLw7EyNr9AQ0UXbQDkBv"
-      },
-      "artists": [
-        {
-          "name": "NOMELON NOLEMON",
-          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "SAYONARA MAYBE",
-      "url": "https://open.spotify.com/track/6RAskN5GPMpjnJgY3P7QBD"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
         "url": "https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 309662,
       "name": "17\u3055\u3044\u306e\u3046\u305f\u3002",
       "url": "https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "\u30eb\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/2xtLw7EyNr9AQ0UXbQDkBv"
+      },
+      "artists": [
+        {
+          "name": "NOMELON NOLEMON",
+          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "SAYONARA MAYBE",
+      "url": "https://open.spotify.com/track/6RAskN5GPMpjnJgY3P7QBD"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1379,6 +1379,22 @@
       "duration_ms": 175786,
       "name": "\u3054\u3081\u3093\u306d",
       "url": "https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "HATE ME",
+        "url": "https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "HATE ME",
+      "url": "https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
-        "url": "https://open.spotify.com/album/6zOqqKnGbkgGl4xuiogr59"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 278360,
-      "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
-      "url": "https://open.spotify.com/track/6MBQNIHgRaxIuStAZqSeqO"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "\u604b\u6ce5\u68d2\u3002",
         "url": "https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0"
       },
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "HATE ME",
-        "url": "https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu"
+        "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
+        "url": "https://open.spotify.com/album/6zOqqKnGbkgGl4xuiogr59"
       },
       "artists": [
         {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 125000,
-      "name": "HATE ME",
-      "url": "https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM"
+      "duration_ms": 278360,
+      "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
+      "url": "https://open.spotify.com/track/6MBQNIHgRaxIuStAZqSeqO"
     },
     {
       "added_at": "2024-10-22 15:00:00",

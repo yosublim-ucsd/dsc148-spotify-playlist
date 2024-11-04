@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Crxss Current got a makeover! ✨ Sounds from the continent to the islands, with our guest curator  🇯🇲 <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a> 🇨🇦
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,275 likes - 52 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,288 likes - 52 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

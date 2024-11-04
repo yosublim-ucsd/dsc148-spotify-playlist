@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-436 songs - 20 hr 44 min
+437 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1% Diablita](https://open.spotify.com/track/3mzHRZYupj7KIQW5ZXFz39) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ) | [1% Diablita](https://open.spotify.com/album/2BHodYJkofqWtW7XFMOwwv) | 2:31 | 2024-11-03 |  |
 | [10 Mil Vezes Melhor \(feat\. Xand Avião\) \- Ao Vivo](https://open.spotify.com/track/59N1wcb8ky6o4VOUE28eQt) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Sentimento de Mulher \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/6wlEOBuv2movYxuAOYcR22) | 3:08 | 2024-01-29 |  |
 | [10/10](https://open.spotify.com/track/0vUdwscmGVpZkEBa4iPqK3) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [10/10](https://open.spotify.com/album/1vtCgnZBLk7Vio272EhOr4) | 2:59 | 2024-01-29 |  |
 | [20 Despedidas \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/5ysdbQHTlEtlElmr5Kc4iy) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Despertar \- Ensaio \(Ao Vivo Em São Paulo / 2019\)](https://open.spotify.com/album/76oY7Q3fIgkT9wFCXAyH1y) | 2:59 | 2024-01-29 |  |

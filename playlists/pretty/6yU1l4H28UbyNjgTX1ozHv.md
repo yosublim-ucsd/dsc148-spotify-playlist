@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,032 likes - 137 songs - 7 hr 19 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,033 likes - 137 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 21 | [Let's Stay Together \- Acoustic](https://open.spotify.com/track/2BUbXK85KECrYtSWEzoxFM) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Let's Stay Together \(Acoustic\)](https://open.spotify.com/album/1YfNCzcnrr7nbQGvttzpkb) | 3:02 |
 | 22 | [Fields Of Gold](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
 | 23 | [I'm Gonna Be \(500 Miles\) \- Acoustic](https://open.spotify.com/track/0mDRImiyeBWKQf34pfrYJY) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [I'm Gonna Be \(500 Miles\) \[Acoustic\]](https://open.spotify.com/album/7xpPMA88SFHaj9KOq4QzI8) | 3:17 |
-| 24 | [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/25WqOFXGafpwxSb19RwXOP) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/6LqspkIxvToYsWW9H8vGxH) | 3:16 |
+| 24 | [Crush \- Acoustic](https://open.spotify.com/track/3T5zvXUlM4vn8b6sMbEtv9) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Crush \(Acoustic\)](https://open.spotify.com/album/1dED0Yhp2wW6Wn3TsECE3B) | 3:36 |
 | 25 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 |
 | 26 | [Dance The Night \- Acoustic](https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4) | [Phil Halo](https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Dance The Night](https://open.spotify.com/album/2LBVTDsPoquLbnLRmwKlMS) | 2:52 |
 | 27 | [Dancing Queen \- Acoustic](https://open.spotify.com/track/4PGaZTakItG48FENLQhDyv) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Dancing Queen \(Acoustic\)](https://open.spotify.com/album/70EnDLWEFJv2HyqaFuxlCt) | 2:23 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 136 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 |
 | 137 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 
-Snapshot ID: `AAAFE7dyJjrWOSHKDJQEn/zIfghZQdhP`
+Snapshot ID: `AAAFFfpwdzoFxkyRmCQ6FYwHdflCU4k6`

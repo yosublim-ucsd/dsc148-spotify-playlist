@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 39931,
+  "num_followers": 39938,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAABjbDF1htXijL2GqZH4el44",
+  "snapshot_id": "ZyVrgAAAAAAQPPapg5Fv05TsS9ZQBY85",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo En Jes\u00fas",
-        "url": "https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE"
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
       },
       "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 271426,
-      "name": "Solo En Jes\u00fas",
-      "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
+      "duration_ms": 293173,
+      "name": "Tu Presencia Es el Cielo",
+      "url": "https://open.spotify.com/track/3q8nKaROEYFKAqJX9IwXMx"
     },
     {
       "added_at": null,
@@ -615,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+        "name": "Solo En Jes\u00fas",
+        "url": "https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE"
       },
       "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 293173,
-      "name": "Tu Presencia Es el Cielo",
-      "url": "https://open.spotify.com/track/3q8nKaROEYFKAqJX9IwXMx"
+      "duration_ms": 271426,
+      "name": "Solo En Jes\u00fas",
+      "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
     },
     {
       "added_at": null,

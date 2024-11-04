@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry",
-  "num_followers": 144619,
+  "num_followers": 145160,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
         "name": "MIRAGE",
         "url": "https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb"
       },
@@ -123,26 +139,6 @@
       "duration_ms": 165049,
       "name": "MIRAGE",
       "url": "https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "GOLDEN SZN",
-        "url": "https://open.spotify.com/album/3qXVu7ROSjZ5YEdOwsK1FN"
-      },
-      "artists": [
-        {
-          "name": "OGUZ",
-          "url": "https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v"
-        },
-        {
-          "name": "Nyctonian",
-          "url": "https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp"
-        }
-      ],
-      "duration_ms": 294529,
-      "name": "GOLDEN SZN",
-      "url": "https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -167,18 +163,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+        "name": "GOLDEN SZN",
+        "url": "https://open.spotify.com/album/3qXVu7ROSjZ5YEdOwsK1FN"
       },
       "artists": [
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "OGUZ",
+          "url": "https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v"
+        },
+        {
+          "name": "Nyctonian",
+          "url": "https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp"
         }
       ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+      "duration_ms": 294529,
+      "name": "GOLDEN SZN",
+      "url": "https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -271,26 +271,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Fuck This",
-        "url": "https://open.spotify.com/album/504y7ALrscVc9n9Yy3fHS8"
+        "name": "CWWDBI",
+        "url": "https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI"
       },
       "artists": [
         {
-          "name": "Holy Priest",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+          "name": "Somewhen",
+          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
         },
         {
-          "name": "elMefti",
-          "url": "https://open.spotify.com/artist/5qqv3LmRnc0hPFSIYm45Fy"
-        },
-        {
-          "name": "FACELESS",
-          "url": "https://open.spotify.com/artist/4yd7jUZ9LIJlHkMWt4P6lO"
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
         }
       ],
-      "duration_ms": 207631,
-      "name": "Fuck This",
-      "url": "https://open.spotify.com/track/3AF3nGA0feGjLByXNvvSKJ"
+      "duration_ms": 199973,
+      "name": "CWWDBI",
+      "url": "https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -315,42 +311,26 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "CWWDBI",
-        "url": "https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI"
+        "name": "Fuck This",
+        "url": "https://open.spotify.com/album/504y7ALrscVc9n9Yy3fHS8"
       },
       "artists": [
         {
-          "name": "Somewhen",
-          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
         },
         {
-          "name": "Haftbefehl",
-          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
-        }
-      ],
-      "duration_ms": 199973,
-      "name": "CWWDBI",
-      "url": "https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "elMefti",
+          "url": "https://open.spotify.com/artist/5qqv3LmRnc0hPFSIYm45Fy"
         },
         {
-          "name": "Alt8",
-          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+          "name": "FACELESS",
+          "url": "https://open.spotify.com/artist/4yd7jUZ9LIJlHkMWt4P6lO"
         }
       ],
-      "duration_ms": 238270,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
+      "duration_ms": 207631,
+      "name": "Fuck This",
+      "url": "https://open.spotify.com/track/3AF3nGA0feGjLByXNvvSKJ"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -375,6 +355,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
+        "name": "Welcome To London",
+        "url": "https://open.spotify.com/album/5QYvLSIqem9dAQKy1ubrR9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Sparks (UK)",
+          "url": "https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ"
+        }
+      ],
+      "duration_ms": 415594,
+      "name": "Welcome To London",
+      "url": "https://open.spotify.com/track/3rcabUHPdv5Ulw8B6Khkxc"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
         "name": "Give Me Acid",
         "url": "https://open.spotify.com/album/3HHi4seXxhiTcnCGag2kuZ"
       },
@@ -395,18 +391,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Welcome To London",
-        "url": "https://open.spotify.com/album/5QYvLSIqem9dAQKy1ubrR9"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
       },
       "artists": [
         {
-          "name": "Charlie Sparks (UK)",
-          "url": "https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ"
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Alt8",
+          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
         }
       ],
-      "duration_ms": 415594,
-      "name": "Welcome To London",
-      "url": "https://open.spotify.com/track/3rcabUHPdv5Ulw8B6Khkxc"
+      "duration_ms": 238270,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -447,18 +447,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Purple Widow (Original & Remix Versions)",
-        "url": "https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At"
+        "name": "All I Wanna",
+        "url": "https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu"
       },
       "artists": [
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "Lex Ledu",
+          "url": "https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl"
         }
       ],
-      "duration_ms": 381118,
-      "name": "Purple Widow",
-      "url": "https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa"
+      "duration_ms": 130063,
+      "name": "All I Wanna",
+      "url": "https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -483,22 +487,34 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "All I Wanna",
-        "url": "https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu"
+        "name": "Purple Widow (Original & Remix Versions)",
+        "url": "https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
-          "name": "Lex Ledu",
-          "url": "https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl"
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
         }
       ],
-      "duration_ms": 130063,
-      "name": "All I Wanna",
-      "url": "https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq"
+      "duration_ms": 381118,
+      "name": "Purple Widow",
+      "url": "https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "When The Bass Is Too Loud EP",
+        "url": "https://open.spotify.com/album/3kHoGqGTMQJPg9UvgAiBMF"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "duration_ms": 272008,
+      "name": "When The Bass Is Too Loud",
+      "url": "https://open.spotify.com/track/2aq00SgjNKaGKtCUxmKc4L"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -519,22 +535,6 @@
       "duration_ms": 259023,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "When The Bass Is Too Loud EP",
-        "url": "https://open.spotify.com/album/3kHoGqGTMQJPg9UvgAiBMF"
-      },
-      "artists": [
-        {
-          "name": "Alignment",
-          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
-        }
-      ],
-      "duration_ms": 272008,
-      "name": "When The Bass Is Too Loud",
-      "url": "https://open.spotify.com/track/2aq00SgjNKaGKtCUxmKc4L"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
+        "name": "Underneath The Strobelights (Exhale VA005)",
+        "url": "https://open.spotify.com/album/5N6EQkLrN8qryijUD1SF90"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Underneath The Strobelights",
+      "url": "https://open.spotify.com/track/5fA9xb5xWLwNizZCZRjQUO"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
         "name": "My Gasoline (Hard Edit)",
         "url": "https://open.spotify.com/album/4spbKALzJWO1dHSz9k7P7P"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 243275,
       "name": "My Gasoline - Hard Edit",
       "url": "https://open.spotify.com/track/2pmk8xGNKwmKrmQBK9Vwgf"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "Underneath The Strobelights (Exhale VA005)",
-        "url": "https://open.spotify.com/album/5N6EQkLrN8qryijUD1SF90"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Underneath The Strobelights",
-      "url": "https://open.spotify.com/track/5fA9xb5xWLwNizZCZRjQUO"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -807,18 +807,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Adagio For Strings",
-        "url": "https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O"
+        "name": "Deine Angst",
+        "url": "https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5"
       },
       "artists": [
         {
-          "name": "BY\u00d8RN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        },
+        {
+          "name": "Flawless Issues",
+          "url": "https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6"
+      "duration_ms": 321666,
+      "name": "Deine Angst",
+      "url": "https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -843,22 +847,18 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Deine Angst",
-        "url": "https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5"
+        "name": "Adagio For Strings",
+        "url": "https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O"
       },
       "artists": [
         {
-          "name": "Klangkuenstler",
-          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
-        },
-        {
-          "name": "Flawless Issues",
-          "url": "https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU"
+          "name": "BY\u00d8RN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
         }
       ],
-      "duration_ms": 321666,
-      "name": "Deine Angst",
-      "url": "https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT"
+      "duration_ms": 360000,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
+        "name": "Keeping Your Head Up",
+        "url": "https://open.spotify.com/album/3DzsmSqBlAaZgIfstzQXA0"
+      },
+      "artists": [
+        {
+          "name": "WINSON",
+          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
+        }
+      ],
+      "duration_ms": 177792,
+      "name": "Keeping Your Head Up",
+      "url": "https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
         "name": "INKAKKEN, BIJPAKKEN",
         "url": "https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb"
       },
@@ -1007,42 +1023,6 @@
       "duration_ms": 130302,
       "name": "INKAKKEN, BIJPAKKEN",
       "url": "https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "Fist On Acid (Techno Mix)",
-        "url": "https://open.spotify.com/album/4hnP64S9CyCy6LzzcOiseW"
-      },
-      "artists": [
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        },
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Fist On Acid (Techno Mix)",
-      "url": "https://open.spotify.com/track/3RotPxA6cgLQ9sduyM64yX"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "Keeping Your Head Up",
-        "url": "https://open.spotify.com/album/3DzsmSqBlAaZgIfstzQXA0"
-      },
-      "artists": [
-        {
-          "name": "WINSON",
-          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
-        }
-      ],
-      "duration_ms": 177792,
-      "name": "Keeping Your Head Up",
-      "url": "https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -1079,6 +1059,26 @@
       "duration_ms": 164053,
       "name": "Kick Bass In Your Face",
       "url": "https://open.spotify.com/track/50aNLhnlmcuJQ2iF7Bpd6q"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "Fist On Acid (Techno Mix)",
+        "url": "https://open.spotify.com/album/4hnP64S9CyCy6LzzcOiseW"
+      },
+      "artists": [
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Fist On Acid (Techno Mix)",
+      "url": "https://open.spotify.com/track/3RotPxA6cgLQ9sduyM64yX"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/6v260UdseJka96hzE3oy1d"
+      },
+      "artists": [
+        {
+          "name": "ANSBRO",
+          "url": "https://open.spotify.com/artist/1zSOxtMarFja6UNU9ZZWFu"
+        }
+      ],
+      "duration_ms": 383039,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/5ia36JG3xLvEFIJ1z4w93o"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
         "name": "Sunglasses at Night",
         "url": "https://open.spotify.com/album/2pvbQAohhuoYeO2sJpdVGe"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 225222,
       "name": "Sunglasses at Night",
       "url": "https://open.spotify.com/track/4rtPrDImV3Zvz0033ePqdK"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "Tiki Tiki",
-        "url": "https://open.spotify.com/album/6v260UdseJka96hzE3oy1d"
-      },
-      "artists": [
-        {
-          "name": "ANSBRO",
-          "url": "https://open.spotify.com/artist/1zSOxtMarFja6UNU9ZZWFu"
-        }
-      ],
-      "duration_ms": 383039,
-      "name": "Tiki Tiki",
-      "url": "https://open.spotify.com/track/5ia36JG3xLvEFIJ1z4w93o"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX)",
-        "url": "https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60"
-      },
-      "artists": [
-        {
-          "name": "El Columpio Asesino",
-          "url": "https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0"
-        },
-        {
-          "name": "I Hate Models",
-          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
-        },
-        {
-          "name": "Andre VII",
-          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
-        }
-      ],
-      "duration_ms": 371801,
-      "name": "Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX)",
-      "url": "https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/301BTyjA0xlkTu8gDm3ToF"
       },
@@ -1287,18 +1263,26 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/7z3b4hNGlm067JLa44sujv"
+        "name": "Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX)",
+        "url": "https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60"
       },
       "artists": [
         {
-          "name": "SIKOTI",
-          "url": "https://open.spotify.com/artist/7qWvKoQVe3UdZhG9clKb1y"
+          "name": "El Columpio Asesino",
+          "url": "https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0"
+        },
+        {
+          "name": "I Hate Models",
+          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
+        },
+        {
+          "name": "Andre VII",
+          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
         }
       ],
-      "duration_ms": 308515,
-      "name": "Bang Bang Bang",
-      "url": "https://open.spotify.com/track/1vwCoX1Pi1pRd6ufweSSc7"
+      "duration_ms": 371801,
+      "name": "Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX)",
+      "url": "https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 173478,
       "name": "Fcking Vibe",
       "url": "https://open.spotify.com/track/35Acdjh9WTxS1hBpOz1nWf"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/7z3b4hNGlm067JLa44sujv"
+      },
+      "artists": [
+        {
+          "name": "SIKOTI",
+          "url": "https://open.spotify.com/artist/7qWvKoQVe3UdZhG9clKb1y"
+        }
+      ],
+      "duration_ms": 308515,
+      "name": "Bang Bang Bang",
+      "url": "https://open.spotify.com/track/1vwCoX1Pi1pRd6ufweSSc7"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Real Lies",
-        "url": "https://open.spotify.com/album/1l2mHtjSxVp0BgTlMWugZW"
-      },
-      "artists": [
-        {
-          "name": "APH\u00d8TIC",
-          "url": "https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4"
-        }
-      ],
-      "duration_ms": 327389,
-      "name": "Real Lies",
-      "url": "https://open.spotify.com/track/2gPgg1kOJ3LJZQwwKVCRhh"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
         "name": "Oh My God!",
         "url": "https://open.spotify.com/album/67SRi5JCLpYvM9GaKDsFWS"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 367384,
       "name": "Oh My God!",
       "url": "https://open.spotify.com/track/3irLlLh1uTben95eKdEALc"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "Real Lies",
+        "url": "https://open.spotify.com/album/1l2mHtjSxVp0BgTlMWugZW"
+      },
+      "artists": [
+        {
+          "name": "APH\u00d8TIC",
+          "url": "https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4"
+        }
+      ],
+      "duration_ms": 327389,
+      "name": "Real Lies",
+      "url": "https://open.spotify.com/track/2gPgg1kOJ3LJZQwwKVCRhh"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -1527,6 +1527,30 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/78miFh4oqxMuPxltAC9i5T"
+      },
+      "artists": [
+        {
+          "name": "Jayron",
+          "url": "https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9"
+        },
+        {
+          "name": "Karashnikov",
+          "url": "https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n"
+        },
+        {
+          "name": "GEWOONRAVES",
+          "url": "https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8"
+        }
+      ],
+      "duration_ms": 273105,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/3gnH53dSgNvqUvxrgDpYPo"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
         "name": "I Am Cool",
         "url": "https://open.spotify.com/album/0KuvnomtqHox9SDhs4CFDm"
       },
@@ -1555,30 +1579,6 @@
       "duration_ms": 333900,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/6JylZ60wPO9N7k455MzXMk"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/78miFh4oqxMuPxltAC9i5T"
-      },
-      "artists": [
-        {
-          "name": "Jayron",
-          "url": "https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9"
-        },
-        {
-          "name": "Karashnikov",
-          "url": "https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n"
-        },
-        {
-          "name": "GEWOONRAVES",
-          "url": "https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8"
-        }
-      ],
-      "duration_ms": 273105,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/3gnH53dSgNvqUvxrgDpYPo"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "DGAF",
-        "url": "https://open.spotify.com/album/5HJ5DF8HirntW6MVfzNJOI"
-      },
-      "artists": [
-        {
-          "name": "KAS:ST",
-          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
-        }
-      ],
-      "duration_ms": 222724,
-      "name": "DGAF",
-      "url": "https://open.spotify.com/track/4KsCP6skdbY9xsYSYlxbU9"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
         "name": "On Da Beat",
         "url": "https://open.spotify.com/album/2PJf1l8rN5AP4MXDi5VTDu"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 306580,
       "name": "On Da Beat",
       "url": "https://open.spotify.com/track/1BxspcCWrxFVu3HJ4SDAnn"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "DGAF",
+        "url": "https://open.spotify.com/album/5HJ5DF8HirntW6MVfzNJOI"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        }
+      ],
+      "duration_ms": 222724,
+      "name": "DGAF",
+      "url": "https://open.spotify.com/track/4KsCP6skdbY9xsYSYlxbU9"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
+        "name": "93 HARDCORE",
+        "url": "https://open.spotify.com/album/27G2VHdqnVu3yRoklKiztk"
+      },
+      "artists": [
+        {
+          "name": "LESSSS",
+          "url": "https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm"
+        },
+        {
+          "name": "William Luck",
+          "url": "https://open.spotify.com/artist/57tccTXvNWq70Xz3DJmNVX"
+        }
+      ],
+      "duration_ms": 347368,
+      "name": "93 HARDCORE",
+      "url": "https://open.spotify.com/track/62DKLOXCcUa91wCh3CAOBT"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
         "name": "Fall Down",
         "url": "https://open.spotify.com/album/4HvRF2t748T2rcwMftPFoO"
       },
@@ -1831,22 +1851,6 @@
       "duration_ms": 319569,
       "name": "Masterclass",
       "url": "https://open.spotify.com/track/08KQZbwrjvdXQrnzv9gxG6"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7h47uzPVw34uAn9pztCTUA"
-      },
-      "artists": [
-        {
-          "name": "Carter Graham",
-          "url": "https://open.spotify.com/artist/1fKvbFKG5LjDDw0agxGZQo"
-        }
-      ],
-      "duration_ms": 331288,
-      "name": "Give Me a Break",
-      "url": "https://open.spotify.com/track/5HAtVqY3fFmlyKHQTLd2cg"
     }
   ],
   "unique_name": "Hard Techno",

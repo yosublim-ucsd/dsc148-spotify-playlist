@@ -116,7 +116,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 256880,
       "name": "ALOHA! HAPPY CREATOR!",
       "url": "https://open.spotify.com/track/10UEvm0LZb8dZs4GKVyXol"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 281840,
       "name": "Genuine feelings",
       "url": "https://open.spotify.com/track/4B3Hjgv7A2PT20NbafOmJn"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 220293,
       "name": "GIVE ME FUSION",
       "url": "https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 273866,
       "name": "Growing Smiles\uff01",
       "url": "https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux"
@@ -1158,6 +1158,24 @@
       "duration_ms": 281280,
       "name": "HIGH JUMP NO LIMIT",
       "url": "https://open.spotify.com/track/2xEQzDv6FN51uHBKnhsIcm"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a15 F-LAGS",
+        "url": "https://open.spotify.com/album/49HahmeA7j5mL7rGb2V4dV"
+      },
+      "artists": [
+        {
+          "name": "F-LAGS",
+          "url": "https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247466,
+      "name": "Hope's Journey",
+      "url": "https://open.spotify.com/track/0JrmJ6QvgGs65lXuT2d9hj"
     },
     {
       "album": {
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 295400,
       "name": "LIVE in your SMILE",
       "url": "https://open.spotify.com/track/5xb0pajvByQuLCiksFCcrE"
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 305186,
       "name": "Never end \"Opus\"",
       "url": "https://open.spotify.com/track/69YcmR3rldSdriAJMghwPj"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 305400,
       "name": "Reason!!",
       "url": "https://open.spotify.com/track/3CLQ12T4Ff4vGX0T98r2mP"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 346160,
       "name": "\u30a2\u30c8\u30e2\u30b9\u30d5\u30a3\u30a2",
       "url": "https://open.spotify.com/track/0CIGzJylktOmnjCKmua9cD"
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 246240,
       "name": "\u30d5\u30a7\u30a4\u30d0\u30ea\u30c3\u30c8\u306b\u8e0a\u3089\u305b\u3066",
       "url": "https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx"

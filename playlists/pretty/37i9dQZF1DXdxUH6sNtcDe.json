@@ -1,6 +1,6 @@
 {
   "description": "A decade full of 00s country hits! Cover: Rascal Flatts",
-  "num_followers": 866072,
+  "num_followers": 866256,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
       },
       "artists": [
         {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
         }
       ],
-      "duration_ms": 276320,
-      "name": "Life is a Highway",
-      "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
+      "duration_ms": 215506,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
       "artists": [
         {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Can't Fight The Moonlight",
-      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
+      "duration_ms": 276320,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Blake Shelton",
         "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
       },
@@ -823,38 +807,6 @@
       "duration_ms": 221266,
       "name": "Ol' Red",
       "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
-        "name": "Pull My Chain",
-        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "I Wanna Talk About Me",
-      "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "All-American Girl",
-      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -875,6 +827,54 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "All-American Girl",
+      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+        "name": "Pull My Chain",
+        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+      "duration_ms": 183960,
+      "name": "I Wanna Talk About Me",
+      "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "These Are My People",
-      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 203040,
       "name": "Teardrops On My Guitar - Radio Single Remix",
       "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "These Are My People",
+      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "I'll Stay Me",
-        "url": "https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9"
+        "name": "Living Hard",
+        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
         }
       ],
-      "duration_ms": 242800,
-      "name": "All My Friends Say",
-      "url": "https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB"
+      "duration_ms": 242946,
+      "name": "Watching Airplanes",
+      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Living Hard",
-        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
+        "name": "I'll Stay Me",
+        "url": "https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9"
       },
       "artists": [
         {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 242946,
-      "name": "Watching Airplanes",
-      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
+      "duration_ms": 242800,
+      "name": "All My Friends Say",
+      "url": "https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Ain't Nothing 'Bout You",
-      "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Learn To Live",
         "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 219000,
       "name": "It Won't Be Like This For Long",
       "url": "https://open.spotify.com/track/4gzeYkzuzxuzAUTsGcdjqA"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Ain't Nothing 'Bout You",
+      "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "My Life's Been A Country Song",
-        "url": "https://open.spotify.com/album/1dWIW99cXa2sq9CipTsksd"
-      },
-      "artists": [
-        {
-          "name": "Chris Cagle",
-          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "What Kinda Gone",
-      "url": "https://open.spotify.com/track/7uPReljrrTaqzDCcx4JHmi"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Golden Road",
         "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 293600,
       "name": "You\u2019ll Think Of Me",
       "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "My Life's Been A Country Song",
+        "url": "https://open.spotify.com/album/1dWIW99cXa2sq9CipTsksd"
+      },
+      "artists": [
+        {
+          "name": "Chris Cagle",
+          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "What Kinda Gone",
+      "url": "https://open.spotify.com/track/7uPReljrrTaqzDCcx4JHmi"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Keep On Loving You",
-        "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 220106,
-      "name": "Consider Me Gone",
-      "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Old Things New",
         "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 185453,
       "name": "Gimmie That Girl",
       "url": "https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "Keep On Loving You",
+        "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 220106,
+      "name": "Consider Me Gone",
+      "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Stand Still, Look Pretty (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe"
-      },
-      "artists": [
-        {
-          "name": "The Wreckers",
-          "url": "https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Leave the Pieces",
-      "url": "https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "One More Day",
         "url": "https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 216173,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "Stand Still, Look Pretty (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe"
+      },
+      "artists": [
+        {
+          "name": "The Wreckers",
+          "url": "https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Leave the Pieces",
+      "url": "https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
+        "name": "Tim McGraw And The Dancehall Doctors",
+        "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 283560,
+      "name": "Red Ragtop",
+      "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
       },
@@ -1915,38 +1931,6 @@
       "duration_ms": 220186,
       "name": "Brand New Girlfriend",
       "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
-        "name": "Modern Day Drifter",
-        "url": "https://open.spotify.com/album/6ReptrLRzFQ07VxrsN3CZG"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 281973,
-      "name": "Come A Little Closer",
-      "url": "https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
-        "name": "Tim McGraw And The Dancehall Doctors",
-        "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 283560,
-      "name": "Red Ragtop",
-      "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1983,6 +1967,22 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
+      },
+      "artists": [
+        {
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
@@ -1999,18 +1999,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Jace Everett",
-        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
+        "name": "Modern Day Drifter",
+        "url": "https://open.spotify.com/album/6ReptrLRzFQ07VxrsN3CZG"
       },
       "artists": [
         {
-          "name": "Jace Everett",
-          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
+      "duration_ms": 281973,
+      "name": "Come A Little Closer",
+      "url": "https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO"
     },
     {
       "added_at": "2024-09-06 03:55:42",

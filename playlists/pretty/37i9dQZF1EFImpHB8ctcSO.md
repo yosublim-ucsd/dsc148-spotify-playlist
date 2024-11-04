@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 94 | [Gumby](https://open.spotify.com/track/5FQOrAMfQuMFRHS3x2ShQ2) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 2:54 |
 | 95 | [Columbus Avenue](https://open.spotify.com/track/0gxKcbfN88tl2pgLU7HX5v) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 4:06 |
 | 96 | [The King of the Jailhouse](https://open.spotify.com/track/05ofQzVshh0SqVqawplofZ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 5:19 |
-| 97 | [Barfly](https://open.spotify.com/track/216qBjZA9i0J6yh7AnoJad) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 4:01 |
-| 98 | [The Other End \(Of The Telescope\)](https://open.spotify.com/track/031BORKOyhNOfhCaJEXc3R) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:51 |
+| 97 | [The Other End \(Of The Telescope\)](https://open.spotify.com/track/031BORKOyhNOfhCaJEXc3R) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:51 |
+| 98 | [Barfly](https://open.spotify.com/track/216qBjZA9i0J6yh7AnoJad) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 4:01 |
 | 99 | [She Really Wants You](https://open.spotify.com/track/3zb0HhenugDeG9cmMxf6AU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 3:26 |
 | 100 | [I Can't Get My Head Around It](https://open.spotify.com/track/3lPzZX513duhMXjtpBhfrn) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 3:37 |
 | 101 | [You're With Stupid Now](https://open.spotify.com/track/1KMrRIYGxU3jsGzD5fGe17) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:29 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `AbgddAAAAADH1u3lJ4E2IRA0FcwHVZh5`
+Snapshot ID: `AbgjKAAAAAChauDCASyF7dJWwVm5XDJK`

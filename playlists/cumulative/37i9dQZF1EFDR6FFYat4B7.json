@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132946,
+      "name": "My Cross",
+      "url": "https://open.spotify.com/track/2dSXrqeloEF2jn4VBNZpZs"
+    },
+    {
+      "album": {
         "name": "Majid Jordan",
         "url": "https://open.spotify.com/album/3CUUharDNym6nWwLpI4mPi"
       },
@@ -2994,6 +3012,24 @@
       "duration_ms": 228836,
       "name": "Where Have You Been (All My Night)",
       "url": "https://open.spotify.com/track/11D6LSl8aDKHcadA5mLszu"
+    },
+    {
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6PJuKJ0bamILUakPbkSbmu"
     },
     {
       "album": {

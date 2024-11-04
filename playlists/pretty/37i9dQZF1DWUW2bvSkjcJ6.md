@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,154 likes - 84 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,161 likes - 84 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 77 | [THING OR TWO](https://open.spotify.com/track/56uZs0aRnQykrDRQtvod8M) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [BLINK TWICE](https://open.spotify.com/album/1Mbv44dIhuzUfioHBa8WHm) | 2:23 |
 | 78 | [easy](https://open.spotify.com/track/6TgRJPRmu9l75M2bneEyyh) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [UNSAID](https://open.spotify.com/album/6qymOSCWulOMM6D7LxuZtl) | 2:06 |
 | 79 | [Smooth Lovin](https://open.spotify.com/track/3Yi0wYwzECCAB58fHh9irn) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Smooth Lovin \(feat\. Popcaan\)](https://open.spotify.com/album/46w7SIlPiaFDIcIetdFDzc) | 3:38 |
-| 80 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
+| 80 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB), [chill sebs](https://open.spotify.com/artist/6SiKEPYrOXoQT6GbreDRvF) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
 | 81 | [Ich brauch ein Bier \- Single Version](https://open.spotify.com/track/2Mv2PXCsemomov2koRGlet) | [Dagobert](https://open.spotify.com/artist/6ggenA9SmMMwVYsDSOKIqJ), [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Dagobert und die wahre Musik vom südlichen Blütenland](https://open.spotify.com/album/0PGjAbgvFC4gPSIL0Dfc58) | 3:01 |
 | 82 | [Drunk](https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Drunk](https://open.spotify.com/album/55DFqfotSUPU7MSv6NuK8m) | 3:22 |
 | 83 | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/track/16yFuOEn0CrjQR7SZotv8B) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/album/2xOT5KaLwXnsOVBZbyordn) | 3:53 |

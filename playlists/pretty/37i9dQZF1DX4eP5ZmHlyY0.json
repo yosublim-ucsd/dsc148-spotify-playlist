@@ -699,6 +699,22 @@
     {
       "added_at": "2024-10-29 15:00:00",
       "album": {
+        "name": "moooove!!",
+        "url": "https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "duration_ms": 180506,
+      "name": "moooove!!",
+      "url": "https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX"
+    },
+    {
+      "added_at": "2024-10-29 15:00:00",
+      "album": {
         "name": "366\u65e5",
         "url": "https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 350700,
       "name": "366\u65e5",
       "url": "https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA"
-    },
-    {
-      "added_at": "2024-10-29 15:00:00",
-      "album": {
-        "name": "moooove!!",
-        "url": "https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 180506,
-      "name": "moooove!!",
-      "url": "https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX"
     },
     {
       "added_at": "2024-10-29 15:00:00",
@@ -763,6 +763,22 @@
       "duration_ms": 233726,
       "name": "\u7121\u8cac\u4efb\u3067\u3048\u3048\u3058\u3083\u306a\u3044\u304bLOVE",
       "url": "https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR"
+    },
+    {
+      "added_at": "2024-10-29 15:00:00",
+      "album": {
+        "name": "MAZQUERADE",
+        "url": "https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs"
+      },
+      "artists": [
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "MAZQUERADE",
+      "url": "https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94"
     },
     {
       "added_at": "2024-10-29 15:00:00",
@@ -835,22 +851,6 @@
     {
       "added_at": "2024-10-29 15:00:00",
       "album": {
-        "name": "MAZQUERADE",
-        "url": "https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs"
-      },
-      "artists": [
-        {
-          "name": "MAZZEL",
-          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "MAZQUERADE",
-      "url": "https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94"
-    },
-    {
-      "added_at": "2024-10-29 15:00:00",
-      "album": {
         "name": "Mainstream",
         "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-10-29 15:00:00",
       "album": {
-        "name": "halfmoon",
-        "url": "https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF"
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa"
       },
       "artists": [
         {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+          "name": "STARTO for you",
+          "url": "https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz"
         }
       ],
-      "duration_ms": 255760,
-      "name": "halfmoon",
-      "url": "https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5"
+      "duration_ms": 321383,
+      "name": "WE ARE",
+      "url": "https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7"
     }
   ],
   "unique_name": "Boys Group Japan",

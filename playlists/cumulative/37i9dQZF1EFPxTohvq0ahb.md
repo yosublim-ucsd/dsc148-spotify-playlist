@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-129 songs - 7 hr 11 min
+130 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [That's How I'm Feelin' \(feat\. Pitbull & Missy Elliott\)](https://open.spotify.com/track/6VKCyfMweQ2qQqNWOgUjU0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:58 | 2023-12-30 |  |
 | [The Night Is Still Young](https://open.spotify.com/track/4bBrKDo8rchikwZOtmXbIH) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:47 | 2023-12-30 | 2024-04-12 |
 | [The Night Is Still Young](https://open.spotify.com/track/75u9uswC5UMdtv4SQ3xSYf) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \(International Deluxe Explicit\)](https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96) | 3:47 | 2024-04-11 |  |
-| [Thinkin Bout You](https://open.spotify.com/track/1HYc0erDd8nWnqQOy6gIq1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 3:48 | 2023-12-30 |  |
+| [Thinkin Bout You](https://open.spotify.com/track/1HYc0erDd8nWnqQOy6gIq1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 3:48 | 2023-12-30 | 2024-11-04 |
+| [Thinkin Bout You](https://open.spotify.com/track/594trlRjNdTyYLwIlcDaJM) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:48 | 2024-11-03 |  |
 | [This One's for You \(feat\. Zara Larsson\) \(Official Song UEFA EURO 2016\)](https://open.spotify.com/track/46NBoIAHrmR7qcUGCIFEjR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [This One's for You \(feat\. Zara Larsson\) \[Official Song UEFA EURO 2016\]](https://open.spotify.com/album/7EvlnQaVuUuFLIeSuE6nRq) | 3:27 | 2023-12-30 |  |
 | [This Time](https://open.spotify.com/track/015u66hoqqhwIPyKGGFItg) | [Pia Toscano](https://open.spotify.com/artist/7MmKfvl13ktxYrbHh9JkZA) | [This Time](https://open.spotify.com/album/6Lb108apttKaPu7Pom35aI) | 3:08 | 2023-12-30 |  |
 | [Turn Me On](https://open.spotify.com/track/0BBOLOV5JntPL3341swIre) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Kevin Lyttle \(US Domestic Release\)](https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw) | 3:12 | 2023-12-30 |  |

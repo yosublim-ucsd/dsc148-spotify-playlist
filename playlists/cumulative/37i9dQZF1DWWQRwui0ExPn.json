@@ -5094,7 +5094,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 106315,
       "name": "almost there",
       "url": "https://open.spotify.com/track/2rJLOmmXcxhCyRlENiJcFz"
@@ -70038,7 +70038,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 115631,
       "name": "lovebird",
       "url": "https://open.spotify.com/track/17KHkEccHRhWYlZCqKDSNA"
@@ -77976,7 +77976,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 167533,
       "name": "Moradia",
       "url": "https://open.spotify.com/track/0IaeI6ObFm0nxR0vlZ0JTd"
@@ -85613,6 +85613,28 @@
     },
     {
       "album": {
+        "name": "Offtheground",
+        "url": "https://open.spotify.com/album/0rWhDhsdGGTGfEPERoyd3U"
+      },
+      "artists": [
+        {
+          "name": "takeo",
+          "url": "https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf"
+        },
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133953,
+      "name": "Offtheground",
+      "url": "https://open.spotify.com/track/1M2vwDBnixHHtg8lcs9xxa"
+    },
+    {
+      "album": {
         "name": "Oh Baby",
         "url": "https://open.spotify.com/album/2WIxKqVafrmK6qiUIWA3SS"
       },
@@ -86372,6 +86394,28 @@
       "duration_ms": 132566,
       "name": "On the Corner",
       "url": "https://open.spotify.com/track/1FDa7VQ4X1KPCTtfw4huDR"
+    },
+    {
+      "album": {
+        "name": "Busy Bee",
+        "url": "https://open.spotify.com/album/3LVM4CLt3B40ocJ8H4Nlzt"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "Bastien Brison",
+          "url": "https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167014,
+      "name": "On the Moon",
+      "url": "https://open.spotify.com/track/6ehy96YIxE540KRr1YPkXn"
     },
     {
       "album": {
@@ -119576,6 +119620,24 @@
       "duration_ms": 151395,
       "name": "The Exchange",
       "url": "https://open.spotify.com/track/3jrjJk3N6r7s7pDB5cn2O3"
+    },
+    {
+      "album": {
+        "name": "The Extra Mile",
+        "url": "https://open.spotify.com/album/4cmxmDLMy9wgbIsHrYAsu0"
+      },
+      "artists": [
+        {
+          "name": "Robot Age",
+          "url": "https://open.spotify.com/artist/2dgnYCGuIIFM5PTOTxYs5H"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127808,
+      "name": "The Extra Mile",
+      "url": "https://open.spotify.com/track/2ud3gHtF2nRYyjsoOqYRnh"
     },
     {
       "album": {

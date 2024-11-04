@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 187314,
+  "num_followers": 187340,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAAB41UbQH9DPQwzJQbi/VFRV",
+  "snapshot_id": "ZyVrgAAAAABTR5XwzZEvHJjpp8qYVhSk",
   "tracks": [
     {
       "added_at": null,
@@ -356,7 +356,7 @@
       "added_at": null,
       "album": {
         "name": "Weezer",
-        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 164693,
-      "name": "Troublemaker",
-      "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
+      "duration_ms": 139093,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/4hA3OFMvHCFCK3TfJYdbif"
     },
     {
       "added_at": null,
@@ -388,7 +388,7 @@
       "added_at": null,
       "album": {
         "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 139093,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/4hA3OFMvHCFCK3TfJYdbif"
+      "duration_ms": 164693,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Don't Let Go",
-      "url": "https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k"
+      "duration_ms": 154560,
+      "name": "Crab",
+      "url": "https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Crab",
-      "url": "https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB"
+      "duration_ms": 179533,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k"
     },
     {
       "added_at": null,
@@ -819,18 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BBC Recordings / Undone - The Sweater Song (Third Practice)",
-        "url": "https://open.spotify.com/album/4nd4EvS2aHmCRqfSLaCqIk"
+        "name": "Muppets: The Green Album",
+        "url": "https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj"
       },
       "artists": [
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 160773,
-      "name": "Buddy Holly - Acoustic / Live At Greater London Radio - January 26, 1995",
-      "url": "https://open.spotify.com/track/3CD3y5aZ5jh4m5JPIl94GO"
+      "duration_ms": 240506,
+      "name": "Rainbow Connection",
+      "url": "https://open.spotify.com/track/2i17YXd93A17BSsut23gEa"
     }
   ],
   "unique_name": "This Is Weezer",

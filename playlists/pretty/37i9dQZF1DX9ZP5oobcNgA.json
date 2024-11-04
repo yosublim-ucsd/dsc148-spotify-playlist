@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 128737,
+  "num_followers": 128769,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
-      "duration_ms": 70786,
-      "name": "Water Music, Suite No. 1, HWV 348: No. 8, Bourr\u00e9e",
-      "url": "https://open.spotify.com/track/6jzEwUfXtY2tlZj9O158b8"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Nuove Invenzioni",
         "url": "https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 353720,
       "name": "Eternal Source of Light Divine, HWV 74 (Arrangement)",
       "url": "https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 70786,
+      "name": "Water Music, Suite No. 1, HWV 348: No. 8, Bourr\u00e9e",
+      "url": "https://open.spotify.com/track/6jzEwUfXtY2tlZj9O158b8"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -531,30 +531,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Organ Concertos, Op. 4",
-        "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Richard Egarr",
-          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
-        },
-        {
-          "name": "Academy of Ancient Music",
-          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
-        }
-      ],
-      "duration_ms": 434333,
-      "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
-      "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Baroque Duet",
         "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 332026,
       "name": "Let the Bright Seraphim (From \"Samson, HWV 57\")",
       "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Organ Concertos, Op. 4",
+        "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Richard Egarr",
+          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        }
+      ],
+      "duration_ms": 434333,
+      "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
+      "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1051,6 +1051,78 @@
       "duration_ms": 274866,
       "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
       "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Rinaldo",
+        "url": "https://open.spotify.com/album/73sgulPZjDhSvSogFTiRhP"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marion Newman",
+          "url": "https://open.spotify.com/artist/75vVcn9hLeYBBg0huooqUT"
+        },
+        {
+          "name": "Melinda Delorme",
+          "url": "https://open.spotify.com/artist/1haKY9W8yelYsNlhY89ufS"
+        },
+        {
+          "name": "Lenard Whiting",
+          "url": "https://open.spotify.com/artist/0cUqY7VI9p5M6gSyeLHiY6"
+        },
+        {
+          "name": "Opera in Concert",
+          "url": "https://open.spotify.com/artist/5vSieuKQcFT2byBKVk7xS6"
+        },
+        {
+          "name": "Aradia Ensemble",
+          "url": "https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        },
+        {
+          "name": "Laura Whalen",
+          "url": "https://open.spotify.com/artist/6CPV8Gp7FgNODTXGiLbIPk"
+        },
+        {
+          "name": "Kimberley Barber",
+          "url": "https://open.spotify.com/artist/6nkeyUzgUIV3Rixm7FFJ1X"
+        },
+        {
+          "name": "Jennifer Ens Modolo",
+          "url": "https://open.spotify.com/artist/5xYPtzEIWBCvHEUbKmuql6"
+        },
+        {
+          "name": "Sean Watson",
+          "url": "https://open.spotify.com/artist/3wTSCuKXDYYjNHnBO8415A"
+        },
+        {
+          "name": "Barbara Hannigan",
+          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
+        },
+        {
+          "name": "Giles Tomkins",
+          "url": "https://open.spotify.com/artist/6HvEGmJfZwQp5muiZMHO7A"
+        },
+        {
+          "name": "Nicole Bower",
+          "url": "https://open.spotify.com/artist/7okUWPLNp8hYl0qUunJt79"
+        },
+        {
+          "name": "Catherine Affleck",
+          "url": "https://open.spotify.com/artist/7siOn03bL8FpZ1roVqpflv"
+        }
+      ],
+      "duration_ms": 630320,
+      "name": "Rinaldo, HWV 7, Act I Scene 7: Aria. Cara sposa, amante cara, dove sei? (Rinaldo)",
+      "url": "https://open.spotify.com/track/4m9AaW06KPOUrite3eja5l"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1723,78 +1795,6 @@
       "duration_ms": 213360,
       "name": "Ode for St. Cecilia's Day, HWV 76: Overture",
       "url": "https://open.spotify.com/track/0mloLmeqwsy2l54NuGVOks"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Rinaldo",
-        "url": "https://open.spotify.com/album/73sgulPZjDhSvSogFTiRhP"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Marion Newman",
-          "url": "https://open.spotify.com/artist/75vVcn9hLeYBBg0huooqUT"
-        },
-        {
-          "name": "Melinda Delorme",
-          "url": "https://open.spotify.com/artist/1haKY9W8yelYsNlhY89ufS"
-        },
-        {
-          "name": "Lenard Whiting",
-          "url": "https://open.spotify.com/artist/0cUqY7VI9p5M6gSyeLHiY6"
-        },
-        {
-          "name": "Opera in Concert",
-          "url": "https://open.spotify.com/artist/5vSieuKQcFT2byBKVk7xS6"
-        },
-        {
-          "name": "Aradia Ensemble",
-          "url": "https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk"
-        },
-        {
-          "name": "Kevin Mallon",
-          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
-        },
-        {
-          "name": "Laura Whalen",
-          "url": "https://open.spotify.com/artist/6CPV8Gp7FgNODTXGiLbIPk"
-        },
-        {
-          "name": "Kimberley Barber",
-          "url": "https://open.spotify.com/artist/6nkeyUzgUIV3Rixm7FFJ1X"
-        },
-        {
-          "name": "Jennifer Ens Modolo",
-          "url": "https://open.spotify.com/artist/5xYPtzEIWBCvHEUbKmuql6"
-        },
-        {
-          "name": "Sean Watson",
-          "url": "https://open.spotify.com/artist/3wTSCuKXDYYjNHnBO8415A"
-        },
-        {
-          "name": "Barbara Hannigan",
-          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
-        },
-        {
-          "name": "Giles Tomkins",
-          "url": "https://open.spotify.com/artist/6HvEGmJfZwQp5muiZMHO7A"
-        },
-        {
-          "name": "Nicole Bower",
-          "url": "https://open.spotify.com/artist/7okUWPLNp8hYl0qUunJt79"
-        },
-        {
-          "name": "Catherine Affleck",
-          "url": "https://open.spotify.com/artist/7siOn03bL8FpZ1roVqpflv"
-        }
-      ],
-      "duration_ms": 630320,
-      "name": "Rinaldo, HWV 7, Act I Scene 7: Aria. Cara sposa, amante cara, dove sei? (Rinaldo)",
-      "url": "https://open.spotify.com/track/4m9AaW06KPOUrite3eja5l"
     },
     {
       "added_at": "2022-06-28 08:56:25",

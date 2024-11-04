@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: This is a Campus Romance Series(\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 92244,
+  "num_followers": 92269,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "minimal warm (She is My Type\u2661 X CHANYEOL)",
-        "url": "https://open.spotify.com/album/5HkjTGtUKjCDLLGEnb1nl8"
-      },
-      "artists": [
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "minimal warm (She is My Type\u2661 X CHANYEOL)",
-      "url": "https://open.spotify.com/track/1Lp1fMo9DyDVIv83q94cdy"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "Wego Wego (Killer Peter X Xdinary Heroes) [Original Webtoon Soundtrack]",
         "url": "https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 188146,
       "name": "Wego Wego",
       "url": "https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "minimal warm (She is My Type\u2661 X CHANYEOL)",
+        "url": "https://open.spotify.com/album/5HkjTGtUKjCDLLGEnb1nl8"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "minimal warm (She is My Type\u2661 X CHANYEOL)",
+      "url": "https://open.spotify.com/track/1Lp1fMo9DyDVIv83q94cdy"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "Dear you (Romance 101 X LeeHi)",
         "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 219133,
       "name": "Dear you (Romance 101 X LeeHi)",
       "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "How about you?",
-      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
         "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
       },
@@ -735,6 +719,38 @@
       "duration_ms": 187306,
       "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
       "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "duration_ms": 306499,
+      "name": "I Don't Want To Say Goodbye",
+      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "How about you?",
+      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -771,22 +787,6 @@
       "duration_ms": 205050,
       "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
-      },
-      "artists": [
-        {
-          "name": "Sin Ye Young",
-          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
-        }
-      ],
-      "duration_ms": 306499,
-      "name": "I Don't Want To Say Goodbye",
-      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "The rose of Versailles (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-        "url": "https://open.spotify.com/album/3zlaBKIqfjp78kCxhpuOwy"
-      },
-      "artists": [
-        {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
-        }
-      ],
-      "duration_ms": 239826,
-      "name": "The rose of Versailles (Original Soundtrack from the Webtoon The Siren : Becoming the Villain\u2032s Family)",
-      "url": "https://open.spotify.com/track/0XGWWHxYoXtlv13HAAG0uW"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
         "name": "Love Revolution (Original Webcomic Soundtrack)",
         "url": "https://open.spotify.com/album/4QHbIQlUQAOKKiTZnY7Y3H"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 201645,
       "name": "The Memory (\ubbfc\uc9c0\uc640 \uc790\ub9bc)",
       "url": "https://open.spotify.com/track/5Y4PlwrK1UlBBrm08SRnyp"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
+        "name": "The rose of Versailles (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+        "url": "https://open.spotify.com/album/3zlaBKIqfjp78kCxhpuOwy"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 239826,
+      "name": "The rose of Versailles (Original Soundtrack from the Webtoon The Siren : Becoming the Villain\u2032s Family)",
+      "url": "https://open.spotify.com/track/0XGWWHxYoXtlv13HAAG0uW"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
+        "name": "The Extra (One of a Kind Romance)",
+        "url": "https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG"
+      },
+      "artists": [
+        {
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "The Extra (One of a Kind Romance)",
+      "url": "https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
         "name": "Love Diary (Back to You X Lee MinHyuk)",
         "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 207613,
       "name": "Spring Is Come By Chance",
       "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
-        "name": "The Extra (One of a Kind Romance)",
-        "url": "https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG"
-      },
-      "artists": [
-        {
-          "name": "D-Hack",
-          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "The Extra (One of a Kind Romance)",
-      "url": "https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -1359,26 +1359,6 @@
       "duration_ms": 207773,
       "name": "First Love Story",
       "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
-    },
-    {
-      "added_at": "2024-10-10 06:55:37",
-      "album": {
-        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
-        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "Swan",
-          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Just stay with me (Feat. Swan)",
-      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -1447,6 +1427,26 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
+        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
+        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Just stay with me (Feat. Swan)",
+      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
+    },
+    {
+      "added_at": "2024-10-10 06:55:37",
+      "album": {
         "name": "Naver webtoon 'Love Revolution' (Original Soundtrack)",
         "url": "https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh"
       },
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "Love Revolution (Lee Kyung-woo Theme) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe"
+        "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
+        "url": "https://open.spotify.com/album/0PfgMekJLkMMNacqYMSMF3"
       },
       "artists": [
         {
-          "name": "Kim Kyung Rok",
-          "url": "https://open.spotify.com/artist/0JIW1Ofq2ixNxfuivNHjlb"
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
         }
       ],
-      "duration_ms": 231426,
-      "name": "Sand Castle",
-      "url": "https://open.spotify.com/track/3onn360zmsghT2igHXp4qt"
+      "duration_ms": 233647,
+      "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
+      "url": "https://open.spotify.com/track/3YIJ3pgIDtt3LPjkmBCuc4"
     },
     {
       "added_at": "2024-10-10 06:55:37",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-10-10 06:55:37",
       "album": {
-        "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
-        "url": "https://open.spotify.com/album/0PfgMekJLkMMNacqYMSMF3"
+        "name": "Love Revolution (Lee Kyung-woo Theme) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe"
       },
       "artists": [
         {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+          "name": "Kim Kyung Rok",
+          "url": "https://open.spotify.com/artist/0JIW1Ofq2ixNxfuivNHjlb"
         }
       ],
-      "duration_ms": 233647,
-      "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
-      "url": "https://open.spotify.com/track/3YIJ3pgIDtt3LPjkmBCuc4"
+      "duration_ms": 231426,
+      "name": "Sand Castle",
+      "url": "https://open.spotify.com/track/3onn360zmsghT2igHXp4qt"
     },
     {
       "added_at": "2024-10-10 06:55:37",

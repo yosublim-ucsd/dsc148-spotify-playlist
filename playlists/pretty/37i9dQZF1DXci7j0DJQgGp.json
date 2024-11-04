@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1758701,
+  "num_followers": 1758681,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "Notes from the Archive: Recordings 2011-2016",
         "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 196473,
       "name": "Anti-Hero - Acoustic Version",
       "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 219782,
-      "name": "Slide Tackle",
-      "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Weird Faith",
         "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 219782,
+      "name": "Slide Tackle",
+      "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "3D Country",
         "url": "https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 222297,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
         }
       ],
-      "duration_ms": 178236,
-      "name": "Pretty Pictures",
-      "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1059,6 +1043,22 @@
       "duration_ms": 330066,
       "name": "Through The Dark",
       "url": "https://open.spotify.com/track/2Tax7fSPDly9OLIAZRd0Dp"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 178236,
+      "name": "Pretty Pictures",
+      "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "Make Peace with That",
+        "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "duration_ms": 186838,
+      "name": "Tupperware",
+      "url": "https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "Burn The Hard Drive (feat. Mura Masa)",
         "url": "https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 192832,
       "name": "Burn The Hard Drive (feat. Mura Masa)",
       "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Make Peace with That",
-        "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
-      },
-      "artists": [
-        {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
-        }
-      ],
-      "duration_ms": 186838,
-      "name": "Tupperware",
-      "url": "https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "The Fire Never Dies",
-        "url": "https://open.spotify.com/album/6Qz8VEatH6nwsvIEB7vDk8"
-      },
-      "artists": [
-        {
-          "name": "Jessie Early",
-          "url": "https://open.spotify.com/artist/0xGWbDs5hpYFmiOoMpm0EL"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/5EGPgYmkYZbA4vEVVAFaOL"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Sorry Now",
         "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 192160,
       "name": "Sorry Now",
       "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "The Fire Never Dies",
+        "url": "https://open.spotify.com/album/6Qz8VEatH6nwsvIEB7vDk8"
+      },
+      "artists": [
+        {
+          "name": "Jessie Early",
+          "url": "https://open.spotify.com/artist/0xGWbDs5hpYFmiOoMpm0EL"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/5EGPgYmkYZbA4vEVVAFaOL"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "To Carry A Whale",
-        "url": "https://open.spotify.com/album/6Yq40Q0Kvz9PXdja9i2Yxb"
+        "name": "Two Sides",
+        "url": "https://open.spotify.com/album/3FG64GXbcfsmnx1ocD7kwk"
       },
       "artists": [
         {
-          "name": "Benjamin Francis Leftwich",
-          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+          "name": "Joel Taylor",
+          "url": "https://open.spotify.com/artist/4WilUzPdhmLAiX67CZ9xTi"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Cherry In Tacoma",
-      "url": "https://open.spotify.com/track/4ePlZMnWntH6rq9xUpalnr"
+      "duration_ms": 230751,
+      "name": "Two Sides",
+      "url": "https://open.spotify.com/track/3CXYKSBNOQxfIGHLcbra1f"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

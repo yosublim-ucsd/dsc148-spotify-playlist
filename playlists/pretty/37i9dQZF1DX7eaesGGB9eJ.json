@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 247885,
+  "num_followers": 247942,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Vato Sencillo",
+      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Sirve Mi Caf\u00e9 Temprano",
         "url": "https://open.spotify.com/album/0I7niYRGKf1mfAjVdrkogE"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 255693,
       "name": "Tres Delinquentes - Radio Version",
       "url": "https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Vato Sencillo",
-      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Aunque la Vida Duele",
-      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Dance And Dense Denso",
         "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
       },
@@ -235,18 +219,34 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Amores Perros (Soundtrack)",
-        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+        "name": "Hecho En Mexico",
+        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
       },
       "artists": [
         {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
         }
       ],
-      "duration_ms": 233040,
-      "name": "De Perros Amores",
-      "url": "https://open.spotify.com/track/3DlC0Q6fgNuhj6WEcj21RE"
+      "duration_ms": 262693,
+      "name": "Hecho En Mexico",
+      "url": "https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Aunque la Vida Duele",
+      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Hecho En Mexico",
-        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
+        "name": "Amores Perros (Soundtrack)",
+        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
       },
       "artists": [
         {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 262693,
-      "name": "Hecho En Mexico",
-      "url": "https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI"
+      "duration_ms": 233040,
+      "name": "De Perros Amores",
+      "url": "https://open.spotify.com/track/3DlC0Q6fgNuhj6WEcj21RE"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -311,6 +311,22 @@
       "duration_ms": 203360,
       "name": "Polic\u00edas En Helic\u00f3ptero (con El Aar\u00f3n)",
       "url": "https://open.spotify.com/track/0xwnJOZfxDuqmTWsUSgCOs"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "La Sangre Nunca Muere",
+        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "La Sangre Nunca Muere",
+      "url": "https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -379,42 +395,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Guerra de Karteles",
-        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
-      },
-      "artists": [
-        {
-          "name": "Kartel De Las Calles",
-          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
-        },
-        {
-          "name": "Mafya Azteca",
-          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
-        }
-      ],
-      "duration_ms": 357400,
-      "name": "Las Armas las Karga el Dyablo",
-      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "La Sangre Nunca Muere",
-        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "La Sangre Nunca Muere",
-      "url": "https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
       },
@@ -431,6 +411,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Hecho En Mexico",
+        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Raza Es Raza",
+      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Frenesi",
         "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
       },
@@ -443,6 +439,26 @@
       "duration_ms": 452278,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Guerra de Karteles",
+        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
+      },
+      "artists": [
+        {
+          "name": "Kartel De Las Calles",
+          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
+        },
+        {
+          "name": "Mafya Azteca",
+          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
+        }
+      ],
+      "duration_ms": 357400,
+      "name": "Las Armas las Karga el Dyablo",
+      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -543,46 +559,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Demencia",
-        "url": "https://open.spotify.com/album/1pBvrZ5eMMFSkJjVaB3p6G"
-      },
-      "artists": [
-        {
-          "name": "Perro Zw",
-          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
-        },
-        {
-          "name": "Lirika Inverza",
-          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
-        }
-      ],
-      "duration_ms": 262700,
-      "name": "La Noche de los Poetas Muertos (feat. Lirika Inverza)",
-      "url": "https://open.spotify.com/track/0MJslUoFQ3nZxoaU66KdrB"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "High Con Class XIII",
-        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Ma\u00f1anero",
-      "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Cartel De Santa",
         "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
       },
@@ -599,18 +575,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Hecho En Mexico",
-        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
+        "name": "Demencia",
+        "url": "https://open.spotify.com/album/1pBvrZ5eMMFSkJjVaB3p6G"
       },
       "artists": [
         {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+          "name": "Perro Zw",
+          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
+        },
+        {
+          "name": "Lirika Inverza",
+          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
         }
       ],
-      "duration_ms": 235280,
-      "name": "Raza Es Raza",
-      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
+      "duration_ms": 262700,
+      "name": "La Noche de los Poetas Muertos (feat. Lirika Inverza)",
+      "url": "https://open.spotify.com/track/0MJslUoFQ3nZxoaU66KdrB"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -639,6 +619,26 @@
       "duration_ms": 304346,
       "name": "El Dia De Mi Suerte",
       "url": "https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "High Con Class XIII",
+        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Ma\u00f1anero",
+      "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "No Podr\u00eda Estar Mejor",
-        "url": "https://open.spotify.com/album/61sTVZp2ZIm2Dm9GI80wr7"
-      },
-      "artists": [
-        {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
-        }
-      ],
-      "duration_ms": 185161,
-      "name": "No Podr\u00eda Estar Mejor",
-      "url": "https://open.spotify.com/track/1x1ixNnjqwTtxhok29eanv"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Tu (feat. Sekreto) - Single",
         "url": "https://open.spotify.com/album/5QbGSUzwsr6TE6LcEwG7be"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 260947,
       "name": "Tu",
       "url": "https://open.spotify.com/track/6nq4eEHLFFvTA2Q1LuHdJK"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "No Podr\u00eda Estar Mejor",
+        "url": "https://open.spotify.com/album/61sTVZp2ZIm2Dm9GI80wr7"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "duration_ms": 185161,
+      "name": "No Podr\u00eda Estar Mejor",
+      "url": "https://open.spotify.com/track/1x1ixNnjqwTtxhok29eanv"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/2NlNxImbfaxJaj8Vg3Gkt0"
-      },
-      "artists": [
-        {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "004",
-      "url": "https://open.spotify.com/track/3WnAJRYtYY0qBX64WF98ah"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 289013,
       "name": "\u00c9xtasis (feat. Cartel de Santa)",
       "url": "https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2NlNxImbfaxJaj8Vg3Gkt0"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "004",
+      "url": "https://open.spotify.com/track/3WnAJRYtYY0qBX64WF98ah"
     },
     {
       "added_at": "2024-07-12 18:14:48",

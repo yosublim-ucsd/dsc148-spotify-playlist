@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-571 songs - 1 day 6 hr 5 min
+572 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [COME INSIDE](https://open.spotify.com/track/4QVLG1VExEIihi86ezgkld) | [AD DJ](https://open.spotify.com/artist/3qqyOm81TZ82DtIMyDbAAf), [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [COME INSIDE](https://open.spotify.com/album/5SKSPekuTzFx4iuNfpTZy3) | 3:02 | 2024-05-31 | 2024-07-12 |
 | [Come Over](https://open.spotify.com/track/0oZbM6mWJBCgzRPVL6gzj1) | [Nina Rose Music](https://open.spotify.com/artist/4hmOhhXxtEYLfGFdYMGVl0) | [Come Over](https://open.spotify.com/album/0qt1llTYdlYAW2EzxsB6Xh) | 2:36 | 2023-03-25 | 2023-03-31 |
 | [Confam](https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:43 | 2022-11-15 | 2022-12-09 |
-| [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2022-08-18 |  |
+| [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2022-08-18 | 2024-11-04 |
 | [Contraband](https://open.spotify.com/track/2XWEtuwV02B9L4UNQ2wf9W) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:43 | 2022-10-30 | 2023-02-17 |
 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2022-10-13 | 2023-09-29 |
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2022-11-28 |  |
@@ -185,6 +185,7 @@
 | [Folelé](https://open.spotify.com/track/7x011H8oZwGYBuXQQfGpu4) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:48 | 2023-05-26 | 2023-09-28 |
 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 | 2022-06-09 | 2022-08-15 |
 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 | 2023-04-28 | 2023-09-29 |
+| [For the Popping](https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [For the Popping](https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq) | 2:57 | 2024-10-25 |  |
 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 | 2022-06-09 | 2024-04-19 |
 | [Forget Me](https://open.spotify.com/track/0O65UBzfeysEbxbHd8SGqB) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1) | [Let's Start a Riot](https://open.spotify.com/album/5qwUm4V3XqyEgOMTRgMQto) | 2:30 | 2023-12-15 | 2024-01-13 |
 | [Freaky & Naughty](https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Freaky & Naughty](https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo) | 2:46 | 2023-08-03 | 2023-09-15 |

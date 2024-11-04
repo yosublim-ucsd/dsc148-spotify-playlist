@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,120 songs - 9 day 15 hr 23 min
+4,123 songs - 9 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -684,6 +684,7 @@
 | [Clementine](https://open.spotify.com/track/3Gw5EMNXYr9I4b2IVyKb5B) | [Gabe Germain](https://open.spotify.com/artist/7kqidTTsrF1WUKgAgy2j3t), [Bella Nixon](https://open.spotify.com/artist/4mo8sGw5MFg0fFZ4n9KbRC) | [Clementine](https://open.spotify.com/album/0GRnVaSUtU8s7jrU0c4nnz) | 1:43 | 2023-08-14 | 2023-08-28 |
 | [Close 2 U](https://open.spotify.com/track/6F7vyIV4q98vyyVuG0yv4U) | [Henry Aberson](https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G), [Derran Day](https://open.spotify.com/artist/7dexR7KkrkLCzFIVpBnKzK), [Korey Keys](https://open.spotify.com/artist/5Sw8OXURdKT26umYRH0LUP) | [Close 2 U](https://open.spotify.com/album/02tbmnM3vtp7j2xZtiTaeY) | 4:10 | 2024-09-13 | 2024-09-25 |
 | [CLOSE TO ME](https://open.spotify.com/track/41nDM1IxSQN9YnIYuZhYYM) | [RYOKER](https://open.spotify.com/artist/3f5H53m7DIJapLedJek1vK), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [CLOSE TO ME](https://open.spotify.com/album/6qkAqys8nnj3JuX5mDmcnM) | 3:25 | 2021-02-06 | 2021-02-20 |
+| [Close To Me](https://open.spotify.com/track/3Cnm6nlYa1lbkPbkEsIYlu) | [Sabira Evans](https://open.spotify.com/artist/4rjYcbrgZ9f4fBliPC4kcC) | [Close To Me](https://open.spotify.com/album/5OQK3UbEg6COPyWjFZAWwO) | 3:04 | 2024-11-03 |  |
 | [Closer](https://open.spotify.com/track/3njSzp0s3j9NKaBeCkkxve) | [Adam Michael Allison](https://open.spotify.com/artist/5F5FM7Cv8afXu2uIHCXHjB) | [Details](https://open.spotify.com/album/14F9NlM4MywcAVWmr6duoJ) | 3:06 | 2023-12-29 | 2024-01-16 |
 | [Closer](https://open.spotify.com/track/1povXjJAZZbtMuQiDvJL3s) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Wild Blue Yonder](https://open.spotify.com/album/3gckwZpXnsNoH1dIhLeiud) | 3:32 | 2022-07-08 | 2022-07-27 |
 | [Closer](https://open.spotify.com/track/4OEnccrWAJMICjZB2krgk6) | [Sayat Nokerban](https://open.spotify.com/artist/1H0RdxNCiUN1sx9DK9Jsez) | [Can't Get Over You](https://open.spotify.com/album/0pKgL30XtMo76hBNL02U0E) | 2:37 | 2024-08-16 | 2024-08-28 |
@@ -1146,6 +1147,7 @@
 | [Falling](https://open.spotify.com/track/4c2JIiFwqyv33BkKSyAhMj) | [Elle Isadora](https://open.spotify.com/artist/0008im8MRP9d8ogDqxgBKO) | [Falling](https://open.spotify.com/album/3DZY9RNXas30GvPDJWAfUI) | 3:29 | 2024-02-05 | 2024-02-13 |
 | [Falling](https://open.spotify.com/track/5C6fcO5KbllZChqzSgbPYs) | [Emily Sara](https://open.spotify.com/artist/2cjIQ0NleHwnYD5T72EI1r) | [Mismatch](https://open.spotify.com/album/2TgPPyHwGLV0RkKtucGWSh) | 4:32 | 2024-08-02 | 2024-08-30 |
 | [Falling](https://open.spotify.com/track/6PoDq0kMqBGdk9CW5YCmr2) | [Ferreira](https://open.spotify.com/artist/0xKHLINRFajytpNdsF045U) | [Falling](https://open.spotify.com/album/6kjLKFrrJKgjsAsEXDvtmu) | 3:29 | 2024-10-18 | 2024-11-02 |
+| [Falling](https://open.spotify.com/track/2C9xZh47Bq79SvmmNpwTSJ) | [Malia Ferguson](https://open.spotify.com/artist/1VFbOlDbGWVUsC9lCbsezn) | [Shoreside](https://open.spotify.com/album/78RbgR4mWDRSN6gF0fXQea) | 2:31 | 2024-11-03 |  |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-07-05 | 2022-07-27 |
 | [Falling by the Wayside](https://open.spotify.com/track/16q1Vnv42GoabfjYbYTaoL) | [Paul Mac Innes](https://open.spotify.com/artist/5TSiuFOzFcUE3caItvpilz) | [Falling by the Wayside](https://open.spotify.com/album/0OySeBvf7gQ9nmVB35Hc9j) | 3:51 | 2022-08-19 | 2022-09-04 |
 | [Falling in Love](https://open.spotify.com/track/4afsJrNBHLUdV66MirepMr) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Falling in Love](https://open.spotify.com/album/4IJLQFtCYl6ltje3bnOUJj) | 3:12 | 2024-10-18 | 2024-11-01 |
@@ -1181,7 +1183,7 @@
 | [Feel Alright](https://open.spotify.com/track/503wBuHZS6Y0NeMU5x5ORS) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Feel Alright](https://open.spotify.com/album/1nSygjYUhxXUFHPL81Crz5) | 2:22 | 2021-09-04 | 2022-02-06 |
 | [Feel Better](https://open.spotify.com/track/3CoMzJXWIRLfjZkgwSW6UE) | [Jonathan Shapiro](https://open.spotify.com/artist/3U38aUkSRa6JgTdDOrUawZ), [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [Feel Better](https://open.spotify.com/album/7cBIhRfgxvKHY22RHYax9T) | 2:09 | 2022-04-29 | 2022-05-15 |
 | [Feel Infinity](https://open.spotify.com/track/21TArjiFP7xKOCGVMKlShP) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [Feel Infinity](https://open.spotify.com/album/3iDcLGZK4E8EX4AL0iTfqw) | 3:15 | 2020-04-12 | 2020-04-25 |
-| [Feel It](https://open.spotify.com/track/5UREB05Tkdf6Chs788Ivyc) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [SUNSHINE](https://open.spotify.com/album/0BTuqFbI1tn9Nrh03g8prs) | 3:04 | 2024-10-11 |  |
+| [Feel It](https://open.spotify.com/track/5UREB05Tkdf6Chs788Ivyc) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [SUNSHINE](https://open.spotify.com/album/0BTuqFbI1tn9Nrh03g8prs) | 3:04 | 2024-10-11 | 2024-11-04 |
 | [Feel it](https://open.spotify.com/track/18xQTce1gMkCnj2j59Zuvd) | [Sladek](https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57) | [Feel It](https://open.spotify.com/album/3ByY2aAABrEwPf61Ex7zT0) | 3:15 | 2024-09-19 | 2024-10-01 |
 | [Feel Like Home](https://open.spotify.com/track/4cPsK6f8ErDfqVNwJkSiKq) | [Emmanuel Franco](https://open.spotify.com/artist/0CCkqy7dxiaL42wQcbhpeH) | [Feel Like Home](https://open.spotify.com/album/38IzST20LmkRtzFfKaPRQx) | 3:19 | 2021-11-20 | 2022-04-17 |
 | [Feel Loved \- Piano Solo](https://open.spotify.com/track/50H3hwlivXkBpMLJhyMakh) | [Jade Ashtangini](https://open.spotify.com/artist/17PiYKoaZCMCi0O1Tfy2UN) | [Feel Loved](https://open.spotify.com/album/3w454UbKUD4u7vxgqw6YJ2) | 4:44 | 2022-07-22 | 2022-08-08 |
@@ -3156,6 +3158,7 @@
 | [Simpler Times](https://open.spotify.com/track/7f0bc0KdeDwRIvM4kHTRWS) | [CHAR](https://open.spotify.com/artist/2eoOPfVAXP5jraE3VEbWon) | [Simpler Times](https://open.spotify.com/album/3waWnha4uanTcOOWCGGuQx) | 4:02 | 2021-12-17 | 2022-01-07 |
 | [Simply in Love](https://open.spotify.com/track/2l3vDZiOi6c8NLoMv3LmP1) | [Carlos Rising](https://open.spotify.com/artist/0BeAuKNzkpVr6w0nLi5tro) | [Simply in Love](https://open.spotify.com/album/2SqSLXleVQNc7MIxIEfuSF) | 3:47 | 2023-06-06 | 2023-06-27 |
 | [Sin Piezas](https://open.spotify.com/track/4Etnql7HKVNAkZiwWVvRdO) | [Giulianna](https://open.spotify.com/artist/1vN6MlKggoxbXYYYRJydod) | [Sin Piezas](https://open.spotify.com/album/2jWulsE5KWL83wzklqjOfM) | 2:20 | 2024-03-04 | 2024-03-12 |
+| [Sin ti](https://open.spotify.com/track/0bU1vcFRJRzMSvRW5ye3Gc) | [Cabo Cope](https://open.spotify.com/artist/1FSnvbqPFBkFwTYiyaUX8N), [María Grant](https://open.spotify.com/artist/0Sg2pRSX5FGjIJj3DJSrv4) | [Sin ti](https://open.spotify.com/album/2Qkayw553C4CibeE6l4V6a) | 4:12 | 2024-11-03 |  |
 | [Sina Makosa](https://open.spotify.com/track/2KZnuhaMiOwsSpHg1jip5S) | [Aimé\. M.](https://open.spotify.com/artist/1fm0ZvqiFGSU6RLI5rnqCp) | [Sina Makosa](https://open.spotify.com/album/5LwzHFooLhTeDNwV8ywLP6) | 3:08 | 2024-06-28 | 2024-07-10 |
 | [Since I Have A Lover](https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 4:42 | 2023-12-29 | 2024-03-08 |
 | [Since May](https://open.spotify.com/track/5K458fnpZM0Aa4y8k7d4bQ) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [She](https://open.spotify.com/album/4DGFbLTRx4lTGycQoXKGA3) | 2:28 | 2023-09-01 | 2024-06-20 |

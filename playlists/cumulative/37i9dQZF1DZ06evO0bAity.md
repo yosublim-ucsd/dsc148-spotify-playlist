@@ -4,7 +4,7 @@
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 40 min
+90 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All Or Nothing](https://open.spotify.com/track/67iASH0fHqwSDx8oncwTRk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [All Or Nothing](https://open.spotify.com/album/2ysCUWGrCt6kxvLfAEqKqG) | 3:23 | 2023-12-13 | 2024-03-10 |
 | [Back & Forth](https://open.spotify.com/track/2znjtyMFFWu1Zpt4yQ2TCF) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:17 | 2022-09-16 | 2022-09-19 |
 | [Bad Influence](https://open.spotify.com/track/6VDywWJSLDBGJfKTx0cP7j) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 1:10 | 2022-09-22 | 2024-05-17 |
-| [Black Rat](https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:31 | 2022-09-16 |  |
+| [Black Rat](https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:31 | 2022-09-16 | 2024-11-04 |
 | [Blood On My Leather](https://open.spotify.com/track/2yX5Hz2SvtGvfNnI879xrf) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Blood On My Leather](https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh) | 2:33 | 2022-09-16 |  |
 | [Brains](https://open.spotify.com/track/7x1Uhtkt9UGQrffVwplBT4) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 3:15 | 2022-10-06 | 2022-10-12 |
 | [Come down \- Crooked colours](https://open.spotify.com/track/7rZB2xn83Wymu6r8en1bby) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [The DZ Deathrays Spotify Margarita Monday Monster Mash Mix](https://open.spotify.com/album/1Q2YJt77QN5LWZVZaUO2yU) | 0:39 | 2023-01-23 | 2023-02-07 |
@@ -62,6 +62,7 @@
 | [My Mind is Eating Me Alive](https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:38 | 2023-06-03 |  |
 | [My Mind Is Eating Me Alive \- GAUCI Remix](https://open.spotify.com/track/4mbIZepv1eFGIAQiuuDP7r) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [GAUCI](https://open.spotify.com/artist/4cZCJhHp1jIH1NZ02799nY) | [My Mind Is Eating Me Alive \(GAUCI Remix\)](https://open.spotify.com/album/6PN1mpBJUn8a8Ytp6Sz1R1) | 3:29 | 2023-11-10 | 2023-12-14 |
 | [Nightmare Wrecker](https://open.spotify.com/track/5yuaGKyNmZ4km7BaD5vB0I) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 2:39 | 2022-09-16 | 2024-03-10 |
+| [Nightwalking](https://open.spotify.com/track/0KrVDtZ1R3fVE4z4wnaVUE) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2ii5T3w1mFdQLLgOyDqXh7) | 4:07 | 2024-11-04 |  |
 | [Nightwalking](https://open.spotify.com/track/1NwVspgsq9VuSyxaK63E7l) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 4:08 | 2024-06-23 | 2024-07-01 |
 | [No Sleep](https://open.spotify.com/track/33HdvPWpwQHJzOynfS2YNa) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:51 | 2022-09-16 | 2024-07-31 |
 | [No Sleep](https://open.spotify.com/track/7K2EiQPCwiaWjXiWXl8dzu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX) | 2:51 | 2022-10-04 |  |

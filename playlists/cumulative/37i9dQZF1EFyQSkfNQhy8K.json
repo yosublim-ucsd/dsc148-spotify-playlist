@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Cuidala",
+        "url": "https://open.spotify.com/album/47Z29LuRUoOkX0Qpg4rAzP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217855,
+      "name": "Cuidala",
+      "url": "https://open.spotify.com/track/6tslq9YAf10OcQMKZjw9lD"
+    },
+    {
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },

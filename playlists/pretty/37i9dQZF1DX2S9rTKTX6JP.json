@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 698790,
+  "num_followers": 698920,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Last Resort (Reimagined)",
-        "url": "https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 283714,
-      "name": "Last Resort - Reimagined",
-      "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "So Long, Astoria",
         "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 258000,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Last Resort (Reimagined)",
+        "url": "https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 283714,
+      "name": "Last Resort - Reimagined",
+      "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
       "artists": [
         {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 109900,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
+      "duration_ms": 163240,
+      "name": "I Fought the Law",
+      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
         }
       ],
-      "duration_ms": 163240,
-      "name": "I Fought the Law",
-      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+      "duration_ms": 109900,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
-      },
-      "artists": [
-        {
-          "name": "All Good Things",
-          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "God's Gonna Cut You Down",
         "url": "https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 160538,
       "name": "God's Gonna Cut You Down",
       "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
+      },
+      "artists": [
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Flagpole Sitta",
-        "url": "https://open.spotify.com/album/33B1muI2GbTX7NWyHK1lwm"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 223003,
-      "name": "Flagpole Sitta",
-      "url": "https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
         "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Flagpole Sitta",
+        "url": "https://open.spotify.com/album/33B1muI2GbTX7NWyHK1lwm"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 223003,
+      "name": "Flagpole Sitta",
+      "url": "https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Falling In",
         "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 315491,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 218354,
+      "name": "How To Save A Life",
+      "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 181695,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 218354,
-      "name": "How To Save A Life",
-      "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "BE QUIET AND DRIVE (FAR AWAY) \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 187189,
-      "name": "BE QUIET AND DRIVE (FAR AWAY)",
-      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Wild Card/A Word To The Wise",
         "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 187826,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "BE QUIET AND DRIVE (FAR AWAY) \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 187189,
+      "name": "BE QUIET AND DRIVE (FAR AWAY)",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Yellow - Spotify Singles",
-        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 269967,
-      "name": "Yellow - Spotify Singles",
-      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Age Of Ignorance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Rebels",
-        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
+        "name": "Yellow - Spotify Singles",
+        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
       },
       "artists": [
         {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 278280,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
+      "duration_ms": 269967,
+      "name": "Yellow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 278280,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL"
       },
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Pisces Iscariot (Remastered)",
+        "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Landslide - Remastered",
+      "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "By The People, For The People",
         "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Pisces Iscariot (Remastered)",
-        "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
         }
       ],
-      "duration_ms": 190586,
-      "name": "Landslide - Remastered",
-      "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
+      "duration_ms": 281373,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1375,22 +1391,6 @@
       "duration_ms": 204759,
       "name": "Temple of Love (feat. VV)",
       "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "I Think We're Alone Now",
         "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "The Best Of Us For The Rest Of Us",
-        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "The Chain",
         "url": "https://open.spotify.com/album/053OECifPxrpiOKbiaP5Nm"
       },
@@ -1955,6 +1939,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "The Best Of Us For The Rest Of Us",
+        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "One Step Closer \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
       },
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
+        "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
+      },
+      "artists": [
+        {
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 233362,
       "name": "(I Can\u2019t Get No) Satisfaction",
       "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
-        "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
-      },
-      "artists": [
-        {
-          "name": "Eagles Of Death Metal",
-          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/4uiyLLg6YL8wQuYQcw29I8"
-      },
-      "artists": [
-        {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
-        }
-      ],
-      "duration_ms": 228974,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/7IcSNVUvVdOv2gOXjExsFC"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "War Pigs",
         "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
       },
@@ -2323,18 +2307,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui"
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/4uiyLLg6YL8wQuYQcw29I8"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
         }
       ],
-      "duration_ms": 295074,
-      "name": "Change (In The House Of Flies)",
-      "url": "https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0"
+      "duration_ms": 228974,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/7IcSNVUvVdOv2gOXjExsFC"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2351,6 +2335,22 @@
       "duration_ms": 231887,
       "name": "We Are The Champions/We Will Rock You",
       "url": "https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 295074,
+      "name": "Change (In The House Of Flies)",
+      "url": "https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Free Rein to Passions (Deluxe)",
-        "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 130397,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/2pq4CRO6jIEhmiRobPEBNs"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 195345,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/4apfnb6UxfoqQNc9hzsMay"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Free Rein to Passions (Deluxe)",
+        "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 130397,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos"
     },
     {
       "added_at": "2024-10-11 04:00:00",

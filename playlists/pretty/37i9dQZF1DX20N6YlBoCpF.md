@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb?si=GjjIMWPgTDitOBH6dFdbUw">ONS</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,324 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,351 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 17 | [Liewe Lulu](https://open.spotify.com/track/6lXCDbNfsF3gWfczAoTYFi) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Liewe Lulu](https://open.spotify.com/album/3fOvZS43Jmo46KWRTUW4gG) | 2:48 |
 | 18 | [Klein Bietjie](https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Klein Bietjie](https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r) | 3:01 |
 | 19 | [Groeipyne \(feat\. Die Piesangskille\)](https://open.spotify.com/track/2G6OnOnHviWZy9LPl38wyw) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Groeipyne \(feat\. Die Piesangskille\)](https://open.spotify.com/album/2twBO549njTa165ndnDqIK) | 2:42 |
-| 20 | [Splinter En Bakkies \(Episode 2\)](https://open.spotify.com/track/5hoF78jcfLfFDmBASral52) | [Stefan Jansen](https://open.spotify.com/artist/3OurTd4MJqH8J5U8ubA0rS) | [Splinter En Bakkies \(Episode 2\)](https://open.spotify.com/album/0ox8CKMxvutig16JgHRobi) | 2:41 |
+| 20 | [Splinter En Bakkies \(Episode 2\)](https://open.spotify.com/track/5hoF78jcfLfFDmBASral52) | [Stefan Jansen](https://open.spotify.com/artist/1wemQwgdM4yTWWkxjlFFyD) | [Splinter En Bakkies \(Episode 2\)](https://open.spotify.com/album/0ox8CKMxvutig16JgHRobi) | 2:41 |
 | 21 | [Ik Ben Een Afrikaander](https://open.spotify.com/track/6qqq4BVds5A4py5kwBgw2p) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Ik Ben Een Afrikaander](https://open.spotify.com/album/6ltCW6g9GHM3Q234qeF3V0) | 3:21 |
 | 22 | [Ek Verstaan](https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ek Verstaan](https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI) | 2:44 |
 | 23 | [Rooksein](https://open.spotify.com/track/67mGnNAOpLbQ9QZoJF8ntm) | [Delano Jooste](https://open.spotify.com/artist/5wSeUIvRBzhkeOoiPnOTQX) | [Rooksein](https://open.spotify.com/album/00KWX1Tc3PPxPOFxpJ7DqQ) | 4:03 |

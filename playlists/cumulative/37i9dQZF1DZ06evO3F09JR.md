@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-143 songs - 14 hr 42 min
+144 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Illusion Of Time \- Teodor Wolgers Rework](https://open.spotify.com/track/6uZ7HlryD5c0IU65ANbaj2) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Illusion Of Time \(Teodor Wolgers Rework\)](https://open.spotify.com/album/0yF4JzJ0a96qaWLLhE9zcp) | 3:35 | 2023-01-10 | 2023-04-30 |
 | [Immediate Horizon 1](https://open.spotify.com/track/3FaAMSO4RytHjUQ2CKUprQ) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 4:59 | 2022-05-29 | 2024-09-07 |
 | [Immediate Horizon 2](https://open.spotify.com/track/2V1cuZ6Hn8CxRWaKFOANNs) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 6:07 | 2022-05-29 |  |
-| [Immediate Horizon 3](https://open.spotify.com/track/6smKelrD4IAbrF2APLgoEe) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 8:47 | 2022-05-29 |  |
+| [Immediate Horizon 3](https://open.spotify.com/track/6smKelrD4IAbrF2APLgoEe) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 8:47 | 2022-05-29 | 2024-11-04 |
 | [Immediate Horizon 4](https://open.spotify.com/track/3sVoD2TNyGarLfFMKAHSVi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 11:59 | 2022-05-29 | 2024-04-23 |
 | [Immediate Horizon 5](https://open.spotify.com/track/5XGszMhQLTPpMhvL5Q3EaU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 6:23 | 2022-05-29 | 2024-08-13 |
 | [Iniziare](https://open.spotify.com/track/1uEKsAy6eyhiSgJMnNSSte) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 5:42 | 2024-05-08 |  |
@@ -87,6 +87,7 @@
 | [Lotta](https://open.spotify.com/track/3kZH2IwWMOhg1tthntDBas) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 7:24 | 2024-09-27 | 2024-10-03 |
 | [Luna](https://open.spotify.com/track/7M4EwNJUHMAeoUhUbHSPpo) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 2](https://open.spotify.com/album/4JmAAKEYbMySw38RGe6apo) | 5:42 | 2024-10-07 | 2024-10-12 |
 | [MAAC](https://open.spotify.com/track/4Bq7pjMWPLLyto3F1nfw46) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Alessandro Cortini/Merzbow](https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU) | 16:59 | 2022-05-29 | 2022-10-13 |
+| [Manca](https://open.spotify.com/track/6OAKlXdK1YXOztodXixj6V) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 1](https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K) | 6:43 | 2024-11-04 |  |
 | [Marcia](https://open.spotify.com/track/4K0gtJiUge7hMLOudbc6jd) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Forse 2](https://open.spotify.com/album/4JmAAKEYbMySw38RGe6apo) | 6:38 | 2024-09-18 | 2024-10-19 |
 | [MCAA](https://open.spotify.com/track/4VoHOltKFlMuiMHbMEwH91) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Alessandro Cortini/Merzbow](https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU) | 20:34 | 2022-06-03 | 2022-09-22 |
 | [Megalomania](https://open.spotify.com/track/6UCmtZZKwMKnzKcPEtUKcy) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:30 | 2022-11-09 | 2024-10-19 |

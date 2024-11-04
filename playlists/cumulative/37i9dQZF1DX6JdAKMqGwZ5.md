@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Carlos Ares.
 
-234 songs - 12 hr 16 min
+236 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Chico Bueno](https://open.spotify.com/track/16iyniG7adFrbPGJTZ5Fkk) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [BRONQUIO](https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1) | [Chico Bueno](https://open.spotify.com/album/3fKEevUtThfO4c1R8gh1so) | 2:58 | 2024-09-05 |  |
 | [CHULA](https://open.spotify.com/track/0mXYr3Z0tRgBsMOJIHtRQ6) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [CHULA](https://open.spotify.com/album/003ywHveGjCjgWIvi5NQRK) | 2:40 | 2024-06-27 | 2024-07-27 |
 | [COM EL DIA I LA NIT](https://open.spotify.com/track/4oITtKgZh6lPRM1JSEb4sX) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 4:13 | 2024-06-27 | 2024-08-23 |
-| [COMO YO](https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [COMO YO](https://open.spotify.com/album/1CyXLV1RNiLbbrs0lvJ5m5) | 1:57 | 2024-06-27 |  |
+| [COMO YO](https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [COMO YO](https://open.spotify.com/album/1CyXLV1RNiLbbrs0lvJ5m5) | 1:57 | 2024-06-27 | 2024-11-04 |
 | [CON LOQ1 NACE](https://open.spotify.com/track/5gTcX23cK2d06dbuXBIqcH) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [CON LOQ1 NACE](https://open.spotify.com/album/3PKRHrJ4UgwN6caKvt3mYn) | 3:06 | 2024-08-01 | 2024-10-11 |
 | [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 | 2024-06-27 |  |
 | [Con otra cabeza](https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Con otra cabeza](https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV) | 2:29 | 2024-06-27 |  |
@@ -88,6 +88,7 @@
 | [Esto no es el cielo](https://open.spotify.com/track/5IG6ux0mJM0H0Jti7ecz54) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [Esto no es el cielo](https://open.spotify.com/album/1oSd0iudeLKkSTjkWF3lpp) | 2:59 | 2024-06-27 |  |
 | [estonovabien](https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [estonovabien](https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW) | 2:41 | 2024-06-27 | 2024-07-27 |
 | [ESTRÉS](https://open.spotify.com/track/4Rg0Ra86pfQa9ZsRtGwrnL) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ESTRÉS](https://open.spotify.com/album/0kixB9HDDctNCeMB8ILDgB) | 3:17 | 2024-06-27 | 2024-10-11 |
+| [ETERNO RESPLANDOR](https://open.spotify.com/track/3CZBERnMlSszfxH5I4SGQS) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [ETERNO RESPLANDOR](https://open.spotify.com/album/3xjKxy9YtsQ5wbcwGy7cqf) | 3:09 | 2024-10-31 |  |
 | [Ez Nintzen Ni Izango \(Esa No Sería Yo\)](https://open.spotify.com/track/1LeD6LjLKzEb4Zo7l48Pw5) | [BULEGO](https://open.spotify.com/artist/536zVauyusZp2cjwh4QB5B), [Ede](https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q) | [Ez Nintzen Ni Izango \(Esa No Sería Yo\)](https://open.spotify.com/album/2eIfbE9QY4rESyCsu3JFUu) | 3:23 | 2024-06-27 |  |
 | [Famara \(feat\. Depedro\)](https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx), [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [El Porvenir](https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH) | 3:52 | 2024-06-27 |  |
 | [Fantasmas](https://open.spotify.com/track/61omU5umRHHE0v20jAYD1L) | [Marinita Precaria](https://open.spotify.com/artist/4HJBGcOqWcIOay7q6eeXOR) | [Fantasmas](https://open.spotify.com/album/2tRtfSdmb2jAUmjcAf3l59) | 3:44 | 2024-07-18 | 2024-08-02 |
@@ -186,11 +187,12 @@
 | [Pura geografia](https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Nostàlgia Airlines](https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV) | 2:56 | 2024-06-27 |  |
 | [QUEMARLO TODO](https://open.spotify.com/track/4BR7wVkXymTFKcDkYkSTtC) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [QUEMARLO TODO](https://open.spotify.com/album/2n0iynESypPLAPOVu4GVj9) | 2:30 | 2024-10-10 |  |
 | [Quiero Hacer Música](https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc) | 3:20 | 2024-06-27 | 2024-10-16 |
+| [Quiero Que Perdamos La Cabeza \(Otra Vez\)](https://open.spotify.com/track/3DpbwEMDa3P5rzWJZOzWfj) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Quiero Que Perdamos La Cabeza \(Otra Vez\)](https://open.spotify.com/album/4SQ0OKByzERxsWIkv9oAv5) | 2:14 | 2024-10-31 |  |
 | [Qué buscas](https://open.spotify.com/track/0O2t06Dh9U1kO2JEdUwqis) | [TAURO](https://open.spotify.com/artist/2B76nxBwYVPBmWnqUqbsIN) | [Qué buscas](https://open.spotify.com/album/78W2QG99qX9gs1SfHFCxgD) | 3:11 | 2024-07-18 | 2024-07-27 |
 | [rachel y ross](https://open.spotify.com/track/7bCc9z9MMr447KrWR1jjYY) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [rachel y ross](https://open.spotify.com/album/6cYDCCaorLnGcJSBiRwk2v) | 3:18 | 2024-09-05 | 2024-10-11 |
 | [Rayito de Luz](https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:45 | 2024-08-01 |  |
 | [Regalao](https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Carlangas](https://open.spotify.com/album/3HnyyrsxIqgCB2dZw8q9gC) | 2:06 | 2024-06-27 | 2024-07-05 |
-| [relevante](https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [relevante](https://open.spotify.com/album/0crdvXNF6hemAWuVLAIdeQ) | 3:55 | 2024-06-27 |  |
+| [relevante](https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [relevante](https://open.spotify.com/album/0crdvXNF6hemAWuVLAIdeQ) | 3:55 | 2024-06-27 | 2024-11-04 |
 | [Ressaca a sa platja](https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Ressaca a sa platja](https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ) | 2:56 | 2024-06-27 |  |
 | [Reventarme](https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Reventarme](https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX) | 3:06 | 2024-06-27 |  |
 | [Sal a pasear](https://open.spotify.com/track/4Gy2K1tivOt7hOMFmA9i6n) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Sal a pasear](https://open.spotify.com/album/5AdDO50O3h66IFyw5SC5K9) | 3:55 | 2024-10-24 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 23303,
+  "num_followers": 23307,
   "original_name": "Electro Folclore",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "Gozar Hasta Que Me Ausente",
+        "url": "https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        }
+      ],
+      "duration_ms": 277894,
+      "name": "A la Ma\u00f1anita",
+      "url": "https://open.spotify.com/track/5zNvRx6WBrZu2aYm6oY2Yc"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "Soy la lluvia",
         "url": "https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB"
       },
@@ -147,6 +163,22 @@
       "duration_ms": 327912,
       "name": "Soy la lluvia",
       "url": "https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        }
+      ],
+      "duration_ms": 345766,
+      "name": "El Hijo del Altiplano",
+      "url": "https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -183,38 +215,6 @@
       "duration_ms": 155062,
       "name": "Los Andes",
       "url": "https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        }
-      ],
-      "duration_ms": 345766,
-      "name": "El Hijo del Altiplano",
-      "url": "https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Gozar Hasta Que Me Ausente",
-        "url": "https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP"
-      },
-      "artists": [
-        {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
-        }
-      ],
-      "duration_ms": 277894,
-      "name": "A la Ma\u00f1anita",
-      "url": "https://open.spotify.com/track/5zNvRx6WBrZu2aYm6oY2Yc"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -259,6 +259,38 @@
       "duration_ms": 328602,
       "name": "Sin darle motivo - Derrok Remix",
       "url": "https://open.spotify.com/track/0pOy8zLbOSbIjVRxm4oqPP"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        }
+      ],
+      "duration_ms": 251468,
+      "name": "Su\u00e9ltalo",
+      "url": "https://open.spotify.com/track/2GduMjneBXAVXwnwkgrxCh"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        }
+      ],
+      "duration_ms": 245288,
+      "name": "Atahualpa",
+      "url": "https://open.spotify.com/track/19d9NJpNn4ZGYxcqzCrM7K"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -343,22 +375,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI"
-      },
-      "artists": [
-        {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
-        }
-      ],
-      "duration_ms": 251468,
-      "name": "Su\u00e9ltalo",
-      "url": "https://open.spotify.com/track/2GduMjneBXAVXwnwkgrxCh"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "Tonolec",
         "url": "https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 264546,
       "name": "Antiguos Due\u00f1os de las Flechas",
       "url": "https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        }
-      ],
-      "duration_ms": 245288,
-      "name": "Atahualpa",
-      "url": "https://open.spotify.com/track/19d9NJpNn4ZGYxcqzCrM7K"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -423,74 +423,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 290760,
-      "name": "La Maza",
-      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Campo",
-        "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Zorzal",
-      "url": "https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Huestes",
-        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
-      },
-      "artists": [
-        {
-          "name": "Weste",
-          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Te Quer\u00eda (Chancha V\u00eda Circuito Remix)",
-        "url": "https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Te Quer\u00eda - Chancha V\u00eda Circuito Remix",
-      "url": "https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "AMA",
         "url": "https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI"
       },
@@ -507,22 +439,18 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Lupuna",
-        "url": "https://open.spotify.com/album/19nZKevjR88xBmIl8qXv0F"
+        "name": "Campo",
+        "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
       },
       "artists": [
         {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        },
-        {
-          "name": "Claudio Reche",
-          "url": "https://open.spotify.com/artist/6kfpY9G6unVKEBsr8CdqQJ"
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
         }
       ],
-      "duration_ms": 433659,
-      "name": "Lupuna",
-      "url": "https://open.spotify.com/track/5LTk1XzBCaTz20Ofd60KTC"
+      "duration_ms": 189026,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -555,6 +483,118 @@
       "duration_ms": 218461,
       "name": "Juana Azurduy",
       "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Huestes",
+        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
+      },
+      "artists": [
+        {
+          "name": "Weste",
+          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Lupuna",
+        "url": "https://open.spotify.com/album/19nZKevjR88xBmIl8qXv0F"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        },
+        {
+          "name": "Claudio Reche",
+          "url": "https://open.spotify.com/artist/6kfpY9G6unVKEBsr8CdqQJ"
+        }
+      ],
+      "duration_ms": 433659,
+      "name": "Lupuna",
+      "url": "https://open.spotify.com/track/5LTk1XzBCaTz20Ofd60KTC"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 290760,
+      "name": "La Maza",
+      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Yemanja (Chancha Via Circuito Remix)",
+        "url": "https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 258643,
+      "name": "Yemanja - Chancha Via Circuito Remix",
+      "url": "https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Arriba Quemando el Sol",
+        "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Maryta de Humahuaca",
+          "url": "https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc"
+        }
+      ],
+      "duration_ms": 208170,
+      "name": "Arriba Quemando el Sol",
+      "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Te Quer\u00eda (Chancha V\u00eda Circuito Remix)",
+        "url": "https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Te Quer\u00eda - Chancha V\u00eda Circuito Remix",
+      "url": "https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -611,42 +651,18 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Yemanja (Chancha Via Circuito Remix)",
-        "url": "https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY"
+        "name": "Circular Tejido",
+        "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
       },
       "artists": [
         {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Lulacruza",
+          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
         }
       ],
-      "duration_ms": 258643,
-      "name": "Yemanja - Chancha Via Circuito Remix",
-      "url": "https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Arriba Quemando el Sol",
-        "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Maryta de Humahuaca",
-          "url": "https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc"
-        }
-      ],
-      "duration_ms": 208170,
-      "name": "Arriba Quemando el Sol",
-      "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
+      "duration_ms": 295073,
+      "name": "Rio Contento",
+      "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -663,22 +679,6 @@
       "duration_ms": 391452,
       "name": "Ay Palomita",
       "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Circular Tejido",
-        "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
-      },
-      "artists": [
-        {
-          "name": "Lulacruza",
-          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
-        }
-      ],
-      "duration_ms": 295073,
-      "name": "Rio Contento",
-      "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "Patagonia Nature",
+        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+      },
+      "artists": [
+        {
+          "name": "Oscar Irustia",
+          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+        }
+      ],
+      "duration_ms": 182951,
+      "name": "Huayno and Pacha Mama",
+      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "La Monta\u00f1a Sin Nombre II",
         "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Patagonia Nature",
-        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+        "name": "Truenatruena",
+        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
       },
       "artists": [
         {
-          "name": "Oscar Irustia",
-          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
         }
       ],
-      "duration_ms": 182951,
-      "name": "Huayno and Pacha Mama",
-      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
+      "duration_ms": 272503,
+      "name": "Truenatruena",
+      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -819,22 +835,6 @@
       "duration_ms": 189791,
       "name": "Nave",
       "url": "https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Truenatruena",
-        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
-      },
-      "artists": [
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        }
-      ],
-      "duration_ms": 272503,
-      "name": "Truenatruena",
-      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Terrapl\u00e9n",
-        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
-      },
-      "artists": [
-        {
-          "name": "Terrapl\u00e9n",
-          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
-        }
-      ],
-      "duration_ms": 236986,
-      "name": "Quita La Pena",
-      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "Dia Y Noche",
         "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 425500,
       "name": "Noche - Remix",
       "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Terrapl\u00e9n",
+        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
+      },
+      "artists": [
+        {
+          "name": "Terrapl\u00e9n",
+          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
+        }
+      ],
+      "duration_ms": 236986,
+      "name": "Quita La Pena",
+      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "duration_ms": 325933,
+      "name": "Carnabailito",
+      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "Telesita",
         "url": "https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 264323,
       "name": "Telesita",
       "url": "https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        }
-      ],
-      "duration_ms": 325933,
-      "name": "Carnabailito",
-      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Que Bailen",
-        "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Que Bailen",
-      "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
         "name": "A Guide to the Birdsong of South America",
         "url": "https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp"
       },
@@ -1483,44 +1463,24 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/7qXYhzhdXPMPLwI9ikmiTP"
+        "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
+        "url": "https://open.spotify.com/album/2kiwiXeBYtNKbFQnzrLTLO"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "F\u00e9mina",
-          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
         }
       ],
-      "duration_ms": 296258,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/6YIAGoFSZDu5BkjMBmXZVD"
+      "duration_ms": 241023,
+      "name": "Peoncito de Estancia - Kaleema Remix",
+      "url": "https://open.spotify.com/track/3hyFE4ZFa1kljhj4EKOWjh"
     },
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
-        "name": "Toca",
-        "url": "https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Toca",
-      "url": "https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Los P\u00e1jaros",
-        "url": "https://open.spotify.com/album/6ep3yZWQVPVmHjxEBCZwfl"
+        "name": "Que Bailen",
+        "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
       },
       "artists": [
         {
@@ -1528,13 +1488,49 @@
           "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
         },
         {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
         }
       ],
-      "duration_ms": 260867,
-      "name": "Los P\u00e1jaros",
-      "url": "https://open.spotify.com/track/3of6tull2ZmGDZImXi32yz"
+      "duration_ms": 314009,
+      "name": "Que Bailen",
+      "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Tilcara",
+        "url": "https://open.spotify.com/album/5nCu0disdQEhv74qkksFIg"
+      },
+      "artists": [
+        {
+          "name": "Apuna",
+          "url": "https://open.spotify.com/artist/6aQnkgpCB0Zq7GjONZyd4g"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Tilcara",
+      "url": "https://open.spotify.com/track/4ByBsOC6VsOfkg2SDBQT2q"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
+      },
+      "artists": [
+        {
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 340616,
+      "name": "La Frontera",
+      "url": "https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6"
     }
   ],
   "unique_name": "Electro Folclore",

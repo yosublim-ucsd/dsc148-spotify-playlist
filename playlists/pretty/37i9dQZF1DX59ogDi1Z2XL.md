@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,833 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,865 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 6 | [Understand](https://open.spotify.com/track/5L32IjZD1VIyuF7Rw9Xmio) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Understand](https://open.spotify.com/album/2tihzsOg9XnrmkCQ5LLDnY) | 2:36 |
 | 7 | [Ball 4ever](https://open.spotify.com/track/2C6xLfhl6YmDuagHjq7cRK) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Ball 4ever](https://open.spotify.com/album/23xj0b2WL6dSlV89d2Urlw) | 3:23 |
 | 8 | [Simple Days](https://open.spotify.com/track/76d3DYrQGyPy0QYodY4R6T) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Simple Days](https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8) | 2:05 |
-| 9 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
+| 9 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 |
 | 10 | [FOREVER.](https://open.spotify.com/track/653r4vG5iaUnhyniwg8MvY) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [01 LOVE.](https://open.spotify.com/album/1xaQZdCL5VDcF5BsF6TH49) | 5:12 |
 | 11 | [Horizon](https://open.spotify.com/track/2JFbWsM4ooD9EMcTI0yO92) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve) | [AMALAMA](https://open.spotify.com/album/0UdNmx41O4U8B1IvSOBBLV) | 1:49 |
 | 12 | [OWTS](https://open.spotify.com/track/17I97We87Ww9Jg8Teczqa4) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [OWTS](https://open.spotify.com/album/3LnKBpQpULQHQcomO5O5q7) | 2:52 |

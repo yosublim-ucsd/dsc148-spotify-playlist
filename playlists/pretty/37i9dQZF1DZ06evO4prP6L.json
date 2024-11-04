@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 16743,
+  "num_followers": 16745,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAAB1U013LxbKNPAtH36KJ9mD",
+  "snapshot_id": "ZyVrgAAAAAAOOWJzACem74ui+lF2o0k0",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm of the Highway (Tamworth Edition)",
-        "url": "https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm"
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
       "artists": [
-        {
-          "name": "Travis Sinclair",
-          "url": "https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ"
-        },
         {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 214720,
-      "name": "I'm from the Country",
-      "url": "https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG"
+      "duration_ms": 184546,
+      "name": "Ute Me",
+      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+        "name": "Rhythm of the Highway (Tamworth Edition)",
+        "url": "https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm"
       },
       "artists": [
+        {
+          "name": "Travis Sinclair",
+          "url": "https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ"
+        },
         {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 184546,
-      "name": "Ute Me",
-      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
+      "duration_ms": 214720,
+      "name": "I'm from the Country",
+      "url": "https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG"
     },
     {
       "added_at": null,

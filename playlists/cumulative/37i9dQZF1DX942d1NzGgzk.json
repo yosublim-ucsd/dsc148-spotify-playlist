@@ -3352,7 +3352,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 168720,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/43h59Oj9bIoAEf0cY2EMx0"
@@ -3685,6 +3685,24 @@
     },
     {
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189441,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0"
+    },
+    {
+      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
@@ -3780,7 +3798,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 193684,
       "name": "No Bad Energy",
       "url": "https://open.spotify.com/track/4RuCu5EaKXY60YcOzdLZYt"
@@ -5436,7 +5454,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 199732,
       "name": "The Love Is Gone",
       "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"

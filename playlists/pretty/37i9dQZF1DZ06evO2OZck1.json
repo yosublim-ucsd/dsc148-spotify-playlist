@@ -1,12 +1,12 @@
 {
-  "description": "This is \u65b0\u3057\u3044\u5b66\u6821\u306e\u30ea\u30fc\u30c0\u30fc\u30ba. The essential tracks, all in one playlist.",
-  "num_followers": 52251,
-  "original_name": "This Is \u65b0\u3057\u3044\u5b66\u6821\u306e\u30ea\u30fc\u30c0\u30fc\u30ba",
+  "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
+  "num_followers": 52277,
+  "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAAAz92CWENmBlfpfTFkuVxrU",
+  "snapshot_id": "ZyVrgAAAAABH2sf51iJ1zXRvKPHnFgCZ",
   "tracks": [
     {
       "added_at": null,
@@ -459,18 +459,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE"
       },
       "artists": [
         {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
         }
       ],
-      "duration_ms": 259333,
-      "name": "saisyu jinrui",
-      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
+      "duration_ms": 133802,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj"
     },
     {
       "added_at": null,
@@ -495,26 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE"
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
       "artists": [
         {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
         }
       ],
-      "duration_ms": 133802,
-      "name": "Freaks",
-      "url": "https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj"
+      "duration_ms": 259333,
+      "name": "saisyu jinrui",
+      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "kimiwaina'17",
-      "url": "https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MANINGEN",
         "url": "https://open.spotify.com/album/36HmV8Uc2UVPTSlJ88uVpN"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 137136,
       "name": "Neraiuchi - 50th anniversary special cover",
       "url": "https://open.spotify.com/track/2747l2vCNws9AxvFQzOBrh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "kimiwaina'17",
+      "url": "https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "zzz",
-      "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HELLO (from The Tiger's Apprentice)",
         "url": "https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf"
       },
@@ -647,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "shiken zenya",
-      "url": "https://open.spotify.com/track/6JNvwvaHG3T2nuLRSI53Vr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
@@ -672,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 237800,
-      "name": "wakaranai",
-      "url": "https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1"
+      "duration_ms": 253866,
+      "name": "zzz",
+      "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
     },
     {
       "added_at": null,
@@ -704,11 +672,43 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
+      "duration_ms": 237800,
+      "name": "wakaranai",
+      "url": "https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "shiken zenya",
+      "url": "https://open.spotify.com/track/6JNvwvaHG3T2nuLRSI53Vr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
       "duration_ms": 259066,
       "name": "toumeigirl(H ZETT M edit ver.)",
       "url": "https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN"
     }
   ],
-  "unique_name": "This Is \u65b0\u3057\u3044\u5b66\u6821\u306e\u30ea\u30fc\u30c0\u30fc\u30ba",
+  "unique_name": "This Is ATARASHII GAKKO!",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OZck1"
 }

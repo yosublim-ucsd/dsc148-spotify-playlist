@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-275 songs - 16 hr 17 min
+278 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Give It to Me](https://open.spotify.com/track/6Im7Bn2FHuuBqfWgNkqgWa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Future History \(Deluxe Edition\)](https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2) | 3:24 | 2024-02-07 |  |
 | [Give Me Love](https://open.spotify.com/track/03jcNioX4fCfRgDagg9kvB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:20 | 2024-02-07 |  |
 | [Got No Shorty](https://open.spotify.com/track/4J9cHn7AatMiY45zpTTeif) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:21 | 2024-02-07 |  |
-| [Greatest Love](https://open.spotify.com/track/5WuIwAvQt5L9kwpuzYc1A6) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 3:43 | 2024-02-07 |  |
+| [Greatest Love](https://open.spotify.com/track/3ezgsGkbkfKfYG2i6VaeyQ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:43 | 2024-11-03 |  |
+| [Greatest Love](https://open.spotify.com/track/5WuIwAvQt5L9kwpuzYc1A6) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 3:43 | 2024-02-07 | 2024-11-04 |
 | [Green Light Go](https://open.spotify.com/track/5ejaRY8r27tuC6trrwAZJQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Green Light Go](https://open.spotify.com/album/3orQldTQmLgJdqVaKZAln4) | 3:37 | 2024-02-07 |  |
 | [Grown Man Cry](https://open.spotify.com/track/4nuq3ahtDol0fj6oBOpc2b) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [The Artist](https://open.spotify.com/album/4lYhbvNpqi84aKPr6FiX85) | 3:38 | 2024-02-07 |  |
 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 | 2024-02-07 |  |
@@ -143,7 +144,8 @@
 | [La Familia](https://open.spotify.com/track/7gwDqZmkyNf5YCSXpxLWwd) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Islah \(Deluxe\)](https://open.spotify.com/album/5Hs43ta4vAYKRRRR7DKjt9) | 3:50 | 2024-02-07 |  |
 | [Lady Patra](https://open.spotify.com/track/538KWiWJHJ2FgJu0ndaANF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:56 | 2024-02-07 |  |
 | [LBD](https://open.spotify.com/track/3c0uKKorZypy13KkO1u8AD) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LBD](https://open.spotify.com/album/4HjMn5cTiTU7LkG4GcKDjg) | 3:23 | 2024-02-07 |  |
-| [Level Up](https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 3:24 | 2024-02-07 |  |
+| [Level Up](https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 3:24 | 2024-02-07 | 2024-11-04 |
+| [Level Up](https://open.spotify.com/track/7ssEhls1ZYEGtBsoovkMSe) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:24 | 2024-11-03 |  |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-09-21 | 2024-09-23 |
 | [LIFETIMES](https://open.spotify.com/track/3nU3tjDAExd2WnqDwdsWdi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 3:12 | 2024-09-22 |  |
 | [Lighthouse](https://open.spotify.com/track/2rN51xbGi6n0kB72PBwQQT) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Lighthouse](https://open.spotify.com/album/0ITz7kMihqY42O79jazQTz) | 3:36 | 2024-02-07 |  |
@@ -220,7 +222,8 @@
 | [Runnin'](https://open.spotify.com/track/0lgVoUJ2uVH9dwCFPJ3VI6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt) | [Lace Up \(Deluxe\)](https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ) | 2:47 | 2024-02-07 |  |
 | [Save My Soul](https://open.spotify.com/track/2r6DJtkGe7BumeqcEt0GKI) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 4:01 | 2024-02-07 |  |
 | [Secrets](https://open.spotify.com/track/5pAaXHSlxNLfS6RQBrpjm5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Secrets](https://open.spotify.com/album/3ETzU5ugHCLSTN2xCgfoBK) | 3:46 | 2024-02-07 |  |
-| [Set](https://open.spotify.com/track/07wgGPEouPHZ2fqB4zcwRL) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 2:56 | 2024-02-07 |  |
+| [Set](https://open.spotify.com/track/07wgGPEouPHZ2fqB4zcwRL) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 2:56 | 2024-02-07 | 2024-11-04 |
+| [Set](https://open.spotify.com/track/0RdtNKSNJ3mkg7W988BjGN) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 2:56 | 2024-11-03 |  |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2024-02-07 |  |
 | [Sex in the Bathroom \[Ph Electro Remix\]](https://open.spotify.com/track/2BE8RCIL9G9XvW81tnqLlY) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [PH Electro](https://open.spotify.com/artist/6bwJA8gugndMQxiuMsnYDV) | [Swagg \(Remix Edition\)](https://open.spotify.com/album/2N5vfKSQ6dvGGl9hB0Fpnc) | 3:35 | 2024-09-12 |  |
 | [Sex in the Bathroom \[Ph Electro Remix\]](https://open.spotify.com/track/72B0PF7qmqPYLCbgIzZrvQ) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [PH Electro](https://open.spotify.com/artist/6bwJA8gugndMQxiuMsnYDV) | [Swagg \(Remix Edition\)](https://open.spotify.com/album/1yBOFhH3Sb4HgPxo8M2jRf) | 3:35 | 2024-02-07 | 2024-09-13 |

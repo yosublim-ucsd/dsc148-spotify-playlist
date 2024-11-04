@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Kapo, Manuel Turizo",
-  "num_followers": 964792,
+  "num_followers": 964768,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,18 @@
     {
       "added_at": "2024-10-28 13:43:21",
       "album": {
-        "name": "Hasta Aqu\u00ed Llegu\u00e9",
-        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 188887,
-      "name": "Hasta Aqu\u00ed Llegu\u00e9",
-      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2024-10-28 13:43:21",
@@ -175,18 +171,22 @@
     {
       "added_at": "2024-10-28 13:43:21",
       "album": {
-        "name": "Frente al Mar",
-        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
+        "name": "Hasta Aqu\u00ed Llegu\u00e9",
+        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
       },
       "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
         {
           "name": "Be\u00e9le",
           "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 165178,
-      "name": "Frente al Mar",
-      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
+      "duration_ms": 188887,
+      "name": "Hasta Aqu\u00ed Llegu\u00e9",
+      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
     },
     {
       "added_at": "2024-10-28 13:43:21",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-10-28 13:43:21",
       "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+        "name": "Frente al Mar",
+        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+      "duration_ms": 165178,
+      "name": "Frente al Mar",
+      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
     },
     {
       "added_at": "2024-10-28 13:43:21",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-10-28 13:43:21",
       "album": {
+        "name": "Me has invitado a bailar",
+        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Me has invitado a bailar",
+      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
+    },
+    {
+      "added_at": "2024-10-28 13:43:21",
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 167315,
       "name": "De Vuelta",
       "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
-    },
-    {
-      "added_at": "2024-10-28 13:43:21",
-      "album": {
-        "name": "Me has invitado a bailar",
-        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Me has invitado a bailar",
-      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
     },
     {
       "added_at": "2024-10-28 13:43:21",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-10-28 13:43:21",
       "album": {
+        "name": "Mil preguntas",
+        "url": "https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq"
+      },
+      "artists": [
+        {
+          "name": "Marina Reche",
+          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
+        }
+      ],
+      "duration_ms": 199701,
+      "name": "Mil preguntas",
+      "url": "https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr"
+    },
+    {
+      "added_at": "2024-10-28 13:43:21",
+      "album": {
         "name": "Like I Can (feat. Aitana)",
         "url": "https://open.spotify.com/album/5CdGQuW80JtOwCSBML58vf"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 166707,
       "name": "Like I Can (feat. Aitana)",
       "url": "https://open.spotify.com/track/76DAOP9X3FuBHlVEBkr5Jl"
-    },
-    {
-      "added_at": "2024-10-28 13:43:21",
-      "album": {
-        "name": "Mil preguntas",
-        "url": "https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq"
-      },
-      "artists": [
-        {
-          "name": "Marina Reche",
-          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
-        }
-      ],
-      "duration_ms": 199701,
-      "name": "Mil preguntas",
-      "url": "https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr"
     },
     {
       "added_at": "2024-10-28 13:43:21",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-10-28 13:43:21",
       "album": {
-        "name": "te vas a inventar",
-        "url": "https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj"
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/4yd3rl2coMyT0IB3ZYOqfE"
       },
       "artists": [
         {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+          "name": "Marina Reche",
+          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
         }
       ],
-      "duration_ms": 172029,
-      "name": "te vas a inventar",
-      "url": "https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1"
+      "duration_ms": 223690,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/5kuY0tpdSmI3tSuCxjxR0B"
     },
     {
       "added_at": "2024-10-28 13:43:21",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-10-28 13:43:21",
       "album": {
+        "name": "te vas a inventar",
+        "url": "https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 172029,
+      "name": "te vas a inventar",
+      "url": "https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1"
+    },
+    {
+      "added_at": "2024-10-28 13:43:21",
+      "album": {
         "name": "INSOMNIO",
         "url": "https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 218710,
       "name": "INSOMNIO",
       "url": "https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi"
-    },
-    {
-      "added_at": "2024-10-28 13:43:21",
-      "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/4yd3rl2coMyT0IB3ZYOqfE"
-      },
-      "artists": [
-        {
-          "name": "Marina Reche",
-          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
-        }
-      ],
-      "duration_ms": 223690,
-      "name": "As\u00ed",
-      "url": "https://open.spotify.com/track/5kuY0tpdSmI3tSuCxjxR0B"
     },
     {
       "added_at": "2024-10-28 13:43:21",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-10-28 13:43:21",
       "album": {
+        "name": "Volverte a Querer",
+        "url": "https://open.spotify.com/album/33rki7QSD9lUoefJ7Yer9O"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Volverte a Querer",
+      "url": "https://open.spotify.com/track/6118gUtirfjFpTPWyDwMbj"
+    },
+    {
+      "added_at": "2024-10-28 13:43:21",
+      "album": {
         "name": "no te deseo lo peor :)",
         "url": "https://open.spotify.com/album/3z0TbCpug2bRGgWmODsWi5"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 189781,
       "name": "no te deseo lo peor :)",
       "url": "https://open.spotify.com/track/5fVa9nTKfq2Hy15jnOrer0"
-    },
-    {
-      "added_at": "2024-10-28 13:43:21",
-      "album": {
-        "name": "Volverte a Querer",
-        "url": "https://open.spotify.com/album/33rki7QSD9lUoefJ7Yer9O"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Volverte a Querer",
-      "url": "https://open.spotify.com/track/6118gUtirfjFpTPWyDwMbj"
     },
     {
       "added_at": "2024-10-28 13:43:21",

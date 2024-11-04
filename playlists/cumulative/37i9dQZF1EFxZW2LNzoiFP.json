@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Crawl Space",
+        "url": "https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229653,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3jv19EOgUgMOe9sncJ4qnb"
+    },
+    {
+      "album": {
         "name": "Cry At The Comedy",
         "url": "https://open.spotify.com/album/3JMsDLmsd4OOaITbhBR6PL"
       },

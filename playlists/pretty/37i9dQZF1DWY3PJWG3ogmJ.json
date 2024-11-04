@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 672064,
+  "num_followers": 672124,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-07-19 14:07:01",
       "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 315177,
-      "name": "Nero Forte",
-      "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
-    },
-    {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
         "name": "Ronald",
         "url": "https://open.spotify.com/album/01GsZ4orxT9LHqCru5Pnz2"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 196754,
       "name": "Ronald",
       "url": "https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 315177,
+      "name": "Nero Forte",
+      "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
     },
     {
       "added_at": "2024-07-19 10:55:24",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-19 14:07:01",
       "album": {
-        "name": "TOMBSTONE",
-        "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "TOMBSTONE",
-      "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
-    },
-    {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 219676,
       "name": "Divine",
       "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "TOMBSTONE",
+        "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "TOMBSTONE",
+      "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -563,6 +563,38 @@
       "duration_ms": 207398,
       "name": "All Pride No Pain",
       "url": "https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Inked in Blood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k"
+      },
+      "artists": [
+        {
+          "name": "Obituary",
+          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
+        }
+      ],
+      "duration_ms": 254118,
+      "name": "Visions in My Head",
+      "url": "https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Hornet's Nest",
+        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 279811,
+      "name": "Hornet's Nest",
+      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -603,18 +635,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Inked in Blood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k"
+        "name": "Supremacy",
+        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
       },
       "artists": [
         {
-          "name": "Obituary",
-          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
         }
       ],
-      "duration_ms": 254118,
-      "name": "Visions in My Head",
-      "url": "https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD"
+      "duration_ms": 169546,
+      "name": "To the Threshold",
+      "url": "https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -631,38 +663,6 @@
       "duration_ms": 337212,
       "name": "The Beauty of Suffering",
       "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Hornet's Nest",
-        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 279811,
-      "name": "Hornet's Nest",
-      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Supremacy",
-        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "To the Threshold",
-      "url": "https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Scratch the Surface",
+      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Elegy",
         "url": "https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 322153,
       "name": "Blood in the Sands of Time",
       "url": "https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Scratch the Surface",
-      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "In Darkness",
-        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
-      },
-      "artists": [
-        {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "In Darkness",
-      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Legacy of Shi",
         "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 191746,
       "name": "Nekketsu",
       "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "In Darkness",
+        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
+      },
+      "artists": [
+        {
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "In Darkness",
+      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Poverty of Self",
-        "url": "https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU"
-      },
-      "artists": [
-        {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
-        }
-      ],
-      "duration_ms": 205669,
-      "name": "Poverty of Self",
-      "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 249901,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Poverty of Self",
+        "url": "https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 205669,
+      "name": "Poverty of Self",
+      "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "ManiaCult",
-        "url": "https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir"
-      },
-      "artists": [
-        {
-          "name": "Aborted",
-          "url": "https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "ManiaCult",
-      "url": "https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Crook",
         "url": "https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 178307,
       "name": "I Am No Good",
       "url": "https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "ManiaCult",
+        "url": "https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir"
+      },
+      "artists": [
+        {
+          "name": "Aborted",
+          "url": "https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "ManiaCult",
+      "url": "https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn"
     },
     {
       "added_at": "2023-01-18 15:54:17",

@@ -751,6 +751,32 @@
     },
     {
       "album": {
+        "name": "Luna (Sonando Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        },
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321493,
+      "name": "Luna - Sonando Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY"
+    },
+    {
+      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -918,7 +944,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 186693,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql"

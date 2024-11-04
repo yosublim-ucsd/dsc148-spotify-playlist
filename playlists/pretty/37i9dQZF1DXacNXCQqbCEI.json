@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 353972,
+  "num_followers": 353979,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/2Fqn3yj8vWJKUK6fXaLd3w"
       },
@@ -331,6 +315,42 @@
       "duration_ms": 286000,
       "name": "Jardines",
       "url": "https://open.spotify.com/track/0mtF7aTcgLR6uhx28ovali"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 313198,
+      "name": "Sin Freno",
+      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -367,26 +387,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Astra",
-        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        },
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 313198,
-      "name": "Sin Freno",
-      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Conciencia",
         "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
       },
@@ -399,6 +399,46 @@
       "duration_ms": 210731,
       "name": "Bogot\u00e1",
       "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+        }
+      ],
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Como Lo Ped\u00ed",
+      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -423,22 +463,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Cuando Canto Grito",
-        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+        "name": "DANZAAA",
+        "url": "https://open.spotify.com/album/5qTwb1KGly0bTI9KhBr1OT"
       },
       "artists": [
         {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
         },
         {
-          "name": "Luc\u00eda Pulido",
-          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 341074,
-      "name": "Cuando Canto Grito",
-      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+      "duration_ms": 210989,
+      "name": "CACHITO",
+      "url": "https://open.spotify.com/track/1mTsiEqpM76pUo1nn8bkGz"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -471,26 +511,6 @@
       "duration_ms": 213146,
       "name": "Tamarugal (Para de Mirarme)",
       "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Como Lo Ped\u00ed",
-      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -547,26 +567,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "DANZAAA",
-        "url": "https://open.spotify.com/album/5qTwb1KGly0bTI9KhBr1OT"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        },
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "CACHITO",
-      "url": "https://open.spotify.com/track/1mTsiEqpM76pUo1nn8bkGz"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Indus Meets Palenque Records, Vol. 2",
         "url": "https://open.spotify.com/album/6ZhlLTZtTuVyH3W3O079p2"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 308213,
       "name": "Efecto Manglar",
       "url": "https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Varias Dudas Despu\u00e9s",
+        "url": "https://open.spotify.com/album/34fVndRedzzRL0wCMNeavG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Me Recordaras",
+      "url": "https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -699,6 +715,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "El Sonido de las Lobas",
+        "url": "https://open.spotify.com/album/3vTBoO0EqS3yqtQ1mCPtjo"
+      },
+      "artists": [
+        {
+          "name": "Elegante & La Imperial",
+          "url": "https://open.spotify.com/artist/4CJ85bxslxMaG092YvHV27"
+        }
+      ],
+      "duration_ms": 260992,
+      "name": "Puro Comer",
+      "url": "https://open.spotify.com/track/1qPhcG9LKdW4MgAvR6yPx1"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Cumbias Imaquinarias - EP",
         "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
       },
@@ -711,22 +743,6 @@
       "duration_ms": 300000,
       "name": "La Cumbia De La Ansiedad",
       "url": "https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
-      },
-      "artists": [
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 231875,
-      "name": "Tambor Del Monte",
-      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -751,18 +767,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Varias Dudas Despu\u00e9s",
-        "url": "https://open.spotify.com/album/34fVndRedzzRL0wCMNeavG"
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
       },
       "artists": [
         {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
         }
       ],
-      "duration_ms": 253626,
-      "name": "Me Recordaras",
-      "url": "https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo"
+      "duration_ms": 231875,
+      "name": "Tambor Del Monte",
+      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -779,22 +795,6 @@
       "duration_ms": 300000,
       "name": "Levanta Muertos",
       "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "El Sonido de las Lobas",
-        "url": "https://open.spotify.com/album/3vTBoO0EqS3yqtQ1mCPtjo"
-      },
-      "artists": [
-        {
-          "name": "Elegante & La Imperial",
-          "url": "https://open.spotify.com/artist/4CJ85bxslxMaG092YvHV27"
-        }
-      ],
-      "duration_ms": 260992,
-      "name": "Puro Comer",
-      "url": "https://open.spotify.com/track/1qPhcG9LKdW4MgAvR6yPx1"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -971,8 +971,8 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Altamar",
-        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
+        "name": "El Cafetal",
+        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
       },
       "artists": [
         {
@@ -980,29 +980,9 @@
           "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
         }
       ],
-      "duration_ms": 289186,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Alientos",
-        "url": "https://open.spotify.com/album/6hBvd81RW9NF5epZx07lfH"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Ghetto Kumb\u00e9",
-          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
-        }
-      ],
-      "duration_ms": 283636,
-      "name": "Alientos",
-      "url": "https://open.spotify.com/track/0rWM6crTli6lBYVqRvH2oW"
+      "duration_ms": 244660,
+      "name": "El Cafetal",
+      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1027,26 +1007,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Momoto",
-        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
-      },
-      "artists": [
-        {
-          "name": "Onda Mundial",
-          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
-        },
-        {
-          "name": "Klik & Frik",
-          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
-        }
-      ],
-      "duration_ms": 459720,
-      "name": "Momoto",
-      "url": "https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "No M\u00e1s Velorio (El B\u00faho Remix)",
         "url": "https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU"
       },
@@ -1067,18 +1027,42 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "El Cafetal",
-        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
+        "name": "Momoto",
+        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
       },
       "artists": [
         {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+          "name": "Onda Mundial",
+          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
+        },
+        {
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
         }
       ],
-      "duration_ms": 244660,
-      "name": "El Cafetal",
-      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
+      "duration_ms": 459720,
+      "name": "Momoto",
+      "url": "https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Alientos",
+        "url": "https://open.spotify.com/album/6hBvd81RW9NF5epZx07lfH"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Ghetto Kumb\u00e9",
+          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
+        }
+      ],
+      "duration_ms": 283636,
+      "name": "Alientos",
+      "url": "https://open.spotify.com/track/0rWM6crTli6lBYVqRvH2oW"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1095,6 +1079,38 @@
       "duration_ms": 179634,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "El Corredor Del Jaguar",
+        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Frio Severo",
+      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Siesta",
+        "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
+      },
+      "artists": [
+        {
+          "name": "Barulinho",
+          "url": "https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH"
+        }
+      ],
+      "duration_ms": 233739,
+      "name": "Kalimba Nara",
+      "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1119,22 +1135,6 @@
       "duration_ms": 271335,
       "name": "Las Mellas - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "El Corredor Del Jaguar",
-        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Frio Severo",
-      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

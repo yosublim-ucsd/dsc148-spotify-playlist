@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,743 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,745 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 19 | [Till It Ends](https://open.spotify.com/track/030qfBYqMej6nV1T5JWWuU) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 3:01 |
 | 20 | [Texas Qld 4385 \- Remastered 2017](https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 4:08 |
 | 21 | [Southern Son \- Remastered 2017](https://open.spotify.com/track/2qPzCg34BXSB88kOwfzKRG) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 4:01 |
-| 22 | [I'm from the Country](https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG) | [Travis Sinclair](https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Rhythm of the Highway \(Tamworth Edition\)](https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm) | 3:34 |
+| 22 | [Ute Me](https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:04 |
 | 23 | [Wheels](https://open.spotify.com/track/1UA9G0IC6SfniPTA7bm7EB) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 2:51 |
-| 24 | [Ute Me](https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:04 |
+| 24 | [I'm from the Country](https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG) | [Travis Sinclair](https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Rhythm of the Highway \(Tamworth Edition\)](https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm) | 3:34 |
 | 25 | [Lights on the Hill](https://open.spotify.com/track/0Odp6NXvX6Rhq6tiRJbkCl) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Beautiful Noise \(Deluxe Edition\)](https://open.spotify.com/album/4zxVQlfTfrEFNmQTHYjF1X) | 3:30 |
 | 26 | [Spirit of the Bush \- Remastered 2017](https://open.spotify.com/track/2h1nMiUCpMA3kLrtjIUe8h) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Spirit of the Bush \(Remastered 2017\)](https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB) | 3:33 |
 | 27 | [Keep on Truckin'](https://open.spotify.com/track/3svcVzSWjzyg4tdZlCx343) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 49 | [When the First Bombs Fell](https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:32 |
 | 50 | [Country Girls \- Remastered 2017](https://open.spotify.com/track/1tyzGSuHVIm1ByThDPOTM7) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The Outback Club](https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr) | 3:14 |
 
-Snapshot ID: `ZyQaAAAAAAB1U013LxbKNPAtH36KJ9mD`
+Snapshot ID: `ZyVrgAAAAAAOOWJzACem74ui+lF2o0k0`

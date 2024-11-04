@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 221394,
+  "num_followers": 221410,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAABQ1e/qNVip3pfFL/ZUE1Rm",
+  "snapshot_id": "ZyVrgAAAAACgHg1YCbh8mRJhTOYCxZOP",
   "tracks": [
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man",
-        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 452306,
-      "name": "Sha La La Means I Love You",
-      "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Another Way To Say I Love You",
         "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 302493,
       "name": "Heavenly, That's What You Are To Me",
       "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 452306,
+      "name": "Sha La La Means I Love You",
+      "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
     }
   ],
   "unique_name": "This Is Barry White",

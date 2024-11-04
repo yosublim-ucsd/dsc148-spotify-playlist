@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 342308,
+  "num_followers": 342385,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAABF2mIi58H3odFzis5tEIsY",
+  "snapshot_id": "ZyVrgAAAAAB65QYyPF3bcDFNG9C5yOfJ",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amores",
-        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tierra De Nadie",
         "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 227600,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/5qGx6HUkOxs0NGvPzn9qrz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Un Mismo Corazon",
+        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "A Pesar de Todo",
+      "url": "https://open.spotify.com/track/5f3AqtwIWpWW9Oq31AJHNd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conquistando Corazones",
         "url": "https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 224653,
       "name": "Y Aqu\u00ed Estoy",
       "url": "https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Un Mismo Corazon",
-        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 228826,
-      "name": "A Pesar de Todo",
-      "url": "https://open.spotify.com/track/5f3AqtwIWpWW9Oq31AJHNd"
     },
     {
       "added_at": null,

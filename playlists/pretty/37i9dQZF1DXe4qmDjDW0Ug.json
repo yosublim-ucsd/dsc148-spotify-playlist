@@ -1,6 +1,6 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13787,
+  "num_followers": 13790,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -151,42 +151,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 288915,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 211972,
-      "name": "\ud480\uc5b4",
-      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
       },
@@ -207,6 +171,22 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 288915,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 210258,
       "name": "IF I WERE YOU",
       "url": "https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 211972,
+      "name": "\ud480\uc5b4",
+      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -263,42 +263,18 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "I'm Not Sorry",
-        "url": "https://open.spotify.com/album/59CGYWCNXuLHADvHwBHMhv"
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
       },
       "artists": [
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
         }
       ],
-      "duration_ms": 209095,
-      "name": "I'm Not Sorry",
-      "url": "https://open.spotify.com/track/7AoK7YuZ5sQYtPofTFElIE"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "24\u2103",
-        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 194596,
-      "name": "NO ONE",
-      "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
+      "duration_ms": 227021,
+      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
+      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -355,34 +331,42 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+        "name": "I'm Not Sorry",
+        "url": "https://open.spotify.com/album/59CGYWCNXuLHADvHwBHMhv"
       },
       "artists": [
         {
           "name": "DEAN",
           "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 207129,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
+      "duration_ms": 209095,
+      "name": "I'm Not Sorry",
+      "url": "https://open.spotify.com/track/7AoK7YuZ5sQYtPofTFElIE"
     },
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         }
       ],
-      "duration_ms": 227021,
-      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
-      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
+      "duration_ms": 194596,
+      "name": "NO ONE",
+      "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -435,18 +419,18 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Miss Ripley OST",
-        "url": "https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5"
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
       },
       "artists": [
         {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
         }
       ],
-      "duration_ms": 241690,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/5rXek3NJpCQfJxOjaKrj6j"
+      "duration_ms": 240920,
+      "name": "Only Look At Me (\ub098\ub9cc \ubc14\ub77c\ubd10)",
+      "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -467,18 +451,18 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+        "name": "Miss Ripley OST",
+        "url": "https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
         }
       ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
+      "duration_ms": 241690,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/5rXek3NJpCQfJxOjaKrj6j"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -490,15 +474,11 @@
         {
           "name": "DEAN",
           "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         }
       ],
-      "duration_ms": 216559,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
+      "duration_ms": 207129,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -535,8 +515,8 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Solar International",
-        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
       },
       "artists": [
         {
@@ -544,31 +524,15 @@
           "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
         }
       ],
-      "duration_ms": 240920,
-      "name": "Only Look At Me (\ub098\ub9cc \ubc14\ub77c\ubd10)",
-      "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
+      "duration_ms": 191793,
+      "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
+      "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
     },
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 234633,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
       },
       "artists": [
         {
@@ -576,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
         }
       ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -599,6 +563,42 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 216559,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 234633,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
         "name": "Want to fall in love",
         "url": "https://open.spotify.com/album/4AJjXoKd9JVW1MI14Qulj0"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 234533,
       "name": "Want to fall in love",
       "url": "https://open.spotify.com/track/0JrxJyLzc4dRNHE1Kcyycm"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -679,22 +695,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 191793,
-      "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
-      "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "Parallax",
         "url": "https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 247333,
       "name": "Come Back to Me",
       "url": "https://open.spotify.com/track/6ieC9SkXMQQPEJSpq69z4K"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "Soul Free",
-        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 293680,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -775,22 +759,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Gift",
-        "url": "https://open.spotify.com/album/12UzJwaPZVN6JMSirhn6NB"
-      },
-      "artists": [
-        {
-          "name": "Lena Park",
-          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
-        }
-      ],
-      "duration_ms": 297036,
-      "name": "I hope It would be that way now",
-      "url": "https://open.spotify.com/track/7JwuKDRmTGtiNoUo0HhSyr"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "YG 10th Anniversary",
         "url": "https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5"
       },
@@ -823,18 +791,34 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Let's start our love again",
-        "url": "https://open.spotify.com/album/1wizL9Nmk6BRuQyH8LhfKL"
+        "name": "Soul Free",
+        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
       },
       "artists": [
         {
-          "name": "Johan Kim",
-          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
         }
       ],
-      "duration_ms": 267232,
-      "name": "Let's start our love again",
-      "url": "https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L"
+      "duration_ms": 293680,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/12UzJwaPZVN6JMSirhn6NB"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        }
+      ],
+      "duration_ms": 297036,
+      "name": "I hope It would be that way now",
+      "url": "https://open.spotify.com/track/7JwuKDRmTGtiNoUo0HhSyr"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -851,6 +835,22 @@
       "duration_ms": 257333,
       "name": "Just One Day",
       "url": "https://open.spotify.com/track/1UEHM8m4GswZLNykPkInEy"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "YG 10th Anniversary",
+        "url": "https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "If You Comeback",
+      "url": "https://open.spotify.com/track/3XO4hgrYpLYA5z8n9UCuiH"
     }
   ],
   "unique_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",

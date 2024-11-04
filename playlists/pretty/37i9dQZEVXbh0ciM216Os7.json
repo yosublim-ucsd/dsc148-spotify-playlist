@@ -6,8 +6,168 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADR0wcbcR4s+LamC9MgrPiF",
+  "snapshot_id": "AAAAAAAAAACJNDr20OYJqKmhyVWSwV55",
   "tracks": [
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 197019,
+      "name": "St. Chroma (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 255915,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Thick Of It (Remix) [feat. Trippie Redd & NLE Choppa]",
+        "url": "https://open.spotify.com/album/1O3KQ58jc3UDO4MR1ySTX9"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 160842,
+      "name": "Thick Of It (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/6wrpz2MLTN97nYn4hwDhFo"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+      "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "LaToiya Williams",
+          "url": "https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM"
+        }
+      ],
+      "duration_ms": 253909,
+      "name": "Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams)",
+      "url": "https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 154261,
+      "name": "Balloon (feat. Doechii)",
+      "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 176034,
+      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
+    },
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
@@ -23,46 +183,6 @@
       "duration_ms": 138323,
       "name": "Chill Bae",
       "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "EAST TO THE WEST",
-        "url": "https://open.spotify.com/album/6rfex3jzUGitiIFZYXRyJG"
-      },
-      "artists": [
-        {
-          "name": "Pexxa",
-          "url": "https://open.spotify.com/artist/6MXIASQqWSjWXS2T8whcz3"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 195427,
-      "name": "EAST TO THE WEST",
-      "url": "https://open.spotify.com/track/5wlV1N4hOZbK8OPCjJdEQA"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Hey Rudy",
-        "url": "https://open.spotify.com/album/3eiocwg4ruTp6TaEKelCen"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Fallon",
-          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
-        },
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 160007,
-      "name": "Hey Rudy (with The Roots)",
-      "url": "https://open.spotify.com/track/04IzM8tyRnsjN6Em9LNBpR"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -83,26 +203,6 @@
       "duration_ms": 157867,
       "name": "Money 'N' Bitches (ft. Danny Brown) - Remix",
       "url": "https://open.spotify.com/track/27SrGib7ZLuMiyFl6n6exs"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "The Workload",
-        "url": "https://open.spotify.com/album/1Y8hWm20UTS2V3IvmWK0DY"
-      },
-      "artists": [
-        {
-          "name": "Skyzoo",
-          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "The Workload",
-      "url": "https://open.spotify.com/track/6IrG5DFdKKotGMbkg4Qoow"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -151,22 +251,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Spirit Box",
-        "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
+        "name": "I Send a Message (Vocal Remixed Version)",
+        "url": "https://open.spotify.com/album/37BRhaCQLlvL3Li1Ms2se0"
       },
       "artists": [
         {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
         }
       ],
-      "duration_ms": 172338,
-      "name": "Let Me Cook",
-      "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
+      "duration_ms": 300000,
+      "name": "I Send a Message - Vocal Remixed Version",
+      "url": "https://open.spotify.com/track/1EX0ypIZAyVIFOq7syrewU"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -191,86 +287,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "I Send a Message (Vocal Remixed Version)",
-        "url": "https://open.spotify.com/album/37BRhaCQLlvL3Li1Ms2se0"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "I Send a Message - Vocal Remixed Version",
-      "url": "https://open.spotify.com/track/1EX0ypIZAyVIFOq7syrewU"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Boneyard Cypher Volume II",
-        "url": "https://open.spotify.com/album/4cbDuHXzhpJiSnsXFHcJeU"
-      },
-      "artists": [
-        {
-          "name": "Zack Bone",
-          "url": "https://open.spotify.com/artist/2pRQ3QqVuVNi34FqnIqpOP"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Dirrty B",
-          "url": "https://open.spotify.com/artist/7sMdEFKLItyR1Pmj2JOon8"
-        },
-        {
-          "name": "Saint B",
-          "url": "https://open.spotify.com/artist/7gBZSnuuLirdlgGi9Qsl2N"
-        }
-      ],
-      "duration_ms": 214045,
-      "name": "Boneyard Cypher Volume II",
-      "url": "https://open.spotify.com/track/5SREWCUWs21jqplpbKmK7J"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Feeling So Real 2024",
-        "url": "https://open.spotify.com/album/5ooyW11I1KrkzS2nE3ZPCY"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Feeling So Real 2024",
-      "url": "https://open.spotify.com/track/4bzrhnr9taRlRvKgoPEl4p"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Helen's Theme (Electric Guitar Version)",
-        "url": "https://open.spotify.com/album/2OmPt3bNutz6nMeEjBD7Fv"
-      },
-      "artists": [
-        {
-          "name": "Sergio Sorrentino",
-          "url": "https://open.spotify.com/artist/2hV0tEHHlVNNr8qxpBr1qN"
-        },
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        }
-      ],
-      "duration_ms": 80136,
-      "name": "Helen's Theme - Electric Guitar Version",
-      "url": "https://open.spotify.com/track/33hiqXry5A2Ziq0sylcmHC"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "In Paris - The complete 1955-1956 Barclay sessions",
         "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
       },
@@ -283,58 +299,6 @@
       "duration_ms": 186866,
       "name": "Dinah - Complete Take 2",
       "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "My Funny Valentine (Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert])",
-        "url": "https://open.spotify.com/album/5DDiKk0BqvLTHEWckejdE3"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 740098,
-      "name": "My Funny Valentine - Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert]",
-      "url": "https://open.spotify.com/track/7C5x1Us4oj2LUjzXvLSyyT"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Move (feat. Camila Cabello)",
-        "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
-      },
-      "artists": [
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        },
-        {
-          "name": "Malachiii",
-          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
-        },
-        {
-          "name": "Orso",
-          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
-        }
-      ],
-      "duration_ms": 180236,
-      "name": "Move (feat. Camila Cabello)",
-      "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -427,26 +391,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "How to Impress God",
-        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No ID",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "How to Impress God",
-      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
       },
@@ -487,38 +431,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 154983,
-      "name": "American Idiot (Alt. Version) - Demo",
-      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/3EmpiBiVuoGvd2WI0lD4ZY"
-      },
-      "artists": [
-        {
-          "name": "Qveen Herby",
-          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 146957,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/0PL8Noq0tGCl4NJPjwSvTR"
+      "duration_ms": 183193,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -539,22 +463,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Smoke",
-        "url": "https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 183193,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "The Kickflip",
         "url": "https://open.spotify.com/album/7qeYu5SHMSBsNWMa2kdz30"
       },
@@ -571,22 +479,6 @@
       "duration_ms": 171105,
       "name": "Beat the Bass up",
       "url": "https://open.spotify.com/track/0VlL5Cr6q7c9vptbS8A5lB"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "King Illusion",
-        "url": "https://open.spotify.com/album/3cuVbtM9fc7vmcS0BC7toy"
-      },
-      "artists": [
-        {
-          "name": "The Cost",
-          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
-        }
-      ],
-      "duration_ms": 241818,
-      "name": "King Illusion",
-      "url": "https://open.spotify.com/track/6Ia6oCCkZneqsbQFh5eH2P"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -623,26 +515,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "WIPLASH",
-        "url": "https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5LfSEltyBQ0o10ravNgvLM"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "3:AM (feat. Erykah Badu) [Slowed and Throwed in Dallas]",
         "url": "https://open.spotify.com/album/5NKcgx9HBSdS2xwqUbQf3F"
       },
@@ -667,30 +539,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Like A Tree It Grows",
-        "url": "https://open.spotify.com/album/23W15PVhBPoAUh2EcELrtW"
+        "name": "WIPLASH",
+        "url": "https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf"
       },
       "artists": [
         {
-          "name": "Igmar Thomas\u2019 Revive Big Band",
-          "url": "https://open.spotify.com/artist/7uIAgElmviS97UBia9I6BP"
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
         },
         {
-          "name": "Dr. Lonnie Smith",
-          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Gregoire Maret",
-          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 421094,
-      "name": "PLAY IT BACK",
-      "url": "https://open.spotify.com/track/6iIm2TCtfNPXODSL3P0z96"
+      "duration_ms": 186506,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5LfSEltyBQ0o10ravNgvLM"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -724,21 +588,21 @@
           "url": "https://open.spotify.com/artist/7uIAgElmviS97UBia9I6BP"
         },
         {
-          "name": "Raydar Ellis",
-          "url": "https://open.spotify.com/artist/47KSKJqnuS5OwOt1vo2z91"
+          "name": "Dr. Lonnie Smith",
+          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
         },
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         },
         {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+          "name": "Gregoire Maret",
+          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
         }
       ],
-      "duration_ms": 431950,
-      "name": "TO KINDA LOUNGE AROUND",
-      "url": "https://open.spotify.com/track/7nyhRSu4PFOJJtQ9ZXILB8"
+      "duration_ms": 421094,
+      "name": "PLAY IT BACK",
+      "url": "https://open.spotify.com/track/6iIm2TCtfNPXODSL3P0z96"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -763,26 +627,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Recurring (Live At King's Place)",
-        "url": "https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Amika Quartet",
-          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
-        }
-      ],
-      "duration_ms": 320826,
-      "name": "Decay",
-      "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Merci",
         "url": "https://open.spotify.com/album/6elZDCjnrPGBvIVfdKYLDw"
       },
@@ -803,22 +647,6 @@
       "duration_ms": 206346,
       "name": "Berceuse, Op. 16",
       "url": "https://open.spotify.com/track/4FwIwI5NGVUP4DrPwrweMz"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "The Essential Melody Gardot",
-        "url": "https://open.spotify.com/album/7wrIaVOzLdLi6kao638zAY"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 384827,
-      "name": "La Llorona - Live",
-      "url": "https://open.spotify.com/track/0yrzo7DTvSa21L2rGyafdT"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

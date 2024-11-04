@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14643,
+  "num_followers": 14646,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Central Park",
-        "url": "https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx"
+        "name": "Z\u0142ote Bloki",
+        "url": "https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR"
       },
       "artists": [
         {
-          "name": "IGNACY",
-          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Czekam Na Znak",
-      "url": "https://open.spotify.com/track/3c1r9SVeKBlhCNVybpLZb4"
+      "duration_ms": 191653,
+      "name": "Z\u0142oto",
+      "url": "https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Lisek i przyjaciele",
-        "url": "https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5"
+        "name": "Central Park",
+        "url": "https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx"
       },
       "artists": [
         {
-          "name": "\u015apiewaj\u0105ce Brzd\u0105ce",
-          "url": "https://open.spotify.com/artist/4oWxhgGK1UEaC2uwPmagSH"
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
         }
       ],
-      "duration_ms": 133442,
-      "name": "Mopsik klopsik",
-      "url": "https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy"
+      "duration_ms": 196160,
+      "name": "Czekam Na Znak",
+      "url": "https://open.spotify.com/track/3c1r9SVeKBlhCNVybpLZb4"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Z\u0142ote Bloki",
-        "url": "https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR"
+        "name": "Lisek i przyjaciele",
+        "url": "https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5"
       },
       "artists": [
         {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+          "name": "\u015apiewaj\u0105ce Brzd\u0105ce",
+          "url": "https://open.spotify.com/artist/4oWxhgGK1UEaC2uwPmagSH"
         }
       ],
-      "duration_ms": 191653,
-      "name": "Z\u0142oto",
-      "url": "https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb"
+      "duration_ms": 133442,
+      "name": "Mopsik klopsik",
+      "url": "https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "OMEN",
-        "url": "https://open.spotify.com/album/0kK9SKko1fs7wDayiYv4mD"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "Nieba nie ma",
-      "url": "https://open.spotify.com/track/2DSZJstkmFvGHA8iQO0b9G"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Produkcja Hip-Hop Ciemna/Jasna",
         "url": "https://open.spotify.com/album/47WX4JHl2oMXyXV6rPagKt"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 263625,
       "name": "Ja Si\u0119 Wcale Nie Chwal\u0119",
       "url": "https://open.spotify.com/track/6BGeRP62GNdpbiS4iGtI0Q"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "OMEN",
+        "url": "https://open.spotify.com/album/0kK9SKko1fs7wDayiYv4mD"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "Nieba nie ma",
+      "url": "https://open.spotify.com/track/2DSZJstkmFvGHA8iQO0b9G"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "IMAGO (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln"
+      },
+      "artists": [
+        {
+          "name": "Smolik",
+          "url": "https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR"
+        },
+        {
+          "name": "Y (BOKKA)",
+          "url": "https://open.spotify.com/artist/4RJYkHAe8ApeuIHWYkWCWy"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "IMAGO SWAN",
+      "url": "https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "COINCIDENCE",
         "url": "https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 127535,
       "name": "Coincidence - Part 1 - Prologue",
       "url": "https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "IMAGO (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln"
-      },
-      "artists": [
-        {
-          "name": "Smolik",
-          "url": "https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR"
-        },
-        {
-          "name": "Y (BOKKA)",
-          "url": "https://open.spotify.com/artist/4RJYkHAe8ApeuIHWYkWCWy"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "IMAGO SWAN",
-      "url": "https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY"
     },
     {
       "added_at": "2024-03-25 08:52:09",

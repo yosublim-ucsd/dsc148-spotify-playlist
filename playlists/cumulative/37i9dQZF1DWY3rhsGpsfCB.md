@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-682 songs - 1 day 11 hr 24 min
+683 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2022-07-14 | 2023-11-03 |
 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 | 2023-01-13 | 2023-02-17 |
 | [A Million Things](https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [A Million Things](https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv) | 3:07 | 2024-06-14 | 2024-09-10 |
-| [Abeke](https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Abeke](https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv) | 4:07 | 2024-07-05 |  |
+| [Abeke](https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Abeke](https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv) | 4:07 | 2024-07-05 | 2024-11-04 |
 | [act iv: fckin u again \(18+\)](https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [act iv: fckin u again \(18+\)](https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK) | 3:15 | 2024-07-19 |  |
 | [Addicted](https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:48 | 2023-06-02 | 2024-04-01 |
 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 | 2024-03-15 | 2024-05-09 |
@@ -484,6 +484,7 @@
 | [READY TOO](https://open.spotify.com/track/5q1AD0t4ztK2fOypsWm2P0) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [BayO](https://open.spotify.com/artist/5uJ2BDSYKsha939F2iA2UE), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 2:01 | 2024-10-04 | 2024-10-13 |
 | [Realize \(feat\. taves\)](https://open.spotify.com/track/5odFUgF0MS8DAnvlJpYdUd) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 2:13 | 2023-10-17 | 2024-06-28 |
 | [Reason](https://open.spotify.com/track/38saQwfh1lvAvmSNgBogyG) | [Ossi Grace](https://open.spotify.com/artist/6fEdaMsmpGlBN8z0WvEWSr) | [Reason](https://open.spotify.com/album/31BixmA8kWOTWx5JYfoLAr) | 2:42 | 2024-10-25 |  |
+| [RECKLESS](https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti), [Rai Anvio](https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u) | [RECKLESS](https://open.spotify.com/album/4zGdm3XwogvJ62gxsSeM77) | 3:56 | 2024-10-25 |  |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-17 | 2023-09-15 |
 | [recognize](https://open.spotify.com/track/6ezXpXqbGqIwxUuVBMpHTp) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 1:23 | 2022-07-14 | 2022-08-30 |
 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 | 2023-06-03 |

@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen\. <br/>Foto: Mariana Bfly.
 
-907 songs - 2 day 2 hr 24 min
+908 songs - 2 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,8 @@
 | [Detonación \- Remix](https://open.spotify.com/track/6uuXd49EnESdqwsvBp6JNc) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Rey Secreto](https://open.spotify.com/album/0uvDf9ljskD5hI9XxvBIJI) | 3:52 | 2022-11-30 | 2023-01-05 |
 | [DETOXXX](https://open.spotify.com/track/5LeJOc72vBnf8xDrvuN1XS) | [Fresasalvaje](https://open.spotify.com/artist/0jkwMYMjUbP8gaS0qMFvE2), [DOLORE$](https://open.spotify.com/artist/16RdRiJp9xtCnPsYm65iZU) | [DETOXXX](https://open.spotify.com/album/1CuyEpZ9p9EJ0WYQ5ipyXh) | 3:18 | 2023-07-05 | 2023-08-03 |
 | [Devorarte](https://open.spotify.com/track/66JRlkCDrKxJo25iBqO2Co) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Vida Mía ♡](https://open.spotify.com/album/0lodGLPms9cyzlTtnuuHno) | 3:45 | 2022-07-06 | 2022-07-28 |
-| [DIABLO](https://open.spotify.com/track/1A4BLT4teAWuLw7XGkuY7O) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Macree](https://open.spotify.com/artist/2ug0FuyOBDhxMovvNYBXGg) | [DIABLO](https://open.spotify.com/album/2pV89AMcDndsgPlTmHD1p6) | 2:50 | 2024-09-04 |  |
+| [DIABLO](https://open.spotify.com/track/1A4BLT4teAWuLw7XGkuY7O) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Macree](https://open.spotify.com/artist/2ug0FuyOBDhxMovvNYBXGg) | [DIABLO](https://open.spotify.com/album/2pV89AMcDndsgPlTmHD1p6) | 2:50 | 2024-09-04 | 2024-11-04 |
+| [DIABLO](https://open.spotify.com/track/5MxlOWGhUEssS6bGBdgQ5G) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Macree](https://open.spotify.com/artist/2ug0FuyOBDhxMovvNYBXGg) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 2:50 | 2024-09-04 |  |
 | [diario de vida](https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [diario de vida](https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3) | 3:04 | 2022-08-03 | 2023-02-02 |
 | [Dicen](https://open.spotify.com/track/4VAE7BnAnIQgM5bMo98mu8) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Bzro89](https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t) | [Dicen](https://open.spotify.com/album/16hPxmwevmyL8esp9fU3fK) | 3:22 | 2023-11-29 | 2024-01-11 |
 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 | 2023-03-02 | 2023-04-06 |

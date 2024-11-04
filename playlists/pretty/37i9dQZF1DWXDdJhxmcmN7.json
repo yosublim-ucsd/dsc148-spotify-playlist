@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 31991,
+  "num_followers": 32004,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,26 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Cumbiero",
-        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 99000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
+      "duration_ms": 114000,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -227,26 +235,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
+        "name": "Cumbiero",
+        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
         }
       ],
-      "duration_ms": 114000,
-      "name": "Mi Pueblo",
-      "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
+      "duration_ms": 99000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -391,42 +391,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Ocaso Sin Fin",
-        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Vibrando Alto En Tulum",
-      "url": "https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Good things take time",
         "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
       },
@@ -499,6 +463,42 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Vibrando Alto En Tulum",
+      "url": "https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Amorcito coraz\u00f3n lofi",
         "url": "https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 109322,
       "name": "Amorcito coraz\u00f3n lofi",
       "url": "https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "La Villa",
-        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 144363,
-      "name": "La Villa",
-      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -567,22 +551,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Erick",
         "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
       },
@@ -595,22 +563,6 @@
       "duration_ms": 172528,
       "name": "Erick",
       "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Ay Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 97931,
-      "name": "Ay Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -651,22 +603,82 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+        "name": "La Villa",
+        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
       },
       "artists": [
         {
           "name": "Palmasur",
           "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 89044,
-      "name": "Lofi Recuerdame",
-      "url": "https://open.spotify.com/track/2xfCFNN5TfqVP5PtS2CFCz"
+      "duration_ms": 144363,
+      "name": "La Villa",
+      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Nos Usamos",
+        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Ay Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 97931,
+      "name": "Ay Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "como los ni\u00f1os",
+        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 150956,
+      "name": "como los ni\u00f1os",
+      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -691,8 +703,8 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Nos Usamos",
-        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
+        "name": "Abr\u00e1zame mucho estos d\u00edas",
+        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
       },
       "artists": [
         {
@@ -700,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -719,6 +731,26 @@
       "duration_ms": 141742,
       "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
       "url": "https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 89044,
+      "name": "Lofi Recuerdame",
+      "url": "https://open.spotify.com/track/2xfCFNN5TfqVP5PtS2CFCz"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -755,22 +787,6 @@
       "duration_ms": 148000,
       "name": "Dale Dale",
       "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "como los ni\u00f1os",
-        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 150956,
-      "name": "como los ni\u00f1os",
-      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -815,26 +831,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Chupacabras",
-        "url": "https://open.spotify.com/album/2V9cxrxeCsfwFmXydznu2B"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "Suerte Lo-Fi",
-          "url": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
-        }
-      ],
-      "duration_ms": 103562,
-      "name": "Chupacabras",
-      "url": "https://open.spotify.com/track/2nWORwmocK5bMkgwDTPhyd"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "cholula, puebla",
         "url": "https://open.spotify.com/album/2IVjHtScmP9CXP0kYiWpSp"
       },
@@ -851,38 +847,6 @@
       "duration_ms": 124044,
       "name": "cholula, puebla",
       "url": "https://open.spotify.com/track/2uEOoG0dkRThbmHPz7pOXF"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Abr\u00e1zame mucho estos d\u00edas",
-        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "El Tambor",
-        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
-      },
-      "artists": [
-        {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        }
-      ],
-      "duration_ms": 106357,
-      "name": "El Tambor",
-      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -907,6 +871,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "El Tambor",
+        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
+      },
+      "artists": [
+        {
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        }
+      ],
+      "duration_ms": 106357,
+      "name": "El Tambor",
+      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 142939,
       "name": "Ukulele en Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/42JzhKGXF2N2mEYkaMsyTu"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Chupacabras",
+        "url": "https://open.spotify.com/album/2V9cxrxeCsfwFmXydznu2B"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "Suerte Lo-Fi",
+          "url": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
+        }
+      ],
+      "duration_ms": 103562,
+      "name": "Chupacabras",
+      "url": "https://open.spotify.com/track/2nWORwmocK5bMkgwDTPhyd"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Buena Onda",
+        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Fear",
+          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Buena Onda",
+      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "woozy",
         "url": "https://open.spotify.com/album/76lS2gqtVbaRUMedAAzKN1"
       },
@@ -999,38 +1015,6 @@
       "duration_ms": 77846,
       "name": "woozy",
       "url": "https://open.spotify.com/track/0Cb6pz4XaDphvSDpJXHNWI"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "jazz y cdmx",
-        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        }
-      ],
-      "duration_ms": 121213,
-      "name": "jazz y cdmx",
-      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Buena Onda",
-        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
-      },
-      "artists": [
-        {
-          "name": "Stereo Fear",
-          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Buena Onda",
-      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1071,42 +1055,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
-      },
-      "artists": [
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
-        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Michoacansiedad",
-      "url": "https://open.spotify.com/track/0hiVmFhNCdxkF3mGF8bHpL"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
       },
@@ -1123,6 +1071,38 @@
       "duration_ms": 197802,
       "name": "Agua",
       "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "jazz y cdmx",
+        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        }
+      ],
+      "duration_ms": 121213,
+      "name": "jazz y cdmx",
+      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Shiny",
+        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1199,26 +1179,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/51xFLcdwo1QE7rwE6kNsnu"
-      },
-      "artists": [
-        {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
-        },
-        {
-          "name": "Late Night Tones",
-          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
-        }
-      ],
-      "duration_ms": 136521,
-      "name": "Limitless",
-      "url": "https://open.spotify.com/track/2BuPvep8erFNZC1V8IwKcp"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Bluewerks Vol 13: Midnight Melodies",
         "url": "https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o"
       },
@@ -1235,6 +1195,26 @@
       "duration_ms": 153658,
       "name": "Looking for the Stars",
       "url": "https://open.spotify.com/track/3LdqQUBvbg614Z1kj9ZsT5"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/51xFLcdwo1QE7rwE6kNsnu"
+      },
+      "artists": [
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        },
+        {
+          "name": "Late Night Tones",
+          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
+        }
+      ],
+      "duration_ms": 136521,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/2BuPvep8erFNZC1V8IwKcp"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1271,22 +1251,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "van life",
-        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
+        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
+        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
       },
       "artists": [
         {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
         },
         {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
         }
       ],
-      "duration_ms": 135714,
-      "name": "van life",
-      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
+      "duration_ms": 154500,
+      "name": "Michoacansiedad",
+      "url": "https://open.spotify.com/track/0hiVmFhNCdxkF3mGF8bHpL"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1307,6 +1287,26 @@
       "duration_ms": 144000,
       "name": "Viscaria Corto",
       "url": "https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "van life",
+        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
+      },
+      "artists": [
+        {
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "duration_ms": 135714,
+      "name": "van life",
+      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1443,8 +1443,8 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Timeless Era",
-        "url": "https://open.spotify.com/album/1povYT4DUpB41SrrLCCKQP"
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
       "artists": [
         {
@@ -1452,49 +1452,13 @@
           "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
         },
         {
-          "name": "Raouf Beats",
-          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 101250,
-      "name": "Timeless Era",
-      "url": "https://open.spotify.com/track/29QB4Q8n1EvBEeYTTpRAjo"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Dusk Jazz Delight",
-        "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
-      },
-      "artists": [
-        {
-          "name": "M\u00fasica Relajante",
-          "url": "https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Dusk Jazz Delight",
-      "url": "https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Not Fun",
-        "url": "https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh"
-      },
-      "artists": [
-        {
-          "name": "Chili Dog",
-          "url": "https://open.spotify.com/artist/514loz93308G5SYu5YPG6a"
-        }
-      ],
-      "duration_ms": 146406,
-      "name": "Not Fun",
-      "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1515,6 +1479,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Dusk Jazz Delight",
+        "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica Relajante",
+          "url": "https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Dusk Jazz Delight",
+      "url": "https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "somewhere, nowhere.",
         "url": "https://open.spotify.com/album/4raL3WCI3x7NqCh8dqcZKC"
       },
@@ -1527,6 +1507,22 @@
       "duration_ms": 112663,
       "name": "i shouldn't have done that...",
       "url": "https://open.spotify.com/track/4Fl52C3mzmr66yD022Sj4r"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Not Fun",
+        "url": "https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh"
+      },
+      "artists": [
+        {
+          "name": "Chili Dog",
+          "url": "https://open.spotify.com/artist/514loz93308G5SYu5YPG6a"
+        }
+      ],
+      "duration_ms": 146406,
+      "name": "Not Fun",
+      "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1567,8 +1563,8 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "having meaningful conversations",
-        "url": "https://open.spotify.com/album/0yP457DQfQ6iyp8TGWksCu"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/2ECdjWdedGqqumiMh7DOrY"
       },
       "artists": [
         {
@@ -1576,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         }
       ],
-      "duration_ms": 120017,
-      "name": "having meaningful conversations",
-      "url": "https://open.spotify.com/track/6GBVz0idn47z2dMOA0r63W"
+      "duration_ms": 137258,
+      "name": "in rome",
+      "url": "https://open.spotify.com/track/43TxFsURZHH05YDRcU2P1o"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1651,24 +1647,8 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "she is",
-        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
-      },
-      "artists": [
-        {
-          "name": "AGM",
-          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
-        }
-      ],
-      "duration_ms": 232514,
-      "name": "she is",
-      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/2ECdjWdedGqqumiMh7DOrY"
+        "name": "having meaningful conversations",
+        "url": "https://open.spotify.com/album/0yP457DQfQ6iyp8TGWksCu"
       },
       "artists": [
         {
@@ -1676,9 +1656,9 @@
           "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         }
       ],
-      "duration_ms": 137258,
-      "name": "in rome",
-      "url": "https://open.spotify.com/track/43TxFsURZHH05YDRcU2P1o"
+      "duration_ms": 120017,
+      "name": "having meaningful conversations",
+      "url": "https://open.spotify.com/track/6GBVz0idn47z2dMOA0r63W"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1695,6 +1675,22 @@
       "duration_ms": 128118,
       "name": "find me",
       "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "she is",
+        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
+      },
+      "artists": [
+        {
+          "name": "AGM",
+          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
+        }
+      ],
+      "duration_ms": 232514,
+      "name": "she is",
+      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1735,6 +1731,22 @@
       "duration_ms": 144283,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "making out",
+        "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "making out",
+      "url": "https://open.spotify.com/track/3kkcCT7ULEtIyS288mYINQ"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1791,26 +1803,6 @@
       "duration_ms": 120000,
       "name": "Far from Home",
       "url": "https://open.spotify.com/track/5XoMpkkOf8BtXCQgjAVfOM"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Sleepy Suburbs",
-        "url": "https://open.spotify.com/album/7aRJBLnUsOAc7Gzaz9e3TV"
-      },
-      "artists": [
-        {
-          "name": "Dormilon",
-          "url": "https://open.spotify.com/artist/5h6fEVz6nTxEzv5JXJKa1P"
-        },
-        {
-          "name": "J. Lorenzo",
-          "url": "https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Sleepy Suburbs",
-      "url": "https://open.spotify.com/track/0UEqYDmve0snOYnJ0qOXP8"
     }
   ],
   "unique_name": "lofi mexa",

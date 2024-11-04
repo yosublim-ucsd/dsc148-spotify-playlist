@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 14086,
+  "num_followers": 14091,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAABmtvkrKj/7R2lMFC0bwINC",
+  "snapshot_id": "ZyVrgAAAAACS91VVIWBgQaTcYMjMj1HA",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Vanguard Recordings",
-        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
+        "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 536533,
-      "name": "Gonna Leave You",
-      "url": "https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7"
+      "duration_ms": 245306,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/0GGUZVkxnuYn7sNSa2OkNQ"
     },
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sassy Mama",
-        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
+        "name": "The Complete Vanguard Recordings",
+        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 245306,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/0GGUZVkxnuYn7sNSa2OkNQ"
+      "duration_ms": 536533,
+      "name": "Gonna Leave You",
+      "url": "https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Big Mama Swings",
-      "url": "https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roots Of Rock & Roll",
         "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
       },
@@ -659,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
-        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
       "artists": [
         {
@@ -668,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 357600,
-      "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
-      "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
+      "duration_ms": 311906,
+      "name": "Big Mama Swings",
+      "url": "https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
+        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 357600,
+      "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
+      "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Complete Vanguard Recordings",
         "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 292973,
       "name": "Lost City",
       "url": "https://open.spotify.com/track/3WGHCI52pWHbcVPTouKbOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sassy Mama!",
+        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Everybody's Happy (But Me)",
+      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sassy Mama!",
-        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Everybody's Happy (But Me)",
-      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Europe",
         "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
@@ -791,26 +791,6 @@
       "duration_ms": 307306,
       "name": "Chauffeur Blues",
       "url": "https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of 2018",
-        "url": "https://open.spotify.com/album/6BGVt4o84gv6ggHeFOaJE2"
-      },
-      "artists": [
-        {
-          "name": "Pep's Show Boys",
-          "url": "https://open.spotify.com/artist/47e3UMf4zbn53B2mFUD3pk"
-        },
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 443428,
-      "name": "Hound Dog",
-      "url": "https://open.spotify.com/track/19Y1sr5iSbGmw7SIgHJhej"
     },
     {
       "added_at": null,
@@ -831,6 +811,26 @@
       "duration_ms": 166906,
       "name": "No Jody for Me",
       "url": "https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of 2018",
+        "url": "https://open.spotify.com/album/6BGVt4o84gv6ggHeFOaJE2"
+      },
+      "artists": [
+        {
+          "name": "Pep's Show Boys",
+          "url": "https://open.spotify.com/artist/47e3UMf4zbn53B2mFUD3pk"
+        },
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 443428,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/19Y1sr5iSbGmw7SIgHJhej"
     },
     {
       "added_at": null,
@@ -860,17 +860,13 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         },
         {
-          "name": "Bill Harvey Orchestra",
-          "url": "https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI"
-        },
-        {
           "name": "Essential Classics",
           "url": "https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN"
         }
       ],
-      "duration_ms": 171479,
-      "name": "Cotton Picking Blues",
-      "url": "https://open.spotify.com/track/02fef86NbwdkMQzdBgLxbT"
+      "duration_ms": 180441,
+      "name": "Walking Blues",
+      "url": "https://open.spotify.com/track/2poDQLhyjLYHnub9YHGoBb"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

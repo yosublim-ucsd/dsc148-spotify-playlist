@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47) | 6:33 | 2021-11-23 | 2024-10-06 |
+| [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47) | 6:33 | 2021-11-23 |  |
 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/3RqAEC7aZieiWE7qLjs1jv) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best 90s Album In The World...Ever!](https://open.spotify.com/album/4UkEvuAF0oirvH9HUAWSnk) | 6:34 | 2022-08-26 | 2022-11-13 |
 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 | 2022-05-27 | 2024-04-19 |
 | [\(I Can't Help\) Falling In Love With You](https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Promises And Lies](https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d) | 3:27 | 2022-05-30 |  |
@@ -229,7 +229,7 @@
 | [Straight From The Heart](https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 3:31 | 2022-05-27 | 2024-04-19 |
 | [Stuck On You](https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 3:12 | 2021-11-23 |  |
 | [Stuck On You](https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 3:15 | 2022-05-27 | 2024-04-19 |
-| [Sweet Creature](https://open.spotify.com/track/13sXuI5RjMHm7dz7O3spYs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Sweet Creature](https://open.spotify.com/album/5Oaip8Twmcv0at7PChu6pF) | 3:44 | 2022-08-26 |  |
+| [Sweet Creature](https://open.spotify.com/track/13sXuI5RjMHm7dz7O3spYs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Sweet Creature](https://open.spotify.com/album/5Oaip8Twmcv0at7PChu6pF) | 3:44 | 2022-08-26 | 2024-11-04 |
 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 | 2022-05-27 | 2024-04-19 |
 | [The Actor](https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Michael Learns To Rock \(1991\)](https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR) | 4:33 | 2021-11-23 |  |
 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 | 2022-08-26 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "you're invited. ft. The Dare ",
-  "num_followers": 176010,
+  "num_followers": 176192,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "DARE",
-      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "DARE",
+      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "Death to the Pixies",
-        "url": "https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "Death to the Pixies",
+        "url": "https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Crystalised",
-      "url": "https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 173493,
       "name": "Fluorescent Adolescent",
       "url": "https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Crystalised",
+      "url": "https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Y Control",
-      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "LCD Soundsystem",
         "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
@@ -991,6 +975,38 @@
       "duration_ms": 314556,
       "name": "Daft Punk Is Playing at My House",
       "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "L.E.S. Artistes",
+      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Y Control",
+      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -1023,22 +1039,6 @@
       "duration_ms": 238973,
       "name": "Little Secrets",
       "url": "https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
-        "name": "Santigold",
-        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "L.E.S. Artistes",
-      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "Made In The Dark",
-        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Ready For The Floor",
-      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "Made In The Dark",
+        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Ready For The Floor",
+      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "Down the Drain",
-        "url": "https://open.spotify.com/album/4VKv3mXNAsH0SLPTHiMfYd"
-      },
-      "artists": [
-        {
-          "name": "Julia Fox",
-          "url": "https://open.spotify.com/artist/5fspZkvc27zQHB6PjbPoGK"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "Down the Drain",
-      "url": "https://open.spotify.com/track/76ST8TBf6W54nnn8CZaecj"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 345560,
       "name": "Blind - Radio Edit",
       "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "Down the Drain",
+        "url": "https://open.spotify.com/album/4VKv3mXNAsH0SLPTHiMfYd"
+      },
+      "artists": [
+        {
+          "name": "Julia Fox",
+          "url": "https://open.spotify.com/artist/5fspZkvc27zQHB6PjbPoGK"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "Down the Drain",
+      "url": "https://open.spotify.com/track/76ST8TBf6W54nnn8CZaecj"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "Crystal Breath",
-        "url": "https://open.spotify.com/album/1CCdbTlll95A1LYyBQyq9S"
-      },
-      "artists": [
-        {
-          "name": "Kim Deal",
-          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
-        }
-      ],
-      "duration_ms": 207016,
-      "name": "Crystal Breath",
-      "url": "https://open.spotify.com/track/4YLuySkJBHaMvPtdntLH87"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "BTSTU (Edit)",
         "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 209493,
       "name": "BTSTU - Edit",
       "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "Crystal Breath",
+        "url": "https://open.spotify.com/album/1CCdbTlll95A1LYyBQyq9S"
+      },
+      "artists": [
+        {
+          "name": "Kim Deal",
+          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
+        }
+      ],
+      "duration_ms": 207016,
+      "name": "Crystal Breath",
+      "url": "https://open.spotify.com/track/4YLuySkJBHaMvPtdntLH87"
     }
   ],
   "unique_name": "Indie Sleaze",

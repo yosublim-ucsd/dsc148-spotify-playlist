@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-178 songs - 10 hr 6 min
+179 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Chauffeur Blues](https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 5:07 | 2022-08-05 |  |
 | [Cotton Picking Blues](https://open.spotify.com/track/32u9hRHJy738q7SqST4XJN) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:49 | 2022-08-05 | 2022-09-10 |
 | [Cotton Picking Blues](https://open.spotify.com/track/3KBJEKGaVuP1Uk1HDWt8An) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:49 | 2023-06-28 | 2024-06-22 |
-| [Cotton Picking Blues](https://open.spotify.com/track/02fef86NbwdkMQzdBgLxbT) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Bill Harvey Orchestra](https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI), [Essential Classics](https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6YiATnx59DC1o7QQqyf8L1) | 2:51 | 2024-09-28 |  |
+| [Cotton Picking Blues](https://open.spotify.com/track/02fef86NbwdkMQzdBgLxbT) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Bill Harvey Orchestra](https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI), [Essential Classics](https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6YiATnx59DC1o7QQqyf8L1) | 2:51 | 2024-09-28 | 2024-11-04 |
 | [Don't Talk Back](https://open.spotify.com/track/0BH8mz5msbTd1KRx9mOaja) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog \- The Essential Collection](https://open.spotify.com/album/5ae5Gdn2dc9snnBHV3fnE9) | 2:48 | 2022-08-07 | 2022-12-29 |
 | [Down Home Shake\-Down](https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 3:37 | 2022-08-05 |  |
 | [Early One Mornin’ Blues \- Live](https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Early One Mornin’ Blues \(Live\)](https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz) | 4:14 | 2023-08-19 |  |
@@ -173,6 +173,7 @@
 | [Walking Blues](https://open.spotify.com/track/1bFxv3bIERaEr5VGLXVHwh) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 3:01 | 2022-08-09 | 2022-11-17 |
 | [Walking Blues](https://open.spotify.com/track/2JLgnsgTIFbOvDGvbzninQ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 3:01 | 2024-04-26 | 2024-07-20 |
 | [Walking Blues](https://open.spotify.com/track/5r9QVHvSVZ5Ch9Dj0TVCVS) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Partnership Blues](https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA) | 3:04 | 2023-05-18 | 2024-04-11 |
+| [Walking Blues](https://open.spotify.com/track/2poDQLhyjLYHnub9YHGoBb) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Essential Classics](https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6YiATnx59DC1o7QQqyf8L1) | 3:00 | 2024-11-04 |  |
 | [Watermelon Man](https://open.spotify.com/track/0GGUZVkxnuYn7sNSa2OkNQ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama](https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl) | 4:05 | 2022-11-12 |  |
 | [Watermelon Man](https://open.spotify.com/track/3Xa1DxxOvSp9N74g7EgVaD) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama](https://open.spotify.com/album/3VBFRhVl1ZCkhgIXgWG8nY) | 4:05 | 2022-08-05 | 2022-11-13 |
 | [Willie Mae's Blues](https://open.spotify.com/track/58eoA5jzgc1EQ0mpiY8PKl) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:43 | 2023-12-15 | 2024-10-08 |

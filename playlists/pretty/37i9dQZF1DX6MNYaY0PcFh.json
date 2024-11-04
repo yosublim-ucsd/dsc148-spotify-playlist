@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 81086,
+  "num_followers": 81106,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Bogeyman",
-        "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 285882,
-      "name": "Bogeyman",
-      "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "GETAWAY",
         "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
       },
@@ -419,22 +403,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "High (MJ Cole Remix)",
-        "url": "https://open.spotify.com/album/1m4ioXqEmxumANUTZnwMY0"
+        "name": "Bogeyman",
+        "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 192305,
-      "name": "High - MJ Cole Remix",
-      "url": "https://open.spotify.com/track/0HLTkJFrnw319gmtA0Kh7W"
+      "duration_ms": 285882,
+      "name": "Bogeyman",
+      "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -455,6 +435,26 @@
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "High (MJ Cole Remix)",
+        "url": "https://open.spotify.com/album/1m4ioXqEmxumANUTZnwMY0"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "duration_ms": 192305,
+      "name": "High - MJ Cole Remix",
+      "url": "https://open.spotify.com/track/0HLTkJFrnw319gmtA0Kh7W"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -515,38 +515,6 @@
       "duration_ms": 181714,
       "name": "TEMPORARY FRIENDS",
       "url": "https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 346030,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "While The Record Spins",
-        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "While The Record Spins",
-      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -615,6 +583,38 @@
       "duration_ms": 184615,
       "name": "See Me",
       "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "While The Record Spins",
+        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "While The Record Spins",
+      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 346030,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "luv stuck",
-        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        }
-      ],
-      "duration_ms": 160440,
-      "name": "luv stuck",
-      "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Shooting Star (Badger Remix)",
         "url": "https://open.spotify.com/album/7IWgf3Um32uPhhCzb4TtOB"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 133150,
       "name": "Shooting Star - Badger Remix",
       "url": "https://open.spotify.com/track/2cIyhl2KwSGkAubFRY5ivt"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "luv stuck",
+        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "duration_ms": 160440,
+      "name": "luv stuck",
+      "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "DUWML",
+        "url": "https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 190869,
+      "name": "DUWML",
+      "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "take your vibes and go (Preditah Remix)",
         "url": "https://open.spotify.com/album/7txO1TuDHbNsctilDUW6ZN"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "DUWML",
-        "url": "https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1"
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
       },
       "artists": [
         {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
         }
       ],
-      "duration_ms": 190869,
-      "name": "DUWML",
-      "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
+      "duration_ms": 161715,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1067,22 +1083,6 @@
       "duration_ms": 211714,
       "name": "Run It",
       "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 161715,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Party All Night",
-        "url": "https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP"
-      },
-      "artists": [
-        {
-          "name": "Star.One",
-          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
-        },
-        {
-          "name": "Jamie Hai",
-          "url": "https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ"
-        }
-      ],
-      "duration_ms": 152888,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Ooh",
         "url": "https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 192724,
       "name": "Ooh",
       "url": "https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Party All Night",
+        "url": "https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP"
+      },
+      "artists": [
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        },
+        {
+          "name": "Jamie Hai",
+          "url": "https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL"
     }
   ],
   "unique_name": "New UK Garage",

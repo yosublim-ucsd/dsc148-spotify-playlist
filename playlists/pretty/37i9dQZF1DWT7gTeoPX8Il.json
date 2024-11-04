@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 130451,
+  "num_followers": 130530,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-10-17 17:00:00",
       "album": {
+        "name": "Sampai Menutup Mata",
+        "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
+    },
+    {
+      "added_at": "2024-10-17 17:00:00",
+      "album": {
         "name": "Masih Hatiku",
         "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
       },
@@ -499,18 +515,18 @@
     {
       "added_at": "2024-10-17 17:00:00",
       "album": {
-        "name": "Sampai Menutup Mata",
-        "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
+        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
       },
       "artists": [
         {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
         }
       ],
-      "duration_ms": 248666,
-      "name": "Sampai Menutup Mata",
-      "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
+      "duration_ms": 260571,
+      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
+      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
     },
     {
       "added_at": "2024-10-17 17:00:00",
@@ -543,22 +559,6 @@
       "duration_ms": 235335,
       "name": "Ku Ingin Pisah",
       "url": "https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE"
-    },
-    {
-      "added_at": "2024-10-17 17:00:00",
-      "album": {
-        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
-      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
     },
     {
       "added_at": "2024-10-17 17:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-10-17 17:00:00",
       "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Pelangi",
+      "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
+    },
+    {
+      "added_at": "2024-10-17 17:00:00",
+      "album": {
         "name": "Setengah Mati Merindu",
         "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2024-10-17 17:00:00",
       "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+        "name": "Bukan Untukku",
+        "url": "https://open.spotify.com/album/2A17uTjFWawokbDDt6jzzv"
       },
       "artists": [
         {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
         }
       ],
-      "duration_ms": 217626,
-      "name": "Pelangi",
-      "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
+      "duration_ms": 232880,
+      "name": "Bukan Untukku",
+      "url": "https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe"
     },
     {
       "added_at": "2024-10-17 17:00:00",
@@ -799,6 +815,22 @@
     {
       "added_at": "2024-10-17 17:00:00",
       "album": {
+        "name": "Kenyataan Perasaan",
+        "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
+      },
+      "artists": [
+        {
+          "name": "Kerispatih",
+          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
+        }
+      ],
+      "duration_ms": 277498,
+      "name": "Mengenangmu",
+      "url": "https://open.spotify.com/track/6l9L0ssWzD5XI1aJgVFpaS"
+    },
+    {
+      "added_at": "2024-10-17 17:00:00",
+      "album": {
         "name": "Orang Yang Sama",
         "url": "https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P"
       },
@@ -811,38 +843,6 @@
       "duration_ms": 268534,
       "name": "Orang Yang Sama",
       "url": "https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1"
-    },
-    {
-      "added_at": "2024-10-17 17:00:00",
-      "album": {
-        "name": "Bukan Untukku",
-        "url": "https://open.spotify.com/album/2A17uTjFWawokbDDt6jzzv"
-      },
-      "artists": [
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "Bukan Untukku",
-      "url": "https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe"
-    },
-    {
-      "added_at": "2024-10-17 17:00:00",
-      "album": {
-        "name": "Bersamamu",
-        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Bersamamu",
-      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
     }
   ],
   "unique_name": "galau rabak",

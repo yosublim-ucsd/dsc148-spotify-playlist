@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 8 hr 36 min
+144 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,9 @@
 | [Let There Be Love](https://open.spotify.com/track/5u5wvBQcUTzRzN7dwkrFUB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 3:21 | 2024-02-27 |  |
 | [Light Me Up](https://open.spotify.com/track/7q6HP7HcSGtKjitPKYbKoR) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Light Me Up](https://open.spotify.com/album/7IrJIKRzxLEJDIqg9I4l5z) | 3:37 | 2024-02-27 |  |
 | [Loco \(House Party\)](https://open.spotify.com/track/2bKE2Eebfh3uZm1KA75DEj) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [NOIR \- The 2nd Mini Album](https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ) | 3:10 | 2024-02-27 |  |
+| [Lonely For You](https://open.spotify.com/track/4ThADKNTh7RjcUCcoLDwvM) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Balance](https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3) | 3:13 | 2024-11-03 |  |
 | [Lonely For You](https://open.spotify.com/track/75jmDMBlocqSB5JgtUudHO) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Balance](https://open.spotify.com/album/6D1bjeQCUBS10NQeQeUdce) | 3:13 | 2024-02-27 | 2024-09-27 |
-| [Lonely for You \(feat\. Bonnie McKee\)](https://open.spotify.com/track/71gqwDyzphH33FzZLuIGLq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Balance](https://open.spotify.com/album/7mVGJiqFH2liTZJxAyHsMF) | 3:13 | 2024-09-26 |  |
+| [Lonely for You \(feat\. Bonnie McKee\)](https://open.spotify.com/track/71gqwDyzphH33FzZLuIGLq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Balance](https://open.spotify.com/album/7mVGJiqFH2liTZJxAyHsMF) | 3:13 | 2024-09-26 | 2024-11-04 |
 | [Long Distance](https://open.spotify.com/track/3xd8hdab4Y2NqhhZmJhuCv) | [Melanie Amaro](https://open.spotify.com/artist/5jWTiWBU6BfIEtcYwYA3nv) | [Long Distance](https://open.spotify.com/album/2R03toQwJHDzU2Cjx7mcAd) | 3:49 | 2024-02-27 |  |
 | [Lovebird](https://open.spotify.com/track/5r1kvURT9BqVwX0Jcsv1C9) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:30 | 2024-02-27 |  |
 | [Mad Mad World](https://open.spotify.com/track/7dHWQyP9o3JoZK8FLYqt9b) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Mad Mad World](https://open.spotify.com/album/0FMnyy6VTNMgtOzTJbIfQV) | 3:25 | 2024-02-27 |  |

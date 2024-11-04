@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157179,
+      "name": "BILLIONAIRE",
+      "url": "https://open.spotify.com/track/0QICKhP44TRnb4EurQ3tN9"
+    },
+    {
+      "album": {
         "name": "Gasoline - The 2nd Album",
         "url": "https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG"
       },
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 210826,
       "name": "The Hit",
       "url": "https://open.spotify.com/track/0NZtY6Lv5kSCSvifCNNVcz"
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 210826,
       "name": "The Hit",
       "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"

@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/3kC4SEY8Pp64HEhOukYZHm"
+      },
+      "artists": [
+        {
+          "name": "LIL TAY",
+          "url": "https://open.spotify.com/artist/5dsEqJbJ3ZC5A77Yaqwnu3"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233139,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/4JfCAr96utJ1pHKXQr6Hzd"
+    },
+    {
+      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },

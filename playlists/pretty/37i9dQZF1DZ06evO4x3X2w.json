@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 695048,
+  "num_followers": 695094,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAAAfDaNEvHxaG5r6pnmmDgjB",
+  "snapshot_id": "ZyVrgAAAAABiZZN1ZBjHuwAUe5EsDZNt",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 204059,
-      "name": "Draw The Line",
-      "url": "https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC"
+      "duration_ms": 295637,
+      "name": "Kings And Queens",
+      "url": "https://open.spotify.com/track/0HwXmm9QsRiCbyWnwMIwnZ"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 295637,
-      "name": "Kings And Queens",
-      "url": "https://open.spotify.com/track/0HwXmm9QsRiCbyWnwMIwnZ"
+      "duration_ms": 204059,
+      "name": "Draw The Line",
+      "url": "https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 273902,
-      "name": "Adam's Apple",
-      "url": "https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gems",
         "url": "https://open.spotify.com/album/3nuZR1AM7YjuL3xCJix2PZ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 242256,
       "name": "Chip Away The Stone",
       "url": "https://open.spotify.com/track/35pqMny3k7bGUzJiUCgZ0H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 273902,
+      "name": "Adam's Apple",
+      "url": "https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K"
     },
     {
       "added_at": null,

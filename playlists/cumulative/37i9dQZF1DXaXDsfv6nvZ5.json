@@ -7801,6 +7801,32 @@
     },
     {
       "album": {
+        "name": "OCTOBER 31ST",
+        "url": "https://open.spotify.com/album/5V2Kwexz6WnFwQljn1Fs2n"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245032,
+      "name": "OCTOBER 31ST",
+      "url": "https://open.spotify.com/track/2EAGVTNgLarIWJjMzI0Gel"
+    },
+    {
+      "album": {
         "name": "Of Another Kind (feat. Milan Ring & Jerome Farah)",
         "url": "https://open.spotify.com/album/54oMEdSvDTdkmsZolcOTlc"
       },
@@ -11880,7 +11906,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 156500,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo"

@@ -203,30 +203,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Estrellas de Rock",
-        "url": "https://open.spotify.com/album/3Z7eblvspGL5UJw10UWOpu"
-      },
-      "artists": [
-        {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
-        },
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 155272,
-      "name": "Estrellas de Rock",
-      "url": "https://open.spotify.com/track/6mqTaUbA5TeTJBw3g9Xegg"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "En los Brazos de Morfeo",
         "url": "https://open.spotify.com/album/2RuUUiMsKy0lHkRTrW3fHd"
       },
@@ -299,6 +275,30 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Estrellas de Rock",
+        "url": "https://open.spotify.com/album/3Z7eblvspGL5UJw10UWOpu"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 155272,
+      "name": "Estrellas de Rock",
+      "url": "https://open.spotify.com/track/6mqTaUbA5TeTJBw3g9Xegg"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -319,6 +319,38 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Orgullo Rolo",
+        "url": "https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Realidad Mental",
+          "url": "https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Orgullo Rolo",
+      "url": "https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -439,38 +471,6 @@
       "duration_ms": 117418,
       "name": "No Era para M\u00ed",
       "url": "https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Orgullo Rolo",
-        "url": "https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Realidad Mental",
-          "url": "https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD"
-        },
-        {
-          "name": "Dj J.L.P",
-          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
-        },
-        {
-          "name": "T-Chord",
-          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "Orgullo Rolo",
-      "url": "https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+        "name": "El Juanito Y El Mu\u00f1equia",
+        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
       },
       "artists": [
         {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+          "name": "Baby Syko",
+          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
         }
       ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
+      "duration_ms": 214569,
+      "name": "El Juanito Y El Mu\u00f1equia",
+      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1491,22 +1507,6 @@
       "duration_ms": 223512,
       "name": "Aire para Vivir",
       "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "El Juanito Y El Mu\u00f1equia",
-        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
-      },
-      "artists": [
-        {
-          "name": "Baby Syko",
-          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
-        }
-      ],
-      "duration_ms": 214569,
-      "name": "El Juanito Y El Mu\u00f1equia",
-      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "DIME",
-        "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        },
-        {
-          "name": "Niko RST",
-          "url": "https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd"
-        }
-      ],
-      "duration_ms": 223820,
-      "name": "DIME",
-      "url": "https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "CASI",
         "url": "https://open.spotify.com/album/72dPwaAdpVg6fDfUszTGmu"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 146666,
       "name": "CASI",
       "url": "https://open.spotify.com/track/5TGn2VR9DmeD65Vs7M8AVE"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "DIME",
+        "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Niko RST",
+          "url": "https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd"
+        }
+      ],
+      "duration_ms": 223820,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Just in Case",
+        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 209490,
+      "name": "Just in Case",
+      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Cxrtier",
         "url": "https://open.spotify.com/album/18yDCznNglFexmWgTQJAeC"
       },
@@ -1707,22 +1727,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Just in Case",
-        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
+        "name": "Rap Garuya",
+        "url": "https://open.spotify.com/album/35V0U9At1mBK8CvgQiRBbC"
       },
       "artists": [
         {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
         },
         {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+          "name": "El sonido del javier",
+          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
         }
       ],
-      "duration_ms": 209490,
-      "name": "Just in Case",
-      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
+      "duration_ms": 166119,
+      "name": "Para Salvar Vidas",
+      "url": "https://open.spotify.com/track/6vL82sT8JgMdEZIUr80SK1"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1743,22 +1763,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Rap Garuya",
-        "url": "https://open.spotify.com/album/35V0U9At1mBK8CvgQiRBbC"
+        "name": "Con la Frente en Alto",
+        "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
       },
       "artists": [
         {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        },
-        {
-          "name": "El sonido del javier",
-          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
         }
       ],
-      "duration_ms": 166119,
-      "name": "Para Salvar Vidas",
-      "url": "https://open.spotify.com/track/6vL82sT8JgMdEZIUr80SK1"
+      "duration_ms": 182727,
+      "name": "Con la Frente en Alto",
+      "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 167127,
       "name": "La Fuente",
       "url": "https://open.spotify.com/track/3ysOIJAqg29lkdRAKAelAZ"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Con la Frente en Alto",
-        "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Aguilar",
-          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Con la Frente en Alto",
-      "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
     },
     {
       "added_at": "2024-10-11 06:00:00",

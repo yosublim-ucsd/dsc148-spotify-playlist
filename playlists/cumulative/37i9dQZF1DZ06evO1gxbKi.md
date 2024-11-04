@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-125 songs - 6 hr 15 min
+126 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All over This World](https://open.spotify.com/track/0NgdzrGJt8YA0KfD9F3eh3) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 2:45 | 2024-04-21 | 2024-04-22 |
 | [Amazing Grace](https://open.spotify.com/track/7Jpy6hJWPhnav0qk0fGv8Y) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Vacation in the Sky](https://open.spotify.com/album/7HorAWUeYVKqIImFJ8zGRO) | 3:23 | 2022-05-25 | 2023-01-07 |
 | [Beams Of Heaven](https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 3:24 | 2022-05-26 |  |
-| [Bells Of St\. Mary's](https://open.spotify.com/track/611n0U5H1a1KW9fyDlJGja) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 2:22 | 2022-05-25 |  |
+| [Bells Of St\. Mary's](https://open.spotify.com/track/611n0U5H1a1KW9fyDlJGja) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 2:22 | 2022-05-25 | 2024-11-04 |
 | [Blessed Assurance](https://open.spotify.com/track/078IX8fLu9cRunf9urGp7Q) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 3:00 | 2022-05-28 | 2022-10-13 |
 | [Bring Back Those Happy Days](https://open.spotify.com/track/6wJlP5q82nxBKwBpGpOD48) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:55 | 2023-12-23 | 2024-10-09 |
 | [Bring Back Those Happy Days](https://open.spotify.com/track/1fHrhF3z0fNvtpA2aavvab) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bring Back Those Happy Days](https://open.spotify.com/album/7FunazLrYxpr4cuyP8oL11) | 2:57 | 2022-07-11 | 2022-10-18 |
@@ -40,6 +40,7 @@
 | [Go Ahead \- Live](https://open.spotify.com/track/50fnUS19njK5kSzm9l0Whd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bound For Glory \(Live Stuttgart '58\)](https://open.spotify.com/album/1SbRXFU9vDp4OrQ4umcCGM) | 3:34 | 2023-08-08 | 2023-09-03 |
 | [Go Ahead \- Live](https://open.spotify.com/track/0cwtRGTYhPKJOXkVRDVzx2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Soul Of Gospel](https://open.spotify.com/album/7tMURmtJUVkgltUFJWq5TY) | 3:39 | 2023-10-01 | 2024-02-10 |
 | [God Don't Like It](https://open.spotify.com/track/5jz86OQYMMXfo8XNZGogT4) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:24 | 2022-05-25 | 2024-07-24 |
+| [God Don't Like It](https://open.spotify.com/track/3o9FiDMKdKp1EQuwg5lxwW) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [First Great Star of Gospel Music](https://open.spotify.com/album/1XStey6fjHNAB9WqriW4Lm) | 2:52 | 2024-11-04 |  |
 | [God Is Wonderful](https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rosetta Tharpe Is Wonderful](https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb) | 2:04 | 2022-05-25 |  |
 | [Have A Little Talk With Jesus](https://open.spotify.com/track/7yfVEafYHPMvvdUb3fZPFp) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 5](https://open.spotify.com/album/7tvIxQ4NARYopPCeUARhcj) | 2:00 | 2023-10-04 | 2023-10-11 |
 | [He's Got the Whole World in His Hands \- Live](https://open.spotify.com/track/1Vh3YDo7zs0dloAYuBpsfK) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Live in 1960](https://open.spotify.com/album/3HySlTcJp61IznncKRWK50) | 1:54 | 2022-05-26 | 2022-10-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,009 likes - 46 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,044 likes - 46 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 45 | [That Somebody Was You \(with Toni Braxton\)](https://open.spotify.com/track/3xLKkJUafOtel0oe25XABQ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:02 |
 | 46 | [Bossa Antigua](https://open.spotify.com/track/1q4S6jIILSpd6Ws7wP35fk) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Brazilian Nights \(Deluxe Edition\)](https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS) | 3:48 |
 
-Snapshot ID: `ZyQaAAAAAACwclLl9x+SU0pVwrgy7V6c`
+Snapshot ID: `ZyVrgAAAAADClckotFCa4N7Sq4svLAPi`

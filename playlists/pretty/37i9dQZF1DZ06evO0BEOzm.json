@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 288914,
+  "num_followers": 288975,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAACvwVVU/ViBcgpUyXKXlV82",
+  "snapshot_id": "ZyVrgAAAAACuGH42eH2Z0Gf4Ku61aomr",
   "tracks": [
     {
       "added_at": null,
@@ -586,11 +586,15 @@
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 166237,
-      "name": "Bourbon",
-      "url": "https://open.spotify.com/track/1A3Rat6k27st6uSqpMLqn6"
+      "duration_ms": 147533,
+      "name": "TYG (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/39bBo9c52p4bcUMWBbuOaO"
     },
     {
       "added_at": null,
@@ -859,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something for Thee Hotties",
-        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 123636,
-      "name": "Tuned In Freestyle",
-      "url": "https://open.spotify.com/track/5dfTPMTMjMAW1CwxSwzWb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -891,6 +879,22 @@
       "duration_ms": 201979,
       "name": "Budget (feat. Latto)",
       "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 123636,
+      "name": "Tuned In Freestyle",
+      "url": "https://open.spotify.com/track/5dfTPMTMjMAW1CwxSwzWb5"
     },
     {
       "added_at": null,
@@ -927,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Will Rock You (Megan Thee Stallion Version)",
-        "url": "https://open.spotify.com/album/37G9lvayot5zbiEr0Ooa8e"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 103658,
-      "name": "We Will Rock You - Megan Thee Stallion Version",
-      "url": "https://open.spotify.com/track/03NOVazYlKC9MReaZiBlyS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -963,6 +947,26 @@
       "duration_ms": 153645,
       "name": "Scary (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/0QWauSvdEXExwUUDa4QCsj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Will Rock You (Megan Thee Stallion Version)",
+        "url": "https://open.spotify.com/album/37G9lvayot5zbiEr0Ooa8e"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 103658,
+      "name": "We Will Rock You - Megan Thee Stallion Version",
+      "url": "https://open.spotify.com/track/03NOVazYlKC9MReaZiBlyS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,819 likes - 95 songs - 4 hr 16 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,820 likes - 95 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 4 | [Turn Up The Flame](https://open.spotify.com/track/24ASg9u0yaDQB2jKhU4Kdn) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Turn Up The Flame](https://open.spotify.com/album/3k4JzsekugZULGW2mNceS6) | 3:00 |
 | 5 | [ILMSY \(MOVES\)](https://open.spotify.com/track/4G3f62XB30a856AZalkgWn) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [ILMSY \(MOVES\)](https://open.spotify.com/album/7B7nVSyWiF23lE87PlMPks) | 2:59 |
 | 6 | [Blickem](https://open.spotify.com/track/0mGpCVUnUH22arDaAOAiOT) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [REBIRTH](https://open.spotify.com/album/77sVwtEu49RVgkTutoFk8t) | 2:04 |
-| 7 | [Alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 |
+| 7 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 |
 | 8 | [Loose Leaf \(feat\. 03 Greedo\)](https://open.spotify.com/track/587M6QEBcA3g25WZvyDsWu) | [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Loose Leaf \(feat\. 03 Greedo\)](https://open.spotify.com/album/2qKpxeQNWbPqmB0GvKwLql) | 3:40 |
 | 9 | [TURKS](https://open.spotify.com/track/5Usb3GYIMAz5ufIrVIP03q) | [Damedot](https://open.spotify.com/artist/5OHfcsZ8fneKjS64QqFST0), [Young Will](https://open.spotify.com/artist/0wS3jm0xQRBuItY6D2Cj1U) | [TURKS](https://open.spotify.com/album/3xP6hWmRNdbScF4jZU8HyF) | 2:57 |
 | 10 | [Kicc Doe](https://open.spotify.com/track/6zeMyd9it6wSuFMJX3J0ec) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Kicc Doe](https://open.spotify.com/album/49yl5Gde87KgfK7fDmaBpf) | 1:50 |

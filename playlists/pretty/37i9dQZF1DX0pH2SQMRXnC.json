@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1351392,
+  "num_followers": 1351718,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "WELCOME TO THE GANG VOL. 2",
-        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 206437,
-      "name": "DOWN DOWN",
-      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 230400,
       "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "WELCOME TO THE GANG VOL. 2",
+        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 206437,
+      "name": "DOWN DOWN",
+      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -715,42 +715,6 @@
       "duration_ms": 232950,
       "name": "Trip to Valhalla",
       "url": "https://open.spotify.com/track/2D9WT9MeG07a26kKU9IGEb"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "I Like To Party",
-        "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
-      },
-      "artists": [
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        },
-        {
-          "name": "DJ Junior (TW)",
-          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
-        }
-      ],
-      "duration_ms": 159483,
-      "name": "I Like To Party",
-      "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "GO STUPID",
-        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "GO STUPID",
-      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -799,6 +763,22 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
+        "name": "GO STUPID",
+        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "GO STUPID",
+      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 161589,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "I Like To Party",
+        "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
+      },
+      "artists": [
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        },
+        {
+          "name": "DJ Junior (TW)",
+          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
+        }
+      ],
+      "duration_ms": 159483,
+      "name": "I Like To Party",
+      "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -887,6 +887,30 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/29xilFGP5o6DtJzDJFhnJh"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -923,30 +947,6 @@
       "duration_ms": 182852,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "SAVE ME",
-        "url": "https://open.spotify.com/album/29xilFGP5o6DtJzDJFhnJh"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "Krowdexx",
-          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "SAVE ME",
-      "url": "https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Digital Domination",
-        "url": "https://open.spotify.com/album/76q8PN2wH9m0RWeqHfxaoI"
-      },
-      "artists": [
-        {
-          "name": "Fraw",
-          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 127503,
-      "name": "Digital Domination",
-      "url": "https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Miss You (Remix)",
         "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 171034,
       "name": "Miss You - Remix",
       "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Digital Domination",
+        "url": "https://open.spotify.com/album/76q8PN2wH9m0RWeqHfxaoI"
+      },
+      "artists": [
+        {
+          "name": "Fraw",
+          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 127503,
+      "name": "Digital Domination",
+      "url": "https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1255,18 +1255,22 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Sin City",
-        "url": "https://open.spotify.com/album/7Df8MeG58aggdbwBMrurgk"
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/2bfcMjTP3vG8cI0cLBF7YA"
       },
       "artists": [
         {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
         }
       ],
-      "duration_ms": 257364,
-      "name": "Sin City",
-      "url": "https://open.spotify.com/track/2yWQsPYBRRus0kFS6qewDW"
+      "duration_ms": 314348,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1307,22 +1311,18 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Another Love",
-        "url": "https://open.spotify.com/album/2bfcMjTP3vG8cI0cLBF7YA"
+        "name": "Sin City",
+        "url": "https://open.spotify.com/album/7Df8MeG58aggdbwBMrurgk"
       },
       "artists": [
         {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        },
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
         }
       ],
-      "duration_ms": 314348,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
+      "duration_ms": 257364,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/2yWQsPYBRRus0kFS6qewDW"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
+        "name": "Waste Your Youth",
+        "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Waste Your Youth",
+      "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
         "name": "Embrace The Dark",
         "url": "https://open.spotify.com/album/0mCCdl2Kf0MMhx6cK8hTjn"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 216774,
       "name": "Embrace The Dark",
       "url": "https://open.spotify.com/track/4DIfkWuuB3dUgjs5s8Q6YD"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "Waste Your Youth",
-        "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Waste Your Youth",
-      "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
+        "name": "Renaissance Of Rave",
+        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Trip To Mars (Astronauts)",
+      "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
         "name": "Out Of My Mind",
         "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 190451,
       "name": "Ruinen Dieser Welt",
       "url": "https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "Renaissance Of Rave",
-        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "Trip To Mars (Astronauts)",
-      "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1759,8 +1759,8 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Save Euphoric (Theme)",
-        "url": "https://open.spotify.com/album/3u9MQu6SxJewo9CZh6XSMX"
+        "name": "Lose My Mind (Sub Zero Project Remix)",
+        "url": "https://open.spotify.com/album/0HY3yiWBKTwR9DxEgVYSZY"
       },
       "artists": [
         {
@@ -1768,13 +1768,17 @@
           "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         },
         {
-          "name": "Blademasterz",
-          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
         }
       ],
-      "duration_ms": 210010,
-      "name": "Save Euphoric (Theme)",
-      "url": "https://open.spotify.com/track/4x6dKH7NYow3qVGeTLn9bT"
+      "duration_ms": 253012,
+      "name": "Lose My Mind - Sub Zero Project Remix",
+      "url": "https://open.spotify.com/track/6FQTEo5HfXoMzXV513unv9"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1791,26 +1795,6 @@
       "duration_ms": 230709,
       "name": "Make That Body Move (Warrior Workout 2024 OST)",
       "url": "https://open.spotify.com/track/1hyUgLAUgCrgQE1MyvYYFP"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "Live For The Hard",
-        "url": "https://open.spotify.com/album/1P3j96mmetV6vywq2DtbGB"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Live For The Hard",
-      "url": "https://open.spotify.com/track/5CbzwDqLjODFI9BJBgINrD"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1835,6 +1819,26 @@
       "duration_ms": 222408,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/6bRBZE3BXUZ6QNdpKuMGop"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Live For The Hard",
+        "url": "https://open.spotify.com/album/1P3j96mmetV6vywq2DtbGB"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Live For The Hard",
+      "url": "https://open.spotify.com/track/5CbzwDqLjODFI9BJBgINrD"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -1947,8 +1951,8 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Lose My Mind (Sub Zero Project Remix)",
-        "url": "https://open.spotify.com/album/0HY3yiWBKTwR9DxEgVYSZY"
+        "name": "Save Euphoric (Theme)",
+        "url": "https://open.spotify.com/album/3u9MQu6SxJewo9CZh6XSMX"
       },
       "artists": [
         {
@@ -1956,17 +1960,13 @@
           "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         },
         {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+          "name": "Blademasterz",
+          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
         }
       ],
-      "duration_ms": 253012,
-      "name": "Lose My Mind - Sub Zero Project Remix",
-      "url": "https://open.spotify.com/track/6FQTEo5HfXoMzXV513unv9"
+      "duration_ms": 210010,
+      "name": "Save Euphoric (Theme)",
+      "url": "https://open.spotify.com/track/4x6dKH7NYow3qVGeTLn9bT"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2187,26 +2187,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Battlefield",
-        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 187794,
-      "name": "Battlefield",
-      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Warrior Cry",
         "url": "https://open.spotify.com/album/47EV2t9QoqQ7D3hCr9UJhT"
       },
@@ -2227,18 +2207,22 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MzEIsQjND2tLFpckD4k4i"
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
       },
       "artists": [
         {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
         }
       ],
-      "duration_ms": 234165,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0zolxiS5uiL5towOJrsJi4"
+      "duration_ms": 187794,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2263,6 +2247,22 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MzEIsQjND2tLFpckD4k4i"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 234165,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0zolxiS5uiL5towOJrsJi4"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
         "name": "Bitter Sweet Symphony (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF"
       },
@@ -2279,26 +2279,6 @@
       "duration_ms": 180002,
       "name": "Bitter Sweet Symphony (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
-        "name": "Everything is a Lie",
-        "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Everything is a Lie",
-      "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2359,26 +2339,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Return Of The Return",
-        "url": "https://open.spotify.com/album/06XWEMumYCHGHEaFEV2Hl4"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 175874,
-      "name": "Return Of The Return",
-      "url": "https://open.spotify.com/track/43Bu2RvrKaEkQL36OLrDzA"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Oh Fortuna",
         "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
       },
@@ -2399,6 +2359,46 @@
       "duration_ms": 170117,
       "name": "Oh Fortuna - Carmina Burana",
       "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Everything is a Lie",
+        "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Everything is a Lie",
+      "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Return Of The Return",
+        "url": "https://open.spotify.com/album/06XWEMumYCHGHEaFEV2Hl4"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 175874,
+      "name": "Return Of The Return",
+      "url": "https://open.spotify.com/track/43Bu2RvrKaEkQL36OLrDzA"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2443,26 +2443,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "2 GENERATIONS",
-        "url": "https://open.spotify.com/album/1yykrgioktaxLTyMASqoBj"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Coldax",
-          "url": "https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ"
-        }
-      ],
-      "duration_ms": 151015,
-      "name": "2 GENERATIONS",
-      "url": "https://open.spotify.com/track/2UUYVL7dpLBNbEuQVCXtby"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Angels Falling in Space",
         "url": "https://open.spotify.com/album/6AuA0sfZdkbcl1kqZShKcl"
       },
@@ -2495,6 +2475,26 @@
       "duration_ms": 320148,
       "name": "Raw Resurgence - Official Supremacy 2023 Anthem",
       "url": "https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "2 GENERATIONS",
+        "url": "https://open.spotify.com/album/1yykrgioktaxLTyMASqoBj"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Coldax",
+          "url": "https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ"
+        }
+      ],
+      "duration_ms": 151015,
+      "name": "2 GENERATIONS",
+      "url": "https://open.spotify.com/track/2UUYVL7dpLBNbEuQVCXtby"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2575,26 +2575,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "HEAR THE NOISE",
-        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        }
-      ],
-      "duration_ms": 166988,
-      "name": "HEAR THE NOISE",
-      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Where I Belong",
         "url": "https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd"
       },
@@ -2631,6 +2611,22 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
+        "name": "Do Whatcha Say",
+        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
+      },
+      "artists": [
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "duration_ms": 164300,
+      "name": "Do Whatcha Say",
+      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
       },
@@ -2651,22 +2647,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Do Whatcha Say",
-        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
-      },
-      "artists": [
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
-        }
-      ],
-      "duration_ms": 164300,
-      "name": "Do Whatcha Say",
-      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Turn The Tide Revisited",
         "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
       },
@@ -2683,6 +2663,26 @@
       "duration_ms": 188800,
       "name": "Turn The Tide Revisited",
       "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "HEAR THE NOISE",
+        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "duration_ms": 166988,
+      "name": "HEAR THE NOISE",
+      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Heart Bass",
-        "url": "https://open.spotify.com/album/3f33K8wrd96oHZvZDucbai"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 199741,
-      "name": "Heart Bass",
-      "url": "https://open.spotify.com/track/44i1tIz1Iq0iY7wLJ34FLo"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Fiyaaah!",
         "url": "https://open.spotify.com/album/56tXG4Pa5WwioAsT2ZIeQe"
       },
@@ -2767,22 +2751,18 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "BEUK D\u2019R IN",
-        "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
+        "name": "Heart Bass",
+        "url": "https://open.spotify.com/album/3f33K8wrd96oHZvZDucbai"
       },
       "artists": [
         {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "EZG",
-          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
         }
       ],
-      "duration_ms": 165660,
-      "name": "BEUK D\u2019R IN",
-      "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
+      "duration_ms": 199741,
+      "name": "Heart Bass",
+      "url": "https://open.spotify.com/track/44i1tIz1Iq0iY7wLJ34FLo"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2863,26 +2843,6 @@
     {
       "added_at": "2024-10-25 08:04:11",
       "album": {
-        "name": "Million Miles (Da Tweekaz Remix)",
-        "url": "https://open.spotify.com/album/6nu1jhSY2ti1dOYCFgsjLc"
-      },
-      "artists": [
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 215780,
-      "name": "Million Miles - Da Tweekaz Remix",
-      "url": "https://open.spotify.com/track/40PYb7mtEgpptSbzzxDrKw"
-    },
-    {
-      "added_at": "2024-10-25 08:04:11",
-      "album": {
         "name": "Blow Up The Speakers (Again)",
         "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
       },
@@ -2899,6 +2859,26 @@
       "duration_ms": 208657,
       "name": "Blow Up The Speakers (Again)",
       "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "BEUK D\u2019R IN",
+        "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "EZG",
+          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
+        }
+      ],
+      "duration_ms": 165660,
+      "name": "BEUK D\u2019R IN",
+      "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
     },
     {
       "added_at": "2024-10-25 08:04:11",
@@ -2923,6 +2903,26 @@
       "duration_ms": 193000,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/5AdpdaoHXbQtV3kjWYUMe4"
+    },
+    {
+      "added_at": "2024-10-25 08:04:11",
+      "album": {
+        "name": "Million Miles (Da Tweekaz Remix)",
+        "url": "https://open.spotify.com/album/6nu1jhSY2ti1dOYCFgsjLc"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 215780,
+      "name": "Million Miles - Da Tweekaz Remix",
+      "url": "https://open.spotify.com/track/40PYb7mtEgpptSbzzxDrKw"
     },
     {
       "added_at": "2024-10-25 08:04:11",

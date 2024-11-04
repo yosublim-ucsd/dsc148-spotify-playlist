@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Irm\u00e3 Ana Paula",
-  "num_followers": 337246,
+  "num_followers": 337324,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
+        "name": "Ave Maria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4GneCzAHi467P4eP7Pb7lu"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 500916,
+      "name": "Ave Maria - Ao Vivo",
+      "url": "https://open.spotify.com/track/4bMqX5EEFLUIhCjTemTyQv"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
         "name": "Cheiro de Rosas",
         "url": "https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 279835,
       "name": "Cheiro de Rosas",
       "url": "https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
-        "name": "Romanos 12",
-        "url": "https://open.spotify.com/album/1HNPnd9VdzaOtRo933kud2"
-      },
-      "artists": [
-        {
-          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
-          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
-        }
-      ],
-      "duration_ms": 490000,
-      "name": "Romanos 12",
-      "url": "https://open.spotify.com/track/1wRFaq5QqbIgS2vJTazBuL"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -167,62 +167,6 @@
       "duration_ms": 239597,
       "name": "Esposa das Esposas",
       "url": "https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
-        "name": "Eu Te Levantarei",
-        "url": "https://open.spotify.com/album/42A1I5OJSFlNmx40vhwfU4"
-      },
-      "artists": [
-        {
-          "name": "Padre Marcelo Rossi",
-          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 215324,
-      "name": "Eu Te Levantarei",
-      "url": "https://open.spotify.com/track/5VhNo3giwElyUv92ykqLsx"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
-        "name": "Ao Monte",
-        "url": "https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2"
-      },
-      "artists": [
-        {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 368300,
-      "name": "Ao Monte",
-      "url": "https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
-        "name": "Ave Maria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4GneCzAHi467P4eP7Pb7lu"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 500916,
-      "name": "Ave Maria - Ao Vivo",
-      "url": "https://open.spotify.com/track/4bMqX5EEFLUIhCjTemTyQv"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -259,22 +203,6 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
-        "name": "DNA de Maria",
-        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "DNA de Maria",
-      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
         "name": "Decididamente",
         "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
       },
@@ -295,18 +223,74 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
-        "name": "General\u00edssima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0SJ4FOVzLDG4xbIyXLvtXN"
+        "name": "Romanos 12",
+        "url": "https://open.spotify.com/album/1HNPnd9VdzaOtRo933kud2"
       },
       "artists": [
         {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
         }
       ],
-      "duration_ms": 325483,
-      "name": "General\u00edssima - Ao Vivo",
-      "url": "https://open.spotify.com/track/4h1LQR2ZG1ekR3WswzQFgI"
+      "duration_ms": 490000,
+      "name": "Romanos 12",
+      "url": "https://open.spotify.com/track/1wRFaq5QqbIgS2vJTazBuL"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
+        "name": "Ao Monte",
+        "url": "https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 368300,
+      "name": "Ao Monte",
+      "url": "https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
+        "name": "Eu Te Levantarei",
+        "url": "https://open.spotify.com/album/42A1I5OJSFlNmx40vhwfU4"
+      },
+      "artists": [
+        {
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 215324,
+      "name": "Eu Te Levantarei",
+      "url": "https://open.spotify.com/track/5VhNo3giwElyUv92ykqLsx"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
+        "name": "DNA de Maria",
+        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "DNA de Maria",
+      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -323,6 +307,42 @@
       "duration_ms": 696810,
       "name": "Me Leva",
       "url": "https://open.spotify.com/track/2z6uchqZ5mTC5spfvsmAsc"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
+        "name": "General\u00edssima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0SJ4FOVzLDG4xbIyXLvtXN"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+        }
+      ],
+      "duration_ms": 325483,
+      "name": "General\u00edssima - Ao Vivo",
+      "url": "https://open.spotify.com/track/4h1LQR2ZG1ekR3WswzQFgI"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
+        "name": "Estou Orando por Voc\u00ea",
+        "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        },
+        {
+          "name": "Padre Reginaldo Manzotti",
+          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
+        }
+      ],
+      "duration_ms": 337168,
+      "name": "Estou Orando por Voc\u00ea",
+      "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -363,42 +383,6 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
-        "name": "Estou Orando por Voc\u00ea",
-        "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        },
-        {
-          "name": "Padre Reginaldo Manzotti",
-          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
-        }
-      ],
-      "duration_ms": 337168,
-      "name": "Estou Orando por Voc\u00ea",
-      "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
-        "name": "To Indo Embora (Fam\u00edlia \u00c9 Tudo Igual)",
-        "url": "https://open.spotify.com/album/5ciTyCUlxxvRx3s4e5ucat"
-      },
-      "artists": [
-        {
-          "name": "Padre Alessandro Campos",
-          "url": "https://open.spotify.com/artist/6vB4DuOiTpMnYLiP3dUzjS"
-        }
-      ],
-      "duration_ms": 191576,
-      "name": "To Indo Embora - Fam\u00edlia \u00c9 Tudo Igual, S\u00f3 Muda de Endere\u00e7o, Ao Vivo",
-      "url": "https://open.spotify.com/track/3g5dr1eUl5ZzWFzcHiCY5S"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
         "name": "A Nossa F\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 724172,
       "name": "A Nossa F\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
+        "name": "To Indo Embora (Fam\u00edlia \u00c9 Tudo Igual)",
+        "url": "https://open.spotify.com/album/5ciTyCUlxxvRx3s4e5ucat"
+      },
+      "artists": [
+        {
+          "name": "Padre Alessandro Campos",
+          "url": "https://open.spotify.com/artist/6vB4DuOiTpMnYLiP3dUzjS"
+        }
+      ],
+      "duration_ms": 191576,
+      "name": "To Indo Embora - Fam\u00edlia \u00c9 Tudo Igual, S\u00f3 Muda de Endere\u00e7o, Ao Vivo",
+      "url": "https://open.spotify.com/track/3g5dr1eUl5ZzWFzcHiCY5S"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
+        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim 9",
+        "url": "https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 636452,
+      "name": "Me Aceita de Volta",
+      "url": "https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
         "name": "Em Sil\u00eancio",
         "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
       },
@@ -495,18 +511,18 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
-        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim 9",
-        "url": "https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU"
+        "name": "Acalma Minha Tempestade",
+        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
       },
       "artists": [
         {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
         }
       ],
-      "duration_ms": 636452,
-      "name": "Me Aceita de Volta",
-      "url": "https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG"
+      "duration_ms": 322512,
+      "name": "Acalma Minha Tempestade",
+      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -527,42 +543,6 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
-        "name": "Acalma Minha Tempestade",
-        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
-      },
-      "artists": [
-        {
-          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
-        }
-      ],
-      "duration_ms": 322512,
-      "name": "Acalma Minha Tempestade",
-      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
-        "name": "Gba Stage, Vol. 13",
-        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        }
-      ],
-      "duration_ms": 294101,
-      "name": "Deixa Deus Sonhar em Ti",
-      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
         "name": "N\u00e3o Vou Desistir",
         "url": "https://open.spotify.com/album/4wSxDhTezDWQ1kEGmy5zrf"
       },
@@ -575,26 +555,6 @@
       "duration_ms": 334000,
       "name": "Muito Mais pra Mim",
       "url": "https://open.spotify.com/track/3QnxAvMEX7d2clCxJPH2pc"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
-        "name": "Nada Temerei",
-        "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Nada Temerei",
-      "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -619,6 +579,46 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
+        "name": "Nada Temerei",
+        "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Nada Temerei",
+      "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
+        "name": "Gba Stage, Vol. 13",
+        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        }
+      ],
+      "duration_ms": 294101,
+      "name": "Deixa Deus Sonhar em Ti",
+      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
         "name": "Se Eu Tenho o Hoje",
         "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 327961,
       "name": "Se Eu Tenho o Hoje",
       "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
+        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim (Ad10), Pt. 2",
+        "url": "https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 455338,
+      "name": "Compromisso/ Jesus",
+      "url": "https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -655,34 +671,38 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+        "name": "M\u00e3e, Me Defende do Mal",
+        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
       },
       "artists": [
         {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
         }
       ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+      "duration_ms": 300184,
+      "name": "M\u00e3e, Me Defende do Mal",
+      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
     },
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
-        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim (Ad10), Pt. 2",
-        "url": "https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj"
+        "name": "N\u00e3o Vou Desistir",
+        "url": "https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0"
       },
       "artists": [
         {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
         }
       ],
-      "duration_ms": 455338,
-      "name": "Compromisso/ Jesus",
-      "url": "https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8"
+      "duration_ms": 267195,
+      "name": "N\u00e3o Vou Desisitir",
+      "url": "https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -707,6 +727,22 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
         "name": "Inflama-Me",
         "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
@@ -723,22 +759,6 @@
       "duration_ms": 401500,
       "name": "Inflama-Me",
       "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
-        "name": "N\u00e3o Vou Desistir",
-        "url": "https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0"
-      },
-      "artists": [
-        {
-          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
-          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
-        }
-      ],
-      "duration_ms": 267195,
-      "name": "N\u00e3o Vou Desisitir",
-      "url": "https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -763,22 +783,18 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
-        "name": "M\u00e3e, Me Defende do Mal",
-        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
+        "name": "Paci\u00eancia",
+        "url": "https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL"
       },
       "artists": [
         {
           "name": "Aline Brasil",
           "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
         }
       ],
-      "duration_ms": 300184,
-      "name": "M\u00e3e, Me Defende do Mal",
-      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
+      "duration_ms": 268000,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
-        "name": "Paci\u00eancia",
-        "url": "https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
         "name": "Em Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
       },
@@ -915,6 +915,26 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
+        "name": "Quero Nascer de Novo",
+        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Quero Nascer de Novo",
+      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
         "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
       },
@@ -943,6 +963,30 @@
       "duration_ms": 251956,
       "name": "Viva a M\u00e3e de Deus e Nossa",
       "url": "https://open.spotify.com/track/3Tm1zXUqSPuGHdM3DFvBZz"
+    },
+    {
+      "added_at": "2024-10-25 14:59:52",
+      "album": {
+        "name": "Pequeno Rei",
+        "url": "https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        },
+        {
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+        }
+      ],
+      "duration_ms": 293210,
+      "name": "Emanuel, Eu Te Adoro",
+      "url": "https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X"
     },
     {
       "added_at": "2024-10-25 14:59:52",
@@ -983,26 +1027,6 @@
     {
       "added_at": "2024-10-25 14:59:52",
       "album": {
-        "name": "Quero Nascer de Novo",
-        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Quero Nascer de Novo",
-      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -1019,30 +1043,6 @@
       "duration_ms": 177322,
       "name": "Cora\u00e7\u00e3o de M\u00e3e",
       "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
-    },
-    {
-      "added_at": "2024-10-25 14:59:52",
-      "album": {
-        "name": "Pequeno Rei",
-        "url": "https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        },
-        {
-          "name": "Entretons",
-          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
-        }
-      ],
-      "duration_ms": 293210,
-      "name": "Emanuel, Eu Te Adoro",
-      "url": "https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X"
     },
     {
       "added_at": "2024-10-25 14:59:52",

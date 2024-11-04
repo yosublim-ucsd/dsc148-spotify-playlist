@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 619090,
+  "num_followers": 619214,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAAD6W2P2Ob3n31hqoOp8cvAv",
+  "snapshot_id": "ZyVrgAAAAADTWfe6IuDdYvu136CEcZ/+",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DIRTIESTNASTIEST$UICIDE",
-        "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Germ",
-          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
-        }
-      ],
-      "duration_ms": 140288,
-      "name": "Champagne Face",
-      "url": "https://open.spotify.com/track/1UsvO5U72YRU8Xnq8Lp14O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meet Me Where the River Turns Grey",
         "url": "https://open.spotify.com/album/1rcqcrADJOrtw4V0yRTc1N"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 185725,
       "name": "Sarcophagus II",
       "url": "https://open.spotify.com/track/44x52QgzCxa1VdrLLNZMaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DIRTIESTNASTIEST$UICIDE",
+        "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Germ",
+          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
+        }
+      ],
+      "duration_ms": 140288,
+      "name": "Champagne Face",
+      "url": "https://open.spotify.com/track/1UsvO5U72YRU8Xnq8Lp14O"
     },
     {
       "added_at": null,

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,461 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,471 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Flex \(Ooh, Ooh, Ooh\)](https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Flex \(Ooh, Ooh, Ooh\) \- Single](https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV) | 2:56 |
-| 2 | [Lifestyle](https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Lifestyle](https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l) | 4:29 |
+| 1 | [Lifestyle](https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Lifestyle](https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l) | 4:29 |
+| 2 | [Flex \(Ooh, Ooh, Ooh\)](https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Flex \(Ooh, Ooh, Ooh\) \- Single](https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV) | 2:56 |
 | 3 | [Mamacita \(feat\. Rich Homie Quan & Young Thug\)](https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 4:32 |
 | 4 | [Feel It](https://open.spotify.com/track/77geRNo8p4BaEtYPpkeFSD) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [19](https://open.spotify.com/album/7D9fLDGU0A95Y0rIakBJA4) | 4:19 |
 | 5 | [My Nigga](https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:55 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 42 | [Krazy](https://open.spotify.com/track/7xhOLtSMUUfZHTK0QVLFnU) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Family & Mula](https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa) | 2:24 |
 | 43 | [Daddy](https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Summer Sampler](https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK) | 3:59 |
 | 44 | [Flava](https://open.spotify.com/track/1DjbjIdKPNUVRCpyIREMeT) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M) | 5:50 |
-| 45 | [Authentic \(feat\. Clever\)](https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Matt Monaco](https://open.spotify.com/artist/5HNAKwy6K9OwZO1zkO6vax) | [Authentic \(feat\. Clever\)](https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns) | 3:12 |
-| 46 | [Still Sinning](https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Sinning](https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa) | 2:56 |
+| 45 | [Still Sinning](https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Sinning](https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa) | 2:56 |
+| 46 | [Authentic \(feat\. Clever\)](https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Matt Monaco](https://open.spotify.com/artist/5HNAKwy6K9OwZO1zkO6vax) | [Authentic \(feat\. Clever\)](https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns) | 3:12 |
 | 47 | [Daily Bread](https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Daily Bread](https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq) | 2:51 |
 | 48 | [Heart Cold](https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 3:51 |
 | 49 | [Investment](https://open.spotify.com/track/45qBK268Mjy6JnOE6mx179) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In](https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9) | 3:40 |
 | 50 | [Rich Homie Quando \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Life After Fame](https://open.spotify.com/album/3IYaSINx79h33UY51uylld) | 2:44 |
 
-Snapshot ID: `ZyQaAAAAAAAVPn8M2675BbRR5sLcQR0t`
+Snapshot ID: `ZyVrgAAAAABgvERnL8ibxc6Eae3R3DeI`

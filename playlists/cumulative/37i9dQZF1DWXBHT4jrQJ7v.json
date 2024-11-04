@@ -225,6 +225,32 @@
     },
     {
       "album": {
+        "name": "Bizet: Carmen Suites No. 1 & No. 2, L'Arl\u00e9sienne Suites No. 1 & No. 2, Dance of the Hours from La Gioconda",
+        "url": "https://open.spotify.com/album/6O4ef7EDUtGvVeouYeLU4r"
+      },
+      "artists": [
+        {
+          "name": "Amilcare Ponchielli",
+          "url": "https://open.spotify.com/artist/088fpww3Ae4U9cMZv5O6m8"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Eugene Ormandy",
+          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 620826,
+      "name": "Dance of the Hours from Act III of \"La Gioconda\"",
+      "url": "https://open.spotify.com/track/1soMXO5dHguB4ZVTVhcces"
+    },
+    {
+      "album": {
         "name": "Ponyo on the Cliff by the Sea Soundtrack",
         "url": "https://open.spotify.com/album/15rOJIfBtL56saE9EIlocm"
       },
@@ -676,32 +702,6 @@
       "duration_ms": 93573,
       "name": "Kinderszenen (Scenes of Childhood), Op. 15: I. Von fremden Landern und Menschen (Of Foreign Lands and People)",
       "url": "https://open.spotify.com/track/55NsSnhlhcjbjYSJ1MUhC4"
-    },
-    {
-      "album": {
-        "name": "Bizet: Carmen Suites No. 1 & No. 2, L'Arl\u00e9sienne Suites No. 1 & No. 2, Dance of the Hours from La Gioconda",
-        "url": "https://open.spotify.com/album/6O4ef7EDUtGvVeouYeLU4r"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Eugene Ormandy",
-          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
-        },
-        {
-          "name": "Philadelphia Orchestra",
-          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
-        }
-      ],
-      "date_added": "2024-09-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 620826,
-      "name": "L'Arl\u00e9sienne Suite No. 2: IV. Farandole",
-      "url": "https://open.spotify.com/track/1soMXO5dHguB4ZVTVhcces"
     },
     {
       "album": {

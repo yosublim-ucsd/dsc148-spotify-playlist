@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 232545,
+  "num_followers": 232599,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -129,20 +129,20 @@
       "url": "https://open.spotify.com/track/5d3qZ4xZv0inQK292Mmnhh"
     },
     {
-      "added_at": "2024-07-02 21:30:35",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Slow Worm",
-        "url": "https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC"
+        "name": "Dusting For Smoke",
+        "url": "https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Slow Worm",
-      "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
+      "duration_ms": 233499,
+      "name": "Lone Swordsman",
+      "url": "https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM"
     },
     {
       "added_at": "2024-08-14 16:48:38",
@@ -163,18 +163,34 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Dusting For Smoke",
-        "url": "https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H"
+        "name": "\u65b0\u3057\u3044\u65e5\u306e\u8a95\u751f",
+        "url": "https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+          "name": "\uff12\uff18\uff11\uff14",
+          "url": "https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd"
         }
       ],
-      "duration_ms": 233499,
-      "name": "Lone Swordsman",
-      "url": "https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM"
+      "duration_ms": 563600,
+      "name": "\u60b2\u54c0",
+      "url": "https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq"
+    },
+    {
+      "added_at": "2024-07-02 21:30:35",
+      "album": {
+        "name": "Slow Worm",
+        "url": "https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Slow Worm",
+      "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
     },
     {
       "added_at": "2024-03-19 03:29:52",
@@ -191,22 +207,6 @@
       "duration_ms": 495870,
       "name": "Three Drums",
       "url": "https://open.spotify.com/track/2aotiIWn6HgQH9vsEIs1Ls"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "\u65b0\u3057\u3044\u65e5\u306e\u8a95\u751f",
-        "url": "https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N"
-      },
-      "artists": [
-        {
-          "name": "\uff12\uff18\uff11\uff14",
-          "url": "https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd"
-        }
-      ],
-      "duration_ms": 563600,
-      "name": "\u60b2\u54c0",
-      "url": "https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq"
     },
     {
       "added_at": "2024-08-14 16:48:38",
@@ -239,22 +239,6 @@
       "duration_ms": 251333,
       "name": "Truffles Sprinkles",
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
-    },
-    {
-      "added_at": "2024-02-02 04:05:46",
-      "album": {
-        "name": "Distant Solace",
-        "url": "https://open.spotify.com/album/7odaTvennSTNVuMLArV19i"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 153559,
-      "name": "Distant Solace",
-      "url": "https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B"
     },
     {
       "added_at": "2023-08-29 01:18:54",
@@ -303,6 +287,22 @@
       "duration_ms": 283000,
       "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
       "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
+    },
+    {
+      "added_at": "2024-02-02 04:05:46",
+      "album": {
+        "name": "Distant Solace",
+        "url": "https://open.spotify.com/album/7odaTvennSTNVuMLArV19i"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Distant Solace",
+      "url": "https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B"
     },
     {
       "added_at": "2024-01-02 19:57:01",
@@ -521,26 +521,6 @@
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
-      "added_at": "2022-08-03 03:12:27",
-      "album": {
-        "name": "Sons Of",
-        "url": "https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        },
-        {
-          "name": "John McEntire",
-          "url": "https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg"
-        }
-      ],
-      "duration_ms": 471786,
-      "name": "A Ghost At Noon",
-      "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
-    },
-    {
       "added_at": "2022-09-15 12:23:59",
       "album": {
         "name": "Nutrition",
@@ -559,6 +539,26 @@
       "duration_ms": 279000,
       "name": "Nutrition - Single Edit",
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
+    },
+    {
+      "added_at": "2022-08-03 03:12:27",
+      "album": {
+        "name": "Sons Of",
+        "url": "https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        },
+        {
+          "name": "John McEntire",
+          "url": "https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg"
+        }
+      ],
+      "duration_ms": 471786,
+      "name": "A Ghost At Noon",
+      "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
       "added_at": "2024-04-15 22:50:57",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
+      "added_at": "2023-04-15 02:42:19",
+      "album": {
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 511951,
+      "name": "Lotus Light",
+      "url": "https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP"
+    },
+    {
       "added_at": "2022-08-31 04:01:41",
       "album": {
         "name": "El Caso Figo (Original Motion Picture Soundtrack)",
@@ -785,38 +801,6 @@
       "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
     },
     {
-      "added_at": "2023-04-15 02:42:19",
-      "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 511951,
-      "name": "Lotus Light",
-      "url": "https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP"
-    },
-    {
-      "added_at": "2024-07-02 21:30:35",
-      "album": {
-        "name": "Forest Drone",
-        "url": "https://open.spotify.com/album/16ncAItevXqiwJ8d42taWq"
-      },
-      "artists": [
-        {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 287976,
-      "name": "Forest Drone",
-      "url": "https://open.spotify.com/track/5Aj13SHNqwpAQypproWsLd"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Fading",
@@ -847,6 +831,22 @@
       "duration_ms": 455548,
       "name": "Rain 3",
       "url": "https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA"
+    },
+    {
+      "added_at": "2024-07-02 21:30:35",
+      "album": {
+        "name": "Forest Drone",
+        "url": "https://open.spotify.com/album/16ncAItevXqiwJ8d42taWq"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 287976,
+      "name": "Forest Drone",
+      "url": "https://open.spotify.com/track/5Aj13SHNqwpAQypproWsLd"
     },
     {
       "added_at": "2022-03-30 04:41:43",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Seelen",
         "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 275271,
       "name": "Seele III",
       "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
     },
     {
-      "added_at": "2022-03-29 02:05:38",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "L'\u00e9treinte Imaginaire",
@@ -1251,6 +1235,22 @@
       "duration_ms": 533106,
       "name": "Lost You in the Fog",
       "url": "https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72"
+    },
+    {
+      "added_at": "2022-03-29 02:05:38",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2023-03-31 19:28:25",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "R\u00f6schen",
-        "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
-      },
-      "artists": [
-        {
-          "name": "Pole",
-          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
-        }
-      ],
-      "duration_ms": 199455,
-      "name": "R\u00f6schen - Edit",
-      "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
-    },
-    {
       "added_at": "2023-08-17 17:21:25",
       "album": {
         "name": "Circuit Current",
@@ -1411,6 +1395,22 @@
       "duration_ms": 247558,
       "name": "Circuit Current",
       "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "R\u00f6schen",
+        "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
+      },
+      "artists": [
+        {
+          "name": "Pole",
+          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+        }
+      ],
+      "duration_ms": 199455,
+      "name": "R\u00f6schen - Edit",
+      "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1443,22 +1443,6 @@
       "duration_ms": 178536,
       "name": "Do Lixo Ouri\u00e7o Ganha",
       "url": "https://open.spotify.com/track/5v9aevluGi1W5ti4hLOuEg"
-    },
-    {
-      "added_at": "2022-01-12 18:40:19",
-      "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
-      },
-      "artists": [
-        {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
-        }
-      ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2023-05-24 01:46:16",
@@ -1501,20 +1485,36 @@
       "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-01-12 18:40:19",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
       },
       "artists": [
         {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
         }
       ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Muckbirth",
+        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
+      },
+      "artists": [
+        {
+          "name": "Teset",
+          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Muckbirth",
+      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Muckbirth",
-        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
       "artists": [
         {
-          "name": "Teset",
-          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Muckbirth",
-      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2022-01-13 00:46:03",
@@ -1633,22 +1633,6 @@
       "url": "https://open.spotify.com/track/168TsA6bdm7pt73KVyVyZM"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Put Your Head Above The Parakeets",
-        "url": "https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "Rotating In Unison",
-      "url": "https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1"
-    },
-    {
       "added_at": "2022-11-09 13:54:27",
       "album": {
         "name": "sssssmilinggggg",
@@ -1665,20 +1649,36 @@
       "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
     },
     {
-      "added_at": "2023-10-28 00:12:45",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Wiegenmusik / Constant Structure",
-        "url": "https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ"
+        "name": "Put Your Head Above The Parakeets",
+        "url": "https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH"
       },
       "artists": [
         {
-          "name": "Simon Lovermann",
-          "url": "https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr"
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 152827,
-      "name": "Wiegenmusik",
-      "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"
+      "duration_ms": 301153,
+      "name": "Rotating In Unison",
+      "url": "https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1"
+    },
+    {
+      "added_at": "2024-05-08 03:01:37",
+      "album": {
+        "name": "Derrwut",
+        "url": "https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7"
+      },
+      "artists": [
+        {
+          "name": "Rogelio the IIIrd",
+          "url": "https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Derrwut",
+      "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
     }
   ],
   "unique_name": "bleeps ^ glitches",

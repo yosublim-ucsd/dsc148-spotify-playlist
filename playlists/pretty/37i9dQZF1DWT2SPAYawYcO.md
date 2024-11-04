@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Chase Atlantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,401 likes - 68 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,427 likes - 68 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 67 | [SUNSHINE STATE OF MIND](https://open.spotify.com/track/58HfnqKt4J6Xi358dYy09D) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [SUNSHINE STATE OF MIND](https://open.spotify.com/album/18KQkCCOj6mxSWlmgPNerN) | 2:53 |
 | 68 | [Drag Me Under](https://open.spotify.com/track/3WtYIop7ospyKxM2zBgNNs) | [Velociraptor](https://open.spotify.com/artist/2oaH5gF2m6OPgZ3vuEUrPH) | [Computer Future](https://open.spotify.com/album/0LShnMXKnONtDB3jOVtY2R) | 3:49 |
 
-Snapshot ID: `ZyN/UAAAAAD6pQpd5dpvNFIb47CLkLBg`
+Snapshot ID: `ZygEVgAAAADC073FCt8o5PdFdxrP7L4s`

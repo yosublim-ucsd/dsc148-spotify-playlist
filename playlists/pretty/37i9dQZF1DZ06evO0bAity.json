@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAAAVGVhtGpauDKMPZleCxroM",
+  "snapshot_id": "ZyVrgAAAAABYPXXpDNsaDDUPxJyREMkt",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 239521,
-      "name": "Shred For Summer",
-      "url": "https://open.spotify.com/track/53cdjpWN1AM3WCU4DhEQx0"
+      "duration_ms": 184866,
+      "name": "Total Meltdown",
+      "url": "https://open.spotify.com/track/4FggQNqaC7ZVzfIWRLv2N5"
     },
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Rat",
-        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Less Out Of Sync",
-      "url": "https://open.spotify.com/track/5q4MPKCtF5IlDQgxSvQwmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pollyanna",
         "url": "https://open.spotify.com/album/4kQSRFsF773glePY10mDpr"
       },
@@ -179,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Less Out Of Sync",
+      "url": "https://open.spotify.com/track/5q4MPKCtF5IlDQgxSvQwmX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bloody Lovely",
         "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
       },
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Total Meltdown",
-      "url": "https://open.spotify.com/track/4FggQNqaC7ZVzfIWRLv2N5"
+      "duration_ms": 239521,
+      "name": "Shred For Summer",
+      "url": "https://open.spotify.com/track/53cdjpWN1AM3WCU4DhEQx0"
     },
     {
       "added_at": null,
@@ -556,7 +556,7 @@
       "added_at": null,
       "album": {
         "name": "Black Rat",
-        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+        "url": "https://open.spotify.com/album/2ii5T3w1mFdQLLgOyDqXh7"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 211426,
-      "name": "Black Rat",
-      "url": "https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq"
+      "duration_ms": 247222,
+      "name": "Nightwalking",
+      "url": "https://open.spotify.com/track/0KrVDtZ1R3fVE4z4wnaVUE"
     },
     {
       "added_at": null,

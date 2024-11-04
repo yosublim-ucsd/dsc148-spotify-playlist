@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Ukraine.",
-  "num_followers": 31167,
+  "num_followers": 31173,
   "original_name": "Top 50 - Ukraine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LrmVoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LrrkyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "glory of heartbroken",
         "url": "https://open.spotify.com/album/4QmiLoejMWqz0UEATY8GXc"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3nNKws5aNnTa3tgQOIS5Sk"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "\u041d\u0435 \u043b\u044f\u043a\u0430\u0439",
         "url": "https://open.spotify.com/album/24wMgJBKYxWz1cSScyEBiz"
@@ -45,27 +45,7 @@
       "url": "https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 301623,
-      "name": "S\u00e3o Paulo (feat. Anitta)",
-      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "\u0417\u0430\u0431\u0438\u0439",
         "url": "https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM"
@@ -85,7 +65,27 @@
       "url": "https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "Cristoforo Colombo",
         "url": "https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg"
@@ -101,23 +101,7 @@
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
-        "url": "https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt"
-      },
-      "artists": [
-        {
-          "name": "Domiy",
-          "url": "https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV"
-        }
-      ],
-      "duration_ms": 152184,
-      "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
-      "url": "https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -137,7 +121,23 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
+        "url": "https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt"
+      },
+      "artists": [
+        {
+          "name": "Domiy",
+          "url": "https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV"
+        }
+      ],
+      "duration_ms": 152184,
+      "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
+      "url": "https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0438\u0433\u0440\u0443\u0448\u0435\u043a \u0434\u043b\u044f \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445",
         "url": "https://open.spotify.com/album/5aMa4f9Jn8BANK62xzWywu"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "\u0422\u043e\u0439 \u0434\u0435\u043d\u044c",
         "url": "https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo"
@@ -169,10 +169,10 @@
       "url": "https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
-        "name": "\u0411\u0435\u0440\u0435\u0436\u0438 \u043c\u0435\u043d\u0435",
-        "url": "https://open.spotify.com/album/1ayGglzj3DtVKaSeRaJTsB"
+        "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
+        "url": "https://open.spotify.com/album/1EGq8SnVjptwhv2N61tqvG"
       },
       "artists": [
         {
@@ -180,44 +180,12 @@
           "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
         }
       ],
-      "duration_ms": 150723,
-      "name": "\u0417\u043d\u0430\u0439\u0434\u0438 \u043c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/1GUQJU4M76atFmI5Yu9I8i"
+      "duration_ms": 137714,
+      "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
+      "url": "https://open.spotify.com/track/2CKbBBLXXWqTopO1vvS8y1"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "yustyna",
-        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "hermaeus mora",
-        "url": "https://open.spotify.com/album/77hzOhmvGH5BU4YenFkN60"
-      },
-      "artists": [
-        {
-          "name": "fleurnothappy",
-          "url": "https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM"
-        }
-      ],
-      "duration_ms": 87500,
-      "name": "hermaeus mora",
-      "url": "https://open.spotify.com/track/1hPQtiP5RYlYrS3t8AjrlK"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
         "url": "https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS"
@@ -233,7 +201,55 @@
       "url": "https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "yustyna",
+        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u0411\u0435\u0440\u0435\u0436\u0438 \u043c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/1ayGglzj3DtVKaSeRaJTsB"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "duration_ms": 150723,
+      "name": "\u0417\u043d\u0430\u0439\u0434\u0438 \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/1GUQJU4M76atFmI5Yu9I8i"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u0410 \u0449\u043e?",
+        "url": "https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8"
+      },
+      "artists": [
+        {
+          "name": "MONATIK",
+          "url": "https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "\u0410 \u0449\u043e?",
+      "url": "https://open.spotify.com/track/12TC6zACzfx6ey8ZAP6R3y"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "\u0421\u0438\u043b\u0443\u0435\u0442\u0438",
         "url": "https://open.spotify.com/album/40R8mdc7vde5T0j3HxlAln"
@@ -253,39 +269,23 @@
       "url": "https://open.spotify.com/track/61BaxM1NIcadLu3gtWm2uT"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
-        "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
-        "url": "https://open.spotify.com/album/1EGq8SnVjptwhv2N61tqvG"
+        "name": "hermaeus mora",
+        "url": "https://open.spotify.com/album/77hzOhmvGH5BU4YenFkN60"
       },
       "artists": [
         {
-          "name": "Klavdia Petrivna",
-          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+          "name": "fleurnothappy",
+          "url": "https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM"
         }
       ],
-      "duration_ms": 137714,
-      "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
-      "url": "https://open.spotify.com/track/2CKbBBLXXWqTopO1vvS8y1"
+      "duration_ms": 87500,
+      "name": "hermaeus mora",
+      "url": "https://open.spotify.com/track/1hPQtiP5RYlYrS3t8AjrlK"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u0410 \u0449\u043e?",
-        "url": "https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8"
-      },
-      "artists": [
-        {
-          "name": "MONATIK",
-          "url": "https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "\u0410 \u0449\u043e?",
-      "url": "https://open.spotify.com/track/12TC6zACzfx6ey8ZAP6R3y"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "FUNK DO BOUNCE (Slowed)",
         "url": "https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1"
@@ -301,39 +301,7 @@
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 229997,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "\u041a\u0440\u0435\u043f\u0447\u0435",
         "url": "https://open.spotify.com/album/1e82MHQz8mczZXotjeR0ky"
@@ -349,7 +317,7 @@
       "url": "https://open.spotify.com/track/6bCLkzoE3agC7Ws9NxVxIn"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "HEARTBEAT",
         "url": "https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY"
@@ -369,27 +337,23 @@
       "url": "https://open.spotify.com/track/12LGZ1axDaBCZGDlvZ9Hnl"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 143330,
-      "name": "Guess featuring billie eilish",
-      "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "Suka from Arizona",
         "url": "https://open.spotify.com/album/5WAnfvzPNerWLrWtO8f1J8"
@@ -409,27 +373,7 @@
       "url": "https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "THE BEST",
         "url": "https://open.spotify.com/album/0IYlHtB8Mvf8d445ocJFB9"
@@ -449,103 +393,7 @@
       "url": "https://open.spotify.com/track/2WeoEwj67HCAR2QULKnql6"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u0420\u0430\u043d\u0430",
-        "url": "https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H"
-      },
-      "artists": [
-        {
-          "name": "CHEEV",
-          "url": "https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ"
-        }
-      ],
-      "duration_ms": 121558,
-      "name": "\u0420\u0430\u043d\u0430",
-      "url": "https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY"
-      },
-      "artists": [
-        {
-          "name": "DOROFEEVA",
-          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
-        }
-      ],
-      "duration_ms": 187353,
-      "name": "\u0425\u0430\u0440\u0442\u0431\u0456\u0442",
-      "url": "https://open.spotify.com/track/7DJHeuuTpNjXLu25zCADhQ"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u0431\u043e\u043b\u044c\u043d\u043e",
-        "url": "https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e"
-      },
-      "artists": [
-        {
-          "name": "fleurnothappy",
-          "url": "https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "\u0431\u043e\u043b\u044c\u043d\u043e",
-      "url": "https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
-        "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
-      },
-      "artists": [
-        {
-          "name": "OKS",
-          "url": "https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
-      "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
-        "url": "https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1"
-      },
-      "artists": [
-        {
-          "name": "Violetta Sokolova",
-          "url": "https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms"
-        }
-      ],
-      "duration_ms": 133475,
-      "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
-      "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
-        "url": "https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g"
-      },
-      "artists": [
-        {
-          "name": "Parfeniuk",
-          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
-        }
-      ],
-      "duration_ms": 149832,
-      "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
-      "url": "https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
         "url": "https://open.spotify.com/album/3OzWTanaiFd8jyfF6E9PRq"
@@ -561,7 +409,143 @@
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "duration_ms": 187353,
+      "name": "\u0425\u0430\u0440\u0442\u0431\u0456\u0442",
+      "url": "https://open.spotify.com/track/7DJHeuuTpNjXLu25zCADhQ"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
+        "url": "https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1"
+      },
+      "artists": [
+        {
+          "name": "Violetta Sokolova",
+          "url": "https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms"
+        }
+      ],
+      "duration_ms": 133475,
+      "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
+      "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u0431\u043e\u043b\u044c\u043d\u043e",
+        "url": "https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e"
+      },
+      "artists": [
+        {
+          "name": "fleurnothappy",
+          "url": "https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "\u0431\u043e\u043b\u044c\u043d\u043e",
+      "url": "https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u0420\u0430\u043d\u0430",
+        "url": "https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H"
+      },
+      "artists": [
+        {
+          "name": "CHEEV",
+          "url": "https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ"
+        }
+      ],
+      "duration_ms": 121558,
+      "name": "\u0420\u0430\u043d\u0430",
+      "url": "https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
+        "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
+      },
+      "artists": [
+        {
+          "name": "OKS",
+          "url": "https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
+      "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "8 \u043c\u0430\u0440\u0430\u0431\u0443",
         "url": "https://open.spotify.com/album/2Q0kX7go1YkwNVix8e1Chw"
@@ -577,23 +561,7 @@
       "url": "https://open.spotify.com/track/6gtK39SLszESqJFu2SkId3"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u043a\u043e\u043d\u0447\u0438\u043b",
-        "url": "https://open.spotify.com/album/6IzJYD4LZjnlggZmYHsKX6"
-      },
-      "artists": [
-        {
-          "name": "ENINA",
-          "url": "https://open.spotify.com/artist/1jUPTaRiy2sOdOhvIEUosG"
-        }
-      ],
-      "duration_ms": 130274,
-      "name": "\u043a\u043e\u043d\u0447\u0438\u043b",
-      "url": "https://open.spotify.com/track/4Q6eUXtjd9sbzP2orZY6x0"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b (Acoustic)",
         "url": "https://open.spotify.com/album/0LNml41jJnwou22TkqmBck"
@@ -609,7 +577,23 @@
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u043a\u043e\u043d\u0447\u0438\u043b",
+        "url": "https://open.spotify.com/album/6IzJYD4LZjnlggZmYHsKX6"
+      },
+      "artists": [
+        {
+          "name": "ENINA",
+          "url": "https://open.spotify.com/artist/1jUPTaRiy2sOdOhvIEUosG"
+        }
+      ],
+      "duration_ms": 130274,
+      "name": "\u043a\u043e\u043d\u0447\u0438\u043b",
+      "url": "https://open.spotify.com/track/4Q6eUXtjd9sbzP2orZY6x0"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg"
@@ -625,7 +609,7 @@
       "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
@@ -641,7 +625,7 @@
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -657,39 +641,7 @@
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u0422\u0435\u0430\u0442\u0440",
-        "url": "https://open.spotify.com/album/3QUELlNOTE0RUqLnINCzIB"
-      },
-      "artists": [
-        {
-          "name": "Klavdia Petrivna",
-          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
-        }
-      ],
-      "duration_ms": 148793,
-      "name": "\u0422\u0435\u0430\u0442\u0440",
-      "url": "https://open.spotify.com/track/6iNsAoVPOnC2ikhnNygKQM"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
-        "url": "https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv"
-      },
-      "artists": [
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
-      "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "8 \u0441\u043f\u043e\u0441\u043e\u0431\u043e\u0432 \u043a\u0430\u043a \u0431\u0440\u043e\u0441\u0438\u0442\u044c...",
         "url": "https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za"
@@ -705,83 +657,23 @@
       "url": "https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+        "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
+        "url": "https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Parfeniuk",
+          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+      "duration_ms": 149832,
+      "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
+      "url": "https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u0411\u0435\u0440\u0435\u0436\u0438 \u043c\u0435\u043d\u0435",
-        "url": "https://open.spotify.com/album/1ayGglzj3DtVKaSeRaJTsB"
-      },
-      "artists": [
-        {
-          "name": "Klavdia Petrivna",
-          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
-        },
-        {
-          "name": "OSTY",
-          "url": "https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0"
-        }
-      ],
-      "duration_ms": 134488,
-      "name": "\u0425\u0442\u043e \u0442\u0438",
-      "url": "https://open.spotify.com/track/1HL5Kg5Yj5hdGM3opX1Ech"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u041e\u0431\u0438\u0440\u0430\u0442\u0438\u043c\u0443 \u0441\u0435\u0431\u0435",
-        "url": "https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm"
-      },
-      "artists": [
-        {
-          "name": "M\u00c9LOVIN",
-          "url": "https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL"
-        },
-        {
-          "name": "iSKra",
-          "url": "https://open.spotify.com/artist/2eaguEJBVEQVZhim3JryHD"
-        }
-      ],
-      "duration_ms": 192711,
-      "name": "\u041e\u0431\u0438\u0440\u0430\u0442\u0438\u043c\u0443 \u0441\u0435\u0431\u0435",
-      "url": "https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "\u041f\u043e\u043a\u043e\u0445\u0430\u0439 \u043c\u0435\u043d\u0435",
         "url": "https://open.spotify.com/album/7iT1upSPSL2UpnEO2rQ3rX"
@@ -805,23 +697,7 @@
       "url": "https://open.spotify.com/track/1YeQGpxrQvp6Yg3K6SIgho"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
-      "album": {
-        "name": "\u0426\u0435 \u043b\u044e\u0431\u043e\u0432",
-        "url": "https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR"
-      },
-      "artists": [
-        {
-          "name": "Kalush Orchestra",
-          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
-        }
-      ],
-      "duration_ms": 156338,
-      "name": "\u0426\u0435 \u043b\u044e\u0431\u043e\u0432",
-      "url": "https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa"
-    },
-    {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
         "url": "https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY"
@@ -841,7 +717,59 @@
       "url": "https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
+        "url": "https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
+      "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u0422\u0435\u0430\u0442\u0440",
+        "url": "https://open.spotify.com/album/3QUELlNOTE0RUqLnINCzIB"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "\u0422\u0435\u0430\u0442\u0440",
+      "url": "https://open.spotify.com/track/6iNsAoVPOnC2ikhnNygKQM"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -857,28 +785,92 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-11-02 12:51:56",
+      "added_at": "2024-11-03 12:40:41",
       "album": {
-        "name": "Alibi (with Pabllo Vittar & Yseult)",
-        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+        "name": "\u041e\u0431\u0438\u0440\u0430\u0442\u0438\u043c\u0443 \u0441\u0435\u0431\u0435",
+        "url": "https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm"
       },
       "artists": [
         {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+          "name": "M\u00c9LOVIN",
+          "url": "https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL"
         },
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+          "name": "iSKra",
+          "url": "https://open.spotify.com/artist/2eaguEJBVEQVZhim3JryHD"
         }
       ],
-      "duration_ms": 161655,
-      "name": "Alibi (with Pabllo Vittar & Yseult)",
-      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+      "duration_ms": 192711,
+      "name": "\u041e\u0431\u0438\u0440\u0430\u0442\u0438\u043c\u0443 \u0441\u0435\u0431\u0435",
+      "url": "https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 290320,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u0426\u0435 \u043b\u044e\u0431\u043e\u0432",
+        "url": "https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR"
+      },
+      "artists": [
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        }
+      ],
+      "duration_ms": 156338,
+      "name": "\u0426\u0435 \u043b\u044e\u0431\u043e\u0432",
+      "url": "https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+    },
+    {
+      "added_at": "2024-11-03 12:40:41",
+      "album": {
+        "name": "\u0411\u0435\u0440\u0435\u0436\u0438 \u043c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/1ayGglzj3DtVKaSeRaJTsB"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        },
+        {
+          "name": "OSTY",
+          "url": "https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0"
+        }
+      ],
+      "duration_ms": 134488,
+      "name": "\u0425\u0442\u043e \u0442\u0438",
+      "url": "https://open.spotify.com/track/1HL5Kg5Yj5hdGM3opX1Ech"
     }
   ],
   "unique_name": "Top 50 - Ukraine",

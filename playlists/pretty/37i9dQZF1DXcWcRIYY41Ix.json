@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Lhasa de Sela.",
-  "num_followers": 126116,
+  "num_followers": 126152,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
+        "name": "No tenemos tiempo",
+        "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
+      },
+      "artists": [
+        {
+          "name": "Lia",
+          "url": "https://open.spotify.com/artist/6eGEvxkkLYybfvt5B8CAfA"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "No tenemos tiempo",
+      "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
         "name": "Un Golpe de Suerte",
         "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
       },
@@ -815,38 +831,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "No tenemos tiempo",
-        "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
+        "name": "Herminia",
+        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
       "artists": [
         {
-          "name": "Lia",
-          "url": "https://open.spotify.com/artist/6eGEvxkkLYybfvt5B8CAfA"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "No tenemos tiempo",
-      "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "El Cosechero",
-        "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
         },
         {
-          "name": "Yves Desrosiers",
-          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         }
       ],
-      "duration_ms": 197826,
-      "name": "El Cosechero",
-      "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
+      "duration_ms": 185960,
+      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
+      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -867,22 +867,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Herminia",
-        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
+        "name": "El Cosechero",
+        "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
       },
       "artists": [
         {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
         },
         {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
         }
       ],
-      "duration_ms": 185960,
-      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
-      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+      "duration_ms": 197826,
+      "name": "El Cosechero",
+      "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
+        "name": "Mundo Nuevo",
+        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 181125,
       "name": "Ay Madrid",
       "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "Mundo Nuevo",
-        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "T\u00f3came",
-      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "Due\u00f1a",
         "url": "https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 195024,
       "name": "Due\u00f1a",
       "url": "https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "S\u20acR\u20acNATA",
-        "url": "https://open.spotify.com/album/3RU9SZ2PmXjmE88AuZRdzi"
+        "name": "L'Escorp\u00ed",
+        "url": "https://open.spotify.com/album/0SEHeoV1rWFYKSqJwn9STH"
       },
       "artists": [
         {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+          "name": "River Omelet",
+          "url": "https://open.spotify.com/artist/7lMu9d7nu8METOTVS4vhbU"
+        },
+        {
+          "name": "Jo Jet i Maria Ribot",
+          "url": "https://open.spotify.com/artist/2VLAEUc8hJ7R6EPktTBFhx"
         }
       ],
-      "duration_ms": 177240,
-      "name": "S\u20acR\u20acNATA",
-      "url": "https://open.spotify.com/track/4mEnD46xTBJPaDc7M7sfXO"
+      "duration_ms": 117355,
+      "name": "L'Escorp\u00ed",
+      "url": "https://open.spotify.com/track/6D6R8JmXNdkViagLFj2z7d"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1319,22 +1323,18 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "L'Escorp\u00ed",
-        "url": "https://open.spotify.com/album/0SEHeoV1rWFYKSqJwn9STH"
+        "name": "S\u20acR\u20acNATA",
+        "url": "https://open.spotify.com/album/3RU9SZ2PmXjmE88AuZRdzi"
       },
       "artists": [
         {
-          "name": "River Omelet",
-          "url": "https://open.spotify.com/artist/7lMu9d7nu8METOTVS4vhbU"
-        },
-        {
-          "name": "Jo Jet i Maria Ribot",
-          "url": "https://open.spotify.com/artist/2VLAEUc8hJ7R6EPktTBFhx"
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
         }
       ],
-      "duration_ms": 117355,
-      "name": "L'Escorp\u00ed",
-      "url": "https://open.spotify.com/track/6D6R8JmXNdkViagLFj2z7d"
+      "duration_ms": 177240,
+      "name": "S\u20acR\u20acNATA",
+      "url": "https://open.spotify.com/track/4mEnD46xTBJPaDc7M7sfXO"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1355,38 +1355,6 @@
       "duration_ms": 157928,
       "name": "Continuar",
       "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "Y tu compa\u00f1\u00eda (canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\")",
-        "url": "https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vidanauta",
-          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Y tu compa\u00f1\u00eda - canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\"",
-      "url": "https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "El hombre de la habitaci\u00f3n de al lado",
-        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
-      },
-      "artists": [
-        {
-          "name": "Pez Mago",
-          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "El hombre de la habitaci\u00f3n de al lado",
-      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1427,18 +1395,34 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+        "name": "Y tu compa\u00f1\u00eda (canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\")",
+        "url": "https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8"
       },
       "artists": [
         {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
         }
       ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
+      "duration_ms": 133333,
+      "name": "Y tu compa\u00f1\u00eda - canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\"",
+      "url": "https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "El hombre de la habitaci\u00f3n de al lado",
+        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
+      },
+      "artists": [
+        {
+          "name": "Pez Mago",
+          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "El hombre de la habitaci\u00f3n de al lado",
+      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1463,22 +1447,18 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "As vidas caladas",
-        "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
       "artists": [
         {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        },
-        {
-          "name": "Caama\u00f1o & Ameixeiras",
-          "url": "https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH"
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
         }
       ],
-      "duration_ms": 212698,
-      "name": "As vidas caladas",
-      "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1515,6 +1495,26 @@
       "duration_ms": 175905,
       "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
       "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "As vidas caladas",
+        "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        },
+        {
+          "name": "Caama\u00f1o & Ameixeiras",
+          "url": "https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH"
+        }
+      ],
+      "duration_ms": 212698,
+      "name": "As vidas caladas",
+      "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "C/ VIEJOS",
-        "url": "https://open.spotify.com/album/4sncZPHkQoPYhBBSwnFi6a"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Yfeu",
-          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
-        }
-      ],
-      "duration_ms": 180279,
-      "name": "C/ VIEJOS",
-      "url": "https://open.spotify.com/track/4hhMoM1eaLHBosahwhNGkw"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "Casida de la Rosa",
         "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
       },
@@ -1687,6 +1671,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
+        "name": "C/ VIEJOS",
+        "url": "https://open.spotify.com/album/4sncZPHkQoPYhBBSwnFi6a"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
+        }
+      ],
+      "duration_ms": 180279,
+      "name": "C/ VIEJOS",
+      "url": "https://open.spotify.com/track/4hhMoM1eaLHBosahwhNGkw"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
         "name": "Para la Pena No",
         "url": "https://open.spotify.com/album/7czoUPcYZGaVjeWlMDK4ez"
       },
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "\u00c1rbol",
-        "url": "https://open.spotify.com/album/19VxCPNmYESdns8Wf3Behp"
+        "name": "Caribe boreal",
+        "url": "https://open.spotify.com/album/1GKOEFTSAzTAgu0B6RM9My"
       },
       "artists": [
         {
-          "name": "Luciana Tagliapietra",
-          "url": "https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk"
-        },
-        {
-          "name": "Sol Pereyra",
-          "url": "https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A"
+          "name": "Pacoenlaluna",
+          "url": "https://open.spotify.com/artist/69AwGjfFeu3lurlo1xwOkz"
         }
       ],
-      "duration_ms": 252402,
-      "name": "\u00c1rbol",
-      "url": "https://open.spotify.com/track/5SZhccdhHvoYrmmVaLUoMK"
+      "duration_ms": 229871,
+      "name": "Caribe boreal",
+      "url": "https://open.spotify.com/track/2AoqZCkpCuDbLwEq9nh5pw"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1747,6 +1743,26 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
+        "name": "\u00c1rbol",
+        "url": "https://open.spotify.com/album/19VxCPNmYESdns8Wf3Behp"
+      },
+      "artists": [
+        {
+          "name": "Luciana Tagliapietra",
+          "url": "https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk"
+        },
+        {
+          "name": "Sol Pereyra",
+          "url": "https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A"
+        }
+      ],
+      "duration_ms": 252402,
+      "name": "\u00c1rbol",
+      "url": "https://open.spotify.com/track/5SZhccdhHvoYrmmVaLUoMK"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
         "name": "Surcando el cielo",
         "url": "https://open.spotify.com/album/4T2rhow9CPvxOoGuv9CO7k"
       },
@@ -1763,26 +1779,6 @@
       "duration_ms": 160750,
       "name": "Surcando el cielo",
       "url": "https://open.spotify.com/track/5VClfo0FSATmCOiHRoO3bJ"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "Mi canci\u00f3n",
-        "url": "https://open.spotify.com/album/6EDZigC2EE0vzPpBjAyTxh"
-      },
-      "artists": [
-        {
-          "name": "Bruno Sotos",
-          "url": "https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8"
-        },
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 195941,
-      "name": "Mi canci\u00f3n",
-      "url": "https://open.spotify.com/track/7Ci5UjgtYfSqMe7PNwco9D"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1839,6 +1835,26 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
+        "name": "Mi canci\u00f3n",
+        "url": "https://open.spotify.com/album/6EDZigC2EE0vzPpBjAyTxh"
+      },
+      "artists": [
+        {
+          "name": "Bruno Sotos",
+          "url": "https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8"
+        },
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 195941,
+      "name": "Mi canci\u00f3n",
+      "url": "https://open.spotify.com/track/7Ci5UjgtYfSqMe7PNwco9D"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
         "name": "El Estallido",
         "url": "https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8"
       },
@@ -1863,26 +1879,6 @@
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "Pecho Jard\u00edn",
-        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 282990,
-      "name": "Pecho Jard\u00edn",
-      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
     }
   ],
   "unique_name": "Cancionistas",

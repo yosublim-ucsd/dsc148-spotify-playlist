@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 201000,
       "name": "Bolder Feelings",
       "url": "https://open.spotify.com/track/4YnaKEsp4d3Gk842p43KGq"
@@ -5148,7 +5148,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 239722,
       "name": "Dare Me",
       "url": "https://open.spotify.com/track/2ulS1N08VvRqW4aifdBDMo"
@@ -5418,7 +5418,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Dialtone",
       "url": "https://open.spotify.com/track/0IsB9kYyUfWVxFP85bFAmX"
@@ -5526,7 +5526,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 155224,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/5T6HL1eFT1CG27YQpiNWsQ"
@@ -6542,7 +6542,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 225120,
       "name": "Entangled",
       "url": "https://open.spotify.com/track/1Bj6VnLV4KSnzkRGMtMGI9"
@@ -8480,7 +8480,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 219440,
       "name": "Ghost Hotel",
       "url": "https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh"
@@ -10934,7 +10934,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 243187,
       "name": "I Wish That You Would",
       "url": "https://open.spotify.com/track/6fvbcLqImwREQb1l3h5yOg"
@@ -11096,7 +11096,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 208960,
       "name": "I'm In Love With Everybody",
       "url": "https://open.spotify.com/track/3iA5hu0pwUx8vP97zLUMoy"
@@ -11154,7 +11154,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 210909,
       "name": "I've Been Missing You",
       "url": "https://open.spotify.com/track/6vdWx67Wz7DdXQjjBGanjH"
@@ -12934,7 +12934,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 327000,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/4nd5wyahX5FgpXlxWJ9Olc"
@@ -13568,6 +13568,24 @@
       "duration_ms": 193645,
       "name": "Love Like You Care",
       "url": "https://open.spotify.com/track/06SkmyDvn2fg85eCWL6zXn"
+    },
+    {
+      "album": {
+        "name": "Hotspot",
+        "url": "https://open.spotify.com/album/1FsDnLmWzOKywQlZv45GPX"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Love Nobody Else",
+      "url": "https://open.spotify.com/track/7tVFTOxeUuuxrmiyTfazde"
     },
     {
       "album": {
@@ -17154,7 +17172,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 206600,
       "name": "Pale Ash",
       "url": "https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y"
@@ -17820,7 +17838,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 203600,
       "name": "Put Your Money On Me",
       "url": "https://open.spotify.com/track/0m0WnrSwoiH9cJe0ZxnkfT"
@@ -22894,10 +22912,28 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 313400,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/20AblkE0QAqm3vdJ5ocYfF"
+    },
+    {
+      "album": {
+        "name": "Hotspot",
+        "url": "https://open.spotify.com/album/1FsDnLmWzOKywQlZv45GPX"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313400,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/7D5V8XA1vFvk5ZVUbE1R6M"
     },
     {
       "album": {
@@ -23472,7 +23508,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 267440,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/0FFtIOqGVcjRdEpMxZVIRV"

@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Ryan Hurd",
-  "num_followers": 609635,
+  "num_followers": 609677,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 198113,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 188254,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 188254,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Learning As I Go",
+        "url": "https://open.spotify.com/album/0tFdaemn2wol2XTfNkn3MJ"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Learning As I Go",
+      "url": "https://open.spotify.com/track/5BjSorudpG5f73ToFjJYeN"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Jackson Dean",
         "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 187957,
       "name": "Don't Come Lookin'",
       "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Learning As I Go",
-        "url": "https://open.spotify.com/album/0tFdaemn2wol2XTfNkn3MJ"
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Learning As I Go",
-      "url": "https://open.spotify.com/track/5BjSorudpG5f73ToFjJYeN"
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
+        "name": "9 Lives (Black Cat)",
+        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 165465,
-      "name": "Cottonmouth (Rock Mix)",
-      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
+      "duration_ms": 204628,
+      "name": "9 Lives (Black Cat)",
+      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "9 Lives (Black Cat)",
-        "url": "https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42"
+        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 204628,
-      "name": "9 Lives (Black Cat)",
-      "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
+      "duration_ms": 165465,
+      "name": "Cottonmouth (Rock Mix)",
+      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Backroad of My Mind",
-        "url": "https://open.spotify.com/album/1vdc23D9Hqs70BuqYXDPm0"
-      },
-      "artists": [
-        {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
-        }
-      ],
-      "duration_ms": 169480,
-      "name": "Backroad of My Mind",
-      "url": "https://open.spotify.com/track/0EHEhSDMITh2e89rIqnu4s"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Whiskey Lullaby",
         "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 269594,
       "name": "Whiskey Lullaby",
       "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Backroad of My Mind",
+        "url": "https://open.spotify.com/album/1vdc23D9Hqs70BuqYXDPm0"
+      },
+      "artists": [
+        {
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+        }
+      ],
+      "duration_ms": 169480,
+      "name": "Backroad of My Mind",
+      "url": "https://open.spotify.com/track/0EHEhSDMITh2e89rIqnu4s"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Dirt Road When I Die - EP",
+        "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "duration_ms": 174280,
+      "name": "Dirt Road When I Die",
+      "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Livin\u2019 My Life Like a Country Song",
         "url": "https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Dirt Road When I Die - EP",
-        "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
-      },
-      "artists": [
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
-        }
-      ],
-      "duration_ms": 174280,
-      "name": "Dirt Road When I Die",
-      "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Nobody's Nobody",
         "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
       },
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/3LPB4Q86iHeVqZAOL5l7zq"
+        "name": "Whiskey For Sale",
+        "url": "https://open.spotify.com/album/4zFP8lZxnNYAncMcNTbjYG"
       },
       "artists": [
         {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/48L0aN6ucksmwCMc6rojoX"
+      "duration_ms": 191719,
+      "name": "Whiskey For Sale",
+      "url": "https://open.spotify.com/track/4qkgLpKFYOsePL2HaOCCZ8"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "SPITCUP",
+        "url": "https://open.spotify.com/album/3vwD4qQv0v1LIcaUAXm0iQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "SPITCUP",
+      "url": "https://open.spotify.com/track/3wfuUtDoysuURJHblPxbQM"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "What I Know Now",
         "url": "https://open.spotify.com/album/2djQN7IpTj79iHIFWR8iLl"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 173573,
       "name": "What I Know Now",
       "url": "https://open.spotify.com/track/77uUGdoehrjJPP9IZlVq5F"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Whiskey For Sale",
-        "url": "https://open.spotify.com/album/4zFP8lZxnNYAncMcNTbjYG"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        }
-      ],
-      "duration_ms": 191719,
-      "name": "Whiskey For Sale",
-      "url": "https://open.spotify.com/track/4qkgLpKFYOsePL2HaOCCZ8"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "SPITCUP",
-        "url": "https://open.spotify.com/album/3vwD4qQv0v1LIcaUAXm0iQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "SPITCUP",
-      "url": "https://open.spotify.com/track/3wfuUtDoysuURJHblPxbQM"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Tabasco & Sweet Tea",
         "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
       },
@@ -1467,22 +1451,6 @@
       "duration_ms": 280065,
       "name": "Tabasco & Sweet Tea",
       "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Made For This",
-        "url": "https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 223693,
-      "name": "Made For This",
-      "url": "https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1507,18 +1475,34 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
+        "name": "Made For This",
+        "url": "https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T"
       },
       "artists": [
         {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 187899,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
+      "duration_ms": 223693,
+      "name": "Made For This",
+      "url": "https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/3LPB4Q86iHeVqZAOL5l7zq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/48L0aN6ucksmwCMc6rojoX"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 216153,
       "name": "Black Powder Soul",
       "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 187899,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1671,26 +1671,18 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "INSIGNIFICANT OTHER",
-        "url": "https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y"
+        "name": "I'm Not For Everyone",
+        "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        },
-        {
-          "name": "Sam Canty",
-          "url": "https://open.spotify.com/artist/7H8CEzmUyWOH1y07gtNNSd"
-        },
-        {
-          "name": "Lance Vanley",
-          "url": "https://open.spotify.com/artist/1WmI9NFp01PHRwNp5Z4K5A"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 207230,
-      "name": "INSIGNIFICANT OTHER feat. Sam Canty and Lance Vanley",
-      "url": "https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac"
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
     }
   ],
   "unique_name": "Country Rocks",

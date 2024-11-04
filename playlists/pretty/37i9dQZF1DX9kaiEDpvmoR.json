@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92387,
+  "num_followers": 92400,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "A Fragile Thing",
-        "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 283086,
-      "name": "A Fragile Thing",
-      "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Now or Never (feat. Lauren Alaina)",
         "url": "https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy"
       },
@@ -279,6 +263,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "A Fragile Thing",
+        "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 283086,
+      "name": "A Fragile Thing",
+      "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Whirlwind",
         "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
       },
@@ -291,26 +291,6 @@
       "duration_ms": 240120,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Have The Heart (Feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -343,6 +323,26 @@
       "duration_ms": 220666,
       "name": "right person, wrong time",
       "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Have The Heart (Feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "WILDSIDE",
-        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "WILDSIDE",
-      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "WILDSIDE",
+        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "WILDSIDE",
+      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/7vftI6sRQGbJrTstCjbr6t"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 223908,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/1cVhitY0LNYiskEEIwSANH"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Solen i den v\u00e4nstra",
-        "url": "https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
-        }
-      ],
-      "duration_ms": 293083,
-      "name": "Solen i den v\u00e4nstra",
-      "url": "https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -779,6 +763,22 @@
       "duration_ms": 166703,
       "name": "Fan f\u00f6r dig",
       "url": "https://open.spotify.com/track/0oYRtSnrvzyVcPEFgRkhUg"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Solen i den v\u00e4nstra",
+        "url": "https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 293083,
+      "name": "Solen i den v\u00e4nstra",
+      "url": "https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -867,8 +867,8 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "N\u00e4ra dig",
-        "url": "https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs"
+        "name": "Orkanen",
+        "url": "https://open.spotify.com/album/5xiaYeo3OpWmAYL29ewVj0"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
         }
       ],
-      "duration_ms": 162653,
-      "name": "N\u00e4ra dig",
-      "url": "https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK"
+      "duration_ms": 196133,
+      "name": "Orkanen",
+      "url": "https://open.spotify.com/track/7AxSlCWEB5vT5FK9RMzOxs"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Someone You Used To Know",
-        "url": "https://open.spotify.com/album/4XFbOH46yjW67UhgfrVSk0"
+        "name": "N\u00e4ra dig",
+        "url": "https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs"
       },
       "artists": [
         {
-          "name": "Linus Svenning",
-          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
         }
       ],
-      "duration_ms": 175555,
-      "name": "Someone You Used To Know",
-      "url": "https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv"
+      "duration_ms": 162653,
+      "name": "N\u00e4ra dig",
+      "url": "https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Orkanen",
-        "url": "https://open.spotify.com/album/5xiaYeo3OpWmAYL29ewVj0"
+        "name": "Someone You Used To Know",
+        "url": "https://open.spotify.com/album/4XFbOH46yjW67UhgfrVSk0"
       },
       "artists": [
         {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+          "name": "Linus Svenning",
+          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
         }
       ],
-      "duration_ms": 196133,
-      "name": "Orkanen",
-      "url": "https://open.spotify.com/track/7AxSlCWEB5vT5FK9RMzOxs"
+      "duration_ms": 175555,
+      "name": "Someone You Used To Know",
+      "url": "https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1023,6 +1023,26 @@
       "duration_ms": 285842,
       "name": "When The Time Is Right",
       "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Ljusare moln",
+        "url": "https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt"
+      },
+      "artists": [
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        },
+        {
+          "name": "Linus Wahlgren",
+          "url": "https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Ljusare moln",
+      "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1063,22 +1083,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Ljusare moln",
-        "url": "https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt"
+        "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
+        "url": "https://open.spotify.com/album/79QzzKZajHVcQTnJDPhgXn"
       },
       "artists": [
         {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
-        },
-        {
-          "name": "Linus Wahlgren",
-          "url": "https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q"
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Ljusare moln",
-      "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
+      "duration_ms": 233030,
+      "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
+      "url": "https://open.spotify.com/track/6ITwbq9TQ9VorVosXIT4Ur"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
-        "url": "https://open.spotify.com/album/79QzzKZajHVcQTnJDPhgXn"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 233030,
-      "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
-      "url": "https://open.spotify.com/track/6ITwbq9TQ9VorVosXIT4Ur"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "R\u00f6r vid mig",
         "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 190328,
       "name": "R\u00f6r vid mig",
       "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Marching To This Drum",
+        "url": "https://open.spotify.com/album/17WzdroK4ry4ps6jOwlcV7"
+      },
+      "artists": [
+        {
+          "name": "Dregen",
+          "url": "https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Marching To This Drum",
+      "url": "https://open.spotify.com/track/1SsGj5OQosI2XmHprVKX9g"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Marching To This Drum",
-        "url": "https://open.spotify.com/album/17WzdroK4ry4ps6jOwlcV7"
-      },
-      "artists": [
-        {
-          "name": "Dregen",
-          "url": "https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Marching To This Drum",
-      "url": "https://open.spotify.com/track/1SsGj5OQosI2XmHprVKX9g"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "I\u2019m Here For You Now",
+        "url": "https://open.spotify.com/album/0YxNOo620DicdFk0oSrDlp"
+      },
+      "artists": [
+        {
+          "name": "April Snow",
+          "url": "https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ"
+        }
+      ],
+      "duration_ms": 200694,
+      "name": "I\u2019m Here For You Now",
+      "url": "https://open.spotify.com/track/2mrFXNlzPzqIpFZnZorm2L"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Maybe Now",
         "url": "https://open.spotify.com/album/7eIArT5FbDbGALQ6qIgAqv"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 196560,
       "name": "Hoppas du m\u00e5r bra",
       "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "I\u2019m Here For You Now",
-        "url": "https://open.spotify.com/album/0YxNOo620DicdFk0oSrDlp"
-      },
-      "artists": [
-        {
-          "name": "April Snow",
-          "url": "https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ"
-        }
-      ],
-      "duration_ms": 200694,
-      "name": "I\u2019m Here For You Now",
-      "url": "https://open.spotify.com/track/2mrFXNlzPzqIpFZnZorm2L"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Passa dig",
+        "url": "https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG"
+      },
+      "artists": [
+        {
+          "name": "NOVELLEN",
+          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+        }
+      ],
+      "duration_ms": 148853,
+      "name": "Passa dig",
+      "url": "https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Josephine",
         "url": "https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Passa dig",
-        "url": "https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG"
+        "name": "Weak Point",
+        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
       },
       "artists": [
         {
-          "name": "NOVELLEN",
-          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
         }
       ],
-      "duration_ms": 148853,
-      "name": "Passa dig",
-      "url": "https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l"
+      "duration_ms": 285520,
+      "name": "Weak Point",
+      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1463,22 +1479,6 @@
       "duration_ms": 205125,
       "name": "Hejd\u00e5 f\u00f6r alltid",
       "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Weak Point",
-        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
-      },
-      "artists": [
-        {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
-        }
-      ],
-      "duration_ms": 285520,
-      "name": "Weak Point",
-      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
     },
     {
       "added_at": "2024-10-24 22:00:00",

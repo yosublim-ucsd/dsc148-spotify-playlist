@@ -235,18 +235,22 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
-        "name": "TYRON",
-        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
+        "name": "Grime MC",
+        "url": "https://open.spotify.com/album/5o5xRlwkhpipPC0jGi2Sm2"
       },
       "artists": [
         {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
         }
       ],
-      "duration_ms": 138613,
-      "name": "VEX",
-      "url": "https://open.spotify.com/track/0l6D20UUxbOemPoaGneKK6"
+      "duration_ms": 210857,
+      "name": "Knock Your Block Off",
+      "url": "https://open.spotify.com/track/69B4JVH2U2atBaGXc8OoQA"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -271,22 +275,18 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
-        "name": "Grime MC",
-        "url": "https://open.spotify.com/album/5o5xRlwkhpipPC0jGi2Sm2"
+        "name": "TYRON",
+        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
       },
       "artists": [
         {
-          "name": "Jme",
-          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
-        },
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
         }
       ],
-      "duration_ms": 210857,
-      "name": "Knock Your Block Off",
-      "url": "https://open.spotify.com/track/69B4JVH2U2atBaGXc8OoQA"
+      "duration_ms": 138613,
+      "name": "VEX",
+      "url": "https://open.spotify.com/track/0l6D20UUxbOemPoaGneKK6"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -491,46 +491,6 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
-        "name": "IC3 (feat. Skepta)",
-        "url": "https://open.spotify.com/album/7v6szHhIR7htrfITIGCvFB"
-      },
-      "artists": [
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "IC3 (feat. Skepta) - Single Version",
-      "url": "https://open.spotify.com/track/0BMszcKwCrUDHZX3CEEj6L"
-    },
-    {
-      "added_at": "2024-08-05 15:12:19",
-      "album": {
-        "name": "RAVERS",
-        "url": "https://open.spotify.com/album/5NHnOQSE4T8ta7faScWQUm"
-      },
-      "artists": [
-        {
-          "name": "Sudi",
-          "url": "https://open.spotify.com/artist/0G5SEIqYrEqJMM7vuhrDGT"
-        },
-        {
-          "name": "NJRG\u00c9",
-          "url": "https://open.spotify.com/artist/0aECqAArCR7KYcDT7POLwb"
-        }
-      ],
-      "duration_ms": 122790,
-      "name": "RAVERS",
-      "url": "https://open.spotify.com/track/3RHQgyAwmc1P9qU0d8VZfv"
-    },
-    {
-      "added_at": "2024-08-05 15:12:19",
-      "album": {
         "name": "Money Over Everyone 4",
         "url": "https://open.spotify.com/album/5ybqrMOT6VflXKiZNqq4BJ"
       },
@@ -555,6 +515,46 @@
       "duration_ms": 251217,
       "name": "Wagwarn Mumsy",
       "url": "https://open.spotify.com/track/2J7WLjBg4WaNJMANhNiTId"
+    },
+    {
+      "added_at": "2024-08-05 15:12:19",
+      "album": {
+        "name": "RAVERS",
+        "url": "https://open.spotify.com/album/5NHnOQSE4T8ta7faScWQUm"
+      },
+      "artists": [
+        {
+          "name": "Sudi",
+          "url": "https://open.spotify.com/artist/0G5SEIqYrEqJMM7vuhrDGT"
+        },
+        {
+          "name": "NJRG\u00c9",
+          "url": "https://open.spotify.com/artist/0aECqAArCR7KYcDT7POLwb"
+        }
+      ],
+      "duration_ms": 122790,
+      "name": "RAVERS",
+      "url": "https://open.spotify.com/track/3RHQgyAwmc1P9qU0d8VZfv"
+    },
+    {
+      "added_at": "2024-08-05 15:12:19",
+      "album": {
+        "name": "IC3 (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7v6szHhIR7htrfITIGCvFB"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "IC3 (feat. Skepta) - Single Version",
+      "url": "https://open.spotify.com/track/0BMszcKwCrUDHZX3CEEj6L"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
+        "name": "Conflict Of Interest",
+        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Fire and Brimstone",
+      "url": "https://open.spotify.com/track/2lyDT6B5SciPljZUBrNJCu"
+    },
+    {
+      "added_at": "2024-08-05 15:12:19",
+      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr"
       },
@@ -651,6 +667,26 @@
       "duration_ms": 163750,
       "name": "Black",
       "url": "https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7"
+    },
+    {
+      "added_at": "2024-08-05 15:12:19",
+      "album": {
+        "name": "CHARIZARD",
+        "url": "https://open.spotify.com/album/3gRuMKrtdrDTJDPfFhPVB9"
+      },
+      "artists": [
+        {
+          "name": "Double Cup Kase",
+          "url": "https://open.spotify.com/artist/1kD83KEyxS4fpDNe8YpDH8"
+        },
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        }
+      ],
+      "duration_ms": 145040,
+      "name": "CHARIZARD",
+      "url": "https://open.spotify.com/track/6jOETi0FEcQY7mjQWZFWWg"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -703,42 +739,6 @@
       "duration_ms": 270000,
       "name": "Mobb Mentality",
       "url": "https://open.spotify.com/track/5GSU7lZscTRnRBx1KvvESu"
-    },
-    {
-      "added_at": "2024-08-05 15:12:19",
-      "album": {
-        "name": "CHARIZARD",
-        "url": "https://open.spotify.com/album/3gRuMKrtdrDTJDPfFhPVB9"
-      },
-      "artists": [
-        {
-          "name": "Double Cup Kase",
-          "url": "https://open.spotify.com/artist/1kD83KEyxS4fpDNe8YpDH8"
-        },
-        {
-          "name": "Sentimento",
-          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
-        }
-      ],
-      "duration_ms": 145040,
-      "name": "CHARIZARD",
-      "url": "https://open.spotify.com/track/6jOETi0FEcQY7mjQWZFWWg"
-    },
-    {
-      "added_at": "2024-08-05 15:12:19",
-      "album": {
-        "name": "Conflict Of Interest",
-        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
-      },
-      "artists": [
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Fire and Brimstone",
-      "url": "https://open.spotify.com/track/2lyDT6B5SciPljZUBrNJCu"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -831,22 +831,26 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
-        "name": "Don",
-        "url": "https://open.spotify.com/album/2tGK7RMSxamEDszAudslu9"
+        "name": "Bout It X2",
+        "url": "https://open.spotify.com/album/5YoaKsQ7Clun1ACQAsayYe"
       },
       "artists": [
         {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+          "name": "So Large",
+          "url": "https://open.spotify.com/artist/5wUWJullIwzFc4VZl9WSEK"
         },
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+        },
+        {
+          "name": "Bossman Birdie",
+          "url": "https://open.spotify.com/artist/13sqxAHntdRq2aWVbuYmSg"
         }
       ],
-      "duration_ms": 178751,
-      "name": "Don",
-      "url": "https://open.spotify.com/track/2IpgY875kETOlXmmIhp8hj"
+      "duration_ms": 152500,
+      "name": "Bout It X2",
+      "url": "https://open.spotify.com/track/3ifa4FrS2Ie7PB3SAd7LhW"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -871,26 +875,22 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
-        "name": "Bout It X2",
-        "url": "https://open.spotify.com/album/5YoaKsQ7Clun1ACQAsayYe"
+        "name": "Kurupt FM present The Lost Tape",
+        "url": "https://open.spotify.com/album/79DCkBypKvlXvhAIrkQdOu"
       },
       "artists": [
         {
-          "name": "So Large",
-          "url": "https://open.spotify.com/artist/5wUWJullIwzFc4VZl9WSEK"
+          "name": "Cage",
+          "url": "https://open.spotify.com/artist/6VnQTprAiF2mdQ5od27yMx"
         },
         {
-          "name": "Sir Spyro",
-          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
-        },
-        {
-          "name": "Bossman Birdie",
-          "url": "https://open.spotify.com/artist/13sqxAHntdRq2aWVbuYmSg"
+          "name": "Danny Weed",
+          "url": "https://open.spotify.com/artist/2uHVEcBrzrepd21LZ3WoR9"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Bout It X2",
-      "url": "https://open.spotify.com/track/3ifa4FrS2Ie7PB3SAd7LhW"
+      "duration_ms": 123146,
+      "name": "Creeper",
+      "url": "https://open.spotify.com/track/2XR8H94sCslZMKr48tSlVQ"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -919,22 +919,22 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
-        "name": "Kurupt FM present The Lost Tape",
-        "url": "https://open.spotify.com/album/79DCkBypKvlXvhAIrkQdOu"
+        "name": "Don",
+        "url": "https://open.spotify.com/album/2tGK7RMSxamEDszAudslu9"
       },
       "artists": [
         {
-          "name": "Cage",
-          "url": "https://open.spotify.com/artist/6VnQTprAiF2mdQ5od27yMx"
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
         },
         {
-          "name": "Danny Weed",
-          "url": "https://open.spotify.com/artist/2uHVEcBrzrepd21LZ3WoR9"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 123146,
-      "name": "Creeper",
-      "url": "https://open.spotify.com/track/2XR8H94sCslZMKr48tSlVQ"
+      "duration_ms": 178751,
+      "name": "Don",
+      "url": "https://open.spotify.com/track/2IpgY875kETOlXmmIhp8hj"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
-        "name": "Joe Pesci / Doughnuts",
-        "url": "https://open.spotify.com/album/1HPWj0bo30la2ngAtMOypU"
-      },
-      "artists": [
-        {
-          "name": "Meridian Dan",
-          "url": "https://open.spotify.com/artist/5UhqlN0em1N4hDjegJD1Lg"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Joe Pesci",
-      "url": "https://open.spotify.com/track/56yZtjgHz1DQLQhcMhhHET"
-    },
-    {
-      "added_at": "2024-08-05 15:12:19",
-      "album": {
         "name": "Only One King",
         "url": "https://open.spotify.com/album/05BMT5JyxcH2j6V8t0XpG3"
       },
@@ -1115,22 +1099,6 @@
       "duration_ms": 141441,
       "name": "Only One King",
       "url": "https://open.spotify.com/track/4Wq7oaaCrcUVcZ7cyrKoXb"
-    },
-    {
-      "added_at": "2024-08-05 15:12:19",
-      "album": {
-        "name": "Chop (Henry the 8th)",
-        "url": "https://open.spotify.com/album/2f4kUXl2Q0pb8VZgW385Rd"
-      },
-      "artists": [
-        {
-          "name": "Jaykae",
-          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
-        }
-      ],
-      "duration_ms": 180676,
-      "name": "Chop (Henry the 8th)",
-      "url": "https://open.spotify.com/track/4sHecHRP0Ir1uB3740figh"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -1179,6 +1147,38 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
+        "name": "Chop (Henry the 8th)",
+        "url": "https://open.spotify.com/album/2f4kUXl2Q0pb8VZgW385Rd"
+      },
+      "artists": [
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        }
+      ],
+      "duration_ms": 180676,
+      "name": "Chop (Henry the 8th)",
+      "url": "https://open.spotify.com/track/4sHecHRP0Ir1uB3740figh"
+    },
+    {
+      "added_at": "2024-08-05 15:12:19",
+      "album": {
+        "name": "Joe Pesci / Doughnuts",
+        "url": "https://open.spotify.com/album/1HPWj0bo30la2ngAtMOypU"
+      },
+      "artists": [
+        {
+          "name": "Meridian Dan",
+          "url": "https://open.spotify.com/artist/5UhqlN0em1N4hDjegJD1Lg"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "Joe Pesci",
+      "url": "https://open.spotify.com/track/56yZtjgHz1DQLQhcMhhHET"
+    },
+    {
+      "added_at": "2024-08-05 15:12:19",
+      "album": {
         "name": "AM TO PM",
         "url": "https://open.spotify.com/album/7d7Y3OyRxWiMlriJwBItKK"
       },
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
+        "name": "The Trials & Tribulations of C.E.O",
+        "url": "https://open.spotify.com/album/1utnE6WPg1slBBVU9EsN4N"
+      },
+      "artists": [
+        {
+          "name": "Chiedu Oraka",
+          "url": "https://open.spotify.com/artist/1yBSLjT7AXadtGIS7MOIfe"
+        },
+        {
+          "name": "Tawanda",
+          "url": "https://open.spotify.com/artist/2CWniSH2Pip8TM7i6w7mgJ"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "The Trials & Tribulations of C.E.O",
+      "url": "https://open.spotify.com/track/486RqKUdFOFNeRjfaC6Uf8"
+    },
+    {
+      "added_at": "2024-08-05 15:12:19",
+      "album": {
         "name": "Norf Face",
         "url": "https://open.spotify.com/album/7o6bhqYxz0nWyjwCYsmARy"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 55774,
       "name": "Jme's Pattern",
       "url": "https://open.spotify.com/track/0MScFULzqw1TMzYqwDF9SM"
-    },
-    {
-      "added_at": "2024-08-05 15:12:19",
-      "album": {
-        "name": "The Trials & Tribulations of C.E.O",
-        "url": "https://open.spotify.com/album/1utnE6WPg1slBBVU9EsN4N"
-      },
-      "artists": [
-        {
-          "name": "Chiedu Oraka",
-          "url": "https://open.spotify.com/artist/1yBSLjT7AXadtGIS7MOIfe"
-        },
-        {
-          "name": "Tawanda",
-          "url": "https://open.spotify.com/artist/2CWniSH2Pip8TM7i6w7mgJ"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "The Trials & Tribulations of C.E.O",
-      "url": "https://open.spotify.com/track/486RqKUdFOFNeRjfaC6Uf8"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
+        "name": "Bulldozer",
+        "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "duration_ms": 301950,
+      "name": "Bulldozer",
+      "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
+    },
+    {
+      "added_at": "2024-08-05 15:12:19",
+      "album": {
         "name": "Everywhere + Nowhere (Black Edition Deluxe)",
         "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
       },
@@ -1367,22 +1387,22 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
-        "name": "Bulldozer",
-        "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
+        "name": "Charizard Freestyle",
+        "url": "https://open.spotify.com/album/4y7ktIWBKRhmHAceQqnUtT"
       },
       "artists": [
         {
-          "name": "DJ Lag",
-          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+          "name": "Footsie",
+          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
         },
         {
-          "name": "Novelist",
-          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
         }
       ],
-      "duration_ms": 301950,
-      "name": "Bulldozer",
-      "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
+      "duration_ms": 142000,
+      "name": "Charizard Freestyle",
+      "url": "https://open.spotify.com/track/1GJ0TET9MTZgcxrmgiV2NV"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -1403,26 +1423,6 @@
       "duration_ms": 162000,
       "name": "Come From",
       "url": "https://open.spotify.com/track/7dmlWyfECfsgQ9OFTVPejU"
-    },
-    {
-      "added_at": "2024-08-05 15:12:19",
-      "album": {
-        "name": "Charizard Freestyle",
-        "url": "https://open.spotify.com/album/4y7ktIWBKRhmHAceQqnUtT"
-      },
-      "artists": [
-        {
-          "name": "Footsie",
-          "url": "https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX"
-        },
-        {
-          "name": "Sir Spyro",
-          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Charizard Freestyle",
-      "url": "https://open.spotify.com/track/1GJ0TET9MTZgcxrmgiV2NV"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -1583,38 +1583,6 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
-        "name": "Skeem Set",
-        "url": "https://open.spotify.com/album/5rQM7qRMF6Yqdy4hTyzcrh"
-      },
-      "artists": [
-        {
-          "name": "Milli Major",
-          "url": "https://open.spotify.com/artist/3W9YITTXHsmQBGXJqTXLvJ"
-        },
-        {
-          "name": "Novelist",
-          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
-        },
-        {
-          "name": "Safone",
-          "url": "https://open.spotify.com/artist/48lG9Do8JhbK2RxFTGpGlU"
-        },
-        {
-          "name": "So Large",
-          "url": "https://open.spotify.com/artist/5wUWJullIwzFc4VZl9WSEK"
-        },
-        {
-          "name": "Chronik",
-          "url": "https://open.spotify.com/artist/7kgvZ3N2rEUcJQ4ubHo2MG"
-        }
-      ],
-      "duration_ms": 189322,
-      "name": "Skeem Set",
-      "url": "https://open.spotify.com/track/0CrZGWJgOdWYDXxuM48gCe"
-    },
-    {
-      "added_at": "2024-08-05 15:12:19",
-      "album": {
         "name": "Have A Go",
         "url": "https://open.spotify.com/album/5YuKVCcJcbdFbH9FpiDgoL"
       },
@@ -1643,22 +1611,34 @@
     {
       "added_at": "2024-08-05 15:12:19",
       "album": {
-        "name": "Kruddy",
-        "url": "https://open.spotify.com/album/2utKF5HawsgV7gvH83Wc0O"
+        "name": "Skeem Set",
+        "url": "https://open.spotify.com/album/5rQM7qRMF6Yqdy4hTyzcrh"
       },
       "artists": [
         {
-          "name": "Mr Manage",
-          "url": "https://open.spotify.com/artist/55BiJCGfUbwHhWtydRvQnH"
+          "name": "Milli Major",
+          "url": "https://open.spotify.com/artist/3W9YITTXHsmQBGXJqTXLvJ"
         },
         {
-          "name": "Papez Musix",
-          "url": "https://open.spotify.com/artist/64bMP8RVziWcUHoQrJoZxy"
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        },
+        {
+          "name": "Safone",
+          "url": "https://open.spotify.com/artist/48lG9Do8JhbK2RxFTGpGlU"
+        },
+        {
+          "name": "So Large",
+          "url": "https://open.spotify.com/artist/5wUWJullIwzFc4VZl9WSEK"
+        },
+        {
+          "name": "Chronik",
+          "url": "https://open.spotify.com/artist/7kgvZ3N2rEUcJQ4ubHo2MG"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Kruddy",
-      "url": "https://open.spotify.com/track/0gxCaMPURIuLdhBzEkccIK"
+      "duration_ms": 189322,
+      "name": "Skeem Set",
+      "url": "https://open.spotify.com/track/0CrZGWJgOdWYDXxuM48gCe"
     },
     {
       "added_at": "2024-08-05 15:12:19",
@@ -1703,6 +1683,26 @@
       "duration_ms": 139285,
       "name": "Vision",
       "url": "https://open.spotify.com/track/2GCCsigV4jpXwnE5mpCs5p"
+    },
+    {
+      "added_at": "2024-08-05 15:12:19",
+      "album": {
+        "name": "Kruddy",
+        "url": "https://open.spotify.com/album/2utKF5HawsgV7gvH83Wc0O"
+      },
+      "artists": [
+        {
+          "name": "Mr Manage",
+          "url": "https://open.spotify.com/artist/55BiJCGfUbwHhWtydRvQnH"
+        },
+        {
+          "name": "Papez Musix",
+          "url": "https://open.spotify.com/artist/64bMP8RVziWcUHoQrJoZxy"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Kruddy",
+      "url": "https://open.spotify.com/track/0gxCaMPURIuLdhBzEkccIK"
     },
     {
       "added_at": "2024-08-05 15:12:19",

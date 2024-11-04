@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa ibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,697 likes - 103 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,698 likes - 103 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 4 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
 | 5 | [Heart of Gold](https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL) | 2:51 |
 | 6 | [Oo mulle koti](https://open.spotify.com/track/1XTvn5QbHLoH1OGadmOwDb) | [Ellis](https://open.spotify.com/artist/77ErZnrAVkCSHMNTOjQwxu) | [Oo mulle koti](https://open.spotify.com/album/72wb956b2iiBdy0hO2W3u2) | 3:02 |
-| 7 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
+| 7 | [death bed, Pt\. 2](https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Daniel Saint](https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB), [chill sebs](https://open.spotify.com/artist/6SiKEPYrOXoQT6GbreDRvF) | [tell me your feelings and i won’t tell you mine, Pt\. 3](https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW) | 3:04 |
 | 8 | [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/track/7HAtisoxJ9jmNud1DjvHir) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/album/7GBNdMGzuiqOC1zaoLGGIi) | 3:37 |
 | 9 | [Kaukosuhdelaulu](https://open.spotify.com/track/6BNmwrR41r3PELKRVuRrM4) | [EME](https://open.spotify.com/artist/2g0v8ntUy4SSbvrHhUljE5) | [Pahoin pelkään \- EP](https://open.spotify.com/album/4aUkp994w9EHkdqcmqxRQo) | 2:53 |
 | 10 | [Drunk](https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Drunk](https://open.spotify.com/album/55DFqfotSUPU7MSv6NuK8m) | 3:22 |

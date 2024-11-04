@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 9 hr 8 min
+175 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [With You](https://open.spotify.com/track/4ZUuOeKWRKaKe9inyamD6H) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [With You \(Official Video\)](https://open.spotify.com/album/4mzMdRYWzG2a8YakJ4ZXx6) | 3:01 | 2023-12-31 | 2024-02-02 |
 | [Woman Up](https://open.spotify.com/track/1BHfxwjNbzbQFphMCpxiRq) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:28 | 2023-12-30 |  |
 | [Workin' On It \(feat\. Lennon Stella & Sasha Alex Sloan\)](https://open.spotify.com/track/4y1F0A5GeyDN5EdAIggqTB) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:01 | 2023-12-30 |  |
-| [Wrap Me Up](https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Wrap Me Up](https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik) | 2:28 | 2024-01-09 |  |
+| [Wrap Me Up](https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Wrap Me Up](https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik) | 2:28 | 2024-01-09 | 2024-11-04 |
+| [Wrap Me Up \(with Meghan Trainor\)](https://open.spotify.com/track/6WSfxowBJgi90qkWeJO5H3) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Holiday Seasoning](https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy) | 2:28 | 2024-11-03 |  |
 | [You Deserve It All](https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [You Deserve It All](https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd) | 3:18 | 2023-12-30 |  |
 | [You Don't Know Me](https://open.spotify.com/track/3xGTNPcwsvonkWUQV1Wsqu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 3:30 | 2023-12-30 |  |
 | [You Gotta Not](https://open.spotify.com/track/11GdgPlzK9Vzn0DV8gHQmd) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:11 | 2023-12-30 |  |

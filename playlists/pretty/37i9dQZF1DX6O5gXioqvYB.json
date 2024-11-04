@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Alek",
-  "num_followers": 33712,
+  "num_followers": 33708,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-10-24 22:01:00",
       "album": {
+        "name": "PARTITA A SCACCHI",
+        "url": "https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49"
+      },
+      "artists": [
+        {
+          "name": "Daria Huber",
+          "url": "https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "PARTITA A SCACCHI",
+      "url": "https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0"
+    },
+    {
+      "added_at": "2024-10-24 22:01:00",
+      "album": {
         "name": "A me fa schifo l'America",
         "url": "https://open.spotify.com/album/0vifYd4MXA8MBmr181hPxL"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 191868,
       "name": "A me fa schifo l'America",
       "url": "https://open.spotify.com/track/6I4OeRyto3U4gNY2oiSepv"
-    },
-    {
-      "added_at": "2024-10-24 22:01:00",
-      "album": {
-        "name": "PARTITA A SCACCHI",
-        "url": "https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49"
-      },
-      "artists": [
-        {
-          "name": "Daria Huber",
-          "url": "https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "PARTITA A SCACCHI",
-      "url": "https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0"
     },
     {
       "added_at": "2024-10-24 22:01:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-10-24 22:01:00",
       "album": {
-        "name": "Mosche",
-        "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
-      },
-      "artists": [
-        {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
-        }
-      ],
-      "duration_ms": 155036,
-      "name": "Mosche",
-      "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
-    },
-    {
-      "added_at": "2024-10-24 22:01:00",
-      "album": {
         "name": "Eroi",
         "url": "https://open.spotify.com/album/5AjqUnrSKRdRlKK9H5VYOP"
       },
@@ -563,6 +547,38 @@
     {
       "added_at": "2024-10-24 22:01:00",
       "album": {
+        "name": "girammo tutto in una macchina",
+        "url": "https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq"
+      },
+      "artists": [
+        {
+          "name": "tinai",
+          "url": "https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "nevischio su ande",
+      "url": "https://open.spotify.com/track/2mVHvwPlviLFVtIAM2ERRp"
+    },
+    {
+      "added_at": "2024-10-24 22:01:00",
+      "album": {
+        "name": "Mosche",
+        "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "duration_ms": 155036,
+      "name": "Mosche",
+      "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
+    },
+    {
+      "added_at": "2024-10-24 22:01:00",
+      "album": {
         "name": "luci dell'autostrada",
         "url": "https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF"
       },
@@ -579,18 +595,18 @@
     {
       "added_at": "2024-10-24 22:01:00",
       "album": {
-        "name": "girammo tutto in una macchina",
-        "url": "https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq"
+        "name": "Settembre",
+        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
       },
       "artists": [
         {
-          "name": "tinai",
-          "url": "https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP"
+          "name": "Nuela",
+          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
         }
       ],
-      "duration_ms": 169813,
-      "name": "nevischio su ande",
-      "url": "https://open.spotify.com/track/2mVHvwPlviLFVtIAM2ERRp"
+      "duration_ms": 181978,
+      "name": "Settembre",
+      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
     },
     {
       "added_at": "2024-10-24 22:01:00",
@@ -627,18 +643,18 @@
     {
       "added_at": "2024-10-24 22:01:00",
       "album": {
-        "name": "Settembre",
-        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
+        "name": "Piramidi",
+        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
       },
       "artists": [
         {
-          "name": "Nuela",
-          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
+          "name": "Paul Giorgi",
+          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
         }
       ],
-      "duration_ms": 181978,
-      "name": "Settembre",
-      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
+      "duration_ms": 192846,
+      "name": "Piramidi",
+      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
     },
     {
       "added_at": "2024-10-24 22:01:00",
@@ -655,22 +671,6 @@
       "duration_ms": 152000,
       "name": "Sotto",
       "url": "https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD"
-    },
-    {
-      "added_at": "2024-10-24 22:01:00",
-      "album": {
-        "name": "Piramidi",
-        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
-      },
-      "artists": [
-        {
-          "name": "Paul Giorgi",
-          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
-        }
-      ],
-      "duration_ms": 192846,
-      "name": "Piramidi",
-      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
     },
     {
       "added_at": "2024-10-24 22:01:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-10-24 22:01:00",
       "album": {
-        "name": "fuori dalla stanza",
-        "url": "https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv"
+        "name": "Pennette alla vodka",
+        "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
       },
       "artists": [
         {
-          "name": "H\u00c5N",
-          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+          "name": "L'operazione Camarillo",
+          "url": "https://open.spotify.com/artist/6tiaKBsvIaM6UPWWO4yMO4"
         }
       ],
-      "duration_ms": 182908,
-      "name": "Fare finta",
-      "url": "https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF"
+      "duration_ms": 181191,
+      "name": "Pennette alla vodka",
+      "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
     },
     {
       "added_at": "2024-10-24 22:01:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-10-24 22:01:00",
       "album": {
-        "name": "Pennette alla vodka",
-        "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
+        "name": "fuori dalla stanza",
+        "url": "https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv"
       },
       "artists": [
         {
-          "name": "L'operazione Camarillo",
-          "url": "https://open.spotify.com/artist/6tiaKBsvIaM6UPWWO4yMO4"
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
         }
       ],
-      "duration_ms": 181191,
-      "name": "Pennette alla vodka",
-      "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
+      "duration_ms": 182908,
+      "name": "Fare finta",
+      "url": "https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF"
     },
     {
       "added_at": "2024-10-24 22:01:00",
@@ -995,38 +995,6 @@
     {
       "added_at": "2024-10-24 22:01:00",
       "album": {
-        "name": "fuori posto",
-        "url": "https://open.spotify.com/album/2ALZ0XtzkNIopRyLR1Q4n4"
-      },
-      "artists": [
-        {
-          "name": "Giuze",
-          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "fuori posto",
-      "url": "https://open.spotify.com/track/6Zv96JypFgMtT0b9ZovleH"
-    },
-    {
-      "added_at": "2024-10-24 22:01:00",
-      "album": {
-        "name": "Alta Marea",
-        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
-        }
-      ],
-      "duration_ms": 133109,
-      "name": "Alta Marea",
-      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
-    },
-    {
-      "added_at": "2024-10-24 22:01:00",
-      "album": {
         "name": "insonnia",
         "url": "https://open.spotify.com/album/7FZyxHxuNHP81BGI4FrYnn"
       },
@@ -1043,6 +1011,22 @@
     {
       "added_at": "2024-10-24 22:01:00",
       "album": {
+        "name": "fuori posto",
+        "url": "https://open.spotify.com/album/2ALZ0XtzkNIopRyLR1Q4n4"
+      },
+      "artists": [
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "fuori posto",
+      "url": "https://open.spotify.com/track/6Zv96JypFgMtT0b9ZovleH"
+    },
+    {
+      "added_at": "2024-10-24 22:01:00",
+      "album": {
         "name": "catramen",
         "url": "https://open.spotify.com/album/1Uu6rPp1cKEvNU3OMFomY2"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 194909,
       "name": "catramen",
       "url": "https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g"
+    },
+    {
+      "added_at": "2024-10-24 22:01:00",
+      "album": {
+        "name": "Alta Marea",
+        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
+        }
+      ],
+      "duration_ms": 133109,
+      "name": "Alta Marea",
+      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
     },
     {
       "added_at": "2024-10-24 22:01:00",
@@ -1087,6 +1087,22 @@
       "duration_ms": 205758,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
+    },
+    {
+      "added_at": "2024-10-24 22:01:00",
+      "album": {
+        "name": "Preda",
+        "url": "https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Preda",
+      "url": "https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc"
     },
     {
       "added_at": "2024-10-24 22:01:00",
@@ -1127,22 +1143,6 @@
       "duration_ms": 165818,
       "name": "Estate Inverno",
       "url": "https://open.spotify.com/track/4Vv6gdijmH1LPOI24IRyWe"
-    },
-    {
-      "added_at": "2024-10-24 22:01:00",
-      "album": {
-        "name": "Preda",
-        "url": "https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj"
-      },
-      "artists": [
-        {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Preda",
-      "url": "https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc"
     },
     {
       "added_at": "2024-10-24 22:01:00",

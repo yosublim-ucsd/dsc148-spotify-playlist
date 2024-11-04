@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-619 songs - 1 day 13 hr 21 min
+620 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-26 | 2024-10-12 |
 | [NOTHING COMPARES \(feat\. Emmavie & Theophonixx\)](https://open.spotify.com/track/3iJUTbFJBKOOoGvtbfXAoz) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Theophonixx](https://open.spotify.com/artist/7cd3zVL8BqvScMLSORiele) | [Paradigm Shift](https://open.spotify.com/album/5uEbP31l5YIIzRWsGqCd6b) | 4:29 | 2024-04-12 | 2024-06-08 |
 | [Nowhere](https://open.spotify.com/track/3lHp0poD3gdNg3uhaxodn5) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc) | [Submerge](https://open.spotify.com/album/33U1cvheAyAUQnXoanTKj4) | 3:52 | 2024-07-19 | 2024-08-10 |
+| [OCTOBER 31ST](https://open.spotify.com/track/2EAGVTNgLarIWJjMzI0Gel) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [OCTOBER 31ST](https://open.spotify.com/album/5V2Kwexz6WnFwQljn1Fs2n) | 4:05 | 2024-11-01 |  |
 | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/track/6cLAX064e8EpvsA31qIIyM) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/album/54oMEdSvDTdkmsZolcOTlc) | 4:17 | 2022-09-09 | 2022-11-14 |
 | [Of Another Kind \(feat\. Milan Ring & Jerome Farah\)](https://open.spotify.com/track/7jLsZNfZHaUfWtdQw5tmvK) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Panna Cotta](https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY) | 4:17 | 2022-09-09 | 2023-05-06 |
 | [On My Mind](https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer \(Deluxe\)](https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj) | 3:54 | 2022-11-04 | 2024-05-18 |
@@ -606,7 +607,7 @@
 | [Whatcha Know](https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Whatcha Know](https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ) | 3:54 | 2023-06-16 |  |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-10-03 |  |
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2021-12-03 | 2023-04-01 |
-| [When You're Lonely](https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Son of Zeus](https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN) | 2:36 | 2024-03-08 |  |
+| [When You're Lonely](https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Son of Zeus](https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN) | 2:36 | 2024-03-08 | 2024-11-04 |
 | [Where Do We Go](https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Where Do We Go](https://open.spotify.com/album/3hitxecfhBZ4UFBgDdRCLi) | 4:59 | 2024-01-19 |  |
 | [Where Have I Been?](https://open.spotify.com/track/7LJDu7j29gWGyM1R2c224J) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Where Have I Been?](https://open.spotify.com/album/5ARvrX3Ec7G4vMp5cpeNoH) | 3:44 | 2024-03-01 | 2024-04-06 |
 | [Whippedlashed](https://open.spotify.com/track/1f6AmSEPyeytGkXAAcjafv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 1:01 | 2024-08-02 | 2024-10-25 |

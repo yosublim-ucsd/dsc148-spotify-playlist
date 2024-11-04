@@ -1,29 +1,13 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19461,
+  "num_followers": 19471,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAAAVPn8M2675BbRR5sLcQR0t",
+  "snapshot_id": "ZyVrgAAAAABgvERnL8ibxc6Eae3R3DeI",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flex (Ooh, Ooh, Ooh) - Single",
-        "url": "https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 176744,
-      "name": "Flex (Ooh, Ooh, Ooh)",
-      "url": "https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 269693,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flex (Ooh, Ooh, Ooh) - Single",
+        "url": "https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 176744,
+      "name": "Flex (Ooh, Ooh, Ooh)",
+      "url": "https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Sinning",
+        "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 176009,
+      "name": "Still Sinning",
+      "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Authentic (feat. Clever)",
         "url": "https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 192266,
       "name": "Authentic (feat. Clever)",
       "url": "https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Sinning",
-        "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 176009,
-      "name": "Still Sinning",
-      "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2044,
+  "num_followers": 2045,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAAC2/aZxnturReEPQA9tQOWX",
+  "snapshot_id": "ZyVrgAAAAACdo6XfcpvGeltyMnvzqVli",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Jordin Sandoval",
-          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
-        }
-      ],
-      "duration_ms": 145493,
-      "name": "El Dragon",
-      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Lic",
         "url": "https://open.spotify.com/album/2xZEwYIbbGnjvKOL89DjJS"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 124438,
       "name": "El Lic",
       "url": "https://open.spotify.com/track/47zq3s9SJbPsFLSAutzZ3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Jordin Sandoval",
+          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
+        }
+      ],
+      "duration_ms": 145493,
+      "name": "El Dragon",
+      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 154154,
-      "name": "Que Cambie",
-      "url": "https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nos Gusto El Estilo",
         "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 179141,
       "name": "Nos Gusto El Estilo",
       "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 154154,
+      "name": "Que Cambie",
+      "url": "https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ac\u00e1 Por Tijuana (En Vivo)",
+        "url": "https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 134184,
+      "name": "Ac\u00e1 Por Tijuana - En Vivo",
+      "url": "https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 110256,
       "name": "RZR Rojo - En Vivo",
       "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ac\u00e1 Por Tijuana (En Vivo)",
-        "url": "https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 134184,
-      "name": "Ac\u00e1 Por Tijuana - En Vivo",
-      "url": "https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maserati (En Vivo)",
-        "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Grupo Agrado",
-          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
-        }
-      ],
-      "duration_ms": 162474,
-      "name": "El Maserati - En Vivo",
-      "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canchame",
         "url": "https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 210780,
       "name": "Canchame",
       "url": "https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Maserati (En Vivo)",
+        "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Grupo Agrado",
+          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
+        }
+      ],
+      "duration_ms": 162474,
+      "name": "El Maserati - En Vivo",
+      "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
     },
     {
       "added_at": null,
@@ -1022,11 +1022,15 @@
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Charly Barraza",
+          "url": "https://open.spotify.com/artist/0lt4tPr7zkjrESUVY4zEBY"
         }
       ],
-      "duration_ms": 170368,
-      "name": "El De La Misma L\u00ednea - En Vivo",
-      "url": "https://open.spotify.com/track/5xH8sGBGGyHEZuGgL7EGsq"
+      "duration_ms": 163980,
+      "name": "Empec\u00e9 De Abajo - En Vivo",
+      "url": "https://open.spotify.com/track/55wYSAADl63qjatMruo31p"
     }
   ],
   "unique_name": "This Is Alex Favela",

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 173006,
+  "num_followers": 173060,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAABfXqI3ppNeeGciqr6rBGpg",
+  "snapshot_id": "ZyVrgAAAAACNuLkKJH1CHNXqL8CtzwbK",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vida O Muerte",
-        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 153733,
-      "name": "La Costumbre",
-      "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Pegue",
         "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 211200,
       "name": "El Subteniente Linares",
       "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Vida O Muerte",
+        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 153733,
+      "name": "La Costumbre",
+      "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 140333,
-      "name": "Te Sorprend\u00ed Llorando",
-      "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Pegue",
         "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 197160,
       "name": "Alfredo Galeana",
       "url": "https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 140333,
+      "name": "Te Sorprend\u00ed Llorando",
+      "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi H\u00e9roe",
-        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Degenerado",
-      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+        "name": "Mi H\u00e9roe",
+        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 158893,
-      "name": "La Vieja Banca",
-      "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
+      "duration_ms": 159013,
+      "name": "Degenerado",
+      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 155506,
       "name": "La Tumba Ser\u00e1 El Final",
       "url": "https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "La Vieja Banca",
+      "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
     },
     {
       "added_at": null,

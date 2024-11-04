@@ -1,6 +1,6 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 63376,
+  "num_followers": 63377,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "What If Leaving Is a Loving Thing",
-        "url": "https://open.spotify.com/album/5eIZ42osOPPTKEL65l8rV3"
+        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
+        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
       },
       "artists": [
         {
-          "name": "Sahara Hotnights",
-          "url": "https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Cheek to Cheek",
-      "url": "https://open.spotify.com/track/4qjWcGhRQ28WEYuLDZ4aAR"
+      "duration_ms": 196866,
+      "name": "Ramlar",
+      "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
+        "name": "What If Leaving Is a Loving Thing",
+        "url": "https://open.spotify.com/album/5eIZ42osOPPTKEL65l8rV3"
+      },
+      "artists": [
+        {
+          "name": "Sahara Hotnights",
+          "url": "https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Cheek to Cheek",
+      "url": "https://open.spotify.com/track/4qjWcGhRQ28WEYuLDZ4aAR"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
         "name": "In Lust We Trust",
         "url": "https://open.spotify.com/album/2853c5Z7BEfJCaFltIQ0C7"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 272360,
       "name": "Calleth You, Cometh I",
       "url": "https://open.spotify.com/track/2kvg4AwMIstkygdQhfFfSf"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
-        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Ramlar",
-      "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -603,6 +603,38 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
+        "name": "Det \u00e4r s\u00e5 jag s\u00e4ger det",
+        "url": "https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 231320,
+      "name": "Kom igen Lena!",
+      "url": "https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "State of the Ark",
+        "url": "https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 210643,
+      "name": "One Of Us Is Gonna Die Young",
+      "url": "https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
         "name": "Broder Daniel",
         "url": "https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk"
       },
@@ -651,34 +683,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "State of the Ark",
-        "url": "https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr"
+        "name": "Must Exist",
+        "url": "https://open.spotify.com/album/1D3OftGf5JVBPyf7TiqfZ3"
       },
       "artists": [
         {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+          "name": "Nicole Saboun\u00e9",
+          "url": "https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk"
         }
       ],
-      "duration_ms": 210643,
-      "name": "One Of Us Is Gonna Die Young",
-      "url": "https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "Det \u00e4r s\u00e5 jag s\u00e4ger det",
-        "url": "https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 231320,
-      "name": "Kom igen Lena!",
-      "url": "https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX"
+      "duration_ms": 222052,
+      "name": "I Surrender (Bonus Track)",
+      "url": "https://open.spotify.com/track/5JMEkaqHSv7MeCpeoXCfg2"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -695,22 +711,6 @@
       "duration_ms": 196093,
       "name": "Palace Station",
       "url": "https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "Must Exist",
-        "url": "https://open.spotify.com/album/1D3OftGf5JVBPyf7TiqfZ3"
-      },
-      "artists": [
-        {
-          "name": "Nicole Saboun\u00e9",
-          "url": "https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk"
-        }
-      ],
-      "duration_ms": 222052,
-      "name": "I Surrender (Bonus Track)",
-      "url": "https://open.spotify.com/track/5JMEkaqHSv7MeCpeoXCfg2"
     },
     {
       "added_at": "2024-06-24 11:47:22",

@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 379963,
+  "num_followers": 380208,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,42 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Uma Nova Histo\u0301ria - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
+        "name": "Enche-me (Ao Vivo)",
+        "url": "https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 450560,
+      "name": "Enche-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
         "name": "Tua Gra\u00e7a Me Basta",
         "url": "https://open.spotify.com/album/4TfEJhEc8zjkdkp6HHEuhB"
       },
@@ -391,74 +427,6 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
-        "name": "Bondade De Deus",
-        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
-      },
-      "artists": [
-        {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
-        }
-      ],
-      "duration_ms": 295714,
-      "name": "Bondade De Deus",
-      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Uma Nova Histo\u0301ria - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
-        "name": "Eu Creio (Believe For It)",
-        "url": "https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 383184,
-      "name": "Eu Creio (Believe For It)",
-      "url": "https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
-        "name": "Enche-me (Ao Vivo)",
-        "url": "https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 450560,
-      "name": "Enche-me - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
         "name": "Pra que outros possam viver",
         "url": "https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h"
       },
@@ -475,6 +443,22 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
+        "name": "Bondade De Deus",
+        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
+      },
+      "artists": [
+        {
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+        }
+      ],
+      "duration_ms": 295714,
+      "name": "Bondade De Deus",
+      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
         "name": "Tudo \u00e9 Poss\u00edvel",
         "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
       },
@@ -487,26 +471,6 @@
       "duration_ms": 395435,
       "name": "Tudo \u00e9 Poss\u00edvel",
       "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
-        "name": "\u00danico (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 506122,
-      "name": "\u00danico - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -531,6 +495,22 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
+        "name": "Eu Creio (Believe For It)",
+        "url": "https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 383184,
+      "name": "Eu Creio (Believe For It)",
+      "url": "https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
         "name": "Fornalha Laura Souguellis",
         "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 735253,
       "name": "Em Teus Bra\u00e7os",
       "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
+        "name": "\u00danico (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 506122,
+      "name": "\u00danico - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
+        "name": "Aba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 348364,
+      "name": "Aba - Ao Vivo",
+      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
         "name": "Restitui (ao Vivo)",
         "url": "https://open.spotify.com/album/3jKdDH1635WQtIUD52qCvp"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 259691,
       "name": "Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
-        "name": "Aba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 348364,
-      "name": "Aba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 399243,
+      "name": "O Que Sua Gl\u00f3ria Fez Comigo",
+      "url": "https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
         "name": "Saudade, Vol. 2",
         "url": "https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 426022,
       "name": "O Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 399243,
-      "name": "O Que Sua Gl\u00f3ria Fez Comigo",
-      "url": "https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
@@ -1011,22 +995,6 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
         "name": "Peregrino (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
       },
@@ -1043,6 +1011,38 @@
       "duration_ms": 330220,
       "name": "Peregrino - Ao vivo",
       "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
+        "name": "Meu Respirar / Meu Prazer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 323308,
+      "name": "Meu Respirar / Meu Prazer - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
         "name": "Cen\u00e1rio Favor\u00e1vel (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rMG5v18LdEJeZgwcNFFFc"
       },
@@ -1263,18 +1279,34 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
-        "name": "Meu Respirar / Meu Prazer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I"
+        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 323308,
-      "name": "Meu Respirar / Meu Prazer - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp"
+      "duration_ms": 390933,
+      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
+        "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 605638,
+      "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore - Ao Vivo",
+      "url": "https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -1311,38 +1343,6 @@
       "duration_ms": 680820,
       "name": "Tua Presen\u00e7a Vale Mais / Aviva-nos - Ao Vivo",
       "url": "https://open.spotify.com/track/3dNRehI1nc6CWCyc7kbtQD"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
-        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 390933,
-      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
-        "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 605638,
-      "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore - Ao Vivo",
-      "url": "https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
-        "name": "O Rei Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 227577,
-      "name": "O Rei Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
         "name": "\u00c9 Sobre Ele (Ao Vivo)",
         "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 638561,
       "name": "D\u00e1-Me Tua Gra\u00e7a",
       "url": "https://open.spotify.com/track/5wD1ENJDK5tDWsjqKZwpYk"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
+        "name": "O Rei Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 227577,
+      "name": "O Rei Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
-        "name": "Declare O Nome Dele",
-        "url": "https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury"
-      },
-      "artists": [
-        {
-          "name": "Thuanny Carvalho",
-          "url": "https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU"
-        }
-      ],
-      "duration_ms": 240887,
-      "name": "Declare o Nome Dele",
-      "url": "https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
         "name": "Santo dos Santos",
         "url": "https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk"
       },
@@ -1659,22 +1643,18 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
-        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
+        "name": "Declare O Nome Dele",
+        "url": "https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury"
       },
       "artists": [
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+          "name": "Thuanny Carvalho",
+          "url": "https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU"
         }
       ],
-      "duration_ms": 393163,
-      "name": "Amigo Incompar\u00e1vel - Ao vivo",
-      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
+      "duration_ms": 240887,
+      "name": "Declare o Nome Dele",
+      "url": "https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -1719,6 +1699,26 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
+        "name": "J\u00e1 Venci",
+        "url": "https://open.spotify.com/album/0zg4Jeg2ftD4HjFyPD1xby"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 255285,
+      "name": "J\u00e1 Venci",
+      "url": "https://open.spotify.com/track/0UfVSKatijzq6kluKkfRid"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
         "name": "Grande Rei (Yeshua Est\u00e1 Aqui) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0D9uLgFpC7UYPG5UVwMaza"
       },
@@ -1743,42 +1743,6 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
-        "name": "J\u00e1 Venci",
-        "url": "https://open.spotify.com/album/0zg4Jeg2ftD4HjFyPD1xby"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 255285,
-      "name": "J\u00e1 Venci",
-      "url": "https://open.spotify.com/track/0UfVSKatijzq6kluKkfRid"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
-        "name": "Raz\u00e3o da Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X"
-      },
-      "artists": [
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        }
-      ],
-      "duration_ms": 346615,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
         "name": "Filho Amado",
         "url": "https://open.spotify.com/album/03GtQ9AP9Z3qzk1JBJS01X"
       },
@@ -1795,6 +1759,26 @@
       "duration_ms": 274970,
       "name": "Sou Casa",
       "url": "https://open.spotify.com/track/2PlPnpolQJT50N4RjAbozA"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
+        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "duration_ms": 393163,
+      "name": "Amigo Incompar\u00e1vel - Ao vivo",
+      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -1823,6 +1807,22 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
+        "name": "Raz\u00e3o da Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X"
+      },
+      "artists": [
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "duration_ms": 346615,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
         "name": "N\u00e3o a N\u00f3s (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZIOvgzV9QPmIRu16ZrtmD"
       },
@@ -1843,26 +1843,6 @@
       "duration_ms": 364860,
       "name": "N\u00e3o a N\u00f3s - Ao Vivo",
       "url": "https://open.spotify.com/track/65tULRxe8b2cbj7sdhJiOy"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
-        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Nathanael Brito",
-          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
-        }
-      ],
-      "duration_ms": 602491,
-      "name": "Que Ele Cres\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -1927,6 +1907,26 @@
       "duration_ms": 313292,
       "name": "De Ti Preciso - Ao Vivo",
       "url": "https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
+        }
+      ],
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -2079,30 +2079,6 @@
     {
       "added_at": "2024-10-25 14:59:20",
       "album": {
-        "name": "A Boa Parte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
-      },
-      "artists": [
-        {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "D\u00e9bora Rabelo",
-          "url": "https://open.spotify.com/artist/422QvLrp4rn4VaTnb810uJ"
-        },
-        {
-          "name": "Hamilton Rabelo",
-          "url": "https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X"
-        }
-      ],
-      "duration_ms": 476736,
-      "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao vivo",
-      "url": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
         "name": "Raridade (Releitura)",
         "url": "https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj"
       },
@@ -2115,6 +2091,26 @@
       "duration_ms": 256161,
       "name": "Raridade (Releitura)",
       "url": "https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
+        "name": "Eu Tenho um Pai",
+        "url": "https://open.spotify.com/album/6vuQGR2TDY2u1pUPQdKSkV"
+      },
+      "artists": [
+        {
+          "name": "Virginia Arruda",
+          "url": "https://open.spotify.com/artist/5RUMApncGMcAxDhgg7akQa"
+        },
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Eu Tenho um Pai",
+      "url": "https://open.spotify.com/track/0a0h6tLDv7tDUaL4EsQIV4"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -2135,6 +2131,30 @@
       "duration_ms": 257959,
       "name": "O Amor Que Cura (Ao Vivo)",
       "url": "https://open.spotify.com/track/6as6g28GA0R4BJTDVj0ium"
+    },
+    {
+      "added_at": "2024-10-25 14:59:20",
+      "album": {
+        "name": "A Boa Parte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "D\u00e9bora Rabelo",
+          "url": "https://open.spotify.com/artist/422QvLrp4rn4VaTnb810uJ"
+        },
+        {
+          "name": "Hamilton Rabelo",
+          "url": "https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X"
+        }
+      ],
+      "duration_ms": 476736,
+      "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao vivo",
+      "url": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8"
     },
     {
       "added_at": "2024-10-25 14:59:20",
@@ -2171,26 +2191,6 @@
       "duration_ms": 283334,
       "name": "Deus \u00e9 Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/2G4qbVZk7fNJkUIIISrtID"
-    },
-    {
-      "added_at": "2024-10-25 14:59:20",
-      "album": {
-        "name": "Eu Tenho um Pai",
-        "url": "https://open.spotify.com/album/6vuQGR2TDY2u1pUPQdKSkV"
-      },
-      "artists": [
-        {
-          "name": "Virginia Arruda",
-          "url": "https://open.spotify.com/artist/5RUMApncGMcAxDhgg7akQa"
-        },
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Eu Tenho um Pai",
-      "url": "https://open.spotify.com/track/0a0h6tLDv7tDUaL4EsQIV4"
     },
     {
       "added_at": "2024-10-25 14:59:20",

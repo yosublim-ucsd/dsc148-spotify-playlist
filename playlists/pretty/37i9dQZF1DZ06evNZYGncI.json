@@ -1,12 +1,12 @@
 {
   "description": "This is Slipknot. The essential tracks, all in one playlist.",
-  "num_followers": 997558,
+  "num_followers": 997709,
   "original_name": "This Is Slipknot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAAAeOf4EUGsJ7mGKyDj6i6wn",
+  "snapshot_id": "ZyVrgAAAAACjpwR28k/8YU8zKDXaGqMO",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 123400,
-      "name": "Get This",
-      "url": "https://open.spotify.com/track/5GOfjX6UN5yyDkMGl8nrnn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 355540,
       "name": "Solway Firth",
       "url": "https://open.spotify.com/track/6WCkyaVmut83CtBFEUhDo4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 123400,
+      "name": "Get This",
+      "url": "https://open.spotify.com/track/5GOfjX6UN5yyDkMGl8nrnn"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 289226,
-      "name": "The Chapeltown Rag",
-      "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 251697,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/4SsgF844NGbl7UFcymqWKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 289226,
+      "name": "The Chapeltown Rag",
+      "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "Warranty",
-      "url": "https://open.spotify.com/track/6AUfiRcpnffzH1KhI121f1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 275839,
       "name": "Birth Of The Cruel",
       "url": "https://open.spotify.com/track/7I6p0xNYahHpUUXj785URX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 231146,
+      "name": "Warranty",
+      "url": "https://open.spotify.com/track/6AUfiRcpnffzH1KhI121f1"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 315906,
-      "name": "Hive Mind",
-      "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Are Not Your Kind",
         "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 385818,
       "name": "Critical Darling",
       "url": "https://open.spotify.com/track/3XFaGEb6daqdj39ThpJ2XI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 315906,
+      "name": "Hive Mind",
+      "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 50118,
+  "num_followers": 50172,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 457600,
-      "name": "Born Under a Bad Sign",
-      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "I Got What It Takes",
         "url": "https://open.spotify.com/album/6Ia8ZSI8AkeaSz7ILpd7MU"
       },
@@ -207,22 +191,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
+      "duration_ms": 457600,
+      "name": "Born Under a Bad Sign",
+      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -259,18 +239,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 528133,
-      "name": "Voodoo Chile Blues",
-      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -371,22 +355,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Outside Woman Blues",
-      "url": "https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Having a Rave Up with The Yardbirds",
         "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
       },
@@ -403,6 +371,38 @@
       "duration_ms": 197930,
       "name": "You're a Better Man Than I",
       "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 528133,
+      "name": "Voodoo Chile Blues",
+      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Outside Woman Blues",
+      "url": "https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "Confessin' The Blues",
-      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 144493,
       "name": "Just Your Fool",
       "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 295026,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "A Hard Road (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 189360,
       "name": "A Hard Road",
       "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 309293,
-      "name": "Blue Shadows",
-      "url": "https://open.spotify.com/track/6rGuOsQMY1UsvyPcpvbE4i"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Door To Door",
         "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
       },
@@ -1039,34 +1023,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 139626,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Free Form Patterns",
-        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Give Me Time to Think",
-      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
+      "duration_ms": 309293,
+      "name": "Blue Shadows",
+      "url": "https://open.spotify.com/track/6rGuOsQMY1UsvyPcpvbE4i"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1095,34 +1063,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
       },
       "artists": [
         {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Hound Dog",
-      "url": "https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Spider in My Stew",
-        "url": "https://open.spotify.com/album/1QLaueGOJPQnXPnV7ZZP0h"
-      },
-      "artists": [
-        {
-          "name": "Buster Benton",
-          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
-        }
-      ],
-      "duration_ms": 298706,
-      "name": "Love Like I Wanna",
-      "url": "https://open.spotify.com/track/1YmXV80xrumomhpnSai6GS"
+      "duration_ms": 139626,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1143,6 +1095,38 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Spider in My Stew",
+        "url": "https://open.spotify.com/album/1QLaueGOJPQnXPnV7ZZP0h"
+      },
+      "artists": [
+        {
+          "name": "Buster Benton",
+          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
+        }
+      ],
+      "duration_ms": 298706,
+      "name": "Love Like I Wanna",
+      "url": "https://open.spotify.com/track/1YmXV80xrumomhpnSai6GS"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 157200,
       "name": "It's Ok with Me Baby",
       "url": "https://open.spotify.com/track/58nGbJZwNpqylln1h7qZTN"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Free Form Patterns",
+        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Give Me Time to Think",
+      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 136893,
-      "name": "Somebody Help Me - Mono Version",
-      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Texas Oil - The Complete Federal Recordings",
         "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 155000,
       "name": "Wash Out",
       "url": "https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 136893,
+      "name": "Somebody Help Me - Mono Version",
+      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Calrence 'Gatemouth' Brown Sings Louis Jordan (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/4aLFUkBJDpD76HZ1KDHckx"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Choo Choo Ch'Boogie",
+      "url": "https://open.spotify.com/track/6F8zjuHkDML7rltzx7wvgK"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Talkin' Some Sense",
         "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 175693,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Calrence 'Gatemouth' Brown Sings Louis Jordan (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/4aLFUkBJDpD76HZ1KDHckx"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 250906,
-      "name": "Choo Choo Ch'Boogie",
-      "url": "https://open.spotify.com/track/6F8zjuHkDML7rltzx7wvgK"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Retrospective 1957-62",
-        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "Don't Start Cryin' Now",
-      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: Taj Mahal",
         "url": "https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 295400,
       "name": "Checkin' Up On My Baby",
       "url": "https://open.spotify.com/track/7nVzX42eKMcI2XZcO1YOPL"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Retrospective 1957-62",
+        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "Don't Start Cryin' Now",
+      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
+      },
+      "artists": [
+        {
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "So Unkind - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/72I1RvU2o1Yt8agkT95ePZ"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "The Biggest Thing Since Colossus",
         "url": "https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 182573,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/5vTyYoCaZ36Blzv92w2vtC"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Blues Helping",
-        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
-      },
-      "artists": [
-        {
-          "name": "Love Sculpture",
-          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "So Unkind - 1999 RemasterStereo",
-      "url": "https://open.spotify.com/track/72I1RvU2o1Yt8agkT95ePZ"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
+        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
+      },
+      "artists": [
+        {
+          "name": "Bobby 'Guitar' Bennett",
+          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
+        }
+      ],
+      "duration_ms": 102733,
+      "name": "She's so Fine",
+      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Rockin' The Blues",
         "url": "https://open.spotify.com/album/1Ki8xQv0w2lu8yaLBHOivq"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 207706,
       "name": "Certified Blues",
       "url": "https://open.spotify.com/track/7mdPXhJBfxJBonEmqZvm9t"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
-        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
-      },
-      "artists": [
-        {
-          "name": "Bobby 'Guitar' Bennett",
-          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
-        }
-      ],
-      "duration_ms": 102733,
-      "name": "She's so Fine",
-      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Cracked Spanner Head",
-        "url": "https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 234293,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Tramp / Soul",
         "url": "https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 155413,
       "name": "Good Time Charlie (Part 1)",
       "url": "https://open.spotify.com/track/6pVqOsnX2rLYMl1RBzmNBF"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Cracked Spanner Head",
+        "url": "https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ"
     },
     {
       "added_at": "2024-05-29 07:10:09",

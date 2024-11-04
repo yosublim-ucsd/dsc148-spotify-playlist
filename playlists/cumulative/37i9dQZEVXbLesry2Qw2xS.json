@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -6672,7 +6672,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 101777,
       "name": "cod",
       "url": "https://open.spotify.com/track/1F01HtB1VNPQr8oVBFOaSx"
@@ -7374,6 +7374,28 @@
       "duration_ms": 148333,
       "name": "DALEKO",
       "url": "https://open.spotify.com/track/17SiOJ50b7dQU1ZSFtAXVc"
+    },
+    {
+      "album": {
+        "name": "Dame Tu Flow",
+        "url": "https://open.spotify.com/album/21arKW9JNeSGRKWOu9Rx8A"
+      },
+      "artists": [
+        {
+          "name": "The Mind Promotion",
+          "url": "https://open.spotify.com/artist/2knaPAFQbeyCchL8mz59en"
+        },
+        {
+          "name": "Javier Di Salvo",
+          "url": "https://open.spotify.com/artist/5rc7mZUu5X2NZGSWfV7Wh6"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166505,
+      "name": "Dame Tu Flow",
+      "url": "https://open.spotify.com/track/1EFglctkOhLcBr6RjFU5VE"
     },
     {
       "album": {
@@ -8666,7 +8688,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 123922,
       "name": "dnd",
       "url": "https://open.spotify.com/track/6fNiiY87ImnXRlK1lZ7Hh0"
@@ -12518,7 +12540,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R"
@@ -13698,7 +13720,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 156594,
       "name": "goyard",
       "url": "https://open.spotify.com/track/5MTWqOKRLwAZVz4oOh1ETp"
@@ -14674,7 +14696,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 142655,
       "name": "heikki???",
       "url": "https://open.spotify.com/track/25yBeIWwwD870aYq18jvT1"
@@ -19664,7 +19686,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 260202,
       "name": "k\u00f5rvetab",
       "url": "https://open.spotify.com/track/7KgxiaRk8eshwZ7ThsJFoG"
@@ -20034,7 +20056,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -20818,7 +20840,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 164366,
       "name": "Light Year (Practice)",
       "url": "https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt"
@@ -23484,6 +23506,24 @@
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
+    },
+    {
+      "album": {
+        "name": "mesimagus",
+        "url": "https://open.spotify.com/album/26vgIjgHyCrUBghkUhZ7nB"
+      },
+      "artists": [
+        {
+          "name": "Grete Paia",
+          "url": "https://open.spotify.com/artist/5hihfLAlypybwPFgjzLJiX"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141293,
+      "name": "mesimagus",
+      "url": "https://open.spotify.com/track/1DAWkOlV6rBUte0wgJW82h"
     },
     {
       "album": {
@@ -31014,7 +31054,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-27",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -35982,7 +36022,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -36000,7 +36040,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -38068,7 +38108,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 207272,
       "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
       "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
@@ -41244,7 +41284,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 125000,
       "name": "We Good",
       "url": "https://open.spotify.com/track/0F60WLPs6Oz2slHomvLt9U"

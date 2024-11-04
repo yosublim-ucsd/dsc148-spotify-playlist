@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Stegosauro",
-  "num_followers": 186902,
+  "num_followers": 186966,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Naufragio",
         "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Yum !!",
         "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Sorrow EP",
-        "url": "https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY"
-      },
-      "artists": [
-        {
-          "name": "Oh No! Yoko",
-          "url": "https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr"
-        }
-      ],
-      "duration_ms": 138891,
-      "name": "Mimi Ashi",
-      "url": "https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Trees Before Fall",
         "url": "https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i"
       },
@@ -887,6 +871,38 @@
       "duration_ms": 299484,
       "name": "Cloudy",
       "url": "https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Sorrow EP",
+        "url": "https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY"
+      },
+      "artists": [
+        {
+          "name": "Oh No! Yoko",
+          "url": "https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr"
+        }
+      ],
+      "duration_ms": 138891,
+      "name": "Mimi Ashi",
+      "url": "https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -919,22 +935,6 @@
       "duration_ms": 302869,
       "name": "Jazztas",
       "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "H/O",
-        "url": "https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm"
-      },
-      "artists": [
-        {
-          "name": "Heavy Ocean",
-          "url": "https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX"
-        }
-      ],
-      "duration_ms": 455375,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Ni Hablar",
         "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 221686,
       "name": "GRVD",
       "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "H/O",
+        "url": "https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm"
+      },
+      "artists": [
+        {
+          "name": "Heavy Ocean",
+          "url": "https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX"
+        }
+      ],
+      "duration_ms": 455375,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "P\u00e1ramo",
-        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
-      },
-      "artists": [
-        {
-          "name": "Def\u00f3rmica",
-          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Novelesco",
-      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
         "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 251373,
       "name": "Torino",
       "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "P\u00e1ramo",
+        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
+      },
+      "artists": [
+        {
+          "name": "Def\u00f3rmica",
+          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Novelesco",
+      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Memory Lame",
+        "url": "https://open.spotify.com/album/1MUGe9LNk7uyaIEdqIhwQp"
+      },
+      "artists": [
+        {
+          "name": "Giraffes? Giraffes!",
+          "url": "https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq"
+        }
+      ],
+      "duration_ms": 273782,
+      "name": "At the Turf Field Behind My Parents' House",
+      "url": "https://open.spotify.com/track/71acYyonlfdPHddsxdKuVo"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Horizons / Rapture",
         "url": "https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Memory Lame",
-        "url": "https://open.spotify.com/album/1MUGe9LNk7uyaIEdqIhwQp"
-      },
-      "artists": [
-        {
-          "name": "Giraffes? Giraffes!",
-          "url": "https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq"
-        }
-      ],
-      "duration_ms": 273782,
-      "name": "At the Turf Field Behind My Parents' House",
-      "url": "https://open.spotify.com/track/71acYyonlfdPHddsxdKuVo"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Fraction",
         "url": "https://open.spotify.com/album/179Fhkk5OUsNFh46JDJ6vl"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 283228,
       "name": "D - feat. Tomotaka Tsuji",
       "url": "https://open.spotify.com/track/4VtDX2nzP5TY2CwiTenZKq"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Shiva",
-      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1611,6 +1595,22 @@
       "duration_ms": 141776,
       "name": "El sol es un holgaz\u00e1n",
       "url": "https://open.spotify.com/track/67pILfFYI7MpMCcytquiYN"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
     },
     {
       "added_at": "2024-09-20 00:01:00",

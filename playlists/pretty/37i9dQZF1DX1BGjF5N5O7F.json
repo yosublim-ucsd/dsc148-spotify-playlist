@@ -1,6 +1,6 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 549850,
+  "num_followers": 549832,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-05 21:12:54",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2024-07-05 21:12:54",
-      "album": {
         "name": "B-Sides",
         "url": "https://open.spotify.com/album/3nvaY45C0yn3jIZc2W4VoA"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 284293,
       "name": "Woman Like a Man - Live Radio Session",
       "url": "https://open.spotify.com/track/0GpRh3J3gI1esWn9gDWnyY"
+    },
+    {
+      "added_at": "2024-07-05 21:12:54",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2024-07-05 21:12:54",

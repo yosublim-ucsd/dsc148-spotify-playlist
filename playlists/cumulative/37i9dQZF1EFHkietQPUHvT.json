@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/4pXKnSILEa947eFcZBilbB"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220965,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/02SGUjIZ98nO02FSoYIHMt"
+    },
+    {
+      "album": {
         "name": "Perfect on Me",
         "url": "https://open.spotify.com/album/6y79bH31Bg9wxSeNRTl5WL"
       },

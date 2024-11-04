@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Souldia
 
-2,930 songs - 6 day 11 hr 53 min
+2,931 songs - 6 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1009,6 +1009,7 @@
 | [Génie](https://open.spotify.com/track/6d47cASiELHow0wPMkDZbw) | [Mahdi Ba](https://open.spotify.com/artist/4bjdItQFpfNUmAWpY2ao7M), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Génie](https://open.spotify.com/album/5nJbetDfb7n5oHvOz6JAX9) | 1:47 | 2022-07-01 | 2022-07-16 |
 | [Ha ha ha](https://open.spotify.com/track/7zOy88Gz28RDcmjuvYvpww) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Ha ha ha](https://open.spotify.com/album/4n0JjeU4YVH3jAKXHEOh8K) | 4:17 | 2023-08-04 | 2023-09-30 |
 | [Habanero](https://open.spotify.com/track/4GxYstTiZTuR2htUjcM17Z) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [SAHARA](https://open.spotify.com/album/2C7QaRqtc4u0jErPw63A5o) | 1:56 | 2024-07-19 | 2024-07-27 |
+| [Habiba](https://open.spotify.com/track/6yI6k66NwtpEcMYjSBk3YB) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Voyage \(Part II\)](https://open.spotify.com/album/26y7m3SRcbfHXk5KDdLgfl) | 3:00 | 2024-11-01 |  |
 | [Habiba](https://open.spotify.com/track/3S4VwM5QzaYKnuw5cEGNh1) | [Jebz](https://open.spotify.com/artist/3vbbyh0Nav4O5afKC2rolq) | [Habiba](https://open.spotify.com/album/0c4YneW6tpjp5PSfmqxsTl) | 2:02 | 2022-06-24 | 2022-08-06 |
 | [Habitué](https://open.spotify.com/track/7xkEwqP3Re1IONk53wIryU) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Les Trois Étoiles, Vol\. 2](https://open.spotify.com/album/7HkXzitPnzf2j40h3fzz9a) | 2:53 | 2023-03-17 | 2023-04-15 |
 | [Habité](https://open.spotify.com/track/17P9DA88obcNP6WZYHwa39) | [Richard Séguin](https://open.spotify.com/artist/4uaplzxgAkmohdv30bAFZo) | [Habité](https://open.spotify.com/album/2cLCzhhBJx7v8jd477YK7A) | 3:41 | 2022-06-24 | 2022-07-09 |
@@ -1784,7 +1785,7 @@
 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-07-12 | 2024-08-08 |
 | [Monalisa](https://open.spotify.com/track/0Y5f4WhEaaEBBiIJ94mOnX) | [Pierre Cruz](https://open.spotify.com/artist/3unauNRhq1rfgHqUhcKVjx), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Prince Amine](https://open.spotify.com/artist/0VFVWl6dkb5b7rLn8AYSY4) | [Monalisa](https://open.spotify.com/album/41T5Beaejz8cXcOJbQuHEL) | 3:44 | 2021-12-31 | 2022-01-05 |
 | [Monde Nouveau](https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Monde Nouveau](https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA) | 2:37 | 2024-09-20 |  |
-| [Monde à l'envers](https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Monde à l'envers](https://open.spotify.com/album/5qp7lZF7rprWVLg0oYPHYP) | 2:32 | 2024-10-18 |  |
+| [Monde à l'envers](https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Monde à l'envers](https://open.spotify.com/album/5qp7lZF7rprWVLg0oYPHYP) | 2:32 | 2024-10-18 | 2024-11-04 |
 | [Money](https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Dans La Chambre / Money](https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx) | 3:17 | 2023-04-28 | 2023-06-17 |
 | [Money & A Bag Of Weed](https://open.spotify.com/track/4C8i8QInf73Zps21w3tPjs) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Money & A Bag Of Weed](https://open.spotify.com/album/0rYf8X3DCTiD1odGKWJSZD) | 3:20 | 2024-04-26 | 2024-05-03 |
 | [MONEY MAKER](https://open.spotify.com/track/3WM94J8wiCVZxGcHEHzAej) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [AMBITION](https://open.spotify.com/album/3uiDxNXAJJzru700mPfYwE) | 2:32 | 2023-12-08 | 2024-01-03 |

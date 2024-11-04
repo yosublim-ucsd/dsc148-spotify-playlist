@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Alternative Trap",
+        "url": "https://open.spotify.com/album/1hpn4Spfmw80nqRWAd8Zk1"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290063,
+      "name": "Alternative Outro",
+      "url": "https://open.spotify.com/track/0ZFQxmNIOj03o7OMaiPcVX"
+    },
+    {
+      "album": {
         "name": "Always on the run",
         "url": "https://open.spotify.com/album/61t1CVlAIr7HWUkS0KcF3K"
       },
@@ -3194,7 +3212,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 200320,
       "name": "Diva",
       "url": "https://open.spotify.com/track/6GQuF9vzJAVs7fYN9ftBdP"
@@ -3212,7 +3230,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 200613,
       "name": "Diva",
       "url": "https://open.spotify.com/track/5Ssv6DaKrW0HczVqx6zXdl"
@@ -4626,10 +4644,28 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2bzvRIU2dVDWb3J9khpkxo"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/6thXB4RmajS4oZPNiBAKy0"
     },
     {
       "album": {
@@ -4920,6 +4956,24 @@
       "duration_ms": 166896,
       "name": "Gunfinger (Salute)",
       "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
+    },
+    {
+      "album": {
+        "name": "G\u20acI",
+        "url": "https://open.spotify.com/album/3uLSGfhQVupY8nKVa7aV3Q"
+      },
+      "artists": [
+        {
+          "name": "Purjeni Pukanki",
+          "url": "https://open.spotify.com/artist/4yq11aXIyj66R3O925HAxZ"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229260,
+      "name": "G\u20acI",
+      "url": "https://open.spotify.com/track/1clmosq7efJ7NoBDYVht84"
     },
     {
       "album": {
@@ -8510,7 +8564,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
@@ -10288,7 +10342,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -15494,7 +15548,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 169951,
       "name": "You Will Never Know It",
       "url": "https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T"
@@ -16308,7 +16362,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 194285,
       "name": "\u0414\u0443\u043c \u0422\u0430\u043a",
       "url": "https://open.spotify.com/track/1IURxiLGO4x5vVz0rX4AuP"

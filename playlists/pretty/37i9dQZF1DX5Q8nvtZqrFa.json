@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 20559,
+  "num_followers": 20567,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u304b\u308f\u3044\u304f\u3057\u306a\u304c\u3089\u5f85\u3063\u3066\u308b\u306d",
-        "url": "https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J"
-      },
-      "artists": [
-        {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
-        }
-      ],
-      "duration_ms": 201520,
-      "name": "\u2661\u4eba\u751f\u2661",
-      "url": "https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "\u306d\u3047",
         "url": "https://open.spotify.com/album/0LA32zD1z0qow1CiuBXTlR"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 200701,
       "name": "\u306d\u3047",
       "url": "https://open.spotify.com/track/4OL2UHjasZp21Z1c2htqPj"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "\u304b\u308f\u3044\u304f\u3057\u306a\u304c\u3089\u5f85\u3063\u3066\u308b\u306d",
+        "url": "https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "duration_ms": 201520,
+      "name": "\u2661\u4eba\u751f\u2661",
+      "url": "https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u661f\u8857\u306e\u99c5\u3067",
-        "url": "https://open.spotify.com/album/2QC5kpcOy0JltYCGqBlvTv"
+        "name": "\u306a\u3041",
+        "url": "https://open.spotify.com/album/69zY0xxGpRkMHwxmtShobk"
       },
       "artists": [
         {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+          "name": "YOAKE",
+          "url": "https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M"
         }
       ],
-      "duration_ms": 238093,
-      "name": "\u661f\u8857\u306e\u99c5\u3067",
-      "url": "https://open.spotify.com/track/6JgazBWIYH1tHOuGEcxLes"
+      "duration_ms": 194344,
+      "name": "\u306a\u3041",
+      "url": "https://open.spotify.com/track/0E5FxZ0spndv7NZGQdrJaZ"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u306a\u3041",
-        "url": "https://open.spotify.com/album/69zY0xxGpRkMHwxmtShobk"
+        "name": "\u661f\u8857\u306e\u99c5\u3067",
+        "url": "https://open.spotify.com/album/2QC5kpcOy0JltYCGqBlvTv"
       },
       "artists": [
         {
-          "name": "YOAKE",
-          "url": "https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M"
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
         }
       ],
-      "duration_ms": 194344,
-      "name": "\u306a\u3041",
-      "url": "https://open.spotify.com/track/0E5FxZ0spndv7NZGQdrJaZ"
+      "duration_ms": 238093,
+      "name": "\u661f\u8857\u306e\u99c5\u3067",
+      "url": "https://open.spotify.com/track/6JgazBWIYH1tHOuGEcxLes"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 203700,
-      "name": "Super Ball",
-      "url": "https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "\u5922\u304c\u9192\u3081\u305f\u3089",
         "url": "https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 200386,
       "name": "\u5922\u306e\u604b\u4eba",
       "url": "https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 203700,
+      "name": "Super Ball",
+      "url": "https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo"
     },
     {
       "added_at": "2024-10-22 15:00:00",

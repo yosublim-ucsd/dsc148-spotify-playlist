@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 202895,
+  "num_followers": 202922,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAACJyCff3ExqRttC95r1EPyb",
+  "snapshot_id": "ZyVrgAAAAABQ40aaOmwYbPvMZ903fjPO",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "Faldita",
+      "url": "https://open.spotify.com/track/1TKBveWY8Ahq5SEnSMcNGa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vibras de Noche",
         "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "Faldita",
-      "url": "https://open.spotify.com/track/1TKBveWY8Ahq5SEnSMcNGa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amarte a la Antigua",
         "url": "https://open.spotify.com/album/6fHcBQcCso57J2UOHCJynd"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 218267,
       "name": "Amarte a la Antigua",
       "url": "https://open.spotify.com/track/1SpO1TuC0yVzDnfLcZ85xA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 228461,
+      "name": "Tu Me Encantas",
+      "url": "https://open.spotify.com/track/0bRtcwaIFscw3nbxDP4FFT"
     },
     {
       "added_at": null,
@@ -395,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 217182,
+      "name": "Me Prendes",
+      "url": "https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corta Venas",
         "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
       },
@@ -411,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
       "artists": [
         {
@@ -420,25 +452,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 228461,
-      "name": "Tu Me Encantas",
-      "url": "https://open.spotify.com/track/0bRtcwaIFscw3nbxDP4FFT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 217182,
-      "name": "Me Prendes",
-      "url": "https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l"
+      "duration_ms": 176253,
+      "name": "Una Peda",
+      "url": "https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8"
     },
     {
       "added_at": null,
@@ -459,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
       "artists": [
         {
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 176253,
-      "name": "Una Peda",
-      "url": "https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8"
+      "duration_ms": 215954,
+      "name": "Catorce de Febrero",
+      "url": "https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua"
     },
     {
       "added_at": null,
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 215954,
-      "name": "Catorce de Febrero",
-      "url": "https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua"
+      "duration_ms": 202506,
+      "name": "Tonto Perdedor",
+      "url": "https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
       "duration_ms": 205692,
       "name": "LA PERRIE",
       "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Tonto Perdedor",
-      "url": "https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1"
     },
     {
       "added_at": null,

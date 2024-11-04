@@ -1306,10 +1306,28 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 184347,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/2zCO8w8puVE1frDRpCBLuD"
+    },
+    {
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162802,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU"
     },
     {
       "album": {
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 196552,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/0Y4hwUppbGc8aIBmiTz30A"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 173812,
       "name": "forever on my mind",
       "url": "https://open.spotify.com/track/7Mgl85DExMmXZQK63YoyBJ"
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 200865,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1urNcISPElPL9gIcYd1VNu"
@@ -5010,7 +5028,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 218383,
       "name": "Say",
       "url": "https://open.spotify.com/track/5PhhsbqsZ4Sqwgw0igqGfw"

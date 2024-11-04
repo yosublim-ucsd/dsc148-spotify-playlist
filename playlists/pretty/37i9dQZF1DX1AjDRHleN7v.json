@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 331511,
+  "num_followers": 331701,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,26 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
+        "name": "Rindo \u00c0 Toa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 195118,
+      "name": "Rindo \u00c0 Toa - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
         "name": "Amores E Flores",
         "url": "https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne"
       },
@@ -347,22 +367,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 209719,
-      "name": "Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Amor Bom",
         "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
       },
@@ -375,42 +379,6 @@
       "duration_ms": 197834,
       "name": "Amor Bom",
       "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
-        "name": "Rindo \u00c0 Toa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 195118,
-      "name": "Rindo \u00c0 Toa - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -431,22 +399,34 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "O que \u00e9 teu te encontra",
-        "url": "https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn"
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
       },
       "artists": [
         {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
         }
       ],
-      "duration_ms": 151386,
-      "name": "O que \u00e9 teu te encontra",
-      "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 209719,
+      "name": "Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -503,6 +483,26 @@
       "duration_ms": 207808,
       "name": "Rede no Coqueiro",
       "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "O que \u00e9 teu te encontra",
+        "url": "https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 151386,
+      "name": "O que \u00e9 teu te encontra",
+      "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Saquarema (Remix)",
         "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 190453,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
         "name": "T\u00f4 Te Esperando pra Dan\u00e7ar",
         "url": "https://open.spotify.com/album/1YDBkaJhuTl1S9FRFxiw2h"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 198400,
       "name": "T\u00f4 Te Esperando pra Dan\u00e7ar",
       "url": "https://open.spotify.com/track/1qBn46JiD592bFbumAR3G7"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Manh\u00e3s Azuis",
-        "url": "https://open.spotify.com/album/0dDtX1adn2p2VL4mrDlHUg"
-      },
-      "artists": [
-        {
-          "name": "Rafa!",
-          "url": "https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "Manh\u00e3s Azuis",
-      "url": "https://open.spotify.com/track/0rH16sFmGrnZoSF0WxqdqR"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Um Sinal",
         "url": "https://open.spotify.com/album/0As3k5d0ljs7Mcy8cSdb09"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 238227,
       "name": "Um Sinal",
       "url": "https://open.spotify.com/track/5hp0tAdwqnbB3zXVtY4Cfq"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Manh\u00e3s Azuis",
+        "url": "https://open.spotify.com/album/0dDtX1adn2p2VL4mrDlHUg"
+      },
+      "artists": [
+        {
+          "name": "Rafa!",
+          "url": "https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Manh\u00e3s Azuis",
+      "url": "https://open.spotify.com/track/0rH16sFmGrnZoSF0WxqdqR"
     }
   ],
   "unique_name": "Praiana",

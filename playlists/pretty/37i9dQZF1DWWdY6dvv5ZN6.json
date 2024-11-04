@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 4600,
+  "num_followers": 4603,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "The Magic of Now",
-        "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
-      },
-      "artists": [
-        {
-          "name": "Orrin Evans",
-          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
-        }
-      ],
-      "duration_ms": 354106,
-      "name": "Libra",
-      "url": "https://open.spotify.com/track/1ntx4SY3tRDuEzid4sRFjA"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Chimborazo",
         "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 208250,
       "name": "Selva Negra",
       "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "The Magic of Now",
+        "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
+      },
+      "artists": [
+        {
+          "name": "Orrin Evans",
+          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
+        }
+      ],
+      "duration_ms": 354106,
+      "name": "Libra",
+      "url": "https://open.spotify.com/track/1ntx4SY3tRDuEzid4sRFjA"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Kill Tu Ego",
-        "url": "https://open.spotify.com/album/39VxjTsYXzOG6jSxb3WPcF"
-      },
-      "artists": [
-        {
-          "name": "Baby Volcano",
-          "url": "https://open.spotify.com/artist/4v7IAW1zJCPQNdq3UpiDoU"
-        }
-      ],
-      "duration_ms": 174766,
-      "name": "Kill Tu Ego",
-      "url": "https://open.spotify.com/track/51znbMLs9CRsWM74ov5XDs"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "The Oracle",
         "url": "https://open.spotify.com/album/5KmGjVw9SJOJ6sCxSevpIp"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 166106,
       "name": "London",
       "url": "https://open.spotify.com/track/4gVfIYoA1p4hG6jFr9RUv1"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Kill Tu Ego",
+        "url": "https://open.spotify.com/album/39VxjTsYXzOG6jSxb3WPcF"
+      },
+      "artists": [
+        {
+          "name": "Baby Volcano",
+          "url": "https://open.spotify.com/artist/4v7IAW1zJCPQNdq3UpiDoU"
+        }
+      ],
+      "duration_ms": 174766,
+      "name": "Kill Tu Ego",
+      "url": "https://open.spotify.com/track/51znbMLs9CRsWM74ov5XDs"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Kingongolo",
-        "url": "https://open.spotify.com/album/4dJlWPBEb51HFCnoHY9aYl"
-      },
-      "artists": [
-        {
-          "name": "Kin'Gongolo Kiniata",
-          "url": "https://open.spotify.com/artist/7zfl0DQa6Ds6AsB1OQBM54"
-        }
-      ],
-      "duration_ms": 158855,
-      "name": "Kingongolo",
-      "url": "https://open.spotify.com/track/1qtFfNC8bJWWhS2OiFtheR"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "The Fatalist",
         "url": "https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 152586,
       "name": "The Fatalist Blues",
       "url": "https://open.spotify.com/track/37kYCbuyOEbLMOIs59FWfe"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Kingongolo",
+        "url": "https://open.spotify.com/album/4dJlWPBEb51HFCnoHY9aYl"
+      },
+      "artists": [
+        {
+          "name": "Kin'Gongolo Kiniata",
+          "url": "https://open.spotify.com/artist/7zfl0DQa6Ds6AsB1OQBM54"
+        }
+      ],
+      "duration_ms": 158855,
+      "name": "Kingongolo",
+      "url": "https://open.spotify.com/track/1qtFfNC8bJWWhS2OiFtheR"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1883,22 +1883,6 @@
       "duration_ms": 297631,
       "name": "Woman Of The Ghetto - Reimagined",
       "url": "https://open.spotify.com/track/0LLrnRUnjl1NxREWcp6bCO"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Stay Safe!",
-        "url": "https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1"
-      },
-      "artists": [
-        {
-          "name": "La S\u00e9curit\u00e9",
-          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
-        }
-      ],
-      "duration_ms": 225250,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/3UxA34eO5Ueii16F9FklMY"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1947,6 +1931,22 @@
       "duration_ms": 425239,
       "name": "Cloud Message",
       "url": "https://open.spotify.com/track/5DuC2DifOdh5jPuM0MGy4z"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Stay Safe!",
+        "url": "https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/3UxA34eO5Ueii16F9FklMY"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2103,18 +2103,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "RW:AK",
-        "url": "https://open.spotify.com/album/5qITLQJh31disNrMxaVnp5"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/3BDHDrylqDrv6qz11DRrR7"
       },
       "artists": [
         {
-          "name": "Hologramme",
-          "url": "https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN"
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
         }
       ],
-      "duration_ms": 292542,
-      "name": "RW:AK",
-      "url": "https://open.spotify.com/track/0waM1hDqSzRyOtSv5wFWue"
+      "duration_ms": 300573,
+      "name": "New Mornings",
+      "url": "https://open.spotify.com/track/3QDM1qBd5dp8iJlbfeJvuD"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2135,18 +2135,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/3BDHDrylqDrv6qz11DRrR7"
+        "name": "RW:AK",
+        "url": "https://open.spotify.com/album/5qITLQJh31disNrMxaVnp5"
       },
       "artists": [
         {
-          "name": "Lakecia Benjamin",
-          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+          "name": "Hologramme",
+          "url": "https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN"
         }
       ],
-      "duration_ms": 300573,
-      "name": "New Mornings",
-      "url": "https://open.spotify.com/track/3QDM1qBd5dp8iJlbfeJvuD"
+      "duration_ms": 292542,
+      "name": "RW:AK",
+      "url": "https://open.spotify.com/track/0waM1hDqSzRyOtSv5wFWue"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "ACTE III",
-        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
-      },
-      "artists": [
-        {
-          "name": "Simon Leoza",
-          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
-        }
-      ],
-      "duration_ms": 95866,
-      "name": "III {serenade}",
-      "url": "https://open.spotify.com/track/1Hv6iMEG4aijKn8MAMtWWl"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Because You Loved Me",
         "url": "https://open.spotify.com/album/1Dw40NInWsdiaeMExxBhuS"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 311423,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/7BAgzRvbqv6GxOdqZCuYXu"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "ACTE III",
+        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
+      },
+      "artists": [
+        {
+          "name": "Simon Leoza",
+          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
+        }
+      ],
+      "duration_ms": 95866,
+      "name": "III {serenade}",
+      "url": "https://open.spotify.com/track/1Hv6iMEG4aijKn8MAMtWWl"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Sunday In The Park",
+        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
+      },
+      "artists": [
+        {
+          "name": "Sammy Jackson",
+          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
+        }
+      ],
+      "duration_ms": 265239,
+      "name": "Sunday In The Park",
+      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Know the Shades",
         "url": "https://open.spotify.com/album/6GEdiD8MsFcVr62uH2jXSi"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 127031,
       "name": "Still Ppl",
       "url": "https://open.spotify.com/track/7cbsd3eAZOLGpT0YBQNavl"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Sunday In The Park",
-        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
-      },
-      "artists": [
-        {
-          "name": "Sammy Jackson",
-          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
-        }
-      ],
-      "duration_ms": 265239,
-      "name": "Sunday In The Park",
-      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Manic Party",
-        "url": "https://open.spotify.com/album/2C1HRx9Ao5sfj68lROoKkE"
-      },
-      "artists": [
-        {
-          "name": "Tedy",
-          "url": "https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p"
-        }
-      ],
-      "duration_ms": 227259,
-      "name": "I Wanted My Heart to Break",
-      "url": "https://open.spotify.com/track/3zWkdn9rWzBd0NrEq5iRyX"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Elephant Wizard",
         "url": "https://open.spotify.com/album/4FvC7fEzuAdycIqCepUR4F"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 193746,
       "name": "Elephant Wizard",
       "url": "https://open.spotify.com/track/0jDBgBRJiMtreliyDlBkuQ"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Manic Party",
+        "url": "https://open.spotify.com/album/2C1HRx9Ao5sfj68lROoKkE"
+      },
+      "artists": [
+        {
+          "name": "Tedy",
+          "url": "https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p"
+        }
+      ],
+      "duration_ms": 227259,
+      "name": "I Wanted My Heart to Break",
+      "url": "https://open.spotify.com/track/3zWkdn9rWzBd0NrEq5iRyX"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2643,22 +2643,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Patche",
-        "url": "https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr"
-      },
-      "artists": [
-        {
-          "name": "Patche",
-          "url": "https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1"
-        }
-      ],
-      "duration_ms": 342040,
-      "name": "Motorik",
-      "url": "https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "CHANTE'S GROOVE",
         "url": "https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X"
       },
@@ -2671,6 +2655,22 @@
       "duration_ms": 230649,
       "name": "HANGING WITH YOU",
       "url": "https://open.spotify.com/track/5kWQ5PENkfsF4C2MEFmiY7"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Patche",
+        "url": "https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr"
+      },
+      "artists": [
+        {
+          "name": "Patche",
+          "url": "https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1"
+        }
+      ],
+      "duration_ms": 342040,
+      "name": "Motorik",
+      "url": "https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2775,22 +2775,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "ACTE III",
-        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
-      },
-      "artists": [
-        {
-          "name": "Simon Leoza",
-          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
-        }
-      ],
-      "duration_ms": 105893,
-      "name": "III {dolce}",
-      "url": "https://open.spotify.com/track/2Rgc2E61hEVJ2YEAbzFMgL"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Gaz bar blues (Bande originale du film)",
         "url": "https://open.spotify.com/album/14LnKoa1vVnUTSZCOSrsJS"
       },
@@ -2807,6 +2791,38 @@
       "duration_ms": 190573,
       "name": "Sad Hours",
       "url": "https://open.spotify.com/track/3fh33AHxRc8XcpSL3Tjea4"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "ACTE III",
+        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
+      },
+      "artists": [
+        {
+          "name": "Simon Leoza",
+          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
+        }
+      ],
+      "duration_ms": 105893,
+      "name": "III {dolce}",
+      "url": "https://open.spotify.com/track/2Rgc2E61hEVJ2YEAbzFMgL"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Qui qu'en grogne (G\u00e9n\u00e9ration quartet)",
+        "url": "https://open.spotify.com/album/2IN0OyikeZIMZun32ZO3pk"
+      },
+      "artists": [
+        {
+          "name": "Yannick Rieu",
+          "url": "https://open.spotify.com/artist/5IOIq5SDF7ti0W7lrGztb4"
+        }
+      ],
+      "duration_ms": 365640,
+      "name": "Time Is, Life Was",
+      "url": "https://open.spotify.com/track/6Uwk4Z13nYVkSaci4Nn9xA"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2843,18 +2859,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Qui qu'en grogne (G\u00e9n\u00e9ration quartet)",
-        "url": "https://open.spotify.com/album/2IN0OyikeZIMZun32ZO3pk"
+        "name": "Latiendo la tierra",
+        "url": "https://open.spotify.com/album/2VIPMRFRCsZNH5diTJQ86G"
       },
       "artists": [
         {
-          "name": "Yannick Rieu",
-          "url": "https://open.spotify.com/artist/5IOIq5SDF7ti0W7lrGztb4"
+          "name": "No\u00e9 Lira",
+          "url": "https://open.spotify.com/artist/6YQWwm6FdB2tSglKV6jSz4"
         }
       ],
-      "duration_ms": 365640,
-      "name": "Time Is, Life Was",
-      "url": "https://open.spotify.com/track/6Uwk4Z13nYVkSaci4Nn9xA"
+      "duration_ms": 263000,
+      "name": "R\u00edndete",
+      "url": "https://open.spotify.com/track/57JCZcoy9vmp6oAqIEGBIo"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2875,18 +2891,42 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Latiendo la tierra",
-        "url": "https://open.spotify.com/album/2VIPMRFRCsZNH5diTJQ86G"
+        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
+        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
       },
       "artists": [
         {
-          "name": "No\u00e9 Lira",
-          "url": "https://open.spotify.com/artist/6YQWwm6FdB2tSglKV6jSz4"
+          "name": "Marianne Trudel",
+          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
+        },
+        {
+          "name": "John Hollenbeck",
+          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
+        },
+        {
+          "name": "R\u00e9mi-Jean Leblanc",
+          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
         }
       ],
-      "duration_ms": 263000,
-      "name": "R\u00edndete",
-      "url": "https://open.spotify.com/track/57JCZcoy9vmp6oAqIEGBIo"
+      "duration_ms": 429943,
+      "name": "Les vagues",
+      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "FO(U)RTH",
+        "url": "https://open.spotify.com/album/6Mom4L0l4IAjZickevYnYK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Fung",
+          "url": "https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W"
+        }
+      ],
+      "duration_ms": 285171,
+      "name": "The Valley",
+      "url": "https://open.spotify.com/track/4zY786ytjaoeTb2VGI1Jxs"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2923,42 +2963,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "FO(U)RTH",
-        "url": "https://open.spotify.com/album/6Mom4L0l4IAjZickevYnYK"
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/2VA7RFoMB4Q8SqxKCqB6J8"
       },
       "artists": [
         {
-          "name": "Anthony Fung",
-          "url": "https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W"
+          "name": "Stephen Barry Band",
+          "url": "https://open.spotify.com/artist/0tTpq4BOjoXAWWUv0bxvTv"
         }
       ],
-      "duration_ms": 285171,
-      "name": "The Valley",
-      "url": "https://open.spotify.com/track/4zY786ytjaoeTb2VGI1Jxs"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
-        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
-      },
-      "artists": [
-        {
-          "name": "Marianne Trudel",
-          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
-        },
-        {
-          "name": "John Hollenbeck",
-          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
-        },
-        {
-          "name": "R\u00e9mi-Jean Leblanc",
-          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
-        }
-      ],
-      "duration_ms": 429943,
-      "name": "Les vagues",
-      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
+      "duration_ms": 233893,
+      "name": "Tired of Crying",
+      "url": "https://open.spotify.com/track/0j1WeRuOS2wnoCtUavJ9g7"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2995,22 +3011,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/2VA7RFoMB4Q8SqxKCqB6J8"
-      },
-      "artists": [
-        {
-          "name": "Stephen Barry Band",
-          "url": "https://open.spotify.com/artist/0tTpq4BOjoXAWWUv0bxvTv"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "Tired of Crying",
-      "url": "https://open.spotify.com/track/0j1WeRuOS2wnoCtUavJ9g7"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Walking Man",
         "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
       },
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Steppin' Out!",
-        "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
-      },
-      "artists": [
-        {
-          "name": "Mariel Bildsten",
-          "url": "https://open.spotify.com/artist/1ICMxBMH4wIdXML65hnPNt"
-        }
-      ],
-      "duration_ms": 171824,
-      "name": "Downtown Uproar",
-      "url": "https://open.spotify.com/track/30qquZJYIxT4YZPzayXPB8"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/7xhdVWVeUNFNM6CtoQEMYv"
       },
@@ -3055,6 +3039,22 @@
       "duration_ms": 251315,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/7JGxbfSBnL3ON2H9mFYWyC"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Steppin' Out!",
+        "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
+      },
+      "artists": [
+        {
+          "name": "Mariel Bildsten",
+          "url": "https://open.spotify.com/artist/1ICMxBMH4wIdXML65hnPNt"
+        }
+      ],
+      "duration_ms": 171824,
+      "name": "Downtown Uproar",
+      "url": "https://open.spotify.com/track/30qquZJYIxT4YZPzayXPB8"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3091,22 +3091,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Lisa Turtle",
-        "url": "https://open.spotify.com/album/700oqbNT6ku1X3lKI3ueTg"
-      },
-      "artists": [
-        {
-          "name": "Tara Kannangara",
-          "url": "https://open.spotify.com/artist/4dQ7vKKgkKUWWXM99gR00A"
-        }
-      ],
-      "duration_ms": 253837,
-      "name": "Lisa Turtle",
-      "url": "https://open.spotify.com/track/48HaDMAff4XySk5PxLSkVp"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Coubli",
         "url": "https://open.spotify.com/album/2TNL4KZztaUQ6qqxt1khB9"
       },
@@ -3127,18 +3111,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Parfum no.1",
-        "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
+        "name": "Lisa Turtle",
+        "url": "https://open.spotify.com/album/700oqbNT6ku1X3lKI3ueTg"
       },
       "artists": [
         {
-          "name": "Jacques Kuba Seguin",
-          "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2"
+          "name": "Tara Kannangara",
+          "url": "https://open.spotify.com/artist/4dQ7vKKgkKUWWXM99gR00A"
         }
       ],
-      "duration_ms": 444706,
-      "name": "Promesse de souvenirs",
-      "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
+      "duration_ms": 253837,
+      "name": "Lisa Turtle",
+      "url": "https://open.spotify.com/track/48HaDMAff4XySk5PxLSkVp"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3179,6 +3163,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Parfum no.1",
+        "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
+      },
+      "artists": [
+        {
+          "name": "Jacques Kuba Seguin",
+          "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2"
+        }
+      ],
+      "duration_ms": 444706,
+      "name": "Promesse de souvenirs",
+      "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Ukubonga Gratitude",
         "url": "https://open.spotify.com/album/4fVRmnxsA4BvkBs7Da4vKR"
       },
@@ -3199,22 +3199,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Prevent the Future",
-        "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
-      },
-      "artists": [
-        {
-          "name": "Lex French Quartet with James Muller",
-          "url": "https://open.spotify.com/artist/5p69xASoGbtnZiq5TfYvrI"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "Austerity",
-      "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Nou La",
         "url": "https://open.spotify.com/album/1X4uiKHEUWzqbAd6kg9As9"
       },
@@ -3227,6 +3211,22 @@
       "duration_ms": 222648,
       "name": "Tanboum Sa La",
       "url": "https://open.spotify.com/track/399kaQPiQ5Z1iKSqHQNCmM"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Prevent the Future",
+        "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
+      },
+      "artists": [
+        {
+          "name": "Lex French Quartet with James Muller",
+          "url": "https://open.spotify.com/artist/5p69xASoGbtnZiq5TfYvrI"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "Austerity",
+      "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3263,22 +3263,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Memory Blues",
-        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
-      },
-      "artists": [
-        {
-          "name": "Endrick & the Sandwiches",
-          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
-        }
-      ],
-      "duration_ms": 214903,
-      "name": "Memory Blues",
-      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "MDR",
         "url": "https://open.spotify.com/album/1DqZGqTwMfs1NP6rPfYRYW"
       },
@@ -3291,6 +3275,22 @@
       "duration_ms": 216533,
       "name": "L\u00f3t B\u00f3",
       "url": "https://open.spotify.com/track/7HBQHG3g9hbJEaIbuonDXj"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Memory Blues",
+        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
+      },
+      "artists": [
+        {
+          "name": "Endrick & the Sandwiches",
+          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
+        }
+      ],
+      "duration_ms": 214903,
+      "name": "Memory Blues",
+      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3363,6 +3363,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Terminal 9",
+        "url": "https://open.spotify.com/album/3bh4xSMdaaTKUL5Fcg9Bil"
+      },
+      "artists": [
+        {
+          "name": "The Fleeting Light of Love and Grief",
+          "url": "https://open.spotify.com/artist/79LTfQQ6Xu3hGya3PQltze"
+        }
+      ],
+      "duration_ms": 209157,
+      "name": "Terminal 9",
+      "url": "https://open.spotify.com/track/2RJByShgnBWfOVARqnyE35"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Don't Bring Me Down",
         "url": "https://open.spotify.com/album/6ELp2EzOuHgucNjKUvJfsO"
       },
@@ -3379,22 +3395,6 @@
       "duration_ms": 176600,
       "name": "Nueva Orleans",
       "url": "https://open.spotify.com/track/2qx1y5GncqaTgcDBl5kjKV"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Terminal 9",
-        "url": "https://open.spotify.com/album/3bh4xSMdaaTKUL5Fcg9Bil"
-      },
-      "artists": [
-        {
-          "name": "The Fleeting Light of Love and Grief",
-          "url": "https://open.spotify.com/artist/79LTfQQ6Xu3hGya3PQltze"
-        }
-      ],
-      "duration_ms": 209157,
-      "name": "Terminal 9",
-      "url": "https://open.spotify.com/track/2RJByShgnBWfOVARqnyE35"
     },
     {
       "added_at": "2024-06-28 14:45:02",

@@ -1,6 +1,6 @@
 {
   "description": "put it on and let it play. cover: jessica pratt ",
-  "num_followers": 839951,
+  "num_followers": 839990,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 74378,
+      "name": "misses",
+      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "The Last Year",
         "url": "https://open.spotify.com/album/0c576Mju3GRgkxR4YcUmtT"
       },
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 74378,
-      "name": "misses",
-      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Waiting to Spill",
-        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Snowbank Blues",
-      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 111986,
       "name": "Cracking",
       "url": "https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Snowbank Blues",
+      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Lonely Fight",
-        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 229169,
-      "name": "Lonely Fight",
-      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 229437,
       "name": "Hold Me Up (Thank You)",
       "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "Lonely Fight",
+        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 229169,
+      "name": "Lonely Fight",
+      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "My Fun",
-        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 162291,
-      "name": "My Fun",
-      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "From 2 to 3",
         "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 257006,
       "name": "Give Up Baby Go",
       "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Sonido C\u00f3smico",
-        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 278862,
-      "name": "It\u2019s All In Your Mind",
-      "url": "https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 132746,
       "name": "Passion",
       "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 278862,
+      "name": "It\u2019s All In Your Mind",
+      "url": "https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Just A Western",
-        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 269473,
-      "name": "Just A Western",
-      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "Bismillah",
         "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "The Universe Smiles Upon You",
-        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 218306,
-      "name": "White Gloves",
-      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
+      "duration_ms": 269473,
+      "name": "Just A Western",
+      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -971,6 +955,22 @@
       "duration_ms": 185798,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "The Universe Smiles Upon You",
+        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "White Gloves",
+      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
         "name": "Shiver",
         "url": "https://open.spotify.com/album/7qTUcbVpWzLQdX2OrlwEda"
       },
@@ -1239,6 +1255,22 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
         "name": "Common Blue",
         "url": "https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra"
       },
@@ -1251,22 +1283,6 @@
       "duration_ms": 231023,
       "name": "Common Blue",
       "url": "https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1291,22 +1307,6 @@
       "duration_ms": 195506,
       "name": "Dope Sick",
       "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
+        "name": "Rosy",
+        "url": "https://open.spotify.com/album/7jnpHgUDNF63e6pazRhYXs"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 196944,
+      "name": "Rosy",
+      "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 221771,
       "name": "I Can\u2019t Even Cry",
       "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "Rosy",
-        "url": "https://open.spotify.com/album/7jnpHgUDNF63e6pazRhYXs"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 196944,
-      "name": "Rosy",
-      "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "There\u2019s no Other",
-        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 155801,
-      "name": "There\u2019s no Other",
-      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 210329,
       "name": "Lately",
       "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "There\u2019s no Other",
+        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 155801,
+      "name": "There\u2019s no Other",
+      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Cherry Pie",
-        "url": "https://open.spotify.com/album/55fa2hEmRcQumd6tgB6s5Y"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 249186,
-      "name": "Cherry Pie",
-      "url": "https://open.spotify.com/track/2DF87oCynNUL2Sl83Jqckh"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "Double",
         "url": "https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 182761,
       "name": "Double",
       "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "Cherry Pie",
+        "url": "https://open.spotify.com/album/55fa2hEmRcQumd6tgB6s5Y"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 249186,
+      "name": "Cherry Pie",
+      "url": "https://open.spotify.com/track/2DF87oCynNUL2Sl83Jqckh"
     },
     {
       "added_at": "2024-10-31 22:25:15",

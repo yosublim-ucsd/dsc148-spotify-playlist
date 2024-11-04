@@ -4,7 +4,7 @@
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: James Bay
 
-522 songs - 1 day 7 hr 49 min
+523 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Burnout](https://open.spotify.com/track/0TvdoyqP2Vi2pA1BBVHYD0) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O) | [Burnout / Feel Less Bad](https://open.spotify.com/album/6KW2sO4EPL3CtzEqY0IxSP) | 2:33 | 2024-07-12 | 2024-09-21 |
 | [California Rain](https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [California Rain](https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw) | 3:23 | 2024-07-12 | 2024-10-30 |
 | [Call It Like It Is](https://open.spotify.com/track/676Y7rEtzssvdvvqEZLMnI) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Tired Hearts](https://open.spotify.com/album/206PHdzpiAp3dy97erlYuw) | 3:24 | 2023-06-09 | 2024-09-17 |
-| [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 | 2024-10-14 |  |
+| [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 | 2024-10-14 | 2024-11-04 |
 | [Can't You See](https://open.spotify.com/track/4zKmIWfueAoDC9PGxtK3kN) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/0kWAbbzDOr4jMznmbTOPHC) | 3:30 | 2021-09-10 | 2022-07-28 |
 | [Can't You See](https://open.spotify.com/track/7CpvqCIiimMVOzFICK5Pxr) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/6AJjWiP7hffkRm6q0ORVX9) | 3:30 | 2022-07-01 | 2022-12-02 |
 | [Cannabis Tree](https://open.spotify.com/track/0JhW4OheoZ3N2OaLqvT5PR) | [Rome & Duddy](https://open.spotify.com/artist/56sqxTFviOe84mo1jj3faF) | [Cannabis Tree](https://open.spotify.com/album/3kNkXgyw5SatiRBU8lTGFS) | 4:51 | 2022-10-21 | 2022-11-12 |
@@ -156,6 +156,7 @@
 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 | 2021-07-09 | 2022-01-29 |
 | [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 | 2023-02-10 | 2023-04-06 |
 | [Geometry](https://open.spotify.com/track/6vR6PqBvhUFM0lFJtfJm79) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/2y5dQYzr7Q4me0JhXU2RcD) | 4:25 | 2022-11-11 | 2024-07-13 |
+| [Get a Life](https://open.spotify.com/track/7LNzbEkV0NufVJ7yBjTLnG) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Get a Life](https://open.spotify.com/album/688WucYXpm6rlKMjYVMshu) | 3:29 | 2024-10-14 |  |
 | [Gild the Lily](https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Highway Prayers](https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo) | 5:05 | 2024-10-14 |  |
 | [Giving Up](https://open.spotify.com/track/1MDkdfWPIaV4YZ2vnJyDB7) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Giving Up](https://open.spotify.com/album/6CAtz3dRGq2NS42PdqieCf) | 3:14 | 2024-08-15 |  |
 | [Glory](https://open.spotify.com/track/3mtEW49yCwrQCpmmpJRSMe) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Glory](https://open.spotify.com/album/4nipWjYgC5U5OduxOHQt4s) | 5:42 | 2024-08-02 | 2024-09-21 |

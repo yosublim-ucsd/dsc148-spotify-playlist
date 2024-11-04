@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 160674,
+  "num_followers": 160802,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "Exclusive Ricchi E Poveri - 15 Exitos",
         "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 190564,
       "name": "Sera Porque Te Amo",
       "url": "https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Palabra De Honor",
-        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 180239,
-      "name": "La Chica Del Bikini Azul",
-      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
       },
@@ -251,22 +235,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "Amor prohibido",
         "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
       },
@@ -295,6 +263,38 @@
       "duration_ms": 173560,
       "name": "Tu Pirata Soy Yo",
       "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 180239,
+      "name": "La Chica Del Bikini Azul",
+      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "Un Angel",
         "url": "https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2"
       },
@@ -391,6 +375,54 @@
       "duration_ms": 211680,
       "name": "\u00a1Oh Mam\u00e1! Ella Me Ha Besado",
       "url": "https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Bravo Bos\u00e9 - 30 Grandes Exitos",
+        "url": "https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "Amante Bandido",
+      "url": "https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Timbiriche 8",
+        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "T\u00fa Y Yo Somos Uno Mismo",
+      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -423,38 +455,6 @@
       "duration_ms": 208573,
       "name": "No Controles",
       "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
-        "name": "Timbiriche 8",
-        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "T\u00fa Y Yo Somos Uno Mismo",
-      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
-        "name": "Bravo Bos\u00e9 - 30 Grandes Exitos",
-        "url": "https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "Amante Bandido",
-      "url": "https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Palabra De Honor",
-        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+        "name": "Best of Righeira (Le meilleur des annees 80)",
+        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
         }
       ],
-      "duration_ms": 218951,
-      "name": "Palabra De Honor",
-      "url": "https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1"
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa - 1983",
+      "url": "https://open.spotify.com/track/3iB7lzsBC7PdJLU9k2nttT"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -539,34 +539,34 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Best of Righeira (Le meilleur des annees 80)",
-        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
+        "name": "!Volare! The Very Best of the Gipsy Kings",
+        "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
       },
       "artists": [
         {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
         }
       ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa - 1983",
-      "url": "https://open.spotify.com/track/3iB7lzsBC7PdJLU9k2nttT"
+      "duration_ms": 203173,
+      "name": "Bamboleo",
+      "url": "https://open.spotify.com/track/4EveU9Zb50mjgi5avDNqlK"
     },
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff"
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 224733,
-      "name": "Fiesta En Am\u00e9rica",
-      "url": "https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn"
+      "duration_ms": 218951,
+      "name": "Palabra De Honor",
+      "url": "https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "!Volare! The Very Best of the Gipsy Kings",
-        "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff"
       },
       "artists": [
         {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 203173,
-      "name": "Bamboleo",
-      "url": "https://open.spotify.com/track/4EveU9Zb50mjgi5avDNqlK"
+      "duration_ms": 224733,
+      "name": "Fiesta En Am\u00e9rica",
+      "url": "https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
+        "name": "Jose Jose 25 A\u00f1os Vol. 2",
+        "url": "https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 267826,
-      "name": "Este Ritmo Se Baila As\u00ed",
-      "url": "https://open.spotify.com/track/6sXmREN5oJXB0rZqSjMNXV"
+      "duration_ms": 253400,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/6bNcR3QFsPdEtXWJGvLMeA"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Jose Jose 25 A\u00f1os Vol. 2",
-        "url": "https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 253400,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/6bNcR3QFsPdEtXWJGvLMeA"
+      "duration_ms": 267826,
+      "name": "Este Ritmo Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6sXmREN5oJXB0rZqSjMNXV"
     },
     {
       "added_at": "2024-06-12 20:35:23",

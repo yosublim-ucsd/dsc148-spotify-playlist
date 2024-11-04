@@ -1,6 +1,6 @@
 {
   "description": "Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.",
-  "num_followers": 56,
+  "num_followers": 73,
   "original_name": "Cozy Christmas Covers",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-10-17 09:32:00",
       "album": {
-        "name": "Step Into Christmas (Acoustic)",
-        "url": "https://open.spotify.com/album/0T2O9nj2khsfg0I8J5FgVe"
-      },
-      "artists": [
-        {
-          "name": "Mysha Didi",
-          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "Step Into Christmas - Acoustic",
-      "url": "https://open.spotify.com/track/4jm6JwmRMV1wzKLW3cQKNK"
-    },
-    {
-      "added_at": "2024-10-17 09:32:00",
-      "album": {
         "name": "The Christmas Song (Merry Christmas To You)",
         "url": "https://open.spotify.com/album/0nkB7pN7Zw01xnzfx4u7oj"
       },
@@ -171,6 +155,22 @@
     {
       "added_at": "2024-10-17 09:32:00",
       "album": {
+        "name": "Step Into Christmas (Acoustic)",
+        "url": "https://open.spotify.com/album/0T2O9nj2khsfg0I8J5FgVe"
+      },
+      "artists": [
+        {
+          "name": "Mysha Didi",
+          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "Step Into Christmas - Acoustic",
+      "url": "https://open.spotify.com/track/4jm6JwmRMV1wzKLW3cQKNK"
+    },
+    {
+      "added_at": "2024-10-17 09:32:00",
+      "album": {
         "name": "Christmas Always Finds Me (Acoustic)",
         "url": "https://open.spotify.com/album/5ue2joXJpbxq5V1tvzqTpJ"
       },
@@ -183,6 +183,38 @@
       "duration_ms": 184945,
       "name": "Christmas Always Finds Me - Acoustic",
       "url": "https://open.spotify.com/track/2Sod5LQvNcsXc1zjSnlOAT"
+    },
+    {
+      "added_at": "2024-10-17 09:32:00",
+      "album": {
+        "name": "Snowin' On Raton",
+        "url": "https://open.spotify.com/album/71wodb1V4YhM39VR82IT13"
+      },
+      "artists": [
+        {
+          "name": "Francis Nola",
+          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
+        }
+      ],
+      "duration_ms": 231230,
+      "name": "Snowin' On Raton",
+      "url": "https://open.spotify.com/track/25efC97jgYi1ms8Y9SxWak"
+    },
+    {
+      "added_at": "2024-10-17 09:32:00",
+      "album": {
+        "name": "Frosty",
+        "url": "https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 196470,
+      "name": "Frosty",
+      "url": "https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP"
     },
     {
       "added_at": "2024-10-17 09:32:00",
@@ -215,38 +247,6 @@
       "duration_ms": 170156,
       "name": "Lonely This Christmas - Acoustic",
       "url": "https://open.spotify.com/track/7ssh3PNGec8Q0F3RHuSki9"
-    },
-    {
-      "added_at": "2024-10-17 09:32:00",
-      "album": {
-        "name": "Frosty",
-        "url": "https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI"
-      },
-      "artists": [
-        {
-          "name": "Bebe Stockwell",
-          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
-        }
-      ],
-      "duration_ms": 196470,
-      "name": "Frosty",
-      "url": "https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP"
-    },
-    {
-      "added_at": "2024-10-17 09:32:00",
-      "album": {
-        "name": "Snowin' On Raton",
-        "url": "https://open.spotify.com/album/71wodb1V4YhM39VR82IT13"
-      },
-      "artists": [
-        {
-          "name": "Francis Nola",
-          "url": "https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah"
-        }
-      ],
-      "duration_ms": 231230,
-      "name": "Snowin' On Raton",
-      "url": "https://open.spotify.com/track/25efC97jgYi1ms8Y9SxWak"
     },
     {
       "added_at": "2024-10-17 09:32:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-10-17 09:32:00",
       "album": {
+        "name": "Old Toy Trains",
+        "url": "https://open.spotify.com/album/6RqWB8DbsGCYjDj8N3pVW4"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 165769,
+      "name": "Old Toy Trains",
+      "url": "https://open.spotify.com/track/0tWFzIcS9iEY7n1ntAj1G7"
+    },
+    {
+      "added_at": "2024-10-17 09:32:00",
+      "album": {
         "name": "Little Drummer Boy",
         "url": "https://open.spotify.com/album/4HFh7LV7b9HhtfcRCklJ9z"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2024-10-17 09:32:00",
       "album": {
-        "name": "Old Toy Trains",
-        "url": "https://open.spotify.com/album/6RqWB8DbsGCYjDj8N3pVW4"
+        "name": "My Grown-Up Christmas List (Acoustic)",
+        "url": "https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V"
       },
       "artists": [
         {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
         }
       ],
-      "duration_ms": 165769,
-      "name": "Old Toy Trains",
-      "url": "https://open.spotify.com/track/0tWFzIcS9iEY7n1ntAj1G7"
+      "duration_ms": 210688,
+      "name": "My Grown-Up Christmas List - Acoustic",
+      "url": "https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak"
     },
     {
       "added_at": "2024-10-17 09:32:00",
@@ -395,18 +411,18 @@
     {
       "added_at": "2024-10-17 09:32:00",
       "album": {
-        "name": "My Grown-Up Christmas List (Acoustic)",
-        "url": "https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V"
+        "name": "Rudolph The Red-Nosed Reindeer",
+        "url": "https://open.spotify.com/album/1ty1Uh3tvroLVRHR6t2ao5"
       },
       "artists": [
         {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
         }
       ],
-      "duration_ms": 210688,
-      "name": "My Grown-Up Christmas List - Acoustic",
-      "url": "https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak"
+      "duration_ms": 147323,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/4JyNusB9ig7q3BsZyyxMfs"
     },
     {
       "added_at": "2024-10-17 09:32:00",
@@ -439,22 +455,6 @@
       "duration_ms": 180000,
       "name": "It's Christmas Once Again",
       "url": "https://open.spotify.com/track/3i3tBI9VHoQTU7SpTCvIKa"
-    },
-    {
-      "added_at": "2024-10-17 09:32:00",
-      "album": {
-        "name": "Rudolph The Red-Nosed Reindeer",
-        "url": "https://open.spotify.com/album/1ty1Uh3tvroLVRHR6t2ao5"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 147323,
-      "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/4JyNusB9ig7q3BsZyyxMfs"
     },
     {
       "added_at": "2024-10-17 09:32:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-10-17 09:32:00",
       "album": {
+        "name": "Christmas For Cowboys",
+        "url": "https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7"
+      },
+      "artists": [
+        {
+          "name": "Zoe De La Sera",
+          "url": "https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Christmas For Cowboys",
+      "url": "https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb"
+    },
+    {
+      "added_at": "2024-10-17 09:32:00",
+      "album": {
         "name": "It's Almost Christmas, Vol. 3",
         "url": "https://open.spotify.com/album/48Ds43jzKqDa2IDAPPGBHN"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 191491,
       "name": "Go Tell It On The Mountain",
       "url": "https://open.spotify.com/track/167NLVx6ZmZfIBe8GK3sSv"
-    },
-    {
-      "added_at": "2024-10-17 09:32:00",
-      "album": {
-        "name": "Christmas For Cowboys",
-        "url": "https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7"
-      },
-      "artists": [
-        {
-          "name": "Zoe De La Sera",
-          "url": "https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Christmas For Cowboys",
-      "url": "https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb"
     },
     {
       "added_at": "2024-10-17 09:32:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-10-17 09:32:00",
       "album": {
-        "name": "Twelve Days Of Christmas",
-        "url": "https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI"
-      },
-      "artists": [
-        {
-          "name": "The Rose Thorns",
-          "url": "https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p"
-        }
-      ],
-      "duration_ms": 208002,
-      "name": "Twelve Days Of Christmas",
-      "url": "https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA"
-    },
-    {
-      "added_at": "2024-10-17 09:32:00",
-      "album": {
         "name": "Auld lang syne",
         "url": "https://open.spotify.com/album/2IZUszlSkfGgYD9wJRacEM"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 199446,
       "name": "Auld lang syne",
       "url": "https://open.spotify.com/track/0YdgUN2Am0zQzKY4eP6IsA"
+    },
+    {
+      "added_at": "2024-10-17 09:32:00",
+      "album": {
+        "name": "Twelve Days Of Christmas",
+        "url": "https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI"
+      },
+      "artists": [
+        {
+          "name": "The Rose Thorns",
+          "url": "https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p"
+        }
+      ],
+      "duration_ms": 208002,
+      "name": "Twelve Days Of Christmas",
+      "url": "https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA"
     },
     {
       "added_at": "2024-10-17 09:32:00",

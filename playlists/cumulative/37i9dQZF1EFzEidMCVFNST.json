@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1% Diablita",
+        "url": "https://open.spotify.com/album/2BHodYJkofqWtW7XFMOwwv"
+      },
+      "artists": [
+        {
+          "name": "Lucas LM",
+          "url": "https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151168,
+      "name": "1% Diablita",
+      "url": "https://open.spotify.com/track/3mzHRZYupj7KIQW5ZXFz39"
+    },
+    {
+      "album": {
         "name": "Sentimento de Mulher (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/6wlEOBuv2movYxuAOYcR22"
       },

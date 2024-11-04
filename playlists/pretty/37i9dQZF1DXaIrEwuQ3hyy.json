@@ -1,6 +1,6 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1051319,
+  "num_followers": 1051372,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "hotline (edit)",
-        "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 60719,
-      "name": "hotline (edit)",
-      "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 145438,
       "name": "i am not who i was",
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "hotline (edit)",
+        "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 60719,
+      "name": "hotline (edit)",
+      "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196730,
-      "name": "Billie Bossa Nova",
-      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "Snooze (Acoustic) (feat. Justin Bieber)",
         "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 190464,
       "name": "Snooze (Acoustic) (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196730,
+      "name": "Billie Bossa Nova",
+      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "Coffee Shop",
-        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 124080,
-      "name": "Coffee Shop",
-      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "getting used to",
         "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 227141,
       "name": "getting used to",
       "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 124080,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
+      },
+      "artists": [
+        {
+          "name": "CATT",
+          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
+        }
+      ],
+      "duration_ms": 229787,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
         "name": "Closure (feat. BIRDY and Mishaal)",
         "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 183986,
       "name": "Closure (feat. BIRDY and Mishaal)",
       "url": "https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
-      },
-      "artists": [
-        {
-          "name": "CATT",
-          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
-        }
-      ],
-      "duration_ms": 229787,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt"
     },
     {
       "added_at": "2024-10-29 05:03:33",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-10-29 05:03:33",
       "album": {
-        "name": "Blau",
-        "url": "https://open.spotify.com/album/23SHHCFDCsNhSvCPH4Y63O"
-      },
-      "artists": [
-        {
-          "name": "CCOSMO",
-          "url": "https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "Blau",
-      "url": "https://open.spotify.com/track/27BDgmEjgMdHLYIWogdnIU"
-    },
-    {
-      "added_at": "2024-10-29 05:03:33",
-      "album": {
         "name": "when words fail",
         "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 176495,
       "name": "when words fail",
       "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
+    },
+    {
+      "added_at": "2024-10-29 05:03:33",
+      "album": {
+        "name": "Blau",
+        "url": "https://open.spotify.com/album/23SHHCFDCsNhSvCPH4Y63O"
+      },
+      "artists": [
+        {
+          "name": "CCOSMO",
+          "url": "https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "Blau",
+      "url": "https://open.spotify.com/track/27BDgmEjgMdHLYIWogdnIU"
     }
   ],
   "unique_name": "Herbst Chillout",

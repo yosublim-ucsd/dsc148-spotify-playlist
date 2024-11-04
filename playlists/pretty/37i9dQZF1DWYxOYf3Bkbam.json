@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 51744,
+  "num_followers": 51756,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Sobredosis De Chamam\u00e9",
-        "url": "https://open.spotify.com/album/3r8FJW4rx2yneJ2TPsH6Qi"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 160040,
-      "name": "Sobredosis de Chamam\u00e9",
-      "url": "https://open.spotify.com/track/2zUywQYzbipRi3NjjtdIxd"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Hilvanando Recuerdos",
         "url": "https://open.spotify.com/album/0vAxrwxF8Xs2aEQkryfBcS"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 171399,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Sobredosis De Chamam\u00e9",
+        "url": "https://open.spotify.com/album/3r8FJW4rx2yneJ2TPsH6Qi"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "duration_ms": 160040,
+      "name": "Sobredosis de Chamam\u00e9",
+      "url": "https://open.spotify.com/track/2zUywQYzbipRi3NjjtdIxd"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -216,17 +216,21 @@
       "added_at": "2024-10-11 03:00:00",
       "album": {
         "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
+        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
       "artists": [
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+        },
         {
           "name": "Los Reyes Del Chamame",
           "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
         }
       ],
-      "duration_ms": 125826,
-      "name": "Asi Se Baila El Chamame",
-      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
+      "duration_ms": 120946,
+      "name": "Las Tres Marias",
+      "url": "https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -248,21 +252,17 @@
       "added_at": "2024-10-11 03:00:00",
       "album": {
         "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
+        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
       },
       "artists": [
-        {
-          "name": "Ramona Galarza",
-          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
-        },
         {
           "name": "Los Reyes Del Chamame",
           "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
         }
       ],
-      "duration_ms": 120946,
-      "name": "Las Tres Marias",
-      "url": "https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN"
+      "duration_ms": 125826,
+      "name": "Asi Se Baila El Chamame",
+      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx"
-      },
-      "artists": [
-        {
-          "name": "Los de Mailin",
-          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
-        }
-      ],
-      "duration_ms": 133173,
-      "name": "No Cualquiera Es Correntino",
-      "url": "https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Fuerte No Soy",
         "url": "https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 208579,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx"
+      },
+      "artists": [
+        {
+          "name": "Los de Mailin",
+          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
+        }
+      ],
+      "duration_ms": 133173,
+      "name": "No Cualquiera Es Correntino",
+      "url": "https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Si Pudiera",
-        "url": "https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 173322,
-      "name": "Si Pudiera",
-      "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 202786,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Si Pudiera",
+        "url": "https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 173322,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
-        }
-      ],
-      "duration_ms": 162573,
-      "name": "Kilometro 11",
-      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 146320,
       "name": "Neique Chamigo",
       "url": "https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "Kilometro 11",
+      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "La Chamamecera",
-        "url": "https://open.spotify.com/album/2DrjbKf3LDlKVRgu1Jiftp"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 265253,
-      "name": "La Chamamecera",
-      "url": "https://open.spotify.com/track/3RtLz2m3s8HgkR5pDdcP1k"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -1203,6 +1187,38 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "La Chamamecera",
+        "url": "https://open.spotify.com/album/2DrjbKf3LDlKVRgu1Jiftp"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "duration_ms": 265253,
+      "name": "La Chamamecera",
+      "url": "https://open.spotify.com/track/3RtLz2m3s8HgkR5pDdcP1k"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "duration_ms": 192042,
+      "name": "La Leyenda de la Brasita de Fuego",
+      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 248320,
       "name": "Mi Estrella Perdida",
       "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
-        "name": "Noche de Tormenta",
-        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        }
-      ],
-      "duration_ms": 192042,
-      "name": "La Leyenda de la Brasita de Fuego",
-      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
+        "name": "Chamam\u00e9 Con Estilo Propio",
+        "url": "https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "duration_ms": 156025,
+      "name": "El Petizo Maceta",
+      "url": "https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
         "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
         "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Bodas de Oro Con el Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6lnOG2dw5KnuMSW7av7Gq3"
-      },
-      "artists": [
-        {
-          "name": "Hipolito Sosa y su conjunto",
-          "url": "https://open.spotify.com/artist/3SuHLrqH1ksOTmtnQtDEnL"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Viejo Jinete Argentino",
-      "url": "https://open.spotify.com/track/7m2GKaEFQoPPkbmzI3VVPX"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "A Puro Sapucay",
         "url": "https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ"
       },
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Chamam\u00e9 Con Estilo Propio",
-        "url": "https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb"
+        "name": "Bodas de Oro Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6lnOG2dw5KnuMSW7av7Gq3"
       },
       "artists": [
         {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+          "name": "Hipolito Sosa y su conjunto",
+          "url": "https://open.spotify.com/artist/3SuHLrqH1ksOTmtnQtDEnL"
         }
       ],
-      "duration_ms": 156025,
-      "name": "El Petizo Maceta",
-      "url": "https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo"
+      "duration_ms": 136400,
+      "name": "Viejo Jinete Argentino",
+      "url": "https://open.spotify.com/track/7m2GKaEFQoPPkbmzI3VVPX"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
-      },
-      "artists": [
-        {
-          "name": "Isaco Abitbol",
-          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Flor del Litoral",
-      "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Con Los Grandes",
         "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 270000,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Flor del Litoral",
+      "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
     },
     {
       "added_at": "2024-10-11 03:00:00",

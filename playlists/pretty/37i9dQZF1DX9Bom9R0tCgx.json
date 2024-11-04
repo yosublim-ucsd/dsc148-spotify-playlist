@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 394870,
+  "num_followers": 394935,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Tell Me Why (Maddix Remix)",
         "url": "https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 204436,
       "name": "Satisfaction - Hardwell & Maddix Remix",
       "url": "https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1131,34 +1131,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Never Going Home Tonight (feat. Madison Love) [KAAZE Remix]",
-        "url": "https://open.spotify.com/album/2GiWfaOx3fOzpC1bOr4aUm"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Madison Love",
-          "url": "https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Never Going Home Tonight (feat. Madison Love) - KAAZE Remix",
-      "url": "https://open.spotify.com/track/0znQfZSluraTNVo8Fg6mHs"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Perfect (Exceeder) [1991 Remix]",
         "url": "https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob"
       },
@@ -1195,6 +1167,34 @@
       "duration_ms": 168529,
       "name": "Diamonds On My Mind",
       "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Never Going Home Tonight (feat. Madison Love) [KAAZE Remix]",
+        "url": "https://open.spotify.com/album/2GiWfaOx3fOzpC1bOr4aUm"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Madison Love",
+          "url": "https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Never Going Home Tonight (feat. Madison Love) - KAAZE Remix",
+      "url": "https://open.spotify.com/track/0znQfZSluraTNVo8Fg6mHs"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Convivium",
-        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Convivium",
-      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "All Of The Lights",
         "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 176914,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Convivium",
+        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Convivium",
+      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1599,22 +1599,38 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "My Fantasy",
-        "url": "https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
       },
       "artists": [
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
         }
       ],
-      "duration_ms": 180535,
-      "name": "My Fantasy",
-      "url": "https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck"
+      "duration_ms": 134357,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
+        }
+      ],
+      "duration_ms": 192643,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1639,6 +1655,26 @@
       "duration_ms": 159473,
       "name": "Jump Jump Jump",
       "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "My Fantasy",
+        "url": "https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 180535,
+      "name": "My Fantasy",
+      "url": "https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1675,42 +1711,6 @@
       "duration_ms": 159483,
       "name": "Explode",
       "url": "https://open.spotify.com/track/04ErJiS734u76JgX5JQayC"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "KAJAK",
-          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
-        }
-      ],
-      "duration_ms": 192643,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
-      },
-      "artists": [
-        {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        }
-      ],
-      "duration_ms": 134357,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 181787,
-      "name": "Boom Boom Boom",
-      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Mozart's Final Rave (Lacrimosa)",
         "url": "https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE"
       },
@@ -1859,18 +1839,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "9mm",
-        "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
         }
       ],
-      "duration_ms": 237928,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
+      "duration_ms": 181787,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1891,6 +1875,22 @@
       "duration_ms": 179824,
       "name": "LA DI DA",
       "url": "https://open.spotify.com/track/6l07fK093JBCIh6enC4cof"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 237928,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/3ZZzYMQiFBrAq1rgtjfBKP"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Kickbait",
-          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
-        }
-      ],
-      "duration_ms": 174081,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/604csdosSsu81iT1E1MsVx"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
       },
@@ -1955,6 +1935,22 @@
       "duration_ms": 179555,
       "name": "Move",
       "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "My Beat Goes",
+        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "My Beat Goes",
+      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1979,18 +1975,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "My Beat Goes",
-        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
       "artists": [
         {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
         }
       ],
-      "duration_ms": 226285,
-      "name": "My Beat Goes",
-      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -2015,18 +2011,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/3ZZzYMQiFBrAq1rgtjfBKP"
       },
       "artists": [
         {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Kickbait",
+          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
         }
       ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+      "duration_ms": 174081,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/604csdosSsu81iT1E1MsVx"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/5hmgtCgjbaSRGHY9B2W1w2"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6UQp47gAFE7KmAhh3eutMb"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R"
       },
@@ -2059,26 +2075,6 @@
       "duration_ms": 163165,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
-        }
-      ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
     }
   ],
   "unique_name": "Bass Explosion",

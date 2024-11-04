@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Duki y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,119 likes - 48 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,150 likes - 48 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 37 | [Que Feliz](https://open.spotify.com/track/3C3uzuwi8eUZfRseWG7G51) | [León Bravo](https://open.spotify.com/artist/12tCrprIX44OBNwZzMf33C) | [Que Feliz](https://open.spotify.com/album/4MPuQbvCw2DAGbnTm6kp7y) | 2:55 |
 | 38 | [Un Gran Final](https://open.spotify.com/track/59aaFGFgRtE4e1he4ZYy0T) | [ÍKARO MADRID](https://open.spotify.com/artist/4y4oqktafHFSNKGa5NCoPj), [Fulston](https://open.spotify.com/artist/4NAeRqTT8u5AC9WUOMCLeM) | [Un Gran Final](https://open.spotify.com/album/6Rl8Z7DnG16KC54iQpT7C3) | 3:20 |
 | 39 | [2 Copas](https://open.spotify.com/track/26eHpqUkK5fU9SWR2JZVID) | [Oscar Barrul](https://open.spotify.com/artist/6lnF7dmth4O99KXNg1gF5Y) | [2 Copas](https://open.spotify.com/album/0ZVbl0vJZnla8NCmVfGhRe) | 3:11 |
-| 40 | [Que No Quiero Verte](https://open.spotify.com/track/63YtQf57SFuVDNZuutiNsW) | [La Negra Flores](https://open.spotify.com/artist/0nsS3uyzOBvtlRaHp41D13) | [Que No Quiero Verte](https://open.spotify.com/album/6wYqy9j39MUqbAP336giC8) | 2:43 |
+| 40 | [Se Apagó la Vela](https://open.spotify.com/track/63YtQf57SFuVDNZuutiNsW) | [La Negra Flores](https://open.spotify.com/artist/0nsS3uyzOBvtlRaHp41D13) | [Se Apagó la Vela](https://open.spotify.com/album/6wYqy9j39MUqbAP336giC8) | 2:43 |
 | 41 | [Fluyo](https://open.spotify.com/track/66s1mqIywj9cDWDyEroFr0) | [Mdmoney](https://open.spotify.com/artist/3EK6hN4ikgqWPAgNmIV6mL), [Jams](https://open.spotify.com/artist/27SMq478c9KkyRdhbzDWMG) | [Fluyo](https://open.spotify.com/album/4cFVgocu44guRKKGrxIofD) | 2:21 |
 | 42 | [Floren](https://open.spotify.com/track/5LiInUHBbi9BOBH7bDYg3Y) | [Mda](https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7), [damnpablo](https://open.spotify.com/artist/4Ifc7Y6zo9tcnPVALBXjVI) | [Floren](https://open.spotify.com/album/2KPrLmZmcNQtmfaSGItI2h) | 3:18 |
 | 43 | [En lo oscurito](https://open.spotify.com/track/171joMr91GOIih6OYAUsLb) | [Ciara Lauve](https://open.spotify.com/artist/7FALoGR77ugeHCoigCGGNl), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [En lo oscurito](https://open.spotify.com/album/4nnSDaJaKqZE3ZYkA913Nr) | 3:12 |

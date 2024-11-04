@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 213726,
+  "num_followers": 213773,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAACr9MocJQuGDtcBAe1TnIVy",
+  "snapshot_id": "ZyVrgAAAAABuJ7R+kyjf4O1ygNgNF8Mh",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 185014,
+      "name": "Descansa Mi Amor",
+      "url": "https://open.spotify.com/track/7GFIRU9DfwqiLQaDDlyVp3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 168653,
       "name": "Qu\u00e9 Tiene De Malo",
       "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 185014,
-      "name": "Descansa Mi Amor",
-      "url": "https://open.spotify.com/track/7GFIRU9DfwqiLQaDDlyVp3"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Las Dos Cruces",
-      "url": "https://open.spotify.com/track/6tmtWp77eEMctFjUOHZLyr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 176138,
       "name": "Por Favor No Cuelgues",
       "url": "https://open.spotify.com/track/61mmMgdqmpCJsHvt8qTL1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Las Dos Cruces",
+      "url": "https://open.spotify.com/track/6tmtWp77eEMctFjUOHZLyr"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 167499,
+      "name": "Toquezones de Cannabis",
+      "url": "https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 134739,
       "name": "Ranchero Y Gallardo",
       "url": "https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 170125,
-      "name": "Leyenda M1",
-      "url": "https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 170125,
+      "name": "Leyenda M1",
+      "url": "https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Katch",
         "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 133466,
       "name": "El Katch",
       "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "Toquezones de Cannabis",
-      "url": "https://open.spotify.com/track/1BFlRcER6IYupiiEVaYvMJ"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 230635,
-      "name": "Abusamos Del Alcohol",
-      "url": "https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 163114,
       "name": "Ranchero Poderoso",
       "url": "https://open.spotify.com/track/6KRuCIVLV334mVZUR3iNuA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 230635,
+      "name": "Abusamos Del Alcohol",
+      "url": "https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 203128,
-      "name": "Tu Fotografia",
-      "url": "https://open.spotify.com/track/5YXbNf3uYo713jo7uDARia"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Detras Del Miedo",
         "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 148874,
       "name": "Detras Del Miedo",
       "url": "https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 203128,
+      "name": "Tu Fotografia",
+      "url": "https://open.spotify.com/track/5YXbNf3uYo713jo7uDARia"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Golden Boy",
-        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "El Golden Boy",
-      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carteles Vol.II",
         "url": "https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 205049,
       "name": "El Primito (Los Metros)",
       "url": "https://open.spotify.com/track/3wlFHwxDoJ6KEncpQORv2B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Golden Boy",
+        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "El Golden Boy",
+      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
     },
     {
       "added_at": null,

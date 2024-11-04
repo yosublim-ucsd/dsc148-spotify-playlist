@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lhasa de Sela.
 
-694 songs - 1 day 17 hr 19 min
+695 songs - 1 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Caparazón](https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Caparazón](https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp) | 3:07 | 2024-10-01 |  |
 | [Capurganá](https://open.spotify.com/track/3r3nHyqS7oG7wsFrTh0gl9) | [Astola y Ratón](https://open.spotify.com/artist/0OvOwlouLX0fKgWCB7BzYp) | [Capurganá](https://open.spotify.com/album/56ccnlEOymFdVgPt8EP4hu) | 1:51 | 2024-03-22 | 2024-07-06 |
 | [Cara de tonta](https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop) | [GREX](https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt) | [Cara de tonta](https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7) | 2:06 | 2024-04-12 |  |
+| [Caribe boreal](https://open.spotify.com/track/2AoqZCkpCuDbLwEq9nh5pw) | [Pacoenlaluna](https://open.spotify.com/artist/69AwGjfFeu3lurlo1xwOkz) | [Caribe boreal](https://open.spotify.com/album/1GKOEFTSAzTAgu0B6RM9My) | 3:49 | 2024-10-25 |  |
 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6fsMd6rAjKzdLazlBvzfIR) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LXS INFERNALES \(Del Valle Encantado\)](https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE) | 2:51 | 2023-06-30 | 2023-07-22 |
 | [Carta](https://open.spotify.com/track/2TiTcWEs1CldfTx7fOGfS4) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Carta](https://open.spotify.com/album/1ebHnnX7boUGSAD0YSAJyX) | 3:23 | 2021-12-24 | 2022-07-29 |
 | [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 | 2022-09-09 | 2023-12-16 |
@@ -483,7 +484,7 @@
 | [Parque Chas](https://open.spotify.com/track/2gFl3pREsXYOsmXLbSD6Yl) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Parque Chas](https://open.spotify.com/album/3aPje43iWN45wTwm7h5X3b) | 3:54 | 2022-03-04 | 2022-04-21 |
 | [Pasajeros](https://open.spotify.com/track/0VcIILzAJwz4Psl1qFvJcS) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/0r2Xdzbp9DrRhlOQsPYMp8) | 3:30 | 2021-12-24 | 2022-07-24 |
 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 | 2022-09-09 | 2023-02-22 |
-| [Pecho Jardín](https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7) | [Alejandro Albarrán](https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Pecho Jardín](https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc) | 4:42 | 2024-05-30 |  |
+| [Pecho Jardín](https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7) | [Alejandro Albarrán](https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Pecho Jardín](https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc) | 4:42 | 2024-05-30 | 2024-11-04 |
 | [Pedres blanques](https://open.spotify.com/track/2SWP92PW7S0uFZZKCxIrci) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4) | [Pedres blanques](https://open.spotify.com/album/0BEz51ZYMtM7TFA0BJMnvy) | 2:38 | 2022-10-10 | 2022-11-26 |
 | [Peligrosamente Dark \(feat\. Silvana Estrada\)](https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 2:53 | 2021-12-24 |  |
 | [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-16 | 2024-07-24 |

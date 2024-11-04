@@ -15113,6 +15113,24 @@
     },
     {
       "album": {
+        "name": "Jos s\u00e4 tahdot niin (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/7GBNdMGzuiqOC1zaoLGGIi"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217890,
+      "name": "Jos s\u00e4 tahdot niin (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/7HAtisoxJ9jmNud1DjvHir"
+    },
+    {
+      "album": {
         "name": "Joululaulu",
         "url": "https://open.spotify.com/album/7w6ZlRSBRQlQPkrFjUlCmX"
       },
@@ -29056,7 +29074,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 188438,
       "name": "People\u2019s Champion",
       "url": "https://open.spotify.com/track/6kfiwoVUG8uMQoM3TjL0A9"
@@ -31226,7 +31244,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 176666,
       "name": "Ready To Go",
       "url": "https://open.spotify.com/track/1yHedmJ4lO0x9MYL6S98MA"
@@ -32706,7 +32724,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 160106,
       "name": "Satama",
       "url": "https://open.spotify.com/track/3uFYqmo1tBXqITBLsnHsUx"
@@ -35786,7 +35804,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 182159,
       "name": "Suomalainen Superstara",
       "url": "https://open.spotify.com/track/4URkuY0YjIc1Xre046F0r7"
@@ -37038,7 +37056,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 217248,
       "name": "Takavoltti",
       "url": "https://open.spotify.com/track/32mludO9xaLer8Z0qpFVNl"

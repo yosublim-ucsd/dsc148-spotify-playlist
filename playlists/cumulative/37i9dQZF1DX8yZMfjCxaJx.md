@@ -4,11 +4,12 @@
 
 > Las favoritas de los patrones\. Tomás Ballardo en portada.
 
-197 songs - 10 hr 13 min
+198 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100% Mayo](https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [100% Mayo](https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV) | 3:34 | 2024-04-26 |  |
+| [15 Millones por el M \(En Vivo\)](https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [XV Recargado](https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd) | 3:39 | 2024-11-01 |  |
 | [19x O La Perris](https://open.spotify.com/track/1aBo1AUqBzv25I5n5nYHHR) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [19x O La Perris](https://open.spotify.com/album/7JSDY08S3UPzftSpbPOqf9) | 3:23 | 2024-01-26 | 2024-08-24 |
 | [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/track/3cGlwJIMYJzMsuCsK2AbVe) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/album/7wJ5OZ9BjEriaj4s70Pupp) | 3:57 | 2024-02-23 | 2024-04-19 |
 | [A Punta De Balazos \- En Vivo](https://open.spotify.com/track/0o26lY9phEuhqZvSKTfGcb) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [A Punta De Balazos \(En Vivo\)](https://open.spotify.com/album/0wI3IGO9TPx7rvtjGIsp5f) | 3:57 | 2024-01-26 | 2024-10-17 |
@@ -70,7 +71,7 @@
 | [El Corrido de Luisito](https://open.spotify.com/track/0YGFzNB1HiK0pS6tN3em8K) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [El Corrido de Luisito](https://open.spotify.com/album/2C9Gt8uvZeWrzntBtHTO1G) | 2:54 | 2024-07-19 | 2024-08-24 |
 | [El Corrido Del MC](https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [El Corrido Del MC](https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo) | 2:37 | 2024-01-26 | 2024-11-02 |
 | [El De La Defender Blanca](https://open.spotify.com/track/1hWwQlh8IX6RroVqPpZmbc) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [El De La Defender Blanca](https://open.spotify.com/album/4B4JQCRfMSBbsnZfGGJ1Xk) | 3:02 | 2024-01-26 | 2024-02-24 |
-| [El De Las Mieles](https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp) | 3:25 | 2024-01-26 |  |
+| [El De Las Mieles](https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp) | 3:25 | 2024-01-26 | 2024-11-04 |
 | [El Disney](https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El Disney](https://open.spotify.com/album/71pONzODuum62WjG779fN1) | 2:29 | 2024-04-12 | 2024-05-25 |
 | [El Doble R](https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [10 Corridos Autorizados](https://open.spotify.com/album/2wrps2mlZBUfw63G9Sf7Th) | 3:46 | 2024-01-26 |  |
 | [El Dos de los Antrax](https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Dos de los Antrax](https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS) | 3:19 | 2024-01-26 |  |

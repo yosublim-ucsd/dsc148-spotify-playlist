@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 122052,
+  "num_followers": 122108,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Nack Nostalgia",
-        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 187433,
-      "name": "Nack Nostalgia",
-      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -187,6 +187,38 @@
       "duration_ms": 197164,
       "name": "Eat Your Man (with Nelly Furtado)",
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Nack Nostalgia",
+        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Nack Nostalgia",
+      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -229,38 +261,6 @@
       "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Leaveyourlove",
-        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 231490,
-      "name": "Leaveyourlove",
-      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
-    },
-    {
       "added_at": "2024-10-10 13:00:00",
       "album": {
         "name": "Tangerine",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs"
     },
     {
+      "added_at": "2024-10-03 14:00:00",
+      "album": {
+        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
+        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "If Our Love Is Dead",
+      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
+    },
+    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "iluv",
@@ -331,22 +347,6 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2024-10-03 14:00:00",
-      "album": {
-        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
-        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "If Our Love Is Dead",
-      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -433,38 +433,6 @@
       "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
     },
     {
-      "added_at": "2024-09-05 14:00:00",
-      "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Til The Morning",
-      "url": "https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg"
-    },
-    {
-      "added_at": "2024-09-26 14:00:00",
-      "album": {
-        "name": "Recognise",
-        "url": "https://open.spotify.com/album/4887blG8QR8i119By3sGO8"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 231966,
-      "name": "Recognise",
-      "url": "https://open.spotify.com/track/6NHRakvvF7z0VdrGbfgq1l"
-    },
-    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "HEAVEN",
@@ -497,20 +465,52 @@
       "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
+      "added_at": "2024-09-26 14:00:00",
       "album": {
-        "name": "U Should Not Be Doing That / Facts",
-        "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
+        "name": "Recognise",
+        "url": "https://open.spotify.com/album/4887blG8QR8i119By3sGO8"
       },
       "artists": [
         {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 206659,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
+      "duration_ms": 231966,
+      "name": "Recognise",
+      "url": "https://open.spotify.com/track/6NHRakvvF7z0VdrGbfgq1l"
+    },
+    {
+      "added_at": "2024-09-05 14:00:00",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -527,6 +527,22 @@
       "duration_ms": 232978,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "U Should Not Be Doing That / Facts",
+        "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 206659,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
     },
     {
       "added_at": "2024-09-05 14:00:00",
@@ -583,22 +599,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Just Like North",
-        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Just Like North",
-      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Laced Up",
         "url": "https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q"
       },
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Jerkin'",
-        "url": "https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 128658,
-      "name": "Jerkin'",
-      "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
-    },
-    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "Believe (triple j Like A Version) [Cover Version]",
@@ -659,6 +643,22 @@
       "duration_ms": 197594,
       "name": "Believe (triple j Like A Version) - Cover Version",
       "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Jerkin'",
+        "url": "https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Claw Foot",
-      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
       },
@@ -709,20 +693,20 @@
       "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
     },
     {
-      "added_at": "2024-09-19 14:00:00",
+      "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Electric Feel (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B"
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
       },
       "artists": [
         {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 176800,
-      "name": "Electric Feel - Spotify Singles",
-      "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
+      "duration_ms": 166973,
+      "name": "Claw Foot",
+      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -741,20 +725,20 @@
       "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
+      "added_at": "2024-09-19 14:00:00",
       "album": {
-        "name": "Young Free & Reckless",
-        "url": "https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38"
+        "name": "Electric Feel (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B"
       },
       "artists": [
         {
-          "name": "The 046",
-          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
         }
       ],
-      "duration_ms": 192876,
-      "name": "Young Free & Reckless",
-      "url": "https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO"
+      "duration_ms": 176800,
+      "name": "Electric Feel - Spotify Singles",
+      "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -791,6 +775,22 @@
       "duration_ms": 150000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Young Free & Reckless",
+        "url": "https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        }
+      ],
+      "duration_ms": 192876,
+      "name": "Young Free & Reckless",
+      "url": "https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -867,6 +867,26 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 124401,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -899,42 +919,6 @@
       "duration_ms": 236575,
       "name": "Untangling",
       "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 124401,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "NATURAL HABITAT",
         "url": "https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 173475,
       "name": "NATURAL HABITAT",
       "url": "https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Enough Of The Sweet Talk",
-        "url": "https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 240137,
-      "name": "Enough Of The Sweet Talk",
-      "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Enough Of The Sweet Talk",
+        "url": "https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 240137,
+      "name": "Enough Of The Sweet Talk",
+      "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "Rebuild Repeat",
         "url": "https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 145197,
       "name": "Wreck & Ruin",
       "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "All Your Life",
-        "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
-      },
-      "artists": [
-        {
-          "name": "Nick Ward",
-          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "All Your Life",
-      "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
     },
     {
       "added_at": "2024-09-26 14:00:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 169304,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/1wrIvEXTRaA2FWDFYhgcNW"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "All Your Life",
+        "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "All Your Life",
+      "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1165,6 +1165,22 @@
       "url": "https://open.spotify.com/track/2Q0mGTS4rOEnl8Z0VwSFFc"
     },
     {
+      "added_at": "2024-10-31 13:00:00",
+      "album": {
+        "name": "Stop Calling",
+        "url": "https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Stop Calling",
+      "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
+    },
+    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "Caught in a Reverie",
@@ -1213,6 +1229,22 @@
       "url": "https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu"
     },
     {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Still Have Room",
+        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "duration_ms": 142584,
+      "name": "Still Have Room",
+      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
+    },
+    {
       "added_at": "2024-09-05 14:00:00",
       "album": {
         "name": "The Second Act",
@@ -1231,22 +1263,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Still Have Room",
-        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
-      },
-      "artists": [
-        {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
-        }
-      ],
-      "duration_ms": 142584,
-      "name": "Still Have Room",
-      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "I Wish I Never Loved You",
         "url": "https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 223120,
       "name": "I Wish I Never Loved You",
       "url": "https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Givin' It Up",
-        "url": "https://open.spotify.com/album/7lyQed6f1BtFe5Q5K9eRvR"
-      },
-      "artists": [
-        {
-          "name": "South Summit",
-          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
-        }
-      ],
-      "duration_ms": 205116,
-      "name": "Givin' It Up",
-      "url": "https://open.spotify.com/track/7JlwEzDrrUCQyqS4bun7cG"
     }
   ],
   "unique_name": "The Local List",

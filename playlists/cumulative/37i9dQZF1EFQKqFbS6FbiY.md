@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-566 songs - 1 day 3 hr 33 min
+567 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,8 @@
 | [Pior Que Eu \- Ao Vivo](https://open.spotify.com/track/4fzxmtkqnip6XRVJmqpyJ6) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Pior Que Eu \(Ao Vivo\)](https://open.spotify.com/album/2fN9FbsbJ3Bn0JnR7ZAhwt) | 3:19 | 2024-03-26 |  |
 | [Pique de Pivete](https://open.spotify.com/track/0lUveRi1wGkXFObwCf6EbG) | [Paulim & Dodô](https://open.spotify.com/artist/2nXzTyLHdxO3hYf0ZCkHjX) | [Pique de Pivete](https://open.spotify.com/album/0iD5zI7tAFhr1iJqnCeNQO) | 2:08 | 2024-03-26 |  |
 | [Pneuzinho de Chopp](https://open.spotify.com/track/2bDOBz3JVQ4F1XqYG9kFTK) | [Rodrigo & Thayane](https://open.spotify.com/artist/0k1a0cBg21Xbw13OGowREy) | [Pneuzinho de Chopp](https://open.spotify.com/album/0YvOn0fXJ9K8xVIqpZ84wT) | 2:45 | 2023-12-31 |  |
-| [Por Entre a Multidão](https://open.spotify.com/track/3Lgfaw9keP1Zkz9RjZrro2) | [Alan e Aladim](https://open.spotify.com/artist/6lrgtZI2qTutbZMppO9NJd) | [Sol e Lua](https://open.spotify.com/album/1TMRsxh5gDIdbzF7Up2KK4) | 3:24 | 2023-12-30 |  |
+| [Por Entre a Multidão](https://open.spotify.com/track/3Lgfaw9keP1Zkz9RjZrro2) | [Alan e Aladim](https://open.spotify.com/artist/6lrgtZI2qTutbZMppO9NJd) | [Sol e Lua](https://open.spotify.com/album/1TMRsxh5gDIdbzF7Up2KK4) | 3:24 | 2023-12-30 | 2024-11-04 |
+| [Por Entre a Multidão](https://open.spotify.com/track/7tx6En8pHolpfIOrCkYYYF) | [Alan e Aladim](https://open.spotify.com/artist/6lrgtZI2qTutbZMppO9NJd) | [Sol e Lua](https://open.spotify.com/album/03s2BAuRk2zXWLXaiqj3Sg) | 3:24 | 2024-11-03 |  |
 | [Porque Eu Presto \- Ao Vivo](https://open.spotify.com/track/6KF29VNGQdkBJdMjfTmFGA) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [João Neto & Frederico 25 Anos Ao Vivo \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4gMaeVI25RAgyHa1tzQCi2) | 3:14 | 2023-12-30 |  |
 | [Povo de Goiás \- Ao Vivo](https://open.spotify.com/track/0tIzDyYpRvfSFeF59Fhb0j) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma) | [Até o Talo, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/4F2x6CfAxOeTXMoUokqLzG) | 2:30 | 2023-12-30 |  |
 | [Pra Que pra Nada \(Acústico\) \- Ao Vivo](https://open.spotify.com/track/1b8kTbzjx5TVRzOYRfXOPx) | [LahLima](https://open.spotify.com/artist/1ie5XtsgTWhbzK3lEuY1br) | [Pocket Acústico \(Ao Vivo\)](https://open.spotify.com/album/1mDmHZIpug198LbagvFkM1) | 2:55 | 2023-12-30 |  |

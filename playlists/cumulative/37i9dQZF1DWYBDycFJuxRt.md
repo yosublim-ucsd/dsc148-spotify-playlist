@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: WurtS \*👉 <a href="https://spice.eplus.jp/articles/332878?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: WurtS \*👉 <a href="https://spice.eplus.jp/articles/333047?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
 8,335 songs - 21 day 10 hr 8 min
 

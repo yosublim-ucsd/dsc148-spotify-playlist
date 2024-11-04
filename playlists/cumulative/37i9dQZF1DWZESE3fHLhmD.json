@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Du Warst Immer Dabei",
+        "url": "https://open.spotify.com/album/3sB2oXeboxrGxxPoCUoK5f"
+      },
+      "artists": [
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175823,
+      "name": "Du Warst Immer Dabei",
+      "url": "https://open.spotify.com/track/6y4nvDn87SH0mLln0jEFmk"
+    },
+    {
+      "album": {
         "name": "daf\u00fcr bin ich frei EP",
         "url": "https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW"
       },
@@ -4594,7 +4612,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 209213,
       "name": "What Am I Gonna Do On Sundays?",
       "url": "https://open.spotify.com/track/0WttB2xYS66VopJmwD1UzF"

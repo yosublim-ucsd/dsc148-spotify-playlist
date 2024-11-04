@@ -4,11 +4,11 @@
 
 > 🍂
 
-132 songs - 6 hr 43 min
+133 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [25](https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [25](https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt) | 3:18 | 2024-09-12 |  |
+| [25](https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [25](https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt) | 3:18 | 2024-09-12 | 2024-11-04 |
 | [25 bare fem år til](https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [25 bare fem år til](https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L) | 2:45 | 2024-10-03 |  |
 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-04 |  |
 | [A Potion For Love](https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Potion For Love](https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0) | 3:36 | 2024-06-27 |  |
@@ -121,6 +121,7 @@
 | [Syrener \- Akustisk](https://open.spotify.com/track/5akx9H3PofiMGe2vVUFWqm) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0), [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [Syrener \(Akustisk\)](https://open.spotify.com/album/51LtrpKiGF45SGGBOb8Lr4) | 3:07 | 2024-06-27 |  |
 | [Så easy](https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL), [Lars Vaular](https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2) | [Og eg lyger så det renner som en foss gjennom rommet](https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH) | 3:40 | 2024-06-27 |  |
 | [Sånn som deg](https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Sånn som deg](https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2) | 3:24 | 2024-06-27 |  |
+| [Søtt&salt \(feat\. Peg Parnevik\)](https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Søtt&salt \(feat\. Peg Parnevik\)](https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI) | 3:15 | 2024-10-31 |  |
 | [Ta med deg døra](https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ta med deg døra](https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K) | 3:31 | 2024-10-24 |  |
 | [Take Your Time \(Slow Down\)](https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [International Girl, Pt\. 1](https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7) | 2:13 | 2024-06-27 | 2024-08-03 |
 | [Tar Jeg Feil](https://open.spotify.com/track/606olj3PDQBde7TTAop4tA) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Tar Jeg Feil](https://open.spotify.com/album/4mjRBfM8Z5qh0EMVMSLtKy) | 4:05 | 2024-06-27 | 2024-10-11 |

@@ -4303,6 +4303,24 @@
     },
     {
       "album": {
+        "name": "Un, dos, tres, por m\u00ed y por todos",
+        "url": "https://open.spotify.com/album/0erkJ4aigti7prmSnfxSEu"
+      },
+      "artists": [
+        {
+          "name": "Cantoalegre",
+          "url": "https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93596,
+      "name": "Baile de los esqueletos",
+      "url": "https://open.spotify.com/track/3O1OsRHMbAMC3BEb9krqS8"
+    },
+    {
+      "album": {
         "name": "BAIXO",
         "url": "https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G"
       },
@@ -13509,6 +13527,24 @@
     },
     {
       "album": {
+        "name": "Idolos del Rock & Roll",
+        "url": "https://open.spotify.com/album/7BI6FgfgfYaWaOZo6phWBC"
+      },
+      "artists": [
+        {
+          "name": "Luis Vivi Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7H6YncgFpZmEW0qXzDaKm2"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "El Monstruo",
+      "url": "https://open.spotify.com/track/6KDhsk7r8TaY4nPZskGd5p"
+    },
+    {
+      "album": {
         "name": "EL NENE",
         "url": "https://open.spotify.com/album/66dX9XaTPTYeTg3w7mHV5i"
       },
@@ -14832,7 +14868,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 144674,
       "name": "ESCAPATE",
       "url": "https://open.spotify.com/track/6HrALJOMsfPCCbUo5cJCON"
@@ -16688,7 +16724,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 107539,
       "name": "FUNK DO BOUNCE (Slowed)",
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
@@ -20536,7 +20572,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 237908,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
@@ -21471,6 +21507,28 @@
     },
     {
       "album": {
+        "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
+      },
+      "artists": [
+        {
+          "name": "Angelica Vale",
+          "url": "https://open.spotify.com/artist/62B2sz2W3zAcqGnlQtYTaO"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165533,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/5HIXwsSwowXq6zerUeqD7l"
+    },
+    {
+      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/4M7yln2ZtrETNYYp3bUDeK"
       },
@@ -21558,7 +21616,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 295671,
       "name": "La Matraca - Mix",
       "url": "https://open.spotify.com/track/23IWlsTIWWmuF3YjHfGJEc"
@@ -35682,6 +35740,28 @@
       "duration_ms": 102923,
       "name": "RITMO DE TREINO",
       "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
+    },
+    {
+      "album": {
+        "name": "Robando",
+        "url": "https://open.spotify.com/album/3THX56YH25ji2EdppRaPdd"
+      },
+      "artists": [
+        {
+          "name": "DJ Lalo",
+          "url": "https://open.spotify.com/artist/4BPiDIdCGWgKy8UzVS1a4S"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154852,
+      "name": "Robando",
+      "url": "https://open.spotify.com/track/5YLZf2p3TZc4R6sUYZTrGV"
     },
     {
       "album": {

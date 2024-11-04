@@ -2481,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "Amor En Ruinas",
+        "url": "https://open.spotify.com/album/6sx8NrzVixSxwgaUGI92Wo"
+      },
+      "artists": [
+        {
+          "name": "BIANCO VELEZ",
+          "url": "https://open.spotify.com/artist/3r5dCyf2TGWQreILEV6hCk"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Amor En Ruinas",
+      "url": "https://open.spotify.com/track/4k996Q3icD3pl1EhbtjlrT"
+    },
+    {
+      "album": {
         "name": "Amour d'une m\u00e8re",
         "url": "https://open.spotify.com/album/1FRVEcLT0pLRMGFjBEEmEN"
       },
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -7503,6 +7521,24 @@
     },
     {
       "album": {
+        "name": "dear mama, get well soon.",
+        "url": "https://open.spotify.com/album/356ClQYD3TEHWjXAWM16rz"
+      },
+      "artists": [
+        {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/5YnYWloZVXpP74B5NIUpIK"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214402,
+      "name": "can't escape these feelings",
+      "url": "https://open.spotify.com/track/1fLikJG9fVurWuO2Ymv8sJ"
+    },
+    {
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/4QmPaZ05UubJ3x5O0z483V"
       },
@@ -8354,7 +8390,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 155066,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
@@ -9602,7 +9638,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 129153,
       "name": "CRF - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
@@ -11538,7 +11574,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
@@ -15078,7 +15114,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -19116,7 +19152,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 141909,
       "name": "I Can't Do This",
       "url": "https://open.spotify.com/track/53qdbojYem0XyIBnXxtp36"
@@ -20554,7 +20590,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -27036,7 +27072,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 141314,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
@@ -29546,7 +29582,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -31058,7 +31094,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Party",
       "url": "https://open.spotify.com/track/1cRtvrg3obMXE8ls9Zxv1G"
@@ -37842,7 +37878,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 197019,
       "name": "St. Chroma (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
@@ -39124,7 +39160,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -39142,7 +39178,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -40742,7 +40778,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"

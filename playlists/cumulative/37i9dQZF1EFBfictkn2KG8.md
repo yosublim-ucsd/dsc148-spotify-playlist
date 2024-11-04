@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-42 songs - 1 hr 58 min
+43 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Maybe](https://open.spotify.com/track/6t3p46iojKrsOln9fazd23) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Maybe](https://open.spotify.com/album/5QB6qx8rvfe52nHrialFPJ) | 2:33 | 2024-06-13 |  |
 | [Narcotic](https://open.spotify.com/track/7M9w4C8WenlvWfNRAulZOX) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Senex](https://open.spotify.com/artist/2n0Qz7ZvKS6kwjPuj9sW4H) | [Narcotic](https://open.spotify.com/album/5J3cTpJJ1EgXK8ZCEylSZO) | 3:12 | 2024-06-13 |  |
 | [Northern Lights](https://open.spotify.com/track/5RfewpRbpiihMwWPQxTnB3) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Northern Lights](https://open.spotify.com/album/3jcyaJQYwvcVKyyK5eNNCe) | 2:35 | 2024-06-13 |  |
-| [Reality \(feat\. Janieck Devy\) \- Radio Edit](https://open.spotify.com/track/0cOBMETjhxublnnwhbnzJO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck Devy](https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON) | [Less Is More](https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT) | 2:39 | 2024-06-13 |  |
+| [Reality](https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:39 | 2024-11-03 |  |
+| [Reality \(feat\. Janieck Devy\) \- Radio Edit](https://open.spotify.com/track/0cOBMETjhxublnnwhbnzJO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck Devy](https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON) | [Less Is More](https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT) | 2:39 | 2024-06-13 | 2024-11-04 |
 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 | 2024-06-13 |  |
 | [Rocket Ride](https://open.spotify.com/track/6rbT6gJufhm9a5xEmMlyc1) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rocket Ride](https://open.spotify.com/album/3728GQSE87KrGe2IYBGX9U) | 2:46 | 2024-09-25 |  |
 | [Rocket Ride \(feat\. Mougleta\)](https://open.spotify.com/track/5ovg81kJ8fyRjxpqgUZlzL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rocket Ride \(feat\. Mougleta\)](https://open.spotify.com/album/4BdQeYDvVrDJ6PowcNqRRH) | 2:46 | 2024-06-13 | 2024-09-26 |

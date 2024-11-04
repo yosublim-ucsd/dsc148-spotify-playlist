@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 1842,
+  "num_followers": 1846,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAAAXQrQuvszI05Cz767Ayd4D",
+  "snapshot_id": "ZyVrgAAAAACyBnwNCp4/Dn2327T3Ymsl",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deserve Each Other",
-        "url": "https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 167650,
-      "name": "Deserve Each Other",
-      "url": "https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SEX MACHINA",
         "url": "https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 129397,
       "name": "SEX MACHINA",
       "url": "https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deserve Each Other",
+        "url": "https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167650,
+      "name": "Deserve Each Other",
+      "url": "https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DROOL",
+        "url": "https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 165161,
+      "name": "DarkMagicSillySexy (origin story)",
+      "url": "https://open.spotify.com/track/14ZekLSr6NEv2ab50RzPkC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bizarre feat. 6arelyhuman",
         "url": "https://open.spotify.com/album/1IQMHuafXIN8EDzzNwjUqs"
       },
@@ -343,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DROOL",
-        "url": "https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344"
+        "name": "Press It (Fast & Furious: Drift Tape/Phonk Vol 1)",
+        "url": "https://open.spotify.com/album/69oUhrCikb8oTcZSakoCkm"
       },
       "artists": [
         {
           "name": "bludnymph",
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
-      "duration_ms": 165161,
-      "name": "DarkMagicSillySexy (origin story)",
-      "url": "https://open.spotify.com/track/14ZekLSr6NEv2ab50RzPkC"
+      "duration_ms": 121763,
+      "name": "Press It - Fast & Furious: Drift Tape/Phonk Vol 1",
+      "url": "https://open.spotify.com/track/3WTfdJjvB2NKINRJMEiJa1"
     },
     {
       "added_at": null,
@@ -379,26 +399,6 @@
       "duration_ms": 168000,
       "name": "6izarre RAVE (with 6arelyhuman)",
       "url": "https://open.spotify.com/track/5IyVZwbeisZ3TiCAFl2PAT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Press It (Fast & Furious: Drift Tape/Phonk Vol 1)",
-        "url": "https://open.spotify.com/album/69oUhrCikb8oTcZSakoCkm"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 121763,
-      "name": "Press It - Fast & Furious: Drift Tape/Phonk Vol 1",
-      "url": "https://open.spotify.com/track/3WTfdJjvB2NKINRJMEiJa1"
     },
     {
       "added_at": null,

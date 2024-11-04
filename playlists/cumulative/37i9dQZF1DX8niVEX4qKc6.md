@@ -4,7 +4,7 @@
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Feli Colina
 
-177 songs - 10 hr 27 min
+178 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Hablando a tu corazón](https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Hablando a tu corazón](https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh) | 3:59 | 2024-02-02 | 2024-11-03 |
 | [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 | 2023-11-10 |  |
 | [Heridas \- Acoustic Version](https://open.spotify.com/track/2hqgGbTxWK7fToF9QELlgD) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Heridas \(Acoustic Version\)](https://open.spotify.com/album/7FKndOez6kYh87LWvgdB4p) | 3:16 | 2023-09-29 | 2023-12-23 |
+| [Hermoza From Heaven](https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Ninja Mental \- Unplugged MTV](https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c) | 4:37 | 2024-10-18 |  |
 | [Imán](https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Imán](https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v) | 3:14 | 2024-08-23 |  |
 | [INTENSIDAD](https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [INTENSIDAD](https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5) | 2:38 | 2023-08-18 | 2024-08-24 |
 | [Irresponsables \- En Vivo](https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Repuesto de Fe \(En Vivo\)](https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc) | 2:44 | 2023-11-10 | 2024-08-24 |
@@ -139,7 +140,7 @@
 | [Qué Es Lo Que Pasa](https://open.spotify.com/track/3RxszcEWkLYokjJCp25P6N) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [Qué Es Lo Que Pasa](https://open.spotify.com/album/5BKQ6xFLiITM5qsh6OukUb) | 1:39 | 2024-08-23 | 2024-10-18 |
 | [Quédate](https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quédate](https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO) | 3:15 | 2023-08-18 | 2024-08-24 |
 | [Rezo Por Vos \- Live](https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:48 | 2023-08-18 |  |
-| [Robada](https://open.spotify.com/track/4phQ5sMlXXOMuNke9qEwED) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:17 | 2024-09-27 |  |
+| [Robada](https://open.spotify.com/track/4phQ5sMlXXOMuNke9qEwED) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:17 | 2024-09-27 | 2024-11-04 |
 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 | 2023-08-18 |  |
 | [Salvaje](https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Salvaje](https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR) | 2:53 | 2024-04-19 |  |
 | [Scarlett O'hara \- Acústico](https://open.spotify.com/track/47qOoHuaQ4vLqLbNGIFboF) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal \(Alternativo\)](https://open.spotify.com/album/16uIj6H5niksUsrkyiJkrA) | 3:59 | 2023-08-18 | 2023-09-02 |

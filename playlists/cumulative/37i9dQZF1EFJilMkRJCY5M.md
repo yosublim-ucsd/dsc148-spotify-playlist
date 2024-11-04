@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-131 songs - 6 hr 48 min
+133 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Call Your Sister](https://open.spotify.com/track/4ZhULfF8Sto8LKYUgx1yU3) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:00 | 2022-05-29 |  |
 | [Close](https://open.spotify.com/track/3lhEsT2z3kVegKaI05Osy5) | [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Close](https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet) | 3:14 | 2023-05-15 |  |
 | [Closer To Heaven](https://open.spotify.com/track/4le0jIkDt5mHyatZMp4rYB) | [Lucky Guess](https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0), [CharlieWonder](https://open.spotify.com/artist/5jXBLZwmopWkoDELHtLSdN), [Coppermines](https://open.spotify.com/artist/2uqEKVU14iUExTS2g7Tn07) | [Closer To Heaven](https://open.spotify.com/album/515WUaq7Tx1xZRHBjRQZg4) | 2:23 | 2024-08-09 |  |
+| [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 | 2024-11-03 |  |
 | [Could've Been Us](https://open.spotify.com/track/7v8PjAWXMS2ODBAoKwVUIE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Could've Been Us](https://open.spotify.com/album/1VymWBVVHSJWZXILkquSiA) | 3:19 | 2022-05-29 |  |
 | [Count Me Out](https://open.spotify.com/track/3jPYaAlI795e7rOxuWhrSi) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Count Me Out](https://open.spotify.com/album/2UUU9AMOEP4g21JA6WlPaA) | 3:13 | 2024-05-17 |  |
 | [Dandelion](https://open.spotify.com/track/0BoDLO2lrH1jh1RaCzmkYJ) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Mat Kearney](https://open.spotify.com/album/3DBFBwe5OkJzj1j992u0bG) | 3:23 | 2024-05-17 |  |
@@ -71,6 +72,7 @@
 | [Loud House](https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1) | 3:24 | 2022-08-07 | 2024-07-12 |
 | [Love's Contagious](https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT) | [Darby](https://open.spotify.com/artist/151Z1Ly2l0u5Vm4zugwQTT) | [Love's Contagious](https://open.spotify.com/album/6iZ25yelMx8XcA85uW96dR) | 2:19 | 2023-02-13 |  |
 | [Luckier](https://open.spotify.com/track/2ZryPLqBfvls1yKC9wlqv0) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [Luckier](https://open.spotify.com/album/1Ej6Oap0FVOYsnvBQcWj2u) | 3:14 | 2024-10-06 |  |
+| [Made In The USA](https://open.spotify.com/track/7fvEOr1hTCiJpUMm90FzhM) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather Deluxe Edition](https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0) | 3:47 | 2024-11-03 |  |
 | [Make Up My Mind](https://open.spotify.com/track/3W4g24a8AoYpG1FFhKH3ls) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 3:13 | 2022-05-29 |  |
 | [Make You Stay](https://open.spotify.com/track/0v5XilXB3wnpwIbyxiIaOh) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Backseats and Burnt CDs](https://open.spotify.com/album/1OqREMCBqRnAvoe86lT30y) | 2:50 | 2022-05-29 |  |
 | [Mean To Me](https://open.spotify.com/track/0UzuBW8HXoez3hmI1AoN3J) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:01 | 2022-05-29 |  |

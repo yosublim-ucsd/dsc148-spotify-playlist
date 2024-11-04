@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Annural Khalid, Maanu
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,091 likes - 97 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,163 likes - 97 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

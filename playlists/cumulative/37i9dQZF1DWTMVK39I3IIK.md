@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸 <a href="spotify:artist:0dMc2FDDeU7OzAn5EsYKuU">Østen</a> har nyt album ude❤️‍🔥
 
-118 songs - 6 hr 20 min
+119 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Falder I](https://open.spotify.com/track/4YtgUbrhVuBiGTemZ9BnO9) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Falder I](https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw) | 3:00 | 2024-08-09 | 2024-08-30 |
 | [Formskifter](https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Formskifter](https://open.spotify.com/album/2v4FKfFPRtDVc2hjuysIxl) | 3:15 | 2024-06-27 | 2024-09-13 |
 | [Fra Wien Til Rom](https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Legebørn](https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD) | 4:08 | 2024-06-27 | 2024-10-13 |
-| [Fravær](https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Fravær](https://open.spotify.com/album/2hicqCPKVEeRFZzQ9Rk1fy) | 2:08 | 2024-10-24 |  |
+| [Fravær](https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Fravær](https://open.spotify.com/album/2hicqCPKVEeRFZzQ9Rk1fy) | 2:08 | 2024-10-24 | 2024-11-04 |
 | [Følsom dreng](https://open.spotify.com/track/7f8XR9iGp7CQzCfKNmtt7t) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Følsom dreng](https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA) | 3:18 | 2024-09-05 |  |
 | [Gennem Dit Hjerte \(feat\. Hans Philip\)](https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Når Man Taler Om Solen](https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx) | 2:52 | 2024-06-27 |  |
 | [Gennemsku Mig Nu](https://open.spotify.com/track/3a6YcuG8rRxMtZdMWkAQCR) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [grib mig hvis jeg falder](https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj) | 3:13 | 2024-06-27 |  |
@@ -110,6 +110,7 @@
 | [Sunshine In Atalaya](https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3) | [Visti's Vinyl Collective](https://open.spotify.com/artist/6WL26DCfDfQdOeZFWtVDBl), [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Sunshine In Atalaya](https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9) | 4:22 | 2024-06-27 |  |
 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 | 2024-08-29 |  |
 | [Syreregn](https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2) | [BONFÍ](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Syreregn](https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz) | 2:50 | 2024-09-11 | 2024-10-12 |
+| [Sætter Alt På Spil](https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Sætter Alt På Spil](https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA) | 3:17 | 2024-10-24 |  |
 | [The Game](https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [The Game](https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr) | 3:05 | 2024-06-27 |  |
 | [Til Mit Hjerte Stopper \(feat\. Kundo\)](https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [</3](https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq) | 3:23 | 2024-06-27 | 2024-09-27 |
 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 | 2024-06-27 |  |

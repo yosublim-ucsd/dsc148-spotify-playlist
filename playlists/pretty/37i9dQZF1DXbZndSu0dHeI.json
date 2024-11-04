@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 228602,
+  "num_followers": 228664,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
     },
     {
-      "added_at": "2023-03-08 12:04:06",
-      "album": {
-        "name": "Petals on the Moon",
-        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 256945,
-      "name": "Petals on the Moon",
-      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
-    },
-    {
       "added_at": "2023-05-18 14:23:33",
       "album": {
         "name": "Drop Stop Roll",
@@ -455,6 +439,22 @@
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "added_at": "2023-03-08 12:04:06",
+      "album": {
+        "name": "Petals on the Moon",
+        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 256945,
+      "name": "Petals on the Moon",
+      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
     },
     {
       "added_at": "2024-03-22 14:38:07",
@@ -685,6 +685,38 @@
       "url": "https://open.spotify.com/track/3EN4LzHTjEDHt4s5n3Fix5"
     },
     {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2023-07-04 22:20:24",
+      "album": {
+        "name": "Headlands",
+        "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "Headlands",
+      "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
+    },
+    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Seventeen Going Under (Acoustic)",
@@ -703,22 +735,6 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
-    },
-    {
-      "added_at": "2023-07-04 22:20:24",
-      "album": {
-        "name": "Headlands",
-        "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "Headlands",
-      "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -751,22 +767,6 @@
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
-    },
-    {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2024-05-31 19:59:04",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Are You OK?",
-        "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
-      },
-      "artists": [
-        {
-          "name": "Wasuremono",
-          "url": "https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig"
-        }
-      ],
-      "duration_ms": 263733,
-      "name": "Are You OK?",
-      "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Let's Get Out Of This Country",
         "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Woman on the Internet",
-        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
+        "name": "Are You OK?",
+        "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Wasuremono",
+          "url": "https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig"
         }
       ],
-      "duration_ms": 220208,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
+      "duration_ms": 263733,
+      "name": "Are You OK?",
+      "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -943,6 +927,22 @@
       "duration_ms": 288283,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Woman on the Internet",
+        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 220208,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
     },
     {
       "added_at": "2023-07-28 13:45:12",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
-    },
-    {
       "added_at": "2024-03-22 16:44:40",
       "album": {
         "name": "Shakes",
@@ -1119,6 +1103,22 @@
       "duration_ms": 194600,
       "name": "Shakes",
       "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "is that all there is?",
         "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
       },
@@ -1359,22 +1343,6 @@
       "duration_ms": 177814,
       "name": "welcome to the sidelines",
       "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
-    },
-    {
-      "added_at": "2024-08-08 19:46:47",
-      "album": {
-        "name": "Meet Cute",
-        "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "Meet Cute",
-      "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
     },
     {
       "added_at": "2024-08-08 19:46:47",
@@ -1409,6 +1377,22 @@
       "url": "https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
       "added_at": "2024-02-18 00:00:00",
       "album": {
         "name": "Synthetic Flowers For A Romantic Comedy",
@@ -1423,6 +1407,22 @@
       "duration_ms": 279984,
       "name": "The Brown Eyed Driver",
       "url": "https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS"
+    },
+    {
+      "added_at": "2024-08-08 19:46:47",
+      "album": {
+        "name": "Meet Cute",
+        "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166027,
+      "name": "Meet Cute",
+      "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
     },
     {
       "added_at": "2024-03-28 22:30:08",
@@ -1441,6 +1441,22 @@
       "url": "https://open.spotify.com/track/3awm1x3kGmYIVrkNDBFP6U"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2dQ2fB3gMPzY5abi0DwWxx"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG"
+    },
+    {
       "added_at": "2023-10-05 19:47:49",
       "album": {
         "name": "Someday",
@@ -1457,36 +1473,20 @@
       "url": "https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ"
     },
     {
-      "added_at": "2023-03-08 12:04:06",
+      "added_at": "2024-08-08 19:46:47",
       "album": {
-        "name": "strongboi",
-        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
       },
       "artists": [
         {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 243206,
-      "name": "flame",
-      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/2dQ2fB3gMPzY5abi0DwWxx"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG"
+      "duration_ms": 210826,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1505,20 +1505,20 @@
       "url": "https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9"
     },
     {
-      "added_at": "2024-08-08 19:46:47",
+      "added_at": "2023-03-08 12:04:06",
       "album": {
-        "name": "The Hit",
-        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
+        "name": "strongboi",
+        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
         }
       ],
-      "duration_ms": 210826,
-      "name": "The Hit",
-      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
+      "duration_ms": 243206,
+      "name": "flame",
+      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
     },
     {
       "added_at": "2022-08-05 10:31:40",

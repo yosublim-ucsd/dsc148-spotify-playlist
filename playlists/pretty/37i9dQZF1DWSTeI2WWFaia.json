@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Cordae",
-  "num_followers": 1590411,
+  "num_followers": 1590370,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "meet the grahams",
+        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 392138,
+      "name": "meet the grahams",
+      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 200786,
       "name": "Stickz N Stonez",
       "url": "https://open.spotify.com/track/1tTKy8pW1dMaXJm7bYrSzA"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "meet the grahams",
-        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 392138,
-      "name": "meet the grahams",
-      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "For All The Dogs Scary Hours Edition",
-        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 160049,
-      "name": "Red Button",
-      "url": "https://open.spotify.com/track/5Mc8XDfGQCMkOEZm9rS1cE"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 235317,
       "name": "Blueslides",
       "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 160049,
+      "name": "Red Button",
+      "url": "https://open.spotify.com/track/5Mc8XDfGQCMkOEZm9rS1cE"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -443,6 +443,30 @@
       "duration_ms": 117562,
       "name": "Ecstasy (Freestyle)",
       "url": "https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Daylyt",
+          "url": "https://open.spotify.com/artist/573vxT6vzhNRzTVIuVRnLj"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 354773,
+      "name": "Pi (feat. Daylyt & Ab-Soul)",
+      "url": "https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -495,50 +519,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 291038,
-      "name": "oHio (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Daylyt",
-          "url": "https://open.spotify.com/artist/573vxT6vzhNRzTVIuVRnLj"
-        },
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 354773,
-      "name": "Pi (feat. Daylyt & Ab-Soul)",
-      "url": "https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 179200,
       "name": "Together",
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Love Life",
+      "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Jesus Arms",
         "url": "https://open.spotify.com/album/4QjcM4k9VD5V1C0yUurNRa"
       },
@@ -739,38 +755,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Love Life",
-      "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Palaces",
-      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Ferraris in The Rain (feat. ScHoolboy Q)",
         "url": "https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 184266,
       "name": "Ferraris In The Rain (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Palaces",
+      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
         "name": "Magic 3",
         "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
       },
@@ -843,42 +859,6 @@
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "Balut",
-        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 207507,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "High Stakes",
-        "url": "https://open.spotify.com/album/278eJmPZyqR91OIXYQrfWq"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        }
-      ],
-      "duration_ms": 145612,
-      "name": "High Stakes",
-      "url": "https://open.spotify.com/track/1h0LgY5z2F9CIfYU4fdXlH"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
         "name": "Burning Desire",
         "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
       },
@@ -886,15 +866,11 @@
         {
           "name": "MIKE",
           "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 218181,
-      "name": "plz don\u2019t cut my wings (feat. Earl Sweatshirt)",
-      "url": "https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M"
+      "duration_ms": 108281,
+      "name": "Burning Desire",
+      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -923,6 +899,26 @@
       "duration_ms": 191040,
       "name": "DBZ",
       "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "High Stakes",
+        "url": "https://open.spotify.com/album/278eJmPZyqR91OIXYQrfWq"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        }
+      ],
+      "duration_ms": 145612,
+      "name": "High Stakes",
+      "url": "https://open.spotify.com/track/1h0LgY5z2F9CIfYU4fdXlH"
     },
     {
       "added_at": "2024-11-01 04:00:00",

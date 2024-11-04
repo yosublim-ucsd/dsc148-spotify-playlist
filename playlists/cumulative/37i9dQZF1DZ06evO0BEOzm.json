@@ -388,7 +388,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 166237,
       "name": "Bourbon",
       "url": "https://open.spotify.com/track/1A3Rat6k27st6uSqpMLqn6"
@@ -2056,6 +2056,28 @@
       "duration_ms": 123636,
       "name": "Tuned In Freestyle",
       "url": "https://open.spotify.com/track/5dfTPMTMjMAW1CwxSwzWb5"
+    },
+    {
+      "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147533,
+      "name": "TYG (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/39bBo9c52p4bcUMWBbuOaO"
     },
     {
       "album": {

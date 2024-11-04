@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,971 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,008 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 46 | [Favela Vive 2](https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Favela Vive 2](https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3) | 7:02 |
 | 47 | [ESSE É MEU ESTILO \(feat\. Akira Presidente & BK\)](https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [RUNNING](https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV) | 3:58 |
 | 48 | [Né Segredo](https://open.spotify.com/track/4Cjlg0MKu53vqeyLif4n44) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:02 |
-| 49 | [ROMPEU O COURO.](https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 4:30 |
+| 49 | [250 por rota](https://open.spotify.com/track/0nUkYjnUoksBaNa3MI66TF) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [TESTEMUNHAS DE TOKIODK](https://open.spotify.com/album/1g8temqrqRrpKmE07A6CLA) | 3:37 |
 | 50 | [Pessoas](https://open.spotify.com/track/6R92Hn1Zpy1FL5nrTQJxPu) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5) | 3:37 |
 
-Snapshot ID: `ZyQaAAAAAAAN2Fwiesbzyn8uWEzgKLpE`
+Snapshot ID: `ZyVrgAAAAAAiJoXbvOTCGqhVCw2MMD52`

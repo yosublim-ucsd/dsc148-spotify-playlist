@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 132517,
+  "num_followers": 132542,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-09-27 05:21:28",
       "album": {
+        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "\u307e\u305f\u305f\u304d",
+      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
+    },
+    {
+      "added_at": "2024-09-27 05:21:28",
+      "album": {
         "name": "\u7dba\u9e97",
         "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
       },
@@ -871,38 +887,6 @@
     {
       "added_at": "2024-09-27 05:21:28",
       "album": {
-        "name": "\u306f\u306a\u3088\u3069",
-        "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
-      },
-      "artists": [
-        {
-          "name": "Natsuko Nisshoku",
-          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
-        }
-      ],
-      "duration_ms": 261282,
-      "name": "\u3084\u3048",
-      "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
-    },
-    {
-      "added_at": "2024-09-27 05:21:28",
-      "album": {
-        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "\u307e\u305f\u305f\u304d",
-      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
-    },
-    {
-      "added_at": "2024-09-27 05:21:28",
-      "album": {
         "name": "What are you looking for",
         "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 401173,
       "name": "\u304a\u3042\u3044\u3053",
       "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
+    },
+    {
+      "added_at": "2024-09-27 05:21:28",
+      "album": {
+        "name": "\u306f\u306a\u3088\u3069",
+        "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
+      },
+      "artists": [
+        {
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
+        }
+      ],
+      "duration_ms": 261282,
+      "name": "\u3084\u3048",
+      "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
     },
     {
       "added_at": "2024-09-27 05:21:28",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-09-27 05:21:28",
       "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 128291,
-      "name": "Quarantine Mood",
-      "url": "https://open.spotify.com/track/0NZ2L0uKmzVAwgxWvwaPpw"
-    },
-    {
-      "added_at": "2024-09-27 05:21:28",
-      "album": {
         "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
         "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 245746,
       "name": "\u5e0c\u671b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
+    },
+    {
+      "added_at": "2024-09-27 05:21:28",
+      "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 128291,
+      "name": "Quarantine Mood",
+      "url": "https://open.spotify.com/track/0NZ2L0uKmzVAwgxWvwaPpw"
     },
     {
       "added_at": "2024-09-27 05:21:28",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-09-27 05:21:28",
       "album": {
-        "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
-        "url": "https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC"
-      },
-      "artists": [
-        {
-          "name": "\u771e\u540d\u5b50 \u65b0",
-          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
-        }
-      ],
-      "duration_ms": 134015,
-      "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
-      "url": "https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF"
-    },
-    {
-      "added_at": "2024-09-27 05:21:28",
-      "album": {
         "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
         "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2024-09-27 05:21:28",
       "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+        "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
+        "url": "https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC"
       },
       "artists": [
         {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+          "name": "\u771e\u540d\u5b50 \u65b0",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
         }
       ],
-      "duration_ms": 287827,
-      "name": "\u7a93",
-      "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
+      "duration_ms": 134015,
+      "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF"
     },
     {
       "added_at": "2024-09-27 05:21:28",
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2024-09-27 05:21:28",
       "album": {
-        "name": "Freeway",
-        "url": "https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u"
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
       },
       "artists": [
         {
-          "name": "\u3093oon",
-          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
         }
       ],
-      "duration_ms": 230204,
-      "name": "Tokyo Family Restaurant",
-      "url": "https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE"
+      "duration_ms": 287827,
+      "name": "\u7a93",
+      "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
     },
     {
       "added_at": "2024-09-27 05:21:28",
@@ -1515,6 +1499,22 @@
       "duration_ms": 249940,
       "name": "reiji no machi",
       "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
+    },
+    {
+      "added_at": "2024-09-27 05:21:28",
+      "album": {
+        "name": "Freeway",
+        "url": "https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u"
+      },
+      "artists": [
+        {
+          "name": "\u3093oon",
+          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
+        }
+      ],
+      "duration_ms": 230204,
+      "name": "Tokyo Family Restaurant",
+      "url": "https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE"
     },
     {
       "added_at": "2024-09-27 05:21:28",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-09-27 05:21:28",
       "album": {
-        "name": "Flavor Of Life",
-        "url": "https://open.spotify.com/album/539IJjkQjkvYazzzCA9gPX"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 417803,
-      "name": "Flavor Of Life",
-      "url": "https://open.spotify.com/track/2Ss4fzhZw5TMgdoZzRbQOk"
-    },
-    {
-      "added_at": "2024-09-27 05:21:28",
-      "album": {
         "name": "moonlight",
         "url": "https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 199333,
       "name": "moonlight",
       "url": "https://open.spotify.com/track/6XFHr2ZCgyndx3LO47kEyL"
+    },
+    {
+      "added_at": "2024-09-27 05:21:28",
+      "album": {
+        "name": "Flavor Of Life",
+        "url": "https://open.spotify.com/album/539IJjkQjkvYazzzCA9gPX"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 417803,
+      "name": "Flavor Of Life",
+      "url": "https://open.spotify.com/track/2Ss4fzhZw5TMgdoZzRbQOk"
     },
     {
       "added_at": "2024-09-27 05:21:28",

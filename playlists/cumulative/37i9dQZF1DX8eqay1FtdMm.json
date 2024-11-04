@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 194998,
       "name": "Dedicated 2 U",
       "url": "https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ"
@@ -9905,24 +9905,6 @@
     },
     {
       "album": {
-        "name": "\uc815\uc778 Jung In from Andromeda",
-        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
-      },
-      "artists": [
-        {
-          "name": "Jung In",
-          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
-        }
-      ],
-      "date_added": "2023-12-01",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
-      "duration_ms": 202946,
-      "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
-      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
-    },
-    {
-      "album": {
         "name": "\ub098\uc758 \uaca8\uc6b8",
         "url": "https://open.spotify.com/album/7m8rPBnClStMMpVT7BXt9y"
       },
@@ -10274,6 +10256,24 @@
       "duration_ms": 251253,
       "name": "\ub3d9\ud589",
       "url": "https://open.spotify.com/track/26UHIMqrtQsEVvxRNJXYFa"
+    },
+    {
+      "album": {
+        "name": "\uc815\uc778 Jung In from Andromeda",
+        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202946,
+      "name": "\ubbf8\uc6cc\uc694 I Hate You",
+      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
     },
     {
       "album": {

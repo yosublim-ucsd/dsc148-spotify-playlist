@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 246285,
+  "num_followers": 246544,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,38 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 267626,
+      "name": "Boneyizm",
+      "url": "https://open.spotify.com/track/4kUwH75A8Dc6PxA3Kl0Yif"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "A Mother's Lullaby",
+        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 197125,
+      "name": "A Mother\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
         "name": "Sudden Burst Of Energy",
         "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
       },
@@ -167,38 +199,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 267626,
-      "name": "Boneyizm",
-      "url": "https://open.spotify.com/track/4kUwH75A8Dc6PxA3Kl0Yif"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
-        "name": "A Mother's Lullaby",
-        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 197125,
-      "name": "A Mother\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Love and Paragraphs",
         "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
       },
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Babysoul",
-        "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 284986,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Porch Java",
         "url": "https://open.spotify.com/album/4sM3uDXvdN0qZ3KIrtVGGY"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 215435,
       "name": "Porch Java",
       "url": "https://open.spotify.com/track/11m6UgxZF4ZfDQ50eN9bYs"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Babysoul",
+        "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 284986,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Send One Your Love",
-        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Perfect Moment",
         "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 301240,
       "name": "Mr. Groove",
       "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "Midnight At The Oasis",
-      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Next Journey",
         "url": "https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 183250,
       "name": "Next Journey",
       "url": "https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Midnight At The Oasis",
+      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 256295,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 233666,
       "name": "Straight to the Heart",
       "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "duration_ms": 256295,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Working Buttons",
-        "url": "https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe"
-      },
-      "artists": [
-        {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
-        }
-      ],
-      "duration_ms": 270025,
-      "name": "Working Buttons",
-      "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Force Field",
         "url": "https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 309826,
       "name": "Revelation Of The Heart",
       "url": "https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Working Buttons",
+        "url": "https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 270025,
+      "name": "Working Buttons",
+      "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
+        "name": "Grinnell Street",
+        "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
+      },
+      "artists": [
+        {
+          "name": "Citronium",
+          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
+        }
+      ],
+      "duration_ms": 235696,
+      "name": "Grinnell Street",
+      "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
         "name": "Paks",
         "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Grinnell Street",
-        "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
+        "name": "Peas And Carrots",
+        "url": "https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK"
       },
       "artists": [
         {
-          "name": "Citronium",
-          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
         }
       ],
-      "duration_ms": 235696,
-      "name": "Grinnell Street",
-      "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
+      "duration_ms": 184000,
+      "name": "Peas And Carrots",
+      "url": "https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -815,22 +831,6 @@
       "duration_ms": 195333,
       "name": "Little Tokyo",
       "url": "https://open.spotify.com/track/6KH7ps7H92gdLQcfIHpoc6"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
-        "name": "Peas And Carrots",
-        "url": "https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK"
-      },
-      "artists": [
-        {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Peas And Carrots",
-      "url": "https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -947,22 +947,18 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
       },
       "artists": [
         {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        },
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
         }
       ],
-      "duration_ms": 236960,
-      "name": "Two of a Kind (feat. Chuck Loeb)",
-      "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
+      "duration_ms": 329346,
+      "name": "Rozil",
+      "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -983,34 +979,22 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
       "artists": [
         {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        }
-      ],
-      "duration_ms": 329346,
-      "name": "Rozil",
-      "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
-      },
-      "artists": [
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Out'a Nowhere",
-      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
+      "duration_ms": 236960,
+      "name": "Two of a Kind (feat. Chuck Loeb)",
+      "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1027,6 +1011,22 @@
       "duration_ms": 166377,
       "name": "On Top Of Your Game",
       "url": "https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Out'a Nowhere",
+      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Saturday Cool",
-      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 244874,
       "name": "The Last Kiss",
       "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Saturday Cool",
+      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
+        "name": "Howling At The Moon",
+        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
+      },
+      "artists": [
+        {
+          "name": "Josie Stalilao",
+          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
+        }
+      ],
+      "duration_ms": 215291,
+      "name": "Howling At The Moon",
+      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
         "name": "In The Moment",
         "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
       },
@@ -1231,34 +1247,18 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
       },
       "artists": [
         {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
         }
       ],
-      "duration_ms": 308346,
-      "name": "Love To All",
-      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
-        "name": "Howling At The Moon",
-        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
-      },
-      "artists": [
-        {
-          "name": "Josie Stalilao",
-          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
-        }
-      ],
-      "duration_ms": 215291,
-      "name": "Howling At The Moon",
-      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
+      "duration_ms": 280866,
+      "name": "Lover For Life",
+      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
       },
       "artists": [
         {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 280866,
-      "name": "Lover For Life",
-      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
+      "duration_ms": 308346,
+      "name": "Love To All",
+      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Smooth Jazz Radio Hits Volume Two",
-        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
-      },
-      "artists": [
-        {
-          "name": "Gota",
-          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "In The City Life",
-      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Pineapple",
         "url": "https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 216144,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Smooth Jazz Radio Hits Volume Two",
+        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
+      },
+      "artists": [
+        {
+          "name": "Gota",
+          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "In The City Life",
+      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Show Me The Way",
-      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/00D7sHveDqx8HwneqBVvq0"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 184875,
       "name": "Echoes Of Hollywood",
       "url": "https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Show Me The Way",
+      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Big Jon",
-        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
+        "name": "Smooth Lines",
+        "url": "https://open.spotify.com/album/46cSsCZNSPKDCuDXtLvGZJ"
       },
       "artists": [
         {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+          "name": "Irvine",
+          "url": "https://open.spotify.com/artist/3AXCBCm78dD72ONT759Msq"
         }
       ],
-      "duration_ms": 230886,
-      "name": "Big Jon",
-      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
+      "duration_ms": 162000,
+      "name": "Smooth Lines",
+      "url": "https://open.spotify.com/track/37wOzVfpUxcs7yf2OdxE1R"
     },
     {
       "added_at": "2024-10-08 11:46:38",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0vazKoFv2TDrHUfBarjJ0n">Boy Blue</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-47 songs - 2 hr 5 min
+48 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [If You're Gonna Leave](https://open.spotify.com/track/0kWQkRj6pUnZkfYd5vC3uM) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [If You're Gonna Leave](https://open.spotify.com/album/7ClqmH7mHLiaboyJXNpdyb) | 3:05 | 2024-01-29 |  |
 | [If You’re Gonna Leave \- Bvrnout Remix](https://open.spotify.com/track/0orIbg5joaGx2SVelTEXxJ) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU) | [If You’re Gonna Leave \(Bvrnout Remix\)](https://open.spotify.com/album/1QDU362NUzDMuDwNDZbIN8) | 3:05 | 2024-01-29 |  |
 | [Irresponsible](https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:04 | 2024-01-29 |  |
+| [JUICE BOX](https://open.spotify.com/track/6oZafL1or65dWK6OwYSM0u) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [JUICE BOX](https://open.spotify.com/album/2XChtb4PHji5kdYRaEHY4n) | 1:54 | 2024-11-03 |  |
 | [Keep It Moving](https://open.spotify.com/track/1snB7DZSDXs8FizxMf9Z6T) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 2:09 | 2024-01-29 |  |
 | [London's Calling](https://open.spotify.com/track/6PMc3WtyzVGmnHCEWlmIbW) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [London's Calling](https://open.spotify.com/album/3PeetJ2MUzFszFdrAI8Bda) | 2:23 | 2024-01-29 |  |
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-05-10 |  |

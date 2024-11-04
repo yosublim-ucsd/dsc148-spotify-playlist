@@ -3589,6 +3589,28 @@
     },
     {
       "album": {
+        "name": "Monster (Deluxe)",
+        "url": "https://open.spotify.com/album/4OwY7UUFCdDugJaKFNSkCd"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        },
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2024-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159825,
+      "name": "The Wrong Party",
+      "url": "https://open.spotify.com/track/3zpUhSVw7S1lD6okDqZ2yX"
+    },
+    {
+      "album": {
         "name": "The Wrong Party (with Fitz and The Tantrums)",
         "url": "https://open.spotify.com/album/7d93DGgzIxU4mP3V71xO7D"
       },
@@ -3604,7 +3626,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-04",
       "duration_ms": 159825,
       "name": "The Wrong Party (with Fitz and The Tantrums)",
       "url": "https://open.spotify.com/track/0CZ4WDvSa2YyTei18Tapjd"

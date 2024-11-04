@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 264264,
+  "num_followers": 264273,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAACs0HLs1pAMwwbGDhwOQZLS",
+  "snapshot_id": "ZyVrgAAAAABtb+Nmp8U1L4LRgUPQbUV5",
   "tracks": [
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 338218,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can\u00e7\u00e3o do C\u00e9u (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 499584,
       "name": "Can\u00e7\u00e3o do C\u00e9u - Ao vivo",
       "url": "https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 338218,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agnus Dei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xyj8syjIH4Mlg1ZrnBzxF"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 286452,
-      "name": "Agnus Dei - Ao Vivo",
-      "url": "https://open.spotify.com/track/16hnXXqWrwbQGoNtvLx72r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
       },
@@ -911,22 +895,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Lembro (feat. Gabriela Rocha) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/466xz1jfDwRSeHZxxLXpsw"
+        "name": "Agnus Dei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xyj8syjIH4Mlg1ZrnBzxF"
       },
       "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 535931,
-      "name": "Me Lembro (feat. Gabriela Rocha) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2no4Dq2nbKKTjpraKC8Hq1"
+      "duration_ms": 286452,
+      "name": "Agnus Dei - Ao Vivo",
+      "url": "https://open.spotify.com/track/16hnXXqWrwbQGoNtvLx72r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bondade de Deus",
+        "url": "https://open.spotify.com/album/5qfRfNDrvKsUxYwRRixEWv"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 282081,
+      "name": "Bondade de Deus",
+      "url": "https://open.spotify.com/track/45rrbhJ6P5CbZWCotd8Hwe"
     }
   ],
   "unique_name": "This Is Gabriela Rocha",

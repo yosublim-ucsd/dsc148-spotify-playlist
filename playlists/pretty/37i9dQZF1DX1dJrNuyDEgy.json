@@ -1,6 +1,6 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 220254,
+  "num_followers": 220271,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-09-02 21:05:47",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "La bikina - En vivo",
-      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
-    },
-    {
-      "added_at": "2024-09-02 21:05:47",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -155,38 +139,6 @@
     {
       "added_at": "2024-09-02 21:05:47",
       "album": {
-        "name": "La Historia Continua Parte III",
-        "url": "https://open.spotify.com/album/4BaK6FirPB275verCcwNJF"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 276413,
-      "name": "Pirekua Michoacana",
-      "url": "https://open.spotify.com/track/2sjvUMD1MEGtiU5CVNWzb0"
-    },
-    {
-      "added_at": "2024-09-02 21:05:47",
-      "album": {
-        "name": "M\u00fasica de America",
-        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx"
-    },
-    {
-      "added_at": "2024-09-02 21:05:47",
-      "album": {
         "name": "Veracruz Son y Huapango",
         "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
       },
@@ -203,6 +155,54 @@
       "duration_ms": 193453,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs"
+    },
+    {
+      "added_at": "2024-09-02 21:05:47",
+      "album": {
+        "name": "La Historia Continua Parte III",
+        "url": "https://open.spotify.com/album/4BaK6FirPB275verCcwNJF"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 276413,
+      "name": "Pirekua Michoacana",
+      "url": "https://open.spotify.com/track/2sjvUMD1MEGtiU5CVNWzb0"
+    },
+    {
+      "added_at": "2024-09-02 21:05:47",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "La bikina - En vivo",
+      "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
+    },
+    {
+      "added_at": "2024-09-02 21:05:47",
+      "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx"
     },
     {
       "added_at": "2024-09-02 21:05:47",
@@ -239,38 +239,6 @@
     {
       "added_at": "2024-09-02 21:05:47",
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 164413,
-      "name": "La fiesta del mariachi",
-      "url": "https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ"
-    },
-    {
-      "added_at": "2024-09-02 21:05:47",
-      "album": {
-        "name": "Fiesta Mexicana\u201a Puro Mariachi",
-        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "Pelea De Gallos",
-      "url": "https://open.spotify.com/track/0KwhNYri6THMAYVpTBhOCj"
-    },
-    {
-      "added_at": "2024-09-02 21:05:47",
-      "album": {
         "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
         "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
       },
@@ -303,6 +271,22 @@
     {
       "added_at": "2024-09-02 21:05:47",
       "album": {
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 164413,
+      "name": "La fiesta del mariachi",
+      "url": "https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ"
+    },
+    {
+      "added_at": "2024-09-02 21:05:47",
+      "album": {
         "name": "No Que No (Edici\u00f3n De Lujo)",
         "url": "https://open.spotify.com/album/5wFfJdMGqQubs2UEerlVRR"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 115013,
       "name": "La Bartola",
       "url": "https://open.spotify.com/track/0WSgW14LNEGidRni1Qsmr5"
+    },
+    {
+      "added_at": "2024-09-02 21:05:47",
+      "album": {
+        "name": "Fiesta Mexicana\u201a Puro Mariachi",
+        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Pelea De Gallos",
+      "url": "https://open.spotify.com/track/0KwhNYri6THMAYVpTBhOCj"
     },
     {
       "added_at": "2024-09-02 21:05:47",
@@ -399,38 +399,6 @@
     {
       "added_at": "2024-09-02 21:05:47",
       "album": {
-        "name": "Serie 20 Exitos",
-        "url": "https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 128560,
-      "name": "El Carretero Se Va",
-      "url": "https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D"
-    },
-    {
-      "added_at": "2024-09-02 21:05:47",
-      "album": {
-        "name": "Canto A Mi Tierra",
-        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 148793,
-      "name": "Viva Mexico",
-      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
-    },
-    {
-      "added_at": "2024-09-02 21:05:47",
-      "album": {
         "name": "Joan Sebastian Con El Mariachi Vargas",
         "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
       },
@@ -459,6 +427,38 @@
       "duration_ms": 601480,
       "name": "La Bala",
       "url": "https://open.spotify.com/track/2Z5fIjiXs9mewTPp2hvVTR"
+    },
+    {
+      "added_at": "2024-09-02 21:05:47",
+      "album": {
+        "name": "Canto A Mi Tierra",
+        "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
+    },
+    {
+      "added_at": "2024-09-02 21:05:47",
+      "album": {
+        "name": "Fiesta Mexicana\u201a Puro Mariachi",
+        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/5vTCRHPzOIXTPx0Bx6fGhM"
     },
     {
       "added_at": "2024-09-02 21:05:47",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-09-02 21:05:47",
       "album": {
-        "name": "Fiesta Mexicana\u201a Puro Mariachi",
-        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/5vTCRHPzOIXTPx0Bx6fGhM"
-    },
-    {
-      "added_at": "2024-09-02 21:05:47",
-      "album": {
         "name": "Navegar",
         "url": "https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 172826,
       "name": "15 de Septiembre",
       "url": "https://open.spotify.com/track/21yxW3iXPbxEpa5FRILbdF"
+    },
+    {
+      "added_at": "2024-09-02 21:05:47",
+      "album": {
+        "name": "Serie 20 Exitos",
+        "url": "https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 128560,
+      "name": "El Carretero Se Va",
+      "url": "https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D"
     },
     {
       "added_at": "2024-09-02 21:05:47",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-09-02 21:05:47",
       "album": {
+        "name": "El Rey",
+        "url": "https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 194835,
+      "name": "Caminos de Guanajuato",
+      "url": "https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd"
+    },
+    {
+      "added_at": "2024-09-02 21:05:47",
+      "album": {
         "name": "La Reina de la Canci\u00f3n Mexicana",
         "url": "https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2024-09-02 21:05:47",
       "album": {
-        "name": "El Rey",
-        "url": "https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf"
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 194835,
-      "name": "Caminos de Guanajuato",
-      "url": "https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd"
+      "duration_ms": 324365,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima"
     },
     {
       "added_at": "2024-09-02 21:05:47",
@@ -731,22 +747,6 @@
       "duration_ms": 149040,
       "name": "El Barrilito",
       "url": "https://open.spotify.com/track/7fHRTqhAnc4N8oO3v8erz7"
-    },
-    {
-      "added_at": "2024-09-02 21:05:47",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 324365,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima"
     },
     {
       "added_at": "2024-09-02 21:05:47",

@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 24118,
+  "num_followers": 24121,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyQaAAAAAABiIgmRSVUuYqnn4AW6wVvr",
+  "snapshot_id": "ZyVrgAAAAAAh0+K7oa75ldMsOwG5c7qC",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rarezas",
-        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
       "artists": [
-        {
-          "name": "Libido",
-          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
-        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
+      "duration_ms": 283440,
+      "name": "Ponerme a volar",
+      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
     },
     {
       "added_at": null,
@@ -583,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
       },
       "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 283440,
-      "name": "Ponerme a volar",
-      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
+      "duration_ms": 260760,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 207905,
+  "num_followers": 207935,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 172304,
+      "name": "Cemetery",
+      "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "Halloween Costume",
         "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
       },
@@ -363,6 +379,22 @@
       "duration_ms": 149426,
       "name": "Halloween Costume",
       "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Lonely Cowboy",
+        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 203235,
+      "name": "Lonely Cowboy - Radio Edit",
+      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -415,34 +447,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+        "name": "Part Of The Story",
+        "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Emma Jensen",
+          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
         }
       ],
-      "duration_ms": 172304,
-      "name": "Cemetery",
-      "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Lonely Cowboy",
-        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 203235,
-      "name": "Lonely Cowboy - Radio Edit",
-      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+      "duration_ms": 187173,
+      "name": "Part Of The Story",
+      "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -459,22 +475,6 @@
       "duration_ms": 331785,
       "name": "Desert",
       "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Part Of The Story",
-        "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
-      },
-      "artists": [
-        {
-          "name": "Emma Jensen",
-          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Part Of The Story",
-      "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "I Live After I Died",
+        "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
+      },
+      "artists": [
+        {
+          "name": "Sofia Dragt",
+          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
+        }
+      ],
+      "duration_ms": 164083,
+      "name": "I Live After I Died",
+      "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "Have This Dance",
         "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "The State of the World",
-        "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
-      },
-      "artists": [
-        {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
-        }
-      ],
-      "duration_ms": 258880,
-      "name": "The State of the World",
-      "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Viking Fair",
         "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 67112,
       "name": "Viking Fair",
       "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "The State of the World",
+        "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "duration_ms": 258880,
+      "name": "The State of the World",
+      "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -707,18 +723,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "I Live After I Died",
-        "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
       },
       "artists": [
         {
-          "name": "Sofia Dragt",
-          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
+          "name": "Red Langur",
+          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
         }
       ],
-      "duration_ms": 164083,
-      "name": "I Live After I Died",
-      "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
+      "duration_ms": 172007,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -743,18 +759,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
+        "name": "Ordna sig",
+        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
       },
       "artists": [
         {
-          "name": "Red Langur",
-          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 172007,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
+      "duration_ms": 151072,
+      "name": "Ordna sig",
+      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -823,22 +839,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Ordna sig",
-        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 151072,
-      "name": "Ordna sig",
-      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Doves",
         "url": "https://open.spotify.com/album/1jZSsjU84SBeiLlk7iQs65"
       },
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Lucy Rider",
-        "url": "https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve"
-      },
-      "artists": [
-        {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        },
-        {
-          "name": "Katie Melua",
-          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Lucy Rider",
-      "url": "https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 176793,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Lucy Rider",
+        "url": "https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        },
+        {
+          "name": "Katie Melua",
+          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Lucy Rider",
+      "url": "https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24"
     },
     {
       "added_at": "2024-10-17 22:00:00",

@@ -4,7 +4,7 @@
 
 > Songs that are queer\. TO ME.
 
-23 songs - 1 hr 18 min
+24 songs - 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 | 2024-10-09 |  |
 | [Doing Alright with the Boys](https://open.spotify.com/track/3bEbNVEnYpcg6Lp2X3WCah) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:38 | 2024-10-12 |  |
 | [Don't Bring Me Down](https://open.spotify.com/track/3b5FY5QJnk1TNJeQO8DsvG) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [All Over The World: The Very Best Of ELO](https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB) | 4:03 | 2024-01-02 |  |
+| [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 | 2024-11-02 |  |
 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 | 2024-05-28 |  |
 | [Everyone Knows](https://open.spotify.com/track/2DcLxXXy8B7ZzCrZa4QG4M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 3:13 | 2024-10-12 |  |
 | [Gay Boyfriend](https://open.spotify.com/track/38c9OMcQnx2QnVLUB2QPPS) | [Garfunkel and Oates](https://open.spotify.com/artist/2wZcAibn3pVsNvp95HQx8n) | [All Over Your Face](https://open.spotify.com/album/0HnrWJFUe3C9LMyIVdUNUP) | 2:56 | 2024-04-26 |  |

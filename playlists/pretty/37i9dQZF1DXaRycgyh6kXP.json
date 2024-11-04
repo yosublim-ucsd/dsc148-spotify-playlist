@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 238734,
+  "num_followers": 238870,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
+        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
+        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 195384,
+      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
+    },
+    {
+      "added_at": "2024-10-25 13:48:40",
+      "album": {
         "name": "Bee and PuppyCat (Soundtrack from the Netflix Series) Vol. 2",
         "url": "https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 151548,
       "name": "Storm / Mom",
       "url": "https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA"
-    },
-    {
-      "added_at": "2024-10-25 13:48:40",
-      "album": {
-        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
-        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 195384,
-      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
     },
     {
       "added_at": "2024-10-25 13:48:40",
@@ -643,6 +643,22 @@
       "duration_ms": 389186,
       "name": "Faith in Strangers",
       "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
+    },
+    {
+      "added_at": "2024-10-25 13:48:40",
+      "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
     },
     {
       "added_at": "2024-10-25 13:48:40",
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
-        "name": "Playing Robots Into Heaven",
-        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
-    },
-    {
-      "added_at": "2024-10-25 13:48:40",
-      "album": {
         "name": "Light Shines Through",
         "url": "https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 252735,
       "name": "Inspirit",
       "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
+    },
+    {
+      "added_at": "2024-10-25 13:48:40",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2024-10-25 13:48:40",
@@ -807,22 +823,6 @@
       "duration_ms": 236260,
       "name": "Call",
       "url": "https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO"
-    },
-    {
-      "added_at": "2024-10-25 13:48:40",
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2024-10-25 13:48:40",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "runnersz",
-      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
-    },
-    {
-      "added_at": "2024-10-25 13:48:40",
-      "album": {
         "name": "Because of a Flower",
         "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "runnersz",
+      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
+    },
+    {
+      "added_at": "2024-10-25 13:48:40",
+      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
-        "name": "Encores 2",
-        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
-    },
-    {
-      "added_at": "2024-10-25 13:48:40",
-      "album": {
         "name": "I Lost My Body (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 167986,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
+    },
+    {
+      "added_at": "2024-10-25 13:48:40",
+      "album": {
+        "name": "Encores 2",
+        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
     },
     {
       "added_at": "2024-10-25 13:48:40",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
-        "name": "FTLOG",
-        "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 247869,
-      "name": "FTLOG",
-      "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
-    },
-    {
-      "added_at": "2024-10-25 13:48:40",
-      "album": {
         "name": "If You Love Her (Private Agenda Remix)",
         "url": "https://open.spotify.com/album/6IGhR8LbCzR5lj8TyunJmZ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 244019,
       "name": "If You Love Her - Private Agenda Remix",
       "url": "https://open.spotify.com/track/6I4ABgetb4Q4vYXyq1JcxK"
+    },
+    {
+      "added_at": "2024-10-25 13:48:40",
+      "album": {
+        "name": "FTLOG",
+        "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 247869,
+      "name": "FTLOG",
+      "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
     },
     {
       "added_at": "2024-10-25 13:48:40",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
-        "name": "Grafts",
-        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 1351601,
-      "name": "Grafts",
-      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
-    },
-    {
-      "added_at": "2024-10-25 13:48:40",
-      "album": {
         "name": "Holding Hands",
         "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 170420,
       "name": "Holding Hands",
       "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
+    },
+    {
+      "added_at": "2024-10-25 13:48:40",
+      "album": {
+        "name": "Grafts",
+        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 1351601,
+      "name": "Grafts",
+      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
     },
     {
       "added_at": "2024-10-25 13:48:40",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 596773,
-      "name": "Immunity",
-      "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
-    },
-    {
-      "added_at": "2024-10-25 13:48:40",
-      "album": {
         "name": "Syro",
         "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 321880,
       "name": "aisatsana [102]",
       "url": "https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3"
+    },
+    {
+      "added_at": "2024-10-25 13:48:40",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 596773,
+      "name": "Immunity",
+      "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
     },
     {
       "added_at": "2024-10-25 13:48:40",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
-    },
-    {
-      "added_at": "2024-10-25 13:48:40",
-      "album": {
         "name": "The Noise Made By People",
         "url": "https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 192000,
       "name": "Echo's Answer",
       "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
+    },
+    {
+      "added_at": "2024-10-25 13:48:40",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
     },
     {
       "added_at": "2024-10-25 13:48:40",

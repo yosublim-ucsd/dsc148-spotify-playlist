@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 57197,
+  "num_followers": 57254,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Crazy Blues: The Best Of Mamie Smith",
         "url": "https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Early One Mornin\u2019 Blues (Live)",
-        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Early One Mornin\u2019 Blues - Live",
-      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "The Essential Billie Holiday",
         "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 157960,
       "name": "Billie's Blues - Take 1",
       "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Hot Boppin Girls Vol. 1",
-        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "As Long as I\u00b4m Moving",
-      "url": "https://open.spotify.com/track/40x5fk9CvdmZKeABp3hKfN"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -639,18 +623,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+        "name": "Hot Boppin Girls Vol. 1",
+        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
       },
       "artists": [
         {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
         }
       ],
-      "duration_ms": 285400,
-      "name": "Back Water Blues",
-      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
+      "duration_ms": 161610,
+      "name": "As Long as I\u00b4m Moving",
+      "url": "https://open.spotify.com/track/40x5fk9CvdmZKeABp3hKfN"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -667,6 +651,22 @@
       "duration_ms": 134240,
       "name": "A Little Bird Told Me",
       "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 285400,
+      "name": "Back Water Blues",
+      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Sings... Me And The Blues",
-        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
-      },
-      "artists": [
-        {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Don't Worry 'Bout Strangers",
-      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "The Complete Okeh Sessions 1952-1955",
         "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 214293,
       "name": "I'm Getting 'Long Alright",
       "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Sings... Me And The Blues",
+        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Don't Worry 'Bout Strangers",
+      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "The Blues Mama",
+        "url": "https://open.spotify.com/album/6XBPbT1jHLKJpvkfAW4cuZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Green",
+          "url": "https://open.spotify.com/artist/54n9JL6NVGHuhXqU2DSbMS"
+        }
+      ],
+      "duration_ms": 204225,
+      "name": "Romance in the Dark",
+      "url": "https://open.spotify.com/track/0o99WPCOktWokBuqRDjf0p"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Milestones of Legends - Female Blues, Vol. 1",
         "url": "https://open.spotify.com/album/1tooc4z8lEcb5g3bXqwlwJ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 183667,
       "name": "I Crave Your Lovin' Every Day",
       "url": "https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "The Blues Mama",
-        "url": "https://open.spotify.com/album/6XBPbT1jHLKJpvkfAW4cuZ"
-      },
-      "artists": [
-        {
-          "name": "Lil Green",
-          "url": "https://open.spotify.com/artist/54n9JL6NVGHuhXqU2DSbMS"
-        }
-      ],
-      "duration_ms": 204225,
-      "name": "Romance in the Dark",
-      "url": "https://open.spotify.com/track/0o99WPCOktWokBuqRDjf0p"
     },
     {
       "added_at": "2024-06-02 16:39:20",
