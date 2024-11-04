@@ -1,4 +1,4 @@
-## Playlists \(8245\)
+## Playlists \(8246\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -462,6 +462,7 @@
 - [Alta Rotazione](/playlists/pretty/37i9dQZF1DX01NP73ErE8b.md)
 - [Altar](/playlists/pretty/37i9dQZF1DXa71eg5j9dKZ.md)
 - [Altar JP](/playlists/pretty/37i9dQZF1DXbiEfzyzIRj9.md)
+- [Alte Schule](/playlists/pretty/37i9dQZF1DX8ENQ5d8ERww.md)
 - [Alternative 00s](/playlists/pretty/37i9dQZF1DX0YKekzl0blG.md)
 - [Alternative 10s](/playlists/pretty/37i9dQZF1DX873GaRGUmPl.md)
 - [Alternative 2024](/playlists/pretty/37i9dQZF1DX6MUrG3NBYtM.md)
